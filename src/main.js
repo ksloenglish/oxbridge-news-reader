@@ -533,6 +533,17 @@ function render() {
   renderCard();
 }
 
+function scrollViewToTop() {
+  const reset = () => {
+    window.scrollTo(0, 0);
+    document.documentElement.scrollTop = 0;
+    document.body.scrollTop = 0;
+    for (const el of app.querySelectorAll(".pane, .word-list")) el.scrollTop = 0;
+  };
+  reset();
+  requestAnimationFrame(reset);
+}
+
 function speak(text) {
   if (!window.speechSynthesis || !text) return;
   const utterance = new SpeechSynthesisUtterance(text);
@@ -552,10 +563,13 @@ function speak(text) {
 app.addEventListener("click", (event) => {
   const section = event.target.closest("[data-section]");
   if (section) {
-    ui.section = section.dataset.section;
+    const next = section.dataset.section;
+    const changed = next !== ui.section;
+    ui.section = next;
     openHit = null;
     persist();
     render();
+    if (changed) scrollViewToTop();
     return;
   }
   const highlight = event.target.closest("[data-highlight]");
