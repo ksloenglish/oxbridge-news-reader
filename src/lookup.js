@@ -606,6 +606,34 @@ export function annotate(text, lex, activeLevels) {
   return parts;
 }
 
+/**
+ * Highlighted lemmas for Word Lists.
+ * One row per dictionary headword at each active level. The label is the
+ * lemma (`disrupt`), not the surface form in the article (`disrupting`).
+ * @returns {{ level: string, items: { lemma: string, pos: string, hit: object }[] }[]}
+ */
+export function wordListsByLevel(parts, activeLevels) {
+  const allow = activeLevels instanceof Set ? activeLevels : new Set(activeLevels || []);
+  const grouped = new Map();
+  for (const part of parts || []) {
+    if (part?.type !== "hit") continue;
+    for (const entry of part.hit?.reading || []) {
+      for (const sense of entry.senses || []) {
+        if (!allow.has(sense.cefr)) continue;
+        if (!grouped.has(sense.cefr)) grouped.set(sense.cefr, new Map());
+        const bucket = grouped.get(sense.cefr);
+        if (bucket.has(entry.key)) continue;
+        const pos = sense.pos || (entry.pos || []).find(Boolean) || "";
+        bucket.set(entry.key, { lemma: entry.word || entry.key, pos, hit: part.hit });
+      }
+    }
+  }
+  return LEVELS.filter((level) => grouped.has(level)).map((level) => ({
+    level,
+    items: [...grouped.get(level).values()].sort((a, b) => a.lemma.localeCompare(b.lemma, "en", { sensitivity: "base" })),
+  }));
+}
+
 /** Occurrence counts for highlighted tokens, only at levels in the active set. */
 export function countHighlightedLevels(text, lex, activeLevels) {
   const counts = Object.fromEntries(LEVELS.map((level) => [level, 0]));

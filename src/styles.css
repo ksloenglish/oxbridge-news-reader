@@ -384,7 +384,7 @@ button.token.solid[data-level="B1"] { background: var(--b1-bg); box-shadow: inse
 button.token.solid[data-level="B2"] { background: var(--b2-bg); box-shadow: inset 0 -2px 0 var(--b2); }
 button.token.solid[data-level="C1"] { background: var(--c1-bg); box-shadow: inset 0 -2px 0 var(--c1); }
 button.token.solid[data-level="C2"] { background: var(--c2-bg); box-shadow: inset 0 -2px 0 var(--c2); }
-button.token:focus-visible, .nav button:focus-visible, .level:focus-visible, .story:focus-visible, .solid:focus-visible, .ghost:focus-visible, .back-stories:focus-visible {
+button.token:focus-visible, .nav button:focus-visible, .level:focus-visible, .story:focus-visible, .solid:focus-visible, .ghost:focus-visible, .back-stories:focus-visible, .lemma-chip:focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 2px;
 }
@@ -546,6 +546,90 @@ button.token:focus-visible, .nav button:focus-visible, .level:focus-visible, .st
   font-weight: 700;
 }
 .cefr-summary .quiet { margin: 0; }
+
+.word-lists { margin-top: 1.35rem; }
+.word-lists h3 {
+  margin: 0 0 0.65rem;
+  font-size: 0.82rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 700;
+}
+.word-lists > .quiet { margin: 0; }
+.level-card {
+  margin: 0 0 0.75rem;
+  border: 1px solid var(--line);
+  border-radius: 0.9rem;
+  background: var(--card);
+  overflow: hidden;
+}
+.level-card[data-level="A1"] { --level: var(--a1); --level-bg: var(--a1-bg); }
+.level-card[data-level="A2"] { --level: var(--a2); --level-bg: var(--a2-bg); }
+.level-card[data-level="B1"] { --level: var(--b1); --level-bg: var(--b1-bg); }
+.level-card[data-level="B2"] { --level: var(--b2); --level-bg: var(--b2-bg); }
+.level-card[data-level="C1"] { --level: var(--c1); --level-bg: var(--c1-bg); }
+.level-card[data-level="C2"] { --level: var(--c2); --level-bg: var(--c2-bg); }
+.level-card header {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.55rem 0.75rem;
+  background: var(--level-bg);
+  border-bottom: 2px solid var(--level);
+}
+.level-dot {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 99px;
+  background: var(--level);
+  flex: none;
+}
+.level-card h4 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--level);
+}
+.level-tools {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.level-count {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--level);
+  background: color-mix(in srgb, var(--level) 14%, var(--card));
+  border-radius: 999px;
+  padding: 0.12rem 0.55rem;
+}
+.copy-list {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.22rem 0.6rem;
+  font-size: 0.86rem;
+}
+.copy-list svg { width: 0.95rem; height: 0.95rem; display: block; }
+.lemma-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  padding: 0.75rem;
+}
+.lemma-chip {
+  border: 1px solid var(--line);
+  background: var(--paper);
+  border-radius: 999px;
+  padding: 0.18rem 0.65rem;
+  font-weight: 600;
+  font-size: 0.92rem;
+}
+.lemma-chip .pos { color: var(--muted); font-weight: 600; }
 
 .confirm-wipe {
   margin: 0.8rem 0;

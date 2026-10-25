@@ -33,7 +33,7 @@ The production preview is http://127.0.0.1:4173/oxbridge-news-reader/.
 
 ## Sections
 
-- **News Desk** — source picker, story list, full text. The default source is **RTHK English News**: all five RTHK English channels (Local, Greater China, World, Finance, Sport). **Refresh** reloads the published article snapshot and shows the current source again. The open story ends with a count of highlighted words for each selected CEFR level. **All** turns every highlight level on, or off when every level is already on.
+- **News Desk** — source picker, story list, full text. The default source is **RTHK English News**: all five RTHK English channels (Local, Greater China, World, Finance, Sport). **Refresh** reloads the published article snapshot and shows the current source again. The open story ends with a count of highlighted words for each selected CEFR level, then **Word Lists**: one card per selected level that has a match, using the same six CEFR colours. Each chip is the dictionary lemma and its part of speech (`disrupt (v)`, not `disrupting`). **Copy** puts those lines on the clipboard. Clicking a chip opens the same word card as a highlight in the text. **All** turns every highlight level on, or off when every level is already on.
 - **Word Bank** — words you save in this browser. Filter by CEFR, open a word, export CSV. **All** selects or clears every level. **Remove** asks before deleting one saved word. **Delete all** asks for confirmation, then removes every saved word. Levels with no saved words are greyed out. The word list scrolls inside a capped height. Highlight chips stay on News Desk only.
 - **About** — what the desk does, and the publisher disclaimer.
 
