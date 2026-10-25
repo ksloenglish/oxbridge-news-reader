@@ -599,6 +599,100 @@ function scrollViewToTop() {
   requestAnimationFrame(reset);
 }
 
+function scrollSnapshot() {
+  return {
+    x: window.scrollX,
+    y: window.scrollY,
+    panes: [...app.querySelectorAll(".pane, .word-list")].map((el) => ({
+      key: el.className,
+      top: el.scrollTop,
+    })),
+  };
+}
+
+function applyScrollSnapshot(snapshot) {
+  window.scrollTo(snapshot.x, snapshot.y);
+  document.documentElement.scrollTop = snapshot.y;
+  document.body.scrollTop = snapshot.y;
+  const panes = [...app.querySelectorAll(".pane, .word-list")];
+  const used = new Set();
+  snapshot.panes.forEach((saved, index) => {
+    let match = panes.findIndex((el, i) => !used.has(i) && el.className === saved.key);
+    if (match === -1 && panes[index] && !used.has(index)) match = index;
+    if (match === -1) return;
+    used.add(match);
+    panes[match].scrollTop = saved.top;
+  });
+}
+
+// Keep the page and the story column where they are across a repaint.
+// Rebuilding #app drops the article scroller, and removing the focused
+// chip makes the browser scroll the document back to the top. Section
+// changes still use scrollViewToTop().
+function holdScroll(update) {
+  const snapshot = scrollSnapshot();
+  const mark = () => {
+    for (const el of [document.documentElement, document.body, ...app.querySelectorAll(".pane, .word-list")]) {
+      el.style.overflowAnchor = "none";
+    }
+  };
+  const clear = () => {
+    for (const el of [document.documentElement, document.body, ...app.querySelectorAll(".pane, .word-list")]) {
+      el.style.overflowAnchor = "";
+    }
+  };
+  mark();
+  try {
+    update();
+  } finally {
+    mark();
+    applyScrollSnapshot(snapshot);
+    requestAnimationFrame(() => {
+      applyScrollSnapshot(snapshot);
+      requestAnimationFrame(() => {
+        applyScrollSnapshot(snapshot);
+        clear();
+      });
+    });
+  }
+}
+
+function syncHighlightChips() {
+  for (const button of app.querySelectorAll(".level-row [data-highlight]")) {
+    const level = button.dataset.highlight;
+    const pressed = level === "all" ? everyLevelOn(ui.levels) : Boolean(ui.levels[level]);
+    button.setAttribute("aria-pressed", pressed ? "true" : "false");
+  }
+}
+
+// Repaint highlights in the open story without rebuilding the column,
+// so its scroll offset (and the page's) stay put.
+function refreshNewsHighlights() {
+  syncHighlightChips();
+  const story = app.querySelector("article.reader");
+  if (!story) {
+    renderCard();
+    return;
+  }
+  const article = currentArticles().find((item) => item.id === ui.articleId);
+  const title = story.querySelector(":scope > h2");
+  const body = story.querySelector(":scope > .body");
+  const summaryEl = story.querySelector(":scope > .cefr-summary");
+  const listsEl = story.querySelector(":scope > .word-lists");
+  if (!article || !title || !body || !summaryEl || !listsEl) {
+    const active = document.activeElement;
+    if (active instanceof HTMLElement && active !== document.body) active.blur();
+    render();
+    return;
+  }
+  hits.length = 0;
+  title.innerHTML = renderAnnotated(article.title);
+  body.innerHTML = paragraphs(article.fullText);
+  summaryEl.outerHTML = highlightSummary(article);
+  listsEl.outerHTML = renderWordLists(article);
+  renderCard();
+}
+
 function speak(text) {
   if (!window.speechSynthesis || !text) return;
   const utterance = new SpeechSynthesisUtterance(text);
@@ -629,9 +723,16 @@ app.addEventListener("click", (event) => {
   }
   const highlight = event.target.closest("[data-highlight]");
   if (highlight) {
-    toggleLevel(ui.levels, highlight.dataset.highlight);
-    persist();
-    render();
+    const level = highlight.dataset.highlight;
+    holdScroll(() => {
+      toggleLevel(ui.levels, level);
+      persist();
+      refreshNewsHighlights();
+      if (!openHit) {
+        const chip = [...app.querySelectorAll(".level-row [data-highlight]")].find((button) => button.dataset.highlight === level);
+        if (chip instanceof HTMLElement) chip.focus({ preventScroll: true });
+      }
+    });
     return;
   }
   const bankLevel = event.target.closest("[data-bank]");
