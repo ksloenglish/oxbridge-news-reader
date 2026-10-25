@@ -18,6 +18,7 @@ import {
   partitionSenses,
   posLabel,
   primaryEntry,
+  refreshSavedGlosses,
 } from "./lookup.js";
 import { activeSet, loadUi, loadWords, saveUi, saveWords } from "./storage.js";
 
@@ -925,6 +926,11 @@ Promise.all([
     catalog = readCatalog(feeds);
     bundle = snapshot;
     lex = createLexicon(vocab);
+    const refreshed = refreshSavedGlosses(lex, words);
+    if (refreshed.some((record, index) => record !== words[index])) {
+      words = refreshed;
+      saveWords(words);
+    }
     ui.selection = DEFAULT_SELECTION;
     ui.articleId = null;
     openHit = null;

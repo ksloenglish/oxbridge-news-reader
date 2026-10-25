@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 import test from "node:test";
-import { annotate, countHighlightedLevels, createLexicon, lookupSurface, partitionSenses, wordListsByLevel } from "../src/lookup.js";
+import { annotate, countHighlightedLevels, createLexicon, lookupSurface, partitionSenses, refreshSavedGlosses, wordListsByLevel } from "../src/lookup.js";
 import { formatWordText, hitToRecord, toCsv } from "../src/export.js";
 
 const pack = JSON.parse(await readFile(new URL("../public/data/vocab.json", import.meta.url), "utf8"));
@@ -394,20 +394,39 @@ test("word lists use the lemma and its entry part of speech", () => {
   assert.equal(parts.some((part) => part.type === "hit" && part.text === "disrupting"), true);
 });
 
-test("popup text prefers an English gloss when en is present", () => {
+test("popup text shows Hong Kong Chinese and keeps en in the pack", () => {
   const disrupt = pack.words.disrupt.definitions[0];
   assert.equal(disrupt.en, "to interrupt or stop the normal course or progress of something");
   assert.equal(disrupt.tc, "擾亂、中斷、使不能正常進行、使瓦解");
-  assert.equal(lookupSurface(lex, "disrupt").reading[0].senses[0].text, disrupt.en);
+  const disruptHit = lookupSurface(lex, "disrupt");
+  assert.equal(disruptHit.reading[0].senses[0].text, disrupt.tc);
+  const disruptCopy = formatWordText(hitToRecord(disruptHit), new Set(["C1"]));
+  assert.match(disruptCopy, /擾亂、中斷、使不能正常進行、使瓦解/);
+  assert.doesNotMatch(disruptCopy, /interrupt or stop/);
 
   assert.equal(pack.words.disruption.definitions[0].en, "a break or interruption in the normal way something works");
   assert.equal(pack.words.disruption.definitions[0].tc, "中斷、擾亂、停頓、崩潰、瓦解、分裂");
+  assert.equal(lookupSurface(lex, "disruption").reading[0].senses[0].text, pack.words.disruption.definitions[0].tc);
   assert.equal(pack.words.disruptive.definitions[0].en, "causing problems that stop something continuing normally");
   assert.equal(pack.words.disruptive.definitions[0].tc, "擾亂的、破壞秩序的、破壞性的、分裂的");
+  assert.equal(lookupSurface(lex, "disruptive").reading[0].senses[0].text, pack.words.disruptive.definitions[0].tc);
+
+  const sanction = pack.words.sanction.definitions[0];
+  assert.equal(sanction.en, "an official punishment or trade restriction; official permission");
+  assert.equal(sanction.tc, "制裁、處罰、核准、約束力");
+  const sanctionHit = lookupSurface(lex, "sanction");
+  assert.equal(sanctionHit.reading[0].senses[0].text, sanction.tc);
+  const sanctionRecord = hitToRecord(sanctionHit);
+  const sanctionCopy = formatWordText(sanctionRecord, new Set(["C1"]));
+  assert.match(sanctionCopy, /制裁、處罰、核准、約束力/);
+  assert.doesNotMatch(sanctionCopy, /official punishment/);
+  const sanctionCsv = toCsv([sanctionRecord], new Set(["C1"]));
+  assert.match(sanctionCsv, /制裁、處罰、核准、約束力/);
+  assert.doesNotMatch(sanctionCsv, /official punishment/);
 
   const ing = lookupSurface(lex, "disrupting");
   assert.equal(ing.reading[0].key, "disrupt");
-  assert.equal(ing.reading[0].senses[0].text, disrupt.en);
+  assert.equal(ing.reading[0].senses[0].text, disrupt.tc);
 
   const textOf = (def) => {
     const tiny = createLexicon({
@@ -416,10 +435,22 @@ test("popup text prefers an English gloss when en is present", () => {
     });
     return lookupSurface(tiny, "w").reading[0].senses[0].text;
   };
-  assert.equal(textOf({ pos: "n", en: "English", definition: "Legacy", tc: "中文" }), "English");
-  assert.equal(textOf({ pos: "n", en: "   ", definition: "Legacy", tc: "中文" }), "Legacy");
+  assert.equal(textOf({ pos: "n", en: "English", definition: "Legacy", tc: "中文" }), "中文");
+  assert.equal(textOf({ pos: "n", en: "   ", definition: "Legacy", tc: "中文" }), "中文");
   assert.equal(textOf({ pos: "n", tc: "中文" }), "中文");
-  assert.equal(textOf({ pos: "n", defs: ["one", "two"], en: "English", tc: "中文" }), "one; two");
+  assert.equal(textOf({ pos: "n", defs: ["one", "two"], en: "English", tc: "中文" }), "中文");
+  assert.equal(textOf({ pos: "n", en: "English" }), "");
+  assert.equal(textOf({ pos: "n", tc: "  ", en: "English", definition: "Legacy" }), "Legacy");
+  assert.equal(textOf({ pos: "n", defs: ["one", "two"], en: "English" }), "one; two");
+
+  const stored = hitToRecord(sanctionHit);
+  stored.senses[0].text = sanction.en;
+  const [refreshed] = refreshSavedGlosses(lex, [stored]);
+  assert.equal(refreshed.senses[0].text, sanction.tc);
+  assert.equal(refreshSavedGlosses(lex, [refreshed])[0], refreshed);
+  const bankCopy = formatWordText(refreshed, new Set(["C1"]));
+  assert.match(bankCopy, /制裁、處罰、核准、約束力/);
+  assert.doesNotMatch(bankCopy, /official punishment/);
 });
 
 test("highlight counts follow the selected levels only", () => {
