@@ -465,7 +465,8 @@ function bankExportBox(records) {
 }
 
 function dictionaryNote() {
-  return `<p class="dict-note">These are quick definitions for reading. For fuller definitions and usage, check a standard dictionary.</p>`;
+  const href = safeUrl("https://dictionary.cambridge.org/dictionary/english-chinese-traditional/");
+  return `<p class="dict-note">These are quick definitions for reading. For fuller definitions and usage, check a standard dictionary such as the <a href="${esc(href)}" target="_blank" rel="noopener noreferrer">Cambridge Dictionary</a>.</p>`;
 }
 
 function renderRecordBody(record) {

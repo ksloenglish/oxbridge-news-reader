@@ -561,6 +561,14 @@ button.token:focus-visible, .nav button:focus-visible, .level:focus-visible, .st
   border-radius: 0 0 1rem 1rem;
   border-width: 1px 0 0;
 }
+.dict-note a {
+  color: inherit;
+  text-underline-offset: 0.12em;
+}
+.dict-note a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}
 
 .cefr-summary {
   margin-top: 1.25rem;
