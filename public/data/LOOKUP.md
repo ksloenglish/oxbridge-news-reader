@@ -75,19 +75,20 @@ Each object in `definitions` may include:
 
 - `pos` — part of speech for that sense.
 - `cefr` / `list` — only when they differ from the parent entry.
-- `en` — a short English gloss for HK secondary classroom and news reading. Present on revised lemmas; one gloss for each definition sense the popup keeps.
-- `tc` — Hong Kong Traditional Chinese. Present on every sense. Keep `tc` when `en` is added.
+- `en` — a short English gloss for HK secondary classroom and news reading. Present on revised lemmas; one gloss for each definition sense. Kept in the pack. Not shown on the card, in Word Bank, or in copy/CSV.
+- `tc` — Hong Kong Traditional Chinese. Present on every sense. This is the gloss students see. Keep `tc` when `en` is added.
 
-The word card takes its gloss from `senseText()` in `src/lookup.js`. Preference order:
+The word card, Word Bank detail, and copy/CSV take the gloss from `senseText()` in `src/lookup.js`. Preference order:
 
-1. `defs`, when it is a non-empty array (items joined with `"; "`)
-2. `en`, when it is a non-empty string
-3. `definition`, when it is a non-empty string
-4. `tc`
+1. `tc`, when it is a non-empty string
+2. `defs`, when it is a non-empty array (items joined with `"; "`), only if `tc` is empty
+3. `definition`, when it is a non-empty string, only if `tc` is empty
 
-When `en` is present, the popup shows that English gloss. Lemmas that still have only `tc` still show Chinese. No separate UI switch is required.
+`en` is not a display fallback. The popup shows Hong Kong Traditional Chinese only. It does not add an English line under the Chinese gloss.
 
-Put the primary classroom or news sense first in both `en` and `tc`. Keep secondary senses after it; a reorder does not delete them. Example: `disrupt` is「擾亂、中斷、使不能正常進行、使瓦解」— 使瓦解 stays, after the classroom sense. The English gloss is “to interrupt or stop the normal course or progress of something”.
+A Word Bank row stores the gloss text from the moment it was saved. On load, a stored line is replaced with the current `tc` for that lemma, part of speech, and CEFR, so an older English snapshot does not stay on the detail or in CSV.
+
+Put the primary classroom or news sense first in `tc` (and in `en`, which stays in the data). Keep secondary senses after it; a reorder does not delete them. Example: `disrupt` shows「擾亂、中斷、使不能正常進行、使瓦解」— 使瓦解 stays, after the classroom sense. The pack also stores the English gloss “to interrupt or stop the normal course or progress of something”, which the card does not show.
 
 Do not change `cefr` or `list` in a gloss revision. Levels stay locked to the Oxford list.
 

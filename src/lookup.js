@@ -47,14 +47,61 @@ export function formatIpa(phonetic) {
     .join(" ");
 }
 
+/**
+ * Student-facing gloss. Hong Kong Traditional Chinese `tc` is the line
+ * on the card, in Word Bank, and in copy/CSV. English `en` stays in the
+ * pack and is not shown. Other fields are used only when `tc` is empty.
+ */
 function senseText(def) {
+  if (!def || typeof def !== "object") return "";
+  if (typeof def.tc === "string" && def.tc.trim()) return def.tc.trim();
   if (Array.isArray(def.defs) && def.defs.length) {
-    return def.defs.filter(Boolean).join("; ");
+    const joined = def.defs.filter(Boolean).join("; ");
+    if (joined) return joined;
   }
-  if (typeof def.en === "string" && def.en.trim()) return def.en.trim();
   if (typeof def.definition === "string" && def.definition.trim()) return def.definition.trim();
-  if (typeof def.tc === "string") return def.tc.trim();
   return "";
+}
+
+function packEntryForSense(lex, sense, record) {
+  const words = lex?.words || {};
+  for (const value of [sense?.lemma, record?.lemma, sense?.word, record?.word]) {
+    if (!value) continue;
+    const text = String(value);
+    if (words[text]) return words[text];
+    const lower = text.toLowerCase();
+    if (words[lower]) return words[lower];
+  }
+  return null;
+}
+
+function definitionForSavedSense(lex, sense, record) {
+  const raw = packEntryForSense(lex, sense, record);
+  if (!raw) return null;
+  const matches = (raw.definitions || []).filter((def) => {
+    const pos = def.pos || "";
+    const cefr = def.cefr || raw.cefr || "";
+    return pos === (sense?.pos || "") && cefr === (sense?.cefr || "");
+  });
+  return matches.length === 1 ? matches[0] : null;
+}
+
+/** Replace a stored English gloss with the current `tc` for that sense. */
+export function refreshSavedGlosses(lex, records) {
+  if (!Array.isArray(records)) return [];
+  return records.map((record) => {
+    if (!record || !Array.isArray(record.senses)) return record;
+    let changed = false;
+    const senses = record.senses.map((sense) => {
+      const def = definitionForSavedSense(lex, sense, record);
+      if (!def) return sense;
+      const text = senseText(def);
+      if (!text || text === sense.text) return sense;
+      changed = true;
+      return { ...sense, text };
+    });
+    return changed ? { ...record, senses } : record;
+  });
 }
 
 function isMonthSense(raw, def, index) {
