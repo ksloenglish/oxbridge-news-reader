@@ -373,7 +373,8 @@ function renderCard() {
   const parts = partitionSenses(hit, activeSet(ui.levels));
   const entry = primaryEntry(hit);
   const pills = hit.levels.map((level) => `<span class="pill" data-level="${esc(level)}">${esc(level)}</span>`).join("");
-  const pos = [...new Set(hit.reading.flatMap((item) => item.pos))].map(posLabel).join(" · ");
+  const facePos = parts.match.map((sense) => sense.pos);
+  const pos = [...new Set(facePos.length ? facePos : hit.reading.flatMap((item) => item.pos))].map(posLabel).join(" · ");
   root.innerHTML = `
     <div class="backdrop" data-backdrop>
       <div class="card" role="dialog" aria-modal="true" aria-labelledby="card-title">

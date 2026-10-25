@@ -135,10 +135,13 @@ test("a capitalised word before a numeral prefers the noun", () => {
   const hidden = annotate(text, lex, advanced).find((item) => item.text === "Part");
   assert.equal(hidden.type, "text");
 
-  const bare = annotate("Part of the plan.", lex, all).find((item) => item.text === "Part");
-  assert.equal(bare.style.kind, "multi");
+  const ofPart = annotate("Part of the plan.", lex, all).find((item) => item.text === "Part");
+  assert.equal(ofPart.style.kind, "solid");
+  assert.equal(ofPart.style.level, "A1");
+  assert.ok(ofPart.hit.reading.every((entry) => entry.senses.every((sense) => sense.pos === "n")));
   const lower = annotate("Read part 2 now.", lex, all).find((item) => item.text === "part");
-  assert.equal(lower.style.kind, "multi");
+  assert.equal(lower.style.kind, "solid");
+  assert.equal(lower.style.level, "A1");
 
   const chapter = annotate("Chapter 3 starts.", lex, all).find((item) => item.text === "Chapter");
   assert.equal(chapter.style.kind, "solid");
@@ -181,11 +184,19 @@ test("inflected verbs keep verb senses only, bare lemmas stay multi-level", () =
   const hidden = annotate("Chan said he directed the bureau.", lex, advanced);
   assert.equal(hidden.find((part) => part.text === "said").type, "text");
 
-  for (const form of ["went", "told", "says"]) {
+  for (const form of ["went", "told"]) {
     const hit = lookupSurface(lex, form);
     assert.equal(hit.ambiguous, false, form);
     assert.ok(hit.reading.every((entry) => entry.senses.every((sense) => sense.pos === "v" || sense.pos === "modal v")), form);
   }
+
+  const says = lookupSurface(lex, "says");
+  assert.equal(says.ambiguous, true);
+  assert.ok(says.reading.some((entry) => entry.senses.some((sense) => sense.pos === "n")));
+  const heSays = annotate("He says it clearly.", lex, all).find((part) => part.text === "says");
+  assert.equal(heSays.style.kind, "solid");
+  assert.equal(heSays.style.level, "A1");
+  assert.ok(heSays.hit.reading.every((entry) => entry.senses.every((sense) => sense.pos === "v" || sense.pos === "modal v")));
 
   const say = lookupSurface(lex, "say");
   assert.deepEqual(say.levels.sort(), ["A1", "C1"]);
@@ -203,6 +214,51 @@ test("inflected verbs keep verb senses only, bare lemmas stay multi-level", () =
   const marched = lookupSurface(lex, "marched");
   assert.ok(marched.reading[0].senses.every((sense) => sense.pos === "v"));
   assert.equal(marched.levels.includes("A1"), false);
+});
+
+test("part context prefers noun or verb before the highlight colour is chosen", () => {
+  const all = new Set(["A1", "A2", "B1", "B2", "C1", "C2"]);
+  const nounOnly = (hit) => hit.reading.every((entry) => entry.senses.every((sense) => sense.pos === "n"));
+  const verbOnly = (hit) => hit.reading.every((entry) => entry.senses.every((sense) => sense.pos === "v" || sense.pos === "modal v"));
+
+  const cases = [
+    ["Visit Part 2 of the plan.", "Part", "solid", "A1", nounOnly],
+    ["Read part 2 now.", "part", "solid", "A1", nounOnly],
+    ["Part II opens tonight.", "Part", "solid", "A1", nounOnly],
+    ["Act I begins.", "Act", "solid", "B1", nounOnly],
+    ["See Section 1.2 for the map.", "Section", "solid", "A1", nounOnly],
+    ["Chapter 3 starts.", "Chapter", "solid", "B1", nounOnly],
+    ["A part of the plan failed.", "part", "solid", "A1", nounOnly],
+    ["The parts of the plan failed.", "parts", "solid", "A1", nounOnly],
+    ["She read the part.", "part", "solid", "A1", nounOnly],
+    ["They decided to part.", "part", "solid", "C2", verbOnly],
+    ["They will part soon.", "part", "solid", "C2", verbOnly],
+    ["Go to Part 2 now.", "Part", "solid", "A1", nounOnly],
+    ["He says it.", "says", "solid", "A1", verbOnly],
+    ["He books a table.", "books", "solid", "A2", verbOnly],
+  ];
+  for (const [text, token, kind, level, check] of cases) {
+    const hit = annotate(text, lex, all).find((part) => part.text === token);
+    assert.ok(hit && hit.type === "hit", text);
+    assert.equal(hit.style.kind, kind, text);
+    assert.equal(hit.style.level, level, text);
+    assert.ok(check(hit.hit), text);
+  }
+
+  const bare = lookupSurface(lex, "part");
+  assert.equal(bare.ambiguous, true);
+  assert.deepEqual(bare.levels, ["A1", "C2"]);
+  const face = partitionSenses(bare, all);
+  assert.ok(face.match.every((sense) => sense.pos === "n" && sense.cefr === "A1"));
+  assert.ok(face.secondary.some((sense) => sense.pos === "v" && sense.cefr === "C2"));
+  const bareHit = annotate("Then part quietly.", lex, all).find((part) => part.text === "part");
+  assert.equal(bareHit.style.kind, "multi");
+
+  for (const form of ["parts", "books", "lines"]) {
+    const hit = lookupSurface(lex, form);
+    assert.ok(hit.reading.some((entry) => entry.senses.some((sense) => sense.pos === "n")), form);
+    assert.equal(hit.reading.every((entry) => entry.senses.every((sense) => sense.pos === "v")), false, form);
+  }
 });
 
 test("copy text and CSV keep only the chosen CEFR levels", () => {
