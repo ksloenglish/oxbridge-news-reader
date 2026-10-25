@@ -322,17 +322,18 @@ export function lookupSurface(lex, surface, ctx = {}) {
   const readingEntries = toEntries(reading);
   if (!readingEntries.length) return null;
   const alternateEntries = toEntries(alternates);
-  // Month choice first, then verb preference for inflections, then noun labels such as Part 2.
+  // Month ranking first. Then filter senses, and only then levels / ambiguous / colour.
   const preference = monthPreference(cleaned, Boolean(ctx.sentenceStart));
   const surfaceKey = cleaned.toLowerCase();
   const verbs = preferInflectedVerbs(readingEntries, surfaceKey);
   const nouns = preferNounLabels(verbs.reading, surfaceKey, Boolean(ctx.nounContext), preference);
-  const levels = levelsOf(nouns.reading);
+  const filtered = nouns.reading;
+  const levels = levelsOf(filtered);
 
   return {
     surface: cleaned,
     preference,
-    reading: nouns.reading,
+    reading: filtered,
     secondary: [...verbs.secondary, ...nouns.secondary],
     alternates: alternateEntries,
     levels,
