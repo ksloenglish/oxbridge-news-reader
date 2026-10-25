@@ -41,11 +41,9 @@ export function formatWordText(record, levels) {
   const cefr = [...new Set(senses.map((sense) => sense.cefr))].join(", ");
   const lines = [
     `Word: ${record.word}`,
-    `Lemma: ${record.lemma}`,
     record.surface && record.surface.toLowerCase() !== String(record.word).toLowerCase()
       ? `In the article: ${record.surface}`
       : "",
-    `IPA: ${formatIpa(record.ipa) || "—"}`,
     `CEFR: ${cefr || "—"}`,
     `Part of speech: ${(record.pos || []).map(posLabel).join(", ") || "—"}`,
     "Definitions:",
@@ -54,8 +52,6 @@ export function formatWordText(record, levels) {
   for (const sense of senses) {
     lines.push(`- ${posLabel(sense.pos)} (${sense.cefr}): ${sense.text}`);
   }
-  if (record.sourceTitle) lines.push(`Source: ${record.sourceTitle}`);
-  if (record.sourceUrl) lines.push(`URL: ${record.sourceUrl}`);
   return lines.join("\n");
 }
 
@@ -66,26 +62,14 @@ function csvCell(value) {
 }
 
 export function toCsv(records, levels) {
-  const header = ["word", "lemma", "CEFR", "POS", "defs", "IPA", "savedAt", "sourceTitle", "sourceUrl"];
+  const header = ["word", "CEFR", "POS", "defs", "IPA"];
   const lines = [header.join(",")];
   for (const record of records) {
     const senses = selectedSenses(record, levels);
     const cefr = [...new Set(senses.map((sense) => sense.cefr))].join("|");
     const defs = senses.map((sense) => `${sense.pos} (${sense.cefr}): ${sense.text}`).join(" | ");
     lines.push(
-      [
-        record.word,
-        record.lemma,
-        cefr,
-        (record.pos || []).join("|"),
-        defs,
-        formatIpa(record.ipa),
-        record.savedAt || "",
-        record.sourceTitle || "",
-        record.sourceUrl || "",
-      ]
-        .map(csvCell)
-        .join(","),
+      [record.word, cefr, (record.pos || []).join("|"), defs, formatIpa(record.ipa)].map(csvCell).join(","),
     );
   }
   return `\uFEFF${lines.join("\r\n")}\r\n`;

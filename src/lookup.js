@@ -595,3 +595,16 @@ export function annotate(text, lex, activeLevels) {
   if (last < source.length) parts.push({ type: "text", text: source.slice(last) });
   return parts;
 }
+
+/** Occurrence counts for highlighted tokens, only at levels in the active set. */
+export function countHighlightedLevels(text, lex, activeLevels) {
+  const counts = Object.fromEntries(LEVELS.map((level) => [level, 0]));
+  const allow = activeLevels instanceof Set ? activeLevels : new Set(activeLevels);
+  for (const part of annotate(text, lex, allow)) {
+    if (part.type !== "hit") continue;
+    for (const level of part.hit.levels || []) {
+      if (allow.has(level)) counts[level] += 1;
+    }
+  }
+  return counts;
+}

@@ -33,8 +33,8 @@ The production preview is http://127.0.0.1:4173/oxbridge-news-reader/.
 
 ## Sections
 
-- **News Desk** — source picker, story list, full text. The default source is **RTHK English News**: all five RTHK English channels (Local, Greater China, World, Finance, Sport).
-- **Word Bank** — words you save in this browser. Filter by CEFR, open a word, export CSV.
+- **News Desk** — source picker, story list, full text. The default source is **RTHK English News**: all five RTHK English channels (Local, Greater China, World, Finance, Sport). **Refresh** reloads the published article snapshot and shows the current source again. The open story ends with a count of highlighted words for each selected CEFR level.
+- **Word Bank** — words you save in this browser. Filter by CEFR, open a word, export CSV. **Delete all** asks for confirmation, then removes every saved word. Levels with no saved words are greyed out. Highlight chips stay on News Desk only.
 
 The highlight chips, source, section, Word Bank filter, and export levels are stored in `localStorage`.
 
@@ -42,14 +42,16 @@ Saved words stay on this device only. Clearing the site data or cache deletes th
 
 ## CEFR colours
 
-| Level | Colour | Default highlight |
-| --- | --- | --- |
-| A1 | `#15803d` | off |
-| A2 | `#0f766e` | off |
-| B1 | `#0284c7` | off |
-| B2 | `#2563eb` | on |
-| C1 | `#7c3aed` | on |
-| C2 | `#c026d3` | on |
+| Level | Text | Background | Default highlight |
+| --- | --- | --- | --- |
+| A1 | `#166534` | `#dcfce7` | off |
+| A2 | `#b45309` | `#ffedd5` | off |
+| B1 | `#0e7490` | `#cffafe` | off |
+| B2 | `#1d4ed8` | `#dbeafe` | on |
+| C1 | `#7e22ce` | `#f3e8ff` | on |
+| C2 | `#be123c` | `#ffe4e6` | on |
+
+These six hues are separate. None of them is the school plate `#1054a9`. A2 text uses the same amber as the accent, on its own peach background.
 
 A word with more than one CEFR level is drawn with a **dashed outline** instead of a single colour. In the word card, senses that match the highlight chips stay under Definitions. Other levels sit under Other meanings.
 
@@ -59,9 +61,9 @@ Mid-sentence lowercase `march` and `may` prefer the non-month sense. `March` and
 
 Click a highlighted word for the CEFR pill, part of speech, Traditional Chinese glosses grouped by part of speech, IPA in `/.../` when the pack has `phonetic`, and **Listen (en-GB)** (`speechSynthesis`, British voice when the browser has one).
 
-Save adds the word to Word Bank. Copy uses the level checkboxes. CSV columns:
+Save adds the word to Word Bank. If that lemma is already saved, the card says **Already in Word Bank** and offers Remove instead of a second save. Copy uses the level checkboxes and includes the word, the surface form when it differs, CEFR, part of speech, and definitions. Copy leaves out lemma, IPA, source, and URL. CSV columns:
 
-`word, lemma, CEFR, POS, defs, IPA, savedAt, sourceTitle, sourceUrl`
+`word, CEFR, POS, defs, IPA`
 
 ## RSS feeds
 
@@ -149,4 +151,4 @@ Glosses are the Traditional Chinese `tc` field. IPA is `phonetic`.
 
 ## Brand
 
-K S Lo English. Ink `#111827`, paper `#f9f6f1`, accent `#b45309`, on-accent `#ffffff`, muted `#6b7280`. The header mark is the K S Lo English logo, 2.75rem square, radius 0.55rem, on the card colour. The reader is light Oxbridge night only. Accent gold is the product accent, not a CEFR level.
+K S Lo English. Ink `#111827`, paper `#f9f6f1`, accent `#b45309`, on-accent `#ffffff`, muted `#6b7280`. The header mark is the K S Lo English logo on the school plate `#1054a9` (3rem, radius 0.62rem, inset padding so the white mark does not touch the plate). The same crest, on that plate, is the favicon. The reader is light Oxbridge night only. The school plate is not a CEFR level colour.
