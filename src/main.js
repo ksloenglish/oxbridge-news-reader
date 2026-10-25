@@ -282,8 +282,8 @@ function renderAbout() {
   return `
     <section class="about" aria-labelledby="about-title">
       <h2 id="about-title">About</h2>
-      <p>K S Lo Oxbridge News Reader is an English news desk for school reading. Stories come from approved RSS feeds. The reader highlights words from the Oxbridge A1–C2 pack so you can study vocabulary in real news.</p>
-      <p>On News Desk, pick a source and open a story. Choose which CEFR levels to highlight, then click a word for its meaning, part of speech, and Traditional Chinese gloss. Listen plays the word in British English. Save adds it to Word Bank on this device, where you can filter by level and export a CSV.</p>
+      <p>K S Lo Oxbridge News Reader is an English news desk designed for school reading. It brings together stories from approved RSS feeds and highlights words from the Oxbridge A1–C2 word list, helping you build vocabulary through real news.</p>
+      <p>On News Desk, select a source and open a story. Choose the CEFR levels you want to highlight, then click a highlighted word to see its meaning, part of speech, and Traditional Chinese translation. Click Listen to hear the word pronounced in British English, or Save to add it to your Word Bank on this device. In Word Bank, you can filter saved words by level and export them as a CSV file.</p>
       <p class="disclaimer">News articles are provided by their original publishers for language learning. They belong to those sources and do not represent the views of K S Lo English.</p>
     </section>`;
 }
