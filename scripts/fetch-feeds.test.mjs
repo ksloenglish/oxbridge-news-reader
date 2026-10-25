@@ -230,14 +230,12 @@ test("approved catalog is the locked English list", () => {
     ["rthk-world", "rthk", "https://rthk.hk/rthk/news/rss/e_expressnews_einternational.xml", true],
     ["rthk-finance", "rthk", "https://rthk.hk/rthk/news/rss/e_expressnews_efinance.xml", true],
     ["rthk-sport", "rthk", "https://rthk.hk/rthk/news/rss/e_expressnews_esport.xml", true],
-    ["hkfp", "hk", "https://hongkongfp.com/feed/", true],
     ["news-gov-hk-top", "hk", "https://www.news.gov.hk/en/common/html/topstories.rss.xml", true],
     ["news-gov-hk-school-work", "hk", "https://www.news.gov.hk/en/categories/school_work/html/articlelist.rss.xml", true],
-    ["dimsum-daily", "hk", "https://www.dimsumdaily.hk/feed/", true],
     ["rfa-english", "international", "https://www.rfa.org/english/rss", true],
   ]);
   const urls = catalog.feeds.map((feed) => feed.url).join("\n");
-  assert.equal(/scmp|bbci\.co\.uk|voanews/i.test(urls), false);
+  assert.equal(/scmp|bbci\.co\.uk|voanews|hongkongfp|dimsumdaily/i.test(urls), false);
 });
 
 function article(link, fullText, publishedAt, sourceFeed) {

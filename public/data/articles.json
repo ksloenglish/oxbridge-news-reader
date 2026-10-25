@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T12:18:58.486Z",
+  "generatedAt": "2026-10-25T12:21:58.034Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -52,16 +52,6 @@
       "articleCount": 14
     },
     {
-      "id": "hkfp",
-      "name": "Hong Kong Free Press",
-      "url": "https://hongkongfp.com/feed/",
-      "category": "hk",
-      "enabled": true,
-      "ok": false,
-      "error": "HTTP 403 Forbidden",
-      "articleCount": 0
-    },
-    {
       "id": "news-gov-hk-top",
       "name": "news.gov.hk — Top Story",
       "url": "https://www.news.gov.hk/en/common/html/topstories.rss.xml",
@@ -80,16 +70,6 @@
       "ok": true,
       "error": null,
       "articleCount": 18
-    },
-    {
-      "id": "dimsum-daily",
-      "name": "Dimsum Daily",
-      "url": "https://www.dimsumdaily.hk/feed/",
-      "category": "hk",
-      "enabled": true,
-      "ok": false,
-      "error": "response was not RSS or Atom",
-      "articleCount": 0
     },
     {
       "id": "rfa-english",

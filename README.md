@@ -4,7 +4,7 @@
 
 Approved English feeds live in [`public/data/feeds.json`](public/data/feeds.json). That catalog is the source of truth. Each entry has `id`, `name`, `url`, `category` (`rthk`, `hk`, or `international`), and `enabled`.
 
-To change what gets ingested, edit the catalog and merge it to `main`. The fetch Action reads enabled feeds on its next run. The locked set is five RTHK English wires, Hong Kong Free Press, news.gov.hk Top Story, news.gov.hk At School, At Work, Dimsum Daily, and Radio Free Asia English.
+To change what gets ingested, edit the catalog and merge it to `main`. The fetch Action reads enabled feeds on its next run. The locked set is five RTHK English wires, news.gov.hk Top Story, news.gov.hk At School, At Work, and Radio Free Asia English. Unstable sources stay out of the catalog.
 
 | id | name | category | url |
 | --- | --- | --- | --- |
@@ -13,10 +13,8 @@ To change what gets ingested, edit the catalog and merge it to `main`. The fetch
 | rthk-world | RTHK English — World | rthk | https://rthk.hk/rthk/news/rss/e_expressnews_einternational.xml |
 | rthk-finance | RTHK English — Finance | rthk | https://rthk.hk/rthk/news/rss/e_expressnews_efinance.xml |
 | rthk-sport | RTHK English — Sport | rthk | https://rthk.hk/rthk/news/rss/e_expressnews_esport.xml |
-| hkfp | Hong Kong Free Press | hk | https://hongkongfp.com/feed/ |
 | news-gov-hk-top | news.gov.hk — Top Story | hk | https://www.news.gov.hk/en/common/html/topstories.rss.xml |
 | news-gov-hk-school-work | news.gov.hk — At School, At Work | hk | https://www.news.gov.hk/en/categories/school_work/html/articlelist.rss.xml |
-| dimsum-daily | Dimsum Daily | hk | https://www.dimsumdaily.hk/feed/ |
 | rfa-english | Radio Free Asia English | international | https://www.rfa.org/english/rss |
 
 ### Snapshot
@@ -43,7 +41,7 @@ To change what gets ingested, edit the catalog and merge it to `main`. The fetch
 
 Items are de-duplicated by link and sorted newest first. The catalog `caps` keep 20 items per feed and 150 articles in total.
 
-A feed that returns an HTTP error, times out, or sends a non-feed page is logged and skipped. Articles from the feeds that succeeded are still written. The feed row keeps `ok: false` and the error text. When every enabled feed fails and a snapshot is already on disk, the script leaves that file unchanged. Hong Kong Free Press and Dimsum Daily sometimes answer datacenter addresses with a bot check; the next run that receives the feed fills those articles in.
+A feed that returns an HTTP error, times out, or sends a non-feed page is logged and skipped. Articles from the feeds that succeeded are still written. The feed row keeps `ok: false` and the error text. When every enabled feed fails and a snapshot is already on disk, the script leaves that file unchanged. A source that keeps failing is removed from the catalog instead of left enabled.
 
 Ingest dependencies are pinned in [`scripts/package.json`](scripts/package.json), separate from the Vite app manifest.
 
