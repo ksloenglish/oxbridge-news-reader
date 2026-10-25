@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 import test from "node:test";
-import { annotate, createLexicon, lookupSurface, partitionSenses } from "../src/lookup.js";
+import { annotate, countHighlightedLevels, createLexicon, lookupSurface, partitionSenses } from "../src/lookup.js";
 import { formatWordText, hitToRecord, toCsv } from "../src/export.js";
 
 const pack = JSON.parse(await readFile(new URL("../public/data/vocab.json", import.meta.url), "utf8"));
@@ -319,11 +319,32 @@ test("copy text and CSV keep only the chosen CEFR levels", () => {
   const hit = lookupSurface(lex, "address");
   const record = hitToRecord(hit, { title: "A story", url: "https://example.com/a" });
   const text = formatWordText(record, new Set(["B2"]));
+  assert.match(text, /Word: /);
   assert.match(text, /B2/);
+  assert.match(text, /Part of speech:/);
+  assert.match(text, /Definitions:/);
   assert.doesNotMatch(text, /\(A1\)/);
-  assert.match(text, /\/ə'dres\//);
+  assert.doesNotMatch(text, /^Lemma:/m);
+  assert.doesNotMatch(text, /^IPA:/m);
+  assert.doesNotMatch(text, /^Source:/m);
+  assert.doesNotMatch(text, /^URL:/m);
+  assert.doesNotMatch(text, /A story/);
+  assert.doesNotMatch(text, /example\.com/);
   const csv = toCsv([record], new Set(["A1", "B2"]));
-  assert.match(csv, /word,lemma,CEFR,POS,defs,IPA,savedAt,sourceTitle,sourceUrl/);
-  assert.match(csv, /A story/);
-  assert.match(csv, /https:\/\/example\.com\/a/);
+  assert.match(csv, /word,CEFR,POS,defs,IPA/);
+  assert.doesNotMatch(csv, /lemma|savedAt|savedat|sourceTitle|sourcetitle|sourceUrl|sourceURL/i);
+  assert.doesNotMatch(csv, /A story/);
+  assert.doesNotMatch(csv, /https:\/\/example\.com\/a/);
+  assert.match(csv, /A1\|B2|B2\|A1|A1/);
+});
+
+test("highlight counts follow the selected levels only", () => {
+  const all = new Set(["A1", "A2", "B1", "B2", "C1", "C2"]);
+  const both = countHighlightedLevels("They march.", lex, all);
+  assert.ok(both.A1 >= 1);
+  assert.ok(both.C1 >= 1);
+  const advancedCounts = countHighlightedLevels("They march.", lex, advanced);
+  assert.equal(advancedCounts.A1, 0);
+  assert.ok(advancedCounts.C1 >= 1);
+  assert.equal(advancedCounts.A2, 0);
 });

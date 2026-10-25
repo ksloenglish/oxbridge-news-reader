@@ -12,6 +12,7 @@ import { toCsv, formatWordText, hitToRecord } from "./export.js";
 import {
   LEVELS,
   annotate,
+  countHighlightedLevels,
   createLexicon,
   formatIpa,
   partitionSenses,
@@ -32,6 +33,9 @@ let loadError = "";
 let openHit = null; // { hit, source }
 let copyNote = "";
 let bankId = null;
+let confirmWipe = false;
+let refreshing = false;
+let refreshNote = "";
 const hits = [];
 
 function persist() {
@@ -76,11 +80,20 @@ async function loadData(name) {
   return response.json();
 }
 
-function levelButtons(map, dataAttr) {
-  return LEVELS.map(
-    (level) =>
-      `<button type="button" class="level" data-level="${level}" data-${dataAttr}="${level}" aria-pressed="${map[level] ? "true" : "false"}"><i></i>${level}</button>`,
-  ).join("");
+function levelButtons(map, dataAttr, emptyLevels = null) {
+  return LEVELS.map((level) => {
+    const vacant = Boolean(emptyLevels?.has(level));
+    return `<button type="button" class="level${vacant ? " is-empty" : ""}" data-level="${level}" data-${dataAttr}="${level}" aria-pressed="${map[level] ? "true" : "false"}"><i></i>${level}</button>`;
+  }).join("");
+}
+
+function findSaved(record) {
+  if (!record) return null;
+  return (
+    words.find((item) => item.id === record.id) ||
+    words.find((item) => record.lemma && item.lemma === record.lemma) ||
+    null
+  );
 }
 
 function orderedLevels(levels) {
@@ -171,6 +184,13 @@ function currentArticles() {
 }
 
 function renderShell() {
+  const highlightRow = ui.section === "news"
+    ? `<div class="level-row">
+        <p>Highlight</p>
+        ${levelButtons(ui.levels, "highlight")}
+        <p class="hint">Dashed outline means more than one CEFR level. Default is B2, C1, and C2.</p>
+      </div>`
+    : "";
   return `
     <header class="top">
       <div class="top-row">
@@ -186,11 +206,7 @@ function renderShell() {
           <button type="button" data-section="bank" aria-pressed="${ui.section === "bank" ? "true" : "false"}">Word Bank</button>
         </nav>
       </div>
-      <div class="level-row">
-        <p>Highlight</p>
-        ${levelButtons(ui.levels, "highlight")}
-        <p class="hint">Dashed outline means more than one CEFR level. Default is B2, C1, and C2.</p>
-      </div>
+      ${highlightRow}
     </header>
     <main class="view" id="view">${ui.section === "bank" ? renderBank() : renderNews()}</main>
     ${renderFooter()}
@@ -223,7 +239,7 @@ function renderNews() {
         <p class="meta">${esc(formatWhen(current.publishedAt))}${current.link ? ` · <a class="original" href="${esc(safeUrl(current.link))}" target="_blank" rel="noopener noreferrer">Original article</a>` : ""}</p>
         ${current.imageUrl && safeUrl(current.imageUrl) ? `<img class="hero" alt="" src="${esc(safeUrl(current.imageUrl))}" />` : ""}
         <div class="body">${paragraphs(current.fullText)}</div>
-        <p class="quiet">Highlights use the Oxbridge CEFR pack on this site.</p>
+        ${highlightSummary(current)}
       </article></div>`
     : "";
 
@@ -235,13 +251,36 @@ function renderNews() {
           <label class="field">News source
             <select data-feed aria-label="News source">${feedOptions()}</select>
           </label>
+          <button type="button" class="ghost" data-refresh ${refreshing ? "disabled" : ""}>${refreshing ? "Refreshing…" : "Refresh"}</button>
         </div>
+        ${refreshNote ? `<p class="quiet" aria-live="polite">${esc(refreshNote)}</p>` : ""}
         <h2 id="desk-title">${esc(selectionLabel(catalog, ui.selection))}</h2>
         ${list}
         <p class="quiet">${stamp} Stories are saved with the site so the desk works without calling the news sites from your browser.</p>
       </div>
       ${reader}
     </section>`;
+}
+
+function highlightSummary(article) {
+  const levels = activeSet(ui.levels);
+  const selected = LEVELS.filter((level) => levels.has(level));
+  if (!selected.length) {
+    return `<aside class="cefr-summary" aria-label="Highlighted words"><h3>Highlighted words</h3><p class="quiet">No highlight levels are selected.</p></aside>`;
+  }
+  const counts = Object.fromEntries(LEVELS.map((level) => [level, 0]));
+  const blocks = String(article.fullText || "")
+    .split(/\n{2,}|\n/)
+    .map((part) => part.trim())
+    .filter(Boolean);
+  for (const text of [article.title, ...blocks]) {
+    const part = countHighlightedLevels(text, lex, levels);
+    for (const level of selected) counts[level] += part[level] || 0;
+  }
+  const items = selected
+    .map((level) => `<li><span class="pill" data-level="${esc(level)}">${esc(level)}</span> <span>${counts[level]}</span></li>`)
+    .join("");
+  return `<aside class="cefr-summary" aria-label="Highlighted words"><h3>Highlighted words</h3><ul>${items}</ul></aside>`;
 }
 
 function emptySelectionNote() {
@@ -288,15 +327,29 @@ function renderBank() {
       </article>`
     : `<div class="detail"><p class="empty">Open a saved word to see its glosses.</p></div>`;
 
+  const present = new Set(words.flatMap((record) => recordLevels(record)));
+  const emptyLevels = new Set(LEVELS.filter((level) => !present.has(level)));
+  const wipe = !words.length
+    ? ""
+    : confirmWipe
+      ? `<div class="confirm-wipe" role="group" aria-label="Confirm delete all">
+          <p>Delete every saved word in this browser? This cannot be undone.</p>
+          <div class="actions">
+            <button type="button" class="solid" data-wipe-confirm>Delete all</button>
+            <button type="button" class="ghost" data-wipe-cancel>Cancel</button>
+          </div>
+        </div>`
+      : `<div class="actions"><button type="button" class="ghost" data-wipe>Delete all</button></div>`;
   return `
     <section class="bank${reading ? " reading" : ""}">
       <div class="pane list-pane">
         <h2>Word Bank</h2>
         <p class="warn">Saved words stay in this browser only. Clearing the site data or cache deletes them. They are not sent to a server.</p>
         <div class="export-box" aria-label="Word bank levels">
-          ${levelButtons(ui.bankLevels, "bank")}
+          ${levelButtons(ui.bankLevels, "bank", emptyLevels)}
         </div>
         ${list}
+        ${wipe}
         <h3 class="kicker">Export</h3>
         ${bankExportBox(visible)}
       </div>
@@ -329,10 +382,8 @@ function renderRecordBody(record) {
     <p class="pills">${pills}</p>
     <h2>${esc(record.word)}</h2>
     <p class="ipa">${esc(formatIpa(record.ipa) || "")}</p>
-    <p class="meta">${esc((record.pos || []).map(posLabel).join(" · "))}${record.sourceTitle ? ` · ${esc(record.sourceTitle)}` : ""}</p>
-    ${record.sourceUrl ? `<p><a href="${esc(safeUrl(record.sourceUrl))}" target="_blank" rel="noopener noreferrer">Source article</a></p>` : ""}
     <button type="button" class="ghost" data-speak="${esc(record.word)}">Listen (en-GB)</button>
-    ${senseBlocks(senses, "Saved senses")}
+    ${senseBlocks(senses, "")}
     ${other.length ? senseBlocks(other, "Other meanings", true) : ""}
   `;
 }
@@ -353,7 +404,7 @@ function senseBlocks(rows, title, quiet = false) {
       return `<h4>${esc(posLabel(pos))}</h4>${lines}`;
     })
     .join("");
-  return `<h4>${esc(title)}</h4>${body}`;
+  return `${title ? `<h4>${esc(title)}</h4>` : ""}${body}`;
 }
 
 function renderCard() {
@@ -369,7 +420,7 @@ function renderCard() {
     return;
   }
   const record = hitToRecord(hit, openHit.source);
-  const saved = words.some((item) => item.id === record.id);
+  const saved = findSaved(record);
   const parts = partitionSenses(hit, activeSet(ui.levels));
   const entry = primaryEntry(hit);
   const pills = hit.levels.map((level) => `<span class="pill" data-level="${esc(level)}">${esc(level)}</span>`).join("");
@@ -393,8 +444,11 @@ function renderCard() {
         ${parts.secondary.length ? `<details class="secondary-pos"><summary>Other parts of speech</summary>${renderSenseGroup(parts.secondary, "", true)}</details>` : ""}
         ${parts.alternates.length ? renderSenseGroup(parts.alternates, "Other readings", true) : ""}
         ${copyLevelsBox(hit.levels)}
+        ${saved ? `<p class="already">Already in Word Bank</p>` : ""}
         <div class="actions">
-          <button type="button" class="solid" data-save="${saved ? "1" : "0"}">${saved ? "Saved — remove" : "Save to Word Bank"}</button>
+          ${saved
+            ? `<button type="button" class="ghost" data-unsave>Remove</button>`
+            : `<button type="button" class="solid" data-save>Save to Word Bank</button>`}
           <button type="button" class="ghost" data-copy>Copy word</button>
         </div>
         <p class="copied" aria-live="polite">${esc(copyNote)}</p>
@@ -547,14 +601,51 @@ app.addEventListener("click", (event) => {
     speak(say.dataset.speak);
     return;
   }
+  if (event.target.closest("[data-wipe-confirm]")) {
+    words = [];
+    bankId = null;
+    confirmWipe = false;
+    openHit = null;
+    persist();
+    render();
+    return;
+  }
+  if (event.target.closest("[data-wipe-cancel]")) {
+    confirmWipe = false;
+    render();
+    return;
+  }
+  if (event.target.closest("[data-wipe]")) {
+    if (!words.length) return;
+    confirmWipe = true;
+    render();
+    return;
+  }
+  if (event.target.closest("[data-refresh]")) {
+    refreshArticles();
+    return;
+  }
   if (event.target.closest("[data-save]") && openHit) {
     const hit = openHit.hit;
     if (!hit) return;
     const record = hitToRecord(hit, openHit.source);
-    const exists = words.some((item) => item.id === record.id);
-    words = exists ? words.filter((item) => item.id !== record.id) : [record, ...words];
+    if (findSaved(record)) return;
+    words = [record, ...words];
     persist();
-    copyNote = exists ? "Removed from Word Bank." : "";
+    copyNote = "";
+    renderCard();
+    return;
+  }
+  if (event.target.closest("[data-unsave]") && openHit) {
+    const hit = openHit.hit;
+    if (!hit) return;
+    const record = hitToRecord(hit, openHit.source);
+    const saved = findSaved(record);
+    if (!saved) return;
+    words = words.filter((item) => item.id !== saved.id);
+    if (bankId === saved.id) bankId = null;
+    persist();
+    copyNote = "Removed from Word Bank.";
     renderCard();
     return;
   }
@@ -601,6 +692,29 @@ document.addEventListener("keydown", (event) => {
     renderCard();
   }
 });
+
+async function refreshArticles() {
+  if (refreshing) return;
+  refreshing = true;
+  refreshNote = "";
+  render();
+  try {
+    const response = await fetch(`${base}data/articles.json?refresh=${Date.now()}`, { cache: "no-store" });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    bundle = readSnapshot(await response.json());
+    const articles = currentArticles();
+    if (ui.articleId && !articles.some((article) => article.id === ui.articleId)) {
+      ui.articleId = null;
+      openHit = null;
+    }
+    refreshNote = "Article list updated.";
+  } catch {
+    refreshNote = "Could not refresh the article list.";
+  } finally {
+    refreshing = false;
+    render();
+  }
+}
 
 function downloadCsv() {
   const visible = words.filter(wordMatchesBank);
