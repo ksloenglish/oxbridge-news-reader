@@ -6,72 +6,25 @@
   --muted: #6b7280;
   --line: #e6dfd4;
   --card: #fffdf9;
-  --mark-bg: #111827;
-  --mark-fg: #f9f6f1;
-  --mark-sub: #f6c48a;
   --shadow: 0 18px 50px rgba(17, 24, 39, 0.12);
-  --a1: #0f766e;
-  --a1-bg: #d8f3ef;
-  --a2: #3f6212;
-  --a2-bg: #e8f6c8;
-  --b1: #1d4ed8;
-  --b1-bg: #dbe7ff;
-  --b2: #6d28d9;
-  --b2-bg: #ebe4ff;
-  --c1: #b45309;
-  --c1-bg: #ffedd5;
-  --c2: #9f1239;
-  --c2-bg: #ffe0e7;
+  --a1: #22c55e;
+  --a1-bg: #deefdb;
+  --a2: #00c5a6;
+  --a2-bg: #deefe6;
+  --b1: #00b7e2;
+  --b1-bg: #ddedf0;
+  --b2: #009cff;
+  --b2-bg: #dae9f6;
+  --c1: #6679ff;
+  --c1-bg: #dfe3f7;
+  --c2: #a855f7;
+  --c2-bg: #ebdef5;
   color-scheme: light;
   font-family: "Source Sans 3", "Segoe UI", sans-serif;
   font-size: 18px;
   line-height: 1.5;
   color: var(--ink);
   background: var(--paper);
-}
-
-:root[data-theme="dark"] {
-  --ink: #f6f1e8;
-  --paper: #14120f;
-  --accent: #e39a45;
-  --on-accent: #1a1208;
-  --muted: #b3aa9e;
-  --line: #322c26;
-  --card: #1d1a16;
-  --mark-bg: #f6f1e8;
-  --mark-fg: #111827;
-  --mark-sub: #b45309;
-  --shadow: 0 18px 50px rgba(0, 0, 0, 0.35);
-  --a1-bg: #123f3b;
-  --a2-bg: #2a3a16;
-  --b1-bg: #1a2d57;
-  --b2-bg: #342056;
-  --c1-bg: #4a2c12;
-  --c2-bg: #4c1826;
-  color-scheme: dark;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme]) {
-    --ink: #f6f1e8;
-    --paper: #14120f;
-    --accent: #e39a45;
-    --on-accent: #1a1208;
-    --muted: #b3aa9e;
-    --line: #322c26;
-    --card: #1d1a16;
-    --mark-bg: #f6f1e8;
-    --mark-fg: #111827;
-    --mark-sub: #b45309;
-    --shadow: 0 18px 50px rgba(0, 0, 0, 0.35);
-    --a1-bg: #123f3b;
-    --a2-bg: #2a3a16;
-    --b1-bg: #1a2d57;
-    --b2-bg: #342056;
-    --c1-bg: #4a2c12;
-    --c2-bg: #4c1826;
-    color-scheme: dark;
-  }
 }
 
 * { box-sizing: border-box; }
@@ -121,24 +74,19 @@ a { color: var(--accent); }
 .mark {
   width: 2.75rem;
   height: 2.75rem;
-  border-radius: 0.55rem;
-  background: var(--mark-bg);
-  color: var(--mark-fg);
+  flex: none;
   display: grid;
   place-items: center;
-  align-content: center;
-  flex: none;
-  line-height: 1;
-  text-align: center;
+  padding: 0.18rem;
+  border-radius: 0.55rem;
+  background: var(--card);
+  overflow: hidden;
 }
-.mark b { display: block; font-size: 0.68rem; letter-spacing: 0.04em; }
-.mark span {
+.mark img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
   display: block;
-  margin-top: 0.12rem;
-  font-size: 0.42rem;
-  letter-spacing: 0.12em;
-  color: var(--mark-sub);
-  font-weight: 700;
 }
 
 .titles { min-width: 0; }
@@ -180,14 +128,6 @@ h1 {
 .nav button[aria-pressed="true"] {
   background: var(--ink);
   color: var(--paper);
-}
-.theme {
-  border: 1px solid var(--line);
-  background: var(--card);
-  border-radius: 999px;
-  padding: 0.35rem 0.7rem;
-  color: var(--muted);
-  font-size: 0.86rem;
 }
 
 .level-row {
@@ -336,7 +276,7 @@ button.token.solid[data-level="B1"] { background: var(--b1-bg); box-shadow: inse
 button.token.solid[data-level="B2"] { background: var(--b2-bg); box-shadow: inset 0 -2px 0 var(--b2); }
 button.token.solid[data-level="C1"] { background: var(--c1-bg); box-shadow: inset 0 -2px 0 var(--c1); }
 button.token.solid[data-level="C2"] { background: var(--c2-bg); box-shadow: inset 0 -2px 0 var(--c2); }
-button.token:focus-visible, .nav button:focus-visible, .level:focus-visible, .story:focus-visible, .theme:focus-visible, .solid:focus-visible, .ghost:focus-visible {
+button.token:focus-visible, .nav button:focus-visible, .level:focus-visible, .story:focus-visible, .solid:focus-visible, .ghost:focus-visible {
   outline: 2px solid var(--accent);
   outline-offset: 2px;
 }
