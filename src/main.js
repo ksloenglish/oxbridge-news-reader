@@ -417,7 +417,7 @@ function renderSenseGroup(rows, title, quiet = false) {
         .map((row) => `<p class="sense ${quiet ? "other" : ""}"><span class="pill" data-level="${esc(row.cefr)}">${esc(row.cefr)}</span> ${esc(row.text)}</p>`)
         .join("");
       const head = many ? `${posLabel(group.pos)} · ${group.word}` : posLabel(group.pos);
-      return `<h4>${esc(head)}</h4>${lines}`;
+      return `<h4 class="pos-label">${esc(head)}</h4>${lines}`;
     })
     .join("");
   return `${title ? `<h4>${esc(title)}</h4>` : ""}${body}`;

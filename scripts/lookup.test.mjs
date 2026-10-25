@@ -79,20 +79,18 @@ test("suffix heuristics cover forms missing from the map", () => {
   assert.equal(lookupSurface(tiny, "studies").reading[0].key, "study");
 });
 
-test("highlights follow list membership, including capitalised entries, and skip names that are absent", () => {
+test("title-case runs stay plain, while a lone listed word such as Sunday or Jazz still matches", () => {
   const levels = new Set(["A1", "A2", "B1", "B2", "C1", "C2"]);
   const text = "John Catlin of the United States on Sunday claimed victory at the Hong Kong Open. Thailand's Jazz Janewattananond and Nick Voke of New Zealand, and Jazz on Sunday. The PGA Tour is new.";
   const hits = annotate(text, lex, levels).filter((part) => part.type === "hit").map((part) => part.text);
-  for (const blocked of ["John", "Catlin", "Hong", "Kong", "Thailand", "Janewattananond", "Nick", "Voke", "Zealand", "PGA"]) {
+  for (const blocked of ["United", "States", "John", "Catlin", "Hong", "Kong", "Open", "Nick", "Voke", "New", "Zealand", "Janewattananond", "Thailand"]) {
     assert.equal(hits.includes(blocked), false, blocked);
   }
-  for (const listed of ["United", "States", "Sunday", "Open", "Jazz", "New", "Tour"]) {
-    assert.equal(hits.includes(listed), true, listed);
-  }
   assert.equal(hits.filter((word) => word === "Sunday").length, 2);
-  assert.equal(hits.filter((word) => word === "Jazz").length, 2);
+  assert.equal(hits.filter((word) => word === "Jazz").length, 1);
   assert.ok(hits.includes("claimed"));
   assert.ok(hits.includes("victory"));
+  assert.ok(hits.includes("Tour"));
   assert.ok(hits.includes("new"));
 
   const lower = annotate("the united states", lex, levels).filter((part) => part.type === "hit").map((part) => part.text);
@@ -104,15 +102,13 @@ test("highlights follow list membership, including capitalised entries, and skip
   assert.ok(sentence.includes("open"));
   assert.ok(sentence.includes("tour"));
 
-  const monday = lookupSurface(lex, "Monday");
-  assert.equal(monday.reading[0].word, "Monday");
-  assert.equal(lookupSurface(lex, "Mr"), null);
+  assert.equal(lookupSurface(lex, "Sunday", { nameRun: true }), null);
+  assert.equal(lookupSurface(lex, "New", { nameRun: true }), null);
   assert.equal(lookupSurface(lex, "Sunday").reading[0].word, "Sunday");
   assert.equal(lookupSurface(lex, "Jazz").reading[0].word, "jazz");
   assert.equal(lookupSurface(lex, "jazz").reading[0].word, "jazz");
-  assert.equal(lookupSurface(lex, "Open").reading[0].key, "open");
-  assert.equal(lookupSurface(lex, "States").reading[0].key, "state");
   assert.equal(lookupSurface(lex, "United").reading[0].key, "united");
+  assert.equal(lookupSurface(lex, "States").reading[0].key, "state");
   assert.equal(lookupSurface(lex, "IT").reading[0].key, "IT");
   assert.equal(lookupSurface(lex, "it").reading[0].key, "it");
 });
