@@ -31,7 +31,6 @@ Lemmas `be` and `do` (list: `Core`, CEFR A1) are added for a school news reader.
 
 Per-entry `forms` arrays were removed; **`inflection_map` is authoritative**.
 
-
 ## Stem heuristics and false participles
 
 `inflection_map` is authoritative. Client `heuristicStems` (strip `-ing`/`-ed`/`-s`) is a **fallback only** when the surface is missing from imap and from `words`.
@@ -57,6 +56,10 @@ False multi-targets removed:
 
 - Token `evening` → imap `evening` → **A1 noun only**. Do not also load B2 adj `even`.
 - Token `longing` → `longing` only, not `long`.
+
+## Proper nouns
+
+Highlight a token when `words` or `inflection_map` resolves it. A Title Case run of two or more neighbouring words (`United States`, `New Zealand`, `Hong Kong Open`) is not highlighted, even when a lowercase lemma such as `united`, `state`, or `new` is in the pack. A single Title Case word still matches, so `Sunday` and a lone `Jazz` stay highlighted. Entries are not removed from `vocab.json`. `it` and `IT` stay case-sensitive.
 
 ## Definition `cefr` / `list`
 

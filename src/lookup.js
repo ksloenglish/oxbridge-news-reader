@@ -153,6 +153,22 @@ function keysFromMap(lex, form) {
   return asList(lex.imap[form]).filter((key) => lex.words[key]);
 }
 
+function listedSurface(lex, token, key) {
+  const entry = lex.words[key];
+  return Boolean(entry) && entry.word === token;
+}
+
+/**
+ * A mid-sentence capital (Jazz, Open, United) is not the lowercase common lemma.
+ * Keep it only when the pack stores that exact surface, as with Sunday or March.
+ * Sentence-initial capitals stay eligible, and it/IT stay on their own path.
+ */
+function keysForToken(lex, token, sentenceStart) {
+  const keys = resolveKeys(lex, token);
+  if (!isTitleCaseWord(token) || sentenceStart) return keys;
+  return keys.filter((key) => listedSurface(lex, token, key));
+}
+
 function resolveKeys(lex, token) {
   if (token === "I") {
     if (lex.words.I) return ["I"];
@@ -268,7 +284,7 @@ export function lookupSurface(lex, surface, ctx = {}) {
     .replace(/'s$/i, "");
   if (!cleaned || !/[A-Za-z]/.test(cleaned)) return null;
 
-  const keys = resolveKeys(lex, cleaned);
+  const keys = keysForToken(lex, cleaned, Boolean(ctx.sentenceStart));
   if (!keys.length) return null;
   const { reading, alternates } = splitReading(cleaned, keys);
   const toEntries = (list) => list.map((key) => buildEntry(key, lex.words[key])).filter(Boolean);
