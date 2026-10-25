@@ -428,7 +428,7 @@ button.token:focus-visible, .nav button:focus-visible, .level:focus-visible, .st
 }
 .ipa { font-family: Newsreader, Georgia, serif; font-style: italic; font-size: 1.15rem; margin: 0.2rem 0 0.6rem; }
 .card h4 { margin: 1rem 0 0.35rem; font-size: 0.82rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
-.card h4.pos-label { color: var(--mark-bg); }
+.card h4.pos-label { color: var(--ink); letter-spacing: 0.04em; }
 .sense { margin: 0 0 0.55rem; }
 .sense b { font-weight: 700; }
 .other { opacity: 0.78; }
