@@ -83,6 +83,43 @@ function levelButtons(map, dataAttr) {
   ).join("");
 }
 
+function orderedLevels(levels) {
+  const have = new Set(levels || []);
+  return LEVELS.filter((level) => have.has(level));
+}
+
+function recordLevels(record) {
+  if (record?.levels?.length) return orderedLevels(record.levels);
+  return orderedLevels(String(record?.cefr || "").split("|"));
+}
+
+/** One level needs no chooser. Several levels use only the ones this word (or set) actually has. */
+function levelsForCopy(levels) {
+  const present = orderedLevels(levels);
+  if (present.length <= 1) return new Set(present);
+  return new Set(present.filter((level) => ui.exportLevels[level]));
+}
+
+function copyLevelsBox(levels) {
+  const present = orderedLevels(levels);
+  if (present.length < 2) return "";
+  const boxes = present
+    .map((level) => `<label><input type="checkbox" data-export="${level}" ${ui.exportLevels[level] ? "checked" : ""}/> ${level}</label>`)
+    .join("");
+  return `<div class="export-box"><span class="quiet">Copy levels</span>${boxes}</div>`;
+}
+
+function renderFooter() {
+  return `
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <div class="build-stamp">${__KSLO_BUILD__}</div>
+        <p>&copy; <span id="copyright-year">${__KSLO_YEAR__}</span> K S Lo English. All Rights Reserved.</p>
+        <p class="disclaimer">News articles are provided by their original publishers for language learning. They belong to those sources and do not represent the views of K S Lo English.</p>
+      </div>
+    </footer>`;
+}
+
 function renderAnnotated(text) {
   const levels = activeSet(ui.levels);
   return annotate(text, lex, levels)
@@ -156,6 +193,7 @@ function renderShell() {
       </div>
     </header>
     <main class="view" id="view">${ui.section === "bank" ? renderBank() : renderNews()}</main>
+    ${renderFooter()}
     <div id="modal"></div>
   `;
 }
@@ -178,16 +216,16 @@ function renderNews() {
     : `<p class="empty">${esc(emptySelectionNote())}</p>`;
 
   const reader = current
-    ? `<article class="reader">
+    ? `<div class="pane reader"><article class="reader">
         <button type="button" class="ghost back" data-close-article>All stories</button>
         <p class="kicker">${esc(current.source || selectionLabel(catalog, ui.selection))}</p>
         <h2>${renderAnnotated(current.title)}</h2>
         <p class="meta">${esc(formatWhen(current.publishedAt))}${current.link ? ` · <a class="original" href="${esc(safeUrl(current.link))}" target="_blank" rel="noopener noreferrer">Original article</a>` : ""}</p>
         ${current.imageUrl && safeUrl(current.imageUrl) ? `<img class="hero" alt="" src="${esc(safeUrl(current.imageUrl))}" />` : ""}
         <div class="body">${paragraphs(current.fullText)}</div>
-        <p class="quiet">Highlights use the Oxbridge CEFR pack on this site. Glosses are Traditional Chinese.</p>
-      </article>`
-    : `<div class="reader"><p class="empty">Choose a story to read it with vocabulary highlights.</p></div>`;
+        <p class="quiet">Highlights use the Oxbridge CEFR pack on this site.</p>
+      </article></div>`
+    : "";
 
   const stamp = bundle.generatedAt ? `Snapshot ${esc(formatWhen(bundle.generatedAt))}.` : "";
   return `
@@ -202,7 +240,7 @@ function renderNews() {
         ${list}
         <p class="quiet">${stamp} Stories are saved with the site so the desk works without calling the news sites from your browser.</p>
       </div>
-      <div class="pane reader">${reader}</div>
+      ${reader}
     </section>`;
 }
 
@@ -243,6 +281,7 @@ function renderBank() {
     ? `<article class="detail">
         <button type="button" class="ghost back" data-close-word>All saved words</button>
         ${renderRecordBody(current)}
+        ${copyLevelsBox(recordLevels(current))}
         <div class="actions">
           <button type="button" class="ghost" data-remove-word="${esc(current.id)}">Remove</button>
         </div>
@@ -259,11 +298,7 @@ function renderBank() {
         </div>
         ${list}
         <h3 class="kicker">Export</h3>
-        <p class="quiet">Choose which CEFR levels to include, then download a CSV.</p>
-        <div class="export-box">
-          ${LEVELS.map((level) => `<label><input type="checkbox" data-export="${level}" ${ui.exportLevels[level] ? "checked" : ""}/> ${level}</label>`).join("")}
-          <button type="button" class="solid" data-csv>Export CSV</button>
-        </div>
+        ${bankExportBox(visible)}
       </div>
       <div class="pane detail">
         ${detail}
@@ -271,8 +306,19 @@ function renderBank() {
     </section>`;
 }
 
+function bankExportBox(records) {
+  const present = orderedLevels(records.flatMap((record) => recordLevels(record)));
+  const choices = present.length > 1
+    ? present
+        .map((level) => `<label><input type="checkbox" data-export="${level}" ${ui.exportLevels[level] ? "checked" : ""}/> ${level}</label>`)
+        .join("")
+    : "";
+  const lead = present.length > 1 ? `<p class="quiet">Choose which CEFR levels to include, then download a CSV.</p>` : "";
+  return `${lead}<div class="export-box">${choices}<button type="button" class="solid" data-csv>Export CSV</button></div>`;
+}
+
 function renderRecordBody(record) {
-  const allow = activeSet(ui.exportLevels);
+  const allow = levelsForCopy(recordLevels(record));
   const senses = (record.senses || []).filter((sense) => allow.has(sense.cefr));
   const other = (record.senses || []).filter((sense) => !allow.has(sense.cefr));
   const pills = [...new Set((record.levels || []).concat(senses.map((sense) => sense.cefr)))]
@@ -327,7 +373,8 @@ function renderCard() {
   const parts = partitionSenses(hit, activeSet(ui.levels));
   const entry = primaryEntry(hit);
   const pills = hit.levels.map((level) => `<span class="pill" data-level="${esc(level)}">${esc(level)}</span>`).join("");
-  const pos = [...new Set(hit.reading.flatMap((item) => item.pos))].map(posLabel).join(" · ");
+  const facePos = parts.match.map((sense) => sense.pos);
+  const pos = [...new Set(facePos.length ? facePos : hit.reading.flatMap((item) => item.pos))].map(posLabel).join(" · ");
   root.innerHTML = `
     <div class="backdrop" data-backdrop>
       <div class="card" role="dialog" aria-modal="true" aria-labelledby="card-title">
@@ -343,12 +390,9 @@ function renderCard() {
         <button type="button" class="ghost" data-speak="${esc(entry.word)}">Listen (en-GB)</button>
         ${renderSenseGroup(parts.match, "Definitions")}
         ${parts.other.length ? renderSenseGroup(parts.other, "Other meanings", true) : ""}
+        ${parts.secondary.length ? `<details class="secondary-pos"><summary>Other parts of speech</summary>${renderSenseGroup(parts.secondary, "", true)}</details>` : ""}
         ${parts.alternates.length ? renderSenseGroup(parts.alternates, "Other readings", true) : ""}
-        <p class="quiet">Glosses are Traditional Chinese from the Oxbridge pack.</p>
-        <div class="export-box">
-          <span class="quiet">Copy levels</span>
-          ${LEVELS.map((level) => `<label><input type="checkbox" data-export="${level}" ${ui.exportLevels[level] ? "checked" : ""}/> ${level}</label>`).join("")}
-        </div>
+        ${copyLevelsBox(hit.levels)}
         <div class="actions">
           <button type="button" class="solid" data-save="${saved ? "1" : "0"}">${saved ? "Saved — remove" : "Save to Word Bank"}</button>
           <button type="button" class="ghost" data-copy>Copy word</button>
@@ -374,16 +418,17 @@ function renderSenseGroup(rows, title, quiet = false) {
         .map((row) => `<p class="sense ${quiet ? "other" : ""}"><span class="pill" data-level="${esc(row.cefr)}">${esc(row.cefr)}</span> ${esc(row.text)}</p>`)
         .join("");
       const head = many ? `${posLabel(group.pos)} · ${group.word}` : posLabel(group.pos);
-      return `<h4>${esc(head)}</h4>${lines}`;
+      return `<h4 class="pos-label">${esc(head)}</h4>${lines}`;
     })
     .join("");
-  return `<h4>${esc(title)}</h4>${body}`;
+  return `${title ? `<h4>${esc(title)}</h4>` : ""}${body}`;
 }
 
 function render() {
   hits.length = 0;
+  app.classList.remove("boot");
   if (loadError) {
-    app.innerHTML = `<div class="status"><p>${esc(loadError)}</p></div>`;
+    app.innerHTML = `<div class="app"><div class="status"><p>${esc(loadError)}</p></div>${renderFooter()}</div>`;
     return;
   }
   app.innerHTML = `<div class="app">${renderShell()}</div>`;
@@ -509,7 +554,7 @@ app.addEventListener("click", (event) => {
     const exists = words.some((item) => item.id === record.id);
     words = exists ? words.filter((item) => item.id !== record.id) : [record, ...words];
     persist();
-    copyNote = exists ? "Removed from Word Bank." : "Saved in Word Bank on this device.";
+    copyNote = exists ? "Removed from Word Bank." : "";
     renderCard();
     return;
   }
@@ -517,7 +562,7 @@ app.addEventListener("click", (event) => {
     const hit = openHit.hit;
     if (!hit) return;
     const record = hitToRecord(hit, openHit.source);
-    const text = formatWordText(record, activeSet(ui.exportLevels));
+    const text = formatWordText(record, levelsForCopy(hit.levels));
     navigator.clipboard?.writeText(text).then(
       () => {
         copyNote = "Copied.";
@@ -559,7 +604,8 @@ document.addEventListener("keydown", (event) => {
 
 function downloadCsv() {
   const visible = words.filter(wordMatchesBank);
-  const csv = toCsv(visible, activeSet(ui.exportLevels));
+  const present = orderedLevels(visible.flatMap((record) => recordLevels(record)));
+  const csv = toCsv(visible, levelsForCopy(present));
   const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
   const url = URL.createObjectURL(blob);
   const link = document.createElement("a");

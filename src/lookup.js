@@ -100,6 +100,30 @@ function isAllCaps(token) {
   return token.length >= 2 && token === token.toUpperCase() && /[A-Z]/.test(token);
 }
 
+/** Initial capital plus a lowercase letter. All-caps acronyms and single letters are not title case. */
+function isTitleCaseWord(token) {
+  const letters = String(token).replace(/['’]/g, "");
+  if (letters.length < 2) return false;
+  if (letters === letters.toUpperCase()) return false;
+  return /^[A-Z]/.test(letters) && /[a-z]/.test(letters);
+}
+
+function isNameJoin(separator) {
+  return /^[\s-]+$/.test(separator);
+}
+
+function isCapitalizedWord(token) {
+  const letters = String(token).replace(/['’]/g, "");
+  if (!letters) return false;
+  const first = letters[0];
+  return first === first.toUpperCase() && first !== first.toLowerCase();
+}
+
+/** Part 2, Chapter 3, Section 1, Figure 1.2 — a section label, not a name. */
+function followedByNumeral(source, end) {
+  return /^\s*[#.:-]?\s*\d/.test(source.slice(end));
+}
+
 function heuristicStems(lower) {
   const stems = [];
   const push = (stem) => {
@@ -141,6 +165,33 @@ function keysFromMap(lex, form) {
   return asList(lex.imap[form]).filter((key) => lex.words[key]);
 }
 
+function posLabels(entry) {
+  const listed = Array.isArray(entry?.pos) ? entry.pos : [];
+  const defined = (entry?.definitions || []).map((def) => def.pos).filter(Boolean);
+  return [...listed, ...defined];
+}
+
+function lemmaHasVerb(lex, key) {
+  const entry = lex.words[key];
+  if (!entry) return false;
+  return posLabels(entry).some((pos) => String(pos).split(/[/ ]+/).includes("v"));
+}
+
+/** evening, walked, tried. Comparatives such as better are not participles. */
+function isParticipleSurface(lower) {
+  return lower.endsWith("ing") || lower.endsWith("ied") || lower.endsWith("ed");
+}
+
+/**
+ * A participle strip may land on a verb lemma only.
+ * `evening`→`even` is dropped; `saying`→`say` and `walked`→`walk` stay.
+ * The surface's own lemma is always kept.
+ */
+function verbParticipleTargets(lex, surfaceLower, keys) {
+  if (!isParticipleSurface(surfaceLower)) return keys;
+  return keys.filter((key) => key.toLowerCase() === surfaceLower || lemmaHasVerb(lex, key));
+}
+
 function resolveKeys(lex, token) {
   if (token === "I") {
     if (lex.words.I) return ["I"];
@@ -168,15 +219,26 @@ function resolveKeys(lex, token) {
   }
 
   const lower = token.toLowerCase();
-  const mapped = unique([...keysFromMap(lex, lower), ...keysFromMap(lex, token)]);
+  const mapped = verbParticipleTargets(
+    lex,
+    lower,
+    unique([...keysFromMap(lex, lower), ...keysFromMap(lex, token)]),
+  );
   if (mapped.length) return mapped;
   if (lex.words[lower]) return [lower];
   if (lex.words[token]) return [token];
 
   for (const stem of heuristicStems(lower)) {
     const stemmed = keysFromMap(lex, stem);
-    if (stemmed.length) return unique(stemmed);
-    if (lex.words[stem]) return [stem];
+    const candidates = stemmed.length ? stemmed : (lex.words[stem] ? [stem] : []);
+    if (!candidates.length) continue;
+    // -ing / -ed / -ied may invent a stem (`evening` → `even`). Accept only a verb lemma.
+    if (isParticipleSurface(lower)) {
+      const verbs = candidates.filter((key) => lemmaHasVerb(lex, key));
+      if (verbs.length) return unique(verbs);
+      continue;
+    }
+    return unique(candidates);
   }
   return [];
 }
@@ -210,12 +272,147 @@ function levelsOf(entries) {
   return unique(entries.flatMap((entry) => entry.senses.map((sense) => sense.cefr)).filter(Boolean));
 }
 
+function isVerbPos(pos) {
+  return pos === "v" || pos === "modal v";
+}
+
+function isNounPos(pos) {
+  return pos === "n";
+}
+
+const MODALS = new Set(["will", "would", "can", "could", "may", "might", "must", "should", "shall"]);
+const AUXILIARIES = new Set([
+  "do", "does", "did", "done", "doing",
+  "don't", "dont", "doesn't", "doesnt", "didn't", "didnt",
+  "be", "am", "is", "are", "was", "were", "been", "being",
+  "have", "has", "had", "having",
+]);
+const DETERMINERS = new Set([
+  "a", "an", "the", "this", "that", "these", "those",
+  "my", "your", "his", "her", "its", "our", "their",
+  "each", "every", "any", "some", "many", "much", "more", "most", "few", "several", "no",
+  "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten",
+  "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "twenty",
+  "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety", "hundred", "thousand",
+  "another", "both", "all",
+]);
+
+function cueWord(token) {
+  if (!token) return { lower: "", possessive: false };
+  const raw = String(token).replace(/[’]/g, "'");
+  const possessive = /'s$/i.test(raw);
+  const lower = raw.replace(/'s$/i, "").replace(/^[^A-Za-z]+|[^A-Za-z]+$/g, "").toLowerCase();
+  return { lower, possessive };
+}
+
+/** Regular noun-plural shape (`parts`, `books`, `lines`). Not `-ed` / `-ing`. */
+function looksLikeRegularPlural(lower) {
+  if (lower.endsWith("ing") || lower.endsWith("ed")) return false;
+  if (lower.length > 4 && lower.endsWith("ies")) return true;
+  if (lower.length > 4 && lower.endsWith("es") && !lower.endsWith("ss")) return true;
+  if (lower.length > 3 && lower.endsWith("s") && !lower.endsWith("ss")) return true;
+  return false;
+}
+
+/**
+ * Clear verb inflection: irregular past/participle (`said`, `went`, `told`, `left`)
+ * or a regular `-ed` / `-ing` ending. A regular plural alone is not verb morphology.
+ */
+function isClearVerbInflection(lower) {
+  if (lower.endsWith("ed") || lower.endsWith("ing")) return true;
+  if (looksLikeRegularPlural(lower)) return false;
+  return true;
+}
+
+function isRomanNumeral(token) {
+  return /^(?:i{1,3}|iv|v|vi{0,3}|ix|x|xi{0,3}|xiv|xv|xvi{0,3}|xix|xx)$/i.test(token);
+}
+
+/** Part 2, Part II, Act I, Section 1.2. A lone "I" after a modal (`May I`) is the pronoun. */
+function nextIsSectionNumber(ctx, surfaceKey) {
+  if (/^\s*[#.:-]?\s*\d/.test(String(ctx.nextRaw || ""))) return true;
+  const next = cueWord(ctx.next).lower;
+  if (!next || !isRomanNumeral(next)) return false;
+  if (next.length === 1 && (MODALS.has(surfaceKey) || AUXILIARIES.has(surfaceKey) || !ctx.capitalized)) return false;
+  return true;
+}
+
+function nextIsOf(next) {
+  return cueWord(next).lower === "of";
+}
+
+function hasVerbContext(prev, surfaceKey) {
+  const { lower } = cueWord(prev);
+  if (!lower) return false;
+  if (lower === "to" || MODALS.has(lower) || AUXILIARIES.has(lower)) return true;
+  if ((lower === "he" || lower === "she" || lower === "it") && looksLikeRegularPlural(surfaceKey)) return true;
+  return false;
+}
+
+function hasDeterminer(prev, prevRaw) {
+  const cue = cueWord(prev);
+  if (cue.possessive || DETERMINERS.has(cue.lower)) return true;
+  if (!cue.lower && /\d+(?:\.\d+)?\s*$/.test(String(prevRaw || "").trim())) return true;
+  return false;
+}
+
+function keepSenses(entry, chosenFn, secondary) {
+  const chosen = entry.senses.filter(chosenFn);
+  if (!chosen.length || chosen.length === entry.senses.length) return entry;
+  entry.senses.forEach((sense, index) => {
+    if (chosen.includes(sense)) return;
+    secondary.push({
+      ...sense,
+      lemma: entry.key,
+      word: entry.word,
+      phonetic: entry.phonetic,
+      order: index,
+      rank: 1,
+    });
+  });
+  return { ...entry, senses: chosen, pos: unique(chosen.map((sense) => sense.pos)) };
+}
+
+/**
+ * Filter senses before levels. Morphology first, then context.
+ * Numeral / "of" beats to/modal/aux, which beats a determiner.
+ * A regular plural is not verb morphology. Multi-target imap entries
+ * are filtered per lemma, so `saying` keeps its own noun.
+ * @returns {{ reading: object[], secondary: object[] }}
+ */
+function filterReadingSenses(entries, cleaned, preference, ctx) {
+  const surfaceKey = cleaned.toLowerCase();
+  const secondary = [];
+  const section = nextIsSectionNumber(ctx, surfaceKey);
+  const ofCue = nextIsOf(ctx.next);
+  let family = null;
+  if (preference === "month" && section) family = "month";
+  else if (section || ofCue) family = "n";
+  else if (hasVerbContext(ctx.prev, surfaceKey)) family = "v";
+  else if (hasDeterminer(ctx.prev, ctx.prevRaw)) family = "n";
+
+  const reading = entries.map((entry) => {
+    const inflected = surfaceKey !== entry.key && isClearVerbInflection(surfaceKey);
+    if (inflected && entry.senses.some((sense) => isVerbPos(sense.pos))) {
+      return keepSenses(entry, (sense) => isVerbPos(sense.pos), secondary);
+    }
+    if (family === "month") return keepSenses(entry, (sense) => sense.month, secondary);
+    if (family === "n") return keepSenses(entry, (sense) => isNounPos(sense.pos), secondary);
+    if (family === "v") return keepSenses(entry, (sense) => isVerbPos(sense.pos), secondary);
+    return entry;
+  });
+  return { reading, secondary };
+}
+
 /**
  * @param {ReturnType<typeof createLexicon>} lex
  * @param {string} surface raw token, possessives allowed
- * @param {{ sentenceStart?: boolean }} [ctx]
+ * @param {{ sentenceStart?: boolean, nameRun?: boolean, prev?: string|null, next?: string|null, nextRaw?: string, prevRaw?: string, capitalized?: boolean }} [ctx]
  */
 export function lookupSurface(lex, surface, ctx = {}) {
+  // A Title-Case run of two or more words (United States, New Zealand) is a name span.
+  if (ctx.nameRun) return null;
+
   const cleaned = String(surface)
     .replace(/[’]/g, "'")
     .replace(/^[^A-Za-z]+|[^A-Za-z]+$/g, "")
@@ -229,12 +426,20 @@ export function lookupSurface(lex, surface, ctx = {}) {
   const readingEntries = toEntries(reading);
   if (!readingEntries.length) return null;
   const alternateEntries = toEntries(alternates);
-  const levels = levelsOf(readingEntries);
+  // Month ranking first. Then filter senses, and only then levels / ambiguous / colour.
+  const preference = monthPreference(cleaned, Boolean(ctx.sentenceStart));
+  const context = {
+    ...ctx,
+    capitalized: ctx.capitalized ?? isCapitalizedWord(cleaned),
+  };
+  const filtered = filterReadingSenses(readingEntries, cleaned, preference, context);
+  const levels = levelsOf(filtered.reading);
 
   return {
     surface: cleaned,
-    preference: monthPreference(cleaned, Boolean(ctx.sentenceStart)),
-    reading: readingEntries,
+    preference,
+    reading: filtered.reading,
+    secondary: filtered.secondary,
     alternates: alternateEntries,
     levels,
     ambiguous: levels.length > 1,
@@ -283,9 +488,26 @@ export function partitionSenses(hit, activeLevels) {
     if (activeLevels.has(row.cefr)) match.push(row);
     else other.push(row);
   }
+  // When several CEFR levels remain, the card face is the lowest one
+  // (then definition order). Higher senses stay collapsed. They still
+  // sit on the hit, so a bare lemma can keep a multi-level highlight.
+  const topRank = match.reduce((min, row) => Math.min(min, row.rank), Infinity);
+  const preferred = match.filter((row) => row.rank === topRank);
+  const deferred = match.filter((row) => row.rank !== topRank);
+  const faceLevels = unique(preferred.map((row) => row.cefr));
+  let face = preferred;
+  let collapsed = deferred;
+  if (faceLevels.length > 1) {
+    const best = faceLevels.reduce((lowest, level) => (
+      LEVELS.indexOf(level) < LEVELS.indexOf(lowest) ? level : lowest
+    ));
+    face = preferred.filter((row) => row.cefr === best);
+    collapsed = [...preferred.filter((row) => row.cefr !== best), ...deferred];
+  }
   return {
-    match,
+    match: face,
     other,
+    secondary: [...(hit.secondary || []), ...collapsed],
     alternates: taggedSenses(hit.alternates, null),
   };
 }
@@ -303,26 +525,73 @@ export function highlightStyle(hit, activeLevels) {
  */
 export function annotate(text, lex, activeLevels) {
   const source = String(text || "");
-  const parts = [];
   const pattern = /[A-Za-z]+(?:['’][A-Za-z]+)*/g;
-  let last = 0;
-  let sentenceStart = true;
+  const matches = [];
   let match;
   while ((match = pattern.exec(source))) {
-    const start = match.index;
-    if (start > last) {
-      const sep = source.slice(last, start);
+    matches.push({
+      start: match.index,
+      end: match.index + match[0].length,
+      token: match[0],
+      title: isTitleCaseWord(match[0]),
+    });
+  }
+
+  const sectionLabel = matches.map((item) => isCapitalizedWord(item.token) && followedByNumeral(source, item.end));
+  const nameRun = matches.map(() => false);
+  let index = 0;
+  while (index < matches.length) {
+    if (!matches[index].title || sectionLabel[index]) {
+      index += 1;
+      continue;
+    }
+    let end = index;
+    while (
+      end + 1 < matches.length &&
+      matches[end + 1].title &&
+      !sectionLabel[end + 1] &&
+      isNameJoin(source.slice(matches[end].end, matches[end + 1].start))
+    ) {
+      end += 1;
+    }
+    if (end > index) {
+      for (let cursor = index; cursor <= end; cursor += 1) nameRun[cursor] = true;
+    }
+    index = end + 1;
+  }
+
+  const parts = [];
+  let last = 0;
+  let sentenceStart = true;
+  matches.forEach((item, itemIndex) => {
+    if (item.start > last) {
+      const sep = source.slice(last, item.start);
       parts.push({ type: "text", text: sep });
       if (/[.!?]|\n/.test(sep)) sentenceStart = true;
     }
-    const token = match[0];
-    const hit = lex ? lookupSurface(lex, token, { sentenceStart }) : null;
+    const prev = itemIndex > 0 ? matches[itemIndex - 1] : null;
+    const next = itemIndex + 1 < matches.length ? matches[itemIndex + 1] : null;
+    const prevGap = prev ? source.slice(prev.end, item.start) : source.slice(0, item.start);
+    const nextGap = source.slice(item.end, next ? next.start : source.length);
+    const brokenBefore = /[.!?\n]/.test(prevGap);
+    const brokenAfter = /[.!?\n]/.test(nextGap);
+    const hit = lex
+      ? lookupSurface(lex, item.token, {
+        sentenceStart,
+        nameRun: nameRun[itemIndex],
+        capitalized: isCapitalizedWord(item.token),
+        prev: prev && !brokenBefore ? prev.token : null,
+        next: next && !brokenAfter ? next.token : null,
+        prevRaw: prevGap,
+        nextRaw: nextGap,
+      })
+      : null;
     const style = hit ? highlightStyle(hit, activeLevels) : null;
-    if (hit && style) parts.push({ type: "hit", text: token, hit, style });
-    else parts.push({ type: "text", text: token });
+    if (hit && style) parts.push({ type: "hit", text: item.token, hit, style });
+    else parts.push({ type: "text", text: item.token });
     sentenceStart = false;
-    last = start + token.length;
-  }
+    last = item.end;
+  });
   if (last < source.length) parts.push({ type: "text", text: source.slice(last) });
   return parts;
 }
