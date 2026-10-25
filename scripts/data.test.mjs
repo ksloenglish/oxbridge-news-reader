@@ -10,7 +10,7 @@ import {
 
 const catalogRaw = {
   policy: "Free English RSS only.",
-  caps: { perFeed: 20, total: 150, excerptChars: 280 },
+  caps: { perFeed: 20, total: 150, excerptWords: 20 },
   feeds: [
     { id: "rthk-local", name: "RTHK English — Local", url: "https://example.com/local.xml", category: "rthk", enabled: true },
     { id: "rthk-world", name: "RTHK English — World", url: "https://example.com/world.xml", category: "rthk", enabled: true },

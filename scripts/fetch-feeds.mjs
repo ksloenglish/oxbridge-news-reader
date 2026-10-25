@@ -4,13 +4,14 @@
  *
  * Caps (overridable via public/data/feeds.json `caps`): 20 newest items per
  * feed, then 150 newest articles after de-duplicating by link.
+ * Card excerpts are about 20 words. fullText is the cleaned article body.
  * A failed feed is logged and skipped. If every enabled feed fails and a
  * snapshot already exists, that file is left unchanged.
  */
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { EXCERPT_CHARS } from "./lib/html.mjs";
+import { EXCERPT_WORDS } from "./lib/html.mjs";
 import { parseFeedXml } from "./lib/parse-feed.mjs";
 import {
   DEFAULT_PER_FEED_CAP,
@@ -211,7 +212,7 @@ export async function ingest(options = {}) {
 
   await mkdir(path.dirname(outputPath), { recursive: true });
   await writeFile(outputPath, `${JSON.stringify(decision.snapshot, null, 2)}\n`, "utf8");
-  log(`Wrote ${articles.length} articles (per feed ${catalog.perFeed}, total ${catalog.total}, excerpt ${EXCERPT_CHARS}) to ${path.relative(ROOT, outputPath)}`);
+  log(`Wrote ${articles.length} articles (per feed ${catalog.perFeed}, total ${catalog.total}, excerpt ${EXCERPT_WORDS} words) to ${path.relative(ROOT, outputPath)}`);
   return {
     wrote: true,
     reason: decision.reason,

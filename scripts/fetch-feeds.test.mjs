@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import test from "node:test";
-import { extractImageFromHtml, htmlToText, makeExcerpt } from "./lib/html.mjs";
+import { EXCERPT_WORDS, extractImageFromHtml, htmlToText, makeExcerpt, wordsOf } from "./lib/html.mjs";
 import { parseFeedXml, toIso } from "./lib/parse-feed.mjs";
 import {
   articleId,
@@ -52,10 +52,29 @@ test("htmlToText drops scripts and keeps paragraphs", () => {
   assert.match(text, /World & city/);
 });
 
-test("excerpt stops on a word boundary", () => {
-  const excerpt = makeExcerpt("one two three four", 10);
+test("makeExcerpt keeps about 20 words and ellipsizes a cut", () => {
+  const words = Array.from({ length: 30 }, (_, index) => `word${index + 1}`);
+  const excerpt = makeExcerpt(words.join("  \n"));
   assert.equal(excerpt.endsWith("…"), true);
-  assert.equal(excerpt.includes("three"), false);
+  assert.equal(wordsOf(excerpt.replace(/…$/u, "")).length, EXCERPT_WORDS);
+  assert.equal(excerpt.startsWith("word1 word2"), true);
+  assert.equal(excerpt.includes("word21"), false);
+  assert.equal(EXCERPT_WORDS, 20);
+});
+
+test("makeExcerpt leaves a short passage whole", () => {
+  assert.equal(makeExcerpt("one two three"), "one two three");
+  assert.equal(makeExcerpt("  one   two \n three  "), "one two three");
+  assert.equal(makeExcerpt(""), "");
+  assert.equal(makeExcerpt(null), "");
+  const exact = Array.from({ length: EXCERPT_WORDS }, (_, index) => `w${index + 1}`).join(" ");
+  assert.equal(makeExcerpt(exact), exact);
+});
+
+test("makeExcerpt cuts on a word and drops trailing punctuation", () => {
+  const excerpt = makeExcerpt("one two three four", 2);
+  assert.equal(excerpt, "one two…");
+  assert.equal(makeExcerpt("alpha, beta. gamma! delta?", 3), "alpha, beta. gamma…");
 });
 
 test("toIso converts RTHK-style pubDate", () => {
@@ -72,13 +91,13 @@ test("parse RSS prefers full text, media image, and a stable id", () => {
   assert.equal(latest.fullText.includes("alert"), false);
   assert.equal(latest.fullText.includes("distinct harbour teaser"), false);
   assert.equal(latest.excerpt, "A distinct harbour teaser that does not open the article body.");
+  assert.equal(wordsOf(latest.excerpt).length <= EXCERPT_WORDS, true);
   assert.equal(latest.imageUrl, "https://cdn.example.com/harbour.jpg");
   assert.equal(latest.publishedAt, "2026-10-25T10:56:54.000Z");
   assert.equal(latest.source, "Example News");
   assert.equal(latest.sourceFeed, "example");
   assert.equal(latest.link, "https://example.com/stories/one/");
   assert.equal(latest.id, articleId(latest.link));
-  assert.equal(latest.excerpt.length <= 280, true);
 
   const older = articles.find((article) => article.link.endsWith("/two"));
   assert.equal(older.imageUrl, "https://cdn.example.com/two.png");
@@ -94,6 +113,38 @@ test("canonical link ignores trailing slash and hash", () => {
     articleId("https://example.com/stories/one/"),
     articleId("https://example.com/stories/one#x"),
   );
+});
+
+test("a long body becomes a 20-word excerpt and fullText stays whole", () => {
+  const words = Array.from({ length: 40 }, (_, index) => `term${index + 1}`);
+  const xml = `<?xml version="1.0"?>
+    <rss version="2.0"><channel><item>
+      <title>Long story</title>
+      <link>https://example.com/stories/long</link>
+      <description><![CDATA[<p>${words.join(" ")}.</p>]]></description>
+    </item></channel></rss>`;
+  const [article] = parseFeedXml(xml, FEED);
+  assert.equal(article.fullText, `${words.join(" ")}.`);
+  assert.equal(article.excerpt.endsWith("…"), true);
+  assert.equal(wordsOf(article.excerpt.replace(/…$/u, "")).join(" "), words.slice(0, EXCERPT_WORDS).join(" "));
+  assert.equal(article.fullText.length > article.excerpt.length, true);
+});
+
+test("a long distinct teaser is cut to 20 words", () => {
+  const teaser = Array.from({ length: 28 }, (_, index) => `tease${index + 1}`);
+  const body = Array.from({ length: 60 }, (_, index) => `body${index + 1}`);
+  const xml = `<?xml version="1.0"?>
+    <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><item>
+      <title>Teaser story</title>
+      <link>https://example.com/stories/teaser</link>
+      <description><![CDATA[${teaser.join(" ")}]]></description>
+      <content:encoded><![CDATA[<p>${body.join(" ")}</p>]]></content:encoded>
+    </item></channel></rss>`;
+  const [article] = parseFeedXml(xml, FEED);
+  assert.equal(article.fullText, body.join(" "));
+  assert.equal(article.excerpt.endsWith("…"), true);
+  assert.equal(wordsOf(article.excerpt.replace(/…$/u, "")).join(" "), teaser.slice(0, EXCERPT_WORDS).join(" "));
+  assert.equal(article.excerpt.includes("body1"), false);
 });
 
 test("parse Atom entries", () => {
@@ -224,6 +275,7 @@ test("approved catalog is the locked English list", () => {
   const catalog = loadCatalog(raw);
   assert.equal(catalog.perFeed, 20);
   assert.equal(catalog.total, 150);
+  assert.equal(JSON.parse(raw).caps.excerptWords, EXCERPT_WORDS);
   assert.deepEqual(catalog.feeds.map((feed) => [feed.id, feed.category, feed.url, feed.enabled]), [
     ["rthk-local", "rthk", "https://rthk.hk/rthk/news/rss/e_expressnews_elocal.xml", true],
     ["rthk-greater-china", "rthk", "https://rthk.hk/rthk/news/rss/e_expressnews_egreaterchina.xml", true],

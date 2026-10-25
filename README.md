@@ -94,7 +94,7 @@ To change what gets ingested, edit the catalog and merge it to `main`. The fetch
 | --- | --- |
 | id | First 16 hex characters of SHA-256 over the canonical link (fragment and trailing slash ignored). Guid is used when a link is missing. |
 | title | Plain text |
-| excerpt | Plain text, at most 280 characters |
+| excerpt | Plain text, about 20 words. Longer text is cut on a word boundary and ends with an ellipsis. |
 | fullText | Plain text from `content:encoded` or `description`, whichever is longer. Script, style, and iframe blocks are removed. |
 | imageUrl | `media:content`, `media:thumbnail`, `enclosure`, or an image in the feed HTML. `null` when the item has none. |
 | publishedAt | ISO 8601 UTC, or `null` when the date is missing |
@@ -102,7 +102,7 @@ To change what gets ingested, edit the catalog and merge it to `main`. The fetch
 | sourceFeed | Feed `id` |
 | link | Absolute article URL |
 
-Items are de-duplicated by link and sorted newest first. The catalog `caps` keep 20 items per feed and 150 articles in total.
+Items are de-duplicated by link and sorted newest first. The catalog `caps` keep 20 items per feed, 150 articles in total, and excerpts of about 20 words (`excerptWords`).
 
 A feed that returns an HTTP error, times out, or sends a non-feed page is logged and skipped. Articles from the feeds that succeeded are still written. The feed row keeps `ok: false` and the error text. When every enabled feed fails and a snapshot is already on disk, the script leaves that file unchanged. A source that keeps failing is removed from the catalog instead of left enabled.
 

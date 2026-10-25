@@ -1,6 +1,7 @@
 /** Plain-text cleanup for feed HTML. Script and style blocks are removed. */
 
-export const EXCERPT_CHARS = 280;
+/** News Desk card excerpts are about this many words. `fullText` stays whole. */
+export const EXCERPT_WORDS = 20;
 
 const NAMED_ENTITIES = {
   amp: "&",
@@ -80,13 +81,23 @@ export function htmlToText(input) {
   return normalizeWhitespace(text);
 }
 
-export function makeExcerpt(fullText, max = EXCERPT_CHARS) {
-  const flat = String(fullText ?? "").replace(/\s+/g, " ").trim();
-  if (flat.length <= max) return flat;
-  let cut = flat.slice(0, max);
-  const space = cut.lastIndexOf(" ");
-  if (space >= Math.floor(max * 0.6)) cut = cut.slice(0, space);
-  return `${cut.replace(/[.,;:!?]+$/u, "")}…`;
+/** Whitespace-separated tokens. Punctuation stays attached to its word. */
+export function wordsOf(value) {
+  const flat = String(value ?? "").replace(/\s+/g, " ").trim();
+  if (!flat) return [];
+  return flat.split(" ");
+}
+
+/**
+ * Card excerpt of about `maxWords` words (default 20).
+ * Shorter text is returned whole. A cut ends on a word boundary with an ellipsis.
+ */
+export function makeExcerpt(fullText, maxWords = EXCERPT_WORDS) {
+  const words = wordsOf(fullText);
+  const limit = Number.isInteger(maxWords) && maxWords > 0 ? maxWords : EXCERPT_WORDS;
+  if (words.length <= limit) return words.join(" ");
+  const cut = words.slice(0, limit).join(" ").replace(/[.,;:!?]+$/u, "");
+  return cut ? `${cut}…` : "…";
 }
 
 export function resolveHttpUrl(value, base) {
