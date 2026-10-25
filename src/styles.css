@@ -543,6 +543,24 @@ button.token:focus-visible, .nav button:focus-visible, .level:focus-visible, .st
   border: 1px solid #d5e2b8;
   border-radius: 0.6rem;
 }
+/* Cool slate footnote band. Not body ink, not the muted grey, not a CEFR
+   pair, and not the green "Already in Word Bank" note. */
+.dict-note {
+  margin: 1rem 0 0;
+  padding: 0.6rem 0.75rem;
+  border-radius: 0.6rem;
+  background: #e8eaef;
+  color: #3a4460;
+  border: 1px solid #c9ced9;
+  font-size: 0.75rem;
+  line-height: 1.45;
+}
+.card .dict-note {
+  margin: 1.15rem -1.15rem -1.2rem;
+  padding: 0.7rem 1.15rem 0.85rem;
+  border-radius: 0 0 1rem 1rem;
+  border-width: 1px 0 0;
+}
 
 .cefr-summary {
   margin-top: 1.25rem;
