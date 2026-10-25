@@ -1,0 +1,80 @@
+{
+  "policy": "Free English RSS only. Prefer feeds with substantial in-feed article text. SCMP is excluded (paywall). Headline-only BBC and VOA Learning feeds are excluded.",
+  "caps": {
+    "perFeed": 20,
+    "total": 150,
+    "excerptChars": 280
+  },
+  "feeds": [
+    {
+      "id": "rthk-local",
+      "name": "RTHK English — Local",
+      "url": "https://rthk.hk/rthk/news/rss/e_expressnews_elocal.xml",
+      "category": "rthk",
+      "enabled": true
+    },
+    {
+      "id": "rthk-greater-china",
+      "name": "RTHK English — Greater China",
+      "url": "https://rthk.hk/rthk/news/rss/e_expressnews_egreaterchina.xml",
+      "category": "rthk",
+      "enabled": true
+    },
+    {
+      "id": "rthk-world",
+      "name": "RTHK English — World",
+      "url": "https://rthk.hk/rthk/news/rss/e_expressnews_einternational.xml",
+      "category": "rthk",
+      "enabled": true
+    },
+    {
+      "id": "rthk-finance",
+      "name": "RTHK English — Finance",
+      "url": "https://rthk.hk/rthk/news/rss/e_expressnews_efinance.xml",
+      "category": "rthk",
+      "enabled": true
+    },
+    {
+      "id": "rthk-sport",
+      "name": "RTHK English — Sport",
+      "url": "https://rthk.hk/rthk/news/rss/e_expressnews_esport.xml",
+      "category": "rthk",
+      "enabled": true
+    },
+    {
+      "id": "hkfp",
+      "name": "Hong Kong Free Press",
+      "url": "https://hongkongfp.com/feed/",
+      "category": "hk",
+      "enabled": true
+    },
+    {
+      "id": "news-gov-hk-top",
+      "name": "news.gov.hk — Top Story",
+      "url": "https://www.news.gov.hk/en/common/html/topstories.rss.xml",
+      "category": "hk",
+      "enabled": true
+    },
+    {
+      "id": "news-gov-hk-school-work",
+      "name": "news.gov.hk — At School, At Work",
+      "url": "https://www.news.gov.hk/en/categories/school_work/html/articlelist.rss.xml",
+      "category": "hk",
+      "enabled": true
+    },
+    {
+      "id": "dimsum-daily",
+      "name": "Dimsum Daily",
+      "url": "https://www.dimsumdaily.hk/feed/",
+      "category": "hk",
+      "enabled": true
+    },
+    {
+      "id": "rfa-english",
+      "name": "Radio Free Asia English",
+      "url": "https://www.rfa.org/english/rss",
+      "category": "international",
+      "enabled": true
+    }
+  ]
+}
