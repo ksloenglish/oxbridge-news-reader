@@ -112,9 +112,11 @@ function copyLevelsBox(levels) {
 function renderFooter() {
   return `
     <footer class="site-footer">
-      <div class="build-stamp">${__KSLO_BUILD__}</div>
-      <p>&copy; <span id="copyright-year">${__KSLO_YEAR__}</span> K S Lo English. All Rights Reserved.</p>
-      <p class="disclaimer">News articles are provided by their original publishers for language learning. They belong to those sources and do not represent the views of K S Lo English.</p>
+      <div class="footer-inner">
+        <div class="build-stamp">${__KSLO_BUILD__}</div>
+        <p>&copy; <span id="copyright-year">${__KSLO_YEAR__}</span> K S Lo English. All Rights Reserved.</p>
+        <p class="disclaimer">News articles are provided by their original publishers for language learning. They belong to those sources and do not represent the views of K S Lo English.</p>
+      </div>
     </footer>`;
 }
 
