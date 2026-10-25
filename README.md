@@ -152,4 +152,4 @@ Glosses are the Traditional Chinese `tc` field. IPA is `phonetic`.
 
 ## Brand
 
-K S Lo English. Ink `#111827`, paper `#f9f6f1`, accent `#b45309`, on-accent `#ffffff`, muted `#6b7280`. The header mark is the K S Lo English logo on the school plate `#1054a9` (3rem, radius 0.62rem, inset padding so the white mark does not touch the plate). The same crest, on that plate, is the favicon. The reader is light Oxbridge night only. The school plate is not a CEFR level colour.
+K S Lo English. Ink `#111827`, paper `#f9f6f1`, accent `#b45309`, on-accent `#ffffff`, muted `#6b7280`. The header mark is the K S Lo English logo on the school plate `#1054a9` (3rem, radius 0.62rem, inset padding so the white mark does not touch the plate). The same crest, on that plate, is the favicon. The link-preview image (`og.png`) uses that plate with square corners. The reader is light Oxbridge night only. The school plate is not a CEFR level colour.

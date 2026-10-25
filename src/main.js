@@ -249,7 +249,7 @@ function renderNews() {
 
   const reader = current
     ? `<div class="pane reader"><article class="reader">
-        <button type="button" class="ghost back" data-close-article>All stories</button>
+        <button type="button" class="back back-stories" data-close-article>All stories</button>
         <p class="kicker">${esc(current.source || selectionLabel(catalog, ui.selection))}</p>
         <h2>${renderAnnotated(current.title)}</h2>
         <p class="meta">${esc(formatWhen(current.publishedAt))}${current.link ? ` · <a class="original" href="${esc(safeUrl(current.link))}" target="_blank" rel="noopener noreferrer">Original article</a>` : ""}</p>
