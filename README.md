@@ -60,7 +60,7 @@ Mid-sentence lowercase `march` and `may` prefer the non-month sense. `March` and
 
 ## Word card and export
 
-Click a highlighted word for the CEFR pill, part of speech, Traditional Chinese glosses grouped by part of speech, IPA in `/.../` when the pack has `phonetic`, and **Listen (en-GB)** (`speechSynthesis`, British voice when the browser has one).
+Click a highlighted word for the CEFR pill, part of speech, and the gloss (English `en` when that sense has one, otherwise the Hong Kong Traditional Chinese `tc`), IPA in `/.../` when the pack has `phonetic`, and **Listen (en-GB)** (`speechSynthesis`, British voice when the browser has one).
 
 Save adds the word to Word Bank. If that lemma is already saved, the card says **Already in Word Bank** and offers Remove instead of a second save. The card shows the surface form when it differs from the headword. Copy uses the level checkboxes and includes the word, CEFR, part of speech, and definitions. Copy leaves out the surface form, lemma, IPA, source, and URL. CSV columns:
 
@@ -148,7 +148,7 @@ The browser loads that file from the Pages origin. Publisher feed URLs are reque
 3. If the map misses, try the token as a `words` key, then suffix heuristics for `-ed`, `-ing`, `-ies`, `-es`, and `-s`.
 4. A sense with no `cefr` uses the headword’s `cefr`. A sense may carry its own `cefr` when the level differs.
 
-Glosses are the Traditional Chinese `tc` field. IPA is `phonetic`.
+When a sense has `en`, the card shows that English gloss. Otherwise it shows the Hong Kong Traditional Chinese `tc` field. IPA is `phonetic`. See `public/data/LOOKUP.md`.
 
 ## Brand
 
