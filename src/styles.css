@@ -9,18 +9,19 @@
   /* HKMA K S Lo College theme3 primary, the prior BrandMark plate. */
   --mark-bg: #1054a9;
   --shadow: 0 18px 50px rgba(17, 24, 39, 0.12);
-  --a1: #22c55e;
-  --a1-bg: #deefdb;
-  --a2: #00c5a6;
-  --a2-bg: #deefe6;
-  --b1: #00b7e2;
-  --b1-bg: #ddedf0;
-  --b2: #009cff;
-  --b2-bg: #dae9f6;
-  --c1: #6679ff;
-  --c1-bg: #dfe3f7;
-  --c2: #a855f7;
-  --c2-bg: #ebdef5;
+  /* Green → purple, with a wider hue step so neighbouring levels stay apart. */
+  --a1: #17790c;
+  --a1-bg: #caf6c5;
+  --a2: #09724f;
+  --a2-bg: #c7f5e6;
+  --b1: #055f76;
+  --b1-bg: #bfecf8;
+  --b2: #0d3fc9;
+  --b2-bg: #d0dcfb;
+  --c1: #6b1fc1;
+  --c1-bg: #e7d8f8;
+  --c2: #8518a0;
+  --c2-bg: #efcff7;
   color-scheme: light;
   font-family: "Source Sans 3", "Segoe UI", sans-serif;
   font-size: 18px;
