@@ -222,6 +222,37 @@ function levelsOf(entries) {
   return unique(entries.flatMap((entry) => entry.senses.map((sense) => sense.cefr)).filter(Boolean));
 }
 
+function isVerbPos(pos) {
+  return pos === "v" || pos === "modal v";
+}
+
+/**
+ * Inflected surfaces prefer verb senses. A bare lemma (surface === key) keeps every sense.
+ * Multi-target hits are filtered per lemma, so `saying` keeps its own noun entry.
+ * @returns {{ reading: object[], secondary: object[] }}
+ */
+function preferInflectedVerbs(entries, surfaceKey) {
+  const secondary = [];
+  const reading = entries.map((entry) => {
+    if (surfaceKey === entry.key) return entry;
+    const verbs = entry.senses.filter((sense) => isVerbPos(sense.pos));
+    if (!verbs.length) return entry;
+    entry.senses.forEach((sense, index) => {
+      if (isVerbPos(sense.pos)) return;
+      secondary.push({
+        ...sense,
+        lemma: entry.key,
+        word: entry.word,
+        phonetic: entry.phonetic,
+        order: index,
+        rank: 1,
+      });
+    });
+    return { ...entry, senses: verbs, pos: unique(verbs.map((sense) => sense.pos)) };
+  });
+  return { reading, secondary };
+}
+
 /**
  * @param {ReturnType<typeof createLexicon>} lex
  * @param {string} surface raw token, possessives allowed
@@ -244,12 +275,16 @@ export function lookupSurface(lex, surface, ctx = {}) {
   const readingEntries = toEntries(reading);
   if (!readingEntries.length) return null;
   const alternateEntries = toEntries(alternates);
-  const levels = levelsOf(readingEntries);
+  // Month choice first, then drop non-verb senses on inflected forms before levels and colour.
+  const preference = monthPreference(cleaned, Boolean(ctx.sentenceStart));
+  const filtered = preferInflectedVerbs(readingEntries, cleaned.toLowerCase());
+  const levels = levelsOf(filtered.reading);
 
   return {
     surface: cleaned,
-    preference: monthPreference(cleaned, Boolean(ctx.sentenceStart)),
-    reading: readingEntries,
+    preference,
+    reading: filtered.reading,
+    secondary: filtered.secondary,
     alternates: alternateEntries,
     levels,
     ambiguous: levels.length > 1,
@@ -301,6 +336,7 @@ export function partitionSenses(hit, activeLevels) {
   return {
     match,
     other,
+    secondary: hit.secondary || [],
     alternates: taggedSenses(hit.alternates, null),
   };
 }

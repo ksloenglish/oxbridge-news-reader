@@ -100,6 +100,48 @@ test("title-case name runs are not highlighted, but list words such as Sunday an
   assert.equal(lookupSurface(lex, "jazz").reading[0].word, "jazz");
 });
 
+test("inflected verbs keep verb senses only, bare lemmas stay multi-level", () => {
+  const all = new Set(["A1", "A2", "B1", "B2", "C1", "C2"]);
+  const said = lookupSurface(lex, "said");
+  assert.deepEqual(said.levels, ["A1"]);
+  assert.equal(said.ambiguous, false);
+  assert.ok(said.reading.every((entry) => entry.senses.every((sense) => sense.pos === "v" || sense.pos === "modal v")));
+  assert.ok(said.secondary.some((sense) => sense.pos === "n" && sense.cefr === "C1"));
+  const saidParts = partitionSenses(said, all);
+  assert.ok(saidParts.match.every((sense) => sense.pos === "v" && sense.cefr === "A1"));
+  assert.equal(saidParts.match.some((sense) => sense.cefr === "C1"), false);
+
+  const line = annotate("Chan said he directed the bureau.", lex, all);
+  const saidHit = line.find((part) => part.text === "said");
+  assert.equal(saidHit.style.kind, "solid");
+  assert.equal(saidHit.style.level, "A1");
+  const hidden = annotate("Chan said he directed the bureau.", lex, advanced);
+  assert.equal(hidden.find((part) => part.text === "said").type, "text");
+
+  for (const form of ["went", "told", "says"]) {
+    const hit = lookupSurface(lex, form);
+    assert.equal(hit.ambiguous, false, form);
+    assert.ok(hit.reading.every((entry) => entry.senses.every((sense) => sense.pos === "v" || sense.pos === "modal v")), form);
+  }
+
+  const say = lookupSurface(lex, "say");
+  assert.deepEqual(say.levels.sort(), ["A1", "C1"]);
+  assert.equal(say.ambiguous, true);
+  assert.equal(say.secondary.length, 0);
+  const sayHit = annotate("They say it.", lex, all).find((part) => part.text === "say");
+  assert.equal(sayHit.style.kind, "multi");
+
+  const saying = lookupSurface(lex, "saying");
+  assert.ok(saying.reading.some((entry) => entry.key === "saying" && entry.senses.some((sense) => sense.pos === "n")));
+  assert.ok(saying.reading.some((entry) => entry.key === "say" && entry.senses.every((sense) => sense.pos === "v")));
+  assert.equal(saying.levels.includes("C1"), false);
+  assert.ok(saying.secondary.some((sense) => sense.cefr === "C1" && sense.pos === "n"));
+
+  const marched = lookupSurface(lex, "marched");
+  assert.ok(marched.reading[0].senses.every((sense) => sense.pos === "v"));
+  assert.equal(marched.levels.includes("A1"), false);
+});
+
 test("copy text and CSV keep only the chosen CEFR levels", () => {
   const hit = lookupSurface(lex, "address");
   const record = hitToRecord(hit, { title: "A story", url: "https://example.com/a" });

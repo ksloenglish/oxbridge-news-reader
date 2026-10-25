@@ -113,7 +113,8 @@ function renderFooter() {
   return `
     <footer class="site-footer">
       <div class="build-stamp">${__KSLO_BUILD__}</div>
-      &copy; <span id="copyright-year">${__KSLO_YEAR__}</span> K S Lo English. All Rights Reserved.
+      <p>&copy; <span id="copyright-year">${__KSLO_YEAR__}</span> K S Lo English. All Rights Reserved.</p>
+      <p class="disclaimer">News articles are provided by their original publishers for language learning. They belong to those sources and do not represent the views of K S Lo English.</p>
     </footer>`;
 }
 
@@ -213,7 +214,7 @@ function renderNews() {
     : `<p class="empty">${esc(emptySelectionNote())}</p>`;
 
   const reader = current
-    ? `<article class="reader">
+    ? `<div class="pane reader"><article class="reader">
         <button type="button" class="ghost back" data-close-article>All stories</button>
         <p class="kicker">${esc(current.source || selectionLabel(catalog, ui.selection))}</p>
         <h2>${renderAnnotated(current.title)}</h2>
@@ -221,8 +222,8 @@ function renderNews() {
         ${current.imageUrl && safeUrl(current.imageUrl) ? `<img class="hero" alt="" src="${esc(safeUrl(current.imageUrl))}" />` : ""}
         <div class="body">${paragraphs(current.fullText)}</div>
         <p class="quiet">Highlights use the Oxbridge CEFR pack on this site.</p>
-      </article>`
-    : `<div class="reader"><p class="empty">Choose a story to read it with vocabulary highlights.</p></div>`;
+      </article></div>`
+    : "";
 
   const stamp = bundle.generatedAt ? `Snapshot ${esc(formatWhen(bundle.generatedAt))}.` : "";
   return `
@@ -237,7 +238,7 @@ function renderNews() {
         ${list}
         <p class="quiet">${stamp} Stories are saved with the site so the desk works without calling the news sites from your browser.</p>
       </div>
-      <div class="pane reader">${reader}</div>
+      ${reader}
     </section>`;
 }
 
@@ -386,6 +387,7 @@ function renderCard() {
         <button type="button" class="ghost" data-speak="${esc(entry.word)}">Listen (en-GB)</button>
         ${renderSenseGroup(parts.match, "Definitions")}
         ${parts.other.length ? renderSenseGroup(parts.other, "Other meanings", true) : ""}
+        ${parts.secondary.length ? `<details class="secondary-pos"><summary>Other parts of speech</summary>${renderSenseGroup(parts.secondary, "", true)}</details>` : ""}
         ${parts.alternates.length ? renderSenseGroup(parts.alternates, "Other readings", true) : ""}
         ${copyLevelsBox(hit.levels)}
         <div class="actions">
@@ -416,7 +418,7 @@ function renderSenseGroup(rows, title, quiet = false) {
       return `<h4>${esc(head)}</h4>${lines}`;
     })
     .join("");
-  return `<h4>${esc(title)}</h4>${body}`;
+  return `${title ? `<h4>${esc(title)}</h4>` : ""}${body}`;
 }
 
 function render() {

@@ -6,7 +6,8 @@
   --muted: #6b7280;
   --line: #e6dfd4;
   --card: #fffdf9;
-  --mark-bg: #3b82f6;
+  /* Blue from the K S Lo English BrandMark artwork (ai-showcase official logo). */
+  --mark-bg: #0071bc;
   --shadow: 0 18px 50px rgba(17, 24, 39, 0.12);
   --a1: #22c55e;
   --a1-bg: #deefdb;
@@ -94,7 +95,7 @@ a { color: var(--accent); }
   flex: none;
   display: grid;
   place-items: center;
-  padding: 0.22rem;
+  padding: 0.18rem;
   border-radius: 0.55rem;
   background: var(--mark-bg);
   overflow: hidden;
@@ -211,6 +212,12 @@ h1 {
   color: var(--muted);
   opacity: 0.5;
   margin-bottom: 4px;
+}
+.site-footer p { margin: 0; }
+.disclaimer {
+  max-width: 40rem;
+  margin: 0.7rem auto 0;
+  line-height: 1.45;
 }
 
 .desk, .bank {
@@ -415,6 +422,15 @@ button.token:focus-visible, .nav button:focus-visible, .level:focus-visible, .st
 .sense { margin: 0 0 0.55rem; }
 .sense b { font-weight: 700; }
 .other { opacity: 0.78; }
+.secondary-pos { margin-top: 0.85rem; }
+.secondary-pos summary {
+  cursor: pointer;
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
 .card .close {
   border: 0;
   background: transparent;
@@ -425,16 +441,17 @@ button.token:focus-visible, .nav button:focus-visible, .level:focus-visible, .st
 .copied { color: var(--accent); font-weight: 700; min-height: 1.2em; }
 
 @media (min-width: 960px) {
-  .desk { grid-template-columns: minmax(16rem, 24rem) minmax(0, 1fr); align-items: start; }
+  .desk.reading { grid-template-columns: minmax(16rem, 24rem) minmax(0, 1fr); align-items: start; }
   .bank { grid-template-columns: minmax(16rem, 24rem) minmax(0, 1fr); align-items: start; }
-  .list-pane { position: sticky; top: 9.25rem; max-height: calc(100vh - 10.25rem); overflow: auto; }
+  .desk.reading .list-pane,
+  .bank .list-pane { position: sticky; top: 9.25rem; max-height: calc(100vh - 10.25rem); overflow: auto; }
 }
 
 @media (max-width: 959px) {
   .nav { margin-left: 0; order: 3; }
   .hint { display: none; }
   .desk.reading .list-pane, .bank.reading .list-pane { display: none; }
-  .desk:not(.reading) .reader, .bank:not(.reading) .detail { display: none; }
+  .bank:not(.reading) .detail { display: none; }
   .back { display: inline-flex; }
   .story { scroll-margin-top: 10rem; }
 }
