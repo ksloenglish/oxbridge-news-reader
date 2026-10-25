@@ -285,6 +285,8 @@ test("approved catalog is the locked English list", () => {
     ["news-gov-hk-top", "hk", "https://www.news.gov.hk/en/common/html/topstories.rss.xml", true],
     ["news-gov-hk-school-work", "hk", "https://www.news.gov.hk/en/categories/school_work/html/articlelist.rss.xml", true],
     ["rfa-english", "international", "https://www.rfa.org/english/rss", true],
+    ["mit-technology-review", "international", "https://www.technologyreview.com/feed", true],
+    ["ted-blog", "international", "https://blog.ted.com/feed/", true],
   ]);
   const urls = catalog.feeds.map((feed) => feed.url).join("\n");
   assert.equal(/scmp|bbci\.co\.uk|voanews|hongkongfp|dimsumdaily/i.test(urls), false);
