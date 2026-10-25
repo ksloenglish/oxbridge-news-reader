@@ -100,18 +100,6 @@ function isAllCaps(token) {
   return token.length >= 2 && token === token.toUpperCase() && /[A-Z]/.test(token);
 }
 
-/** Initial capital plus a lowercase letter. All-caps acronyms and single letters are not title case. */
-export function isTitleCaseWord(token) {
-  const letters = String(token).replace(/['’]/g, "");
-  if (letters.length < 2) return false;
-  if (letters === letters.toUpperCase()) return false;
-  return /^[A-Z]/.test(letters) && /[a-z]/.test(letters);
-}
-
-function isNameJoin(separator) {
-  return /^[\s-]+$/.test(separator);
-}
-
 function heuristicStems(lower) {
   const stems = [];
   const push = (stem) => {
@@ -151,22 +139,6 @@ function heuristicStems(lower) {
 
 function keysFromMap(lex, form) {
   return asList(lex.imap[form]).filter((key) => lex.words[key]);
-}
-
-function listedSurface(lex, token, key) {
-  const entry = lex.words[key];
-  return Boolean(entry) && entry.word === token;
-}
-
-/**
- * A mid-sentence capital (Jazz, Open, United) is not the lowercase common lemma.
- * Keep it only when the pack stores that exact surface, as with Sunday or March.
- * Sentence-initial capitals stay eligible, and it/IT stay on their own path.
- */
-function keysForToken(lex, token, sentenceStart) {
-  const keys = resolveKeys(lex, token);
-  if (!isTitleCaseWord(token) || sentenceStart) return keys;
-  return keys.filter((key) => listedSurface(lex, token, key));
 }
 
 function resolveKeys(lex, token) {
@@ -275,16 +247,13 @@ function preferInflectedVerbs(entries, surfaceKey) {
  * @param {{ sentenceStart?: boolean }} [ctx]
  */
 export function lookupSurface(lex, surface, ctx = {}) {
-  // Inside a Title-Case multiword name (United States, New Zealand) even when the lemma is on the list.
-  if (ctx.nameRun) return null;
-
   const cleaned = String(surface)
     .replace(/[’]/g, "'")
     .replace(/^[^A-Za-z]+|[^A-Za-z]+$/g, "")
     .replace(/'s$/i, "");
   if (!cleaned || !/[A-Za-z]/.test(cleaned)) return null;
 
-  const keys = keysForToken(lex, cleaned, Boolean(ctx.sentenceStart));
+  const keys = resolveKeys(lex, cleaned);
   if (!keys.length) return null;
   const { reading, alternates } = splitReading(cleaned, keys);
   const toEntries = (list) => list.map((key) => buildEntry(key, lex.words[key])).filter(Boolean);
@@ -378,37 +347,19 @@ export function annotate(text, lex, activeLevels) {
       start: match.index,
       end: match.index + match[0].length,
       token: match[0],
-      title: isTitleCaseWord(match[0]),
     });
-  }
-
-  const nameRun = matches.map(() => false);
-  let index = 0;
-  while (index < matches.length) {
-    if (!matches[index].title) {
-      index += 1;
-      continue;
-    }
-    let end = index;
-    while (end + 1 < matches.length && matches[end + 1].title && isNameJoin(source.slice(matches[end].end, matches[end + 1].start))) {
-      end += 1;
-    }
-    if (end > index) {
-      for (let cursor = index; cursor <= end; cursor += 1) nameRun[cursor] = true;
-    }
-    index = end + 1;
   }
 
   const parts = [];
   let last = 0;
   let sentenceStart = true;
-  matches.forEach((item, itemIndex) => {
+  matches.forEach((item) => {
     if (item.start > last) {
       const sep = source.slice(last, item.start);
       parts.push({ type: "text", text: sep });
       if (/[.!?]|\n/.test(sep)) sentenceStart = true;
     }
-    const hit = lex ? lookupSurface(lex, item.token, { sentenceStart, nameRun: nameRun[itemIndex] }) : null;
+    const hit = lex ? lookupSurface(lex, item.token, { sentenceStart }) : null;
     const style = hit ? highlightStyle(hit, activeLevels) : null;
     if (hit && style) parts.push({ type: "hit", text: item.token, hit, style });
     else parts.push({ type: "text", text: item.token });
