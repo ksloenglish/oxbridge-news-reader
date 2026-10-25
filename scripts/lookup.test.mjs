@@ -113,6 +113,56 @@ test("title-case runs stay plain, while a lone listed word such as Sunday or Jaz
   assert.equal(lookupSurface(lex, "it").reading[0].key, "it");
 });
 
+test("a capitalised word before a numeral prefers the noun", () => {
+  const all = new Set(["A1", "A2", "B1", "B2", "C1", "C2"]);
+  const text = "Visit Part 2 of Hong Kong's First Five-Year Plan for more details.";
+  const hits = annotate(text, lex, all).filter((part) => part.type === "hit");
+  const part = hits.find((item) => item.text === "Part");
+  assert.ok(part);
+  assert.equal(part.style.kind, "solid");
+  assert.equal(part.style.level, "A1");
+  assert.equal(part.hit.ambiguous, false);
+  assert.ok(part.hit.reading.every((entry) => entry.senses.every((sense) => sense.pos === "n")));
+  assert.ok(part.hit.secondary.some((sense) => sense.pos === "v" && sense.cefr === "C2"));
+  const parts = partitionSenses(part.hit, all);
+  assert.ok(parts.match.every((sense) => sense.pos === "n" && sense.cefr === "A1"));
+  assert.equal(parts.match.some((sense) => sense.pos === "v"), false);
+  assert.ok(hits.some((item) => item.text === "Visit"));
+  for (const blocked of ["Hong", "First", "Five", "Year", "Plan"]) {
+    assert.equal(hits.some((item) => item.text === blocked), false, blocked);
+  }
+
+  const hidden = annotate(text, lex, advanced).find((item) => item.text === "Part");
+  assert.equal(hidden.type, "text");
+
+  const bare = annotate("Part of the plan.", lex, all).find((item) => item.text === "Part");
+  assert.equal(bare.style.kind, "multi");
+  const lower = annotate("Read part 2 now.", lex, all).find((item) => item.text === "part");
+  assert.equal(lower.style.kind, "multi");
+
+  const chapter = annotate("Chapter 3 starts.", lex, all).find((item) => item.text === "Chapter");
+  assert.equal(chapter.style.kind, "solid");
+  assert.equal(chapter.style.level, "B1");
+  const figure = annotate("See Figure 1.", lex, all).find((item) => item.text === "Figure");
+  assert.equal(figure.style.kind, "solid");
+  assert.equal(figure.style.level, "A2");
+  assert.ok(figure.hit.secondary.some((sense) => sense.pos === "v"));
+
+  const said = annotate("Said 2 people left.", lex, all).find((item) => item.text === "Said");
+  assert.equal(said.style.kind, "solid");
+  assert.equal(said.style.level, "A1");
+  assert.ok(said.hit.reading.every((entry) => entry.senses.every((sense) => sense.pos === "v" || sense.pos === "modal v")));
+
+  const may = annotate("On May 2 the term starts.", lex, all).find((item) => item.text === "May");
+  assert.equal(may.style.kind, "solid");
+  assert.equal(may.style.level, "A1");
+  assert.ok(may.hit.reading[0].senses.every((sense) => sense.month));
+  const march = annotate("The March 3 parade is new.", lex, all).find((item) => item.text === "March");
+  assert.equal(march.style.kind, "solid");
+  assert.equal(march.style.level, "A1");
+  assert.ok(march.hit.reading[0].senses.every((sense) => sense.month));
+});
+
 test("inflected verbs keep verb senses only, bare lemmas stay multi-level", () => {
   const all = new Set(["A1", "A2", "B1", "B2", "C1", "C2"]);
   const said = lookupSurface(lex, "said");

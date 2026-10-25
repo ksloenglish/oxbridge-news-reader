@@ -112,6 +112,18 @@ function isNameJoin(separator) {
   return /^[\s-]+$/.test(separator);
 }
 
+function isCapitalizedWord(token) {
+  const letters = String(token).replace(/['’]/g, "");
+  if (!letters) return false;
+  const first = letters[0];
+  return first === first.toUpperCase() && first !== first.toLowerCase();
+}
+
+/** Part 2, Chapter 3, Section 1, Figure 1.2 — a section label, not a name. */
+function followedByNumeral(source, end) {
+  return /^\s*[#.:-]?\s*\d/.test(source.slice(end));
+}
+
 function heuristicStems(lower) {
   const stems = [];
   const push = (stem) => {
@@ -226,6 +238,10 @@ function isVerbPos(pos) {
   return pos === "v" || pos === "modal v";
 }
 
+function isNounPos(pos) {
+  return pos === "n";
+}
+
 /**
  * Inflected surfaces prefer verb senses. A bare lemma (surface === key) keeps every sense.
  * Multi-target hits are filtered per lemma, so `saying` keeps its own noun entry.
@@ -254,9 +270,40 @@ function preferInflectedVerbs(entries, surfaceKey) {
 }
 
 /**
+ * Capitalised section labels before a numeral keep noun senses (Part 2, Chapter 3).
+ * A dated month (March 3, May 2) keeps the month sense. Inflected verbs are left alone,
+ * so `said` stays a verb even in `Said 2`.
+ * @returns {{ reading: object[], secondary: object[] }}
+ */
+function preferNounLabels(entries, surfaceKey, nounContext, preference) {
+  if (!nounContext) return { reading: entries, secondary: [] };
+  const secondary = [];
+  const reading = entries.map((entry) => {
+    if (surfaceKey !== entry.key) return entry;
+    const chosen = preference === "month"
+      ? entry.senses.filter((sense) => sense.month)
+      : entry.senses.filter((sense) => isNounPos(sense.pos));
+    if (!chosen.length || chosen.length === entry.senses.length) return entry;
+    entry.senses.forEach((sense, index) => {
+      if (chosen.includes(sense)) return;
+      secondary.push({
+        ...sense,
+        lemma: entry.key,
+        word: entry.word,
+        phonetic: entry.phonetic,
+        order: index,
+        rank: 1,
+      });
+    });
+    return { ...entry, senses: chosen, pos: unique(chosen.map((sense) => sense.pos)) };
+  });
+  return { reading, secondary };
+}
+
+/**
  * @param {ReturnType<typeof createLexicon>} lex
  * @param {string} surface raw token, possessives allowed
- * @param {{ sentenceStart?: boolean, nameRun?: boolean }} [ctx]
+ * @param {{ sentenceStart?: boolean, nameRun?: boolean, nounContext?: boolean }} [ctx]
  */
 export function lookupSurface(lex, surface, ctx = {}) {
   // A Title-Case run of two or more words (United States, New Zealand) is a name span.
@@ -275,16 +322,18 @@ export function lookupSurface(lex, surface, ctx = {}) {
   const readingEntries = toEntries(reading);
   if (!readingEntries.length) return null;
   const alternateEntries = toEntries(alternates);
-  // Month choice first, then drop non-verb senses on inflected forms before levels and colour.
+  // Month choice first, then verb preference for inflections, then noun labels such as Part 2.
   const preference = monthPreference(cleaned, Boolean(ctx.sentenceStart));
-  const filtered = preferInflectedVerbs(readingEntries, cleaned.toLowerCase());
-  const levels = levelsOf(filtered.reading);
+  const surfaceKey = cleaned.toLowerCase();
+  const verbs = preferInflectedVerbs(readingEntries, surfaceKey);
+  const nouns = preferNounLabels(verbs.reading, surfaceKey, Boolean(ctx.nounContext), preference);
+  const levels = levelsOf(nouns.reading);
 
   return {
     surface: cleaned,
     preference,
-    reading: filtered.reading,
-    secondary: filtered.secondary,
+    reading: nouns.reading,
+    secondary: [...verbs.secondary, ...nouns.secondary],
     alternates: alternateEntries,
     levels,
     ambiguous: levels.length > 1,
@@ -366,15 +415,21 @@ export function annotate(text, lex, activeLevels) {
     });
   }
 
+  const sectionLabel = matches.map((item) => isCapitalizedWord(item.token) && followedByNumeral(source, item.end));
   const nameRun = matches.map(() => false);
   let index = 0;
   while (index < matches.length) {
-    if (!matches[index].title) {
+    if (!matches[index].title || sectionLabel[index]) {
       index += 1;
       continue;
     }
     let end = index;
-    while (end + 1 < matches.length && matches[end + 1].title && isNameJoin(source.slice(matches[end].end, matches[end + 1].start))) {
+    while (
+      end + 1 < matches.length &&
+      matches[end + 1].title &&
+      !sectionLabel[end + 1] &&
+      isNameJoin(source.slice(matches[end].end, matches[end + 1].start))
+    ) {
       end += 1;
     }
     if (end > index) {
@@ -392,7 +447,9 @@ export function annotate(text, lex, activeLevels) {
       parts.push({ type: "text", text: sep });
       if (/[.!?]|\n/.test(sep)) sentenceStart = true;
     }
-    const hit = lex ? lookupSurface(lex, item.token, { sentenceStart, nameRun: nameRun[itemIndex] }) : null;
+    const hit = lex
+      ? lookupSurface(lex, item.token, { sentenceStart, nameRun: nameRun[itemIndex], nounContext: sectionLabel[itemIndex] })
+      : null;
     const style = hit ? highlightStyle(hit, activeLevels) : null;
     if (hit && style) parts.push({ type: "hit", text: item.token, hit, style });
     else parts.push({ type: "text", text: item.token });
