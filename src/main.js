@@ -421,6 +421,7 @@ function renderSenseGroup(rows, title, quiet = false) {
 
 function render() {
   hits.length = 0;
+  app.classList.remove("boot");
   if (loadError) {
     app.innerHTML = `<div class="app"><div class="status"><p>${esc(loadError)}</p></div>${renderFooter()}</div>`;
     return;
