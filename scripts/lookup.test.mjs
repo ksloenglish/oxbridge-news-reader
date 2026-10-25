@@ -79,6 +79,27 @@ test("suffix heuristics cover forms missing from the map", () => {
   assert.equal(lookupSurface(tiny, "studies").reading[0].key, "study");
 });
 
+test("title-case name runs are not highlighted, but list words such as Sunday and Jazz still are", () => {
+  const levels = new Set(["A1", "A2", "B1", "B2", "C1", "C2"]);
+  const text = "John Catlin of the United States on Sunday claimed victory at the Hong Kong Open. Thailand's Jazz Janewattananond and Nick Voke of New Zealand. Jazz on Sunday.";
+  const hits = annotate(text, lex, levels).filter((part) => part.type === "hit").map((part) => part.text);
+  for (const blocked of ["United", "States", "John", "Catlin", "Hong", "Kong", "Open", "Nick", "Voke", "New", "Zealand", "Janewattananond"]) {
+    assert.equal(hits.includes(blocked), false, blocked);
+  }
+  assert.equal(hits.filter((word) => word === "Sunday").length, 2);
+  assert.equal(hits.filter((word) => word === "Jazz").length, 1);
+  assert.ok(hits.includes("claimed"));
+  assert.ok(hits.includes("victory"));
+
+  const lower = annotate("the united states", lex, levels).filter((part) => part.type === "hit").map((part) => part.text);
+  assert.ok(lower.includes("united"));
+  assert.ok(lower.includes("states"));
+
+  assert.equal(lookupSurface(lex, "Sunday", { nameRun: true }), null);
+  assert.equal(lookupSurface(lex, "Sunday").reading[0].word, "Sunday");
+  assert.equal(lookupSurface(lex, "jazz").reading[0].word, "jazz");
+});
+
 test("copy text and CSV keep only the chosen CEFR levels", () => {
   const hit = lookupSurface(lex, "address");
   const record = hitToRecord(hit, { title: "A story", url: "https://example.com/a" });
