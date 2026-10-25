@@ -69,6 +69,28 @@ Do not highlight a segment of a hyphenated compound. If a letter sits immediatel
 
 Omitted on a sense when identical to the parent entry; kept when the sense differs (e.g. multi-level words).
 
+## Definition text (`en` and `tc`)
+
+Each object in `definitions` may include:
+
+- `pos` — part of speech for that sense.
+- `cefr` / `list` — only when they differ from the parent entry.
+- `en` — a short English gloss for HK secondary classroom and news reading. Present on revised lemmas; one gloss for each definition sense the popup keeps.
+- `tc` — Hong Kong Traditional Chinese. Present on every sense. Keep `tc` when `en` is added.
+
+The word card takes its gloss from `senseText()` in `src/lookup.js`. Preference order:
+
+1. `defs`, when it is a non-empty array (items joined with `"; "`)
+2. `en`, when it is a non-empty string
+3. `definition`, when it is a non-empty string
+4. `tc`
+
+When `en` is present, the popup shows that English gloss. Lemmas that still have only `tc` still show Chinese. No separate UI switch is required.
+
+Put the primary classroom or news sense first in both `en` and `tc`. Keep secondary senses after it; a reorder does not delete them. Example: `disrupt` is「擾亂、中斷、使不能正常進行、使瓦解」— 使瓦解 stays, after the classroom sense. The English gloss is “to interrupt or stop the normal course or progress of something”.
+
+Do not change `cefr` or `list` in a gloss revision. Levels stay locked to the Oxford list.
+
 ## Zero-AI POS disambiguation (highlight + card)
 
 Many lemmas are multi-POS / multi-CEFR (e.g. `say`: A1 verb + C1 noun; `part`: A1 noun + C2 verb). The pack keeps **all** senses. The reader must **not** mark a token multi-level solely because unused senses exist.

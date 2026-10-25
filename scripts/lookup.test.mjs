@@ -371,6 +371,34 @@ test("hyphenated compounds are not partially highlighted", () => {
   assert.ok(Object.values(single).some((count) => count >= 1));
 });
 
+test("popup text prefers an English gloss when en is present", () => {
+  const disrupt = pack.words.disrupt.definitions[0];
+  assert.equal(disrupt.en, "to interrupt or stop the normal course or progress of something");
+  assert.equal(disrupt.tc, "擾亂、中斷、使不能正常進行、使瓦解");
+  assert.equal(lookupSurface(lex, "disrupt").reading[0].senses[0].text, disrupt.en);
+
+  assert.equal(pack.words.disruption.definitions[0].en, "a break or interruption in the normal way something works");
+  assert.equal(pack.words.disruption.definitions[0].tc, "中斷、擾亂、停頓、崩潰、瓦解、分裂");
+  assert.equal(pack.words.disruptive.definitions[0].en, "causing problems that stop something continuing normally");
+  assert.equal(pack.words.disruptive.definitions[0].tc, "擾亂的、破壞秩序的、破壞性的、分裂的");
+
+  const ing = lookupSurface(lex, "disrupting");
+  assert.equal(ing.reading[0].key, "disrupt");
+  assert.equal(ing.reading[0].senses[0].text, disrupt.en);
+
+  const textOf = (def) => {
+    const tiny = createLexicon({
+      words: { w: { word: "w", cefr: "A1", pos: [def.pos || "n"], definitions: [def] } },
+      inflection_map: {},
+    });
+    return lookupSurface(tiny, "w").reading[0].senses[0].text;
+  };
+  assert.equal(textOf({ pos: "n", en: "English", definition: "Legacy", tc: "中文" }), "English");
+  assert.equal(textOf({ pos: "n", en: "   ", definition: "Legacy", tc: "中文" }), "Legacy");
+  assert.equal(textOf({ pos: "n", tc: "中文" }), "中文");
+  assert.equal(textOf({ pos: "n", defs: ["one", "two"], en: "English", tc: "中文" }), "one; two");
+});
+
 test("highlight counts follow the selected levels only", () => {
   const all = new Set(["A1", "A2", "B1", "B2", "C1", "C2"]);
   const both = countHighlightedLevels("They march.", lex, all);
