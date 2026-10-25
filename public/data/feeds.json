@@ -1,5 +1,5 @@
 {
-  "policy": "Free English RSS only. Prefer feeds with substantial in-feed article text. SCMP is excluded (paywall). Headline-only BBC and VOA Learning feeds are excluded.",
+  "policy": "Free English RSS only. Prefer feeds with substantial in-feed article text. SCMP is excluded (paywall). Headline-only BBC and VOA Learning feeds are excluded. Unstable sources are excluded: Hong Kong Free Press (HTTP 403) and Dimsum Daily (bot check).",
   "caps": {
     "perFeed": 20,
     "total": 150,
@@ -42,13 +42,6 @@
       "enabled": true
     },
     {
-      "id": "hkfp",
-      "name": "Hong Kong Free Press",
-      "url": "https://hongkongfp.com/feed/",
-      "category": "hk",
-      "enabled": true
-    },
-    {
       "id": "news-gov-hk-top",
       "name": "news.gov.hk — Top Story",
       "url": "https://www.news.gov.hk/en/common/html/topstories.rss.xml",
@@ -59,13 +52,6 @@
       "id": "news-gov-hk-school-work",
       "name": "news.gov.hk — At School, At Work",
       "url": "https://www.news.gov.hk/en/categories/school_work/html/articlelist.rss.xml",
-      "category": "hk",
-      "enabled": true
-    },
-    {
-      "id": "dimsum-daily",
-      "name": "Dimsum Daily",
-      "url": "https://www.dimsumdaily.hk/feed/",
       "category": "hk",
       "enabled": true
     },

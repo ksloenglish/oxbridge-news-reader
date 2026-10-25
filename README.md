@@ -67,7 +67,7 @@ Save adds the word to Word Bank. Copy uses the level checkboxes. CSV columns:
 
 Approved English feeds live in [`public/data/feeds.json`](public/data/feeds.json). That catalog is the source of truth. Each entry has `id`, `name`, `url`, `category` (`rthk`, `hk`, or `international`), and `enabled`.
 
-To change what gets ingested, edit the catalog and merge it to `main`. The fetch Action reads enabled feeds on its next run. The approved set is five RTHK English wires, news.gov.hk Top Story, news.gov.hk At School, At Work, and Radio Free Asia English.
+To change what gets ingested, edit the catalog and merge it to `main`. The fetch Action reads enabled feeds on its next run. The locked set is five RTHK English wires, news.gov.hk Top Story, news.gov.hk At School, At Work, and Radio Free Asia English. Unstable sources stay out of the catalog.
 
 | id | name | category | url |
 | --- | --- | --- | --- |
@@ -104,7 +104,7 @@ To change what gets ingested, edit the catalog and merge it to `main`. The fetch
 
 Items are de-duplicated by link and sorted newest first. The catalog `caps` keep 20 items per feed and 150 articles in total.
 
-A feed that returns an HTTP error, times out, or sends a non-feed page is logged and skipped. Articles from the feeds that succeeded are still written. The feed row keeps `ok: false` and the error text. When every enabled feed fails and a snapshot is already on disk, the script leaves that file unchanged.
+A feed that returns an HTTP error, times out, or sends a non-feed page is logged and skipped. Articles from the feeds that succeeded are still written. The feed row keeps `ok: false` and the error text. When every enabled feed fails and a snapshot is already on disk, the script leaves that file unchanged. A source that keeps failing is removed from the catalog instead of left enabled.
 
 Ingest dependencies are pinned in [`scripts/package.json`](scripts/package.json), separate from the Vite app manifest.
 
