@@ -8,7 +8,6 @@ import {
   selectionLabel,
   statusForSelection,
 } from "./data.js";
-import { deskExcerpt } from "./excerpt.js";
 import { toCsv, formatWordText, hitToRecord } from "./export.js";
 import {
   LEVELS,
@@ -209,7 +208,7 @@ function renderNews() {
           return `<button type="button" class="story" data-article="${esc(article.id)}" aria-current="${article.id === current?.id ? "true" : "false"}">
             <span class="kicker">${esc(article.source || "")}</span>
             <strong>${esc(article.title)}</strong>
-            <span class="excerpt">${esc(deskExcerpt(article.excerpt))}</span>
+            <span class="excerpt">${esc(article.excerpt)}</span>
             <span class="meta">${esc(formatWhen(article.publishedAt))}</span>
           </button>`;
         })

@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "node --test scripts/lookup.test.mjs scripts/data.test.mjs scripts/build-info.test.mjs scripts/excerpt.test.mjs"
+    "test": "node --test scripts/lookup.test.mjs scripts/data.test.mjs scripts/build-info.test.mjs"
   },
   "devDependencies": {
     "vite": "^6.3.5"
