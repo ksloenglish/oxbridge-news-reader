@@ -4,7 +4,6 @@ import {
   categoryLabel,
   readCatalog,
   readSnapshot,
-  selectionKnown,
   selectionLabel,
   statusForSelection,
 } from "./data.js";
@@ -34,6 +33,7 @@ let openHit = null; // { hit, source }
 let copyNote = "";
 let bankId = null;
 let confirmWipe = false;
+let confirmRemoveId = null;
 let refreshing = false;
 let refreshNote = "";
 const hits = [];
@@ -344,9 +344,17 @@ function renderBank() {
         <button type="button" class="ghost back" data-close-word>All saved words</button>
         ${renderRecordBody(current)}
         ${copyLevelsBox(recordLevels(current))}
-        <div class="actions">
-          <button type="button" class="ghost" data-remove-word="${esc(current.id)}">Remove</button>
-        </div>
+        ${confirmRemoveId === current.id
+          ? `<div class="confirm-wipe" role="group" aria-label="Confirm remove">
+              <p>Remove this saved word from this browser? This cannot be undone.</p>
+              <div class="actions">
+                <button type="button" class="solid" data-remove-confirm>Remove</button>
+                <button type="button" class="ghost" data-remove-cancel>Cancel</button>
+              </div>
+            </div>`
+          : `<div class="actions">
+              <button type="button" class="ghost" data-remove-word="${esc(current.id)}">Remove</button>
+            </div>`}
       </article>`
     : `<div class="detail"><p class="empty">Open a saved word to see its glosses.</p></div>`;
 
@@ -592,20 +600,36 @@ app.addEventListener("click", (event) => {
   }
   const word = event.target.closest("[data-word]");
   if (word) {
+    if (word.dataset.word !== bankId) confirmRemoveId = null;
     bankId = word.dataset.word;
     render();
     return;
   }
   if (event.target.closest("[data-close-word]")) {
     bankId = null;
+    confirmRemoveId = null;
     render();
     return;
   }
   const remove = event.target.closest("[data-remove-word]");
   if (remove) {
-    words = words.filter((item) => item.id !== remove.dataset.removeWord);
-    if (bankId === remove.dataset.removeWord) bankId = null;
-    persist();
+    confirmRemoveId = remove.dataset.removeWord || null;
+    render();
+    return;
+  }
+  if (event.target.closest("[data-remove-confirm]")) {
+    const id = confirmRemoveId;
+    confirmRemoveId = null;
+    if (id) {
+      words = words.filter((item) => item.id !== id);
+      if (bankId === id) bankId = null;
+      persist();
+    }
+    render();
+    return;
+  }
+  if (event.target.closest("[data-remove-cancel]")) {
+    confirmRemoveId = null;
     render();
     return;
   }
@@ -628,6 +652,7 @@ app.addEventListener("click", (event) => {
     words = [];
     bankId = null;
     confirmWipe = false;
+    confirmRemoveId = null;
     openHit = null;
     persist();
     render();
@@ -816,7 +841,7 @@ Promise.all([
     catalog = readCatalog(feeds);
     bundle = snapshot;
     lex = createLexicon(vocab);
-    if (!selectionKnown(catalog, ui.selection)) ui.selection = DEFAULT_SELECTION;
+    ui.selection = DEFAULT_SELECTION;
     ui.articleId = null;
     openHit = null;
     saveUi(ui);

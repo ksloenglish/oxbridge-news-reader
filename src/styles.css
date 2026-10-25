@@ -476,6 +476,7 @@ button.token:focus-visible, .nav button:focus-visible, .level:focus-visible, .st
   border: 1px solid var(--line);
 }
 .card header { display: flex; justify-content: space-between; gap: 1rem; align-items: start; }
+.card header .pills { margin-bottom: 0.65rem; }
 .card h3 {
   font-family: Newsreader, Georgia, serif;
   font-size: 2.2rem;

@@ -34,10 +34,10 @@ The production preview is http://127.0.0.1:4173/oxbridge-news-reader/.
 ## Sections
 
 - **News Desk** — source picker, story list, full text. The default source is **RTHK English News**: all five RTHK English channels (Local, Greater China, World, Finance, Sport). **Refresh** reloads the published article snapshot and shows the current source again. The open story ends with a count of highlighted words for each selected CEFR level. **All** turns every highlight level on, or off when every level is already on.
-- **Word Bank** — words you save in this browser. Filter by CEFR, open a word, export CSV. **All** selects or clears every level. **Delete all** asks for confirmation, then removes every saved word. Levels with no saved words are greyed out. The word list scrolls inside a capped height. Highlight chips stay on News Desk only.
+- **Word Bank** — words you save in this browser. Filter by CEFR, open a word, export CSV. **All** selects or clears every level. **Remove** asks before deleting one saved word. **Delete all** asks for confirmation, then removes every saved word. Levels with no saved words are greyed out. The word list scrolls inside a capped height. Highlight chips stay on News Desk only.
 - **About** — what the desk does, and the publisher disclaimer.
 
-The highlight chips, source, section, Word Bank filter, and export levels are stored in `localStorage`. Reloading the page does not reopen the last story: the desk shows the story list and loads a fresh article snapshot, the same cache-bypass request **Refresh** uses.
+The highlight chips, section, Word Bank filter, and export levels are stored in `localStorage`. Reloading the page returns the news source to All RTHK English, does not reopen the last story, and loads a fresh article snapshot, the same cache-bypass request **Refresh** uses.
 
 Saved words stay on this device only. Clearing the site data or cache deletes them.
 
