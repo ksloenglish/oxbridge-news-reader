@@ -1,5 +1,5 @@
 import { XMLParser } from "fast-xml-parser";
-import { EXCERPT_CHARS, extractImageFromHtml, htmlToText, makeExcerpt, resolveHttpUrl } from "./html.mjs";
+import { EXCERPT_WORDS, extractImageFromHtml, htmlToText, makeExcerpt, resolveHttpUrl, wordsOf } from "./html.mjs";
 import { articleId } from "./snapshot.mjs";
 
 const parser = new XMLParser({
@@ -151,13 +151,13 @@ function chooseExcerpt(fullText, rawParts) {
     .map((part) => htmlToText(part).replace(/\s+/g, " ").trim())
     .filter((plain) => plain.length >= 40 && plain.length < flatFull.length)
     .filter((plain) => !flatFull.startsWith(plain.slice(0, Math.min(60, plain.length))));
-  const shortEnough = teasers.filter((plain) => plain.length <= EXCERPT_CHARS);
+  const shortEnough = teasers.filter((plain) => wordsOf(plain).length <= EXCERPT_WORDS);
   if (shortEnough.length) {
-    shortEnough.sort((a, b) => b.length - a.length);
+    shortEnough.sort((a, b) => wordsOf(b).length - wordsOf(a).length || b.length - a.length);
     return makeExcerpt(shortEnough[0]);
   }
   if (teasers.length) {
-    teasers.sort((a, b) => a.length - b.length);
+    teasers.sort((a, b) => wordsOf(a).length - wordsOf(b).length || a.length - b.length);
     return makeExcerpt(teasers[0]);
   }
   return makeExcerpt(fullText);

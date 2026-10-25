@@ -3,7 +3,7 @@
   "caps": {
     "perFeed": 20,
     "total": 150,
-    "excerptChars": 280
+    "excerptWords": 20
   },
   "feeds": [
     {
