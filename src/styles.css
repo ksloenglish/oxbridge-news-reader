@@ -9,21 +9,20 @@
   /* HKMA K S Lo College theme3 primary, the prior BrandMark plate. */
   --mark-bg: #1054a9;
   --shadow: 0 18px 50px rgba(17, 24, 39, 0.12);
-  /* Green → purple, in the spirit of #22c55e → #a855f7.
-     Neighbours differ in both hue and lightness so they stay apart on cream.
-     Gold #b45309 is the accent, not a CEFR level. */
-  --a1: #146e16;
-  --a1-bg: #c6f5a4;
-  --a2: #0a655c;
-  --a2-bg: #a8f0de;
-  --b1: #0868c2;
-  --b1-bg: #c5e4ff;
-  --b2: #2a36d6;
-  --b2-bg: #d4dcff;
-  --c1: #7a22c8;
-  --c1-bg: #edd0ff;
-  --c2: #9333ea;
-  --c2-bg: #f3d0f8;
+  /* LEX locked ramp. Green → fuchsia. Gold #b45309 is the accent, not a level.
+     B2 royal stays clear of the school plate #1054a9. */
+  --a1: #15803d; /* green */
+  --a1-bg: #dcfce7;
+  --a2: #0f766e; /* teal */
+  --a2-bg: #ccfbf1;
+  --b1: #0284c7; /* sky */
+  --b1-bg: #e0f2fe;
+  --b2: #2563eb; /* royal — clear of school #1054a9 */
+  --b2-bg: #dbeafe;
+  --c1: #7c3aed; /* violet */
+  --c1-bg: #ede9fe;
+  --c2: #c026d3; /* fuchsia */
+  --c2-bg: #fae8ff;
   color-scheme: light;
   font-family: "Source Sans 3", "Segoe UI", sans-serif;
   font-size: 18px;
