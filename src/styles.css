@@ -87,8 +87,6 @@ a { color: var(--accent); }
   height: 100%;
   object-fit: contain;
   display: block;
-  /* Attached logo is a white knockout. Tint it to ink so it reads on --card. */
-  filter: brightness(0);
 }
 
 .titles { min-width: 0; }

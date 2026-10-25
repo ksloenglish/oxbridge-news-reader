@@ -149,4 +149,4 @@ Glosses are the Traditional Chinese `tc` field. IPA is `phonetic`.
 
 ## Brand
 
-K S Lo English. Ink `#111827`, paper `#f9f6f1`, accent `#b45309`, on-accent `#ffffff`, muted `#6b7280`. The header mark is the K S Lo English logo, 2.75rem square, radius 0.55rem, on the card colour. The logo file is a white knockout, tinted to ink so it reads on the light page. The reader is light Oxbridge night only. Accent gold is the product accent, not a CEFR level.
+K S Lo English. Ink `#111827`, paper `#f9f6f1`, accent `#b45309`, on-accent `#ffffff`, muted `#6b7280`. The header mark is the K S Lo English logo, 2.75rem square, radius 0.55rem, on the card colour. The reader is light Oxbridge night only. Accent gold is the product accent, not a CEFR level.
