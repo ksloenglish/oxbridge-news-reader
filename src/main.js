@@ -227,8 +227,12 @@ function renderShell() {
       </div>
       ${highlightRow}
     </header>
-    <main class="view" id="view">${ui.section === "bank" ? renderBank() : ui.section === "about" ? renderAbout() : renderNews()}</main>
-    ${renderFooter()}
+    <div class="sheet">
+      <div class="sheet-fill">
+        <main class="view" id="view">${ui.section === "bank" ? renderBank() : ui.section === "about" ? renderAbout() : renderNews()}</main>
+        ${renderFooter()}
+      </div>
+    </div>
     <div id="modal"></div>
   `;
 }
@@ -567,13 +571,18 @@ function renderSenseGroup(rows, title, quiet = false) {
 }
 
 function render() {
+  const sheetTop = app.querySelector(".sheet")?.scrollTop || 0;
   hits.length = 0;
   app.classList.remove("boot");
   if (loadError) {
-    app.innerHTML = `<div class="app"><div class="status"><p>${esc(loadError)}</p></div>${renderFooter()}</div>`;
+    app.innerHTML = `<div class="app"><div class="sheet"><div class="sheet-fill"><div class="status"><p>${esc(loadError)}</p></div>${renderFooter()}</div></div></div>`;
+    pinShellToVisualViewport();
     return;
   }
   app.innerHTML = `<div class="app">${renderShell()}</div>`;
+  const sheet = app.querySelector(".sheet");
+  // Section changes clear this afterwards. Pane scroll is intentionally not restored here.
+  if (sheet) sheet.scrollTop = sheetTop;
   const select = app.querySelector("[data-feed]");
   if (select) {
     const known = [...select.options].some((option) => option.value === ui.selection);
@@ -586,15 +595,18 @@ function render() {
       image.remove();
     });
   }
+  pinShellToVisualViewport();
   renderCard();
 }
+
+const SCROLLERS = ".sheet, .pane, .word-list";
 
 function scrollViewToTop() {
   const reset = () => {
     window.scrollTo(0, 0);
     document.documentElement.scrollTop = 0;
     document.body.scrollTop = 0;
-    for (const el of app.querySelectorAll(".pane, .word-list")) el.scrollTop = 0;
+    for (const el of app.querySelectorAll(SCROLLERS)) el.scrollTop = 0;
   };
   reset();
   requestAnimationFrame(reset);
@@ -604,7 +616,7 @@ function scrollSnapshot() {
   return {
     x: window.scrollX,
     y: window.scrollY,
-    panes: [...app.querySelectorAll(".pane, .word-list")].map((el) => ({
+    scrollers: [...app.querySelectorAll(SCROLLERS)].map((el) => ({
       key: el.className,
       top: el.scrollTop,
     })),
@@ -615,32 +627,28 @@ function applyScrollSnapshot(snapshot) {
   window.scrollTo(snapshot.x, snapshot.y);
   document.documentElement.scrollTop = snapshot.y;
   document.body.scrollTop = snapshot.y;
-  const panes = [...app.querySelectorAll(".pane, .word-list")];
+  const scrollers = [...app.querySelectorAll(SCROLLERS)];
   const used = new Set();
-  snapshot.panes.forEach((saved, index) => {
-    let match = panes.findIndex((el, i) => !used.has(i) && el.className === saved.key);
-    if (match === -1 && panes[index] && !used.has(index)) match = index;
+  snapshot.scrollers.forEach((saved, index) => {
+    let match = scrollers.findIndex((el, i) => !used.has(i) && el.className === saved.key);
+    if (match === -1 && scrollers[index] && !used.has(index)) match = index;
     if (match === -1) return;
     used.add(match);
-    panes[match].scrollTop = saved.top;
+    scrollers[match].scrollTop = saved.top;
   });
 }
 
-// Keep the page and the story column where they are across a repaint.
-// Rebuilding #app drops the article scroller, and removing the focused
-// chip makes the browser scroll the document back to the top. Section
-// changes still use scrollViewToTop().
+// Keep the sheet and the story column where they are across a repaint.
+// Rebuilding #app drops those scrollers, and removing the focused chip
+// makes the browser jump back to the top. Section changes still use scrollViewToTop().
 function holdScroll(update) {
   const snapshot = scrollSnapshot();
+  const anchored = () => [document.documentElement, document.body, ...app.querySelectorAll(SCROLLERS)];
   const mark = () => {
-    for (const el of [document.documentElement, document.body, ...app.querySelectorAll(".pane, .word-list")]) {
-      el.style.overflowAnchor = "none";
-    }
+    for (const el of anchored()) el.style.overflowAnchor = "none";
   };
   const clear = () => {
-    for (const el of [document.documentElement, document.body, ...app.querySelectorAll(".pane, .word-list")]) {
-      el.style.overflowAnchor = "";
-    }
+    for (const el of anchored()) el.style.overflowAnchor = "";
   };
   mark();
   try {
@@ -692,6 +700,42 @@ function refreshNewsHighlights() {
   summaryEl.outerHTML = highlightSummary(article);
   listsEl.outerHTML = renderWordLists(article);
   renderCard();
+}
+
+// iPad Safari can leave visualViewport.offsetTop > 0 after a bottom overscroll,
+// so the layout top sits under the browser chrome. Nudge the shell only then.
+function pinShellToVisualViewport() {
+  const vv = window.visualViewport;
+  const shell = app.querySelector(":scope > .app");
+  if (!vv || !shell) return;
+  const top = Math.max(0, vv.offsetTop);
+  const left = Math.max(0, vv.offsetLeft);
+  const shifted = top > 0.5 || left > 0.5;
+  const heightGap = Math.abs(shell.getBoundingClientRect().height - vv.height);
+  if (!shifted && heightGap <= 2 && !shell.style.transform) return;
+  const frameHeight = `${Math.round((shifted ? top : 0) + vv.height)}px`;
+  document.documentElement.style.height = frameHeight;
+  document.body.style.height = frameHeight;
+  shell.style.height = `${Math.round(vv.height)}px`;
+  shell.style.transform = shifted ? `translate(${left}px, ${top}px)` : "";
+  shell.style.width = left > 0.5 ? `${Math.round(vv.width)}px` : "";
+}
+
+function watchVisualViewport() {
+  const vv = window.visualViewport;
+  if (!vv || watchVisualViewport.started) return;
+  watchVisualViewport.started = true;
+  let frame = 0;
+  const schedule = () => {
+    if (frame) return;
+    frame = requestAnimationFrame(() => {
+      frame = 0;
+      pinShellToVisualViewport();
+    });
+  };
+  vv.addEventListener("scroll", schedule, { passive: true });
+  vv.addEventListener("resize", schedule, { passive: true });
+  window.addEventListener("resize", schedule);
 }
 
 function speak(text) {
@@ -937,7 +981,7 @@ function canScrollY(el, delta) {
   return el.scrollTop > 0;
 }
 
-// At a column or word-list boundary, keep the wheel moving the page so the footer is reachable.
+// At a column or word-list boundary, keep the wheel moving the sheet so the footer is reachable.
 app.addEventListener("wheel", (event) => {
   if (event.ctrlKey) return;
   const delta = wheelDeltaY(event);
@@ -947,12 +991,15 @@ app.addEventListener("wheel", (event) => {
   const scrollers = [];
   let node = target;
   while (node && node !== app) {
-    if (node.matches?.(".pane, .word-list")) scrollers.push(node);
+    if (node.matches?.(".pane, .word-list, .sheet")) scrollers.push(node);
     node = node.parentElement;
   }
+  const sheet = app.querySelector(".sheet");
+  if (sheet && !scrollers.includes(sheet)) scrollers.push(sheet);
   const active = scrollers.filter(isYScroller);
   if (!active.length) return;
-  if (canScrollY(active[0], delta)) return;
+  const nativeScroller = active[0].contains(target) || active[0] === target;
+  if (nativeScroller && canScrollY(active[0], delta)) return;
   event.preventDefault();
   let leftover = delta;
   for (const el of active) {
@@ -963,7 +1010,6 @@ app.addEventListener("wheel", (event) => {
     leftover -= next - before;
     if (Math.abs(leftover) < 0.5) return;
   }
-  window.scrollBy(0, leftover);
 }, { passive: false });
 
 document.addEventListener("keydown", (event) => {
@@ -1017,6 +1063,7 @@ function downloadCsv() {
 }
 
 window.speechSynthesis?.addEventListener?.("voiceschanged", () => {});
+watchVisualViewport();
 
 Promise.all([
   loadData("feeds.json"),
