@@ -33,10 +33,11 @@ The production preview is http://127.0.0.1:4173/oxbridge-news-reader/.
 
 ## Sections
 
-- **News Desk** — source picker, story list, full text. The default source is **RTHK English News**: all five RTHK English channels (Local, Greater China, World, Finance, Sport). **Refresh** reloads the published article snapshot and shows the current source again. The open story ends with a count of highlighted words for each selected CEFR level.
-- **Word Bank** — words you save in this browser. Filter by CEFR, open a word, export CSV. **Delete all** asks for confirmation, then removes every saved word. Levels with no saved words are greyed out. Highlight chips stay on News Desk only.
+- **News Desk** — source picker, story list, full text. The default source is **RTHK English News**: all five RTHK English channels (Local, Greater China, World, Finance, Sport). **Refresh** reloads the published article snapshot and shows the current source again. The open story ends with a count of highlighted words for each selected CEFR level. **All** turns every highlight level on, or off when every level is already on.
+- **Word Bank** — words you save in this browser. Filter by CEFR, open a word, export CSV. **All** selects or clears every level. **Delete all** asks for confirmation, then removes every saved word. Levels with no saved words are greyed out. The word list scrolls inside a capped height. Highlight chips stay on News Desk only.
+- **About** — what the desk does, and the publisher disclaimer.
 
-The highlight chips, source, section, Word Bank filter, and export levels are stored in `localStorage`.
+The highlight chips, source, section, Word Bank filter, and export levels are stored in `localStorage`. Reloading the page does not reopen the last story: the desk shows the story list and loads a fresh article snapshot, the same cache-bypass request **Refresh** uses.
 
 Saved words stay on this device only. Clearing the site data or cache deletes them.
 
@@ -53,7 +54,7 @@ Saved words stay on this device only. Clearing the site data or cache deletes th
 
 These six hues are separate. None of them is the school plate `#1054a9`. A2 text uses the same amber as the accent, on its own peach background.
 
-A word with more than one CEFR level is drawn with a **dashed outline** instead of a single colour. In the word card, senses that match the highlight chips stay under Definitions. Other levels sit under Other meanings.
+A word with more than one CEFR level is drawn with a **dashed outline** instead of a single colour. In the word card, senses that match the highlight chips stay under Definitions, and every part of speech is expanded in that list. Other levels sit under Other meanings. A hyphenated compound is not highlighted in pieces: in `K-pop`, neither `K` nor `pop` is marked. A standalone `pop` still is.
 
 Mid-sentence lowercase `march` and `may` prefer the non-month sense. `March` and `May` with a capital prefer the month.
 
@@ -61,9 +62,9 @@ Mid-sentence lowercase `march` and `may` prefer the non-month sense. `March` and
 
 Click a highlighted word for the CEFR pill, part of speech, Traditional Chinese glosses grouped by part of speech, IPA in `/.../` when the pack has `phonetic`, and **Listen (en-GB)** (`speechSynthesis`, British voice when the browser has one).
 
-Save adds the word to Word Bank. If that lemma is already saved, the card says **Already in Word Bank** and offers Remove instead of a second save. Copy uses the level checkboxes and includes the word, the surface form when it differs, CEFR, part of speech, and definitions. Copy leaves out lemma, IPA, source, and URL. CSV columns:
+Save adds the word to Word Bank. If that lemma is already saved, the card says **Already in Word Bank** and offers Remove instead of a second save. The card shows the surface form when it differs from the headword. Copy uses the level checkboxes and includes the word, CEFR, part of speech, and definitions. Copy leaves out the surface form, lemma, IPA, source, and URL. CSV columns:
 
-`word, CEFR, POS, defs, IPA`
+`word, CEFR, POS, defs`
 
 ## RSS feeds
 

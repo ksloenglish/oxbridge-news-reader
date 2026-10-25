@@ -61,6 +61,10 @@ False multi-targets removed:
 
 Highlight a token when `words` or `inflection_map` resolves it. A Title Case run of two or more neighbouring words (`United States`, `New Zealand`, `Hong Kong Open`) is not highlighted, even when a lowercase lemma such as `united`, `state`, or `new` is in the pack. A single Title Case word still matches, so `Sunday` and a lone `Jazz` stay highlighted. Entries are not removed from `vocab.json`. `it` and `IT` stay case-sensitive.
 
+## Hyphenated compounds
+
+Do not highlight a segment of a hyphenated compound. If a letter sits immediately across an adjacent hyphen (`-`, U+2010, or U+2011), that token is not a highlight. `K-pop` does not highlight `K` or `pop`. The same rule applies in titles and in the article body. A word with no letter on the other side of the hyphen, such as `28-year`, can still match `year`.
+
 ## Definition `cefr` / `list`
 
 Omitted on a sense when identical to the parent entry; kept when the sense differs (e.g. multi-level words).

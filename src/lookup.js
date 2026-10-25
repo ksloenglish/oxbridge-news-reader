@@ -112,6 +112,14 @@ function isNameJoin(separator) {
   return /^[\s-]+$/.test(separator);
 }
 
+/** True when a letter sits immediately across an adjacent hyphen (`K-pop`, `well-known`). */
+function hasLetterAcrossHyphen(source, start, end) {
+  const hyphen = (ch) => ch === "-" || ch === "\u2010" || ch === "\u2011";
+  if (start >= 2 && hyphen(source[start - 1]) && /[A-Za-z]/.test(source[start - 2] || "")) return true;
+  if (end + 1 < source.length && hyphen(source[end]) && /[A-Za-z]/.test(source[end + 1] || "")) return true;
+  return false;
+}
+
 function isCapitalizedWord(token) {
   const letters = String(token).replace(/['’]/g, "");
   if (!letters) return false;
@@ -575,7 +583,9 @@ export function annotate(text, lex, activeLevels) {
     const nextGap = source.slice(item.end, next ? next.start : source.length);
     const brokenBefore = /[.!?\n]/.test(prevGap);
     const brokenAfter = /[.!?\n]/.test(nextGap);
-    const hit = lex
+    // Hyphen-linked pieces (K-pop) are one compound: do not highlight either segment.
+    const linked = hasLetterAcrossHyphen(source, item.start, item.end);
+    const hit = lex && !linked
       ? lookupSurface(lex, item.token, {
         sentenceStart,
         nameRun: nameRun[itemIndex],

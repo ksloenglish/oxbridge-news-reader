@@ -330,12 +330,45 @@ test("copy text and CSV keep only the chosen CEFR levels", () => {
   assert.doesNotMatch(text, /^URL:/m);
   assert.doesNotMatch(text, /A story/);
   assert.doesNotMatch(text, /example\.com/);
+  const marched = hitToRecord(lookupSurface(lex, "marched"), { title: "A story", url: "https://example.com/a" });
+  const marchedText = formatWordText(marched, new Set(["A1", "A2", "B1", "B2", "C1", "C2"]));
+  assert.doesNotMatch(marchedText, /In the article/);
+  assert.match(marchedText, /^Word: /m);
+  assert.doesNotMatch(text, /In the article/);
+
   const csv = toCsv([record], new Set(["A1", "B2"]));
-  assert.match(csv, /word,CEFR,POS,defs,IPA/);
+  assert.match(csv, /^\uFEFFword,CEFR,POS,defs\r\n/);
+  assert.doesNotMatch(csv.split(/\r\n/)[0], /IPA/);
   assert.doesNotMatch(csv, /lemma|savedAt|savedat|sourceTitle|sourcetitle|sourceUrl|sourceURL/i);
   assert.doesNotMatch(csv, /A story/);
   assert.doesNotMatch(csv, /https:\/\/example\.com\/a/);
   assert.match(csv, /A1\|B2|B2\|A1|A1/);
+});
+
+test("hyphenated compounds are not partially highlighted", () => {
+  const all = new Set(["A1", "A2", "B1", "B2", "C1", "C2"]);
+  const tokens = (text) => annotate(text, lex, all).filter((part) => part.type === "hit").map((part) => part.text);
+
+  const title = tokens("Live K-pop show makes South Korea more real to a former singer");
+  assert.equal(title.includes("K"), false);
+  assert.equal(title.includes("pop"), false);
+  assert.ok(title.includes("show"));
+  assert.ok(title.includes("real"));
+  assert.ok(title.includes("former"));
+
+  assert.ok(tokens("A pop song is live.").includes("pop"));
+  assert.equal(tokens("a well-known writer").includes("well"), false);
+  assert.ok(tokens("a well-known writer").includes("writer"));
+  assert.equal(tokens("The 20-year-old player").includes("year"), false);
+  assert.equal(tokens("The 20-year-old player").includes("old"), false);
+  assert.ok(tokens("a 28-year plan").includes("year"));
+  assert.equal(tokens("Live K\u2010pop show").includes("pop"), false);
+
+  const compound = countHighlightedLevels("K-pop", lex, all);
+  assert.equal(compound.A1, 0);
+  assert.equal(compound.A2, 0);
+  const single = countHighlightedLevels("pop", lex, all);
+  assert.ok(Object.values(single).some((count) => count >= 1));
 });
 
 test("highlight counts follow the selected levels only", () => {
