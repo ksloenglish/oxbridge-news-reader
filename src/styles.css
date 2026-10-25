@@ -29,7 +29,8 @@
 }
 
 * { box-sizing: border-box; }
-body { margin: 0; }
+html { overflow-x: clip; }
+body { margin: 0; overflow-x: clip; }
 button, select { font: inherit; color: inherit; }
 button { cursor: pointer; }
 a { color: var(--accent); }
@@ -44,8 +45,13 @@ a { color: var(--accent); }
 
 .app {
   min-height: 100vh;
+  width: 100%;
   display: flex;
   flex-direction: column;
+}
+.app > * {
+  min-width: 0;
+  max-width: 100%;
 }
 
 .top {
@@ -59,6 +65,8 @@ a { color: var(--accent); }
 
 .top-row, .level-row, .view {
   width: min(1120px, 100%);
+  max-width: 100%;
+  min-width: 0;
   margin-inline: auto;
   padding-inline: 1rem;
 }
@@ -122,6 +130,7 @@ h1 {
   flex-wrap: wrap;
   gap: 0.35rem;
   margin-left: auto;
+  min-width: 0;
   max-width: 100%;
   background: color-mix(in srgb, var(--ink) 5%, transparent);
   padding: 0.2rem;
@@ -147,8 +156,8 @@ h1 {
   flex-wrap: wrap;
   align-items: center;
   gap: 0.45rem 0.5rem;
-  padding-top: 0.95rem;
-  padding-bottom: 1.1rem;
+  padding-top: 1.15rem;
+  padding-bottom: 1.25rem;
 }
 .level-row p { margin: 0; color: var(--muted); font-size: 0.86rem; }
 .level {
@@ -261,7 +270,7 @@ select {
   line-height: 1.2;
 }
 .story strong { font-size: 1.12rem; }
-.story strong, .reader h2, .excerpt, .body p, .meta { overflow-wrap: break-word; }
+.story, .word-row, .story strong, .reader h2, .excerpt, .body p, .meta { min-width: 0; overflow-wrap: anywhere; }
 .excerpt, .meta, .quiet { color: var(--muted); }
 .excerpt { font-size: 0.95rem; }
 .meta { font-size: 0.86rem; }
