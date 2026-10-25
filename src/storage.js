@@ -1,3 +1,4 @@
+import { DEFAULT_SELECTION } from "./data.js";
 import { LEVELS } from "./lookup.js";
 
 const UI_KEY = "kslo.oxbridge.ui.v1";
@@ -33,7 +34,7 @@ function mixLevels(base, saved) {
 export function defaultUi() {
   return {
     section: "news",
-    selection: "category:rthk",
+    selection: DEFAULT_SELECTION,
     levels: defaultLevels(),
     bankLevels: allLevels(),
     exportLevels: allLevels(),
@@ -49,7 +50,7 @@ export function loadUi() {
     return {
       ...base,
       section: raw.section === "bank" || raw.section === "about" ? raw.section : "news",
-      selection: typeof raw.selection === "string" ? raw.selection : base.selection,
+      selection: base.selection,
       levels: mixLevels(base.levels, raw.levels),
       bankLevels: mixLevels(base.bankLevels, raw.bankLevels),
       exportLevels: mixLevels(base.exportLevels, raw.exportLevels),
@@ -61,7 +62,12 @@ export function loadUi() {
 }
 
 export function saveUi(ui) {
-  localStorage.setItem(UI_KEY, JSON.stringify({ ...ui, articleId: null }));
+  const fresh = defaultUi();
+  localStorage.setItem(UI_KEY, JSON.stringify({
+    ...ui,
+    articleId: null,
+    selection: fresh.selection,
+  }));
 }
 
 export function loadWords() {

@@ -4,7 +4,6 @@ import {
   categoryLabel,
   readCatalog,
   readSnapshot,
-  selectionKnown,
   selectionLabel,
   statusForSelection,
 } from "./data.js";
@@ -14,6 +13,7 @@ import {
   annotate,
   countHighlightedLevels,
   createLexicon,
+  wordListsByLevel,
   formatIpa,
   partitionSenses,
   posLabel,
@@ -34,6 +34,8 @@ let openHit = null; // { hit, source }
 let copyNote = "";
 let bankId = null;
 let confirmWipe = false;
+let confirmRemoveId = null;
+const listCopyText = new Map();
 let refreshing = false;
 let refreshNote = "";
 const hits = [];
@@ -249,13 +251,14 @@ function renderNews() {
 
   const reader = current
     ? `<div class="pane reader"><article class="reader">
-        <button type="button" class="ghost back" data-close-article>All stories</button>
+        <button type="button" class="back back-stories" data-close-article>All stories</button>
         <p class="kicker">${esc(current.source || selectionLabel(catalog, ui.selection))}</p>
         <h2>${renderAnnotated(current.title)}</h2>
         <p class="meta">${esc(formatWhen(current.publishedAt))}${current.link ? ` · <a class="original" href="${esc(safeUrl(current.link))}" target="_blank" rel="noopener noreferrer">Original article</a>` : ""}</p>
         ${current.imageUrl && safeUrl(current.imageUrl) ? `<img class="hero" alt="" src="${esc(safeUrl(current.imageUrl))}" />` : ""}
         <div class="body">${paragraphs(current.fullText)}</div>
         ${highlightSummary(current)}
+        ${renderWordLists(current)}
       </article></div>`
     : "";
 
@@ -306,6 +309,58 @@ function highlightSummary(article) {
   return `<aside class="cefr-summary" aria-label="Highlighted words"><h3>Highlighted words</h3><ul>${items}</ul></aside>`;
 }
 
+function wordListLine(item) {
+  return item.pos ? `${item.lemma} (${item.pos})` : item.lemma;
+}
+
+function articleParts(article) {
+  const blocks = String(article.fullText || "")
+    .split(/\n{2,}|\n/)
+    .map((part) => part.trim())
+    .filter(Boolean);
+  return [article.title, ...blocks];
+}
+
+function renderWordLists(article) {
+  const allow = activeSet(ui.levels);
+  const selected = LEVELS.filter((level) => allow.has(level));
+  const lists = selected.length
+    ? wordListsByLevel(articleParts(article).flatMap((text) => annotate(text, lex, allow)), allow)
+        .filter((group) => selected.includes(group.level) && group.items.length)
+    : [];
+  listCopyText.clear();
+  if (!lists.length) {
+    const note = selected.length ? "No highlighted words in this story." : "No highlight levels are selected.";
+    return `<section class="word-lists" aria-label="Word lists"><h3>Word Lists</h3><p class="quiet">${note}</p></section>`;
+  }
+  const cards = lists.map((group) => {
+    const lines = group.items.map(wordListLine);
+    listCopyText.set(group.level, lines.join("\n"));
+    const count = group.items.length === 1 ? "1 word" : `${group.items.length} words`;
+    const chips = group.items.map((item) => {
+      const id = hits.length;
+      hits.push(item.hit);
+      const pos = item.pos ? ` <span class="pos">(${esc(item.pos)})</span>` : "";
+      return `<button type="button" class="lemma-chip" data-hit="${id}">${esc(item.lemma)}${pos}</button>`;
+    }).join("");
+    return `<article class="level-card" data-level="${esc(group.level)}">
+      <header>
+        <i class="level-dot" aria-hidden="true"></i>
+        <h4>${esc(group.level)} Words</h4>
+        <div class="level-tools">
+          <span class="level-count">${esc(count)}</span>
+          <button type="button" class="ghost copy-list" data-copy-list="${esc(group.level)}">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 7V5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2h-2M8 7H6a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-2M8 7h6a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg>
+            <span class="copy-label">Copy</span>
+          </button>
+        </div>
+      </header>
+      <div class="lemma-chips">${chips}</div>
+    </article>`;
+  }).join("");
+  return `<section class="word-lists" aria-label="Word lists"><h3>Word Lists</h3>${cards}</section>`;
+}
+
 function emptySelectionNote() {
   const rows = statusForSelection(catalog, bundle, ui.selection).filter((feed) => feed.ok === false);
   if (!rows.length) return "No stories in this snapshot yet.";
@@ -344,9 +399,17 @@ function renderBank() {
         <button type="button" class="ghost back" data-close-word>All saved words</button>
         ${renderRecordBody(current)}
         ${copyLevelsBox(recordLevels(current))}
-        <div class="actions">
-          <button type="button" class="ghost" data-remove-word="${esc(current.id)}">Remove</button>
-        </div>
+        ${confirmRemoveId === current.id
+          ? `<div class="confirm-wipe" role="group" aria-label="Confirm remove">
+              <p>Remove this saved word from this browser? This cannot be undone.</p>
+              <div class="actions">
+                <button type="button" class="solid" data-remove-confirm>Remove</button>
+                <button type="button" class="ghost" data-remove-cancel>Cancel</button>
+              </div>
+            </div>`
+          : `<div class="actions">
+              <button type="button" class="ghost" data-remove-word="${esc(current.id)}">Remove</button>
+            </div>`}
       </article>`
     : `<div class="detail"><p class="empty">Open a saved word to see its glosses.</p></div>`;
 
@@ -525,6 +588,17 @@ function render() {
   renderCard();
 }
 
+function scrollViewToTop() {
+  const reset = () => {
+    window.scrollTo(0, 0);
+    document.documentElement.scrollTop = 0;
+    document.body.scrollTop = 0;
+    for (const el of app.querySelectorAll(".pane, .word-list")) el.scrollTop = 0;
+  };
+  reset();
+  requestAnimationFrame(reset);
+}
+
 function speak(text) {
   if (!window.speechSynthesis || !text) return;
   const utterance = new SpeechSynthesisUtterance(text);
@@ -544,10 +618,13 @@ function speak(text) {
 app.addEventListener("click", (event) => {
   const section = event.target.closest("[data-section]");
   if (section) {
-    ui.section = section.dataset.section;
+    const next = section.dataset.section;
+    const changed = next !== ui.section;
+    ui.section = next;
     openHit = null;
     persist();
     render();
+    if (changed) scrollViewToTop();
     return;
   }
   const highlight = event.target.closest("[data-highlight]");
@@ -579,6 +656,21 @@ app.addEventListener("click", (event) => {
     render();
     return;
   }
+  const copyList = event.target.closest("[data-copy-list]");
+  if (copyList) {
+    const text = listCopyText.get(copyList.dataset.copyList) || "";
+    const label = copyList.querySelector(".copy-label");
+    const write = navigator.clipboard?.writeText?.(text);
+    if (!write) {
+      if (label) label.textContent = "Could not copy";
+      return;
+    }
+    write.then(
+      () => { if (label) label.textContent = "Copied"; },
+      () => { if (label) label.textContent = "Could not copy"; },
+    );
+    return;
+  }
   const token = event.target.closest("[data-hit]");
   if (token) {
     const article = currentArticles().find((item) => item.id === ui.articleId);
@@ -592,20 +684,36 @@ app.addEventListener("click", (event) => {
   }
   const word = event.target.closest("[data-word]");
   if (word) {
+    if (word.dataset.word !== bankId) confirmRemoveId = null;
     bankId = word.dataset.word;
     render();
     return;
   }
   if (event.target.closest("[data-close-word]")) {
     bankId = null;
+    confirmRemoveId = null;
     render();
     return;
   }
   const remove = event.target.closest("[data-remove-word]");
   if (remove) {
-    words = words.filter((item) => item.id !== remove.dataset.removeWord);
-    if (bankId === remove.dataset.removeWord) bankId = null;
-    persist();
+    confirmRemoveId = remove.dataset.removeWord || null;
+    render();
+    return;
+  }
+  if (event.target.closest("[data-remove-confirm]")) {
+    const id = confirmRemoveId;
+    confirmRemoveId = null;
+    if (id) {
+      words = words.filter((item) => item.id !== id);
+      if (bankId === id) bankId = null;
+      persist();
+    }
+    render();
+    return;
+  }
+  if (event.target.closest("[data-remove-cancel]")) {
+    confirmRemoveId = null;
     render();
     return;
   }
@@ -628,6 +736,7 @@ app.addEventListener("click", (event) => {
     words = [];
     bankId = null;
     confirmWipe = false;
+    confirmRemoveId = null;
     openHit = null;
     persist();
     render();
@@ -816,7 +925,7 @@ Promise.all([
     catalog = readCatalog(feeds);
     bundle = snapshot;
     lex = createLexicon(vocab);
-    if (!selectionKnown(catalog, ui.selection)) ui.selection = DEFAULT_SELECTION;
+    ui.selection = DEFAULT_SELECTION;
     ui.articleId = null;
     openHit = null;
     saveUi(ui);

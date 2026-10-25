@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 import test from "node:test";
-import { annotate, countHighlightedLevels, createLexicon, lookupSurface, partitionSenses } from "../src/lookup.js";
+import { annotate, countHighlightedLevels, createLexicon, lookupSurface, partitionSenses, wordListsByLevel } from "../src/lookup.js";
 import { formatWordText, hitToRecord, toCsv } from "../src/export.js";
 
 const pack = JSON.parse(await readFile(new URL("../public/data/vocab.json", import.meta.url), "utf8"));
@@ -369,6 +369,29 @@ test("hyphenated compounds are not partially highlighted", () => {
   assert.equal(compound.A2, 0);
   const single = countHighlightedLevels("pop", lex, all);
   assert.ok(Object.values(single).some((count) => count >= 1));
+});
+
+test("word lists use the lemma and its entry part of speech", () => {
+  const tiny = createLexicon({
+    words: {
+      disrupt: { word: "disrupt", cefr: "C1", pos: ["v"], definitions: [{ pos: "v", tc: "使瓦解" }] },
+      clash: { word: "clash", cefr: "C1", pos: ["n"], definitions: [{ pos: "n", tc: "衝突" }] },
+      ahead: { word: "ahead", cefr: "B1", pos: ["adv"], definitions: [{ pos: "adv", tc: "向前" }] },
+      cut: { word: "cut", cefr: "B2", pos: ["v"], definitions: [{ pos: "v", tc: "切" }] },
+    },
+    inflection_map: { disrupting: "disrupt", cutting: "cut" },
+  });
+  const allow = new Set(["B1", "C1", "C2"]);
+  const parts = annotate("They are disrupting the clash ahead while cutting.", tiny, allow);
+  const lists = wordListsByLevel(parts, allow);
+  const line = (item) => (item.pos ? `${item.lemma} (${item.pos})` : item.lemma);
+  const c1 = lists.find((group) => group.level === "C1");
+  const b1 = lists.find((group) => group.level === "B1");
+  assert.equal(lists.some((group) => group.level === "B2"), false);
+  assert.deepEqual(c1.items.map(line), ["clash (n)", "disrupt (v)"]);
+  assert.deepEqual(b1.items.map(line), ["ahead (adv)"]);
+  assert.equal(c1.items.map(line).join("\n").includes("disrupting"), false);
+  assert.equal(parts.some((part) => part.type === "hit" && part.text === "disrupting"), true);
 });
 
 test("popup text prefers an English gloss when en is present", () => {
