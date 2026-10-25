@@ -44,12 +44,12 @@ Saved words stay on this device only. Clearing the site data or cache deletes th
 
 | Level | Colour | Default highlight |
 | --- | --- | --- |
-| A1 | `#17790c` | off |
-| A2 | `#09724f` | off |
-| B1 | `#055f76` | off |
-| B2 | `#0d3fc9` | on |
-| C1 | `#6b1fc1` | on |
-| C2 | `#8518a0` | on |
+| A1 | `#15803d` | off |
+| A2 | `#0f766e` | off |
+| B1 | `#0284c7` | off |
+| B2 | `#2563eb` | on |
+| C1 | `#7c3aed` | on |
+| C2 | `#c026d3` | on |
 
 A word with more than one CEFR level is drawn with a **dashed outline** instead of a single colour. In the word card, senses that match the highlight chips stay under Definitions. Other levels sit under Other meanings.
 

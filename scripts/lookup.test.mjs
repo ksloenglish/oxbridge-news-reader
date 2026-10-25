@@ -308,8 +308,11 @@ test("evening is the A1 noun and does not attach the adjective even", () => {
     inflection_map: {},
   });
   assert.equal(lookupSurface(tiny, "evening"), null);
+  assert.equal(lookupSurface(tiny, "evened"), null);
   assert.equal(lookupSurface(tiny, "walked").reading[0].key, "walk");
   assert.equal(lookupSurface(tiny, "boxes").reading[0].key, "box");
+
+  assert.equal(lookupSurface(lex, "evened"), null);
 });
 
 test("copy text and CSV keep only the chosen CEFR levels", () => {
