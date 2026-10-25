@@ -165,6 +165,33 @@ function keysFromMap(lex, form) {
   return asList(lex.imap[form]).filter((key) => lex.words[key]);
 }
 
+function posLabels(entry) {
+  const listed = Array.isArray(entry?.pos) ? entry.pos : [];
+  const defined = (entry?.definitions || []).map((def) => def.pos).filter(Boolean);
+  return [...listed, ...defined];
+}
+
+function lemmaHasVerb(lex, key) {
+  const entry = lex.words[key];
+  if (!entry) return false;
+  return posLabels(entry).some((pos) => String(pos).split(/[/ ]+/).includes("v"));
+}
+
+/** evening, walked, tried. Comparatives such as better are not participles. */
+function isParticipleSurface(lower) {
+  return lower.endsWith("ing") || lower.endsWith("ied") || lower.endsWith("ed");
+}
+
+/**
+ * A participle strip may land on a verb lemma only.
+ * `evening`→`even` is dropped; `saying`→`say` and `walked`→`walk` stay.
+ * The surface's own lemma is always kept.
+ */
+function verbParticipleTargets(lex, surfaceLower, keys) {
+  if (!isParticipleSurface(surfaceLower)) return keys;
+  return keys.filter((key) => key.toLowerCase() === surfaceLower || lemmaHasVerb(lex, key));
+}
+
 function resolveKeys(lex, token) {
   if (token === "I") {
     if (lex.words.I) return ["I"];
@@ -192,15 +219,26 @@ function resolveKeys(lex, token) {
   }
 
   const lower = token.toLowerCase();
-  const mapped = unique([...keysFromMap(lex, lower), ...keysFromMap(lex, token)]);
+  const mapped = verbParticipleTargets(
+    lex,
+    lower,
+    unique([...keysFromMap(lex, lower), ...keysFromMap(lex, token)]),
+  );
   if (mapped.length) return mapped;
   if (lex.words[lower]) return [lower];
   if (lex.words[token]) return [token];
 
   for (const stem of heuristicStems(lower)) {
     const stemmed = keysFromMap(lex, stem);
-    if (stemmed.length) return unique(stemmed);
-    if (lex.words[stem]) return [stem];
+    const candidates = stemmed.length ? stemmed : (lex.words[stem] ? [stem] : []);
+    if (!candidates.length) continue;
+    // -ing / -ed / -ied may invent a stem (`evening` → `even`). Accept only a verb lemma.
+    if (isParticipleSurface(lower)) {
+      const verbs = candidates.filter((key) => lemmaHasVerb(lex, key));
+      if (verbs.length) return unique(verbs);
+      continue;
+    }
+    return unique(candidates);
   }
   return [];
 }

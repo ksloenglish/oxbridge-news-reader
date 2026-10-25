@@ -261,6 +261,57 @@ test("part context prefers noun or verb before the highlight colour is chosen", 
   }
 });
 
+test("evening is the A1 noun and does not attach the adjective even", () => {
+  const all = new Set(["A1", "A2", "B1", "B2", "C1", "C2"]);
+  const hit = lookupSurface(lex, "evening");
+  assert.deepEqual(hit.reading.map((entry) => entry.key), ["evening"]);
+  assert.deepEqual(hit.levels, ["A1"]);
+  assert.equal(hit.ambiguous, false);
+  assert.ok(hit.reading.every((entry) => entry.senses.every((sense) => sense.pos === "n")));
+  assert.equal(hit.secondary.some((sense) => sense.lemma === "even"), false);
+  const face = partitionSenses(hit, all);
+  assert.ok(face.match.every((sense) => sense.pos === "n" && sense.cefr === "A1" && sense.lemma === "evening"));
+  assert.equal(face.match.some((sense) => sense.lemma === "even"), false);
+  assert.equal(face.secondary.some((sense) => sense.lemma === "even"), false);
+
+  const shown = annotate("in the evening.", lex, all).find((part) => part.text === "evening");
+  assert.equal(shown.style.kind, "solid");
+  assert.equal(shown.style.level, "A1");
+  const thursday = annotate("Thursday evening.", lex, all).find((part) => part.text === "evening");
+  assert.equal(thursday.style.kind, "solid");
+  assert.equal(thursday.style.level, "A1");
+  const possessive = annotate("the evening's programme.", lex, all).find((part) => part.text.startsWith("evening"));
+  assert.equal(possessive.style.kind, "solid");
+  assert.equal(possessive.style.level, "A1");
+  const hidden = annotate("in the evening.", lex, advanced).find((part) => part.text === "evening");
+  assert.equal(hidden.type, "text");
+
+  for (const form of ["longing", "outing"]) {
+    const word = lookupSurface(lex, form);
+    assert.deepEqual(word.reading.map((entry) => entry.key), [form], form);
+    assert.equal(word.reading.some((entry) => entry.key === "long" || entry.key === "out" || entry.key === "even"), false, form);
+  }
+
+  const better = lookupSurface(lex, "better");
+  assert.ok(better.reading.some((entry) => entry.key === "better"));
+  assert.ok(better.reading.some((entry) => entry.key === "good"));
+  const saying = lookupSurface(lex, "saying");
+  assert.ok(saying.reading.some((entry) => entry.key === "saying"));
+  assert.ok(saying.reading.some((entry) => entry.key === "say"));
+
+  const tiny = createLexicon({
+    words: {
+      even: { word: "even", cefr: "A1", pos: ["adj", "adv"], definitions: [{ pos: "adj", cefr: "B2", tc: "平坦" }] },
+      walk: { word: "walk", cefr: "A1", pos: ["v"], definitions: [{ pos: "v", tc: "行" }] },
+      box: { word: "box", cefr: "A1", pos: ["n"], definitions: [{ pos: "n", tc: "盒" }] },
+    },
+    inflection_map: {},
+  });
+  assert.equal(lookupSurface(tiny, "evening"), null);
+  assert.equal(lookupSurface(tiny, "walked").reading[0].key, "walk");
+  assert.equal(lookupSurface(tiny, "boxes").reading[0].key, "box");
+});
+
 test("copy text and CSV keep only the chosen CEFR levels", () => {
   const hit = lookupSurface(lex, "address");
   const record = hitToRecord(hit, { title: "A story", url: "https://example.com/a" });
