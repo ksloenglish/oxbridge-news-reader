@@ -448,12 +448,15 @@ button.token:focus-visible, .nav button:focus-visible, .level:focus-visible, .st
 }
 
 @media (max-width: 959px) {
-  .top-row { flex-wrap: wrap; }
+  .top-row { flex-wrap: wrap; padding-top: 0.55rem; padding-bottom: 0.35rem; }
   .nav { margin-left: 0; order: 3; }
+  .level-row { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 0.45rem; }
+  .hint { display: none; }
   .desk.reading .list-pane, .bank.reading .list-pane { display: none; }
   .desk:not(.reading) .reader, .bank:not(.reading) .detail { display: none; }
   .back { display: inline-flex; }
-  h1 { font-size: 1.25rem; }
+  h1 { font-size: 1.2rem; }
+  .story { scroll-margin-top: 8.5rem; }
 }
 
 @media (min-width: 960px) {

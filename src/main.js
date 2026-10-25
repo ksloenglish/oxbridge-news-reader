@@ -160,7 +160,7 @@ function renderShell() {
       <div class="level-row">
         <p>Highlight</p>
         ${levelButtons(ui.levels, "highlight")}
-        <p class="hint">Dashed outline means the word has more than one CEFR level. Default is B2, C1, and C2.</p>
+        <p class="hint">Dashed outline means more than one CEFR level. Default is B2, C1, and C2.</p>
       </div>
     </header>
     <main class="view" id="view">${ui.section === "bank" ? renderBank() : renderNews()}</main>
