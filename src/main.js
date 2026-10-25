@@ -415,6 +415,7 @@ function renderBank() {
           : `<div class="actions">
               <button type="button" class="ghost" data-remove-word="${esc(current.id)}">Remove</button>
             </div>`}
+        ${dictionaryNote()}
       </article>`
     : `<div class="detail"><p class="empty">Open a saved word to see its glosses.</p></div>`;
 
@@ -461,6 +462,10 @@ function bankExportBox(records) {
     : "";
   const lead = present.length > 1 ? `<p class="quiet">Choose which CEFR levels to include, then download a CSV.</p>` : "";
   return `${lead}<div class="export-box">${choices}<button type="button" class="solid" data-csv>Export CSV</button></div>`;
+}
+
+function dictionaryNote() {
+  return `<p class="dict-note">These are quick definitions for reading. For fuller definitions and usage, check a standard dictionary.</p>`;
 }
 
 function renderRecordBody(record) {
@@ -544,6 +549,7 @@ function renderCard() {
           <button type="button" class="ghost" data-copy>Copy word</button>
         </div>
         <p class="copied" aria-live="polite">${esc(copyNote)}</p>
+        ${dictionaryNote()}
       </div>
     </div>`;
   root.querySelector("[data-close-card]")?.focus();
@@ -581,7 +587,8 @@ function render() {
   }
   app.innerHTML = `<div class="app">${renderShell()}</div>`;
   const sheet = app.querySelector(".sheet");
-  // Section changes clear this afterwards. Pane scroll is intentionally not restored here.
+  // Section changes and opening a story clear this afterwards.
+  // Pane scroll is intentionally not restored here.
   if (sheet) sheet.scrollTop = sheetTop;
   const select = app.querySelector("[data-feed]");
   if (select) {
@@ -610,6 +617,15 @@ function scrollViewToTop() {
   };
   reset();
   requestAnimationFrame(reset);
+}
+
+// Opening a story reuses the sheet offset from the list. On a phone that
+// offset is the page scroll, so the article opened already part-way down.
+// Same top reset as a section change, including the frame after the focused
+// list button is removed (that is when Safari reapplies scroll).
+function scrollOpenedArticleToTop() {
+  scrollViewToTop();
+  requestAnimationFrame(() => requestAnimationFrame(scrollViewToTop));
 }
 
 function scrollSnapshot() {
@@ -794,6 +810,7 @@ app.addEventListener("click", (event) => {
     openHit = null;
     persist();
     render();
+    scrollOpenedArticleToTop();
     return;
   }
   if (event.target.closest("[data-close-article]")) {
