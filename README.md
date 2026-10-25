@@ -36,7 +36,7 @@ The production preview is http://127.0.0.1:4173/oxbridge-news-reader/.
 - **News Desk** — source picker, story list, full text. The default source is **RTHK English News**: all five RTHK English channels (Local, Greater China, World, Finance, Sport).
 - **Word Bank** — words you save in this browser. Filter by CEFR, open a word, export CSV.
 
-The highlight chips, source, section, theme, Word Bank filter, and export levels are stored in `localStorage`.
+The highlight chips, source, section, Word Bank filter, and export levels are stored in `localStorage`.
 
 Saved words stay on this device only. Clearing the site data or cache deletes them.
 
@@ -44,12 +44,12 @@ Saved words stay on this device only. Clearing the site data or cache deletes th
 
 | Level | Colour | Default highlight |
 | --- | --- | --- |
-| A1 | `#0f766e` | off |
-| A2 | `#3f6212` | off |
-| B1 | `#1d4ed8` | off |
-| B2 | `#6d28d9` | on |
-| C1 | `#b45309` | on |
-| C2 | `#9f1239` | on |
+| A1 | `#22c55e` | off |
+| A2 | `#00c5a6` | off |
+| B1 | `#00b7e2` | off |
+| B2 | `#009cff` | on |
+| C1 | `#6679ff` | on |
+| C2 | `#a855f7` | on |
 
 A word with more than one CEFR level is drawn with a **dashed outline** instead of a single colour. In the word card, senses that match the highlight chips stay under Definitions. Other levels sit under Other meanings.
 
@@ -149,4 +149,4 @@ Glosses are the Traditional Chinese `tc` field. IPA is `phonetic`.
 
 ## Brand
 
-K S Lo English. Ink `#111827`, paper `#f9f6f1`, accent `#b45309`, on-accent `#ffffff`, muted `#6b7280`. The mark is stacked KSLO / ENGLISH, 2.75rem square, radius 0.55rem. Its background follows the light or dark theme.
+K S Lo English. Ink `#111827`, paper `#f9f6f1`, accent `#b45309`, on-accent `#ffffff`, muted `#6b7280`. The header mark is the K S Lo English logo, 2.75rem square, radius 0.55rem, on the card colour. The logo file is a white knockout, tinted to ink so it reads on the light page. The reader is light Oxbridge night only. Accent gold is the product accent, not a CEFR level.

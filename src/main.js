@@ -34,13 +34,6 @@ let copyNote = "";
 let bankId = null;
 const hits = [];
 
-applyTheme();
-
-function applyTheme() {
-  if (ui.theme === "system") delete document.documentElement.dataset.theme;
-  else document.documentElement.dataset.theme = ui.theme;
-}
-
 function persist() {
   saveUi(ui);
   saveWords(words);
@@ -145,7 +138,7 @@ function renderShell() {
     <header class="top">
       <div class="top-row">
         <div class="brand">
-          <div class="mark" aria-hidden="true"><b>KSLO</b><span>ENGLISH</span></div>
+          <div class="mark"><img src="${base}branding/kslo-english-logo.png" alt="K S Lo English" /></div>
           <div class="titles">
             <p class="eyebrow">K S Lo English</p>
             <h1>Oxbridge News Reader</h1>
@@ -155,7 +148,6 @@ function renderShell() {
           <button type="button" data-section="news" aria-pressed="${ui.section === "news" ? "true" : "false"}">News Desk</button>
           <button type="button" data-section="bank" aria-pressed="${ui.section === "bank" ? "true" : "false"}">Word Bank</button>
         </nav>
-        <button type="button" class="theme" data-theme-cycle>${ui.theme === "dark" ? "Dark" : ui.theme === "light" ? "Light" : "Theme"}</button>
       </div>
       <div class="level-row">
         <p>Highlight</p>
@@ -431,14 +423,6 @@ app.addEventListener("click", (event) => {
   if (section) {
     ui.section = section.dataset.section;
     openHit = null;
-    persist();
-    render();
-    return;
-  }
-  const theme = event.target.closest("[data-theme-cycle]");
-  if (theme) {
-    ui.theme = ui.theme === "system" ? "light" : ui.theme === "light" ? "dark" : "system";
-    applyTheme();
     persist();
     render();
     return;

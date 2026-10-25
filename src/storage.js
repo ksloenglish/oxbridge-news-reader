@@ -37,7 +37,6 @@ export function defaultUi() {
     levels: defaultLevels(),
     bankLevels: allLevels(),
     exportLevels: allLevels(),
-    theme: "system",
     articleId: null,
   };
 }
@@ -54,7 +53,6 @@ export function loadUi() {
       levels: mixLevels(base.levels, raw.levels),
       bankLevels: mixLevels(base.bankLevels, raw.bankLevels),
       exportLevels: mixLevels(base.exportLevels, raw.exportLevels),
-      theme: raw.theme === "light" || raw.theme === "dark" ? raw.theme : "system",
       articleId: typeof raw.articleId === "string" ? raw.articleId : null,
     };
   } catch {
