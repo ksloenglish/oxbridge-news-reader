@@ -1,4 +1,4 @@
-import { formatIpa, posLabel, primaryEntry } from "./lookup.js";
+import { posLabel, primaryEntry } from "./lookup.js";
 
 export function hitToRecord(hit, source = {}) {
   const preferred = primaryEntry(hit);
@@ -41,13 +41,10 @@ export function formatWordText(record, levels) {
   const cefr = [...new Set(senses.map((sense) => sense.cefr))].join(", ");
   const lines = [
     `Word: ${record.word}`,
-    record.surface && record.surface.toLowerCase() !== String(record.word).toLowerCase()
-      ? `In the article: ${record.surface}`
-      : "",
     `CEFR: ${cefr || "—"}`,
     `Part of speech: ${(record.pos || []).map(posLabel).join(", ") || "—"}`,
     "Definitions:",
-  ].filter(Boolean);
+  ];
   if (!senses.length) lines.push("- (no senses at the chosen levels)");
   for (const sense of senses) {
     lines.push(`- ${posLabel(sense.pos)} (${sense.cefr}): ${sense.text}`);
@@ -62,15 +59,13 @@ function csvCell(value) {
 }
 
 export function toCsv(records, levels) {
-  const header = ["word", "CEFR", "POS", "defs", "IPA"];
+  const header = ["word", "CEFR", "POS", "defs"];
   const lines = [header.join(",")];
   for (const record of records) {
     const senses = selectedSenses(record, levels);
     const cefr = [...new Set(senses.map((sense) => sense.cefr))].join("|");
     const defs = senses.map((sense) => `${sense.pos} (${sense.cefr}): ${sense.text}`).join(" | ");
-    lines.push(
-      [record.word, cefr, (record.pos || []).join("|"), defs, formatIpa(record.ipa)].map(csvCell).join(","),
-    );
+    lines.push([record.word, cefr, (record.pos || []).join("|"), defs].map(csvCell).join(","));
   }
   return `\uFEFF${lines.join("\r\n")}\r\n`;
 }

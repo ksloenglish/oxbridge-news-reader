@@ -48,12 +48,12 @@ export function loadUi() {
     if (!raw || typeof raw !== "object") return base;
     return {
       ...base,
-      section: raw.section === "bank" ? "bank" : "news",
+      section: raw.section === "bank" || raw.section === "about" ? raw.section : "news",
       selection: typeof raw.selection === "string" ? raw.selection : base.selection,
       levels: mixLevels(base.levels, raw.levels),
       bankLevels: mixLevels(base.bankLevels, raw.bankLevels),
       exportLevels: mixLevels(base.exportLevels, raw.exportLevels),
-      articleId: typeof raw.articleId === "string" ? raw.articleId : null,
+      articleId: null,
     };
   } catch {
     return base;
@@ -61,7 +61,7 @@ export function loadUi() {
 }
 
 export function saveUi(ui) {
-  localStorage.setItem(UI_KEY, JSON.stringify(ui));
+  localStorage.setItem(UI_KEY, JSON.stringify({ ...ui, articleId: null }));
 }
 
 export function loadWords() {

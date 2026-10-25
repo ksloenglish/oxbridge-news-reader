@@ -80,11 +80,27 @@ async function loadData(name) {
   return response.json();
 }
 
+function everyLevelOn(map) {
+  return LEVELS.every((level) => map[level]);
+}
+
+/** All is on only when every level is on. Clicking it turns every level on, or off if they already are. */
+function toggleLevel(map, level) {
+  if (level === "all") {
+    const next = !everyLevelOn(map);
+    for (const item of LEVELS) map[item] = next;
+    return;
+  }
+  if (LEVELS.includes(level)) map[level] = !map[level];
+}
+
 function levelButtons(map, dataAttr, emptyLevels = null) {
-  return LEVELS.map((level) => {
+  const all = `<button type="button" class="level level-all" data-${dataAttr}="all" aria-pressed="${everyLevelOn(map) ? "true" : "false"}">All</button>`;
+  const levels = LEVELS.map((level) => {
     const vacant = Boolean(emptyLevels?.has(level));
     return `<button type="button" class="level${vacant ? " is-empty" : ""}" data-level="${level}" data-${dataAttr}="${level}" aria-pressed="${map[level] ? "true" : "false"}"><i></i>${level}</button>`;
   }).join("");
+  return all + levels;
 }
 
 function findSaved(record) {
@@ -127,8 +143,7 @@ function renderFooter() {
     <footer class="site-footer">
       <div class="footer-inner">
         <div class="build-stamp">${__KSLO_BUILD__}</div>
-        <p>&copy; <span id="copyright-year">${__KSLO_YEAR__}</span> K S Lo English. All Rights Reserved.</p>
-        <p class="disclaimer">News articles are provided by their original publishers for language learning. They belong to those sources and do not represent the views of K S Lo English.</p>
+        <p>&copy; <span id="copyright-year">${__KSLO_YEAR__}</span> <a href="https://english.kslo.hk/" target="_blank" rel="noopener noreferrer">K S Lo English</a>. All Rights Reserved.</p>
       </div>
     </footer>`;
 }
@@ -204,11 +219,12 @@ function renderShell() {
         <nav class="nav" aria-label="Sections">
           <button type="button" data-section="news" aria-pressed="${ui.section === "news" ? "true" : "false"}">News Desk</button>
           <button type="button" data-section="bank" aria-pressed="${ui.section === "bank" ? "true" : "false"}">Word Bank</button>
+          <button type="button" data-section="about" aria-pressed="${ui.section === "about" ? "true" : "false"}">About</button>
         </nav>
       </div>
       ${highlightRow}
     </header>
-    <main class="view" id="view">${ui.section === "bank" ? renderBank() : renderNews()}</main>
+    <main class="view" id="view">${ui.section === "bank" ? renderBank() : ui.section === "about" ? renderAbout() : renderNews()}</main>
     ${renderFooter()}
     <div id="modal"></div>
   `;
@@ -243,9 +259,8 @@ function renderNews() {
       </article></div>`
     : "";
 
-  const stamp = bundle.generatedAt ? `Snapshot ${esc(formatWhen(bundle.generatedAt))}.` : "";
   return `
-    <section class="desk${reading ? " reading" : ""}" aria-labelledby="desk-title">
+    <section class="desk${reading ? " reading" : ""}" aria-label="${esc(selectionLabel(catalog, ui.selection))}">
       <div class="pane list-pane">
         <div class="toolbar">
           <label class="field">News source
@@ -254,11 +269,19 @@ function renderNews() {
           <button type="button" class="ghost" data-refresh ${refreshing ? "disabled" : ""}>${refreshing ? "Refreshing…" : "Refresh"}</button>
         </div>
         ${refreshNote ? `<p class="quiet" aria-live="polite">${esc(refreshNote)}</p>` : ""}
-        <h2 id="desk-title">${esc(selectionLabel(catalog, ui.selection))}</h2>
         ${list}
-        <p class="quiet">${stamp} Stories are saved with the site so the desk works without calling the news sites from your browser.</p>
       </div>
       ${reader}
+    </section>`;
+}
+
+function renderAbout() {
+  return `
+    <section class="about" aria-labelledby="about-title">
+      <h2 id="about-title">About</h2>
+      <p>K S Lo Oxbridge News Reader is an English news desk for school reading. Stories come from approved RSS feeds. The reader highlights words from the Oxbridge A1–C2 pack so you can study vocabulary in real news.</p>
+      <p>On News Desk, pick a source and open a story. Choose which CEFR levels to highlight, then click a word for its meaning, part of speech, and Traditional Chinese gloss. Listen plays the word in British English. Save adds it to Word Bank on this device, where you can filter by level and export a CSV.</p>
+      <p class="disclaimer">News articles are provided by their original publishers for language learning. They belong to those sources and do not represent the views of K S Lo English.</p>
     </section>`;
 }
 
@@ -348,7 +371,9 @@ function renderBank() {
         <div class="export-box" aria-label="Word bank levels">
           ${levelButtons(ui.bankLevels, "bank", emptyLevels)}
         </div>
-        ${list}
+        <div class="word-list">
+          ${list}
+        </div>
         ${wipe}
         <h3 class="kicker">Export</h3>
         ${bankExportBox(visible)}
@@ -439,9 +464,8 @@ function renderCard() {
         </header>
         <p class="ipa">${esc(formatIpa(entry.phonetic))}</p>
         <button type="button" class="ghost" data-speak="${esc(entry.word)}">Listen (en-GB)</button>
-        ${renderSenseGroup(parts.match, "Definitions")}
+        ${renderSenseGroup([...parts.match, ...parts.secondary], "Definitions")}
         ${parts.other.length ? renderSenseGroup(parts.other, "Other meanings", true) : ""}
-        ${parts.secondary.length ? `<details class="secondary-pos"><summary>Other parts of speech</summary>${renderSenseGroup(parts.secondary, "", true)}</details>` : ""}
         ${parts.alternates.length ? renderSenseGroup(parts.alternates, "Other readings", true) : ""}
         ${copyLevelsBox(hit.levels)}
         ${saved ? `<p class="already">Already in Word Bank</p>` : ""}
@@ -528,15 +552,14 @@ app.addEventListener("click", (event) => {
   }
   const highlight = event.target.closest("[data-highlight]");
   if (highlight) {
-    const level = highlight.dataset.highlight;
-    ui.levels[level] = !ui.levels[level];
+    toggleLevel(ui.levels, highlight.dataset.highlight);
     persist();
     render();
     return;
   }
   const bankLevel = event.target.closest("[data-bank]");
   if (bankLevel) {
-    ui.bankLevels[bankLevel.dataset.bank] = !ui.bankLevels[bankLevel.dataset.bank];
+    toggleLevel(ui.bankLevels, bankLevel.dataset.bank);
     persist();
     render();
     return;
@@ -685,6 +708,53 @@ app.addEventListener("change", (event) => {
   }
 });
 
+function wheelDeltaY(event) {
+  if (event.deltaMode === 1) return event.deltaY * 16;
+  if (event.deltaMode === 2) return event.deltaY * window.innerHeight;
+  return event.deltaY;
+}
+
+function isYScroller(el) {
+  const overflow = getComputedStyle(el).overflowY;
+  return (overflow === "auto" || overflow === "scroll") && el.scrollHeight - el.clientHeight > 1;
+}
+
+function canScrollY(el, delta) {
+  const max = el.scrollHeight - el.clientHeight;
+  if (max <= 1) return false;
+  if (delta > 0) return el.scrollTop < max - 1;
+  return el.scrollTop > 0;
+}
+
+// At a column or word-list boundary, keep the wheel moving the page so the footer is reachable.
+app.addEventListener("wheel", (event) => {
+  if (event.ctrlKey) return;
+  const delta = wheelDeltaY(event);
+  if (!delta) return;
+  const target = event.target instanceof Element ? event.target : null;
+  if (!target || target.closest(".backdrop")) return;
+  const scrollers = [];
+  let node = target;
+  while (node && node !== app) {
+    if (node.matches?.(".pane, .word-list")) scrollers.push(node);
+    node = node.parentElement;
+  }
+  const active = scrollers.filter(isYScroller);
+  if (!active.length) return;
+  if (canScrollY(active[0], delta)) return;
+  event.preventDefault();
+  let leftover = delta;
+  for (const el of active) {
+    const max = el.scrollHeight - el.clientHeight;
+    const before = el.scrollTop;
+    const next = Math.max(0, Math.min(max, before + leftover));
+    if (next !== before) el.scrollTop = next;
+    leftover -= next - before;
+    if (Math.abs(leftover) < 0.5) return;
+  }
+  window.scrollBy(0, leftover);
+}, { passive: false });
+
 document.addEventListener("keydown", (event) => {
   if (event.key === "Escape" && openHit) {
     openHit = null;
@@ -693,15 +763,19 @@ document.addEventListener("keydown", (event) => {
   }
 });
 
+async function fetchSnapshot() {
+  const response = await fetch(`${base}data/articles.json?refresh=${Date.now()}`, { cache: "no-store" });
+  if (!response.ok) throw new Error(`articles.json HTTP ${response.status}`);
+  return readSnapshot(await response.json());
+}
+
 async function refreshArticles() {
   if (refreshing) return;
   refreshing = true;
   refreshNote = "";
   render();
   try {
-    const response = await fetch(`${base}data/articles.json?refresh=${Date.now()}`, { cache: "no-store" });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    bundle = readSnapshot(await response.json());
+    bundle = await fetchSnapshot();
     const articles = currentArticles();
     if (ui.articleId && !articles.some((article) => article.id === ui.articleId)) {
       ui.articleId = null;
@@ -735,17 +809,17 @@ window.speechSynthesis?.addEventListener?.("voiceschanged", () => {});
 
 Promise.all([
   loadData("feeds.json"),
-  fetch(`${base}data/articles.json`).then((response) => {
-    if (!response.ok) throw new Error(`articles.json HTTP ${response.status}`);
-    return response.json();
-  }),
+  fetchSnapshot(),
   loadData("vocab.json"),
 ])
-  .then(([feeds, articles, vocab]) => {
+  .then(([feeds, snapshot, vocab]) => {
     catalog = readCatalog(feeds);
-    bundle = readSnapshot(articles);
+    bundle = snapshot;
     lex = createLexicon(vocab);
     if (!selectionKnown(catalog, ui.selection)) ui.selection = DEFAULT_SELECTION;
+    ui.articleId = null;
+    openHit = null;
+    saveUi(ui);
     render();
   })
   .catch((error) => {
