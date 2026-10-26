@@ -285,7 +285,7 @@ function renderNews() {
 function renderFreshness() {
   const when = formatSnapshotUpdated(bundle.generatedAt);
   const updated = when
-    ? `<span>Last updated: <time datetime="${esc(bundle.generatedAt)}">${esc(when)}</time> (Hong Kong time).</span>`
+    ? `<span>Last updated: <time datetime="${esc(bundle.generatedAt)}">${esc(when)}</time> (HKT).</span>`
     : "";
   return `<p class="freshness"><span>Stories update automatically at different times of the day.</span>${updated}</p>`;
 }
