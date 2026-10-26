@@ -2,6 +2,7 @@ import {
   DEFAULT_SELECTION,
   articlesForSelection,
   categoryLabel,
+  formatSnapshotUpdated,
   readCatalog,
   readSnapshot,
   selectionLabel,
@@ -274,13 +275,22 @@ function renderNews() {
           <label class="field">News source
             <select data-feed aria-label="News source">${feedOptions()}</select>
           </label>
-          <button type="button" class="ghost" data-refresh ${refreshing ? "disabled" : ""}>${refreshing ? "Refreshing…" : "Refresh"}</button>
+          <button type="button" class="ghost" data-refresh ${refreshing ? "disabled aria-busy=\"true\"" : ""}>${refreshing ? "Checking…" : "Check for updates"}</button>
+          ${renderFreshness()}
         </div>
-        ${refreshNote ? `<p class="quiet" aria-live="polite">${esc(refreshNote)}</p>` : ""}
+        ${refreshNote ? `<p class="quiet refresh-note" aria-live="polite">${esc(refreshNote)}</p>` : ""}
         ${list}
       </div>
       ${reader}
     </section>`;
+}
+
+function renderFreshness() {
+  const when = formatSnapshotUpdated(bundle.generatedAt);
+  const updated = when
+    ? `<span>Last updated: <time datetime="${esc(bundle.generatedAt)}">${esc(when)}</time> (Hong Kong time).</span>`
+    : "";
+  return `<p class="quiet freshness"><span>Stories update about once an hour.</span>${updated}</p>`;
 }
 
 function renderAbout() {
@@ -1056,9 +1066,9 @@ async function refreshArticles() {
       ui.articleId = null;
       openHit = null;
     }
-    refreshNote = "Article list updated.";
+    refreshNote = "Stories checked.";
   } catch {
-    refreshNote = "Could not refresh the article list.";
+    refreshNote = "Could not check for new stories. Please try again.";
   } finally {
     refreshing = false;
     render();

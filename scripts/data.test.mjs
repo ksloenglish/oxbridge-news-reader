@@ -3,6 +3,7 @@ import test from "node:test";
 import {
   DEFAULT_SELECTION,
   articlesForSelection,
+  formatSnapshotUpdated,
   readCatalog,
   readSnapshot,
   selectionLabel,
@@ -38,6 +39,13 @@ test("default desk is every RTHK channel in the catalog", () => {
   const top = articlesForSelection(catalog, snapshot, "feed:news-gov-hk-top");
   assert.equal(top.length, 1);
   assert.equal(top[0].link, "https://example.com/c");
+});
+
+test("snapshot time is shown in Hong Kong time", () => {
+  assert.equal(formatSnapshotUpdated("2026-10-25T23:50:03.092Z"), "26 Oct 2026, 7:50 am");
+  assert.equal(formatSnapshotUpdated("2026-10-26T03:48:42.114Z"), "26 Oct 2026, 11:48 am");
+  assert.equal(formatSnapshotUpdated(null), "");
+  assert.equal(formatSnapshotUpdated("not-a-date"), "");
 });
 
 test("a catalog feed with no articles stays selectable", () => {
