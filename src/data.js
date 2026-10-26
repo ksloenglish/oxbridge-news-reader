@@ -107,13 +107,6 @@ export function describeFeedCheck(snapshot, now = Date.now()) {
   return { checkedAt, stamp, generatedAt, when, overdue, text };
 }
 
-/** When the story list last changed. Empty when the stamp is missing. */
-export function formatNewsChanged(generatedAt) {
-  const when = formatSnapshotUpdated(generatedAt);
-  if (!when) return "";
-  return `News changed ${when} (HKT).`;
-}
-
 /** Name sources from the current selection that failed on the last check. */
 export function formatFeedCheckFailure(feeds) {
   const failed = (feeds || []).filter((feed) => feed && feed.ok === false);

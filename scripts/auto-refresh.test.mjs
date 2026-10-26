@@ -78,7 +78,7 @@ test("the desk re-reads published articles.json and does not call GitHub", () =>
   assert.match(main, /holdScroll\(\(\) => render\(\)\)/);
   assert.match(main, /Auto-updates through the day\./);
   assert.match(main, /Feeds checked /);
-  assert.match(main, /News changed /);
+  assert.equal(main.includes("News changed"), false);
   assert.equal(main.includes("Stories update automatically at different times of the day."), false);
   assert.equal(main.includes("Feeds last checked"), false);
   assert.equal(main.includes("News last changed"), false);
