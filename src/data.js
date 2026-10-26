@@ -96,5 +96,5 @@ export function formatSnapshotUpdated(value) {
 export function formatPublishedAt(value) {
   const when = formatSnapshotUpdated(value);
   if (!when) return "";
-  return `Published ${when} (Hong Kong time)`;
+  return `Published ${when} (HKT)`;
 }

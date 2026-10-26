@@ -50,8 +50,8 @@ test("snapshot time is shown in Hong Kong time", () => {
 });
 
 test("publication time uses publishedAt in Hong Kong time and is omitted when missing", () => {
-  assert.equal(formatPublishedAt("2026-10-25T10:56:54.000Z"), "Published 25 Oct 2026, 6:56 pm (Hong Kong time)");
-  assert.equal(formatPublishedAt("2026-10-26T03:20:16.000Z"), "Published 26 Oct 2026, 11:20 am (Hong Kong time)");
+  assert.equal(formatPublishedAt("2026-10-25T10:56:54.000Z"), "Published 25 Oct 2026, 6:56 pm (HKT)");
+  assert.equal(formatPublishedAt("2026-10-26T03:20:16.000Z"), "Published 26 Oct 2026, 11:20 am (HKT)");
   assert.equal(formatPublishedAt(null), "");
   assert.equal(formatPublishedAt(""), "");
   assert.equal(formatPublishedAt("not-a-date"), "");
