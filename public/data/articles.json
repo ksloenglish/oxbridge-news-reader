@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T10:08:44.193Z",
+  "generatedAt": "2026-10-26T12:45:06.062Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -49,7 +49,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 17
     },
     {
       "id": "news-gov-hk-top",
@@ -93,6 +93,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "e18fb9ada6f34f57",
+      "title": "Pair rescued after working platform plunge",
+      "excerpt": "Two workers were left hanging mid-air outside Jardine House in Central for about two hours on Monday evening, after their…",
+      "fullText": "Two workers were left hanging mid-air outside Jardine House in Central for about two hours on Monday evening, after their gondola suddenly dropped and almost hit the ground.\n\nPolice received a report shortly after 6pm that the suspended working platform had stopped operating, leaving two workers stranded on the exterior wall.\n\nBoth were wearing safety harnesses.\n\nFirefighters first abseiled down to bring one worker safely to the ground at around 7.40pm.\n\nShortly afterwards, the second worker was pulled up to the building's rooftop.\n\nOne of them suffered hand injuires and was taken to Queen Mary Hospital for treatment.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T12:29:41.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875401-20261026.htm"
+    },
+    {
+      "id": "9271be24243d1f59",
+      "title": "Evening News on TV32 - Oct 26",
+      "excerpt": "Top stories for Monday, Oct 26, 2026 - China congratulates Brazil's Luiz Inacio Lula da Silva on his election victory…",
+      "fullText": "Top stories for Monday, Oct 26, 2026\n\n- China congratulates Brazil's Luiz Inacio Lula da Silva on his election victory.\n\n- President Xi Jinping opens a key Party meeting on governance.\n\n- John Lee says Hong Kong can enhance Belt and Road connections.",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T12:20:16.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875391-20261026.htm"
+    },
     {
       "id": "ed8ec797b3c7d032",
       "title": "HK, Shanghai up amid wait for key central bank moves",
@@ -424,6 +446,17 @@
       "link": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_150639_499.html"
     },
     {
+      "id": "b10015d99de29ad9",
+      "title": "HK advances fintech growth",
+      "excerpt": "Secretary for Financial Services & the Treasury Christopher Hui today chaired the sixth meeting of the Coordination Group on the…",
+      "fullText": "Secretary for Financial Services & the Treasury Christopher Hui today chaired the sixth meeting of the Coordination Group on the Implementation of Fintech Initiatives.\n\nDuring the meeting, he exchanged views with representatives from financial regulators, the fintech sector and academia on the latest developments in fintech in Hong Kong.\n\nMr Hui said, drawing on the valuable views of the industry representatives, the Government and financial regulators will maintain a multi-pronged approach to facilitate fintech development, including enhancing financial infrastructure, further enriching the fintech ecosystem, nurturing fintech talent, as well as strengthening connections and collaboration beyond Hong Kong.\n\nDifferent aspects of fintech, including the proposed regulatory regimes for virtual asset dealing, custody, advisory and management service providers, were discussed.\n\nThe financial regulators provided updates on their progress in adopting artificial intelligence in the financial market.\n\nThe Monetary Authority briefed the meeting on the latest developments regarding Project Ensemble, the quantum preparedness of Hong Kong's banking sector, as well as the Commercial Data Interchange and Project CargoX.\n\nThe meeting also noted that Hong Kong FinTech Week 2026, themed “Fintech Nexus: Bridging the World, Building the Future”, will be held from November 2 to 6 in conjunction with the StartmeupHK Festival.\n\nThe 11th edition of this event will attract attendees from all over the world. The Financial Services & the Treasury Bureau and Invest Hong Kong will collaborate with industry stakeholders and showcase the vitality of Hong Kong's fintech ecosystem to the global market.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_180214_849/images/20261026191646880.jpg",
+      "publishedAt": "2026-10-25T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_180214_849.html"
+    },
+    {
       "id": "177ff9c2b3a55d0a",
       "title": "Brazil's Lula, Bolsonaro face off in nail-biter vote",
       "excerpt": "Brazil held its breath on Sunday as voters went to the polls to decide between leftist leader Luiz Inacio Lula…",
@@ -672,8 +705,8 @@
       "fullText": "Hong Kong, China won silver in the women's sabre team event on Saturday at the Asian Para Games.\n\nThe SAR quartet of Yu Chui-yee, Lam Ka-man, Tong Nga-ting and Chung Yuen-ping fell to the national team 16-30 in the gold-medal match.\n\nThailand took bronze.\n\nIn the men's competition, Lee Sheung-ho, Kwong Yuen-hing, Leung Siu-lun and Sean Glass narrowly missed out on a place on the podium after losing to Thailand 10-30.\n\nIn the mixed team event, the SAR clinched bronze after narrowly defeating the national team 20-17.\n\nEdited by Azam Khan",
       "imageUrl": null,
       "publishedAt": "2026-10-24T07:37:39.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875179-20261024.htm"
     },
     {
@@ -705,8 +738,8 @@
       "fullText": "Hong Kong, China boccia athletes continued to shine on the final day of the Asian Para Games on Saturday as they seized the chance to take home more medals.\n\nIn the mixed pairs BC4 event, Leung Yuk-wing and Cheung Yuen dominated the match to beat the national team 9-0 to take gold.\n\nLeung and Cheung said they were very happy to be on top of the podium.\n\n“Cheung and I played to our usual standards in this competition. Maybe the opponents saw that and were a bit nervous,” Leung said after the competition.\n\n“So we built on this momentum.”\n\nThe pair also said they hope to qualify for the 2028 Los Angeles Paralympics and win gold at the Games.\n\nIn the mixed BC1/BC2 team event, the SAR trio of John Loung, Yeung Hiu-lam and Chan Pak-lun defeated South Korea 7-5 to take home the bronze medal.\n\nIndonesia took the top spot on the podium, with Thailand clinching silver.\n\nIn the mixed pairs BC3 event, Chan Ho-yan and Tse Tak-wah fended off Thailand’s Ladamanee Kla-Han and Withun Chanthakhat 3-2 to round out the podium, with host nation Japan winning gold and Singapore the silver.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-10-24T05:10:58.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875177-20261024.htm"
     },
     {
@@ -1159,17 +1192,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261023/20261023_175258_547.html"
-    },
-    {
-      "id": "b4ff5b5799c3d26d",
-      "title": "Govt condemns UK report",
-      "excerpt": "The Hong Kong Special Administrative Region Government today said it strongly condemns the untruthful remarks, slanders and smears contained in…",
-      "fullText": "The Hong Kong Special Administrative Region Government today said it strongly condemns the untruthful remarks, slanders and smears contained in the UK's “six-monthly report on Hong Kong: January to June 2026”.\n\nIn a press statement , the Hong Kong SAR Government rejected the UK's attempt to interfere in the city’s governance through misleading remarks on local matters.\n\nEmphasising that the core essence of the Sino-British Joint Declaration concerns China's resumption of sovereignty over Hong Kong, it said the declaration does not authorise the UK to interfere in Hong Kong's affairs post-handover. The Hong Kong SAR Government urged the UK to respect international law and basic norms governing international relations and immediately cease its long-arm jurisdiction.\n\nThe Hong Kong SAR Government reiterated that it steadfastly safeguards the legally protected rights and freedoms enjoyed by Hong Kong people, adding that the city's media landscape has remained vibrant since the implementation of the Hong Kong National Security Law and the Safeguarding National Security Ordinance.\n\nPointing out the UK's hypocritical double standards, the statement highlighted that the UK had arrested nearly 4,000 people under its own national security and counter-terrorism laws as of June 2026. The statement said it is utterly ugly and despicable that the UK smeared the Hong Kong National Security Law and the city's law enforcement efforts as “undermining rights and freedoms”.\n\nIt further stated that the implementation of the Hong Kong National Security Law has brought freedom, stability and improvements to the local business environment, with Hong Kong continuing to be recognised as the world’s freest economy.\n\nStressing that Hong Kong society is underpinned by the rule of law, the Hong Kong SAR Government said any suggestion that certain individuals or organisations should be immune from consequences for acting illegally runs contrary to the spirit of the rule of law.\n\nAddressing the report's mentions of the judicial verdict against Lai Chee-ying, the Hong Kong SAR Government emphasised that the court's decision was strictly reasoned and well-founded, demonstrating absolute judicial independence.\n\nThe reasons for sentence also identified Lai Chee-ying as the mastermind and driving force behind conspiracies of “a grave nature”, noting that Lai Chee-ying opted not to appeal against his conviction or sentence. The statement described it as disgraceful that the UK continues to distort the truth and maliciously attack Hong Kong despite these ironclad facts.\n\nRegarding the mechanism for certificates issued by the Chief Executive under the Hong Kong National Security Law and the Safeguarding National Security Ordinance, the Hong Kong SAR Government said that judicial deference to executive authority on national security matters is a general rule practised in regions around the world, including the UK.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261023/20261023_103956_333/images/20261023132822488.jpg",
-      "publishedAt": "2026-10-22T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261023/20261023_103956_333.html"
     },
     {
       "id": "c584601f713f69a1",
