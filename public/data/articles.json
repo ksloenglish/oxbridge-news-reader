@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T14:04:59.470Z",
-  "checkedAt": "2026-10-26T14:15:19.049Z",
+  "generatedAt": "2026-10-26T14:30:25.297Z",
+  "checkedAt": "2026-10-26T14:30:25.297Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -489,6 +489,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_180214_849.html"
+    },
+    {
+      "id": "d615ec135ecaad16",
+      "title": "Belt-Road green conference held",
+      "excerpt": "The Belt & Road Green Innovation Conference 2026 was held in Hong Kong today, marking the first time the city…",
+      "fullText": "The Belt & Road Green Innovation Conference 2026 was held in Hong Kong today, marking the first time the city has hosted the prestigious event.\n\nUnder the theme \"Partnering with the Global South on Green Transition, Advancing Sustainable Development Worldwide\", the conference underscored Hong Kong’s unique position and pivotal role in driving global green development.\n\nSpeaking at the opening ceremony, Chief Executive John Lee emphasised that green transformation requires visionary planning to navigate challenges and capture emerging opportunities.\n\nWith a vision to achieve carbon neutrality before 2050, Mr Lee stated that Hong Kong is closely aligned with the country's \"dual carbon\" goals. He noted that Hong Kong is well-positioned to provide Belt & Road partners with world-class professional services, including financing, project management and risk management for green infrastructure and sustainable development projects.\n\nHe added that Hong Kong will actively participate in the Belt & Road Conference on Science & Technology Exchange, the Ministerial Meeting on Science, Technology & Innovation, and the implementation of the Belt & Road Science, Technology & Innovation Co-operation Action Plan.\n\nThe conference was jointly organised by the Ministry of Ecology & Environment and the Environment & Ecology Bureau of the Hong Kong SAR Government.\n\nThe event gathered over 400 political and business leaders, international organisation representatives, experts and scholars from 17 Belt & Road countries and around 40 Mainland provinces and cities. Participants engaged in in-depth exchanges on green finance, green innovation and digital empowerment.\n\nMinister of Ecology & Environment Huang Runqiu also addressed the opening ceremony.\n\nDuring a morning session, Secretary for Environment & Ecology Tse Chin-wan delivered a keynote speech, highlighting that, in the face of severe climate change challenges, Hong Kong will leverage green innovation as an engine to transform technology, capital, talent and professional services into practical and low-carbon solutions.\n\nMr Tse added that Hong Kong will work hand in hand with Belt & Road partners to address climate challenges and promote sustainable development.\n\nIn the afternoon, Mr Tse held bilateral meetings with delegations from Myanmar, the Maldives and Bangladesh respectively. They exchanged views on combating climate change, environmental protection and strengthening inter-city co-operation.\n\nSeparately, Hong Kong's annual flagship environmental event, the 21st Eco Expo Asia , also opened today at AsiaWorld-Expo. Running from October 26 to 29, the event will open to the public for free on its final day.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_183417_832/images/20261026211650115.jpg",
+      "publishedAt": "2026-10-25T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_183417_832.html"
     },
     {
       "id": "177ff9c2b3a55d0a",
@@ -1193,17 +1204,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261023/20261023_171139_689.html"
-    },
-    {
-      "id": "63b68d43d5377d03",
-      "title": "10 building plans approved in August",
-      "excerpt": "The Buildings Department approved 10 building plans in August – five on Hong Kong Island, three in Kowloon and two…",
-      "fullText": "The Buildings Department approved 10 building plans in August – five on Hong Kong Island, three in Kowloon and two in the New Territories.\n\nOf the approved plans, seven were for apartment and apartment/commercial developments, two were for factory and industrial developments, and one was for community services development.\n\nConsent was given for works on eight building projects. Upon completion, they will provide 70,908 sq m of domestic use involving 1,442 units, and 24,556 sq m of gross floor area for non-domestic use.\n\nAdditionally, the department received notification of commencement of superstructure works for six building projects.\n\nIt also issued 21 occupation permits, with seven on Hong Kong Island, five in Kowloon and nine in the New Territories.\n\nThe buildings certified for occupation comprise 138,920 sq m of domestic gross floor area, involving 1,531 units, and 37,040 sq m for non-domestic use.\n\nMeanwhile, the department also issued seven demolition consents and 487 removal orders, while receiving 3,350 reports about unauthorised building works in August.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261023/20261023_155740_834/images/20261023164835953.jpg",
-      "publishedAt": "2026-10-22T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261023/20261023_155740_834.html"
     },
     {
       "id": "66b7e62bb59524b7",
