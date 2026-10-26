@@ -2,28 +2,47 @@ name: Fetch RSS feeds
 
 on:
   schedule:
-    # Hourly at minute 0 UTC. GitHub may start a scheduled run a few minutes late.
-    # The name "Fetch RSS feeds" is the workflow_run contract in deploy-pages.yml.
-    # A snapshot commit uses GITHUB_TOKEN, which does not start that workflow via push.
-    - cron: "0 * * * *"
+    # Minute 0 is GitHub's high-load window: scheduled runs are delayed there,
+    # and queued jobs can be dropped. Two off-hour slots so one miss does not
+    # wait a full hour. GitHub may still start either run late.
+    - cron: "17 * * * *"
+    - cron: "47 * * * *"
   workflow_dispatch:
 
+# contents: write commits the snapshot. pages + id-token deploy Pages in this
+# same run, so a GITHUB_TOKEN push does not have to start Deploy GitHub Pages.
+# actions: write stores the snapshot artifact between jobs.
 permissions:
+  actions: write
   contents: write
+  pages: write
+  id-token: write
 
+# Same group as Deploy GitHub Pages, held for this whole run (fetch, build,
+# deploy, and the snapshot push). queue: max so a code push does not cancel
+# a refresh that is waiting to publish.
 concurrency:
-  group: fetch-feeds
+  group: github-pages
   cancel-in-progress: false
+  queue: max
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    outputs:
+      changed: ${{ steps.snapshot.outputs.changed }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish only from main
+        if: github.ref != 'refs/heads/main'
+        run: |
+          echo "Fetch RSS feeds publishes the live site from main only (ref: ${GITHUB_REF})."
+          exit 1
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -43,14 +62,103 @@ jobs:
       - name: Fetch feeds
         run: node scripts/fetch-feeds.mjs
 
-      - name: Commit snapshot when content changed
+      - name: Detect snapshot change
+        id: snapshot
         run: |
+          git add -- public/data/articles.json public/data/feeds.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No content change in the RSS snapshot."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "RSS snapshot changed. Publishing Pages in this run, then committing."
+          fi
+
+      - name: Pack snapshot for publish
+        if: steps.snapshot.outputs.changed == 'true'
+        run: |
+          mkdir -p rss-snapshot-pack
+          cp public/data/articles.json public/data/feeds.json rss-snapshot-pack/
+
+      - name: Upload snapshot artifact
+        if: steps.snapshot.outputs.changed == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: rss-snapshot
+          path: rss-snapshot-pack/
+          if-no-files-found: error
+          retention-days: 1
+
+  build:
+    needs: fetch
+    if: needs.fetch.outputs.changed == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout latest main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Download snapshot
+        uses: actions/download-artifact@v4
+        with:
+          name: rss-snapshot
+          path: rss-snapshot
+
+      - name: Overlay snapshot onto latest main
+        run: |
+          articles="$(find rss-snapshot -name articles.json -print -quit)"
+          feeds="$(find rss-snapshot -name feeds.json -print -quit)"
+          test -n "$articles"
+          test -n "$feeds"
+          cp "$articles" public/data/articles.json
+          cp "$feeds" public/data/feeds.json
+
+      - name: Build Pages site
+        uses: ./.github/actions/build-pages
+
+  deploy:
+    needs: [fetch, build]
+    if: needs.fetch.outputs.changed == 'true' && needs.build.result == 'success'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+          fetch-depth: 0
+
+      - name: Download snapshot
+        uses: actions/download-artifact@v4
+        with:
+          name: rss-snapshot
+          path: rss-snapshot
+
+      - name: Commit snapshot after Pages deploy
+        run: |
+          articles="$(find rss-snapshot -name articles.json -print -quit)"
+          feeds="$(find rss-snapshot -name feeds.json -print -quit)"
+          test -n "$articles"
+          test -n "$feeds"
+          cp "$articles" public/data/articles.json
+          cp "$feeds" public/data/feeds.json
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -- public/data/articles.json public/data/feeds.json
           if git diff --cached --quiet; then
-            echo "No content change in the RSS snapshot."
+            echo "Snapshot already committed on main."
             exit 0
           fi
           git commit -m "Update RSS article snapshot" -m "Refreshed public/data/articles.json from the approved feeds."
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main

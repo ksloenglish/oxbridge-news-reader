@@ -10,7 +10,7 @@ Vocabulary lives at `public/data/vocab.json`. Lookup rules are in `public/data/L
 
 Ken: in this repository open **Settings → Pages → Build and deployment → Source** and choose **GitHub Actions**.
 
-After that, `.github/workflows/deploy-pages.yml` publishes the site on every push to `main`, and after **Fetch RSS feeds** when that run commits a snapshot. The workflow installs dependencies with pnpm, builds with `VITE_BASE_PATH=/${{ github.event.repository.name }}/`, uploads `dist`, and deploys with `actions/deploy-pages`. The project URL is https://ksloenglish.github.io/oxbridge-news-reader/.
+After that, `.github/workflows/deploy-pages.yml` publishes the site on every push to `main` and from its own manual run. `.github/workflows/fetch-feeds.yml` refreshes the feeds on a schedule and from **Run workflow**. When the snapshot changes, that same Fetch run builds and deploys Pages, then commits the JSON. Both workflows install dependencies with pnpm, build with `VITE_BASE_PATH=/${{ github.event.repository.name }}/`, upload `dist`, and deploy with `actions/deploy-pages`. The project URL is https://ksloenglish.github.io/oxbridge-news-reader/.
 
 ## Run locally
 
@@ -122,7 +122,11 @@ node scripts/fetch-feeds.mjs
 
 ### GitHub Action
 
-[`.github/workflows/fetch-feeds.yml`](.github/workflows/fetch-feeds.yml) runs every hour at minute 0 UTC (`0 * * * *`) and from a manual `workflow_dispatch`. GitHub may start a scheduled run a few minutes late. It installs the pinned ingest dependencies, runs the script, and commits `public/data/articles.json` with the default `GITHUB_TOKEN` when the article list or feed status changed. That token push does not create a `push` workflow run. Deploy GitHub Pages listens with `workflow_run` and publishes the tip of `main` only when this run advanced `main`. An unchanged snapshot skips the Pages build. Deploy does not commit, so the two workflows cannot loop.
+[`.github/workflows/fetch-feeds.yml`](.github/workflows/fetch-feeds.yml) runs at minute 17 and minute 47 UTC (`17 * * * *` and `47 * * * *`) and from a manual `workflow_dispatch`. The start of the hour is when GitHub delays or drops scheduled runs, so neither cron uses minute 0. A second slot covers a missed first slot. GitHub may still start a run late.
+
+The run installs the pinned ingest dependencies and fetches. When the article list or feed status changed, it builds the site and deploys GitHub Pages in that same run, using `GITHUB_TOKEN` with `contents: write`, `pages: write`, and `id-token: write`. It commits `public/data/articles.json` only after that deploy succeeds, so a failed publish is retried on the next run. An unchanged snapshot skips the Pages build and the commit.
+
+[`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) publishes pushes to `main` and its own `workflow_dispatch`. It does not chain off Fetch with `workflow_run`. The snapshot push uses `GITHUB_TOKEN`, which does not start Deploy again, so a feed refresh produces one Pages deployment. Both workflows use the `github-pages` concurrency group, so a feed publish and a code publish wait for each other instead of overwriting.
 
 ### Frontend
 
