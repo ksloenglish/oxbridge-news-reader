@@ -82,20 +82,47 @@ export function summarizeFeeds(feeds, resultsById, articles) {
   });
 }
 
-export function stableContent(snapshot) {
-  return JSON.stringify({ feeds: snapshot.feeds, articles: snapshot.articles });
-}
-
 /**
- * Skip the write when every feed failed and a previous snapshot exists,
- * and when articles plus feed status are unchanged (so generatedAt stays put).
+ * Skip the write when every enabled feed failed and a previous snapshot
+ * exists, so a bad run cannot wipe stories or move checkedAt.
+ *
+ * generatedAt is the last time the stories changed. A successful check
+ * still records checkedAt when the stories are the same. Feed-status
+ * edits with the same stories keep generatedAt and take the new feed rows.
  */
 export function decideWrite(previous, next, { anySuccess }) {
   if (!anySuccess && previous?.articles?.length) {
     return { write: false, reason: "all-failed", snapshot: previous };
   }
-  if (previous && stableContent(previous) === stableContent(next)) {
-    return { write: false, reason: "unchanged", snapshot: previous };
+  if (!previous) return { write: true, reason: "updated", snapshot: next };
+
+  const articlesSame = JSON.stringify(previous.articles ?? []) === JSON.stringify(next.articles ?? []);
+  const feedsSame = JSON.stringify(previous.feeds ?? []) === JSON.stringify(next.feeds ?? []);
+  if (articlesSame && feedsSame) {
+    if ((previous.checkedAt ?? null) === (next.checkedAt ?? null)) {
+      return { write: false, reason: "unchanged", snapshot: previous };
+    }
+    return {
+      write: true,
+      reason: "checked",
+      snapshot: stampCheck(previous, next.checkedAt, previous.feeds),
+    };
+  }
+  if (articlesSame) {
+    return {
+      write: true,
+      reason: "checked",
+      snapshot: stampCheck(previous, next.checkedAt, next.feeds),
+    };
   }
   return { write: true, reason: "updated", snapshot: next };
+}
+
+function stampCheck(previous, checkedAt, feeds) {
+  return {
+    generatedAt: previous.generatedAt ?? null,
+    checkedAt: checkedAt ?? null,
+    feeds,
+    articles: previous.articles,
+  };
 }

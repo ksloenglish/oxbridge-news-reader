@@ -9,8 +9,9 @@ on:
 # uses GITHUB_TOKEN, which does not create a push event for this workflow.
 # Push and manual dispatch publish code changes. This workflow holds
 # github-pages for the whole run. Fetch joins that group only in its build and
-# deploy jobs, after the snapshot has changed, so an unchanged fetch does not
-# wait here. Deploys stay serialized.
+# deploy jobs, after articles.json has changed (including a new checkedAt),
+# so a fetch that does not rewrite that file does not wait here. Deploys stay
+# serialized.
 
 permissions:
   contents: read

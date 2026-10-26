@@ -24,11 +24,13 @@ permissions:
   pages: write
   id-token: write
 
-# rss-fetch covers the ingest only. Most scheduled runs stop at fetch when the
-# snapshot is unchanged, and that work must not sit in the github-pages queue
-# behind a code deploy. queue: max so a newer schedule does not cancel a run
-# that is already waiting. Build and deploy join github-pages when there is
-# something to publish.
+# rss-fetch covers the ingest only. A run that does not rewrite
+# public/data/articles.json stops here, and that work must not sit in the
+# github-pages queue behind a code deploy. A successful check rewrites
+# checkedAt even when the stories are unchanged, so the desk can show the
+# check time, and that run does publish. queue: max so a newer schedule does
+# not cancel a run that is already waiting. Build and deploy join
+# github-pages when the snapshot file changed.
 concurrency:
   group: rss-fetch
   cancel-in-progress: false
@@ -101,7 +103,8 @@ jobs:
     needs: fetch
     if: needs.fetch.outputs.changed == 'true'
     # Serialize the site build with Deploy GitHub Pages. The fetch job stays
-    # out of this group so an unchanged snapshot is not queued behind a push.
+    # out of this group so a fetch that does not rewrite the snapshot is not
+    # queued behind a push.
     # cancel-in-progress stays false. queue: max keeps a refresh that is
     # already waiting.
     concurrency:

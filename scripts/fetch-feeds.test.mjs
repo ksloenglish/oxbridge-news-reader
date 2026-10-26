@@ -243,6 +243,90 @@ test("decideWrite skips a rewrite when articles are unchanged", () => {
   const decision = decideWrite(previous, next, { anySuccess: true });
   assert.equal(decision.write, false);
   assert.equal(decision.reason, "unchanged");
+  assert.equal(decision.snapshot, previous);
+});
+
+test("decideWrite records checkedAt without moving generatedAt when stories stay put", () => {
+  const previous = {
+    generatedAt: "2026-10-26T03:20:16.000Z",
+    checkedAt: "2026-10-26T03:20:16.000Z",
+    feeds: [{ id: "a", ok: true, error: null, articleCount: 1 }],
+    articles: [{ id: "abc" }],
+  };
+  const next = {
+    generatedAt: "2026-10-26T03:48:42.114Z",
+    checkedAt: "2026-10-26T03:48:42.114Z",
+    feeds: [{ id: "a", ok: true, error: null, articleCount: 1 }],
+    articles: [{ id: "abc" }],
+  };
+  const decision = decideWrite(previous, next, { anySuccess: true });
+  assert.equal(decision.write, true);
+  assert.equal(decision.reason, "checked");
+  assert.equal(decision.snapshot.generatedAt, "2026-10-26T03:20:16.000Z");
+  assert.equal(decision.snapshot.checkedAt, "2026-10-26T03:48:42.114Z");
+  assert.equal(decision.snapshot.articles, previous.articles);
+  assert.equal(decision.snapshot.feeds, previous.feeds);
+});
+
+test("decideWrite keeps generatedAt when only a feed status changes", () => {
+  const previous = {
+    generatedAt: "2026-10-26T03:20:16.000Z",
+    checkedAt: "2026-10-26T03:20:16.000Z",
+    feeds: [{ id: "a", ok: true, error: null, articleCount: 1 }],
+    articles: [{ id: "abc" }],
+  };
+  const next = {
+    generatedAt: "2026-10-26T03:48:42.114Z",
+    checkedAt: "2026-10-26T03:48:42.114Z",
+    feeds: [{ id: "a", ok: false, error: "HTTP 503", articleCount: 1 }],
+    articles: [{ id: "abc" }],
+  };
+  const decision = decideWrite(previous, next, { anySuccess: true });
+  assert.equal(decision.write, true);
+  assert.equal(decision.reason, "checked");
+  assert.equal(decision.snapshot.generatedAt, previous.generatedAt);
+  assert.equal(decision.snapshot.checkedAt, next.checkedAt);
+  assert.equal(decision.snapshot.articles, previous.articles);
+  assert.deepEqual(decision.snapshot.feeds, next.feeds);
+});
+
+test("decideWrite moves generatedAt when the stories change", () => {
+  const previous = {
+    generatedAt: "2026-10-26T03:20:16.000Z",
+    checkedAt: "2026-10-26T03:20:16.000Z",
+    feeds: [{ id: "a", ok: true, articleCount: 1 }],
+    articles: [{ id: "old" }],
+  };
+  const next = {
+    generatedAt: "2026-10-26T03:48:42.114Z",
+    checkedAt: "2026-10-26T03:48:42.114Z",
+    feeds: [{ id: "a", ok: true, articleCount: 1 }],
+    articles: [{ id: "new" }],
+  };
+  const decision = decideWrite(previous, next, { anySuccess: true });
+  assert.equal(decision.write, true);
+  assert.equal(decision.reason, "updated");
+  assert.equal(decision.snapshot, next);
+});
+
+test("decideWrite does not move checkedAt when every feed fails", () => {
+  const previous = {
+    generatedAt: "2026-10-01T00:00:00.000Z",
+    checkedAt: "2026-10-01T00:00:00.000Z",
+    feeds: [{ id: "a", ok: true }],
+    articles: [{ id: "abc" }],
+  };
+  const next = {
+    generatedAt: "2026-10-26T03:48:42.114Z",
+    checkedAt: "2026-10-26T03:48:42.114Z",
+    feeds: [{ id: "a", ok: false, error: "HTTP 503" }],
+    articles: [],
+  };
+  const decision = decideWrite(previous, next, { anySuccess: false });
+  assert.equal(decision.write, false);
+  assert.equal(decision.reason, "all-failed");
+  assert.equal(decision.snapshot, previous);
+  assert.equal(decision.snapshot.checkedAt, "2026-10-01T00:00:00.000Z");
 });
 
 test("summarizeFeeds counts articles that survived the cap", () => {
