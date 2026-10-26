@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T14:30:25.297Z",
-  "checkedAt": "2026-10-26T14:30:25.297Z",
+  "generatedAt": "2026-10-26T14:45:18.211Z",
+  "checkedAt": "2026-10-26T14:45:18.211Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 11
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "6020f993a2e68cd2",
+      "title": "Anthropic files papers to sell shares to the public",
+      "excerpt": "Anthropic, one of the world's leading artificial intelligence companies, on Monday made public its plans to sell shares on the…",
+      "fullText": "Anthropic, one of the world's leading artificial intelligence companies, on Monday made public its plans to sell shares on the stock market, a significant test of whether the AI boom can deliver profits.\n\nIts filing shows rapidly growing sales while setting out a range of risks for investors, from its conflict with the Trump administration to AI systems acting on their own.\n\nThe listing would be the first by one of the standalone companies leading the race to build advanced AI, ahead of its main rival OpenAI, which has pushed back its own market debut to next year.\n\nIt also follows the June listing of SpaceX, which owns Elon Musk's AI venture xAI and saw its shares fall sharply after a strong debut.\n\nA disappointing reception for Anthropic could dent investor enthusiasm for AI, a sector that has become a key driver of US economic growth.\n\nThe filing lays out risks specific to an industry that has faced a string of reports in recent months of AI systems behaving in unexpected and harmful ways.\n\n\"If the use of our AI models results in harm, whether through use by malicious actors or misuse by other third parties, or if our model guardrails or safeguards fail to prevent such misuse,\" the firm's business could suffer, the filing said.\n\nAnthropic also warned that its \"engagement with policymakers and public positions on AI regulation and safety could subject us to heightened scrutiny, political backlash, or disproportionate regulatory action.\"\n\nThe company has been targeted in recent months by the administration of US President Donald Trump for refusing to lift restrictions on how the Pentagon could use its technology, and the Defense Department has since labeled it a national security risk and barred it as a supplier.\n\nDespite these challenges, Anthropic's business has grown very quickly. Sales reached US$11.6 billion in the April-June quarter, up from US$787 million a year earlier. That compares with US$4.6 billion in sales for all of 2025.\n\nThe company made its first operating profit in that quarter, close to US$1 billion. It still reported an overall loss of US$66 billion, mostly because of accounting charges linked to its rising value rather than cash spent.\n\nMuch of the growth comes from businesses using Claude to write software and handle office work. (AFP)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T14:40:37.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875409-20261026.htm"
+    },
+    {
+      "id": "7d88f9de2187bc16",
+      "title": "Meta planning to raise US$95bn to fund AI buildout",
+      "excerpt": "Meta Platforms said on Monday it plans to raise up to US$95 billion in its largest-ever equity fundraising, as the…",
+      "fullText": "Meta Platforms said on Monday it plans to raise up to US$95 billion in its largest-ever equity fundraising, as the social media giant spends aggressively on its costly AI infrastructure expansion.\n\nThe Facebook parent has launched public offerings worth about US$35 billion in common and preferred stock, and said it also plans to launch a separate at-the-market share sale programme worth up to US$60 billion.\n\nThe company will launch the larger share sale programme after its new non-voting Class C shares begin trading, which is expected in the first quarter of 2027, but said it has not yet finalised its timing and terms of the sale.\n\nMeta's fundraising plan, which would rank among the biggest by an AI company, has also drawn interest of up to US$5 billion in total from Nvidia, Advanced Micro Devices and Broadcom for Class A shares.\n\nTheir funding interest adds to concerns about an increasingly circular flow of capital in the AI industry, as chip suppliers help finance the expansion of one of their biggest customers.\n\nMeta has been pouring money into chips and data centres to compete better with OpenAI and Anthropic.\n\nIts latest fundraising further underscores a shift among big technology companies increasingly tapping debt markets and raising equity ⁠to bolster their AI infrastructure, having previously relied on cash to fund their investments.\n\nEarlier this year, Alphabet increased the size of its equity offerings to US$84.75 billion.\n\nSeparately on Monday, SpaceX said an affiliate of Apollo Global Management will buy AI chips and server hardware and lease them to the rockets-to-AI firm, in a deal with total principal payments of about US$40 billion.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T14:27:36.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875404-20261026.htm"
+    },
     {
       "id": "86d0619a80290fee",
       "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
@@ -632,28 +654,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875235-20261025.htm"
-    },
-    {
-      "id": "492f73e0397c6dc5",
-      "title": "Fresh clashes rock France as protesters march on",
-      "excerpt": "Clashes erupted across France on Saturday as protesters took to the streets, a week after marches that degenerated into violence…",
-      "fullText": "Clashes erupted across France on Saturday as protesters took to the streets, a week after marches that degenerated into violence and prompted a firm security backlash from President Emmanuel Macron, who is scrambling to restore order.\n\nPolice arrested nearly 1,000 people as officers faced \"an extremely elevated level of violence\" from black-clad \"ultra-left\" extremists, Interior Minister Laurent Nunez said.\n\nRiot police squads fired tear gas at protesters in the capital as well as in Marseille, Lyon, Bordeaux, Lille, Toulouse, Montpellier and Nantes.\n\nTwo people were \"seriously\" injured, Nunez said: one man in Toulouse, who reportedly had fingers blown off, and another person in Clermont-Ferrand. He did not give details of either case.\n\nAuthorities had deployed 70,000 security personnel across the country for the new marches, called to protest the cost of living.\n\nThe violence came a week after rioting that saw public buildings vandalised, hundreds of shops looted and 2,700 people arrested, casting a pall over the country six months before an election to choose Macron's successor.\n\nNunez said Saturday's outcome was more \"positive\" than a week ago, with more police on the streets acting more rapidly, conducting more pre-demonstration checks and better protecting businesses.\n\nBut there was widespread anger at the government over a protest crackdown viewed as an assault on the right to protest.\n\nSaturday's demonstrations drew between 410,000 and 800,000 people across the country, according to different estimates by authorities and the organising CGT union.\n\nThe main Paris march had between 110,000 and 250,000 attendees, according to those sources.\n\nMacron's government has ordered police to prevent protesters reaching city centres, where shops are concentrated, and in Paris and some other cities, partial curfews were imposed in certain urban zones.\n\nThe French president had ordered non-union demonstrations be banned as \"illegitimate\".\n\nIn Paris, where many shops had boarded up windows to prevent looting, and the Louvre and the Musee d'Orsay museums shut for the day, the main demonstration passed off largely peacefully.\n\nThe march had been pushed to the capital's southeast rim under a last-minute order by authorities.\n\nAfterwards, though, clashes broke out as the crowd was dispersing, with Nunez blaming \"500 rioters\" at the back of the march.\n\nAFP journalists saw police charge several times, blasting tear gas and using batons against some, mostly young, protesters.\n\n\"They were just taking people down, you know, beating protesters,\" one demonstrator bleeding from a baton blow to his face, who gave his first name as David, told AFP.\n\nThousands of protesters in the western city of Nantes broke through lines of police firing tear gas and a water cannon to reach the city centre, an AFP journalist witnessed.\n\nEmma, 23, who came out in the northwest city of Rennes, denounced the bans on demonstrations and the \"repression\" of protests by high school students demanding better learning conditions.\n\nMarching in the rain at the head of the protest in the northern city of Lille, 47-year-old Delphine insisted: \"Neither the president, nor the weather will stop me from demonstrating.\"\n\nIn Lyon, police used tear gas to disperse around 1,000 people gathered in the south of the city.\n\n\"If they ban protests, that means we're heading more and more towards a regime that is fascist, that is dictatorial,\" said one 20-year-old protester in Lyon, who gave only his first name, Silem.\n\nIn the southern cities of Cannes and Montpellier, far-right activists clashed with \"ultra-left militants\", in what authorities said was an unprecedented development.\n\nThere was looting on the sidelines of the marches in Marseille and Grenoble, police said.\n\nThe Yellow Vests, who staged disruptive protests against Macron eight years ago, called for more demonstrations on October 31 for \"the freedom to protest\".\n\nFar-left presidential candidate Jean-Luc Melenchon, who marched in Paris, said the movement \"is going to repeat itself every week\".\n\nTensions were heightened by a rally in the city of Orleans by far-right leader Marine Le Pen's National Rally party to kick off her campaign for the presidential election.\n\nThousands of counter-protesters chanting anti-fascist slogans marched in the city.\n\nThe unrest across France highlighted the febrile political atmosphere ahead of the vote, in which Le Pen leads in surveys.\n\nInflation in France, particularly affecting the cost of fuel, has surged since the start of the Middle East war in February.\n\n\"I'm going to try and instill a bit of optimism,\" said the four-time presidential hopeful, who has cast herself as the law-and-order candidate, ahead of her first major campaign speech on Sunday.\n\nProtests have also broken out in Italy, Belgium, Spain and Portugal over different issues, yet with some overlap on inflation and education problems. (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T01:31:34.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875234-20261025.htm"
-    },
-    {
-      "id": "8e2d3c9c636c0b04",
-      "title": "Mass rallies for Lula and Bolsonaro on eve of key vote",
-      "excerpt": "Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro wrapped up their campaigns on Saturday ahead of Sunday's…",
-      "fullText": "Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro wrapped up their campaigns on Saturday ahead of Sunday's presidential runoff vote, mobilising supporters and making a final push for undecided voters.\n\nThe two candidates have remained neck and neck in polls following a stronger-than-expected performance by the right-wing senator in the first round.\n\nOn Saturday, a CNT/MDA poll showed the senator with a 1.3-point lead.\n\nLula, who is seeking a fourth non-consecutive term, kicked off his last day of campaigning with a march along Rio de Janeiro's iconic Copacabana beach, where thousands of supporters joined the leftist incumbent under a blazing sun.\n\n\"We're going to win the election for one simple reason: it's true that the people want change, (but) they want to move forward. They don't want to go backward,\" Lula told journalists before the rally.\n\nLater, the president led another march in Sao Paulo, passing along Paulista Avenue, a traditional venue for political demonstrations in Brazil's largest city.\n\n\"It's so exciting to see everyone here. This is the kind of energy we want for Brazil. Brazil is ours,\" said Gisele Passos, a 61-year-old businesswoman at the Sao Paulo rally.\n\nFor many Lula supporters, the rallies carried a bittersweet undertone.\n\nThe 80-year-old president and former union leader is widely expected to be making his final bid for office, lending the campaign's closing events the feel of a farewell tour.\n\n\"He's one of a kind. He has had an incredible, remarkable, and hard-fought journey. We're very proud of that,\" said Olga Leal, a 62-year-old retiree in Sao Paulo.\n\nBolsonaro, meanwhile, joined a motorcycle caravan in Belo Horizonte, the capital of Minas Gerais, a key battleground state.\n\nNo candidate has won the presidency without carrying Minas Gerais since the country's return to democracy in the 1980s.\n\nThe senator led Lula by around five percentage points in the state in the first round.\n\n\"The time is almost here. There are only a few hours left before we shape the future of our nation for the next 30 or 40 years,\" said the lawmaker, the eldest son of former President Jair Bolsonaro, in a social media video.\n\nHe later took part in a campaign march in his home state of Rio de Janeiro, which he has represented in the Senate since 2019.\n\nThe younger Bolsonaro was first backed by his father to run for the presidency last December.\n\nThe former president was sentenced to over 27 years in prison for plotting a coup after losing the 2022 presidential election to Lula.\n\nOn Friday, Lula and Bolsonaro met for a final debate on TV Globo, the country's main free-to-air television channel, where they sparred over the cost of living and traded personal attacks. (Reuters)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T01:23:25.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875233-20261025.htm"
     },
     {
       "id": "d931ac7fb12dfd14",
@@ -1259,17 +1259,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1874949-20261022.htm"
-    },
-    {
-      "id": "beb4280500e40fc8",
-      "title": "HSI joins region in retreating amid AI, Hormuz jitters",
-      "excerpt": "Regional markets retreated as oil prices jumped more than 2 percent following a report by Iran's state television that seven…",
-      "fullText": "Regional markets retreated as oil prices jumped more than 2 percent following a report by Iran's state television that seven oil tankers caught fire and were damaged in the Strait of Hormuz.\n\nIn Hong Kong, the benchmark Hang Seng Index dived 717 points, or 3.03 percent, to 22,934 on turnover of HK$256.05 billion.\n\nThe tech index plunged 200 points, or 5 percent, to 3,793 while the Chia enterprises index fell 254 points, or 3.2 percent, to 7,689.\n\nDickie Wong, executive director of research at uSmart Securities, said he wasn't bullish in sentiment for the rest of the quarter, given that local stocks fell to a nearly four-month low.\n\n\"We are now testing new lows, and probably may test a year-low again – 22,500 points. It may have some kind of rebound, but I don't really see much upside amid concerns about the increasing tension between China and US, and weakening of the Hong Kong dollar,\" he said.\n\n\"Market sentiment is totally changed, especially AI-related and the tech sector facing regulatory pressure. Those negative factors contributed to this market sell-off.\"\n\nUp north, the benchmark Shanghai Composite Index ended down 55 points, or 1.48 percent, at 3,658.\n\nThe Shenzhen Component Index dived 347 points, or 2.97 percent, to 11,357 while the ChiNext Index plunged 117 points, or 4.37 percent, to 2,576.\n\nTurnover on the main Shanghai and Shenzhen indices amounted to around 1.53 trillion yuan, up from 1.44 trillion yuan on Wednesday.\n\nIf the Iran report is verified, it would be the largest number of vessels damaged in the waterway in a single day since the Iran war started on February 28 in the wake of attacks by US and Israeli forces.\n\nBrent crude, the international standard, gained 3.2 percent to US$112.27 per barrel. It has been bouncing between US$97 and US$112 in recent days on uncertainty about when the war with Iran will allow the global energy industry to return to normal.\n\nUS benchmark crude rose 2.8 percent to US$99.80 per barrel.\n\nAI stocks, at the centre of market action in recent months, are under pressure from worries that construction of data centres may slow as it is becoming increasingly expensive to borrow money.\n\nIn Tokyo, the Nikkei share average tumbled 1,713 points, or 2.65 percent, to end at 62,907 on heavy selling of big tech companies like SoftBank Group, which lost 6.9 percent. The broader Topix slipped 46 points, or 1.14 percent, to 3,997.\n\nIn Seoul, the Kospi closed down 201 points, or 3.52 percent, at 5,533 amid chip-sector profit-taking and the central Bank of Korea's hawkish policy stance on further interest rate hikes. (Additional reporting by agencies)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:15:21.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1874930-20261022.htm"
     },
     {
       "id": "147faa697ca74445",
