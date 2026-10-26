@@ -42,7 +42,7 @@ const listCopyText = new Map();
 let refreshing = false;
 let refreshNote = "";
 // Matches the .refresh-ack animation length in styles.css.
-const REFRESH_ACK_MS = 2700;
+const REFRESH_ACK_MS = 3200;
 let refreshAckUntil = 0;
 let refreshAckTimer = 0;
 const hits = [];

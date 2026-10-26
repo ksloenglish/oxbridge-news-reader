@@ -356,7 +356,7 @@ h1 {
   pointer-events: none;
   color: var(--a1);
   animation-name: refresh-ack-slot;
-  animation-duration: 2.7s;
+  animation-duration: 3.2s;
   animation-timing-function: ease;
   animation-fill-mode: forwards;
   animation-delay: calc(var(--ack-elapsed) * -1ms);
@@ -368,7 +368,7 @@ h1 {
   height: 1.75rem;
   flex: none;
   animation-name: refresh-ack-icon;
-  animation-duration: 2.7s;
+  animation-duration: 3.2s;
   animation-timing-function: ease;
   animation-fill-mode: forwards;
   animation-delay: calc(var(--ack-elapsed) * -1ms);
@@ -407,15 +407,15 @@ h1 {
 }
 @keyframes refresh-ack-slot {
   0% { width: 0; margin-left: 0; }
-  14% { width: 1.75rem; margin-left: 0.45rem; }
+  12% { width: 1.75rem; margin-left: 0.45rem; }
   78% { width: 1.75rem; margin-left: 0.45rem; }
   100% { width: 0; margin-left: 0; }
 }
 @keyframes refresh-ack-icon {
   0% { opacity: 0; transform: scale(0.84); }
-  14% { opacity: 1; transform: scale(1); }
-  62% { opacity: 1; transform: scale(1); }
-  82% { opacity: 0; transform: scale(0.94); }
+  12% { opacity: 1; transform: scale(1); }
+  68% { opacity: 1; transform: scale(1); }
+  88% { opacity: 0; transform: scale(0.94); }
   100% { opacity: 0; transform: scale(0.94); }
 }
 @keyframes refresh-ack-draw {
