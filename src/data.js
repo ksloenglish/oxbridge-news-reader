@@ -72,3 +72,19 @@ export function statusForSelection(catalog, snapshot, selection) {
   const allowed = selectedFeedIds(catalog, selection);
   return (snapshot?.feeds || []).filter((feed) => allowed.has(feed.id));
 }
+
+/** Hong Kong clock time for the snapshot `generatedAt` stamp. Empty when missing or unreadable. */
+export function formatSnapshotUpdated(value) {
+  if (!value) return "";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "";
+  return new Intl.DateTimeFormat("en-GB", {
+    timeZone: "Asia/Hong_Kong",
+    day: "numeric",
+    month: "short",
+    year: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+    hour12: true,
+  }).format(date);
+}
