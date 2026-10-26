@@ -10,7 +10,7 @@ Vocabulary lives at `public/data/vocab.json`. Lookup rules are in `public/data/L
 
 Ken: in this repository open **Settings → Pages → Build and deployment → Source** and choose **GitHub Actions**.
 
-After that, `.github/workflows/deploy-pages.yml` publishes the site on every push to `main`. The workflow installs dependencies with pnpm, builds with `VITE_BASE_PATH=/${{ github.event.repository.name }}/`, uploads `dist`, and deploys with `actions/deploy-pages`. The project URL is https://ksloenglish.github.io/oxbridge-news-reader/.
+After that, `.github/workflows/deploy-pages.yml` publishes the site on every push to `main`, and after **Fetch RSS feeds** when that run commits a snapshot. The workflow installs dependencies with pnpm, builds with `VITE_BASE_PATH=/${{ github.event.repository.name }}/`, uploads `dist`, and deploys with `actions/deploy-pages`. The project URL is https://ksloenglish.github.io/oxbridge-news-reader/.
 
 ## Run locally
 
@@ -122,7 +122,7 @@ node scripts/fetch-feeds.mjs
 
 ### GitHub Action
 
-[`.github/workflows/fetch-feeds.yml`](.github/workflows/fetch-feeds.yml) runs every 4 hours UTC and from a manual `workflow_dispatch`. It installs the pinned ingest dependencies, runs the script, and commits `public/data/articles.json` with the default `GITHUB_TOKEN` when the article list or feed status changed. Scheduled runs commit on `main`, which is what GitHub Pages publishes.
+[`.github/workflows/fetch-feeds.yml`](.github/workflows/fetch-feeds.yml) runs every hour at minute 0 UTC (`0 * * * *`) and from a manual `workflow_dispatch`. GitHub may start a scheduled run a few minutes late. It installs the pinned ingest dependencies, runs the script, and commits `public/data/articles.json` with the default `GITHUB_TOKEN` when the article list or feed status changed. That token push does not create a `push` workflow run. Deploy GitHub Pages listens with `workflow_run` and publishes the tip of `main` only when this run advanced `main`. An unchanged snapshot skips the Pages build. Deploy does not commit, so the two workflows cannot loop.
 
 ### Frontend
 

@@ -2,8 +2,10 @@ name: Fetch RSS feeds
 
 on:
   schedule:
-    # Every 4 hours UTC. GitHub may start a scheduled run a few minutes late.
-    - cron: "0 */4 * * *"
+    # Hourly at minute 0 UTC. GitHub may start a scheduled run a few minutes late.
+    # The name "Fetch RSS feeds" is the workflow_run contract in deploy-pages.yml.
+    # A snapshot commit uses GITHUB_TOKEN, which does not start that workflow via push.
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:
