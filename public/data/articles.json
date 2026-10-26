@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T07:17:10.673Z",
+  "generatedAt": "2026-10-26T10:08:44.193Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -19,7 +19,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 17
     },
     {
       "id": "rthk-world",
@@ -29,7 +29,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 20
+      "articleCount": 18
     },
     {
       "id": "rthk-finance",
@@ -39,7 +39,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 12
     },
     {
       "id": "rthk-sport",
@@ -94,10 +94,65 @@
   ],
   "articles": [
     {
+      "id": "ed8ec797b3c7d032",
+      "title": "HK, Shanghai up amid wait for key central bank moves",
+      "excerpt": "Mainland stocks recouped earlier losses and ended largely flat on Monday as investors turned cautious ahead of a busy week…",
+      "fullText": "Mainland stocks recouped earlier losses and ended largely flat on Monday as investors turned cautious ahead of a busy week of major central bank meetings.\n\nIn Hong Kong, the benchmark Hang Seng Index ended 118 points, or 0.5 percent, higher at 23,211 on turnover of HK$175.76 billion.\n\nThe tech index dropped 14 points, or 0.4 percent, to 3,857 while the China enterprises index gained 45 points, or 0.6 percent, to 7,802.\n\nOn the mainland, the Shanghai Composite Index reversed losses to close up seven points, or 0.19 percent, at 3,697 on turnover of 746.52 billion yuan while the blue-chip CSI300 index was roughly unchanged at 4,103.\n\nThe Shenzhen Component Index fell 139 points, or 1.19 percent, to close at 11,534 on turnover of 862.25 billion yuan.\n\nTech shares remained among the key losers, with the startup board ChiNext Composite index falling 45 points, or 1.71 percent, to 2,638 on turnover of 428.14 billion yuan while Shanghai's tech-focused Star50 index tumbling 2.2 percent.\n\nThe CSI 5G communications, which tracks the industry, plunged four percent.\n\nPartly offsetting the weakness, oil and gas shares bounced, with a sub-index tracking the sector rising 2.4 percent, as persistent attacks on key producer Saudi Arabia kept investors cautious despite hopes for easing tensions between the United States and Iran.\n\nMainland stocks were volatile last week, with blue-chip shares posting a record-long weekly losing streak, despite a surge in trading in exchange-traded funds favoured by state-backed investors.\n\n\"Concerns over selling caused by trust tax, pressure on e-commerce, a weakening macro and elevated global market volatility have caused an acceleration of China's market correction,\" analysts at Morgan Stanley said in a note.\n\n\"So for the A-share market, important to watch is when the national team officially starts to buy in a high-profile way,\" they said.\n\nIn the region, stock markets traded cautiously ahead of a week packed with central bank meetings and corporate earnings that will further test investor confidence in the AI boom.\n\nIn Tokyo, the Nikkei slid 503 points, or 0.8 percent, to 62,189 as the 225 share gauge lost ground for a third straight session amid a continued decline for chip-related shares.\n\nThe broader Topix inched up seven points, or 0.18 percent, to 3,972.\n\nIn Seoul, the tech-heavy Kospi closed down 80 points, or 1.46 percent, at 5,469 as chipmakers fell, with Samsung Electronics losing 1.16 percent while peer SK hynix lost 0.16 percent. (Reuters/Xinhua)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T09:14:50.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875370-20261026.htm"
+    },
+    {
+      "id": "43b580deb30d3979",
+      "title": "HK aviation 'key lies in cooperation with Greater Bay'",
+      "excerpt": "Lawmaker Kenneth Fok called on the government on Monday to enhance cooperation with the Greater Bay Area to further enhance…",
+      "fullText": "Lawmaker Kenneth Fok called on the government on Monday to enhance cooperation with the Greater Bay Area to further enhance Hong Kong’s status as an international aviation hub.\n\nThe call was among recommendations proposed by the G19 bloc of Legislative Council members.\n\nFok said the suggestions were made as total passenger throughput at Hong Kong International Airport had yet to get back to pre-pandemic levels.\n\n“Compared to our competitors around the region, for example Shenzhen and Guangzhou, we are actually behind in this number,” he said.\n\nFok called for more collaboration between airports in the region, adding that regional collaboration had become a norm.\n\n“I think the key is to have more collaborative effort with our regional airports and especially the Greater Bay Area,” he said.\n\n“Can we join hands with them together in some kind of agreement between Hong Kong and mainland and then negotiate with our partners in Europe and elsewhere?\n\n“These are the collaborative discussions that can only happen at the government-to-government level. This is very important.\n\n\"That's why I say we need to have a more open mind, a more aggressive strategy in order to implement these frameworks and strategies.”\n\nFok added the government could be more proactive in pitching the airport to the world to attract more foreign airlines.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T08:42:56.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875369-20261026.htm"
+    },
+    {
+      "id": "0f2352c1a6ff140b",
+      "title": "China congratulates Lula on re-election",
+      "excerpt": "China on Monday congratulated Brazil's President Luiz Inacio Lula da Silva on his re-election, even as challenger Flavio Bolsonaro refused…",
+      "fullText": "China on Monday congratulated Brazil's President Luiz Inacio Lula da Silva on his re-election, even as challenger Flavio Bolsonaro refused to accept defeat.\n\n\"China has noted that Brazil's Superior Electoral Court has announced President Lula has won the second round of the Brazilian general election, and expresses its congratulations,\" Foreign Ministry spokesman Guo Jiakun said at a regular briefing, adding that Beijing was \"willing to work with Brazil to continue advancing the building of a China-Brazil community with a shared future\".\n\nAsked about Bolsonaro saying he would request an annulment of the elections, Guo said: \"China respects the choice of the Brazilian people.\"\n\nLeftist leaders from across the Americas also congratulated Lula on his re-election.\n\nMexico's President Claudia Sheinbaum celebrated Lula's win in a post on X, saying: \"Long live democracy, the people of Brazil won.\"\n\nCuban President Miguel Diaz-Canel congratulated Lula on his \"historic victory that guarantees the continuity of the path of peace, sovereignty, and social justice\".\n\nArgentina's former president Cristina Kirchner, who is currently under house arrest for corruption, said on X that the Brazilian leader \"knew how to awaken in his compatriots the feeling and sense needed to win\".\n\nUruguay's President Yamandu Orsi said on X that he had spoken with Lula and \"congratulated him on his victory and on the democratic celebration that an electoral process represents.\"\n\nIndian Prime Minister Narendra Modi, who is the current chair of the Brics geopolitical and economic bloc, which includes Brazil, offered Lula his \"heartiest congratulations.\"\n\n\"I look forward to working closely with him to further deepen and expand the multifaceted India-Brazil Strategic Partnership,\" he added.\n\nFrench President Emmanuel Macron also congratulated Lula on his re-election, calling for efforts to \"strengthen our strategic partnership\".\n\n\"France and Brazil have much to build together,\" Macron said X, saying their two countries should nurture their friendship \"in the service of a fairer world\".\n\nSpanish Prime Minister Pedro Sanchez celebrated the Brazilian leader's re-election victory as launching a \"progressive comeback\", as he trails in polls before Spain's November vote.\n\nEuropean Union chief Ursula von der Leyen hailed Lula's re-election victory as a win for \"democracy and multilateralism\".\n\n\"Europe's partnership with Brazil is thriving. We will remain by your side for the years to come. Together we will keep working closely for free and open trade. A rules-based global order. And strong ambitions for our climate,\" she wrote on social media.\n\nLula received 51.8 percent of the vote compared with 48.2 percent for Bolsonaro.\n\nBolsonaro said he would seek to annul the vote.\n\nSunday's vote was marked by confusion after a Supreme Court ruling extended voting by two hours as some polling stations had already closed.\n\nThe move came at the request of Lula who complained that buses had been pulled from circulation in various cities, barring citizens from voting.\n\nBolsonaro also requested an extension in some regions due to heavy rains, but he described the decision as \"unacceptable\" and a \"dirty trick\".\n\n\"It is impossible to recognise the results. I am going to request the annulment of these elections,\" he said, stone-faced, in a brief speech in Brasilia. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T08:23:09.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875374-20261026.htm"
+    },
+    {
+      "id": "c4f540e82d9fd801",
+      "title": "Athletes honoured for historic Asian Games performance",
+      "excerpt": "Hong Kong, China’s top-performing athletes at the Aichi-Nagoya Asian Games were commended by Chief Executive John Lee on Monday for…",
+      "fullText": "Hong Kong, China’s top-performing athletes at the Aichi-Nagoya Asian Games were commended by Chief Executive John Lee on Monday for their historic performances.\n\nThe SAR achieved its best result to date at the Games in Japan, reaching new heights in both the gold medal count and the number of medals won overall.\n\nIn total, the delegation won 54 medals, comprising 11 gold, 19 silver, and 24 bronze.\n\nLee paid tribute to athletes during a commendation ceremony, noting that their dedication to compete through injuries and persevere when falling behind had earned everyone’s deepest respect.\n\nHe also presented certificates to the top-performing athletes, including wushu star Lydia Sham, who earned the city's first gold medal at the Games.\n\nLee stressed the government would continue to invest in sports development.\n\n“During the 2026–27 financial year, the government’s resources invested in sports development reached about HK$8.1 billion, nearly a 70 percent increase compared to a decade ago,” he said.\n\n“We allocated about HK$1 billion to the Hong Kong Sports Institute, providing comprehensive training, direct financial subsidies, and support in sports medicine and sports science.\n\n“The government will continue to support the development of sports medicine and sports science, athlete training, and their career development. In the next five years, resources allocated to sports development will cumulatively increase by 20 percent,” Lee added.\n\nChief Secretary Eric Chan, Secretary for Culture, Sports and Tourism Rosanna Law, President of the Sports Federation & Olympic Committee of Hong Kong, China, Timothy Fok, among others, also attended the ceremony.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T08:18:19.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875373-20261026.htm"
+    },
+    {
+      "id": "60d708260ebf5358",
+      "title": "HK gets world-first secondary tokenised funds trading",
+      "excerpt": "The Securities and Futures Commission has approved the world's first secondary trading of tokenised public funds on its licensed virtual…",
+      "fullText": "The Securities and Futures Commission has approved the world's first secondary trading of tokenised public funds on its licensed virtual asset trading platform (VATP), with around-the-clock trading of two tokenised money market funds beginning on Monday.\n\nThe approval builds on a new regulatory framework it introduced in April, which sets out requirements for secondary trading of tokenised funds on licensed VATPs.\n\nThe framework covers trading channel operations, fair pricing, liquidity provision and disclosure.\n\nThe first batch of products involves two existing SFC-authorised tokenised money market funds, now available for secondary trading on a 24/7 basis.\n\nLooking ahead, the SFC said tokenised public funds could further leverage tokenised deposit capabilities being developed in collaboration with the Hong Kong Monetary Authority under Project Ensemble.\n\nThis would allow investors to sell tokenised assets around the clock and instantly transfer proceeds to other investment opportunities.\n\nElisa Ng, the SFC's executive director of investment products, said the move \"marks an important milestone\" in the city's digital asset development, adding that it adds \"24/7 trading capability\" to Hong Kong's evolving tokenisation ecosystem.\n\nThe SFC said it would monitor trading activities closely and consider broadening the product scope over time, taking into account market developments and experience gained.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-26T07:13:01.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875360-20261026.htm"
+    },
+    {
       "id": "c8df39210956c2fd",
-      "title": "No. 3 fire breaks out at Shek Kwu Chau waste facility",
-      "excerpt": "A No. 3 alarm fire broke out at a waste-management facility on an artificial island off Shek Kwu Chau on…",
-      "fullText": "A No. 3 alarm fire broke out at a waste-management facility on an artificial island off Shek Kwu Chau on Monday.\n\nEmergency services were called to the scene at 12.43pm, with the blaze upgraded to a No. 3 alarm about 40 minutes later.\n\nFirefighters were using two jets and two breathing apparatus teams to fight the blaze.\n\nNo injuries have been reported so far.\n\nEdited by Tony Sabine",
+      "title": "Fire sweeps through Shek Kwu Chau waste facility",
+      "excerpt": "A No. 3 alarm fire raged for about four hours at a waste-management facility on an artificial island off Shek…",
+      "fullText": "A No. 3 alarm fire raged for about four hours at a waste-management facility on an artificial island off Shek Kwu Chau on Monday.\n\nThe fire broke out at 12.43pm and was upgraded to a No. 3 alarm about 40 minutes later.\n\nFirefighters used five jets and mobilised five breathing apparatus teams to fight the blaze.\n\nOne person felt unwell and received treatment at Eastern Hospital, while 930 others were evacuated.\n\nThe Fire Services Department said the blaze was surrounded at 3.47pm and largely put out about an hour later.\n_____________________________\nLast updated: 2026-10-26 HKT 17:25\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-10-26T06:56:35.000Z",
       "source": "RTHK English — Local",
@@ -119,11 +174,11 @@
       "id": "d6a462a2cd823c15",
       "title": "Ex-Japan prime minister Yasuo Fukuda dies",
       "excerpt": "Former Japanese prime minister Yasuo Fukuda, who used his brief period in office to seek closer ties with Asian neighbours…",
-      "fullText": "Former Japanese prime minister Yasuo Fukuda, who used his brief period in office to seek closer ties with Asian neighbours, particularly China, has died at the age of 90, the Nikkei business daily reported on Monday.\n\nThe Japanese politician, the first son of a prime minister to become premier himself, died on Thursday from heart failure, the Nikkei said.\n\nBecoming prime minister on the sudden resignation of Shinzo Abe in 2007, Fukuda lasted less than a year – a tenure even shorter than his father Takeo's two-year stint.\n\nA graduate in economics from Tokyo's prestigious Waseda University, Fukuda spent nearly two decades working his way up the ranks of an oil company – including a two-year posting in the United States – before resigning to become a political secretary when his father became premier in 1976.\n\nElected to Japan's more powerful lower house of parliament in 1990, Fukuda was chief cabinet secretary from 2000 to 2004, resigning as one of several cabinet ministers to admit not paying into the pension system.\n\nKnown for his testy manner, the bespectacled Fukuda drew criticism in 2003 for off-the-record comments in which he suggested women who dressed provocatively were asking to be raped.\n\nWhen Fukuda succeeded Abe he joked he might have drawn the short straw in assuming office given the divided parliament and opposition parties' ability to delay legislation.\n\nFrustrated with the stalled legislative process, Fukuda resigned in 2008, the second of six prime ministers to quit after only around a year in office.\n\nKnown as a diplomatic dove, Fukuda made several visits to China after leaving office in an effort to improve often fraught relations.\n\nFukuda leaves a son, Tatsuo, who is also a lawmaker and has been viewed as a potential future prime minister. (Reuters)\n\nEdited by Tony Sabine",
+      "fullText": "Former Japanese prime minister Yasuo Fukuda, who used his brief period in office to seek closer ties with Asian neighbours, particularly China, has died at the age of 90, the Nikkei business daily reported on Monday.\n\nBeijing expressed condolences over his passing.\n\nThe Japanese politician, the first son of a prime minister to become premier himself, died on Thursday from heart failure, the Nikkei said.\n\nBecoming prime minister on the sudden resignation of Shinzo Abe in 2007, Fukuda lasted less than a year – a tenure even shorter than his father Takeo's two-year stint.\n\nA graduate in economics from Tokyo's prestigious Waseda University, Fukuda spent nearly two decades working his way up the ranks of an oil company – including a two-year posting in the United States – before resigning to become a political secretary when his father became premier in 1976.\n\nElected to Japan's more powerful lower house of parliament in 1990, Fukuda was chief cabinet secretary from 2000 to 2004, resigning as one of several cabinet ministers to admit not paying into the pension system.\n\nKnown for his testy manner, the bespectacled Fukuda drew criticism in 2003 for off-the-record comments in which he suggested women who dressed provocatively were asking to be raped.\n\nWhen Fukuda succeeded Abe he joked he might have drawn the short straw in assuming office given the divided parliament and opposition parties' ability to delay legislation.\n\nFrustrated with the stalled legislative process, Fukuda resigned in 2008, the second of six prime ministers to quit after only around a year in office.\n\nKnown as a diplomatic dove, Fukuda made several visits to China after leaving office in an effort to improve often fraught relations.\n\nSpeaking at a regular briefing on Monday, Foreign Ministry spokesman Guo Jiakun called Fukuda an old friend of the Chinese people who held the \"correct view\" of history.\n\nGuo praised him for making significant contributions to the development of bilateral relations, citing the China-Japan Joint Statement on All-round Promotion of Strategic Relationship of Mutual Benefit that was issued in 2008 when he was prime minister.\n\nFukuda leaves a son, Tatsuo, who is also a lawmaker and has been viewed as a potential future prime minister. (Reuters/RTHK)\n_____________________________\nLast updated: 2026-10-26 HKT 16:54\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-10-26T06:38:33.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875359-20261026.htm"
     },
     {
@@ -358,6 +413,17 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875293-20261026.htm"
     },
     {
+      "id": "2cb096d00658934b",
+      "title": "CE meets environment minister",
+      "excerpt": "Chief Executive John Lee met Minister of Ecology & Environment Huang Runqiu at Government House today to exchange views on…",
+      "fullText": "Chief Executive John Lee met Minister of Ecology & Environment Huang Runqiu at Government House today to exchange views on deepening green co-operation. Mr Lee welcomed Mr Huang and his delegation to Hong Kong to officiate at the Belt & Road Green Innovation Conference 2026.\n\nMr Lee thanked the country for its support for Hong Kong as a platform for international exchanges. He also expressed gratitude for choosing the city as the venue for the conference, which is being held outside the Mainland for the first time.\n\nHe pointed out that under the \"one country, two systems\" principle, Hong Kong enjoys the unique advantage of connecting the Mainland and the world. Mr Lee added that the city plays the roles of \"super connector\" and \"super value-adder\" to proactively build itself into an international green co-operation hub.\n\nThe Hong Kong Special Administrative Region Government will build a pool of talent in international environmental protection and facilitate technology exchanges to promote the green and high-quality development of the Belt & Road (B&R) Initiative. This will be achieved through the B&R Green Development Co-operation Platform established with the Ministry of Ecology & Environment, and the B&R Sustainable Green Development Training Centre established by the Environmental Protection Department.\n\nMr Lee noted that the Hong Kong SAR Government attaches great importance to green and sustainable development, and added that four binding indicators have been set out in Hong Kong's First Five-Year Plan relating to environmental protection.\n\nThrough developing zero-carbon energy and hydrogen energy, alongside enhancing waste reduction and recycling, Hong Kong is moving towards carbon neutrality. The city will also leverage its status as a centre for green and sustainable finance to actively explore cross-boundary carbon trading, supporting the country in building a carbon market with greater international influence.\n\nThe Chief Executive added that the Guangdong-Hong Kong-Macao Greater Bay Area (GBA) is a key engine for the country's high-quality development. Hong Kong is actively enhancing its role in the GBA's green value chain to promote green development across the region.\n\nHong Kong has successfully facilitated the establishment of a world-leading sustainable aviation fuel production base in Dongguan. It will further strengthen collaboration in resources circulation to jointly build a “Zero Waste Bay Area” with the Mainland.\n\nMr Lee thanked the ministry for its continued support for Hong Kong's environmental protection work, and expressed hope that both sides will continue to strengthen collaboration to better integrate into and serve the overall national development.\n\nSecretary for Environment & Ecology Tse Chin-wan also attended the meeting.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_150639_499/images/20261026161147482.jpg",
+      "publishedAt": "2026-10-25T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_150639_499.html"
+    },
+    {
       "id": "177ff9c2b3a55d0a",
       "title": "Brazil's Lula, Bolsonaro face off in nail-biter vote",
       "excerpt": "Brazil held its breath on Sunday as voters went to the polls to decide between leftist leader Luiz Inacio Lula…",
@@ -512,17 +578,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875233-20261025.htm"
     },
     {
-      "id": "8a21e63146be703d",
-      "title": "Houthis claim new strikes on Saudi Arabian targets",
-      "excerpt": "Yemen's Houthis launched fresh attacks on Saudi Arabia and the seat of Yemen's internationally recognised government on Saturday after blaming…",
-      "fullText": "Yemen's Houthis launched fresh attacks on Saudi Arabia and the seat of Yemen's internationally recognised government on Saturday after blaming the kingdom for strikes that the Iran-backed group said killed 17 people.\n\nSaudi Arabia and the government it backs in Yemen have come under sustained attack in recent weeks from the Houthis as a years-long truce broke down in the summer, shifting the focus of the wider US-Iran war that erupted in February.\n\nOver the past 24 hours, the Yemeni fighters said they targeted three Saudi airports including the international airport in capital Riyadh, energy installations, a pipeline and an air base.\n\nMilitary spokesman Yahya Saree said the group launched missiles at \"King Khalid International Airport in Riyadh, the capital of the Saudi enemy, in two phases\", the airports in Dammam in the east and Najran in the south.\n\nThe group also launched attacks on the southern Khamis Mushait air base as well as \"crude oil pumping stations and the crude oil pipeline from east to west\".\n\nThe Saudi civil defence agency said it had also responded to falling debris in the Mecca and Medina regions on Saturday after intercepting two Houthi missiles.\n\nThe Houthis denied targeting the cities, the two holiest in Islam, calling the Saudi claim a \"huge lie\".\n\nThe Houthis also fired at the southern Yemeni city of Aden, the interim seat of the Saudi-backed government, saying they targeted a naval base and military camp overseen by Saudi forces.\n\nAuthorities said the coast guards headquarters and a second building of theirs as well as Aden airport had been targeted.\n\nThe fresh attack claims came after the Houthis' Al-Masirah TV channel accused the kingdom of separate strikes in Yemen that killed more than a dozen people. Riyadh has not claimed the alleged strikes.\n\nThe Houthi broadcaster said a strike on a house in Sanaa killed at least four people, another at a residential building for cement factory workers killed eight and another outside the city of Hodeida killed five from the same family.\n\nYemen's civil war, pitting the Iran-backed Houthis against the Saudi-supported and internationally recognised government, had been dormant since a ceasefire in 2022, but erupted again in July as the wider Middle East war roiled the region.\n\nEarlier on Saturday, the Saudi-led coalition said it had intercepted two missiles targeting Saudi cities Taif and Yanbu in the kingdom's west.\n\nSaudi Arabia's civil defence had broadcast warnings of \"potential danger\" for four western regions, including Taif and Yanbu as well as Mecca, home to Islam's holiest city.\n\nThe warning was lifted minutes later.\n\nThe group has also targeted the kingdom's oil infrastructure as well as its airports and tankers.\n\nYanbu is a major oil export hub on the Red Sea coast that has allowed Riyadh to bypass Iran's blockade of the Strait of Hormuz for much of its crude exports via the east-west pipeline.\n\nAn attack on Riyadh airport earlier this month killed 13 people and forced it to shut, while this week the US ordered non-essential embassy staff and their families to leave Saudi Arabia, citing the Houthi threat.\n\nRiyadh leads a military coalition that first intervened in 2015 in the conflict, which has devastated Yemen and created one of the world's worst humanitarian crises.\n\nThe dramatic escalation in Yemen, with the Houthis taking control of the entire Red Sea coast in a lightning offensive last month, has further destabilised the region and disrupted oil markets.\n\nIn July, a fragile 2022 truce fell apart after the Houthis allowed an Iranian plane to land in Yemen's capital Sanaa in defiance of Saudi control over Yemeni airspace, setting off a spate of attacks.\n\nThe Houthis then declared a maritime blockade of Saudi Arabia and began hitting its ships, territory and oil facilities, before launching a major offensive in September in which they seized Yemeni government-held territory along the Red Sea coast.\n\nIn response, the Houthis have also reported frequent Saudi strikes targeting areas under their control. (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T01:16:45.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875232-20261025.htm"
-    },
-    {
       "id": "d931ac7fb12dfd14",
       "title": "Arsenal level with Man City - thanks to Aston Villa",
       "excerpt": "Manchester City's flawless start to the Premier League season was ended in a 2-1 defeat at Aston Villa on Saturday…",
@@ -661,8 +716,8 @@
       "fullText": "Secretary for Transport and Logistics Mable Chan on Saturday said a newly launched scheme that eases cross-border yacht visits would usher in a new wave of tourist consumption.\n\nSpeaking on an RTHK radio programme, she said the first batch of five mainland vessels that entered the city last Friday through the southbound yacht scheme stayed for three to four days.\n\nSome of them reserved hotels in advance of their overnight stays.\n\nThose who docked at Lantau Yacht Club could use their craft as accommodation, Chan said, but they would still go on shore to spend.\n\n“Some of them visited Stanley, some even headed to Central,” she said.\n\n“Apart from sightseeing at sea, they would also go on shore to shop and head to theme parks.”\n\nYacht owners and masters have to register an account with the SAR’s Marine Department as part of the procedure for them to travel here, with Chan saying 32 accounts have already been set up so far.\n\nShe also said that, ahead of the end of the application period for platform companies to apply for ride-hailing service licences on October 30, the government is considering allowing applicants who are, for instance, particularly able to meet Hong Kong's needs, to have a higher chance of securing a permit.\n\nA lottery will be carried out if the number of applications exceeds the 10,000-permit cap.\n\n“I think that some of the main considerations include whether they are able to provide transport capacity or if they are really committed – this is very important,\" Chan said.\n\n\"We will also take into consideration how long they have owned the vehicles.”\n\nSince a new combined written test for taxis and ride-hailing vehicles was launched in early August as part of the new regulatory framework for ride-hailing services, Chan said around 16,000 people have registered for the exam so far.\n\nThe government was, she stressed, pleased to see the enthusiastic response to the test, which has seen a passing rate of more than 60 percent.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-10-24T04:18:16.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875169-20261024.htm"
     },
     {
@@ -672,8 +727,8 @@
       "fullText": "Advanced technologies and additional manpower have been deployed at Huanggang port to ensure smooth border crossings, Commissioner of Customs and Excise Chan Tsz-tat said on Saturday.\n\nSpeaking after a Commercial Radio programme, he said customs clearances at the redeveloped port had been smooth.\n\n“We have deployed some staff from other control points,\" Chan said.\n\n\"We have also employed some temp staff and retired officers to be deployed at the Huanggang port to support the new operation.\n\n“We also employed some new technologies at our new control point.\n\n“We are seeing quite good effectiveness in deterrence of smuggling at the new Huanggang port.\n\n\"If these new equipment are effective, we intend to extend the application of these new detection devices to other control points.”\n\nChan also said more than 600 million illicit cigarettes were seized in the first three quarters of the year – about the same as the full-year figure recorded in 2025.\n\nHowever, he pointed out that more than 200 million of them were not destined for Hong Kong, but were in the process of being transhipped to other places.\n\nChan said the department had seen “very good enforcement results” so far this year and that he believed they would deter smugglers.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-10-24T04:06:19.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875175-20261024.htm"
     },
     {
@@ -793,8 +848,8 @@
       "fullText": "Para fencer Tong Nga-ting has been named Hong Kong, China’s flagbearer at the closing ceremony of the Asian Para Games on Saturday, the China Hong Kong Paralympic Committee announced.\n\nWriting on social media, the committee noted that Tong has been outstanding at the Games this year, capturing three medals.\n\nShe won silver in the women's foil and épée team events, and bronze in the women's épée individual category B.\n\nThe Hong Kong, China delegation has won two gold, 13 silver and 21 bronze medals so far.\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-10-23T14:48:10.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875136-20261023.htm"
     },
     {
@@ -1172,17 +1227,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1874930-20261022.htm"
     },
     {
-      "id": "86a997bd23d1da59",
-      "title": "SAR wins second gold in Nagoya",
-      "excerpt": "Swimmer Chan Yui-lam on Thursday won Hong Kong, China's second gold medal at the ongoing Asian Para Games. Chan came…",
-      "fullText": "Swimmer Chan Yui-lam on Thursday won Hong Kong, China's second gold medal at the ongoing Asian Para Games.\n\nChan came first in the women's 100-metres butterfly S14 final in 1min 5.19secs.\n\nShe's also the Asian record holder for the event.\n\nJapan's Aira Kinoshita was second while another SAR athlete, Lau Chiu-yee, came third.\n\nThis is the SAR's second gold in Nagoya after Vivian Lau won the women's individual BC4 event in boccia.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:06:22.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1874951-20261022.htm"
-    },
-    {
       "id": "147faa697ca74445",
       "title": "Making the case for context-aware AI",
       "excerpt": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a…",
@@ -1216,28 +1260,6 @@
       "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
     },
     {
-      "id": "0dc880fcaebd95c1",
-      "title": "Hang Seng Index dives amid AI and war concerns",
-      "excerpt": "Asian stocks struggled to stay above water in early trade on Thursday, as tech earnings optimism provided only fleeting support…",
-      "fullText": "Asian stocks struggled to stay above water in early trade on Thursday, as tech earnings optimism provided only fleeting support amid lingering concerns over artificial intelligence and uncertainty in the Gulf.\n\nIn Hong Kong, the benchmark Hang Seng Index opened 138 points, or 0.58 percent, down at 23,513 before losses expanded.\n\nOn the mainland, the Shanghai Composite Index opened up 1 point, at 3,714.\n\nThe Shenzhen Component Index opened down 14 points, or 0.12 percent at 11,690. The ChiNext Index fell 6 points, or 0.25 percent, to 2,687.\n\nIn the US market, Meta reported third-quarter revenue that beat expectations, while AI server maker Super Micro forecast quarterly revenue and profit margin that both topped estimates.\n\nHowever, Meta's plan to issue non-voting class C common stock drew renewed scrutiny on AI spending.\n\n\"There's a lot of noise out there at the moment and investors are still digesting this morning's results,\" said Kyle Rodda, senior financial market analyst at Capital.com.\n\n\"Also, we're really only at the start of the meaty part of earnings season, which is coming at the same time that investors are tackling the uncertainty from an upcoming Fed decision, geopolitical risks, and US midterms.\"\n\nIn a sign of subdued risk sentiment, the yield on benchmark 10-year Treasury notes was down 4.2 basis points at 5.1065 percent while the yield on 30-year notes was at a one-week low of 5.3968 percent.\n\nMeanwhile, Brent crude rose 1.1 percent to US$110.03 a barrel, near a five-month high. The United States ordered diplomats to leave Saudi Arabia amid Houthi strikes, while the New York Times reported the US and Israeli militaries had developed specific plans for renewed attacks on Iran after the US midterm elections, which take place on November 3.\n\nIn Tokyo, the Nikkei opened 82 points, or 0.13 percent, lower at 64,539 before chip-sector shares gave back the previous session's gains to set the 225 benchmark 680 points back at 63,941 at one stage before noon.\n\nIn Seoul, the Kospi opened 65 points, or 1.14 percent, at 5,670 before, like the Nikkei, profit-taking pressure in the chip sector put the benchmark 123 points down at one stage before lunch. (Reuters & Xinhua)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T02:54:10.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1874887-20261022.htm"
-    },
-    {
-      "id": "1883fb36e06b73cc",
-      "title": "Websites go dark as AI exposes critical security flaws",
-      "excerpt": "Government agencies and companies around the world shut down websites on Wednesday after two critical flaws came to light involving…",
-      "fullText": "Government agencies and companies around the world shut down websites on Wednesday after two critical flaws came to light involving PHP, a programming language that is the basis for a large share of the internet.\n\nPHP sits underneath popular web design platforms, so the weaknesses potentially affect a vast range of websites, from online stores and news outlets to government services.\n\nWiz, one of the security firms that found the flaws, estimated that PHP runs about 70 percent of the world's websites and said they rank \"among the most severe vulnerabilities discovered in PHP, and arguably in software history.\"\n\nThe US National Security Agency told organisations to patch immediately or pull vulnerable systems offline.\n\nOnly sites that run PHP on their own servers are exposed.\n\nMany large platforms are built on other programming languages or use operators that could install the fix quickly and were able to stay online.\n\nThe flaws \"often provide a direct path to the server's file system or database,\" the NSA said in a statement on X.\n\nAttackers could use them to take over web servers without needing a password.\n\nVolker Dusch, a security engineer at the PHP Foundation, told the Wall Street Journal it was the most serious problem PHP had faced in more than a decade, comparing it to Heartbleed, a 2014 flaw that set off a worldwide rush to patch.\n\nThe discovery came amid a surge in software security disclosures driven by increasingly powerful AI models, with the number of vulnerabilities found in 2026 on track to roughly double last year's record total.\n\nPHP programmers released a fix on Wednesday.\n\n\"If you run PHP, it is imperative that you update now,\" the PHP Foundation, which funds developers working on the language, said in a blog post.\n\nSecurity firm Calif found the flaws in August using OpenAI's GPT-5.6 Sol model, as part of an OpenAI-funded audit of PHP's code.\n\nWiz, which is owned by Google, said it found them independently weeks later with help from AI models including Google's Gemini 4 Argon and GPT-5.6 Sol.\n\nOpenAI said on X that it considered the flaws \"one of the most impactful vulnerabilities in recent memory,\" adding that the discovery \"marks a new phase, where AI can find security bugs with internet-scale impact.\"\n\nThe flaws had been reported privately to PHP's developers and kept confidential while a fix was prepared.\n\nDetails leaked online on Tuesday, a day before the planned release of the fix, prompting the rush to take sites offline before hackers could exploit them.\n\nIn France, local government websites, including one for the Paris police, were made inaccessible at the request of the French National Cybersecurity Agency, the interior ministry said.\n\nIn the Netherlands, the national digital identity service DigiD, the website of the House of Representatives and the site of the national cybersecurity centre went offline as a precaution, according to Dutch public broadcaster NOS.\n\nIn Australia, the Australian Signals Directorate said its own cyber.gov.au site was among government websites affected by the flaws, according to Australian public broadcaster ABC.\n\nThe Wikimedia Foundation, which runs Wikipedia, warned users they could see outages on its sites while it addressed the flaws, and said it had deliberately taken many of its supporting services offline until they could be safely patched.\n\nSeveral Pokemon apps, including Pokemon HOME, Pokemon Champions and Pokemon Sleep, also went offline on Wednesday for emergency maintenance, with Pokemon Sleep citing security measures, according to gaming news site Kotaku.\n\nThe operator of the hit Japanese game Umamusume said it was carrying out maintenance to fix a PHP vulnerability found in its servers. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T00:03:32.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1874858-20261022.htm"
-    },
-    {
       "id": "f0fb7cf8926f4b27",
       "title": "'China, Russia are valuable force for stability'",
       "excerpt": "Premier Li Qiang said on Wednesday said China and Russia have served as a valuable force for stability in a…",
@@ -1258,17 +1280,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/southchinasea/2026/10/21/philippines-duterte-impeachment-china-influence/"
-    },
-    {
-      "id": "c486fa1726b7bc77",
-      "title": "HK bags second Para Games gold",
-      "excerpt": "Secretary for Culture, Sports & Tourism Rosanna Law today congratulated Hong Kong athletes on winning one gold, two silver and…",
-      "fullText": "Secretary for Culture, Sports & Tourism Rosanna Law today congratulated Hong Kong athletes on winning one gold, two silver and six bronze medals at the 5th Asian Para Games in swimming, fencing, table tennis and badminton.\n\nSwimmer Chan Yui-lam bagged a gold medal in the Women's 100m Butterfly S14 event, securing the second gold medal for the Hong Kong, China delegation at the Games. Miss Law praised her for successfully defending her title and winning gold at the Asian Para Games for the third consecutive time, demonstrating her top-tier strength.\n\nIn other swimming events, Lau Chiu-yee secured a bronze medal in the Women's 100m Butterfly S14, while the quartet of Cheung Tsun-lok, Wong Hon-yin, Chan Yui-lam and Lau Chiu-yee clinched a bronze medal in the Mixed 4x100m Freestyle S14.\n\nFencers Fan Pui-shan, Lam Ka-man, Tong Nga-ting and Yu Chui-yee claimed a silver medal in the Women's Epee Team event. Miss Law noted that the team gave their all and fought to the very end.\n\nHong Kong, China athletes had a great day in table tennis, with Miss Law highly commending the team’s stellar performances in the mixed doubles events.\n\nLam Yan-yu and Wong Hon-lam won a silver medal in the Mixed Doubles Class XD20, while Tong Chi-ming and Wong Yue-ching took bronze in the Mixed Doubles Class XD14. Meanwhile, the pairings of Yuen King-shing and Wong Ting-ting, alongside Wan Wai-lok and Wong Pui-kei, captured two bronze medals in the Mixed Doubles Class XD22.\n\nMiss Law commended the players for demonstrating superb skills and tenacity to secure a total of four medals – one silver and three bronze – in a single day.\n\nIn badminton, Chu Man-kai won a bronze medal in the Men's Singles SH6. Miss Law applauded his hard-fought performance against his opponent to secure the medal for the badminton team.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261022/20261022_224150_928/images/20261022232105058.JPG",
-      "publishedAt": "2026-10-21T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261022/20261022_224150_928.html"
     },
     {
       "id": "055a5b9ee25fbf91",
@@ -1346,39 +1357,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/myanmar/2026/10/19/myanmar-burma-aung-san-suu-kyi-king-charles/"
-    },
-    {
-      "id": "37a2a71b9ab8f804",
-      "title": "Huanggang port handles increase in passengers",
-      "excerpt": "The Immigration Department said manpower was deployed to handle an expected increase in inbound passengers at Huanggang port on Monday…",
-      "fullText": "The Immigration Department said manpower was deployed to handle an expected increase in inbound passengers at Huanggang port on Monday, at the end of the long Chung Yeung Festival weekend travel rush.\n\nOfficials said operations at the redeveloped port were generally smooth thus far.\n\nThe Security Bureau said about 9,400 people arrived in Hong Kong via Huanggang port between 2pm and 4pm.\n\nTravellers were urged to be patient and follow the instructions of immigration staff and police.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T14:10:56.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1874525-20261019.htm"
-    },
-    {
-      "id": "3274850cd611db51",
-      "title": "Li calls for stronger China-Tajikistan cooperation",
-      "excerpt": "Premier Li Qiang said on Monday that China is willing to expand cooperation with Tajikistan in emerging industries such as…",
-      "fullText": "Premier Li Qiang said on Monday that China is willing to expand cooperation with Tajikistan in emerging industries such as the digital economy and artificial intelligence.\n\nIn his meeting with Tajik President Emomali Rahmon in Dushanbe, Li said China stands ready to expand bilateral trade with Tajikistan, strengthen cooperation in infrastructure, green minerals, connectivity and other fields, so as to jointly build new drivers of economic growth.\n\nHe also called for deepening cooperation in law enforcement and security.\n\nLi arrived in Tajikistan on Sunday for an official visit and to attend the 25th meeting of the Council of Heads of Government (Prime Ministers) of Member States of the Shanghai Cooperation Organization (SCO).\n\nIn talks with Iran's First Vice President Mohammad-Reza Aref on the sidelines of the SCO meeting, the premier said Beijing stands ready to promote new progress in exchanges and cooperation across various fields with Tehran.\n\nLi also said China, upholding the spirit of the series of major initiatives and proposals put forward by President Xi Jinping, will continue to work to promote peace, stability and development in the Middle East.\n\nHe added that sovereignty and security of all countries should be respected, and that all parties concerned should opt for peace, resume dialogue and negotiations at an early date, and resolve differences through political and diplomatic means. (Reporting by Xinhua)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T13:34:07.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1874523-20261019.htm"
-    },
-    {
-      "id": "c9fd95c528ef3314",
-      "title": "Operators urged to monitor Huanggang transport flows",
-      "excerpt": "Commissioner for Transport Winnie Tse urged the sector on Monday to monitor passenger and vehicle flows in real time at…",
-      "fullText": "Commissioner for Transport Winnie Tse urged the sector on Monday to monitor passenger and vehicle flows in real time at Huanggang port and to remain alert and deploy resources in a flexible manner to meet the needs of travellers.\n\nThe call came as the crossing was set to face peak crowds with people returning home following the long Chung Yeung Festival weekend.\n\nIn a social media post, the Transport Department said it was undertaking multiple measures with operators to keep traffic around the crossing running smoothly.\n\nIt said about 120 franchised buses, 40 scheduled‑route minibuses and 130 cross‑boundary coaches would be deployed to provide services as well as be on standby in case of heavy passengers flows.\n\nDuring busy periods, franchised bus frequencies can be increased to every two to three minutes while scheduled minibuses and cross‑boundary coaches may run every three to four minutes and franchised operators will also run extra short‑haul trips to ease overcrowding.\n\nThe department also noted that operators had installed clear signages and facilities to help people queue in an orderly manner as well as deployed service ambassadors and operational staff at key locations to assist travellers.\n\nThe Immigration Department recorded more than 1.32 million crossings – more than 690,000 departures and nearly 630,000 arrivals – through all checkpoints on Sunday, with departures by Hong Kong residents exceeding 530,000.\n\nOf the inbound arrivals, mainland visitors numbered over 98,000.\n\nHuanggang port recorded about 152,000 arrivals and departures – the highest since the crossing opened — with Hong Kong residents accounting for more than 66,000.\n\nThe busiest crossing remained Lo Wu with nearly 260,000, followed by Lok Ma Chau Spur Line with more than 200,000.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-19T07:23:45.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1874472-20261019.htm"
     },
     {
       "id": "84b96b8666c5c445",
