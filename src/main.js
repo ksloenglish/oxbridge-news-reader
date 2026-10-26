@@ -290,7 +290,7 @@ function renderFreshness() {
   const updated = when
     ? `<span>Last updated: <time datetime="${esc(bundle.generatedAt)}">${esc(when)}</time> (Hong Kong time).</span>`
     : "";
-  return `<p class="quiet freshness"><span>Stories update about once an hour.</span>${updated}</p>`;
+  return `<p class="freshness"><span>Stories update about once an hour.</span>${updated}</p>`;
 }
 
 function renderAbout() {
