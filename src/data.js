@@ -102,8 +102,8 @@ export function describeFeedCheck(snapshot, now = Date.now()) {
   const when = formatSnapshotUpdated(stamp);
   const overdue = when ? isFeedCheckOverdue(stamp, now) : true;
   const text = when
-    ? `Feeds last checked: ${when} (HKT).${overdue ? " This check is overdue." : ""}`
-    : "Feeds last checked: not recorded yet. This check is overdue.";
+    ? `Feeds checked ${when} (HKT).${overdue ? " This check is overdue." : ""}`
+    : "Feeds checked not recorded yet. This check is overdue.";
   return { checkedAt, stamp, generatedAt, when, overdue, text };
 }
 
@@ -111,7 +111,7 @@ export function describeFeedCheck(snapshot, now = Date.now()) {
 export function formatNewsChanged(generatedAt) {
   const when = formatSnapshotUpdated(generatedAt);
   if (!when) return "";
-  return `News last changed: ${when} (HKT).`;
+  return `News changed ${when} (HKT).`;
 }
 
 /** Name sources from the current selection that failed on the last check. */
