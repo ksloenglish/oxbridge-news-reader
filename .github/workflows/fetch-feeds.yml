@@ -3,10 +3,14 @@ name: Fetch RSS feeds
 on:
   schedule:
     # Minute 0 is GitHub's high-load window: scheduled runs are delayed there,
-    # and queued jobs can be dropped. Two off-hour slots so one miss does not
-    # wait a full hour. GitHub may still start either run late.
-    - cron: "17 * * * *"
-    - cron: "47 * * * *"
+    # and queued jobs can be dropped. Four explicit slots per hour, staggered
+    # off minute 0, so one miss does not wait a full hour. GitHub may still
+    # start a run late. A real change to these cron expressions re-arms a
+    # schedule whose associated actor has stopped firing.
+    - cron: "12 * * * *"
+    - cron: "27 * * * *"
+    - cron: "42 * * * *"
+    - cron: "57 * * * *"
   workflow_dispatch:
 
 # contents: write commits the snapshot. pages + id-token deploy Pages in this
@@ -18,11 +22,13 @@ permissions:
   pages: write
   id-token: write
 
-# Same group as Deploy GitHub Pages, held for this whole run (fetch, build,
-# deploy, and the snapshot push). queue: max so a code push does not cancel
-# a refresh that is waiting to publish.
+# rss-fetch covers the ingest only. Most scheduled runs stop at fetch when the
+# snapshot is unchanged, and that work must not sit in the github-pages queue
+# behind a code deploy. queue: max so a newer schedule does not cancel a run
+# that is already waiting. Build and deploy join github-pages when there is
+# something to publish.
 concurrency:
-  group: github-pages
+  group: rss-fetch
   cancel-in-progress: false
   queue: max
 
@@ -92,6 +98,14 @@ jobs:
   build:
     needs: fetch
     if: needs.fetch.outputs.changed == 'true'
+    # Serialize the site build with Deploy GitHub Pages. The fetch job stays
+    # out of this group so an unchanged snapshot is not queued behind a push.
+    # cancel-in-progress stays false. queue: max keeps a refresh that is
+    # already waiting.
+    concurrency:
+      group: github-pages
+      cancel-in-progress: false
+      queue: max
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
@@ -121,6 +135,12 @@ jobs:
   deploy:
     needs: [fetch, build]
     if: needs.fetch.outputs.changed == 'true' && needs.build.result == 'success'
+    # Same group as the build job and as Deploy GitHub Pages, so the Pages
+    # deployment and the snapshot commit stay in line with code publishes.
+    concurrency:
+      group: github-pages
+      cancel-in-progress: false
+      queue: max
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

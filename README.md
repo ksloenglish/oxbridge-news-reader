@@ -122,11 +122,11 @@ node scripts/fetch-feeds.mjs
 
 ### GitHub Action
 
-[`.github/workflows/fetch-feeds.yml`](.github/workflows/fetch-feeds.yml) runs at minute 17 and minute 47 UTC (`17 * * * *` and `47 * * * *`) and from a manual `workflow_dispatch`. The start of the hour is when GitHub delays or drops scheduled runs, so neither cron uses minute 0. A second slot covers a missed first slot. GitHub may still start a run late.
+[`.github/workflows/fetch-feeds.yml`](.github/workflows/fetch-feeds.yml) runs at minutes 12, 27, 42, and 57 UTC (`12 * * * *`, `27 * * * *`, `42 * * * *`, and `57 * * * *`) and from a manual `workflow_dispatch`. The start of the hour is when GitHub delays or drops scheduled runs, so none of the crons uses minute 0. The extra slots cover a missed run. GitHub may still start a run late. Changing those cron expressions re-arms the schedule when its associated actor has stopped firing.
 
-The run installs the pinned ingest dependencies and fetches. When the article list or feed status changed, it builds the site and deploys GitHub Pages in that same run, using `GITHUB_TOKEN` with `contents: write`, `pages: write`, and `id-token: write`. It commits `public/data/articles.json` only after that deploy succeeds, so a failed publish is retried on the next run. An unchanged snapshot skips the Pages build and the commit.
+The run installs the pinned ingest dependencies and fetches. When the article list or feed status changed, it builds the site and deploys GitHub Pages in that same run, using `GITHUB_TOKEN` with `contents: write`, `pages: write`, and `id-token: write`. It commits `public/data/articles.json` only after that deploy succeeds, so a failed publish is retried on the next run. An unchanged snapshot skips the Pages build and the commit. That fetch does not take the Pages concurrency lock.
 
-[`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) publishes pushes to `main` and its own `workflow_dispatch`. It does not chain off Fetch with `workflow_run`. The snapshot push uses `GITHUB_TOKEN`, which does not start Deploy again, so a feed refresh produces one Pages deployment. Both workflows use the `github-pages` concurrency group, so a feed publish and a code publish wait for each other instead of overwriting.
+[`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) publishes pushes to `main` and its own `workflow_dispatch`. It does not chain off Fetch with `workflow_run`. The snapshot push uses `GITHUB_TOKEN`, which does not start Deploy again, so a feed refresh produces one Pages deployment. Deploy holds the `github-pages` concurrency group for its whole run and checks out the latest `main` once the lock is free, so a queued code publish includes a snapshot that landed while it waited. Fetch holds that group only for the build and deploy that follow a changed snapshot. `queue: max` keeps a waiting publish instead of cancelling it.
 
 ### Frontend
 

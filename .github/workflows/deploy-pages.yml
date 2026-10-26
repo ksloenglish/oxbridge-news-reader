@@ -7,8 +7,10 @@ on:
 
 # Feed refresh deploys from Fetch RSS feeds in that same run. A snapshot commit
 # uses GITHUB_TOKEN, which does not create a push event for this workflow.
-# Push and manual dispatch publish code changes. This workflow and Fetch RSS
-# feeds share the github-pages concurrency group so those publishes wait.
+# Push and manual dispatch publish code changes. This workflow holds
+# github-pages for the whole run. Fetch joins that group only in its build and
+# deploy jobs, after the snapshot has changed, so an unchanged fetch does not
+# wait here. Deploys stay serialized.
 
 permissions:
   contents: read
@@ -24,8 +26,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out the pushed commit
+      # The triggering SHA can be older than main when this run waited on
+      # github-pages while Fetch committed a snapshot. Publish the tip of main
+      # so that queued code deploy keeps those articles.
+      - name: Check out latest main
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Build static site
         uses: ./.github/actions/build-pages
