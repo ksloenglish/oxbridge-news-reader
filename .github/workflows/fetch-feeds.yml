@@ -5,12 +5,14 @@ on:
     # Minute 0 is GitHub's high-load window: scheduled runs are delayed there,
     # and queued jobs can be dropped. Four explicit slots per hour, staggered
     # off minute 0, so one miss does not wait a full hour. GitHub may still
-    # start a run late. A real change to these cron expressions re-arms a
-    # schedule whose associated actor has stopped firing.
-    - cron: "12 * * * *"
-    - cron: "27 * * * *"
-    - cron: "42 * * * *"
-    - cron: "57 * * * *"
+    # start a run late. #28 set 12/27/42/57 and schedule events still did not
+    # resume. These minutes are a real change from that set, which re-arms a
+    # schedule whose associated actor has stopped firing. The new schedule is
+    # read only after this file is on the default branch.
+    - cron: "8 * * * *"
+    - cron: "23 * * * *"
+    - cron: "38 * * * *"
+    - cron: "53 * * * *"
   workflow_dispatch:
 
 # contents: write commits the snapshot. pages + id-token deploy Pages in this
