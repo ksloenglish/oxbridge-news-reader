@@ -3,6 +3,7 @@ import test from "node:test";
 import {
   DEFAULT_SELECTION,
   articlesForSelection,
+  formatPublishedAt,
   formatSnapshotUpdated,
   readCatalog,
   readSnapshot,
@@ -46,6 +47,14 @@ test("snapshot time is shown in Hong Kong time", () => {
   assert.equal(formatSnapshotUpdated("2026-10-26T03:48:42.114Z"), "26 Oct 2026, 11:48 am");
   assert.equal(formatSnapshotUpdated(null), "");
   assert.equal(formatSnapshotUpdated("not-a-date"), "");
+});
+
+test("publication time uses publishedAt in Hong Kong time and is omitted when missing", () => {
+  assert.equal(formatPublishedAt("2026-10-25T10:56:54.000Z"), "Published 25 Oct 2026, 6:56 pm (Hong Kong time)");
+  assert.equal(formatPublishedAt("2026-10-26T03:20:16.000Z"), "Published 26 Oct 2026, 11:20 am (Hong Kong time)");
+  assert.equal(formatPublishedAt(null), "");
+  assert.equal(formatPublishedAt(""), "");
+  assert.equal(formatPublishedAt("not-a-date"), "");
 });
 
 test("a catalog feed with no articles stays selectable", () => {

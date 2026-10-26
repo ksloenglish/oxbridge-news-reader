@@ -88,3 +88,13 @@ export function formatSnapshotUpdated(value) {
     hour12: true,
   }).format(date);
 }
+
+/**
+ * Student-facing publication time from article `publishedAt` (ISO UTC from the feed date).
+ * Empty when the story has no usable date, so the desk does not invent a time.
+ */
+export function formatPublishedAt(value) {
+  const when = formatSnapshotUpdated(value);
+  if (!when) return "";
+  return `Published ${when} (Hong Kong time)`;
+}
