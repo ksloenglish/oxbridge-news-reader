@@ -334,6 +334,103 @@ h1 {
   margin-bottom: 0.8rem;
 }
 .toolbar .ghost { flex: none; white-space: nowrap; }
+.refresh-actions {
+  display: inline-flex;
+  align-items: center;
+  flex: none;
+  align-self: end;
+}
+/* Confirmation beside Check for updates. The icon fades, then its slot
+   closes so the button eases back. Duration matches REFRESH_ACK_MS. */
+.refresh-ack {
+  --ack-elapsed: 0;
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  margin-left: 0.45rem;
+  flex: none;
+  min-width: 0;
+  justify-content: center;
+  pointer-events: none;
+  color: var(--a1);
+  animation-name: refresh-ack-slot;
+  animation-duration: 2.7s;
+  animation-timing-function: ease;
+  animation-fill-mode: forwards;
+  animation-delay: calc(var(--ack-elapsed) * -1ms);
+}
+.refresh-ack-icon {
+  display: grid;
+  place-items: center;
+  width: 1.75rem;
+  height: 1.75rem;
+  flex: none;
+  animation-name: refresh-ack-icon;
+  animation-duration: 2.7s;
+  animation-timing-function: ease;
+  animation-fill-mode: forwards;
+  animation-delay: calc(var(--ack-elapsed) * -1ms);
+}
+.refresh-ack svg { width: 1.75rem; height: 1.75rem; display: block; }
+.refresh-ack-disc {
+  fill: var(--a1-bg);
+  stroke: currentColor;
+  stroke-width: 1.4;
+}
+.refresh-ack-mark {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2.05;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-dasharray: 16;
+  stroke-dashoffset: 16;
+  animation-name: refresh-ack-draw;
+  animation-duration: 0.42s;
+  animation-timing-function: ease;
+  animation-fill-mode: forwards;
+  animation-delay: calc(0.28s - (var(--ack-elapsed) * 1ms));
+}
+.refresh-ack-text {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+@keyframes refresh-ack-slot {
+  0% { width: 0; margin-left: 0; }
+  14% { width: 1.75rem; margin-left: 0.45rem; }
+  78% { width: 1.75rem; margin-left: 0.45rem; }
+  100% { width: 0; margin-left: 0; }
+}
+@keyframes refresh-ack-icon {
+  0% { opacity: 0; transform: scale(0.84); }
+  14% { opacity: 1; transform: scale(1); }
+  62% { opacity: 1; transform: scale(1); }
+  82% { opacity: 0; transform: scale(0.94); }
+  100% { opacity: 0; transform: scale(0.94); }
+}
+@keyframes refresh-ack-draw {
+  to { stroke-dashoffset: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .refresh-ack,
+  .refresh-ack-icon,
+  .refresh-ack-mark {
+    animation: none;
+  }
+  .refresh-ack { width: 1.75rem; margin-left: 0.45rem; }
+  .refresh-ack-icon { opacity: 1; transform: none; }
+  .refresh-ack-mark { stroke-dashoffset: 0; }
+}
 /* Same slate and size as the word-card .dict-note, so this reads as fine print. */
 .freshness {
   flex: 1 1 100%;

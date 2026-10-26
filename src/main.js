@@ -41,6 +41,10 @@ let confirmRemoveId = null;
 const listCopyText = new Map();
 let refreshing = false;
 let refreshNote = "";
+// Matches the .refresh-ack animation length in styles.css.
+const REFRESH_ACK_MS = 2700;
+let refreshAckUntil = 0;
+let refreshAckTimer = 0;
 const hits = [];
 
 function persist() {
@@ -272,7 +276,10 @@ function renderNews() {
           <label class="field">News source
             <select data-feed aria-label="News source">${feedOptions()}</select>
           </label>
-          <button type="button" class="ghost" data-refresh ${refreshing ? "disabled aria-busy=\"true\"" : ""}>${refreshing ? "Checking…" : "Check for updates"}</button>
+          <div class="refresh-actions">
+            <button type="button" class="ghost" data-refresh ${refreshing ? "disabled aria-busy=\"true\"" : ""}>${refreshing ? "Checking…" : "Check for updates"}</button>
+            ${refreshAckMarkup()}
+          </div>
           ${renderFreshness()}
         </div>
         ${refreshNote ? `<p class="quiet refresh-note" aria-live="polite">${esc(refreshNote)}</p>` : ""}
@@ -280,6 +287,21 @@ function renderNews() {
       </div>
       ${reader}
     </section>`;
+}
+
+function refreshAckMarkup() {
+  const remaining = refreshAckUntil - Date.now();
+  if (remaining <= 0) return "";
+  const elapsed = Math.max(0, Math.round(REFRESH_ACK_MS - remaining));
+  return `<span class="refresh-ack" data-refresh-ack role="status" style="--ack-elapsed:${elapsed}">
+      <span class="refresh-ack-icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24" focusable="false">
+          <circle class="refresh-ack-disc" cx="12" cy="12" r="9.25"></circle>
+          <path class="refresh-ack-mark" d="M7.4 12.35l2.95 2.95 6.25-6.45"></path>
+        </svg>
+      </span>
+      <span class="refresh-ack-text">Stories checked.</span>
+    </span>`;
 }
 
 function renderFreshness() {
@@ -623,6 +645,7 @@ function render() {
   }
   pinShellToVisualViewport();
   renderCard();
+  syncRefreshAck();
 }
 
 const SCROLLERS = ".sheet, .pane, .word-list";
@@ -1062,10 +1085,43 @@ async function fetchSnapshot() {
   return readSnapshot(await response.json());
 }
 
+function clearRefreshAck() {
+  refreshAckUntil = 0;
+  if (refreshAckTimer) {
+    clearTimeout(refreshAckTimer);
+    refreshAckTimer = 0;
+  }
+}
+
+function showRefreshAck() {
+  refreshAckUntil = Date.now() + REFRESH_ACK_MS;
+}
+
+function syncRefreshAck() {
+  if (refreshAckTimer) {
+    clearTimeout(refreshAckTimer);
+    refreshAckTimer = 0;
+  }
+  const ack = app.querySelector("[data-refresh-ack]");
+  if (!ack) return;
+  const remaining = refreshAckUntil - Date.now();
+  if (remaining <= 0) {
+    ack.remove();
+    refreshAckUntil = 0;
+    return;
+  }
+  refreshAckTimer = window.setTimeout(() => {
+    refreshAckTimer = 0;
+    app.querySelector("[data-refresh-ack]")?.remove();
+    refreshAckUntil = 0;
+  }, remaining);
+}
+
 async function refreshArticles() {
   if (refreshing) return;
   refreshing = true;
   refreshNote = "";
+  clearRefreshAck();
   render();
   try {
     bundle = await fetchSnapshot();
@@ -1074,8 +1130,9 @@ async function refreshArticles() {
       ui.articleId = null;
       openHit = null;
     }
-    refreshNote = "Stories checked.";
+    showRefreshAck();
   } catch {
+    clearRefreshAck();
     refreshNote = "Could not check for new stories. Please try again.";
   } finally {
     refreshing = false;
