@@ -91,20 +91,34 @@ export function isFeedCheckOverdue(value, now = Date.now(), overdueMs = FEED_CHE
 }
 
 /**
- * School-reader status for the last successful feed read.
- * `checkedAt` is that read. An older snapshot with only `generatedAt`
- * shows that stamp as the last check until a fetch records `checkedAt`.
+ * One News Desk timing line for the latest successful fetch.
+ *
+ * A fetch that changes stories writes `checkedAt` and `generatedAt` from the
+ * same instant. A later fetch that leaves the stories alone advances only
+ * `checkedAt`. The line is `News updated` with `generatedAt` when both stamps
+ * are present and the check is not later than the story change, and
+ * `Feeds checked` with `checkedAt` when the check is strictly later.
+ * An older snapshot with only `generatedAt` still shows that stamp as the
+ * last check until a fetch records `checkedAt`.
  */
 export function describeFeedCheck(snapshot, now = Date.now()) {
   const checkedAt = snapshot?.checkedAt || null;
   const generatedAt = snapshot?.generatedAt || null;
-  const stamp = checkedAt || generatedAt || null;
+  const checkedMs = Date.parse(checkedAt ?? "");
+  const generatedMs = Date.parse(generatedAt ?? "");
+  const checkedKnown = Number.isFinite(checkedMs);
+  const generatedKnown = Number.isFinite(generatedMs);
+  const newsUpdated = checkedKnown && generatedKnown && checkedMs <= generatedMs;
+  const stamp = newsUpdated
+    ? generatedAt
+    : (checkedKnown ? checkedAt : (generatedKnown ? generatedAt : null));
+  const label = newsUpdated ? "News updated" : "Feeds checked";
   const when = formatSnapshotUpdated(stamp);
   const overdue = when ? isFeedCheckOverdue(stamp, now) : true;
   const text = when
-    ? `Feeds checked ${when} (HKT).${overdue ? " This check is overdue." : ""}`
-    : "Feeds checked not recorded yet. This check is overdue.";
-  return { checkedAt, stamp, generatedAt, when, overdue, text };
+    ? `${label} ${when} (HKT).${overdue ? " This check is overdue." : ""}`
+    : `${label} not recorded yet. This check is overdue.`;
+  return { checkedAt, generatedAt, stamp, when, overdue, text, label, newsUpdated };
 }
 
 /** Name sources from the current selection that failed on the last check. */
