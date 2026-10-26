@@ -334,13 +334,15 @@ h1 {
   margin-bottom: 0.8rem;
 }
 .toolbar .ghost { flex: none; white-space: nowrap; }
+/* Same slate and size as the word-card .dict-note, so this reads as fine print. */
 .freshness {
   flex: 1 1 100%;
   margin: 0.15rem 0 0;
   display: grid;
   gap: 0.08rem;
-  font-size: 0.92rem;
-  line-height: 1.35;
+  color: #3a4460;
+  font-size: 0.75rem;
+  line-height: 1.45;
 }
 .refresh-note { margin: -0.35rem 0 0.75rem; }
 label.field { display: grid; gap: 0.2rem; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
