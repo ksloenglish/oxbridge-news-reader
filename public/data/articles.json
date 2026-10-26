@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T23:38:47.421Z",
+  "generatedAt": "2026-10-25T23:50:03.092Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -90,16 +90,6 @@
       "ok": true,
       "error": null,
       "articleCount": 10
-    },
-    {
-      "id": "ted-blog",
-      "name": "TED Blog",
-      "url": "https://blog.ted.com/feed/",
-      "category": "international",
-      "enabled": true,
-      "ok": true,
-      "error": null,
-      "articleCount": 4
     }
   ],
   "articles": [
@@ -1501,17 +1491,6 @@
       "link": "https://rfa.org/english/uyghur/2026/10/08/xinjiang-uyghur-prison-china-abdulla-zohregul/"
     },
     {
-      "id": "4accd9ef444aa2b0",
-      "title": "AI is changing how we teach and learn. Educators should shape what comes next",
-      "excerpt": "AI is reshaping how educators teach and how students learn. But for AI to make a positive impact, educators’ voices…",
-      "fullText": "AI is reshaping how educators teach and how students learn. But for AI to make a positive impact, educators’ voices should be at the center of that change. That’s why TED and Google have teamed up on a global search for ideas from educators about the role of AI in teaching and learning.\n\nFive educators with the most compelling ideas will be selected to develop and deliver their talks at TED2027, TED’s flagship conference, taking place March 1–4, 2027, in San Diego. These talks will be accompanied by an interview-style Q&A with Sal Khan, TED’s Vision Steward and founder of Khan Academy.\n\nWho can participate\n\nThis idea search is open to educators at the primary, secondary and higher-education levels who are actively using AI in the classroom, lecture hall or curriculum design. It invites those with firsthand experience designing and refining approaches that are making a difference for students and colleagues, and who think deeply about AI’s place in education, to put their ideas forward. \n\nIt starts with the Idea Workshop\n\nThe entry point is the Idea Workshop, a free, one-hour professional development experience available starting October 5, 2026, which is World Teachers’ Day. Because the workshop is asynchronous, educators can complete it on their own schedule. It walks through three lessons: what makes an idea worth spreading, how to draw on your own experience to surface a distinctive idea and how to craft a clear through line for a potential talk.\n\nEducators who complete the Idea Workshop receive free resources to support idea development and AI literacy, including TED’s Official Public Speaking Course, a TED-moderated online community of practice and materials from Google such as the AI Educator Series. They can also submit an idea for a chance to speak at TED2027.\n\nHow to get involved\n\n- Register for the Idea Workshop and submit your idea to TED by November 15, 2026, at 11:59pm ET.\n\n- Share this post with an educator whose idea about AI in education deserves to be heard.\n\nEvery educator has an idea worth sharing. If you’re using AI in your teaching, the Idea Workshop is where yours can begin.\n\nStart the Idea Workshop →",
-      "imageUrl": "https://blog.ted.com/wp-content/uploads/sites/2/2026/10/blog-image.jpg",
-      "publishedAt": "2026-10-05T13:00:37.000Z",
-      "source": "TED Blog",
-      "sourceFeed": "ted-blog",
-      "link": "https://blog.ted.com/ai-is-changing-how-we-teach-and-learn-educators-should-shape-what-comes-next/"
-    },
-    {
       "id": "2a824a6a6872ea83",
       "title": "Human resources meeting held",
       "excerpt": "Chief Secretary Chan Kwok-ki today chaired the seventh meeting of the fourth-term Human Resources Planning Commission, with members acknowledging that…",
@@ -1719,39 +1698,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260916/20260916_100217_197.html"
-    },
-    {
-      "id": "e76aea36a9f34310",
-      "title": "Introducing “Corner Piece,” a new TED podcast that starts small on life’s biggest questions",
-      "excerpt": "The biggest questions in life rarely come with simple answers. Corner Piece , a brand-new TED podcast , starts smaller…",
-      "fullText": "The biggest questions in life rarely come with simple answers. Corner Piece , a brand-new TED podcast , starts smaller: with the ordinary questions that nag at you on the walk home, in the group chat or while staring at the ceiling at 2am.\n\nWhat does it mean to be a good friend? \n\nDoes unconditional love actually exist? \n\nWhy do I feel lonely?\n\nThe new show will be hosted by Taha Khan, Melissa Fernandes and Sabrina Cruz, the trio behind Answer in Progress , the award-winning educational YouTube channel with more than a million subscribers. They follow seemingly unassuming questions down unexpected paths — helping their subscribers learn something new about themselves and the world around them. In close collaboration with TED, Taha, Melissa and Sabrina have approached Corner Piece with deep curiosity, truth-seeking humility and a healthy dose of optimism. \n\nThis show is made for curious listeners who want to explore real, emotional and thought-provoking questions about life with a little more optimism and a lot more warmth. Season one of Corner Piece features historian Fay Bound Alberti on if there really is a loneliness epidemic; psychologist Marisa G. Franco and journalist Anna Goldfarb on the nuance of friendship; and psychologists Margaret Rutherford and Paul Bloom on whether love can truly be unconditional. Each episode asks the same question: is this modern life, or just part of being human? \n\nThis podcast was made possible through the support of Grant 63685 from the John Templeton Foundation .\n\nCorner Piece launches Thursday, September 10, with new episodes every other Thursday. Listen on Apple , Spotify or wherever you get your podcasts .",
-      "imageUrl": "https://blog.ted.com/wp-content/uploads/sites/2/2026/09/Apple-Audio-Video-Ads_1920x1080_v1.png",
-      "publishedAt": "2026-09-03T21:00:32.000Z",
-      "source": "TED Blog",
-      "sourceFeed": "ted-blog",
-      "link": "https://blog.ted.com/introducing-corner-piece-a-new-ted-podcast-that-starts-small-on-lifes-biggest-questions/"
-    },
-    {
-      "id": "5b3fa9ef383cd6d0",
-      "title": "Join us at TED2027 in San Diego, March 1-4",
-      "excerpt": "If you feel like the world is moving at an exponentially faster pace, you’re not alone. That’s why we’ve given…",
-      "fullText": "If you feel like the world is moving at an exponentially faster pace, you’re not alone. That’s why we’ve given TED2027 a pretty stark theme: Our terrifying, exhilarating future . This is a moment that demands we look at what’s coming with clear eyes and full hearts. So we’ll gather with those living at the edge of what’s next: the technologists rewriting the rules of what it means to be human, the scientists unlocking biology’s most closely guarded secrets, the builders and visionaries making sense of a world being remade in real time.\n\nAfter more than a decade in Vancouver, TED is coming back to California on March 1-4, 2027. \n\nEach day will bring thought-provoking talks and opportunities to connect more deeply through workshops, excursions and interactive experiences.\n\nJoin us for a TED like no other, in a new city with its own vibrant energy, as we discover what’s next and begin a whole new chapter.\n\nLearn more and apply to attend →",
-      "imageUrl": "https://blog.ted.com/wp-content/uploads/sites/2/2026/07/TED2027-Visual-header.png",
-      "publishedAt": "2026-07-29T15:25:30.000Z",
-      "source": "TED Blog",
-      "sourceFeed": "ted-blog",
-      "link": "https://blog.ted.com/join-us-at-ted2027-in-san-diego-march-1-4/"
-    },
-    {
-      "id": "2af1ebb586222286",
-      "title": "Notes from TED Democracy Philadelphia: Why democracy is worth fighting for",
-      "excerpt": "On June 13, 2026, more than 1,500 people gathered in Philadelphia to celebrate the 250th birthday of the United States…",
-      "fullText": "TED Democracy Philadelphia: Founding Futures on June 13, 2026, at The Kimmel Center in Philadelphia, PA. (Photo: Gilberto Tadday / TED)\n\nOn June 13, 2026, more than 1,500 people gathered in Philadelphia to celebrate the 250th birthday of the United States at TED Democracy Philadelphia: Founding Futures . Democracy may have weathered some hard years recently — with rising partisan tension, fraying institutional trust and declining civic participation, as Pew Research Center president Michael Dimock noted in his TED Talk from the event — but on that day, people had a reason to believe in this aspirational system of government.\n\nAttendees at TED Democracy Philadelphia: Founding Futures on June 13, 2026, at The Kimmel Center in Philadelphia, PA. (Photo: Gilberto Tadday / TED)\n\nA day of democratic connection\n\nAttendees filled the Kimmel Center for the Performing Arts for a full day examining the past, present and future of modern democracy in the city where it started. As a first-time TED attendee and political aficionado, I came in excited but skeptical. Would I leave more optimistic about democracy than when I arrived? But as soon as the doors opened that morning, the room was full of passionate people striking up conversations that felt urgent and necessary. After years of experiencing political dysfunction and partisan bickering, this immediately made me optimistic for the day ahead, before a single talk had even begun. \n\nOutside of the budding conversations, there was plenty to explore: local food vendors, interactive art installations, live performances and interviews on the Pew Spotlight Stage.\n\nTED’s Kelly Stoetzel hosts TED Democracy Philadelphia: Founding Futures on June 13, 2026, at The Kimmel Center in Philadelphia, PA. (Photo: Gilberto Tadday / TED)\n\nThen the talks began. The room was curious, willing to ask the critical questions and probe the answers. This event felt different. The atmosphere was curious, lively and welcoming. This wasn’t a gathering of the converted or complacent — it was a big tent that made you want to pull up a seat at the table and help shape what comes next.\n\nThe talks ranged from the role of technology and AI in civic life to how media literacy shapes democracy and ways to redesign the systems that choose our leaders. They challenged my assumptions. They offered new frameworks. They even sent me back in time to my county clerk’s office, where I voted for the first time. I remember my nerves buzzing with anticipation as I stood in that voting booth, carefully filling in each bubble to make sure my voice was heard from local races to the national stage. \n\nThe speakers also reminded me that democracy doesn’t only happen in voting booths and government buildings — it happens among friends and families, in schools, in the small daily acts of showing up, supporting local businesses, going to PTA meetings or helping your neighbors. I felt pride in how we all engaged meaningfully with democracy, willing to challenge its faults and praise its successes. \n\nShamichael Hallman speaks at TED Democracy Philadelphia: Founding Futures on June 13, 2026, at The Kimmel Center in Philadelphia, PA. (Photo: Gilberto Tadday / TED)\n\nThere were plenty of disagreements about how to approach the current issues plaguing democracy worldwide. But that’s not a flaw in the process — it’s the process working. Democracy doesn’t ask us to agree; it asks us to stay in the room, listening, questioning and working through the hard problems, even when we don’t see eye to eye.\n\nAfter a day spent learning from each other, I thought I’d feel exhausted. Instead, I felt inspired. The day closed with a two-hour celebration featuring live music and dancing. There I was, standing in a room full of people who still wanted more of democracy and felt more optimistic about its future — not less.\n\nZinadelphia performs at TED Democracy Philadelphia: Founding Futures on June 13, 2026, at The Kimmel Center in Philadelphia, PA. (Photo: Gilberto Tadday / TED)\n\nThe future, reimagined\n\nCynicism about our current state of democracy won’t vanish overnight. But to quote my favorite line from one of the most famous fictional presidents, Josiah Bartlet of The West Wing , “Decisions are made by those who show up.” That is exactly what the Founding Futures event showed me, the importance of showing up. \n\n250 years ago, a group of imperfect people sat down in this city and bet on a system that nobody could guarantee would work. We will never know exactly what that day looked like (as much as I’d like to believe my favorite musical, “Hamilton,” is 100% accurate), but today at Founding Futures, we embodied the Founding Fathers’ same spirit: reimagining what the future of democracy can and should be. \n\nWe don’t have all the answers, but now we have a few more ideas, and a new community of people willing to act on them. And for now, that feels like a reason to celebrate. \n\nHappy 250th, Democracy! \n\nMina Sabet and Laura Beyer speak at the Pew Spotlight Stage. TED Democracy Philadelphia. June 13, 2026, The Kimmel Center, Philadelphia. PA. Photo: Gilberto Tadday / TED.\n\nIdeas that travel beyond Philadelphia\n\nThe conversation about the future of modern Democracy started in Philadelphia, but it doesn’t end there. These ideas were designed to travel beyond a single day at the Kimmel Center.  \n\nWant to hear what democracy sounds like from those who were in the room? TED’s new original series, Idea Knock Down , pairs up two speakers from TED Democracy Philadelphia: Founding Futures to take on big questions about democracy. You can watch it all here.",
-      "imageUrl": "https://blog.ted.com/wp-content/uploads/sites/2/2026/07/TEDDemocracy_20260613_1GT0091-full.jpg",
-      "publishedAt": "2026-07-16T16:00:13.000Z",
-      "source": "TED Blog",
-      "sourceFeed": "ted-blog",
-      "link": "https://blog.ted.com/notes-from-ted-democracy-philadelphia-why-democracy-is-worth-fighting-for/"
     }
   ]
 }

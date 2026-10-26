@@ -70,7 +70,7 @@ Save adds the word to Word Bank. If that lemma is already saved, the card says *
 
 Approved English feeds live in [`public/data/feeds.json`](public/data/feeds.json). That catalog is the source of truth. Each entry has `id`, `name`, `url`, `category` (`rthk`, `hk`, or `international`), and `enabled`.
 
-To change what gets ingested, edit the catalog and merge it to `main`. The fetch Action reads enabled feeds on its next run. The locked set is five RTHK English wires, news.gov.hk Top Story, news.gov.hk At School, At Work, Radio Free Asia English, MIT Technology Review, and TED Blog. Unstable sources stay out of the catalog.
+To change what gets ingested, edit the catalog and merge it to `main`. The fetch Action reads enabled feeds on its next run. The locked set is five RTHK English wires, news.gov.hk Top Story, news.gov.hk At School, At Work, Radio Free Asia English, and MIT Technology Review. Unstable sources stay out of the catalog.
 
 | id | name | category | url |
 | --- | --- | --- | --- |
@@ -83,7 +83,6 @@ To change what gets ingested, edit the catalog and merge it to `main`. The fetch
 | news-gov-hk-school-work | news.gov.hk — At School, At Work | hk | https://www.news.gov.hk/en/categories/school_work/html/articlelist.rss.xml |
 | rfa-english | Radio Free Asia English | international | https://www.rfa.org/english/rss |
 | mit-technology-review | MIT Technology Review | international | https://www.technologyreview.com/feed |
-| ted-blog | TED Blog | international | https://blog.ted.com/feed/ |
 
 ### Snapshot
 
