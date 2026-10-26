@@ -82,8 +82,8 @@ test("a quiet check and a story change use different desk lines", () => {
     checkedAt: "2026-10-26T03:48:42.114Z",
   }, now);
   assert.equal(health.overdue, false);
-  assert.equal(health.text, "Feeds last checked: 26 Oct 2026, 11:48 am (HKT).");
-  assert.equal(formatNewsChanged("2026-10-26T03:20:16.000Z"), "News last changed: 26 Oct 2026, 11:20 am (HKT).");
+  assert.equal(health.text, "Feeds checked 26 Oct 2026, 11:48 am (HKT).");
+  assert.equal(formatNewsChanged("2026-10-26T03:20:16.000Z"), "News changed 26 Oct 2026, 11:20 am (HKT).");
   assert.equal(formatNewsChanged(null), "");
 });
 
@@ -95,7 +95,7 @@ test("a check older than 45 minutes is overdue, and a missing stamp says so", ()
   assert.equal(isFeedCheckOverdue(checkedAt, atLimit + 1), true);
   const overdue = describeFeedCheck({ checkedAt, generatedAt: "2026-10-26T01:00:00.000Z" }, atLimit + 1);
   assert.equal(overdue.overdue, true);
-  assert.match(overdue.text, /^Feeds last checked: /);
+  assert.match(overdue.text, /^Feeds checked /);
   assert.match(overdue.text, /This check is overdue\.$/);
 
   const freshFile = describeFeedCheck({
@@ -104,17 +104,17 @@ test("a check older than 45 minutes is overdue, and a missing stamp says so", ()
   }, Date.parse("2026-10-26T03:30:00.000Z"));
   assert.equal(freshFile.overdue, false);
   assert.equal(freshFile.stamp, "2026-10-26T03:20:16.000Z");
-  assert.equal(freshFile.text, "Feeds last checked: 26 Oct 2026, 11:20 am (HKT).");
+  assert.equal(freshFile.text, "Feeds checked 26 Oct 2026, 11:20 am (HKT).");
 
   const staleFile = describeFeedCheck({
     generatedAt: checkedAt,
     checkedAt: null,
   }, atLimit + 1);
   assert.equal(staleFile.overdue, true);
-  assert.equal(staleFile.text, "Feeds last checked: 26 Oct 2026, 11:00 am (HKT). This check is overdue.");
+  assert.equal(staleFile.text, "Feeds checked 26 Oct 2026, 11:00 am (HKT). This check is overdue.");
   const missing = describeFeedCheck({ generatedAt: null, checkedAt: null });
   assert.equal(missing.overdue, true);
-  assert.equal(missing.text, "Feeds last checked: not recorded yet. This check is overdue.");
+  assert.equal(missing.text, "Feeds checked not recorded yet. This check is overdue.");
 });
 
 test("a failed source is named for the current selection only", () => {

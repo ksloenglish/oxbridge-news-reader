@@ -314,14 +314,14 @@ function renderFreshness() {
   const changedWhen = formatSnapshotUpdated(bundle.generatedAt);
   const failed = formatFeedCheckFailure(statusForSelection(catalog, bundle, ui.selection));
   const checked = health.when
-    ? `<span class="${health.overdue ? "is-overdue" : ""}">Feeds last checked: <time datetime="${esc(health.stamp)}">${esc(health.when)}</time> (HKT).${health.overdue ? " This check is overdue." : ""}</span>`
+    ? `<span class="${health.overdue ? "is-overdue" : ""}">Feeds checked <time datetime="${esc(health.stamp)}">${esc(health.when)}</time> (HKT).${health.overdue ? " This check is overdue." : ""}</span>`
     : `<span class="is-overdue">${esc(health.text)}</span>`;
   const changed = changedWhen
-    ? `<span>News last changed: <time datetime="${esc(bundle.generatedAt)}">${esc(changedWhen)}</time> (HKT).</span>`
+    ? `<span>News changed <time datetime="${esc(bundle.generatedAt)}">${esc(changedWhen)}</time> (HKT).</span>`
     : "";
   const failure = failed ? `<span class="is-failed">${esc(failed)}</span>` : "";
   const state = health.overdue ? "overdue" : failed ? "failed" : "current";
-  return `<p class="freshness" data-feed-check="${state}"><span>Stories update automatically at different times of the day.</span>${checked}${changed}${failure}</p>`;
+  return `<p class="freshness" data-feed-check="${state}"><span>Auto-updates through the day.</span>${checked}${changed}${failure}</p>`;
 }
 
 function storyMeta(article) {
