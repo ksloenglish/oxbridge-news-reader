@@ -122,7 +122,7 @@ node scripts/fetch-feeds.mjs
 
 ### GitHub Action
 
-[`.github/workflows/fetch-feeds.yml`](.github/workflows/fetch-feeds.yml) runs at minutes 12, 27, 42, and 57 UTC (`12 * * * *`, `27 * * * *`, `42 * * * *`, and `57 * * * *`) and from a manual `workflow_dispatch`. The start of the hour is when GitHub delays or drops scheduled runs, so none of the crons uses minute 0. The extra slots cover a missed run. GitHub may still start a run late. Changing those cron expressions re-arms the schedule when its associated actor has stopped firing.
+[`.github/workflows/fetch-feeds.yml`](.github/workflows/fetch-feeds.yml) runs at minutes 8, 23, 38, and 53 UTC (`8 * * * *`, `23 * * * *`, `38 * * * *`, and `53 * * * *`) and from a manual `workflow_dispatch`. The start of the hour is when GitHub delays or drops scheduled runs, so none of the crons uses minute 0. The extra slots cover a missed run. GitHub may still start a run late. The 12/27/42/57 set from #28 did not restore schedule events; changing the expressions again re-arms the schedule when its associated actor has stopped firing.
 
 The run installs the pinned ingest dependencies and fetches. When the article list or feed status changed, it builds the site and deploys GitHub Pages in that same run, using `GITHUB_TOKEN` with `contents: write`, `pages: write`, and `id-token: write`. It commits `public/data/articles.json` only after that deploy succeeds, so a failed publish is retried on the next run. An unchanged snapshot skips the Pages build and the commit. That fetch does not take the Pages concurrency lock.
 
