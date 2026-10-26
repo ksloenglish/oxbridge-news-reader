@@ -68,13 +68,6 @@
       "url": "https://www.technologyreview.com/feed",
       "category": "international",
       "enabled": true
-    },
-    {
-      "id": "ted-blog",
-      "name": "TED Blog",
-      "url": "https://blog.ted.com/feed/",
-      "category": "international",
-      "enabled": true
     }
   ]
 }
