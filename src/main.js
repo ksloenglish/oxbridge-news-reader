@@ -2,6 +2,7 @@ import {
   DEFAULT_SELECTION,
   articlesForSelection,
   categoryLabel,
+  formatPublishedAt,
   formatSnapshotUpdated,
   readCatalog,
   readSnapshot,
@@ -67,15 +68,10 @@ function safeUrl(url) {
   return "";
 }
 
-function formatWhen(value) {
-  if (!value) return "";
-  const date = new Date(value);
-  if (Number.isNaN(date.getTime())) return value;
-  return new Intl.DateTimeFormat("en-GB", {
-    day: "numeric",
-    month: "short",
-    year: "numeric",
-  }).format(date);
+function publishedMarkup(article) {
+  const label = formatPublishedAt(article?.publishedAt);
+  if (!label) return "";
+  return `<time datetime="${esc(article.publishedAt)}">${esc(label)}</time>`;
 }
 
 async function loadData(name) {
@@ -245,11 +241,12 @@ function renderNews() {
   const list = articles.length
     ? articles
         .map((article) => {
+          const published = publishedMarkup(article);
           return `<button type="button" class="story" data-article="${esc(article.id)}" aria-current="${article.id === current?.id ? "true" : "false"}">
             <span class="kicker">${esc(article.source || "")}</span>
             <strong>${esc(article.title)}</strong>
             <span class="excerpt">${esc(article.excerpt)}</span>
-            <span class="meta">${esc(formatWhen(article.publishedAt))}</span>
+            ${published ? `<span class="meta">${published}</span>` : ""}
           </button>`;
         })
         .join("")
@@ -260,7 +257,7 @@ function renderNews() {
         <button type="button" class="back back-stories" data-close-article>All stories</button>
         <p class="kicker">${esc(current.source || selectionLabel(catalog, ui.selection))}</p>
         <h2>${renderAnnotated(current.title)}</h2>
-        <p class="meta">${esc(formatWhen(current.publishedAt))}${current.link ? ` · <a class="original" href="${esc(safeUrl(current.link))}" target="_blank" rel="noopener noreferrer">Original article</a>` : ""}</p>
+        ${storyMeta(current)}
         ${current.imageUrl && safeUrl(current.imageUrl) ? `<img class="hero" alt="" src="${esc(safeUrl(current.imageUrl))}" />` : ""}
         <div class="body">${paragraphs(current.fullText)}</div>
         ${highlightSummary(current)}
@@ -290,7 +287,18 @@ function renderFreshness() {
   const updated = when
     ? `<span>Last updated: <time datetime="${esc(bundle.generatedAt)}">${esc(when)}</time> (Hong Kong time).</span>`
     : "";
-  return `<p class="freshness"><span>Stories update about once an hour.</span>${updated}</p>`;
+  return `<p class="freshness"><span>Stories update automatically at different times of the day.</span>${updated}</p>`;
+}
+
+function storyMeta(article) {
+  const published = publishedMarkup(article);
+  const href = article?.link ? safeUrl(article.link) : "";
+  const original = href
+    ? `<a class="original" href="${esc(href)}" target="_blank" rel="noopener noreferrer">Original article</a>`
+    : "";
+  const bits = [published, original].filter(Boolean);
+  if (!bits.length) return "";
+  return `<p class="meta">${bits.join(" · ")}</p>`;
 }
 
 function renderAbout() {
