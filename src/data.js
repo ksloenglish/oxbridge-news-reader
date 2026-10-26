@@ -20,6 +20,7 @@ export function readCatalog(raw) {
 export function readSnapshot(raw) {
   return {
     generatedAt: raw?.generatedAt || null,
+    checkedAt: raw?.checkedAt || null,
     feeds: Array.isArray(raw?.feeds) ? raw.feeds : [],
     articles: Array.isArray(raw?.articles) ? raw.articles : [],
   };
@@ -73,7 +74,57 @@ export function statusForSelection(catalog, snapshot, selection) {
   return (snapshot?.feeds || []).filter((feed) => allowed.has(feed.id));
 }
 
-/** Hong Kong clock time for the snapshot `generatedAt` stamp. Empty when missing or unreadable. */
+/** Successful feed checks are expected about every 15 minutes. */
+export const FEED_CHECK_INTERVAL_MS = 15 * 60 * 1000;
+
+/**
+ * The desk calls a check overdue after this long without a successful read.
+ * Three expected intervals, so one late publish does not flash a warning.
+ */
+export const FEED_CHECK_OVERDUE_MS = 3 * FEED_CHECK_INTERVAL_MS;
+
+/** True when `value` is missing, unreadable, or older than the overdue window. */
+export function isFeedCheckOverdue(value, now = Date.now(), overdueMs = FEED_CHECK_OVERDUE_MS) {
+  const checkedMs = Date.parse(value ?? "");
+  if (!Number.isFinite(checkedMs)) return true;
+  return now - checkedMs > overdueMs;
+}
+
+/**
+ * School-reader status for the last successful feed read.
+ * `checkedAt` is that read. An older snapshot with only `generatedAt`
+ * shows that stamp as the last check until a fetch records `checkedAt`.
+ */
+export function describeFeedCheck(snapshot, now = Date.now()) {
+  const checkedAt = snapshot?.checkedAt || null;
+  const generatedAt = snapshot?.generatedAt || null;
+  const stamp = checkedAt || generatedAt || null;
+  const when = formatSnapshotUpdated(stamp);
+  const overdue = when ? isFeedCheckOverdue(stamp, now) : true;
+  const text = when
+    ? `Feeds last checked: ${when} (HKT).${overdue ? " This check is overdue." : ""}`
+    : "Feeds last checked: not recorded yet. This check is overdue.";
+  return { checkedAt, stamp, generatedAt, when, overdue, text };
+}
+
+/** When the story list last changed. Empty when the stamp is missing. */
+export function formatNewsChanged(generatedAt) {
+  const when = formatSnapshotUpdated(generatedAt);
+  if (!when) return "";
+  return `News last changed: ${when} (HKT).`;
+}
+
+/** Name sources from the current selection that failed on the last check. */
+export function formatFeedCheckFailure(feeds) {
+  const failed = (feeds || []).filter((feed) => feed && feed.ok === false);
+  if (!failed.length) return "";
+  const names = failed.map((feed) => feed.name || feed.id).filter(Boolean);
+  if (names.length === 1) return `Could not read ${names[0]} on the last check.`;
+  if (!names.length) return "Some sources could not be read on the last check.";
+  return `Could not read these sources on the last check: ${names.join(", ")}.`;
+}
+
+/** Hong Kong clock time for a snapshot stamp. Empty when missing or unreadable. */
 export function formatSnapshotUpdated(value) {
   if (!value) return "";
   const date = new Date(value);

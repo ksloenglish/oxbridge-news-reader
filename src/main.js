@@ -1,7 +1,10 @@
+import { applyPublishedSnapshot, AUTO_REFRESH_MS, quietRefreshAction } from "./auto-refresh.js";
 import {
   DEFAULT_SELECTION,
   articlesForSelection,
   categoryLabel,
+  describeFeedCheck,
+  formatFeedCheckFailure,
   formatPublishedAt,
   formatSnapshotUpdated,
   readCatalog,
@@ -30,7 +33,7 @@ const app = document.querySelector("#app");
 const ui = loadUi();
 let words = loadWords();
 let catalog = { feeds: [], policy: "", caps: null };
-let bundle = { articles: [], feeds: [], generatedAt: null };
+let bundle = { articles: [], feeds: [], generatedAt: null, checkedAt: null };
 let lex = null;
 let loadError = "";
 let openHit = null; // { hit, source }
@@ -41,6 +44,8 @@ let confirmRemoveId = null;
 const listCopyText = new Map();
 let refreshing = false;
 let refreshNote = "";
+let lastQuietCheckAt = Number.NaN;
+let quietTimer = 0;
 // Matches the .refresh-ack animation length in styles.css.
 const REFRESH_ACK_MS = 3200;
 let refreshAckUntil = 0;
@@ -305,11 +310,18 @@ function refreshAckMarkup() {
 }
 
 function renderFreshness() {
-  const when = formatSnapshotUpdated(bundle.generatedAt);
-  const updated = when
-    ? `<span>Last updated: <time datetime="${esc(bundle.generatedAt)}">${esc(when)}</time> (HKT).</span>`
+  const health = describeFeedCheck(bundle);
+  const changedWhen = formatSnapshotUpdated(bundle.generatedAt);
+  const failed = formatFeedCheckFailure(statusForSelection(catalog, bundle, ui.selection));
+  const checked = health.when
+    ? `<span class="${health.overdue ? "is-overdue" : ""}">Feeds last checked: <time datetime="${esc(health.stamp)}">${esc(health.when)}</time> (HKT).${health.overdue ? " This check is overdue." : ""}</span>`
+    : `<span class="is-overdue">${esc(health.text)}</span>`;
+  const changed = changedWhen
+    ? `<span>News last changed: <time datetime="${esc(bundle.generatedAt)}">${esc(changedWhen)}</time> (HKT).</span>`
     : "";
-  return `<p class="freshness"><span>Stories update automatically at different times of the day.</span>${updated}</p>`;
+  const failure = failed ? `<span class="is-failed">${esc(failed)}</span>` : "";
+  const state = health.overdue ? "overdue" : failed ? "failed" : "current";
+  return `<p class="freshness" data-feed-check="${state}"><span>Stories update automatically at different times of the day.</span>${checked}${changed}${failure}</p>`;
 }
 
 function storyMeta(article) {
@@ -1091,6 +1103,49 @@ function clearRefreshAck() {
     clearTimeout(refreshAckTimer);
     refreshAckTimer = 0;
   }
+  app.querySelector("[data-refresh-ack]")?.remove();
+}
+
+function setRefreshBusy(busy, { quiet = false } = {}) {
+  const button = app.querySelector("[data-refresh]");
+  if (!button) return;
+  button.disabled = busy;
+  if (busy) button.setAttribute("aria-busy", "true");
+  else button.removeAttribute("aria-busy");
+  if (!quiet) button.textContent = busy ? "Checking…" : "Check for updates";
+}
+
+function scheduleQuietRefresh() {
+  if (quietTimer) clearTimeout(quietTimer);
+  quietTimer = window.setTimeout(() => {
+    quietTimer = 0;
+    const action = quietRefreshAction({
+      now: Date.now(),
+      lastCheckAt: lastQuietCheckAt,
+      refreshing,
+      hidden: document.visibilityState === "hidden",
+      becameVisible: false,
+    });
+    if (action === "refresh") refreshArticles({ automatic: true });
+    else if (!refreshing) scheduleQuietRefresh();
+  }, AUTO_REFRESH_MS);
+}
+
+function onVisibilityForRefresh() {
+  if (document.visibilityState !== "visible") return;
+  const action = quietRefreshAction({
+    now: Date.now(),
+    lastCheckAt: lastQuietCheckAt,
+    refreshing,
+    hidden: false,
+    becameVisible: true,
+  });
+  if (action === "refresh") refreshArticles({ automatic: true });
+}
+
+function startQuietRefresh() {
+  lastQuietCheckAt = Date.now();
+  scheduleQuietRefresh();
 }
 
 function showRefreshAck() {
@@ -1117,26 +1172,35 @@ function syncRefreshAck() {
   }, remaining);
 }
 
-async function refreshArticles() {
+async function refreshArticles({ automatic = false } = {}) {
   if (refreshing) return;
   refreshing = true;
   refreshNote = "";
   clearRefreshAck();
-  render();
+  // Quiet checks disable the button in place. Rebuilding the desk here would
+  // drop the story column before the new snapshot arrives.
+  setRefreshBusy(true, { quiet: automatic });
   try {
-    bundle = await fetchSnapshot();
-    const articles = currentArticles();
-    if (ui.articleId && !articles.some((article) => article.id === ui.articleId)) {
-      ui.articleId = null;
-      openHit = null;
-    }
+    const snapshot = await fetchSnapshot();
+    const articles = articlesForSelection(catalog, snapshot, ui.selection);
+    const kept = applyPublishedSnapshot(
+      { selection: ui.selection, articleId: ui.articleId, openHit, words },
+      articles,
+    );
+    bundle = snapshot;
+    ui.selection = kept.selection;
+    ui.articleId = kept.articleId;
+    openHit = kept.openHit;
+    words = kept.words;
     showRefreshAck();
   } catch {
     clearRefreshAck();
     refreshNote = "Could not check for new stories. Please try again.";
   } finally {
     refreshing = false;
-    render();
+    lastQuietCheckAt = Date.now();
+    scheduleQuietRefresh();
+    holdScroll(() => render());
   }
 }
 
@@ -1157,6 +1221,7 @@ function downloadCsv() {
 
 window.speechSynthesis?.addEventListener?.("voiceschanged", () => {});
 watchVisualViewport();
+document.addEventListener("visibilitychange", onVisibilityForRefresh);
 
 Promise.all([
   loadData("feeds.json"),
@@ -1177,6 +1242,7 @@ Promise.all([
     openHit = null;
     saveUi(ui);
     render();
+    startQuietRefresh();
   })
   .catch((error) => {
     loadError = `The reader could not load its data (${error.message}).`;

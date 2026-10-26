@@ -6,7 +6,9 @@
  * feed, then 150 newest articles after de-duplicating by link.
  * Card excerpts are about 20 words. fullText is the cleaned article body.
  * A failed feed is logged and skipped. If every enabled feed fails and a
- * snapshot already exists, that file is left unchanged.
+ * snapshot already exists, that file is left unchanged, including checkedAt.
+ * A successful check records checkedAt even when the stories are unchanged.
+ * generatedAt stays at the last time the stories changed.
  */
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
@@ -187,8 +189,10 @@ export async function ingest(options = {}) {
     { perFeed: catalog.perFeed, total: catalog.total },
   );
   const feeds = summarizeFeeds(catalog.feeds, new Map(results.map((result) => [result.feed.id, result])), articles);
+  const checkedAt = now.toISOString();
   const next = {
-    generatedAt: now.toISOString(),
+    generatedAt: checkedAt,
+    checkedAt,
     feeds,
     articles,
   };
@@ -212,13 +216,18 @@ export async function ingest(options = {}) {
 
   await mkdir(path.dirname(outputPath), { recursive: true });
   await writeFile(outputPath, `${JSON.stringify(decision.snapshot, null, 2)}\n`, "utf8");
-  log(`Wrote ${articles.length} articles (per feed ${catalog.perFeed}, total ${catalog.total}, excerpt ${EXCERPT_WORDS} words) to ${path.relative(ROOT, outputPath)}`);
+  const relativePath = path.relative(ROOT, outputPath);
+  if (decision.reason === "checked") {
+    log(`Feeds checked; stories unchanged. Recorded checkedAt in ${relativePath}.`);
+  } else {
+    log(`Wrote ${decision.snapshot.articles.length} articles (per feed ${catalog.perFeed}, total ${catalog.total}, excerpt ${EXCERPT_WORDS} words) to ${relativePath}`);
+  }
   return {
     wrote: true,
     reason: decision.reason,
     outputPath,
-    articleCount: articles.length,
-    feeds,
+    articleCount: decision.snapshot.articles.length,
+    feeds: decision.snapshot.feeds,
   };
 }
 
