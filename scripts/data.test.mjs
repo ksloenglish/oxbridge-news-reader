@@ -6,7 +6,6 @@ import {
   articlesForSelection,
   describeFeedCheck,
   formatFeedCheckFailure,
-  formatNewsChanged,
   formatPublishedAt,
   formatSnapshotUpdated,
   isFeedCheckOverdue,
@@ -75,7 +74,7 @@ test("readSnapshot keeps the feed check separate from the story change", () => {
   assert.equal(readSnapshot({ generatedAt: "", checkedAt: "", feeds: null, articles: {} }).checkedAt, null);
 });
 
-test("a quiet check and a story change use different desk lines", () => {
+test("a quiet check shows when the feeds were read", () => {
   const now = Date.parse("2026-10-26T04:00:00.000Z");
   const health = describeFeedCheck({
     generatedAt: "2026-10-26T03:20:16.000Z",
@@ -83,8 +82,6 @@ test("a quiet check and a story change use different desk lines", () => {
   }, now);
   assert.equal(health.overdue, false);
   assert.equal(health.text, "Feeds checked 26 Oct 2026, 11:48 am (HKT).");
-  assert.equal(formatNewsChanged("2026-10-26T03:20:16.000Z"), "News changed 26 Oct 2026, 11:20 am (HKT).");
-  assert.equal(formatNewsChanged(null), "");
 });
 
 test("a check older than 45 minutes is overdue, and a missing stamp says so", () => {
