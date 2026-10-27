@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T06:30:28.205Z",
-  "checkedAt": "2026-10-27T07:30:24.029Z",
+  "generatedAt": "2026-10-27T07:36:32.654Z",
+  "checkedAt": "2026-10-27T07:36:32.654Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 9
+      "articleCount": 10
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "3c0a47a3d604a290",
+      "title": "Water pipe burst in Shau Kei Wan affects 10k homes",
+      "excerpt": "The Water Supplies Department on Tuesday said more than 10,000 homes in Shau Kei Wan and its nearby areas saw…",
+      "fullText": "The Water Supplies Department on Tuesday said more than 10,000 homes in Shau Kei Wan and its nearby areas saw their fresh water supply suspended following a water pipe burst.\n\nThe burst occurred at around 10.30am at a construction site along Shau Kei Wan Road.\n\nSpeaking to reporters, Chief Engineer of Hong Kong and Islands Region Lin Tang-tai said the department aimed to resume water supply by midnight.\n\nHe said the pipe concerned, with a diametre of 18 inches, had been in use for more than three decades.\n\nBut the incident was not caused by aging, instead it was due to external forces, he said, with the crack measuring over one metre.\n\n“The scope of the impact involved in the incident covered Shau Kei Wan and parts of Sai Wan Ho. The number of households involved exceeds 10,000,\" he said.\n\n\"We will deploy more than 10 water trucks, 100 water tanks and tens of thousands of bottled water, as well as various supporting facilities, to provide temporary fresh water supplies for residents affected.”\n\nThe Highways Department, for its part, apologised for the inconvenience caused.\n\nChief Highway Engineer Alan Chan said contractors had already carried out an inspection ahead of the construction work, adding that his department would look into the cause of the incident and see if the contractors are liable.\n\nPolice said a care home resident in her 80s was hospitalised after she sustained injuries to her limbs due to the incident.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T07:14:33.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875501-20261027.htm"
+    },
     {
       "id": "e55134ecc7a1aa4d",
       "title": "Three nabbed in wounding case linked to illegal fuel",
@@ -794,8 +805,8 @@
       "fullText": "Investments made by the first six batches of firms brought to Hong Kong through the Office for Attracting Strategic Enterprises reached HK$28.3 billion as of the end of September, according to Financial Secretary Paul Chan.\n\nWriting in his weekly blog, Chan noted that, including the seventh batch of 18 firms recently welcomed, a total of 142 strategic enterprises have now established or expanded their operations in Hong Kong.\n\n“They are expected to generate around HK$84 billion in investment while creating roughly 27,000 jobs over the coming years,” he said.\n\n“More importantly, these investments are materialising on the ground. As of the end of September this year, actual investments by the first six batches reached HK$28.3 billion while employing over 10,300 people – exceeding the initial phased targets by 30 percent and 34 percent respectively.”\n\nCorporate confidence in Hong Kong is gradually being reflected in real economic outcomes, Chan said.\n\nHe added that among the first six batches of enterprises, around 70 percent have established global or regional headquarters in Hong Kong, while nearly 90 percent have set up R&D centres.\n\nChan said this brings not only capital and jobs, but also research and decision-making functions – both of which are crucial to maintaining Hong Kong’s long-term competitive edge.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-10-25T04:22:10.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875241-20261025.htm"
     },
     {
