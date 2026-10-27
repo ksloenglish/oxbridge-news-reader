@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T09:30:26.045Z",
-  "checkedAt": "2026-10-27T10:30:23.818Z",
+  "generatedAt": "2026-10-27T10:35:25.091Z",
+  "checkedAt": "2026-10-27T10:35:25.091Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 10
+      "articleCount": 11
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "48061f52e8dac045",
+      "title": "Hung Hom skybridge 'to serve as viewing platform'",
+      "excerpt": "The Development Bureau said on Tuesday a skybridge between two buildings to be constructed on Hung Hom waterfront would also…",
+      "fullText": "The Development Bureau said on Tuesday a skybridge between two buildings to be constructed on Hung Hom waterfront would also serve as a viewing platform and a venue for public activities.\n\nThe plan was revealed as the bureau revised its development proposal for sites around Hung Hom MTR station and the district's harbourfront areas following a public consultation.\n\nPermanent Secretary for Development Doris Ho told lawmakers the authorities plan to connect two mixed-use towers proposed to be constructed at the waterfront area.\n\nThe skybridge connecting the buildings would create an open space that could serve as a viewing platform, she said at a meeting of the Legislative Council’s development panel.\n\n“Our current plan is that the space will be open to the public. But whether it will operate on a commercial basis or be open for free is something we need to keep flexible and decide at the next stage,” Ho said.\n\n“Apart from allowing people to enjoy views of Victoria Harbour, we also have an idea that this space could be opened up for holding events.”\n\nAccording to a document submitted to the legislature, the entire development at Hung Hom is expected to provide more than 200,000 square metres of gross floor area – an increase by three percent compared with the previous plan.\n\nThis includes more than 60 percent of areas for residential use and over 30 percent for commercial purposes.\n\nHo said the bureau had adjusted the allocation of floor space by cutting the floor area for commercial use and increasing the residential areas amid lower demand for the former.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T10:27:09.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875519-20261027.htm"
+    },
     {
       "id": "d30265f9dc5f1385",
       "title": "HK stocks slip as mainland tech gains lose steam",
@@ -816,8 +827,8 @@
       "fullText": "Around one million workers are set to benefit from an upcoming arrangement that allows employees to transfer not only their own mandatory contributions, but also their employer’s, to an MPF scheme of their choice once every calendar year, the Mandatory Provident Fund Schemes Authority (MPFA) said on Sunday.\n\nPhase one of the MPF Full Portability scheme is set to begin on December 21.\n\nEmployees who joined the workforce or changed jobs on or after May 1, 2025 – the day the MPF offsetting arrangement was officially abolished – will be eligible for the first phase.\n\nWriting in a blog post, MPFA chairman Ayesha Lau said the scheme would improve people’s control over their MPF portfolios and encourage employees to manage their retirement reserves more proactively.\n\nShe expects the number of beneficiaries to continue to rise as more graduates enter the workforce and employees change jobs.\n\nAs for workers who started their current jobs before May 1, 2025, Lau noted that because their employer mandatory contributions may continue to be used to offset long service payments or severance payments for employment periods prior to that date, additional legislative amendments would be required to balance operational needs and enhanced employee control.\n\nTransfers for the 2026 calendar year can be made between December 21 and 31, while transfers for 2027 will open on January 1.\n\nLau pointed out that the new scheme would not change existing arrangements for employers, who would continue to make contributions via the MPF schemes they participate in.\n\nShe also reminded workers that the MPF is a long-term investment, advising them to avoid making frequent transfers or switching schemes simply for the sake of it.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-10-25T05:26:46.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875243-20261025.htm"
     },
     {
