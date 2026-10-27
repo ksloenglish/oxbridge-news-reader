@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T08:00:25.975Z",
-  "checkedAt": "2026-10-27T08:30:22.436Z",
+  "generatedAt": "2026-10-27T08:45:16.405Z",
+  "checkedAt": "2026-10-27T08:45:16.405Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 17
     },
     {
       "id": "rthk-finance",
@@ -95,10 +95,21 @@
   ],
   "articles": [
     {
+      "id": "6a07feeac7665967",
+      "title": "Foreign Ministry chides Mbappe over Mao comments",
+      "excerpt": "The Foreign Ministry in Beijing on Tuesday said that hurting the feelings of the country's people would meet \"unanimous rejection\"…",
+      "fullText": "The Foreign Ministry in Beijing on Tuesday said that hurting the feelings of the country's people would meet \"unanimous rejection\" after football star Kylian Mbappe's comments about former leader Mao Zedong.\n\nThe French footballer's recent comments, in which he appeared to mock the founding leader of the People's Republic of China, resulted in two major Chinese brands dropping their sponsorship deals with the player.\n\n\"We have seen the relevant reports. Words and actions that hurt the feelings of the Chinese people will naturally be met with unanimous rejection from all sectors of Chinese society,\" Foreign Ministry spokesman Guo Jiakun told a regular briefing.\n\n\"Our company firmly opposes and has a zero-tolerance policy towards any behaviour that offends national sentiments,\" drinks giant Dongpeng said in a statement, adding that \"with immediate effect we are terminating all cooperation with Kylian Mbappe\".\n\nMengniu, China's largest dairy producer, also cut ties with the Real Madrid forward. (AFP)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T08:39:22.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875512-20261027.htm"
+    },
+    {
       "id": "3c0a47a3d604a290",
       "title": "Water pipe burst in Shau Kei Wan affects 10k homes",
       "excerpt": "The Water Supplies Department on Tuesday said more than 10,000 homes in Shau Kei Wan and its nearby areas saw…",
-      "fullText": "The Water Supplies Department on Tuesday said more than 10,000 homes in Shau Kei Wan and its nearby areas saw their fresh water supply suspended following a water pipe burst.\n\nThe burst occurred at around 10.30am at a construction site along Shau Kei Wan Road.\n\nSpeaking to reporters, Chief Engineer of Hong Kong and Islands Region Lin Tang-tai said the department aimed to resume water supply by midnight.\n\nHe said the pipe concerned, with a diametre of 18 inches, had been in use for more than three decades.\n\nBut the incident was not caused by ageing, instead it was due to external forces, he said, with the crack measuring over one metre.\n\n“The scope of the impact involved in the incident covered Shau Kei Wan and parts of Sai Wan Ho. The number of households involved exceeds 10,000,\" he said.\n\n\"We will deploy more than 10 water trucks, 100 water tanks and tens of thousands of bottled water, as well as various supporting facilities, to provide temporary fresh water supplies for residents affected.”\n\nThe Highways Department, for its part, apologised for the inconvenience caused.\n\nChief Highway Engineer Alan Chan said contractors had already carried out an inspection ahead of the construction work, adding that his department would look into the cause of the incident and see if the contractors are liable.\n\nPolice said a care home resident in her 80s was hospitalised after she sustained injuries to her limbs due to the incident.\n\nEdited by Tony Sabine",
+      "fullText": "The Water Supplies Department on Tuesday said more than 10,000 homes in Shau Kei Wan and its nearby areas saw their fresh water supply suspended following a water pipe burst.\n\nThe burst occurred at around 10.30am at a construction site along Shau Kei Wan Road.\n\nSpeaking to reporters, Chief Engineer of Hong Kong and Islands Region Lin Tang-tai said the department aimed to resume water supply by midnight.\n\nHe said the pipe concerned, with a diametre of 18 inches, had been in use for more than three decades.\n\nBut the incident was not caused by ageing, instead it was due to external forces, he said, with the crack measuring over one metre.\n\n“The scope of the impact involved in the incident covered Shau Kei Wan and parts of Sai Wan Ho. The number of households involved exceeds 10,000,\" he said.\n\n\"We will deploy more than 10 water trucks, 100 water tanks and tens of thousands of bottled water, as well as various supporting facilities, to provide temporary fresh water supplies for residents affected.”\n\nThe Highways Department, for its part, apologised for the inconvenience caused.\n\nChief Highway Engineer Alan Chan said contractors had already carried out an inspection ahead of the construction work, adding that his department would look into the cause of the incident and see if the contractors are liable.\n\nPolice said a care home resident in her 80s was hospitalised after she sustained injuries to her limbs due to the incident.\n\nA member of staff told RTHK that the victim yelled for help when one of the care home’s windows cracked due to the burst pipe, shooting sand and water into one of the rooms.\n\nMeanwhile, Eastern District care teams were seen assisting the public at one of the water collection points where at least dozens of people were in the queue.\n\nA resident surnamed Law told RTHK she planned to come down twice to take sufficient water for cooking first.\n\n“Of course I am upset there is no water supply. Water is very crucial, right? Being unable to bathe after work is very uncomfortable,\" she said.\n\nAnother resident said he was not too optimistic that fresh water supply could resume by midnight, adding his family might go out for dinner instead of cooking at home.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-10-27T07:14:33.000Z",
       "source": "RTHK English — Local",
@@ -665,17 +676,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875296-20261026.htm"
-    },
-    {
-      "id": "a31188de1431b707",
-      "title": "'US fully resumes missile warnings for Ukraine'",
-      "excerpt": "Ukrainian President Volodymyr Zelensky said US warnings about imminent Russian ballistic missile strikes, critical to Ukraine's air defences, had been…",
-      "fullText": "Ukrainian President Volodymyr Zelensky said US warnings about imminent Russian ballistic missile strikes, critical to Ukraine's air defences, had been fully restored after recent issues.\n\nSpeaking to Ukraine's TSN television channel, he said SpaceX's Starshield satellite internet had been working at speeds of up to 420 kilometres per hour since early on Saturday morning, after it had been throttled earlier in October amid diplomatic pressure on Kyiv from Washington.\n\nZelensky said he discussed both issues in a meeting with US special envoy Steve Witkoff in Oslo, casting the changes as results of that meeting.\n\nThe US has pressed Ukraine to suspend strikes on Russian oil refineries, which it argues added to high energy prices, a sensitive issue for the Trump administration amid its war on Iran and US midterm elections next month.\n\nZelensky said that in order for Kyiv to halt the strikes, Moscow must stop hitting Ukraine's power infrastructure, or the US should allow the use of Starshield over Russia to detect launch places of its ballistic missiles, or supply Ukraine with Patriot missiles.\n\nSpeaking about the upcoming technical talks between Kyiv, Moscow and Washington in November, Zelensky said Ukraine would not discuss limits to its armed forces, or enforced post-war neutrality. Kyiv has long sought entry into Nato despite the reticence of some members.\n\nZelensky also renewed his push for a trilateral US-brokered meeting between him and Vladimir Putin.\n\nThe Ukrainian leader has long argued Putin is the only person in Russia who can make major decisions to end the war or meaningfully discuss core issues, such as the fate of the nearly 20 percent of Ukraine that Russia occupies.\n\n\"The issue of territories is a red line that can be discussed exclusively at the level of leaders,\" Zelensky said. (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T23:44:35.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875303-20261026.htm"
     },
     {
       "id": "2cb096d00658934b",
@@ -1380,17 +1380,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/laos/2026/10/20/china-laos-air-base-ban-keun-ream-cambodia/"
-    },
-    {
-      "id": "18159833ea50c2ab",
-      "title": "US agencies ordered to stop using DeepSeek AI tools",
-      "excerpt": "The US government has ordered its agencies to stop using artificial intelligence tools from Chinese mainland startup DeepSeek as the…",
-      "fullText": "The US government has ordered its agencies to stop using artificial intelligence tools from Chinese mainland startup DeepSeek as the two countries race for dominance in the fast-moving sector.\n\nA notice on Monday from the Department of Homeland Security announced the ban on products developed by DeepSeek – and tools created using DeepSeek by third parties – saying they must be removed from IT devices.\n\nThe department can issue direction to civilian agencies, but not the military or intelligence services.\n\n\"DeepSeek's models present multiple threat vectors,\" said a document attached to Monday's notice.\n\nUse of DeepSeek AI tools \"may result in the transfer of sensitive data to [China] if used by US government employees or vendors,\" the department warned.\n\nIts servers are located in China, where the legal system permits the government \"extensive authority\" to access private company infrastructure, it said.\n\nDeepSeek, one of China's top AI labs, shook up the industry in January 2025 with a low-cost, high-performance chatbot, challenging assumptions of US dominance.\n\nThe firm released a long-awaited new model, V4, in April, and this month updated a faster, more lightweight version of V4.\n\nDespite their fierce competition in the field, China and the United States in September agreed to set up a \"communication channel\" for AI incidents.\n\nThe topic is expected to arise again when the countries' leaders meet next month at a summit in Shenzhen. (AFP)\n\nEdited by Altis Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T04:55:46.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1874597-20261020.htm"
     },
     {
       "id": "a8c4e4f4612c6931",
