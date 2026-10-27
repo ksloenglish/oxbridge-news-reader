@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T05:45:17.371Z",
-  "checkedAt": "2026-10-27T06:00:28.848Z",
+  "generatedAt": "2026-10-27T06:15:15.093Z",
+  "checkedAt": "2026-10-27T06:15:15.093Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 8
+      "articleCount": 9
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "e55134ecc7a1aa4d",
+      "title": "Three nabbed in wounding case linked to illegal fuel",
+      "excerpt": "Police said they have arrested three men for allegedly conspiring to wound with intent in a case that might involve…",
+      "fullText": "Police said they have arrested three men for allegedly conspiring to wound with intent in a case that might involve illicit fuel activity.\n\nOfficers were alerted by staff at Tseung Kwan O Hospital in the early hours last Thursday that a 35-year-old light goods vehicle driver – who sought treatment at the hospital – suffered knife wounds that were considered suspicious.\n\nSpeaking in a media briefing on Tuesday, inspector Fong Miu-kwan said preliminary investigations revealed that he was attacked on Chun Yat Street at Tseung Kwan O Industrial Estate.\n\nFong said authorities found 120 litres of suspected illicit fuel in his vehicle.\n\nThe three suspects are aged 16 to 19 with suspected triad background.\n\n“According to the police investigation, the place where the incident occurred – Tseung Kwan O Industrial Estate – has seen illicit fuel activities in the past,\" Fong said.\n\n\"Police have not ruled out the possibility that the wounding case was linked to a dispute over illicit fuel transactions.”\n\nIn a separate case, authorities found 750 litres of suspected illicit diesel in a medium goods vehicle as part of their campaign against illegal fuel activity at Tseung Kwan O Industrial Estate, and a 25-year-old driver is suspected of involvement.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T06:09:12.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875492-20261027.htm"
+    },
     {
       "id": "483b6f68e19f1810",
       "title": "HSBC net profit rises in Q3 but misses forecasts",
@@ -794,8 +805,8 @@
       "fullText": "Financial Secretary Paul Chan on Sunday said hosting the recently concluded Apec Finance Ministers' Meeting carried multi-layered significance for Hong Kong.\n\nThe two-day event wrapped up in the SAR on Wednesday.\n\nSpeaking on a Commercial Radio programme, Chan said many participants came from the political and business sectors, allowing them to see and understand Hong Kong first-hand and observe how the city serves as a bridge connecting the mainland and the rest of the world.\n\nHe pointed out that there are many areas for collaboration and new market opportunities for the SAR’s professional services sector.\n\n“Through communication and exchanges, we understand their needs better. For example, many countries need infrastructure, and infrastructure needs investment, professional services, and even operational management. Some enterprises want to enter the mainland market. We told them that in these areas, they can collaborate with Hong Kong,” he said.\n\nThe financial secretary acknowledged that it is sometimes difficult for Apec member economies to reach a consensus on issues, given their differing political stances, development stages, and needs.\n\nBut he stressed Hong Kong would strive to seek common ground while respecting differences, aiming to maximise room for collaboration wherever possible.\n\nSpeaking on a TVB programme, Secretary for Financial Services and the Treasury Christopher Hui said Hong Kong had demonstrated its soft power in hosting the event.\n\n\"The Apec finance ministers issued a joint statement as the meeting concluded. This proves that Hong Kong not only brings people together, but also helps deliver results,\" he said.\n\n\"We can help our country foster regional collaboration across the broader Asian region.\"\n\nSome delegates also chose to stay behind for a few extra days after the meetings wrapped up to explore more of the city, Hui said.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-10-25T02:58:55.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875237-20261025.htm"
     },
     {
