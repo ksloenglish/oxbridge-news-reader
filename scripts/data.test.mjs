@@ -81,7 +81,37 @@ test("a quiet check shows when the feeds were read", () => {
     checkedAt: "2026-10-26T03:48:42.114Z",
   }, now);
   assert.equal(health.overdue, false);
+  assert.equal(health.newsUpdated, false);
+  assert.equal(health.label, "Feeds checked");
+  assert.equal(health.stamp, "2026-10-26T03:48:42.114Z");
   assert.equal(health.text, "Feeds checked 26 Oct 2026, 11:48 am (HKT).");
+  assert.equal(health.text.includes("News updated"), false);
+});
+
+test("a fetch that changed the stories shows News updated at generatedAt", () => {
+  const now = Date.parse("2026-10-26T04:00:00.000Z");
+  const stamp = "2026-10-26T03:48:42.114Z";
+  const health = describeFeedCheck({ generatedAt: stamp, checkedAt: stamp }, now);
+  assert.equal(health.newsUpdated, true);
+  assert.equal(health.label, "News updated");
+  assert.equal(health.stamp, stamp);
+  assert.equal(health.overdue, false);
+  assert.equal(health.text, "News updated 26 Oct 2026, 11:48 am (HKT).");
+  assert.equal(health.text.includes("Feeds checked"), false);
+
+  const newsAhead = describeFeedCheck({
+    generatedAt: stamp,
+    checkedAt: "2026-10-26T03:20:16.000Z",
+  }, now);
+  assert.equal(newsAhead.newsUpdated, true);
+  assert.equal(newsAhead.text, "News updated 26 Oct 2026, 11:48 am (HKT).");
+
+  const checkOnly = describeFeedCheck({
+    generatedAt: null,
+    checkedAt: stamp,
+  }, now);
+  assert.equal(checkOnly.newsUpdated, false);
+  assert.equal(checkOnly.text, "Feeds checked 26 Oct 2026, 11:48 am (HKT).");
 });
 
 test("a check older than 45 minutes is overdue, and a missing stamp says so", () => {
@@ -92,8 +122,13 @@ test("a check older than 45 minutes is overdue, and a missing stamp says so", ()
   assert.equal(isFeedCheckOverdue(checkedAt, atLimit + 1), true);
   const overdue = describeFeedCheck({ checkedAt, generatedAt: "2026-10-26T01:00:00.000Z" }, atLimit + 1);
   assert.equal(overdue.overdue, true);
-  assert.match(overdue.text, /^Feeds checked /);
-  assert.match(overdue.text, /This check is overdue\.$/);
+  assert.equal(overdue.newsUpdated, false);
+  assert.equal(overdue.text, "Feeds checked 26 Oct 2026, 11:00 am (HKT). This check is overdue.");
+
+  const newsOverdue = describeFeedCheck({ checkedAt, generatedAt: checkedAt }, atLimit + 1);
+  assert.equal(newsOverdue.overdue, true);
+  assert.equal(newsOverdue.newsUpdated, true);
+  assert.equal(newsOverdue.text, "News updated 26 Oct 2026, 11:00 am (HKT). This check is overdue.");
 
   const freshFile = describeFeedCheck({
     generatedAt: "2026-10-26T03:20:16.000Z",
