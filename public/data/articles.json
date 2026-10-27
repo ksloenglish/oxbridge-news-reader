@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T04:30:24.268Z",
-  "checkedAt": "2026-10-27T04:30:24.268Z",
+  "generatedAt": "2026-10-27T04:45:17.397Z",
+  "checkedAt": "2026-10-27T04:45:17.397Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -95,10 +95,21 @@
   ],
   "articles": [
     {
+      "id": "ee5896a2ff7de364",
+      "title": "Over 1,600 affected in airline, retailer data breaches",
+      "excerpt": "The Office of the Privacy Commissioner for Personal Data on Tuesday confirmed that more than 1,600 people have been affected…",
+      "fullText": "The Office of the Privacy Commissioner for Personal Data on Tuesday confirmed that more than 1,600 people have been affected by data breaches at Hong Kong Airlines and electronics retailer Yoho Hong Kong.\n\nThe privacy watchdog said the breach at Hong Kong Airlines affected 815 passengers travelling between September 29 and October 22, involving their names, phone numbers and flight information.\n\nThe Yoho Hong Kong breach affected 790 customers who placed their orders between September 29 and October 12, involving their names, phone numbers along with delivery information.\n\nThe watchdog said customers received suspected scam calls stating their personal data.\n\nAdditionally, the privacy commissioner received a data-breach incident report from Broadway Photo Supply.\n\nAs of Monday, it had received a total of 23 complaints and 20 inquiries, and investigations have been launched.\n\nThe office urged people to consider carefully should they have any doubts about callers claiming to be merchants, and verify their identities and authenticity of the calls through official channels.\n\nCustomers should also refuse any suspicious money-transfer requests and keep records of communications.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T04:28:27.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875475-20261027.htm"
+    },
+    {
       "id": "79154d0d527cca1b",
       "title": "CUHK to bid for Hung Shui Kiu university town land",
       "excerpt": "Chinese University of Hong Kong will bid for one of the first three sites in the Northern Metropolis University Town…",
-      "fullText": "Chinese University of Hong Kong will bid for one of the first three sites in the Northern Metropolis University Town in Hung Shui Kiu, Vice-Chancellor Professor Dennis Lo said, but warned that the government's staggered tendering process and high construction costs pose major challenges.\n\nIn an interview with Ming Pao published on Friday, Lo said the university town project would allow the city's eight universities to expand their footprint and increase their impact on society.\n\n\"Our campus is currently relatively small, like a boutique hotel, and I believe this Northern Metropolis University Town has given us a rare opportunity to have some land to expand our footprint,\" he said.\n\nHe said Hong Kong universities enjoy strong international reputations and high rankings but are limited in size.\n\nHe said scale is important for universities to produce research that can \"change the world\", as campus size affects the number of researchers, which in turn affects patents and publications.\n\nThe university town would help break through the space constraint, he said.\n\nHe noted that the university had established an InnoHub for New Quality Industries in Qianhai, near Hung Shui Kiu, in March this year, and believed there would be synergy effects.\n\nHe said the university was considering collaboration with overseas institutions and industries in future at the Hung Shui Kiu university town, but could not reveal further details as it was competing with other universities.\n\nHowever, he predicted that due to limited land, the university may prefer to set up research institutes rather than full campuses in the university town.\n\nHe also said the government's plan to tender the three campuses — in Hung Shui Kiu, San Tin and Ta Kwu Ling — at different times would make planning and collaboration among universities more difficult.\n\n\"The three plots are being rolled out in batches. For the first ones, you dare not not bid, because each time is an opportunity,\" he said\n\nOn financing, Lo said CUHK would be prudent with possible future development at the Northern Metropolis.\n\nHe noted that while the government has earmarked HK$10 billion for loans to support campus development at the Northern Metropolis University Town, there is a cap on borrowing and construction costs are high.\n\nHe estimated that HK$10 billion would only be enough to build five buildings, and called on the government to increase funding.\n\nEdited by Tony Sabine",
+      "fullText": "Chinese University of Hong Kong will bid for one of the first three sites in the Northern Metropolis University Town in Hung Shui Kiu, Vice-Chancellor Professor Dennis Lo said, but warned that the government's staggered tendering process and high construction costs pose major challenges.\n\nIn an interview with Ming Pao published on Tuesday, Lo said the university town project would allow the city's eight publicly funded universities to expand their footprint and increase their impact on society.\n\n\"Our campus is currently relatively small, like a boutique hotel, and I believe this Northern Metropolis University Town has given us a rare opportunity to have some land to expand our footprint,\" he said.\n\nHe said Hong Kong universities enjoy strong international reputations and high rankings but are limited in size.\n\nLo said scale is important for universities to produce research that can \"change the world\", as campus size affects the number of researchers, which in turn affects patents and publications.\n\nThe university town would help break through the space constraint, he said.\n\nHe noted that the university had established an InnoHub for New Quality Industries in Qianhai, near Hung Shui Kiu, in March this year, and believed there would be synergy effects.\n\nHe said the university was considering collaboration with overseas institutions and industries in future at the Hung Shui Kiu university town, but could not reveal further details as it was competing with other universities.\n\nHowever, Lo redicted that due to limited land, the university may prefer to set up research institutes rather than full campuses in the university town.\n\nHe also said the government's plan to tender the three campuses — in Hung Shui Kiu, San Tin and Ta Kwu Ling — at different times would make planning and collaboration among universities more difficult.\n\n\"The three plots are being rolled out in batches. For the first ones, you dare not not bid, because each time is an opportunity,\" he said.\n\nOn financing, Lo said CUHK would be prudent with possible future development at the Northern Metropolis.\n\nHe noted that while the government has earmarked HK$10 billion for loans to support campus development at the Northern Metropolis University Town, there is a cap on borrowing and construction costs are high.\n\nHe estimated that HK$10 billion would only be enough to build five buildings, and called on the government to increase funding.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-10-27T04:17:26.000Z",
       "source": "RTHK English — Local",
@@ -819,17 +830,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875216-20261024.htm"
-    },
-    {
-      "id": "ab73d94e48af4423",
-      "title": "DH probes suspected misuse of HIV service email",
-      "excerpt": "The Department of Health (DH) said on Saturday that the email account for its HIV testing service website was suspected…",
-      "fullText": "The Department of Health (DH) said on Saturday that the email account for its HIV testing service website was suspected of being misused.\n\nEmails and text messages had been sent to the public under the guise of the department, claiming the recipients were exposed to Human Immunodeficiency Virus (HIV) and should seek medical advice and get tested as soon as possible, according to the DH.\n\nThe department said it is conducting a thorough investigation of the incident, stressing that it would not notify individuals in this manner.\n\n“Upon discovering the incident last night, DH staff immediately conducted a comprehensive inspection of the network system with the outsourced service provider and investigated the incident overnight,” it said.\n\n“So far, no data loss or leakage has been detected. The DH reported the incident to the police and notified the Digital Policy Office.”\n\nThe DH added that its HIV testing service website had been suspended from Saturday for the investigation, but members of the public could still book for HIV tests via phone calls.\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T10:00:32.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875204-20261024.htm"
     },
     {
       "id": "faa601cc0084fca5",
