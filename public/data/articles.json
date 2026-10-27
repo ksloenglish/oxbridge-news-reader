@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T04:45:17.397Z",
-  "checkedAt": "2026-10-27T05:00:26.795Z",
+  "generatedAt": "2026-10-27T05:15:18.385Z",
+  "checkedAt": "2026-10-27T05:15:18.385Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 9
+      "articleCount": 8
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "483b6f68e19f1810",
+      "title": "HSBC net profit rises in Q3 but misses forecasts",
+      "excerpt": "Banking giant HSBC on Tuesday said net profit in the third quarter rose a less-than-expected 45.5 percent year-on-year as the…",
+      "fullText": "Banking giant HSBC on Tuesday said net profit in the third quarter rose a less-than-expected 45.5 percent year-on-year as the London-headquartered lender continued to restructure operations and cut costs.\n\nProfit attributable to shareholders for the three months ending in September stood at US$7 billion, from US$4.87 billion a year earlier, HSBC said in a filing to the Hong Kong stock exchange.\n\nPre-tax profit grew 32 percent to US$9.6 billion, with revenue increasing by US$0.8 billion to US$18.6 billion.\n\n\"As we simplify HSBC, we are creating greater capacity to invest, grow and deliver strong returns for our shareholders,\" chief executive Georges Elhedery said in the filing.\n\nThe banking giant also approved a third interim dividend of US$0.10 per share, and announced second US$1 billion buyback after completing one in the previous three months.\n\nHSBC said it remained \"confident in achieving the targets\" set out earlier this year.\n\n\"We continue to target year-on-year growth in revenue from 2026 to 2028, rising to five percent growth in 2028 compared with 2027,\" it said.\n\nThe bank also said expected credit losses tumbled 17 percent to US$800 million from the same period a year ago, thanks to a reduction in charges linked to Hong Kong's real estate sector as well as its UK and Mexican wealth businesses.\n\nThe lender also said it expected net interest income of at least US$46 billion for 2025. (Agencies)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T05:07:49.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875488-20261027.htm"
+    },
+    {
+      "id": "c0a85990fc5ca721",
+      "title": "Brewers rout Rays to reach brink of World Series sweep",
+      "excerpt": "With a devastating 16-hit batting performance and masterful pitching by Robert Gasser, the Milwaukee Brewers routed Tampa Bay 10-1 on…",
+      "fullText": "With a devastating 16-hit batting performance and masterful pitching by Robert Gasser, the Milwaukee Brewers routed Tampa Bay 10-1 on Monday, reaching the brink of a World Series sweep.\n\nLeft-handed starter Gasser threw six shutout innings, allowing only one hit with a walk and three strikeouts in facing the minimum 18 batters.\n\n\"It was awesome,\" Gasser said.\n\n\"We're going to enjoy tonight. It was a great team win. But we've got work to do.\"\n\nJackson Chourio, a 22-year-old Venezuelan outfielder, went 4-for-5 at the plate, scored twice, stole a base and also drove in a run in the Brewers' historic eight-run fifth inning to humble the Rays.\n\nAll eight runs came with two outs in the inning, a World Series record, and Milwaukee batters made seven consecutive hits, a playoff first.\n\n\"It was special for sure,\" Chourio said through a translator.\n\n\"We've been preparing for this day. We've known it was coming. We have one more to lock in for tomorrow to complete the mission.\"\n\nThe Brewers seized a 3-0 lead in Major League Baseball's best-of-seven final and can win the first title in team history with a triumph in game four on Tuesday at Tropicana Field.\n\n\"There's still one more game to go for us to win,\" Gasser said.\n\n\"I know everybody is eager to do it and we're going to show up tomorrow ready to go.\"\n\nGasser became the first lefty to face the minimum over six innings in a World Series clash since Sandy Koufax of the Los Angeles Dodgers in 1965.\n\nThe Rays managed a run in the ninth but only three hits in the game.\n\nChourio raced home from second base on a Christian Yelich single in the third inning to score the first run and William Contreras drove in another with a hit to right field for a 2-0 lead.\n\nThe Brewers, whose only prior World Series was a 1982 loss to St. Louis in seven games, had two one-run wins to start the Series but overwhelmed Tampa Bay with a barrage in the fifth.\n\nChourio singled, stole second and advanced to third on a Contreras single that loaded the bases as Rays starter Freddy Peralta, who had played for Milwaukee the past eight seasons, was lifted for relief pitcher Cam Booser.\n\nBrice Turang followed with a two-run single up the middle, Garrett Mitchell added a single to score Contreras, and Cooper Pratt followed with a two-run double to left field for a 7-0 Brewers lead.\n\nSal Frelick doubled in Pratt for an 8-0 Milwaukee edge, bringing on Rays reliever Cole Sulser, who promptly surrendered a single to David Hamilton to drive in Frelick for a 9-0 lead.\n\nChourio concluded the stunning streak with a double to right field to score Hamilton for a 10-0 Brewers lead.\n\nGasser, meanwhile, had to wait an extra 45 minutes before returning to the mound, watching the amazing streak with glee.\n\n\"It was special. I had a smile on my face the whole time,\" Gasser said.\n\n\"It was just surreal when something like that happens.\"\n\nChourio's eight hits through three games are the second-most in World Series history after nine by Billy Hatcher for Cincinnati in 1990.\n\n\"My mentality is to stay on top of the ball and hit line drives,\" Chourio said.\n\n\"I consider myself more of a hitter than a home run hitter.\"\n\nChourio became the youngest player to ever begin a World Series with three multi-hit games, delivering singles in the first, third and fifth innings on Monday. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T04:42:20.000Z",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875485-20261027.htm"
+    },
     {
       "id": "ee5896a2ff7de364",
       "title": "Over 1,600 affected in airline, retailer data breaches",
@@ -821,17 +843,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875202-20261024.htm"
     },
     {
-      "id": "b5ee454b65d3296e",
-      "title": "Evening News on TV32 - Oct 24",
-      "excerpt": "Top stories for Saturday, Oct 24, 2026 - Hong Kong, China athletes clinch a total of 41 medals at the…",
-      "fullText": "Top stories for Saturday, Oct 24, 2026\n\n- Hong Kong, China athletes clinch a total of 41 medals at the Asian Para Games in Nagoya.\n\n- SAR and Shenzhen police arrest 33 people linked to a cross-border credit card fraud syndicate.\n\n- France is bracing for another weekend of protests.",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T12:29:07.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875216-20261024.htm"
-    },
-    {
       "id": "faa601cc0084fca5",
       "title": "CE praises Para Games contingent for medal haul",
       "excerpt": "Chief Executive John Lee has congratulated Hong Kong, China athletes for winning a total of 41 medals at the Asian…",
@@ -1129,17 +1140,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875046-20261023.htm"
     },
     {
-      "id": "accb08c94c0b983e",
-      "title": "Apec finance chiefs' meet 'perfect prelude to summit'",
-      "excerpt": "Secretary for Financial Services and the Treasury Christopher Hui said on Friday the Apec Finance Ministers' Meeting that concluded in…",
-      "fullText": "Secretary for Financial Services and the Treasury Christopher Hui said on Friday the Apec Finance Ministers' Meeting that concluded in Hong Kong on Wednesday was the \"perfect prelude\" to the leaders' summit in Shenzhen next month.\n\nHe told RTHK's Backchat programme that Hong Kong and Shenzhen have plenty of room to work together – making it a great opportunity to showcase both China's stabilising role and Hong Kong's part in driving regional cooperation.\n\n\"Even though this is really a China Apec year this year, but at the same time, Hong Kong plays a critical role as an accelerator of regionalisation,\" Hui said.\n\nHe pointed out the finance ministers' meeting was the last in a series of ministerial meetings before the leaders' summit and that a joint statement had been reached among delegates – a breakthrough in an increasingly divided geopolitical landscape.\n\n\"So, it's indeed a very good occasion for us to showcase not just the China voice as a stabiliser but also Hong Kong's element as an accelerator of regionalisation in this increasingly divided world,\" Hui said.\n\n\"Hong Kong, being part of Asia and at the same time a financial centre of Asia, needs to have a stable Asia.\"\n\nDelegates, Hui said, agreed to work more closely on fiscal and monetary policy coordination, digital infrastructure, green finance and talent cultivation.\n\nHe also highlighted the need for inclusive policies to address income and wealth distribution risks arising from artificial intelligence and geopolitics.\n\nThere is a \"wide consensus\" that AI is a double-edged sword, Hui pointed out, in its presenting opportunities alongside risks including cyber threats.\n\nHe said Hong Kong has practical experiences to share, as many financial institutions in the city are already adopting AI across their value chains.\n\n\"Hong Kong has a lot to share and offer in terms of how we do that and also find a fine line between regulation and also AI application,\" Hui said, adding the city has developed its own ecosystem for AI deployment in financial infrastructure.\n\nOn gold trading, he said the subject came up in his bilateral meeting with Brunei's finance minister.\n\nHong Kong, Hui stressed, aims to serve as an Asia hub linking international gold standards with regional liquidity.\n\n\"Gold, as it is, is a global product, yet at the same time there is ever-stronger demand for such precious metals here in the region,\" he said.\n\nReflecting on the organisation of the event, Hui credited his colleagues across government for their hard work, saying the effort had paid off.\n\n\"I heard that some of the delegates are going to get married here in Hong Kong because they see Hong Kong as a very decent place, and they're going to spend their honeymoon here,\" he said, adding that the city's \"charisma\" had helped deliver a pleasing result for the country and the world.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T04:09:35.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875042-20261023.htm"
-    },
-    {
       "id": "8091e2710b4f9125",
       "title": "76ers storm back to stun Cavs in home opener",
       "excerpt": "The Philadelphia 76ers erased a 29-point deficit to stun the Cleveland Cavaliers 114-106 on Thursday in NBA superstar LeBron James'…",
@@ -1171,17 +1171,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875026-20261023.htm"
-    },
-    {
-      "id": "e23d7f0dd99394db",
-      "title": "Sri Lanka beat England with second-highest ODI chase",
-      "excerpt": "Janith Liyanage smashed a six off the penultimate ball as Sri Lanka completed the second-highest successful run chase in ODI…",
-      "fullText": "Janith Liyanage smashed a six off the penultimate ball as Sri Lanka completed the second-highest successful run chase in ODI history, scoring 430-8 to beat England in Rawalpindi on Thursday.\n\nNeeding eight to win off the last over, Sri Lanka lost two wickets to paceman Josh Tongue, but Liyanage kept his cool to achieve an astonishing victory and overshadow Harry Brook's record-setting knock.\n\nThe England captain hit the fastest-ever ODI double hundred, making 202 off 116 balls to propel his team to a mammoth 429-4 after they were put in to bat.\n\nSouth Africa hold the record for the highest ODI chase, knocking off a target of 435 against Australia at Johannesburg in 2006.\n\nBatters thoroughly dominated in Rawalpindi as Brook also hit the first ODI double century by an England player. However, Sri Lanka proved up to the challenge as Pavan Rathnayake scored 130, with Avishka Fernando and Dasun Shanaka both making 97.\n\nLiyanage then led them over the line with a blistering 61 not out off 27 balls.\n\nSri Lanka slid to 24-2 before Rathnayake and Avishka set about transforming the innings, putting on 166 for the third wicket.\n\nRathnayake then combined with Shanaka to lift the tempo with a rapid 133-run stand off just 79 balls, to give Sri Lanka genuine hope.\n\nRathnayake hit 15 fours and three sixes while Shanaka's blazing knock featured eight sixes and six fours, as Sri Lanka delivered a powerful response to Brook's earlier masterclass.\n\nSri Lankan skipper Kusal Mendis was delighted at the victory.\n\n\"I'm very happy as a captain,\" said Mendis. \"Everyone believed we can do it. Every day we talk about showing the character in team meetings, and it's about showing we can get any score.\"\n\nBrook was full of praise for Sri Lanka.\n\n\"Incredible game of cricket, both teams were exceptional. They played exceptional cricket to knock off 400,\" said Brook, downplaying his double hundred.\n\n\"It was a nice innings but being on the losing side it has no value whatsoever in my eyes.\"\n\nBrook clobbered 10 sixes and 21 fours as England posted a first 400-plus ODI total in Pakistan.\n\nHe reached 200 in 114 balls, beating the previous fastest double century in ODIs, by Shubman Gill (117 balls) for India against West Indies last month.\n\nBrook was joined in the fireworks by Joe Root, who scored a 66-ball 69 and became the first England batter to complete 8,000 runs, in his 197th one-day international.\n\nBrook was dismissed off the final delivery, caught off paceman Liyanage, but not before helping England add 156 runs in the last 10 overs.\n\nOpener Tom Banton set the tone with a 51-ball 50 and Will Jacks was 66 not out with three sixes and eight fours.\n\nThe day looked as if it would surely belong to history-maker Brook, but Sri Lanka had other ideas as the previous highest ODI total at a Pakistan venue of 375-3 was easily surpassed.\n\nPakistan, who beat Sri Lanka and England in their two games, will face England in Lahore on Sunday in the next match in the tri-series. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T23:49:25.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875005-20261023.htm"
     },
     {
       "id": "e3c43e376959daec",
