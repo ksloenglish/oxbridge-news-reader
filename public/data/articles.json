@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T12:45:17.021Z",
-  "checkedAt": "2026-10-27T12:45:17.021Z",
+  "generatedAt": "2026-10-27T13:00:34.022Z",
+  "checkedAt": "2026-10-27T13:00:34.022Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -50,7 +50,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 19
     },
     {
       "id": "news-gov-hk-top",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "2127ba565d97d064",
+      "title": "Evening News on TV32 - Oct 27",
+      "excerpt": "Top stories for Monday, Oct 26, 2026 - Thousands are left without tap water as a pipe bursts in Shau…",
+      "fullText": "Top stories for Monday, Oct 26, 2026\n\n- Thousands are left without tap water as a pipe bursts in Shau Kei Wan.\n\n- John Lee calls on university leaders to join the development of the Northern Metropolis.\n\n- Hundreds of people are hit by two new data breaches.",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T12:41:09.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875534-20261027.htm"
+    },
     {
       "id": "a5398d693fa11a69",
       "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
@@ -175,7 +186,7 @@
       "id": "3c0a47a3d604a290",
       "title": "Water pipe burst in Shau Kei Wan affects 10k homes",
       "excerpt": "The Water Supplies Department on Tuesday said more than 10,000 homes in Shau Kei Wan and its nearby areas saw…",
-      "fullText": "The Water Supplies Department on Tuesday said more than 10,000 homes in Shau Kei Wan and its nearby areas saw their fresh water supply suspended following a water pipe burst.\n\nThe burst occurred at around 10.30am at a construction site along Shau Kei Wan Road.\n\nSpeaking to reporters, Chief Engineer of Hong Kong and Islands Region Lin Tang-tai said the department aimed to resume water supply by midnight.\n\nHe said the pipe concerned, with a diametre of 18 inches, had been in use for more than three decades.\n\nBut the incident was not caused by ageing, instead it was due to external forces, he said, with the crack measuring over one metre.\n\n“The scope of the impact involved in the incident covered Shau Kei Wan and parts of Sai Wan Ho. The number of households involved exceeds 10,000,\" he said.\n\n\"We will deploy more than 10 water trucks, 100 water tanks and tens of thousands of bottled water, as well as various supporting facilities, to provide temporary fresh water supplies for residents affected.”\n\nThe Highways Department, for its part, apologised for the inconvenience caused.\n\nChief Highway Engineer Alan Chan said contractors had already carried out an inspection ahead of the construction work, adding that his department would look into the cause of the incident and see if the contractors are liable.\n\nPolice said a care home resident in her 80s was hospitalised after she sustained injuries to her limbs due to the incident.\n\nA member of staff told RTHK that the victim yelled for help when one of the care home’s windows cracked due to the burst pipe, shooting sand and water into one of the rooms.\n\nMeanwhile, Eastern District care teams were seen assisting the public at one of the water collection points where at least dozens of people were in the queue.\n\nA resident surnamed Law told RTHK she planned to come down twice to take sufficient water for cooking first.\n\n“Of course I am upset there is no water supply. Water is very crucial, right? Being unable to bathe after work is very uncomfortable,\" she said.\n\nAnother resident said he was not too optimistic that fresh water supply could resume by midnight, adding his family might go out for dinner instead of cooking at home.\n_____________________________\nLast updated: 2026-10-27 HKT 16:36\n\nEdited by Tony Sabine",
+      "fullText": "The Water Supplies Department on Tuesday said more than 10,000 homes in Shau Kei Wan and its nearby areas saw their fresh water supply suspended following a water pipe burst.\n\nThe burst occurred at around 10.30am at a construction site along Shau Kei Wan Road.\n\nSpeaking to reporters, Chief Engineer of Hong Kong and Islands Region Lin Tang-tai said the department aimed to resume water supply by midnight.\n\nHe said the pipe concerned, with a diametre of 18 inches, had been in use for more than three decades.\n\nBut the incident was not caused by ageing, instead it was due to external forces, he said, with the crack measuring over one metre.\n\n“The scope of the impact involved in the incident covered Shau Kei Wan and parts of Sai Wan Ho. The number of households involved exceeds 10,000,\" he said.\n\n\"We will deploy more than 10 water trucks, 100 water tanks and tens of thousands of bottled water, as well as various supporting facilities, to provide temporary fresh water supplies for residents affected.”\n\nThe Highways Department, for its part, apologised for the inconvenience caused.\n\nChief Highway Engineer Alan Chan said contractors had already carried out an inspection ahead of the construction work, adding that his department would look into the cause of the incident and see if the contractors are liable.\n\nPolice said a care home resident in her 80s was hospitalised after she sustained injuries to her limbs due to the incident.\n\nA member of staff told RTHK that the victim yelled for help when one of the care home’s windows cracked due to the burst pipe, shooting sand and water into one of the rooms.\n\nMeanwhile, Eastern District care teams were seen assisting the public at one of the water collection points where at least dozens of people were in the queue.\n\nA resident surnamed Law told RTHK she planned to come down twice to take sufficient water for cooking first.\n\n“Of course I am upset there is no water supply. Water is very crucial, right? Being unable to bathe after work is very uncomfortable,\" she said.\n\nAnother resident said he was not too optimistic that fresh water supply could resume by midnight, adding his family might go out for dinner instead of cooking at home.\n\nIn a statement, lawmaker Elaine Chik said the incident showed that the authorities’ information on underground pipes was not accurate enough, and that pre-construction detection also required improvements.\n\nShe urged authorities to review its underground facilities management, saying they should establish a database for such utilities.\n_____________________________\nLast updated: 2026-10-27 HKT 20:45\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-10-27T07:14:33.000Z",
       "source": "RTHK English — Local",
@@ -827,8 +838,8 @@
       "fullText": "Hundreds of fans enjoyed a day out with their families at the Fanling Golf Course on Sunday for the final day of Hong Kong Open action.\n\nThe four-day event, which is marking its historic 65th edition, teed off on Thursday to much fanfare as the sport's biggest stars descended upon the SAR.\n\nHans, a local resident attending the tournament for the second time with his kids, told RTHK that the Hong Kong Open is a great opportunity for families to get up close and personal with some of the world's top athletes.\n\n\"It's a great event, walking around with the kids... getting close with the different golf professionals,\" he said.\n\n\"It's an awesome experience, being so close to the professional players and also they do a good job of bringing the fan village together,\" he added. \"It's fun for the kids.\"\n\nHans also commended the event's fan-friendly atmosphere, saying the interactive stalls, games, and entertainment made the tournament stand out from other sporting events.\n\nAnother local fan, Leon – who is attending the event for the sixth year in a row – echoed the sentiment.\n\n\"Personally, I play golf and I'm a member of the club. [This event] has such a nice outdoor area for the kids, every year we take them over and have some fun,\" he told RTHK.\n\nHe also pointed out that there were many elements of Hong Kong culture on display at the fan village.\n\n\"[Besides] the golf, we have Hong Kong culture, cultural stuff... which is very fun for the kids. I'd definitely recommend it.\"\n\nBryant Lu, captain of the Hong Kong Golf Club, said that the competition is a great opportunity for all sports fans to get a taste of a different side of the bustling city.\n\n\"I think what we offer is a very unique experience,\" he told reporters outside the course's clubhouse.\n\n\"Being a golfing event we have outdoors... and we can come all the way up to the Northern Metropolis. I think this is the new future for Hong Kong, and hosting an event here not only brings people to play golf but [they can] also experience what changes the Northern Metropolis brings to Hong Kong, I think that's very important.\n\n\"I think coming up here you can experience a different side of Hong Kong – beautiful trees, nice grounds, fresh air, and lots of smiling faces.\"\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-10-25T09:22:06.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875255-20261025.htm"
     },
     {
