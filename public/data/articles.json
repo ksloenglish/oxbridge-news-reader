@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T14:45:22.062Z",
-  "checkedAt": "2026-10-27T15:15:20.726Z",
+  "generatedAt": "2026-10-27T15:30:26.470Z",
+  "checkedAt": "2026-10-27T15:30:26.470Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 19
     },
     {
       "id": "rthk-world",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "997e8a68ab7d7444",
+      "title": "Shau Kei Wan water supply returns after pipe burst",
+      "excerpt": "The government said emergency repair works conducted after a water pipe burst in Shau Kei Wan have been completed, with…",
+      "fullText": "The government said emergency repair works conducted after a water pipe burst in Shau Kei Wan have been completed, with fresh water supply to users in the area returning to normal from 9.30pm on Tuesday.\n\nIn a social media post, the Water Supplies Department said that because the incident involved a large and complex system of pipes, people living at the ends of the water supply network or at higher elevations may need to wait up to three to four hours before the water reaches them.\n\nThe department said it would continue to provide water trucks and tanks until the fresh water supply fully returns to normal.\n\nIt also said it is normal for the water to appear milky or slightly turbid upon supply restoration.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T15:18:16.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875553-20261027.htm"
+    },
     {
       "id": "f1b22c1f04fb09dc",
       "title": "Boeing delays 737 production target to early 2027",
@@ -456,6 +467,17 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
+    },
+    {
+      "id": "fbceb119c523cbc7",
+      "title": "Eco Expo Asia enters second day",
+      "excerpt": "The 21st Eco Expo Asia entered its second day today at AsiaWorld-Expo in Lantau. Speaking at the welcome ceremony, Secretary…",
+      "fullText": "The 21st Eco Expo Asia entered its second day today at AsiaWorld-Expo in Lantau.\n\nSpeaking at the welcome ceremony, Secretary for Environment & Ecology Tse Chin-wan highlighted that the Government has formulated the city’s First Five-Year Plan and introduced four binding environmental targets. He noted that these measures establish a clear benchmark for advancing the green transition, driving energy reform and transforming Hong Kong into a cleaner, more liveable city.\n\nMr Tse pointed out that the Belt & Road Green Innovation Conference was held outside the Chinese Mainland for the first time this year, playing a pivotal role in connecting policy with innovation, technology with investment and expertise with opportunity.\n\nHe added that under the \"one country, two systems\" principle, Hong Kong maintains close connections with both the Mainland and international markets. By leveraging its professional services, robust financial and common law systems and extensive environmental management experience, the city continues to serve as a \"super connector\" for international collaboration in green transformation.\n\nMinister of Ecology & Environment Huang Runqiu also attended the welcome ceremony.\n\nDuring the event, Mr Huang and Mr Tse witnessed the exchange of a co-operation agreement between Vice President of the Chinese Research Academy of Environmental Sciences Liu Chunyan and Director of Environmental Protection Samuel Chui. The pact aims to deepen development across the Guangdong-Hong Kong-Macao Greater Bay Area, support the \"Beautiful China Pilot Zone\" and foster green Belt & Road co-operation.\n\nThe Environment & Ecology Bureau has set up four dedicated exhibition zones at the expo, focusing on the themes of \"Green Energy and Buildings\", \"Green Transport\", \"Waste Reduction and Recycling\" and \"Better Environment\".\n\nThe four-day expo runs until this Thursday, with the final day designated as the public day, allowing members of the public to visit free of charge.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261027/20261027_211107_283/images/20261027222851817.jpg",
+      "publishedAt": "2026-10-26T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261027/20261027_211107_283.html"
     },
     {
       "id": "6020f993a2e68cd2",
@@ -827,8 +849,8 @@
       "fullText": "Chief Secretary Eric Chan on Sunday instructed government departments to ensure the smooth flow of travellers at boundary control points.\n\nHis comments come after footage circulated on social media showing what appeared to be long queues at the checkpoint of mostly seven seaters waiting to cross into Shenzhen after midnight.\n\nThe tailback stretched all the way to San Tin Highway at one point.\n\nLarge numbers of northbound travellers were also stuck in urban areas, with dozens of people lining up for cross-border coach services in Mong Kok.\n\nMany of them had come to Hong Kong for Halloween festivities or a concert in Kai Tak.\n\nHong Kong Non-Franchised Bus Association chairman Eddie Choi explained that private cars with permits for other checkpoints all diverted to Huanggang after midnight, since it is the only 24-hour crossing to Shenzhen.\n\nTimothy Chui, executive director of the Hong Kong Tourism Association, said there could be even more cross-border revellers next weekend.\n\nHe suggested creating dedicated lanes for buses and coaches around the port facility.\n\nWriting on Facebook, the chief secretary said he paid a visit to the Shenzhen Bay and Huanggang control points following a visit to Dongguan.\n\nChan said he directed the Security Bureau to continue ensuring that port operations remain safe, efficient and orderly.\n\nAuthorities were told to proactively assess and forecast passenger traffic, and open additional inspection counters and vehicle lanes ahead of peak periods.\n\nChan also encouraged travellers to consider staying overnight in the SAR for a more comfortable and fulfilling experience.\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-10-25T10:56:54.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875263-20261025.htm"
     },
     {
@@ -1303,17 +1325,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/myanmar/2026/10/22/aung-san-suu-kyi-son-kim-aris-burma-phone-call/"
-    },
-    {
-      "id": "0ff72c2f938a08a3",
-      "title": "Pharmacy programme set for launch",
-      "excerpt": "The Health Bureau today announced that the Community Pharmacy Programme patient pairing arrangement will launch by the end of October…",
-      "fullText": "The Health Bureau today announced that the Community Pharmacy Programme patient pairing arrangement will launch by the end of October.\n\nThe first phase will be piloted across four districts – Eastern, Yau Tsim Mong, Sha Tin and Yuen Long – with five community pharmacies conveniently located near residential areas and shopping malls selected in each district.\n\nUpon successful pairing, participating patients can obtain medications from their preferred pharmacy. Local pharmacists will provide medication counselling and health advice to enhance drug compliance and personal health management.\n\nDrug refill services at these pharmacies will also help prevent excess drug accumulation at home, mitigating the risks of improper storage, misuse and potential wastage. Family doctors participating in the Primary Healthcare Co-care Network will be invited to join the programme in phases. Eligible patients will be invited to enrol, pair with a designated community pharmacy of their choice, and receive briefings on drug dispensing or refill arrangements.\n\nThe second phase of the programme will expand to the Southern, Wong Tai Sin, Kwun Tong, Tuen Mun, North and Tai Po districts. The services will be extended to all 18 districts across the city in the fourth quarter of next year, with more eligible pharmacies invited to join thereafter.\n\nCo-payments for Co-care Network participants will follow the Community Drug Formulary, while drug fees for Hospital Authority (HA) patients will remain aligned with the HA's prevailing fee schedule. Furthermore, the annually adjusted consultation co-payment fees for the screening and treatment phases , set by participating family doctors under the established mechanism, will take effect on November 1.\n\nFor the treatment phase, 1,022 out of the current 1,239 participating service points will keep their existing co-payment fees unchanged.\n\nConversely, 28 service points will reduce their fees by a median of $100, while the remaining 189 service points will increase their fees, with nearly 90% of those raising fees by $50 or below. Over 60% of the service points will charge at or below the Government-recommended level of $150.\n\nFor the medical screening phase, more than 97% of participating service points will align their fees with the Government-recommended co-payment levels. A small number of clinics will offer rates below the recommended level, including 28 service points for cardiovascular disease risk factor screening and 20 service points for chronic hepatitis B screening.\n\nAs of October 7, more than 300,000 citizens have enrolled in the Co-care Network. Among the participants who have completed screening, around 70,000 have been diagnosed with cardiovascular disease risk factors and have entered the treatment phase.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261023/20261023_140045_669/images/20261023171734150.jpg",
-      "publishedAt": "2026-10-22T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261023/20261023_140045_669.html"
     },
     {
       "id": "1e0f0c84645ff189",
