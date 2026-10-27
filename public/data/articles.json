@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T23:45:18.030Z",
-  "checkedAt": "2026-10-27T23:45:18.030Z",
+  "generatedAt": "2026-10-27T23:57:44.659Z",
+  "checkedAt": "2026-10-27T23:57:44.659Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 18
     },
     {
       "id": "rthk-finance",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "70104ae031763f5d",
+      "title": "Norway, Finland leaders call Putin over Ukraine",
+      "excerpt": "Finland's president and Norway's prime minister held a \"frank and substantive\" discussion with Russian President Vladimir Putin on Tuesday about…",
+      "fullText": "Finland's president and Norway's prime minister held a \"frank and substantive\" discussion with Russian President Vladimir Putin on Tuesday about efforts to end the war in Ukraine, the Nordic leaders said.\n\nIt was the latest effort by Kyiv's allies to de-escalate the most deadly conflict in Europe since World War II.\n\n\"The outcome of this war will have a direct impact on our and the broader European security. Ending the war requires direct discussions,\" President Alexander Stubb said in a joint statement with Norwegian Prime Minister Jonas Gahr Store.\n\nSpeaking to reporters in Helsinki, Stubb said the idea for the call had originated during a meeting in Oslo on October 20 between Store, Stubb and Ukraine's President Volodymyr Zelensky as well as US envoy Steve Witkoff.\n\nUS President Donald Trump's son-in-law Jared Kushner also took part in the meeting remotely. After the Oslo talks, Witkoff travelled to Saint Petersburg to meet Putin.\n\nStubb said \"both the Americans and the Ukrainians thought it would be a good idea to reach out,\" and that Ukraine had wished for the Nordic countries to help it \"open a channel of communication.\"\n\nStore, who was also in Helsinki for a meeting of Nordic leaders, told reporters that the 90-minute call had highlighted \"big differences in views\" on Ukraine.\n\nAccording to a statement from the Kremlin, Putin had during the call stressed that it was the EU's and Nato's \"confrontational policy\" that was \"leading to a protraction of hostilities.\"\n\nThe Kremlin said the three leaders had \"agreed to continue maintaining direct contact by telephone.\"\n\nStubb described the discussion between the three as \"frank and substantive.\"\n\nShortly after the announcement of the call, Kyiv said Zelensky had spoken to the Nordic leaders about the conversation with Putin.\n\nThe Nordic leaders stressed they were only representing their own countries and had not spoken on behalf of Europe, but Danish Prime Minister Mette Frederiksen bemoaned that they had gone \"solo.\"\n\n\"I'm very sceptical about this Norwegian and Finnish initiative. It hasn't been coordinated with any of the rest of us,\" she told reporters while attending a meeting of Nordic leaders, including Store and Stubb, in Finland.\n\n\"I honestly don't know what those two countries think they can achieve with this,\" she said.\n\nStore rejected the criticism.\n\n\"In the times we live in, it cannot be that only the US administration has a channel to talk to the Russian leadership. European countries must be able to do that as well,\" the prime minister told reporters.\n\nStubb also told reporters that while the idea of opening a dialogue with Russia had been discussed for a while, \"the rather tense situation between the United States and Ukraine\" is what tipped the scale.\n\nRelations between Ukraine and the United States were again strained after Trump this month suddenly announced a deal with Russia to obtain diesel, as part of his efforts to lower oil prices sent soaring by his Iran war.\n\nUkraine reacted with dismay after Trump also waived sanctions against Russia and appeared to again pivot to Putin.\n\nThe Oslo meeting followed furious diplomatic efforts in Washington, Kyiv and Western capitals to calm the situation.\n\nNorway and Finland, both Nato members, share borders with Russia and the statement emphasised that the countries are \"firm supporters of Ukraine.\" (AFP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-27T23:49:47.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875556-20261028.htm"
+    },
     {
       "id": "2eb48b5e1f2848ac",
       "title": "US consumer confidence up in October on fuel cost lull",
