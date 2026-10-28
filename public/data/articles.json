@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T13:28:51.707Z",
-  "checkedAt": "2026-10-28T13:35:16.617Z",
+  "generatedAt": "2026-10-28T13:45:19.976Z",
+  "checkedAt": "2026-10-28T13:45:19.976Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -151,9 +151,9 @@
     },
     {
       "id": "05842605b3480254",
-      "title": "Spain train collision kills at least 30: authorities",
-      "excerpt": "Spanish officials on Wednesday said at least 30 people had been killed in a high speed train collision near Toledo…",
-      "fullText": "Spanish officials on Wednesday said at least 30 people had been killed in a high speed train collision near Toledo.\n\nSpain’s rail system operator ADIF said the crash occurred in the morning and that train services were suspended between Madrid, Ciudad Real and Andalusia.\n\nSpanish public broadcaster TVE reported that the accident was between two high-speed trains heading in the same direction and that one ran into the tail of the other, knocking two of its cars off the track.\n\nThe mayor of the nearby town of Urda, Manuel Galán, told TVE that passengers had been injured and that civil protection authorities had asked his town hall to prepare a sports pavilion to attend to passengers.\n\nThe mayor of another nearby village, Jesús Pérez of Los Yébenes, told TVE that it appeared that the accident was \"serious”.\n\nThe regional president of Castilla La Mancha, Emiliano García-Page, wrote on X that he is on his way to the crash site.\n\nSpain's prime minister Pedro Sanchez has said on X that he was shocked by the serious train accident, and expressed affection, solidarity and support to victims and their families.\n\nIn January, 45 people died in southern Spain when a train jumped the track and hit an oncoming train.\n\nThe crash was the deadliest in Spain since a 2013 crash that killed 80 people.\n\nThe January incident shook the confidence the European country has in its extensive high-speed rail network. (Agencies)\n\nEdited by Aaron Tam",
+      "title": "Spain train collision kills at least 64: authorities",
+      "excerpt": "The death toll from a high-speed train collision south of Madrid on Wednesday has more than doubled to 64, Spanish…",
+      "fullText": "The death toll from a high-speed train collision south of Madrid on Wednesday has more than doubled to 64, Spanish regional authorities said, warning the figure was still likely to increase.\n\nThe leader of the central region of Castilla-La Mancha, Emiliano Garcia-Page, updated reporters at the scene, raising the previous toll of 31.\n\nSpain's rail system operator ADIF said the crash occurred in the morning and that train services were suspended between Madrid, Ciudad Real and Andalusia.\n\nSpanish public broadcaster TVE reported that the accident involved two high-speed trains heading in the same direction, and one ran into the tail of the other, knocking two of its cars off the track.\n\nThe mayor of the nearby town of Urda, Manuel Galán, told TVE that passengers had been injured and that civil protection authorities had asked his town hall to prepare a sports pavilion to attend to passengers.\n\nThe mayor of another nearby village, Jesús Pérez of Los Yébenes, told TVE that it appeared that the accident was \"serious\".\n\nThe regional president of Castilla La Mancha, Emiliano García-Page, wrote on X that he is on his way to the crash site.\n\nSpain's prime minister Pedro Sanchez has said on X that he was shocked by the serious train accident, and expressed affection, solidarity and support to victims and their families.\n\nIn January, 45 people died in southern Spain when a train jumped the track and hit an oncoming train.\n\nThe crash was the deadliest in Spain since a 2013 crash that killed 80 people.\n\nThe January incident shook the European country's confidence in its extensive high-speed rail network. (Agencies)\n_____________________________\nLast updated: 2026-10-28 HKT 21:30\n\nEdited by Raymond Yeung",
       "imageUrl": null,
       "publishedAt": "2026-10-28T09:55:55.000Z",
       "source": "RTHK English — World",
@@ -412,6 +412,17 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875563-20261028.htm"
+    },
+    {
+      "id": "3405700f4ba699ae",
+      "title": "CE mourns Liu Yandong",
+      "excerpt": "Chief Executive John Lee today expressed profound sorrow over the passing of former Vice Premier Liu Yandong, extending heartfelt condolences…",
+      "fullText": "Chief Executive John Lee today expressed profound sorrow over the passing of former Vice Premier Liu Yandong, extending heartfelt condolences to her family on behalf of the Hong Kong Special Administrative Region.\n\nMr Lee remembered Ms Liu as an outstanding leader in the country's work on education, science and technology, medical care, and women’s and children's affairs.\n\n“She served as a member of the Preparatory Committee of the Hong Kong Special Administrative Region under the National People's Congress and deputy leader of the Central Coordination Group for Hong Kong and Macao Affairs, and had always cared for and supported the long-term stability and prosperity of Hong Kong,” Mr Lee said.\n\nMr Lee added that Ms Liu visited Hong Kong on multiple occasions, engaging with residents across various sectors. During her visits, she met with local university presidents and youth, and also officiated at the opening ceremony of the 5th East Asian Games.\n\n“I am sincerely grateful for her contributions to promoting the development of Hong Kong in such areas as education, economy and sports,” Mr Lee said.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_202236_885/images/20261028202719430.jpg",
+      "publishedAt": "2026-10-27T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_202236_885.html"
     },
     {
       "id": "3d2730b4de88bae2",
@@ -1479,17 +1490,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/myanmar/2026/10/22/aung-san-suu-kyi-son-kim-aris-burma-phone-call/"
-    },
-    {
-      "id": "c584601f713f69a1",
-      "title": "HK claims 3 silver, 3 bronze",
-      "excerpt": "Secretary for Culture, Sports & Tourism Rosanna Law today congratulated Hong Kong athletes on winning three silver and three bronze…",
-      "fullText": "Secretary for Culture, Sports & Tourism Rosanna Law today congratulated Hong Kong athletes on winning three silver and three bronze medals at the 5th Asian Para Games across swimming, table tennis and fencing.\n\nSwimmer Chan Yui-lam bagged a silver medal in the Women's 200m Individual Medley SM14 event, following her previous success in the butterfly, backstroke, and relay events. Miss Law noted that the results demonstrated Chan Yui-lam’s all-around prowess.\n\nThe table tennis team also achieved another milestone, collectively winning two silver and two bronze medals in the doubles events. Chiu Kan-shan and Wong Yue-ching claimed a silver medal in the Women's Doubles - Class WD14 event, while Ng Mui-wui and Wong Ting-ting bagged a silver medal in Women's Doubles - Class WD22 event.\n\nIn addition, Ho Ka-sing and Wong Chi-yin earned a bronze medal in the Men's Doubles - Class MD18 event, while Wan Wai-lok and Yuen King-shing claimed a bronze medal in the Men's Doubles - Class MD22 event.\n\nMiss Law said it was a truly gratifying achievement, noting that the table tennis team has now amassed a total of 15 medals – five silver and 10 bronze – in the Asian Para Games.\n\nThe sports chief also congratulated fencer Yu Chui-yee on winning a bronze medal in the Women's Sabre Category A event with an outstanding performance.\n\nTomorrow marks the final day of the Games. Miss Law urged the public to cheer on Hong Kong’s fencing and boccia athletes.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261023/20261023_212705_114/images/20261023223503110.JPG",
-      "publishedAt": "2026-10-22T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261023/20261023_212705_114.html"
     },
     {
       "id": "d7162d6f417f4e0c",
