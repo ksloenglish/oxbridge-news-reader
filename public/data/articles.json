@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T03:00:32.577Z",
-  "checkedAt": "2026-10-28T03:15:19.028Z",
+  "generatedAt": "2026-10-28T03:30:23.477Z",
+  "checkedAt": "2026-10-28T03:30:23.477Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -8,8 +8,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_elocal.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "HTTP 502 Bad Gateway",
+      "ok": true,
+      "error": null,
       "articleCount": 20
     },
     {
@@ -18,8 +18,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_egreaterchina.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "HTTP 502 Bad Gateway",
+      "ok": true,
+      "error": null,
       "articleCount": 19
     },
     {
@@ -28,9 +28,9 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_einternational.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "HTTP 502 Bad Gateway",
-      "articleCount": 18
+      "ok": true,
+      "error": null,
+      "articleCount": 19
     },
     {
       "id": "rthk-finance",
@@ -38,8 +38,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_efinance.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "HTTP 502 Bad Gateway",
+      "ok": true,
+      "error": null,
       "articleCount": 11
     },
     {
@@ -48,8 +48,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_esport.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "HTTP 502 Bad Gateway",
+      "ok": true,
+      "error": null,
       "articleCount": 19
     },
     {
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 17
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "300bfc2eb03f60af",
+      "title": "HK committed to driving sustainable growth: CE",
+      "excerpt": "Chief Executive John Lee on Wednesday said Hong Kong is committed to promoting sustainable growth across Asia and the world…",
+      "fullText": "Chief Executive John Lee on Wednesday said Hong Kong is committed to promoting sustainable growth across Asia and the world, and is leaning on innovation to achieve this goal.\n\nSpeaking at the annual One Earth Summit, Lee said bridging the gap between green capital, innovation and governance is vital amid accelerating climate change and biodiversity loss.\n\nHe noted that the city serves as a bridge between the mainland and overseas on testing and developing new green technologies.\n\nGovernment leadership, Lee said, will allow Hong Kong to tackle climate change better.\n\n“The Hong Kong SAR Government is setting up an inter-departmental task force to build an ‘AI City Brain’ system,” the CE said.\n\n“It will provide early warnings of risks and trend forecasts. It will improve inter-departmental collaboration on extreme weather, major incidents and public order.”\n\nLee went on to say that the SAR has already announced various decarbonisation and environmental-protection targets in its inaugural five-year plan, such as improving air and water quality.\n\nHe believes the SAR can play a part in driving sustainability by mobilising capital, technology and people.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T03:08:46.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875594-20261028.htm"
+    },
+    {
+      "id": "7cd89e0ad8fec4b4",
+      "title": "Ebola outbreak passes 10,000 cases, mostly in DRC",
+      "excerpt": "Africa's latest outbreak of Ebola has passed 10,000 confirmed cases, the vast majority of them in the Democratic Republic of…",
+      "fullText": "Africa's latest outbreak of Ebola has passed 10,000 confirmed cases, the vast majority of them in the Democratic Republic of the Congo, the Congolese health authorities said on Tuesday, with almost 5,000 fatalities.\n\nAccording to the DRC's figures, 10,060 people have been infected and 4,887 have died since the virus was first detected in May in the vast central African country's deadliest outbreak in its history.\n\nCases have likewise been detected in Kenya, Nigeria and Uganda, with the World Health Organisation warning that Africa faces a \"complex\" task to contain an outbreak spanning the east, west and centre of the continent.\n\nWhile some 2,684 have recovered from the virus in the DRC, the epidemic's fatality rate appears to be close to 50 percent, according to the Congolese National Institute of Public Health.\n\nAmong the many challenges facing the response is the lack of any approved vaccines or treatments for the rare Bundibugyo species of Ebola behind the epidemic.\n\nAfter spreading under the radar for weeks, the virus was first detected in the northeastern Congolese province of Ituri, kicking off the DRC's 17th outbreak of the disease.\n\nIt has since spread across swathes of the country's north and east, which is plagued by a litany of violence by various armed groups and where trust in a faraway and long-absent state is low.\n\nIturi and the eastern North Kivu province, the latter of which is partially controlled by the Rwanda-backed M23 militia, account for the majority of reported cases.\n\nAfter registering a total of 20 cases and two deaths, neighbouring Uganda was declared Ebola-free by the WHO in late August.\n\nKenya, which had not reported a single case of the contagious virus until October 6, has likewise suffered two deaths from the virus out of nine cases.\n\nMost of those infected had recently travelled to the DRC.\n\nThe only case so far confirmed in Nigeria, a 42-year-old Swiss woman who contracted the virus following a trip to Uganda with her husband, was evacuated back to a hospital in Geneva on Monday.\n\nFifty-three of the patient's contacts have been identified by the Nigerian health authorities, in a bid to stop the virus spreading across Africa's most populous nation.\n\nSome experts are worried that the virus – caught through contact with bodily fluids – could have spread after the Swiss couple landed back in Nigeria on October 3.\n\nThe WHO said the patient, the wife of an employee of the Swiss embassy in the capital Abuja, developed symptoms on October 7.\n\nShe then sought care in Abuja on October 11, before testing positive for Bundibugyo on October 20.\n\nA Ugandan government spokesperson dismissed the idea that the Swiss woman could have contracted the disease while in the African Great Lakes nation.\n\nThe response to the DRC's outbreak has been hampered by the distrust of parts of the population.\n\nA nurse was killed and a health worker seriously wounded in the northeastern Tshopo province on Saturday, according to the WHO.\n\nDoctor Marcel Likolo, chief medical officer of the Bafwasende health district, said that young people from the area had accused the victims of trying to infect locals with tablets before attacking them.\n\nThe Ebola treatment centre where the incident took place has since shut down, he said.\n\nSince it first emerged half a century ago, Ebola has killed more than 15,000 people across Africa.\n\nTesting of the Ervebo vaccine, which has already proven to be effective against the more common Zaire strain of the virus, has begun in recent weeks to determine whether it could also provide protection against the Bundibugyo variant. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T03:03:03.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875559-20261028.htm"
+    },
     {
       "id": "bc6d6d5962a883f1",
       "title": "Asia shares up ahead of US tech results",
@@ -909,17 +931,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875272-20261025.htm"
     },
     {
-      "id": "eff87e6538462677",
-      "title": "Evening News on TV32 - Oct 25",
-      "excerpt": "Top stories for Sunday, Oct 25, 2026 - Late night congestion at the new Huanggang port prompts calls for greater…",
-      "fullText": "Top stories for Sunday, Oct 25, 2026\n\n- Late night congestion at the new Huanggang port prompts calls for greater efforts to keep travellers moving.\n\n- Paul Chan says last week's Apec gathering showcased what Hong Kong can offer the world.\n\n- Fresh clashes rock France as protests continue.",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T12:23:50.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875265-20261025.htm"
-    },
-    {
       "id": "ecc0d4018f7050e4",
       "title": "Ensure smooth flow at boundary checkpoints: CS",
       "excerpt": "Chief Secretary Eric Chan on Sunday instructed government departments to ensure the smooth flow of travellers at boundary control points…",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260916/20260916_095230_867.html"
-    },
-    {
-      "id": "cc2a19a9552413d3",
-      "title": "Govt supports livelihoods, fertility",
-      "excerpt": "The 2026 Policy Address, delivered this morning by Chief Executive John Lee, includes extensive measures to support youth employment and…",
-      "fullText": "The 2026 Policy Address, delivered this morning by Chief Executive John Lee, includes extensive measures to support youth employment and the elderly, and to promote fertility.\n\nAmong other policies, Mr Lee announced the launch of a youth employment scheme, increased newborn baby bonuses, and an expansion of voucher schemes for the elderly.\n\nThe two-year “30,000 Youth Employment & Internship Programme” is designed to facilitate youth employment and development, especially among those with limited or no work experience. The Government will mobilise the business sector, including major employer and trade associations, to provide an additional 10,000 full‑time jobs lasting six months or more within a two‑year period starting from the first quarter of next year. The jobs will be open to young people newly entering the workforce, with the Government providing a portion of the wages.\n\nIn addition, the Home & Youth Affairs Bureau (HYAB) will launch an International Young Talent Exchange Base before the end of the year. The base will offer a new HYAB-United Nations Youth Leaders Internship Programme, providing internship placements at various United Nations agencies.\n\nEleven measures in total were outlined to promote fertility in Hong Kong.\n\nThese include an extension of the $20,000 newborn baby bonus for another three years, and an increase in bonuses for a second or subsequent child from $20,000 to $30,000, with the increase taking effect immediately for children born today or later. The relevant tax allowance for a second or subsequent child will increase from $140,000 to $160,000, with this rate being effective for two years following childbirth.\n\nIn addition, eligible families purchasing a residential property within the period of one year preceding or two years following the birth of a child will be granted a stamp duty waiver of up to $20,000. The maximum mortgage loan-to-value ratio for White Form family applicants with newborns will be raised to 95% starting from the next Home Ownership Scheme sales exercise.\n\nMoreover, the Hospital Authority will increase the provision of in-vitro fertilisation treatment in phases over the next three years to 1,900 treatment cycles per year, and the Primary Healthcare Commission will gradually extend its free pre-pregnancy, antenatal and postnatal classes to all District Health Centres (DHCs) and DHC Expresses. The Family Planning Association of Hong Kong will launch a publicity campaign this year to promote healthy fertility.\n\nOther measures include setting up three more aided standalone child care centres, which are expected to provide around 1,800 additional day care places for children under the age of three by the end of 2030. The School-based After School Care Service Scheme will be regularised starting from the 2027-28 school year, and professional support for the After School Care Programme for Pre-primary Children will be strengthened.\n\nWith regard to Hong Kong’s elderly population, the Government will strive to foster a sense of security and worth among senior residents, in adherence with the principle of promoting “ageing in place as the core, with institutional care as back-up”.\n\nThe number of Community Care Service Vouchers for the Elderly will be increased by 2,000 to 18,000 in the 2027-28 financial year, while the number of Residential Care Service Vouchers for the Elderly will rise by 1,000 to 8,000.\n\nFive new subsidised day care facilities, providing about 200 services places, and five new Neighbourhood Elderly Centres, expected to serve about 5,000 persons each year, will be set up. Three new residential care homes for the elderly will also be set up, providing about 400 places.\n\nA sum of $100 million will be earmarked for the launch of the Gerontechnology Promotion Scheme, which will support local technology enterprises in developing elderly-care products and solution. In addition, a mobile version of the JoyYou Card will be launched before the end of this year, bringing added convenience to elderly users.\n\nView Chapter VII of the Chief Executive's Policy Address for more details.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260916/20260916_100217_197/images/20260916165322071.jpg",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260916/20260916_100217_197.html"
     }
   ]
 }
