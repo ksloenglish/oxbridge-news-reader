@@ -108,7 +108,7 @@ To change what gets ingested, edit the catalog and merge it to `main`. The fetch
 
 Items are de-duplicated by link and sorted newest first. The catalog `caps` keep 20 items per feed, 150 articles in total, and excerpts of about 20 words (`excerptWords`).
 
-A feed that returns an HTTP error, times out, or sends a non-feed page is logged and skipped. Articles from the feeds that succeeded are still written. The feed row keeps `ok: false` and the error text. When every enabled feed fails and a snapshot is already on disk, the script leaves that file unchanged, so `checkedAt` stays on the last successful read. A source that keeps failing is removed from the catalog instead of left enabled.
+A feed that returns an HTTP error, times out, or sends a non-feed page is logged. Its row keeps `ok: false` and the error text. When at least one enabled feed succeeds, articles already stored for each failed feed stay in the snapshot and are merged with the feeds read on this run, then the usual per-feed and total caps apply. `checkedAt` advances. `generatedAt` advances only when that merged list changes. When every enabled feed fails and a snapshot is already on disk, the script leaves that file unchanged, so `checkedAt` stays on the last successful read. A source that keeps failing is removed from the catalog instead of left enabled.
 
 Ingest dependencies are pinned in [`scripts/package.json`](scripts/package.json), separate from the Vite app manifest.
 
