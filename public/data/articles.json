@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T03:30:23.477Z",
-  "checkedAt": "2026-10-28T04:00:27.698Z",
+  "generatedAt": "2026-10-28T04:12:29.385Z",
+  "checkedAt": "2026-10-28T04:12:29.385Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -95,8 +95,19 @@
   ],
   "articles": [
     {
+      "id": "be0db33bd81c4919",
+      "title": "HK home prices rise for second straight month",
+      "excerpt": "Government data released on Wednesday showed private home prices rose for a second straight month in September, with the official…",
+      "fullText": "Government data released on Wednesday showed private home prices rose for a second straight month in September, with the official index climbing 0.19 percent month-on-month to 320.8.\n\nOn a year-on-year basis, home prices were up 9.3 percent, according to the figures from the Rating and Valuation Department.\n\nFor the first nine months of the year, prices accumulated a rise of more than seven percent.\n\nBy unit size, prices for small and medium-sized flats rose 0.16 percent from the previous month, and were up 9.3 percent year-on-year. Larger units saw a 0.8 percent monthly increase and a 9.5 percent annual gain.\n\nThe rental index hit another record high, extending the upward streak to 11 months.\n\nThe September reading stood at 212.2, up 0.47 percent from August and 6.2 percent higher than a year earlier. For the first nine months of the year, rents have climbed 5.8 percent.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T03:50:11.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875606-20261028.htm"
+    },
+    {
       "id": "300bfc2eb03f60af",
-      "title": "HK committed to driving sustainable growth: CE",
+      "title": "SAR committed to driving sustainable growth: CE",
       "excerpt": "Chief Executive John Lee on Wednesday said Hong Kong is committed to promoting sustainable growth across Asia and the world…",
       "fullText": "Chief Executive John Lee on Wednesday said Hong Kong is committed to promoting sustainable growth across Asia and the world, and is leaning on innovation to achieve this goal.\n\nSpeaking at the annual One Earth Summit, Lee said bridging the gap between green capital, innovation and governance is vital amid accelerating climate change and biodiversity loss.\n\nHe noted that the city serves as a bridge between the mainland and overseas on testing and developing new green technologies.\n\nGovernment leadership, Lee said, will allow Hong Kong to tackle climate change better.\n\n“The Hong Kong SAR Government is setting up an inter-departmental task force to build an ‘AI City Brain’ system,” the CE said.\n\n“It will provide early warnings of risks and trend forecasts. It will improve inter-departmental collaboration on extreme weather, major incidents and public order.”\n\nLee went on to say that the SAR has already announced various decarbonisation and environmental-protection targets in its inaugural five-year plan, such as improving air and water quality.\n\nHe believes the SAR can play a part in driving sustainability by mobilising capital, technology and people.\n\nEdited by Aaron Tam",
       "imageUrl": null,
@@ -830,17 +841,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875327-20261026.htm"
-    },
-    {
-      "id": "74dfbe631a374294",
-      "title": "Medical products regulator 'aims to boost innovation'",
-      "excerpt": "A new regulatory authority for medical products in Hong Kong aims to gain international trust and serve patients around the…",
-      "fullText": "A new regulatory authority for medical products in Hong Kong aims to gain international trust and serve patients around the world, according to its controller Li Zili.\n\nThe Hong Kong Centre for Medical Products Regulation, which will be established in the SAR by the end of the year, is expected to promote the “primary evaluation” of drugs and medical devices to speed up their clinical application.\n\nSpeaking to reporters, Li said the centre’s mission is to protect public health and promote medical innovation.\n\n“We need to build a medical products regulatory authority with comprehensive capabilities – one that is trusted internationally,” he said.\n\n“We should leverage our unique strategic position in medical products regulation – we not only serve patients in Hong Kong, but also keep the world in mind and serve all patients around the world.”\n\nLi said the “primary evaluation” to be established in the future should complement the existing framework and enhance the international community’s trust in the centre through a scientific and transparent regulatory system.\n\nHe added the centre would not only become a super connector linking the mainland and the world, but also boost medical reforms and innovations.\n\nLi went on to say that authorities would set up an interdisciplinary scientific team that focuses on clinical review with the aim of accelerating international cooperation.\n\nMeanwhile, Director of Health Ronald Lam said Li possesses practical experience in regulatory affairs and public health and is familiar with international medical products policies.\n\nLam expressed confidence that Li would be able to reform the system with his experience and leadership skills.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T01:21:42.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875318-20261026.htm"
     },
     {
       "id": "7597c920ce54ead1",
