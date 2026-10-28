@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T10:45:18.801Z",
-  "checkedAt": "2026-10-28T12:00:31.289Z",
+  "generatedAt": "2026-10-28T12:15:18.840Z",
+  "checkedAt": "2026-10-28T12:15:18.840Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "f143bf66df7b8ac9",
+      "title": "Pairing industrial AI autonomy and human control",
+      "excerpt": "",
+      "fullText": "",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T12:00:00.000Z",
+      "source": "MIT Technology Review",
+      "sourceFeed": "mit-technology-review",
+      "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/"
+    },
+    {
+      "id": "a1c3a2e9867d9d04",
+      "title": "Ex-vice premier Liu Yandong passes away at 81",
+      "excerpt": "Former vice premier and state councilor Liu Yandong passed away due to illness at the age of 81 in Beijing…",
+      "fullText": "Former vice premier and state councilor Liu Yandong passed away due to illness at the age of 81 in Beijing on Wednesday afternoon.\n\nLiu also served as a member of the Political Bureau of the 17th and 18th Central Committees of the Communist Party of China (CPC), and a vice chairperson of the 10th National Committee of the Chinese People's Political Consultative Conference.\n\nLiu was \"an excellent Party member, a time-tested and loyal communist fighter, and an outstanding leader in the CPC's united front work and in the fields of education, science and technology, health, and children and women work in China,\" an official statement said. (Xinhua)\n\nEdited by Raymond Yeung",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T11:48:09.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875673-20261028.htm"
+    },
     {
       "id": "05842605b3480254",
       "title": "Spain train collision kills at least 30: authorities",
@@ -1426,17 +1448,6 @@
       "link": "https://rfa.org/english/myanmar/2026/10/22/interview-kim-aris-aung-san-suu-kyi-phone-call-burma/"
     },
     {
-      "id": "610efe4e9ad2d36f",
-      "title": "The Foundations of Scalable AI",
-      "excerpt": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as…",
-      "fullText": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic systems, into lasting value for investors.\n\nAbout the speaker\n\nJing Wang, Principal, Center for AI and Insights, Vanguard\n\nJing Wang leads Vanguard’s Center for AI & Insights (CAI), advancing the firm’s AI, machine learning, generative AI, and behavioral science capabilities. Her team drives enterprise-wide innovation, research, and delivery, enabling Vanguard to translate emerging technologies into trusted solutions that enhance client experiences, improve investor outcomes, and create measurable business value.\n\nBefore her current position, Jing served in a range of leadership roles across Vanguard’s Financial Services, Workplace Solutions, International, and Corporate Services divisions. Throughout her tenure, she has led teams and enterprise initiatives that advanced strategic priorities, strengthened client outcomes, and drove business performance across the firm.\n\nShe joined Vanguard in 2009 after several years as a Principal at the Boston Consulting Group. Jing earned a B.S. in Physics from the University of Science and Technology of China, a Ph.D. from the University of Pennsylvania, and an M.B.A. in Finance and Marketing from the Wharton School of Business at the University of Pennsylvania. Jing holds Series 7, 24, and 65 licenses.",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Wang_forweb.png",
-      "publishedAt": "2026-10-22T18:48:04.000Z",
-      "source": "MIT Technology Review",
-      "sourceFeed": "mit-technology-review",
-      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
-    },
-    {
       "id": "e018d145f478df01",
       "title": "Aung San Suu Kyi phone call is ‘political calculation’ by military-backed government",
       "excerpt": "Advocates demand full release of Myanmar's former leader after her first contact with family in 5 years.",
@@ -1468,17 +1479,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1874949-20261022.htm"
-    },
-    {
-      "id": "f0fb7cf8926f4b27",
-      "title": "'China, Russia are valuable force for stability'",
-      "excerpt": "Premier Li Qiang said on Wednesday said China and Russia have served as a valuable force for stability in a…",
-      "fullText": "Premier Li Qiang said on Wednesday said China and Russia have served as a valuable force for stability in a world marked by turbulence and transformation, as he said Beijing stands ready to enhance cooperation with Moscow.\n\nLi was speaking during a meeting with Russian President Vladimir Putin in St Petersburg.\n\nXinhua news agency quoted Li as saying that China is ready to work with Russia to deepen practical cooperation in areas such as energy resources, trade and investment, and transportation, and achieve more positive outcomes.\n\nBeijing is also ready to strengthen communication and coordination with Moscow on major issues, and maintain close cooperation within multilateral platforms such as the Shanghai Cooperation Organization and Brics, Li added. He said both sides should unite more forces of the Global South to safeguard common interests and uphold fairness and justice.\n\nFor his part, Putin said relations between the neighbours are built on the basis of equality and mutual respect, while noting that bilateral relations are not affected by changes in the international landscape and not subject to interference from any third party.\n\nChina has been and will always be Russia's closest and most reliable partner, Putin said.\n\nRussia is ready to deepen practical cooperation with China in areas such as energy, agriculture, space, civilian nuclear energy, information technology, artificial intelligence and transportation, he added. (Reporting by Xinhua)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-21T23:17:52.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1874853-20261022.htm"
     },
     {
       "id": "c14331b8616f068a",
