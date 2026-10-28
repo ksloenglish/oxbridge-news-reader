@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T05:45:18.089Z",
-  "checkedAt": "2026-10-28T05:45:18.089Z",
+  "generatedAt": "2026-10-28T06:00:30.215Z",
+  "checkedAt": "2026-10-28T06:00:30.215Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -8,8 +8,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_elocal.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "HTTP 502 Bad Gateway",
+      "ok": true,
+      "error": null,
       "articleCount": 20
     },
     {
@@ -18,8 +18,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_egreaterchina.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "HTTP 502 Bad Gateway",
+      "ok": true,
+      "error": null,
       "articleCount": 19
     },
     {
@@ -28,8 +28,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_einternational.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "HTTP 502 Bad Gateway",
+      "ok": true,
+      "error": null,
       "articleCount": 19
     },
     {
@@ -38,9 +38,9 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_efinance.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "HTTP 502 Bad Gateway",
-      "articleCount": 12
+      "ok": true,
+      "error": null,
+      "articleCount": 13
     },
     {
       "id": "rthk-sport",
@@ -48,8 +48,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_esport.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "HTTP 502 Bad Gateway",
+      "ok": true,
+      "error": null,
       "articleCount": 19
     },
     {
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "6ff23ffcaca16e53",
+      "title": "Rays win thriller to stay alive in World Series",
+      "excerpt": "The Tampa Bay Rays staged a dramatic extra-innings rally to keep their World Series dream alive on Tuesday, walking off…",
+      "fullText": "The Tampa Bay Rays staged a dramatic extra-innings rally to keep their World Series dream alive on Tuesday, walking off a 4-3 victory against the Milwaukee Brewers to avoid a clean sweep.\n\nTampa Bay's Ben Williamson singled a ground ball to right field in the bottom of the 12th inning to complete a thrilling comeback at Tropicana Field that ensures a game five on Wednesday.\n\n\"Just shows the resiliency of this group,\" Williamson said afterwards.\n\n\"We continue to fight and that's been the motto this series and this whole season.\"\n\nMilwaukee had looked to be heading for a 4-0 series triumph after rookie shortstop Cooper Pratt launched a solo home run in the 12th inning to give the Brewers a 3-2 lead on the night.\n\nBut with their season on the line, the Rays flipped the script, igniting a fightback when a throwing error by Brewers' third baseman Joey Ortiz allowed Junior Caminero to reach first base.\n\nThe Brewers brought in reliever Shane Drohan to replace Antonio Senzatela, but the Rays continued to prosper with catcher Liam Hicks singling to send Caminero to third base with no outs.\n\nJonny DeLuca then singled to drive in a run to make it 3-3, and shortly after that leveller Chandler Simpson singled to load the bases with no outs.\n\nPinch hitter Williamson then came in and steered a ground ball to right field to score the winning run. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T05:32:26.000Z",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875616-20261028.htm"
+    },
+    {
+      "id": "db4c1437388be48b",
+      "title": "Major progress in HK's third medical school: HKUST",
+      "excerpt": "The Hong Kong University of Science and Technology (HKUST) on Wednesday said its new medical school had entered a new…",
+      "fullText": "The Hong Kong University of Science and Technology (HKUST) on Wednesday said its new medical school had entered a new stage of development.\n\nHKUST officials said that construction of its Medical Education and Research Complex — the core interim facility at the Clear Water Bay campus for its new school of medicine — is ahead of schedule.\n\nUpdating the media on progress for the city's third medical school, HKUST officials said the eight-storey building topped out last week, less than six months after its groundbreaking.\n\nDean King Li said the school had also made encouraging progress in faculty recruitment, securing candidates for various key roles.\n\nThe school aims to have at least 100 professors by 2030 to maintain a 1:1 teacher-student ratio, he said.\n\nLi noted that the ratio of local to overseas professors is expected to be fairly even.\n\n\"It's a process, so we want to choose the best candidates instead of where they come from. As time goes on, you will see that more and more global people will show up,” he said.\n\n“In the beginning, it would seem like it's geared towards the locals, because [it's] easier [for them] to join, but the actual ratio of applicants is not skewed that much that way. It's fairly even, I would say, at this time.”\n\nOne of the newly recruited faculty members is Anskar Leung, a former vice-dean at the University of Hong Kong's medical faculty.\n\nHKUST President, Professor Nancy Ip, stressed that the school had not engaged in any talent-poaching from other medical schools, but noted that they have received plenty of interest.\n\n“When HKUST indicated its interest to establish the third medical school in Hong Kong, even before the selection process, we received a lot of enquiries already from interested faculty candidates, both locally and overseas,” she said.\n\n“So I think they share our vision. They would very much like to participate in the founding stage to set up the new medical school.”\n\nLeung, who has already assumed his new role as Senior Associate Dean of Medicine at HKUST, said he shared the school's vision and described the opportunity as a once-in-a-lifetime experience.\n\nHe added that he resigned from HKU about four months ago.\n\nHKUST also said it remains confident it would meet its target in admitting the first cohort of 50 students in the 2028/2029 academic year.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T05:20:47.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875621-20261028.htm"
+    },
     {
       "id": "0a63aaa294161037",
       "title": "Hung Hom plan will not block iconic Lion Rock view",
@@ -827,8 +849,8 @@
       "fullText": "Lawmakers hailed on Monday an upcoming arrangement that allows employees to transfer not only their own mandatory provident fund contributions but also their employer’s to a scheme of their choice once every calendar year.\n\nTheir remarks came as phase one of the MPF Full Portability scheme – which grants employees greater autonomy by allowing them to transfer accrued mandatory contributions by their employers to a scheme of their choice – is set to begin on December 21.\n\nSpeaking on a RTHK radio programme, lawmaker Chau Siu-chung said he supported the arrangement as workers would be able to choose the MPF trustee they considered to be the best for them as well as foster more competition and help drive down administrative fees.\n\nHe also said that the current eMPF platform would make the transfer process simpler and easier.\n\nChau, also a non-executive director of the Mandatory Provident Fund Schemes Authority, noted that many workers remained unclear about what MPF “full portability” means and that public awareness in this regard needed to be strengthened.\n\n“I think public awareness right now is indeed not ideal – about 80 percent of people are basically not very clear about what full portability means, there is definitely a need to do more,” he said.\n\nChau also called on the public to be alert to unfair sales practices.\n\nHe urged the government to take this opportunity to summarise and simplify information about different trustees so that workers could have clear, easy-to-compare information to take reference from.\n\nSpeaking on RTHK’s Backchat programme, lawmaker Lam Chun-sing also welcomed the arrangement but noted that employees should avoid changing their scheme frequently as it may cause high administrative costs and may affect their returns.\n\n“MPF investment is a long-term investment for retirement [so] that we want to achieve stable growth of the MPF contributions instead of short-term returns like share investment or other investment tools,” he said.\n\n“If you frequently change your scheme or transfer your MPF contribution to different trustees, this may cause high administrative costs and may affect your return.”\n\nLam also encouraged workers who are not investment professionals or do not have time to manage their scheme to consider using the default investment strategy, saying it automatically reduces risks and uses a diversified investment approach to bring favourable returns.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-10-26T05:05:30.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875339-20261026.htm"
     },
     {
@@ -1270,17 +1292,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875106-20261023.htm"
-    },
-    {
-      "id": "551debcc2b0333bc",
-      "title": "More Para table tennis medals for Hong Kong, China",
-      "excerpt": "SAR paddlers have captured a total of five silver and 10 bronze medals at the Asian Para Games. The Hong…",
-      "fullText": "SAR paddlers have captured a total of five silver and 10 bronze medals at the Asian Para Games.\n\nThe Hong Kong, China squad added to its medals tally on Friday when Ng Mui-wui and Wong Ting-ting took silver in the women's doubles WD22 event.\n\nIn the men's doubles MD22 competition, Wan Wai-lok and Yuen King-shing came third in their group and secured a bronze medal.\n\nEarlier on Friday, the SAR team won silver in women's doubles WD14 and bronze in men's doubles MD18.\n\nIn para swimming, Chan Yui-lam claimed a silver medal in the women's 200m individual medley.\n\nShe finished behind Japan's Aira Kinoshita while Nattharinee Khajhonmatha of Thailand came third.\n\nAnd in para fencing, Yu Chui-yee of Hong Kong took bronze in women's sabre category A.\n\nShe was beaten 14-15 by her Thai opponent in the semi-finals.\n\nThe competition did not feature a third-place playoff.\n\nSecretary for Culture, Sports and Tourism Rosanna Law extended her congratulations to all the SAR medallists on Friday.\n_____________________________\nLast updated: 2026-10-23 HKT 21:44\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T09:11:38.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875091-20261023.htm"
     },
     {
       "id": "f523dbd065f98534",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260916/20260916_095550_669.html"
-    },
-    {
-      "id": "4112a2dfee88b437",
-      "title": "HK to deepen GBA development",
-      "excerpt": "Hong Kong will play an active role in advancing the development of the Guangdong-Hong Kong-Macao Greater Bay Area (GBA) to…",
-      "fullText": "Hong Kong will play an active role in advancing the development of the Guangdong-Hong Kong-Macao Greater Bay Area (GBA) to develop a first-class, international bay area by leveraging its strong connections with the Mainland.\n\nIntroducing the city’s First Five-Year Plan, Chief Executive John Lee today highlighted that the GBA serves as a strategic fulcrum of the country’s new development paradigm, demonstrating high-quality development while pioneering Chinese modernisation.\n\nHong Kong’s participation in the GBA’s development will help to elevate the region into a first-class bay area with international influence. Through the \"high-end research and development advanced manufacturing-modern services\" collaboration model, the city will develop an innovation and technology industry chain.\n\nUnder the Five-Year Plan, Hong Kong will continue to promote the “hard connectivity” of infrastructure by advancing cross-boundary railway projects and promoting the interconnectivity of computing infrastructure with other GBA cities, thereby expediting the formation of large intelligent computing clusters.\n\nThe city will facilitate the mutual recognition of professional qualifications in the GBA and align healthcare services and regulatory frameworks in the area. It will also enhance the mutual capital market access mechanism and facilitate the flow of personnel, materials, capital and data.\n\nThe plan also pledges to strengthen cooperation between Hong Kong’s higher education institutions and those in the GBA cities, and the Residential Care Services Scheme in Guangdong will be expanded.\n\nThe city will also create an international collaboration network. This co-operative alliance will deepen regional collaboration with the Mainland, as well as international co-operation and exchanges.\n\nGuided by the Five-Year Plan, Hong Kong will actively participate in the work of international organisations, promote Chinese standards and deepen participation in high-quality Belt & Road cooperation.\n\nVisit Part 4 of Hong Kong’s First Five-Year Plan for more details.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260916/20260916_094058_214/images/20260916132549848.jpg",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260916/20260916_094058_214.html"
     }
   ]
 }
