@@ -86,4 +86,10 @@ test("the desk re-reads published articles.json and does not call GitHub", () =>
   assert.equal(main.includes("News last changed"), false);
   assert.match(main, /Check for updates/);
   assert.match(main, /Stories checked\./);
+  assert.equal(main.includes("Could not read these sources"), false);
+  assert.equal(main.includes("on the last check"), false);
+  assert.equal(main.includes("Some sources could not be read"), false);
+  assert.equal(main.includes("formatFeedCheckFailure"), false);
+  assert.equal(main.includes("is-failed"), false);
+  assert.equal(main.includes("feed.error"), false);
 });

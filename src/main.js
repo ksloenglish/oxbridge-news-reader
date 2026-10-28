@@ -4,12 +4,10 @@ import {
   articlesForSelection,
   categoryLabel,
   describeFeedCheck,
-  formatFeedCheckFailure,
   formatPublishedAt,
   readCatalog,
   readSnapshot,
   selectionLabel,
-  statusForSelection,
 } from "./data.js";
 import { toCsv, formatWordText, hitToRecord } from "./export.js";
 import {
@@ -258,7 +256,7 @@ function renderNews() {
           </button>`;
         })
         .join("")
-    : `<p class="empty">${esc(emptySelectionNote())}</p>`;
+    : `<p class="empty">${esc("No stories in this snapshot yet.")}</p>`;
 
   const reader = current
     ? `<div class="pane reader"><article class="reader">
@@ -310,13 +308,11 @@ function refreshAckMarkup() {
 
 function renderFreshness() {
   const health = describeFeedCheck(bundle);
-  const failed = formatFeedCheckFailure(statusForSelection(catalog, bundle, ui.selection));
   const timing = health.when
     ? `<span class="${health.overdue ? "is-overdue" : ""}">${esc(health.label)} <time datetime="${esc(health.stamp)}">${esc(health.when)}</time> (HKT).${health.overdue ? " This check is overdue." : ""}</span>`
     : `<span class="is-overdue">${esc(health.text)}</span>`;
-  const failure = failed ? `<span class="is-failed">${esc(failed)}</span>` : "";
-  const state = health.overdue ? "overdue" : failed ? "failed" : "current";
-  return `<p class="freshness" data-feed-check="${state}"><span>Auto-updates through the day.</span>${timing}${failure}</p>`;
+  const state = health.overdue ? "overdue" : "current";
+  return `<p class="freshness" data-feed-check="${state}"><span>Auto-updates through the day.</span>${timing}</p>`;
 }
 
 function storyMeta(article) {
@@ -411,18 +407,6 @@ function renderWordLists(article) {
     </article>`;
   }).join("");
   return `<section class="word-lists" aria-label="Word lists"><h3>Word Lists</h3>${cards}</section>`;
-}
-
-function emptySelectionNote() {
-  const rows = statusForSelection(catalog, bundle, ui.selection).filter((feed) => feed.ok === false);
-  if (!rows.length) return "No stories in this snapshot yet.";
-  const detail = rows
-    .map((feed) => feed.error)
-    .filter(Boolean)
-    .join(" ");
-  return detail
-    ? `No stories in this snapshot yet. ${detail}`
-    : "No stories in this snapshot yet.";
 }
 
 function wordMatchesBank(record) {

@@ -121,16 +121,6 @@ export function describeFeedCheck(snapshot, now = Date.now()) {
   return { checkedAt, generatedAt, stamp, when, overdue, text, label, newsUpdated };
 }
 
-/** Name sources from the current selection that failed on the last check. */
-export function formatFeedCheckFailure(feeds) {
-  const failed = (feeds || []).filter((feed) => feed && feed.ok === false);
-  if (!failed.length) return "";
-  const names = failed.map((feed) => feed.name || feed.id).filter(Boolean);
-  if (names.length === 1) return `Could not read ${names[0]} on the last check.`;
-  if (!names.length) return "Some sources could not be read on the last check.";
-  return `Could not read these sources on the last check: ${names.join(", ")}.`;
-}
-
 /** Hong Kong clock time for a snapshot stamp. Empty when missing or unreadable. */
 export function formatSnapshotUpdated(value) {
   if (!value) return "";
