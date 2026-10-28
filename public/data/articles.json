@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-10-28T05:15:19.510Z",
-  "checkedAt": "2026-10-28T05:15:19.510Z",
+  "checkedAt": "2026-10-28T05:30:22.694Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -8,8 +8,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_elocal.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTP 502 Bad Gateway",
       "articleCount": 20
     },
     {
@@ -18,8 +18,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_egreaterchina.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTP 502 Bad Gateway",
       "articleCount": 19
     },
     {
@@ -28,8 +28,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_einternational.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTP 502 Bad Gateway",
       "articleCount": 19
     },
     {
@@ -38,8 +38,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_efinance.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTP 502 Bad Gateway",
       "articleCount": 12
     },
     {
@@ -48,8 +48,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_esport.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": true,
-      "error": null,
+      "ok": false,
+      "error": "HTTP 502 Bad Gateway",
       "articleCount": 19
     },
     {
