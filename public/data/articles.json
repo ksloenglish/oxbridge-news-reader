@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T00:04:20.799Z",
-  "checkedAt": "2026-10-28T00:04:20.799Z",
+  "generatedAt": "2026-10-28T00:15:23.646Z",
+  "checkedAt": "2026-10-28T00:15:23.646Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "38771fbe7b06967b",
+      "title": "Venezuelan oil shipment arrives in Texas",
+      "excerpt": "The first cargo of Venezuelan crude under a deal between the US and producer NABEP unloaded in Texas on Tuesday…",
+      "fullText": "The first cargo of Venezuelan crude under a deal between the US and producer NABEP unloaded in Texas on Tuesday and will be sold by the US government to refineries run by Exxon Mobil and Venezuelan-owned Citgo Petroleum, a White House official said.\n\nNABEP confirmed in a statement it supplied 1 million barrels of Venezuelan oil as part of the deal. US President Donald Trump visited the port on Tuesday, where one of the vessels carrying the heavy crude served as a backdrop for his speech.\n\nThe government received the oil \"at no cost,\" the White House official told Reuters, while Trump called it a gift earlier in the day.\n\nNABEP's statement, which initially characterised the shipment as part of Washington's right to buy 20 percent of production at cost with no markup, was later updated to say the cargo came at no cost to US taxpayers \"to recognise the historic nature of the agreement.\"\n\n\"They've sent me as a gift a boatload of a million barrels of oil, and I'm giving that to the United States of America,” Trump told reporters. He later called it the \"first shipment of BILLIONS of Barrels to come\" in a post on Truth Social.\n\nThe delivery is the first from an arrangement that gives Washington a 35 percent stake in NABEP's parent company and discounted access to crude it produces.\n\nThe pact, struck after US forces captured and removed former President Nicolas Maduro from power in January, handed NABEP 14 additional oilfields on top of the three it already had in Venezuela, without a competitive process.\n\n\"This first shipment since the US-NABEP deal will be followed by thousands of such arrivals,\" NABEP CEO Alejandro Betancourt said in the company's statement. He said the cargo reached Texas in just over a week, compared with more than a month for crude from the Middle East.\n\nNABEP has said the 17 fields it controls in Venezuela hold an estimated 65 billion barrels of oil reserves. The company's total output reached 223,509 barrels of oil equivalent per day as of October 19, it said, up from about 18,000 bpd two years ago. Betancourt said last week that output at Petrozamora, its largest active project, had risen to 115,000 bpd.\n\nThe shipment gives Trump a chance to tout access to cheaper crude as evidence his policies are delivering economic benefits ahead of the midterm elections, with fuel costs a potential vulnerability for Republicans.\n\nIn Texas, Republican Senate candidate Ken Paxton faces Democrat James Talarico in a closely watched race that could help determine control of the Senate.\n\n\"We're celebrating the greatest oil victory in history. To the victor belongs the spoils, right?\" Trump said.\n\nTrump also praised oil executive Harold Hamm, who was in attendance, as the \"biggest independent oilman in the world,\" before recounting a conversation about Venezuela's vast petroleum reserves.\n\nHamm had described the country's oil wealth as so abundant that finding it was almost effortless, Trump said.\n\n\"You know how you find oil in Venezuela? You look on the ground. There it is,\" Trump said. (Reuters)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T00:03:14.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875578-20261028.htm"
+    },
     {
       "id": "679d1eebc0311a16",
       "title": "Carrick to stay as Utd boss for Chelsea clash: reports",
@@ -698,17 +709,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875362-20261026.htm"
-    },
-    {
-      "id": "f7a5b073e6bfec03",
-      "title": "Three church killings suspects held in Jordan shootout",
-      "excerpt": "Jordanian security forces have arrested three suspects in connection with an attack on a church in the US-allied country that…",
-      "fullText": "Jordanian security forces have arrested three suspects in connection with an attack on a church in the US-allied country that killed nine people, state television reported on Monday.\n\nThe attack, in which gunmen opened fire during a funeral at a Greek Orthodox church on Friday in the village of Hamoud in Karak governorate, about 120 kilometres southwest of the capital Amman, also wounded 40 others.\n\nThe shooting lasted several minutes, witnesses said.\n\nJordan's Public Security Directorate said security forces located the three suspects early on Monday hiding in an abandoned house in Karak.\n\nThe suspects refused to surrender and opened fire on security forces, who returned fire and arrested all three after they were wounded, the directorate said in a statement carried on state media.\n\nNo security personnel were injured, and a number of firearms and ammunition were found in the suspects' possession after their arrest.\n\n\"Terrorism has no place among us,\" the directorate said, adding that the suspects had met their \"just fate\".\n\nThe Public Security Directorate did not identify the suspects' affiliation or say whether they belonged to any militant group.\n\nJordanian authorities have said the attack was carried out by \"extremist terrorists\", but it was too early to determine whether they had links to known groups inside or outside Jordan.\n\nThere has been no claim of responsibility.\n\nInterior Minister Mazen al-Faraya on Monday said authorities were reviewing the circumstances that led young people towards extremism and would hold accountable anyone found to have participated in the attack.\n\nKing Abdullah, a US partner in the fight against Islamist militant groups, has ordered security forces to respond with an \"iron fist\" to the rare attack on Jordan's Christian minority.\n\nSuch violence is highly unusual in Jordan, a relatively stable state in the Middle East, though authorities say they have foiled several Islamist militant plots over the years. (Reuters)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T06:54:02.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875353-20261026.htm"
     },
     {
       "id": "d6a462a2cd823c15",
