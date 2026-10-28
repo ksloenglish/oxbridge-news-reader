@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T09:30:22.965Z",
-  "checkedAt": "2026-10-28T09:30:22.965Z",
+  "generatedAt": "2026-10-28T09:45:18.637Z",
+  "checkedAt": "2026-10-28T09:45:18.637Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "9debba75a2859e56",
+      "title": "Tech stocks soar pushing regional bourses higher",
+      "excerpt": "Technology firms surged in Asia on Wednesday after blockbuster earnings from chip giant SK hynix helped boost optimism in the…",
+      "fullText": "Technology firms surged in Asia on Wednesday after blockbuster earnings from chip giant SK hynix helped boost optimism in the AI trade ahead of results from Wall Street titans Microsoft and Alphabet.\n\nOil prices rose as investors kept tabs on Israel's election results, which could determine the future of Israeli Prime Minister Benjamin Netanyahu's war against Iran.\n\nIn Hong Kong, the stock market ended higher, with the benchmark Hang Seng Index up 0.23 percent to close at 23,094 points.\n\nThe Hang Seng China Enterprises Index gained 0.32 percent to 7,791 points, and the Hang Seng Tech Index jumped 1.40 percent to 3,853 points.\n\nOn the mainland, the benchmark Shanghai Composite Index finished up 0.91 percent to 3,681 points while the Shenzhen Component Index closed 2.02 percent higher.\n\nTurnover of stocks covered by these two indices totalled about 1.63 trillion yuan, up from 1.46 trillion yuan on the previous trading day.\n\nShares in robotics, semiconductor chips and AI-generated animated dramas were among the top gainers, while stocks in the pork and insurance sectors fell against the broader upward trend.\n\nThe ChiNext Index, tracking China's Nasdaq-style board of growth enterprises, gained 3.4 percent.\n\nThe STAR Composite Index, which reflects the performance of stocks on China's sci-tech innovation board, closed 3.2 percent higher.\n\nElsewhere in Asia, Tokyo stocks closed mixed.\n\nArtificial intelligence-related shares extended gains as worries about the profitability and sustainability of massive investments in the sector eased, but rising crude oil futures prompted selling in the broader market.\n\nThe benchmark Nikkei stock index, climbed 685 points, or 1.08 percent, to finish at 63,954.\n\nThe broader Topix index, meanwhile, slipped 5.66 points, or 0.14 percent.\n\nHeavyweight AI- and semiconductor-related shares tracked their US counterparts higher, with upbeat details in the initial public offering prospectus of AI giant Anthropic drawing buyers to the Tokyo market for a second straight session.\n\nMeanwhile, SK hynix, which has been at the forefront of the chip boom, said on Wednesday that third-quarter operating profit soared 632 percent to US$62.8 billion thanks to explosive demand for its advanced semiconductors.\n\nThe firm said it had now posted record revenue and operating profit for six straight quarters.\n\n\"While Wall Street argues over whether the AI arms race can keep financing itself, SK hynix has just reminded the market that somebody on the other side of all that capex is receiving the cheque,\" wrote Stephen Innes at SPI Asset Management.\n\nShares in SK hynix soared almost 11 percent and South Korean rival Samsung, which reports on Thursday, added nine percent.\n\nThat pushed Seoul's Kospi index up more than six percent at the close. (AFP/Xinhua)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:29:46.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875652-20261028.htm"
+    },
     {
       "id": "66ca3358a5ff891d",
       "title": "China takes Mbappe's apology for Mao comment seriously",
@@ -1050,17 +1061,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875247-20261025.htm"
-    },
-    {
-      "id": "e0b8d314590d6beb",
-      "title": "Around 1m workers to benefit from MPF Full Portability",
-      "excerpt": "Around one million workers are set to benefit from an upcoming arrangement that allows employees to transfer not only their…",
-      "fullText": "Around one million workers are set to benefit from an upcoming arrangement that allows employees to transfer not only their own mandatory contributions, but also their employer’s, to an MPF scheme of their choice once every calendar year, the Mandatory Provident Fund Schemes Authority (MPFA) said on Sunday.\n\nPhase one of the MPF Full Portability scheme is set to begin on December 21.\n\nEmployees who joined the workforce or changed jobs on or after May 1, 2025 – the day the MPF offsetting arrangement was officially abolished – will be eligible for the first phase.\n\nWriting in a blog post, MPFA chairman Ayesha Lau said the scheme would improve people’s control over their MPF portfolios and encourage employees to manage their retirement reserves more proactively.\n\nShe expects the number of beneficiaries to continue to rise as more graduates enter the workforce and employees change jobs.\n\nAs for workers who started their current jobs before May 1, 2025, Lau noted that because their employer mandatory contributions may continue to be used to offset long service payments or severance payments for employment periods prior to that date, additional legislative amendments would be required to balance operational needs and enhanced employee control.\n\nTransfers for the 2026 calendar year can be made between December 21 and 31, while transfers for 2027 will open on January 1.\n\nLau pointed out that the new scheme would not change existing arrangements for employers, who would continue to make contributions via the MPF schemes they participate in.\n\nShe also reminded workers that the MPF is a long-term investment, advising them to avoid making frequent transfers or switching schemes simply for the sake of it.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T05:26:46.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875243-20261025.htm"
     },
     {
       "id": "d931ac7fb12dfd14",
