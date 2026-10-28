@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T12:15:18.840Z",
-  "checkedAt": "2026-10-28T12:15:18.840Z",
+  "generatedAt": "2026-10-28T12:30:31.323Z",
+  "checkedAt": "2026-10-28T12:30:31.323Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -50,7 +50,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 20
     },
     {
       "id": "news-gov-hk-top",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 11
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "624801b23bf0b207",
+      "title": "Priority given to buses at Huanggang this weekend",
+      "excerpt": "The government warned that private cars crossing into Shenzhen via the Huanggang checkpoint during peak hours this weekend could face…",
+      "fullText": "The government warned that private cars crossing into Shenzhen via the Huanggang checkpoint during peak hours this weekend could face waits of more than an hour, as priority would be given to those arriving by public transport.\n\nLate-night outbound passenger flow surged last weekend, with scores of visitors leaving the city after attending a concert in Kai Tak or Halloween festivities elsewhere.\n\nIn a press briefing on Wednesday, Chief Secretary Eric Chan said more than 1,000 vehicles passed through Huanggang within two hours last Saturday, far exceeding its capacity of 360 vehicles per hour.\n\nWith more concerts scheduled this Friday and Saturday, plus the Wine and Dine Festival at the Central Harbourfront, authorities are bracing for another hectic weekend at the port.\n\nChan said northbound traffic at the crossing is expected to peak between 11pm and 2am from October 30 to November 1.\n\nAll inspection counters and vehicle lanes will open during those times to facilitate the travel peak.\n\nChan said priority will be given to public transport, while private cars will be diverted to a holding area when necessary, with possible waiting times of more than one hour.\n\nHe also urged travellers not to patronise unauthorised ride-hailing services.\n\n\"We will take law enforcement action because this is no good for the passengers. There is a risk in case of accidents – the insurance will not cover the damage,\" he said, adding that three arrests were made in the past two days.\n\nSecretary for Transport and Logistics Mable Chan said cross-border coach operators would ramp up services this weekend, with frequencies of up to five minutes.\n\nSecretary for Security Chris Tang said an emergency monitoring and support centre will start operating at noon on Friday to coordinate between government departments.\n\nChan once again appealed to travellers to consider staying overnight.\n\n\"Rather than being stuck in traffic, why not spend an extra hour at Lan Kwai Fong?\" he said.\n\nEdited by Raymond Yeung",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T12:14:05.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875667-20261028.htm"
+    },
     {
       "id": "f143bf66df7b8ac9",
       "title": "Pairing industrial AI autonomy and human control",
@@ -893,8 +904,8 @@
       "fullText": "Hong Kong, China’s top-performing athletes at the Aichi-Nagoya Asian Games were commended by Chief Executive John Lee on Monday for their historic performances.\n\nThe SAR achieved its best result to date at the Games in Japan, reaching new heights in both the gold medal count and the number of medals won overall.\n\nIn total, the delegation won 54 medals, comprising 11 gold, 19 silver, and 24 bronze.\n\nLee paid tribute to athletes during a commendation ceremony, noting that their dedication to compete through injuries and persevere when falling behind had earned everyone’s deepest respect.\n\nHe also presented certificates to the top-performing athletes, including wushu star Lydia Sham, who earned the city's first gold medal at the Games.\n\nLee stressed the government would continue to invest in sports development.\n\n“During the 2026–27 financial year, the government’s resources invested in sports development reached about HK$8.1 billion, nearly a 70 percent increase compared to a decade ago,” he said.\n\n“We allocated about HK$1 billion to the Hong Kong Sports Institute, providing comprehensive training, direct financial subsidies, and support in sports medicine and sports science.\n\n“The government will continue to support the development of sports medicine and sports science, athlete training, and their career development. In the next five years, resources allocated to sports development will cumulatively increase by 20 percent,” Lee added.\n\nChief Secretary Eric Chan, Secretary for Culture, Sports and Tourism Rosanna Law, President of the Sports Federation & Olympic Committee of Hong Kong, China, Timothy Fok, among others, also attended the ceremony.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-10-26T08:18:19.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875373-20261026.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260919/20260919_161358_599.html"
-    },
-    {
-      "id": "4935a4def0ff3a58",
-      "title": "Jobless rate rises to 3.8%",
-      "excerpt": "The seasonally adjusted unemployment rate increased from 3.7% in the May to July period to 3.8% in three months from…",
-      "fullText": "The seasonally adjusted unemployment rate increased from 3.7% in the May to July period to 3.8% in three months from June to August, the Census & Statistics Department announced today.\n\nThe underemployment rate also rose from 1.7% to 1.9% during the same period.\n\nThe number of unemployed persons (not seasonally adjusted) increased by around 8,200 to 153,900 in the June to August period, while the labour force rose by around 12,600 to 3,805,900.\n\nLooking ahead, Secretary for Labour & Welfare Chris Sun said the continued expansion of the local economy is expected to underpin overall labour market conditions, though employment situations across various industries will continue to hinge on their respective business conditions.\n\nHe added that the potential impacts of evolving external uncertainties on corporate hiring sentiments still warrant attention.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_165139_765/images/20260917172737037.jpg",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_165139_765.html"
     }
   ]
 }
