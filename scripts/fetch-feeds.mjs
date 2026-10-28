@@ -5,8 +5,10 @@
  * Caps (overridable via public/data/feeds.json `caps`): 20 newest items per
  * feed, then 150 newest articles after de-duplicating by link.
  * Card excerpts are about 20 words. fullText is the cleaned article body.
- * A failed feed is logged and skipped. If every enabled feed fails and a
- * snapshot already exists, that file is left unchanged, including checkedAt.
+ * A failed feed is logged. When at least one enabled feed succeeds, articles
+ * already stored for the failed feed ids are merged back in before the caps.
+ * If every enabled feed fails and a snapshot already exists, that file is
+ * left unchanged, including checkedAt.
  * A successful check records checkedAt even when the stories are unchanged.
  * generatedAt stays at the last time the stories changed.
  */
@@ -18,9 +20,7 @@ import { parseFeedXml } from "./lib/parse-feed.mjs";
 import {
   DEFAULT_PER_FEED_CAP,
   DEFAULT_TOTAL_CAP,
-  decideWrite,
-  selectArticles,
-  summarizeFeeds,
+  buildSnapshot,
 } from "./lib/snapshot.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -182,22 +182,15 @@ export async function ingest(options = {}) {
     }
   });
 
-  const enabled = results.filter((result) => result.feed.enabled);
-  const anySuccess = enabled.some((result) => result.ok);
-  const articles = selectArticles(
-    results.filter((result) => result.ok).map((result) => ({ articles: result.articles })),
-    { perFeed: catalog.perFeed, total: catalog.total },
-  );
-  const feeds = summarizeFeeds(catalog.feeds, new Map(results.map((result) => [result.feed.id, result])), articles);
-  const checkedAt = now.toISOString();
-  const next = {
-    generatedAt: checkedAt,
-    checkedAt,
-    feeds,
-    articles,
-  };
   const previous = await readPrevious(outputPath);
-  const decision = decideWrite(previous, next, { anySuccess });
+  const { decision } = buildSnapshot({
+    feeds: catalog.feeds,
+    results,
+    previous,
+    perFeed: catalog.perFeed,
+    total: catalog.total,
+    now,
+  });
 
   if (!decision.write) {
     if (decision.reason === "all-failed") {

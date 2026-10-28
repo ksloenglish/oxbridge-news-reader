@@ -61,6 +61,28 @@ export function selectArticles(groups, { perFeed = DEFAULT_PER_FEED_CAP, total =
   return unique.slice(0, total);
 }
 
+/**
+ * One group per fetch result. A feed that succeeded contributes this run.
+ * A feed that failed contributes articles already stored for that feed id,
+ * so a partial outage is re-capped with the rest instead of dropped.
+ */
+export function selectionGroups(results, previousArticles = []) {
+  const priorByFeed = new Map();
+  const prior = Array.isArray(previousArticles) ? previousArticles : [];
+  for (const article of prior) {
+    const id = article?.sourceFeed;
+    if (!id) continue;
+    const bucket = priorByFeed.get(id);
+    if (bucket) bucket.push(article);
+    else priorByFeed.set(id, [article]);
+  }
+  return results.map((result) => {
+    if (result.ok) return { articles: result.articles ?? [] };
+    const id = result.feed?.id;
+    return { articles: id ? (priorByFeed.get(id) ?? []) : [] };
+  });
+}
+
 export function summarizeFeeds(feeds, resultsById, articles) {
   const counts = new Map();
   for (const article of articles) {
@@ -89,6 +111,9 @@ export function summarizeFeeds(feeds, resultsById, articles) {
  * generatedAt is the last time the stories changed. A successful check
  * still records checkedAt when the stories are the same. Feed-status
  * edits with the same stories keep generatedAt and take the new feed rows.
+ *
+ * Partial failure is applied before this runs: `next.articles` already
+ * includes stored stories for feeds that failed, when some feed succeeded.
  */
 export function decideWrite(previous, next, { anySuccess }) {
   if (!anySuccess && previous?.articles?.length) {
@@ -125,4 +150,36 @@ function stampCheck(previous, checkedAt, feeds) {
     feeds,
     articles: previous.articles,
   };
+}
+
+/**
+ * Build the next snapshot from one fetch run.
+ * When at least one enabled feed succeeded, failed feeds keep the previous
+ * articles for their ids and the check stamps move with the merged list.
+ * When every enabled feed failed, decideWrite keeps the previous file.
+ */
+export function buildSnapshot({
+  feeds,
+  results,
+  previous = null,
+  perFeed = DEFAULT_PER_FEED_CAP,
+  total = DEFAULT_TOTAL_CAP,
+  now = new Date(),
+}) {
+  const anySuccess = results.some((result) => result.feed?.enabled && result.ok);
+  const priorArticles = anySuccess && Array.isArray(previous?.articles) ? previous.articles : [];
+  const articles = selectArticles(selectionGroups(results, priorArticles), { perFeed, total });
+  const summary = summarizeFeeds(
+    feeds,
+    new Map(results.map((result) => [result.feed.id, result])),
+    articles,
+  );
+  const checkedAt = now.toISOString();
+  const next = {
+    generatedAt: checkedAt,
+    checkedAt,
+    feeds: summary,
+    articles,
+  };
+  return { anySuccess, decision: decideWrite(previous, next, { anySuccess }) };
 }
