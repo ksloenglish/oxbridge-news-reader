@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T02:05:42.795Z",
-  "checkedAt": "2026-10-28T02:45:19.870Z",
+  "generatedAt": "2026-10-28T03:00:32.577Z",
+  "checkedAt": "2026-10-28T03:00:32.577Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -8,8 +8,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_elocal.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "HTTP 502 Bad Gateway",
+      "ok": true,
+      "error": null,
       "articleCount": 20
     },
     {
@@ -18,8 +18,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_egreaterchina.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "HTTP 502 Bad Gateway",
+      "ok": true,
+      "error": null,
       "articleCount": 19
     },
     {
@@ -28,8 +28,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_einternational.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "HTTP 502 Bad Gateway",
+      "ok": true,
+      "error": null,
       "articleCount": 18
     },
     {
@@ -38,8 +38,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_efinance.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "HTTP 502 Bad Gateway",
+      "ok": true,
+      "error": null,
       "articleCount": 11
     },
     {
@@ -48,8 +48,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_esport.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "HTTP 502 Bad Gateway",
+      "ok": true,
+      "error": null,
       "articleCount": 19
     },
     {
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "bc6d6d5962a883f1",
+      "title": "Asia shares up ahead of US tech results",
+      "excerpt": "Asia stocks rallied on Wednesday after a resurgence in AI enthusiasm ahead of earnings from industry bellwethers later in the…",
+      "fullText": "Asia stocks rallied on Wednesday after a resurgence in AI enthusiasm ahead of earnings from industry bellwethers later in the US day, while the dollar was perky ahead of a Federal Reserve policy decision.\n\nThe AI rally faces its next test when technology giants Alphabet and Microsoft report earnings after market close, with investors looking for evidence of returns that would justify the hefty price of AI build-out.\n\nAhead of US earnings, MSCI's broadest index of Asia-Pacific shares outside Japan was up 0.85 percent in early Asia trade, with Japan's Nikkei adding 1.2 percent and South Korea's Kospi jumping more than three percent.\n\nThe Hang Seng Index was slightly lower in mid-morning trade, down 0.02 percent, at 23,036. (Reuters)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T02:41:06.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875596-20261028.htm"
+    },
     {
       "id": "52e9da3130bfde0d",
       "title": "South China Sea tensions cause China to ‘recall’ teachers from the Philippines",
@@ -962,17 +973,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875243-20261025.htm"
-    },
-    {
-      "id": "ec32f3fe09f52a36",
-      "title": "'Strategic enterprise investments in HK hit HK$28bn'",
-      "excerpt": "Investments made by the first six batches of firms brought to Hong Kong through the Office for Attracting Strategic Enterprises…",
-      "fullText": "Investments made by the first six batches of firms brought to Hong Kong through the Office for Attracting Strategic Enterprises reached HK$28.3 billion as of the end of September, according to Financial Secretary Paul Chan.\n\nWriting in his weekly blog, Chan noted that, including the seventh batch of 18 firms recently welcomed, a total of 142 strategic enterprises have now established or expanded their operations in Hong Kong.\n\n“They are expected to generate around HK$84 billion in investment while creating roughly 27,000 jobs over the coming years,” he said.\n\n“More importantly, these investments are materialising on the ground. As of the end of September this year, actual investments by the first six batches reached HK$28.3 billion while employing over 10,300 people – exceeding the initial phased targets by 30 percent and 34 percent respectively.”\n\nCorporate confidence in Hong Kong is gradually being reflected in real economic outcomes, Chan said.\n\nHe added that among the first six batches of enterprises, around 70 percent have established global or regional headquarters in Hong Kong, while nearly 90 percent have set up R&D centres.\n\nChan said this brings not only capital and jobs, but also research and decision-making functions – both of which are crucial to maintaining Hong Kong’s long-term competitive edge.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T04:22:10.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875241-20261025.htm"
     },
     {
       "id": "d931ac7fb12dfd14",
