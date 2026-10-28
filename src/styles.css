@@ -441,8 +441,7 @@ h1 {
   font-size: 0.75rem;
   line-height: 1.45;
 }
-.freshness .is-overdue,
-.freshness .is-failed {
+.freshness .is-overdue {
   color: var(--accent);
   font-weight: 700;
 }

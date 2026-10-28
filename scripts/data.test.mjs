@@ -1,11 +1,11 @@
 import assert from "node:assert/strict";
+import { readFileSync } from "node:fs";
 import test from "node:test";
 import {
   DEFAULT_SELECTION,
   FEED_CHECK_OVERDUE_MS,
   articlesForSelection,
   describeFeedCheck,
-  formatFeedCheckFailure,
   formatPublishedAt,
   formatSnapshotUpdated,
   isFeedCheckOverdue,
@@ -149,7 +149,7 @@ test("a check older than 45 minutes is overdue, and a missing stamp says so", ()
   assert.equal(missing.text, "Feeds checked not recorded yet. This check is overdue.");
 });
 
-test("a failed source is named for the current selection only", () => {
+test("failed feed rows stay on the snapshot for the current selection", () => {
   const catalog = readCatalog(catalogRaw);
   const snapshot = readSnapshot({
     generatedAt: "2026-10-26T03:48:42.114Z",
@@ -161,26 +161,25 @@ test("a failed source is named for the current selection only", () => {
     ],
     articles: [],
   });
-  assert.equal(
-    formatFeedCheckFailure(statusForSelection(catalog, snapshot, DEFAULT_SELECTION)),
-    "Could not read RTHK English — Local on the last check.",
+  assert.deepEqual(
+    statusForSelection(catalog, snapshot, DEFAULT_SELECTION).map((feed) => [feed.id, feed.ok, feed.error]),
+    [
+      ["rthk-local", false, "HTTP 503"],
+      ["rthk-world", true, null],
+    ],
   );
-  assert.equal(
-    formatFeedCheckFailure(statusForSelection(catalog, snapshot, "category:international")),
-    "Could not read Radio Free Asia English on the last check.",
+  assert.deepEqual(
+    statusForSelection(catalog, snapshot, "category:international").map((feed) => [feed.id, feed.ok, feed.error]),
+    [["rfa-english", false, "timeout"]],
   );
-  assert.equal(formatFeedCheckFailure(statusForSelection(catalog, snapshot, "feed:rthk-world")), "");
-  assert.equal(
-    formatFeedCheckFailure([
-      { id: "a", name: "Alpha", ok: false },
-      { id: "b", name: "Beta", ok: false },
-      { id: "c", name: "Gamma", ok: true },
-    ]),
-    "Could not read these sources on the last check: Alpha, Beta.",
+  assert.deepEqual(
+    statusForSelection(catalog, snapshot, "feed:rthk-world").map((feed) => feed.ok),
+    [true],
   );
-  assert.equal(formatFeedCheckFailure([{ id: "rthk-sport", ok: false }]), "Could not read rthk-sport on the last check.");
-  assert.equal(formatFeedCheckFailure([{ ok: false }]), "Some sources could not be read on the last check.");
-  assert.equal(formatFeedCheckFailure([]), "");
+  const source = readFileSync(new URL("../src/data.js", import.meta.url), "utf8");
+  assert.equal(source.includes("Could not read these sources"), false);
+  assert.equal(source.includes("on the last check"), false);
+  assert.equal(source.includes("Some sources could not be read"), false);
 });
 
 test("a catalog feed with no articles stays selectable", () => {
