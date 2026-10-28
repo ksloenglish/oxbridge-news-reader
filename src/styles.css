@@ -829,8 +829,31 @@ button.token:focus-visible, .nav button:focus-visible, .level:focus-visible, .st
 }
 
 @media (min-width: 960px) {
-  .desk.reading { grid-template-columns: minmax(16rem, 24rem) minmax(0, 1fr); align-items: start; }
-  .bank { grid-template-columns: minmax(16rem, 24rem) minmax(0, 1fr); align-items: start; }
+  .desk.reading { grid-template-columns: minmax(14rem, 20rem) minmax(0, 1fr); align-items: start; }
+  .bank { grid-template-columns: minmax(14rem, 20rem) minmax(0, 1fr); align-items: start; }
+  /* One step down on the narrow list column. Article type stays on the base rules. */
+  .desk.reading .list-pane .kicker,
+  .bank .list-pane > .kicker {
+    font-size: 0.72rem;
+  }
+  .desk.reading .list-pane .story strong {
+    font-size: 1.02rem;
+  }
+  .desk.reading .list-pane .excerpt {
+    font-size: 0.88rem;
+  }
+  .desk.reading .list-pane .story .meta {
+    font-size: 0.8rem;
+  }
+  .desk.reading .list-pane label.field {
+    font-size: 0.72rem;
+  }
+  .bank .list-pane h2 {
+    font-size: 1.55rem;
+  }
+  .bank .list-pane .word-row b {
+    font-size: 1.15rem;
+  }
   .pane {
     /* Fill the sheet, not the large viewport. 100dvh tracked Safari's collapsing
        toolbar and made the columns taller than the visible area. */
