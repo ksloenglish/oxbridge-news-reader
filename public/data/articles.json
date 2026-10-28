@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T04:45:18.336Z",
-  "checkedAt": "2026-10-28T05:00:29.108Z",
+  "generatedAt": "2026-10-28T05:15:19.510Z",
+  "checkedAt": "2026-10-28T05:15:19.510Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -269,6 +269,17 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875563-20261028.htm"
+    },
+    {
+      "id": "63424a9ca4c48416",
+      "title": "I.PARK1 incinerator rumours denied",
+      "excerpt": "The Environmental Protection Department (EPD) today clarified that allegations involving the “design defects of the incinerator” and the “collapse of…",
+      "fullText": "The Environmental Protection Department (EPD) today clarified that allegations involving the “design defects of the incinerator” and the “collapse of incineration module under construction” at Integrated Waste Management Facilities Phase 1 (I.PARK1) arose following a fire this Monday.\n\nNoting that such rumours are circulating online, the department stated in the strongest terms that the allegations are groundless and entirely fictitious, and urged the public not to be misled by these false messages and to stop sharing them.\n\nThe department said preliminary information indicates that the fire originated at the roof of the incinerator building's third incineration module area where finishing work was still in progress. It is preliminarily suspected that the fire originated from construction materials, rather than from incinerator operations or from the waste stored.\n\nIt will work with the Police, the Fire Services Department and the Labour Department to investigate the cause of the fire, and has instructed the contractor to submit an incident report on the fire within seven days of the incident.\n\nMeanwhile, the EPD is evaluating the damage and its impact on the facility and its processing capacity, and will urge the contractor to carry out repairs as soon as possible.\n\nI.PARK1 has temporarily suspended waste reception since yesterday. The EPD has arranged to extend the operating hours of its West New Territories Landfill Extension. The waste originally destined for I.PARK1 has therefore been transported to the landfill for disposal to maintain the normal operation of the city's overall waste management system.\n\nThe department stated that it will resume waste reception at I.PARK1 as soon as possible, after a comprehensive examination of the facility's structure and all critical systems, and upon confirming that it is safe to restart operations.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_111756_327/images/20261028125526751.jpg",
+      "publishedAt": "2026-10-27T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_111756_327.html"
     },
     {
       "id": "997e8a68ab7d7444",
@@ -1369,17 +1380,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/myanmar/2026/10/22/aung-san-suu-kyi-son-kim-aris-burma-phone-call/"
-    },
-    {
-      "id": "1e0f0c84645ff189",
-      "title": "CS to visit Dongguan",
-      "excerpt": "Chief Secretary Chan Kwok-ki will depart for Dongguan tomorrow afternoon to attend the opening ceremony of the fourth Guangdong-Hong Kong-Macao…",
-      "fullText": "Chief Secretary Chan Kwok-ki will depart for Dongguan tomorrow afternoon to attend the opening ceremony of the fourth Guangdong-Hong Kong-Macao Greater Bay Area (GBA) High-quality Talent Development Conference and the third GBA Doctoral and Postdoctoral Innovation and Entrepreneurship Competition on Sunday.\n\nThe event is jointly organised by the governments of Guangdong, Hong Kong and Macao to further deepen talent exchanges and co-operation across the GBA.\n\nDuring his stay in Dongguan, Mr Chan will also visit a key local enterprise and an educational institution. Secretary for Labour & Welfare Chris Sun and Director of Hong Kong Talent Engage Felix Chan will also join the visit.\n\nMr Chan and Mr Sun will return to Hong Kong on Sunday. During their absence, Deputy Chief Secretary Cheuk Wing-hing will be Acting Chief Secretary, while Under Secretary for Labour & Welfare Ho Kai-ming will be Acting Secretary for Labour & Welfare.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261023/20261023_171139_689/images/20261023182424206.JPG",
-      "publishedAt": "2026-10-22T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261023/20261023_171139_689.html"
     },
     {
       "id": "66b7e62bb59524b7",
