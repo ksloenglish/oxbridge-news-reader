@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T06:00:30.215Z",
-  "checkedAt": "2026-10-28T06:30:22.220Z",
+  "generatedAt": "2026-10-28T06:45:19.804Z",
+  "checkedAt": "2026-10-28T06:45:19.804Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "1c9e9ceb0a96b2be",
+      "title": "'Waste facility fire caused by construction materials'",
+      "excerpt": "The government on Wednesday said a recent fire at a Shek Kwu Chau waste treatment facility is suspected to have…",
+      "fullText": "The government on Wednesday said a recent fire at a Shek Kwu Chau waste treatment facility is suspected to have been sparked by construction materials on the roof, rather than the operation of the facility or stored waste.\n\nThe Environmental Protection Department (EPD) said preliminary information indicated that Monday's blaze started on the roof of the third incineration module area, where construction works were being finalised.\n\n\"The EPD will work with the police, the Fire Services Department and the Labour Department to investigate the cause of fire, and has instructed the contractor to submit an incident report on the fire within seven days from the day of the incident,\" according to a statement.\n\nThe department said it is evaluating the damage and the impact on the facility's processing capacity, and will urge the contractor to conduct repairs as soon as possible.\n\nThe facility, I.PARK1, has temporarily suspended waste reception since October 27.\n\nThe department said it has extended the operating hours of the West New Territories Landfill Extension to handle the waste originally destined for I.PARK1, ensuring the normal operation of the city's overall waste management system.\n\n\"The EPD will resume waste reception at I.PARK1 as soon as possible, following a comprehensive examination of the facility's structure and all critical systems, and upon confirming that it is suitable to restart the facility's safe operation,\" it added.\n\nIt also issued a strong denial of online rumours about \"design defects of the incinerator\" and a \"collapse of the incineration module under construction\", calling them groundless and entirely fictitious.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T06:16:29.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875624-20261028.htm"
+    },
     {
       "id": "6ff23ffcaca16e53",
       "title": "Rays win thriller to stay alive in World Series",
@@ -808,17 +819,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875360-20261026.htm"
-    },
-    {
-      "id": "c8df39210956c2fd",
-      "title": "Fire sweeps through Shek Kwu Chau waste facility",
-      "excerpt": "A No. 3 alarm fire raged for about four hours at a waste-management facility on an artificial island off Shek…",
-      "fullText": "A No. 3 alarm fire raged for about four hours at a waste-management facility on an artificial island off Shek Kwu Chau on Monday.\n\nThe fire broke out at 12.43pm and was upgraded to a No. 3 alarm about 40 minutes later.\n\nFirefighters used five jets and mobilised five breathing apparatus teams to fight the blaze.\n\nOne person felt unwell and received treatment at Eastern Hospital, while 930 others were evacuated.\n\nThe Fire Services Department said the blaze was surrounded at 3.47pm and largely put out about an hour later.\n_____________________________\nLast updated: 2026-10-26 HKT 17:25\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T06:56:35.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875362-20261026.htm"
     },
     {
       "id": "d6a462a2cd823c15",
