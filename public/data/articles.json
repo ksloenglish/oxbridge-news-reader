@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T09:00:32.031Z",
-  "checkedAt": "2026-10-28T09:00:32.031Z",
+  "generatedAt": "2026-10-28T09:15:19.183Z",
+  "checkedAt": "2026-10-28T09:15:19.183Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 15
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 13
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,39 @@
     }
   ],
   "articles": [
+    {
+      "id": "66ca3358a5ff891d",
+      "title": "China takes Mbappe's apology for Mao comment seriously",
+      "excerpt": "Beijing on Wednesday said it took seriously an apology from Real Madrid superstar Kylian Mbappe after he made comments about…",
+      "fullText": "Beijing on Wednesday said it took seriously an apology from Real Madrid superstar Kylian Mbappe after he made comments about former leader Mao Zedong.\n\nForeign Ministry spokesman Guo Jiakun told a regular briefing on Wednesday: \"We take seriously the apology the individual concerned has made.\"\n\nThe French footballer's recent comment, in which he appeared to mock the founding leader of the People's Republic of China, resulted in major Chinese brands dropping their sponsorship deals with the player, and saw Spanish football suspended from television.\n\nThe ministry responded by said that hurting the feelings of the country's people would meet \"unanimous rejection\".\n\nMbappe later apologised.\n\n\"My comment was ill-judged, and I now understand that it hurt many people in China and in Chinese communities around the world. I apologise to everyone my words have upset.\n\n\"This was absolutely not my intention. I have deep respect for the Chinese people and their history, and I am sincerely sorry,\" he added.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:07:20.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875650-20261028.htm"
+    },
+    {
+      "id": "5cd8a6e823adb15a",
+      "title": "HK's exports surge nearly 65pc in August",
+      "excerpt": "Hong Kong’s exports and imports both rose for October, according to data released by the Census and Statistics Department on…",
+      "fullText": "Hong Kong’s exports and imports both rose for October, according to data released by the Census and Statistics Department on Wednesday, with the increase in exports marking the fastest monthly year-on-year growth in more than four decades.\n\nThe value of total exports of goods surged by 64.9 percent compared to a year earlier to HK$762.6 billion in September.\n\nIt followed a year-on-year increase of 53 percent in August.\n\nThe value of imports also went up by 57.8 percent over a year earlier to HK$808.9 billion last month.\n\nA trade deficit of HK$417.7 billion – equivalent to seven percent of the imports value – was recorded in the first nine months of the year.\n\nA government spokesman said AI-related electronic products continued to drive the city’s trade performance, and the growth in exports marked a double-digit growth for the 20th straight month.\n\nIt noted that exports to all major destinations have surged remarkably.\n\n“Looking ahead, Hong Kong's merchandise trade performance will continue to benefit from the prevailing wave of robust AI-related investment and the resilient global economic growth,” the statement read.\n\n“Nonetheless, external uncertainties warrant close monitoring, including the Middle East conflict, trade protectionist measures by major economies, and risks associated with the rapid expansion of global investment in AI.”\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:02:58.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875646-20261028.htm"
+    },
+    {
+      "id": "eb71d648fbfa31bc",
+      "title": "Attacker killed outside Israeli embassy in Belgrade",
+      "excerpt": "Israel's foreign ministry on Wednesday confirmed an \"attempted terrorist attack\" near its embassy in Belgrade, adding that no embassy personnel…",
+      "fullText": "Israel's foreign ministry on Wednesday confirmed an \"attempted terrorist attack\" near its embassy in Belgrade, adding that no embassy personnel were injured and the incident was under investigation.\n\n\"The attacker was neutralised by local police. No embassy personnel were injured, and the mission was closed at the time of the incident, which occurred late at night. The incident is currently under investigation by the relevant authorities,\" the ministry posted on X.\n\nSerbian authorities said the attacker was armed with two knives and wounded a policeman who was guarding the embassy entrance.\n\nHe was shot dead at the scene.\n\n“One minor, of so far undetermined identity, who is reasonably suspected to be from (the western city of) Šabac, rushed at an officer of the Gendarmerie shouting ‘Allahu Akbar’ and attacked him with two knives,” Ivica Dacic said in an emailed statement.\n\nIn a statement, the Belgrade-based Higher Public Prosecution Office said that an investigation showed that a black-clad unidentified individual opened the door of a guard house in front of the embassy and, armed with two knives, rushed at the policeman, identified only by the initials D.S.\n\n\"The unidentified person threw one knife in the direction of D.S., hitting him in the left cheek. After that, D.S. took out his service weapon and fired several shots at the attacker, killing him on the spot,\" it said, adding that the policeman's action was qualified as justified and in self-defence.\n\nThe investigation was continuing, it said.\n\nDacic added that he had raised Serbia's security threat level to red, the highest, and that there would be an increased police presence at key locations.\n\nIt is the second such attack at the Israeli embassy in Belgrade in two years.\n\nIn June 2024, an assailant shot a Serbian police officer in the neck with a crossbow. (Agencies)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:02:22.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875649-20261028.htm"
+    },
     {
       "id": "1c9e9ceb0a96b2be",
       "title": "'Waste facility fire caused by construction materials'",
@@ -717,8 +750,8 @@
       "fullText": "Meta Platforms said on Monday it plans to raise up to US$95 billion in its largest-ever equity fundraising, as the social media giant spends aggressively on its costly AI infrastructure expansion.\n\nThe Facebook parent has launched public offerings worth about US$35 billion in common and preferred stock, and said it also plans to launch a separate at-the-market share sale programme worth up to US$60 billion.\n\nThe company will launch the larger share sale programme after its new non-voting Class C shares begin trading, which is expected in the first quarter of 2027, but said it has not yet finalised its timing and terms of the sale.\n\nMeta's fundraising plan, which would rank among the biggest by an AI company, has also drawn interest of up to US$5 billion in total from Nvidia, Advanced Micro Devices and Broadcom for Class A shares.\n\nTheir funding interest adds to concerns about an increasingly circular flow of capital in the AI industry, as chip suppliers help finance the expansion of one of their biggest customers.\n\nMeta has been pouring money into chips and data centres to compete better with OpenAI and Anthropic.\n\nIts latest fundraising further underscores a shift among big technology companies increasingly tapping debt markets and raising equity ⁠to bolster their AI infrastructure, having previously relied on cash to fund their investments.\n\nEarlier this year, Alphabet increased the size of its equity offerings to US$84.75 billion.\n\nSeparately on Monday, SpaceX said an affiliate of Apollo Global Management will buy AI chips and server hardware and lease them to the rockets-to-AI firm, in a deal with total principal payments of about US$40 billion.\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-10-26T14:27:36.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875404-20261026.htm"
     },
     {
@@ -816,8 +849,8 @@
       "fullText": "The Securities and Futures Commission has approved the world's first secondary trading of tokenised public funds on its licensed virtual asset trading platform (VATP), with around-the-clock trading of two tokenised money market funds beginning on Monday.\n\nThe approval builds on a new regulatory framework it introduced in April, which sets out requirements for secondary trading of tokenised funds on licensed VATPs.\n\nThe framework covers trading channel operations, fair pricing, liquidity provision and disclosure.\n\nThe first batch of products involves two existing SFC-authorised tokenised money market funds, now available for secondary trading on a 24/7 basis.\n\nLooking ahead, the SFC said tokenised public funds could further leverage tokenised deposit capabilities being developed in collaboration with the Hong Kong Monetary Authority under Project Ensemble.\n\nThis would allow investors to sell tokenised assets around the clock and instantly transfer proceeds to other investment opportunities.\n\nElisa Ng, the SFC's executive director of investment products, said the move \"marks an important milestone\" in the city's digital asset development, adding that it adds \"24/7 trading capability\" to Hong Kong's evolving tokenisation ecosystem.\n\nThe SFC said it would monitor trading activities closely and consider broadening the product scope over time, taking into account market developments and experience gained.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-10-26T07:13:01.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875360-20261026.htm"
     },
     {
@@ -1448,17 +1481,6 @@
       "link": "https://rfa.org/english/southchinasea/2026/10/21/philippines-duterte-impeachment-china-influence/"
     },
     {
-      "id": "aa695c6e54b27034",
-      "title": "'China ready for deeper cooperation with Russia'",
-      "excerpt": "Premier Li Qiang on Tuesday said China is ready to work with Russia to make sustained efforts to steer bilateral…",
-      "fullText": "Premier Li Qiang on Tuesday said China is ready to work with Russia to make sustained efforts to steer bilateral cooperation in a direction that is deeper, more substantive and more resilient, as he arrived in St Petersburg for a regular meeting between Chinese and Russian heads of government.\n\nA report by the Xinhua news agency also quoted Li as saying both sides will push the China-Russia comprehensive strategic partnership of coordination for the new era to yield new and fruitful results.\n\nThe premier said the two countries have jointly explored a way of getting along featuring non-alliance, non-confrontation and without targeting any third party, while continuously deepening cooperation in various fields.\n\nChina and Russia have set a fine example of relations between major countries featuring permanent good-neighbourly friendship, comprehensive strategic coordination and mutually beneficial cooperation, Li added.\n\nIn particular, under the strategic guidance of Chinese President Xi Jinping and Russian President Vladimir Putin in recent years, China-Russia relations have become more mature and resilient, with the foundation of political mutual trust growing ever stronger, mutually beneficial cooperation becoming increasingly solid, and the bonds of friendship from generation to generation growing ever closer, he said.\n\nThe efforts made by both sides will bring greater benefits to the two peoples and inject valuable stability and certainty into world peace and development, he added. (Reporting by Xinhua)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-20T23:59:15.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1874715-20261021.htm"
-    },
-    {
       "id": "12a40c4b83bf50e8",
       "title": "China-Laos air base could be another Southeast Asian forward outpost for Beijing",
       "excerpt": "Like Ream Naval Base in Cambodia, Ban Keun could lay the groundwork for increased Chinese presence, analysts said.",
@@ -1721,28 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_151152_811.html"
-    },
-    {
-      "id": "1d9936da53b0a171",
-      "title": "HK charts plans for I&T and talent",
-      "excerpt": "Hong Kong has set out a roadmap to become an international Innovation and Technology (I&T) centre and a hub for…",
-      "fullText": "Hong Kong has set out a roadmap to become an international Innovation and Technology (I&T) centre and a hub for high-calibre talent, as Chief Executive John Lee unveiled the city’s First Five-Year Plan.\n\nCapitalising on the basic scientific research capabilities of five local universities ranked among the world’s top 100, the plan focuses on advancing international frontier technologies and deepening systemic I&T reforms.\n\nAt the heart of this transformation is a new “north-central-south” spatial layout anchored by three major tech hubs: the Hong Kong Park area of the Hetao Shenzhen-Hong Kong Science & Technology Innovation Co-operation Zone and the San Tin Technopole in the north, the Science Park in the central region, and Cyberport in the south. The city is going full steam ahead with the development of these three major I&T parks.\n\nThe plan also states that it will accelerate the development of five key research and development (R&D) institutions – the Hong Kong Productivity Council, the Hong Kong Applied Science & Technology Research Institute, and newly established institutes for microelectronics, artificial intelligence, and life and health technology.\n\nThese bodies will work alongside the “dual base” of State Key Laboratories in Hong Kong and InnoHK research clusters.\n\nTo advance new industrialisation, the government will support traditional industries to upgrade and transform while prioritising strategic emerging sectors like the aerospace and marine economies. Preparations are also underway for future industries, including quantum technology and embodied intelligence.\n\nThe Government will promote artificial intelligence (AI) as a core industry for Hong Kong’s future development and empower different sectors of the economy through AI technology. It will enhance the AI ecosystem in multiple dimensions and continue to take forward the AI+ Initiative on all fronts.\n\nAccording to the plan, Hong Kong is also positioning itself as an international health and medical innovation hub. The Government will reform the regulatory regime for medical products by establishing the Centre for Medical Products Regulation and implementing a “primary evaluation” system by 2030.\n\nFurthermore, a comprehensive clinical trial infrastructure and digital portal will be built and the Government will fully implement the interfacing of clinical trial resources between Hong Kong and Shenzhen.\n\nTo sustain this growth, Hong Kong is solidifying its global reach and talent pipeline.\n\nThe Government will promote the \"Study in Hong Kong\" brand, update the Talent List, and promote the integrated development of education, technology and talent to enhance the city’s capabilities in nurturing and attracting high-calibre talent.\n\nVisit Part 2 of Hong Kong’s First Five-Year Plan for more details.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260916/20260916_093556_343/images/20260916134256815.jpg",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260916/20260916_093556_343.html"
-    },
-    {
-      "id": "250e0eb200fd1e53",
-      "title": "Streamlined NM development",
-      "excerpt": "Major development initiatives were unveiled today in Chief Executive John Lee’s Policy Address to expedite the development of the Northern…",
-      "fullText": "Major development initiatives were unveiled today in Chief Executive John Lee’s Policy Address to expedite the development of the Northern Metropolis (NM).\n\nNoting the development of the NM is well underway, Mr Lee elaborated today that construction works have begun at four new development areas while site formation work for the site in Ngau Tam Mei will start next year. As for the remaining four new development areas, statutory planning and related procedures will begin in the coming year.\n\nThe Government will continue to streamline procedures, including using a digital platform to shorten the approval time for works projects by three to six months, reducing the time for the first approval for building plans of new railway projects by half to 30 days, and optimising foundation designs to save about $1.4 billion in the construction costs of NM public housing.\n\nFurthermore, the Government will expand the application scope of the Hong Kong Environmental Database by optimising planning with artificial intelligence to reduce the time needed for the environmental impact assessment (EIA) process to about 15 to 24 months from about 36 to 48 months. For NM-related projects, the time needed for the EIA process will be targeted at about 15 to 20 months.\n\nThe Government will introduce an amendment bill into the Legislative Council by year-end, providing preferential tax rates of 5%, or half-rate, for selected enterprises operating in key sectors such as finance, advanced manufacturing, innovation and technology (I&T), as well as research and development (R&D), headquarters activities, and logistics and supply chain management.\n\nAt the back of the layout, three university towns exceeding 1,000 hectares will be developed in San Tin, Hung Shui Kiu and Ta Kwu Ling under “One Town, Five Elements” framework, covering education, technology, industry, talent, and urban development.\n\nConstruction of Building 1 of the Loop Hong Kong Park at San Tin University Town is scheduled for completion by year-end, with applications for Hung Shui Kiu campus construction opening within this year. An upgraded committee led by the Chief Secretary will steer research outcome transformations.\n\nTo dovetail with the development of the NM University Towns, the Government will expand the capacity of post-secondary. Measures include increasing UGC-funded research postgraduate places by around 30% to 9,600 by 2030-31 academic year, boosting Hong Kong PhD Fellowship Scheme quotas from 400 to 550 from 2027-28 to 2029-30 academic years, and adding $20 million annually for knowledge transfer starting 2027-28 academic year.\n\nVisit Chapter V of the Chief Executive’s Policy Address for more details.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260916/20260916_095550_669/images/20260916161807482.jpg",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260916/20260916_095550_669.html"
     }
   ]
 }
