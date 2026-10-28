@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T14:45:17.988Z",
-  "checkedAt": "2026-10-28T15:30:23.397Z",
+  "generatedAt": "2026-10-28T15:45:18.626Z",
+  "checkedAt": "2026-10-28T15:45:18.626Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -456,6 +456,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_111756_327.html"
+    },
+    {
+      "id": "9fd8f24288a8ea57",
+      "title": "Huanggang Port ready for travel rush",
+      "excerpt": "Chief Secretary Chan Kwok-ki today chaired an interdepartmental working group meeting to co-ordinate preparatory measures for an expected surge in…",
+      "fullText": "Chief Secretary Chan Kwok-ki today chaired an interdepartmental working group meeting to co-ordinate preparatory measures for an expected surge in cross-boundary travel during the upcoming Halloween weekend.\n\nThe meeting was attended by Secretary for Security Tang Ping-keung, Secretary for Transport & Logistics Mable Chan, and representatives from other relevant government departments.\n\nMr Chan noted that visitor arrivals and late-night cross-boundary trips are expected to increase significantly due to Halloween falling on a weekend, and coinciding with major local events, including the “Hong Kong Wine & Dine Festival” and mega concerts.\n\n“The Government of the Hong Kong Special Administrative Region attaches great importance to the operation of boundary control points (BCPs) and transport support, and has instructed all relevant departments to make advance deployment, and to accord priority to securing the smooth passage of public transport vehicles during peak clearance hours. Relevant departments have been instructed to effectively manage passenger and vehicular traffic as well as information dissemination, with a view to ensuring the safe and orderly operation of the port and surrounding roads, and providing a good travel experience for members of the public and visitors,” Mr Chan said.\n\nThe Government anticipates that the busiest period for northbound passenger and vehicular traffic at Huanggang Port will be from 11pm to 2am the following day, across three consecutive nights from October 30 to November 1. Heavy congestion is expected near the San Tin Highway and the port area.\n\nOwing to road capacity and clearance constraints for cross-boundary private cars, authorities will prioritise high-capacity transport options to maximise the dispersal efficiency during peak hours. These include franchised buses, green minibuses (GMBs) and cross-boundary coaches (CBCs).\n\nUnder this arrangement, private car drivers travelling during late-night peak hours are warned to expect extended waiting times of an hour or more in holding areas and clearance channels.\n\nMr Chan urged travellers to plan their journeys in advance, check the operating hours of various land and rail BCPs, and avoid converging on the Huanggang Port during late-night hours.\n\n“Travellers who need to cross the boundary during late-night hours are advised to take public transport. We also encourage visitors to adjust their itineraries to stay overnight in Hong Kong and make good use of the ‘ticket stub offers’ launched by various events to make their overall journey more comfortable and enjoyable,” he added.\n\nThe Transport and Logistics Bureau and the Transport Department (TD) are co-ordinating with public transport operators to boost manpower and fleet capacity. During peak hours, service frequencies can be increased to every two to three minutes for franchised buses, and every five minutes for GMBs and CBCs.\n\nThe TD's Emergency Transport Co-ordination Centre will operate on a 24-hours basis to monitor traffic conditions at the Huanggang Port and across districts, implementing contingency measures when necessary.\n\nAdditionally, the interdepartmental Joint Command Post at the Huanggang Port will activate early in the afternoon on October 30, operating throughout the weekend to closely monitor passenger and vehicular flows in real time and maintain close contact with Shenzhen port authorities. The Security Bureau will concurrently activate the Emergency Monitoring and Support Centre to manage public order and emergency responses at the port.\n\nThe Government reiterated its concern over the illegal carriage of passengers for hire or reward, commonly known as “white licence cars” or “pak pai” services. The Police Force is actively gathering intelligence and conducting targeted operations to crack down on illegal cross-boundary private car activities.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_173933_220/images/20261028223413287.jpg",
+      "publishedAt": "2026-10-27T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_173933_220.html"
     },
     {
       "id": "997e8a68ab7d7444",
@@ -1347,17 +1358,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261024/20261024_165407_745.html"
-    },
-    {
-      "id": "d80d59ab1c173f7e",
-      "title": "Public alerted to fake messages",
-      "excerpt": "The Department of Health today alerted the public to suspicious emails and SMS messages sent by its HIV Testing Service…",
-      "fullText": "The Department of Health today alerted the public to suspicious emails and SMS messages sent by its HIV Testing Service website.\n\nThe department said the email account for the website is suspected of having been misused, with emails and text messages being sent to the public wrongly indicating that recipients were exposed to Human Immunodeficiency Virus (HIV), and should seek medical advice and get tested as soon as possible.\n\nThe department is conducting a thorough investigation into the incident. It said it has not yet found any evidence of data loss or leakage.\n\nEmphasising that the emails and SMS messages were wrongly sent, the department highlighted that it does not notify individuals in this manner. It advised members of the public who receive suspicious emails or SMS messages not to click on any links contained in them or provide personal information. Anyone who has provided personal information to suspicious individuals or suspects that they have been scammed should contact the Police Force.\n\nThe department said it immediately conducted a comprehensive inspection of its network system with the outsourced service provider upon discovering the issue last night and also reported it to the force and notified the Digital Policy Office.\n\nThe HIV Testing Service website is suspended from today until cybersecurity experts have conducted a comprehensive investigation and review to confirm that there are no security risks. Members of the public can still call the Acquired Immune Deficiency Syndrome Hotline on 2780 2211 to arrange a free, anonymous and confidential HIV antibody test while the website is suspended.\n\nThe Government stressed that it attaches great importance to cybersecurity. The department conducts regular information security risk assessments, and will continue to review and enhance existing measures to keep abreast of the times in order to safeguard network and system security.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261024/20261024_143207_875/images/20261024161147859.jpg",
-      "publishedAt": "2026-10-23T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261024/20261024_143207_875.html"
     },
     {
       "id": "ec7777667e12cad6",
