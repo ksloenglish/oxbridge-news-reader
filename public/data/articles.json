@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T09:45:18.637Z",
-  "checkedAt": "2026-10-28T10:00:30.993Z",
+  "generatedAt": "2026-10-28T10:15:17.987Z",
+  "checkedAt": "2026-10-28T10:15:17.987Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 12
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "05842605b3480254",
+      "title": "Spain train collision kills at least 10: authorities",
+      "excerpt": "Spanish officials on Wednesday said at least 10 people had been killed in a high speed train collision near Toledo…",
+      "fullText": "Spanish officials on Wednesday said at least 10 people had been killed in a high speed train collision near Toledo.\n\nSpain’s rail system operator ADIF said the crash occurred in the morning and that train services were suspended between Madrid, Ciudad Real and Andalusia.\n\nSpanish public broadcaster TVE reported that the accident was between two high-speed trains heading in the same direction and that one ran into the tail of the other, knocking two of its cars off the track.\n\nThe mayor of the nearby town of Urda, Manuel Galán, told TVE that passengers had been injured and that civil protection authorities had asked his town hall to prepare a sports pavilion to attend to passengers.\n\nThe mayor of another nearby village, Jesús Pérez of Los Yébenes, told TVE that it appeared that the accident was \"serious”.\n\nThe regional president of Castilla La Mancha, Emiliano García-Page, wrote on X that he is on his way to the crash site.\n\nSpain's prime minister Pedro Sanchez has said on X that he was shocked by the serious train accident, and expressed affection, solidarity and support to victims and their families.\n\nIn January, 45 people died in southern Spain when a train jumped the track and hit an oncoming train.\n\nThe crash was the deadliest in Spain since a 2013 crash that killed 80 people.\n\nThe January incident shook the confidence the European country has in its extensive high-speed rail network. (Agencies)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:55:55.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875656-20261028.htm"
+    },
     {
       "id": "9debba75a2859e56",
       "title": "Tech stocks soar pushing regional bourses higher",
@@ -346,6 +357,17 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875563-20261028.htm"
+    },
+    {
+      "id": "3d2730b4de88bae2",
+      "title": "Security books for kids launched",
+      "excerpt": "The Security Bureau (SB) today held a launch ceremony for the “Andy & Security Bear: Young Citizens Safeguarding National Security”…",
+      "fullText": "The Security Bureau (SB) today held a launch ceremony for the “Andy & Security Bear: Young Citizens Safeguarding National Security” educational picture books.\n\nPublished by the SB with support from the Education Bureau, the books convey national security concepts to young children through vivid illustrations and simple words and cultivate their awareness of abiding by laws and rules.\n\nSecretary for Security Tang Ping-keung and Under Secretary for Education Sze Chun-fai jointly officiated at the launch and presented books to kindergarten representatives.\n\nMr Tang outlined the creative concept, explaining that the books' illustrations, coupled with an engaging storyline, allow children to discover what it means to follow rules and think critically, thereby developing an understanding of the importance of safeguarding national security from an early age.\n\nMr Sze spoke about the books’ application in school environments, highlighting their effectiveness in enhancing learning outcomes.\n\nThe three-volume set reprises the characters “Andy & Security Bear”, the protagonists from a national security comic series launched by the SB in mid-2024 that has been well received by the education sector and students.\n\nThe set consists of three new stories, along with other resources such as songs, helping to make learning enjoyable in kindergartens.\n\nTo accompany book one of the set, the SB released a song, “Singing Softly”, which was aired at the launch by kindergarten students.\n\nThe children’s performance brought the lyrics – which reinforce positive values of respecting others and safeguarding one’s home – to life.\n\nThe SB will distribute a first batch of the picture books to over 900 kindergartens and public libraries in Hong Kong by the end of this year. On-site kindergarten workshops will be used to help convey national security concepts to young children in a diverse and fun way.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_161337_804/images/20261028171215282.jpg",
+      "publishedAt": "2026-10-27T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_161337_804.html"
     },
     {
       "id": "63424a9ca4c48416",
@@ -750,8 +772,8 @@
       "fullText": "Anthropic, one of the world's leading artificial intelligence companies, on Monday made public its plans to sell shares on the stock market, a significant test of whether the AI boom can deliver profits.\n\nIts filing shows rapidly growing sales while setting out a range of risks for investors, from its conflict with the Trump administration to AI systems acting on their own.\n\nThe listing would be the first by one of the standalone companies leading the race to build advanced AI, ahead of its main rival OpenAI, which has pushed back its own market debut to next year.\n\nIt also follows the June listing of SpaceX, which owns Elon Musk's AI venture xAI and saw its shares fall sharply after a strong debut.\n\nA disappointing reception for Anthropic could dent investor enthusiasm for AI, a sector that has become a key driver of US economic growth.\n\nThe filing lays out risks specific to an industry that has faced a string of reports in recent months of AI systems behaving in unexpected and harmful ways.\n\n\"If the use of our AI models results in harm, whether through use by malicious actors or misuse by other third parties, or if our model guardrails or safeguards fail to prevent such misuse,\" the firm's business could suffer, the filing said.\n\nAnthropic also warned that its \"engagement with policymakers and public positions on AI regulation and safety could subject us to heightened scrutiny, political backlash, or disproportionate regulatory action.\"\n\nThe company has been targeted in recent months by the administration of US President Donald Trump for refusing to lift restrictions on how the Pentagon could use its technology, and the Defense Department has since labelled it a national security risk and barred it as a supplier.\n\nDespite these challenges, Anthropic's business has grown very quickly. Sales reached US$11.6 billion in the April-June quarter, up from US$787 million a year earlier. That compares with US$4.6 billion in sales for all of 2025.\n\nThe company made its first operating profit in that quarter, close to US$1 billion. It still reported an overall loss of US$66 billion, mostly because of accounting charges linked to its rising value rather than cash spent.\n\nMuch of the growth comes from businesses using Claude to write software and handle office work. (AFP)\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-10-26T14:40:37.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875409-20261026.htm"
     },
     {
@@ -1426,17 +1448,6 @@
       "link": "https://rfa.org/english/myanmar/2026/10/22/aung-san-suu-kyi-son-kim-aris-burma-phone-call/"
     },
     {
-      "id": "66b7e62bb59524b7",
-      "title": "FS visits Beijing",
-      "excerpt": "Financial Secretary Paul Chan today visited central ministries in Beijing and witnessed the signing of two Memoranda of Understanding on…",
-      "fullText": "Financial Secretary Paul Chan today visited central ministries in Beijing and witnessed the signing of two Memoranda of Understanding on deepening economic and trade co-operations between the Mainland and Hong Kong.\n\nIn the morning, Mr Chan called on the China Securities Regulatory Commission and met its Chairman Wu Qing. They exchanged views in detail on strengthening collaboration in securities market regulation and development, as well as further deepening mutual market access between the Mainland and Hong Kong.\n\nIn the afternoon meeting with Assistant Minister of Commerce Yuan Xiaoming, Mr Chan discussed with Mr Yuan the further deepening of economic and trade co-operation.\n\nSecretary for Commerce & Economic Development Algernon Yau, who joined the meeting, signed a Memorandum of Understanding (MOU) with Director-General of the MOC’s Department of Taiwan, Hong Kong & Macao Affairs Sun Yi.\n\nMr Yau also signed another MOU with Director-General of the MOC’s Department of Pilot Free Trade Zone & Free Trade Port He Yongqian.\n\nThe two MOUs were signed in accordance with the mechanism of the Mainland & Hong Kong Economic & Trade Co-operation Committee. Mr Chan and Mr Yuan witnessed the ceremony.\n\nThrough the signing of these MOUs, the Hong Kong Special Administrative Region Government and the MOC will further strengthen exchanges and co-operation between the Mainland and Hong Kong in key economic and trade areas, and deepen the alignment of Mainland's pilot free trade zones and free trade port with Hong Kong, respectively.\n\nThe MOUs also serve to fully leverage the respective advantages of the two places, jointly serving the country’s high-level opening-up, as well as bringing economic and trade co-operation between the Mainland and Hong Kong to new heights.\n\nMr Chan thanked the MOC for its continuous strong support for the Hong Kong SAR Government’s efforts to promote Hong Kong’s economic and trade development.\n\nMr Chan said the Hong Kong SAR Government will leverage the advantages of Hong Kong’s internationalised business environment, professional services system and global resources network, to further give full play to the city’s dual roles as a “super connector\" and a ‘super value-adder”.\n\nThe Hong Kong SAR Government will also enhance the city’s competitiveness and international influence, consolidate its status as an international trade centre, while contributing to the country’s high-quality economic development, he added.\n\nIn the afternoon, Mr Chan also visited an artificial intelligence company and met its senior management.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261023/20261023_175258_547/images/20261023194205567.jpg",
-      "publishedAt": "2026-10-22T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261023/20261023_175258_547.html"
-    },
-    {
       "id": "c584601f713f69a1",
       "title": "HK claims 3 silver, 3 bronze",
       "excerpt": "Secretary for Culture, Sports & Tourism Rosanna Law today congratulated Hong Kong athletes on winning three silver and three bronze…",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_165139_765.html"
-    },
-    {
-      "id": "9b802df8bd789f7a",
-      "title": "HSK campus sites application opened",
-      "excerpt": "The Government today rolled out three sites in the Hung Shui Kiu (HSK) University Town campus area for eligible post-secondary…",
-      "fullText": "The Government today rolled out three sites in the Hung Shui Kiu (HSK) University Town campus area for eligible post-secondary institutions to apply for, and will provide loan arrangements to support their campus construction.\n\nThe campus sites have a total area of around 26 hectares: Area (1) of approximately 16.5 hectares, Area (2) of approximately 5.3 hectares and Area (3) of approximately 4.4 hectares. The application deadline is December 31.\n\nThe First Five-Year Plan 2026 Policy Address announced that the Government will develop the San Tin, HSK and Ta Kwu Ling University Towns in the Northern Metropolis (NM).\n\nLocated in the HSK/Ha Tsuen New Development Area, HSK University Town’s campus area and adjoining technology and industry areas, including the HSK Industry Park, the Lau Fau Shan Digital Technology Hub, the Yuen Long InnoPark and the Hong Kong Microelectronics Research and Development Institute, will be developed as a Centre for Applied Post-secondary Education in Smart Manufacturing and Global Talent Cultivation.\n\nThe plan is to drive NM development with university towns, fostering the integrated development of education, technology and talent, further supporting post-secondary education to expand capacity and enhancing quality. This also helps consolidate Hong Kong's position as an international education hub.\n\nA Designated Vetting Group led by the Chief Secretary will be set up to facilitate the holistic consolidation and development planning of the university towns. It will be responsible for reviewing the proposals submitted by institutions, as well as approving and deciding on campus area sites and loan proposals.\n\nSubsequently, the Government will grant the sites to successful institutions at a nominal land premium by way of private treaty grants, and the relevant loan proposals will be submitted to the Legislative Council's Finance Committee for approval according to established procedures.\n\nThe Government encourages interested institutions to plan their development in the Northern Metropolis University Town more comprehensively according to the positioning and functions of different university towns to give full play to the vision of empowering the development of the NM through teaching and research.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_151152_811/images/20260917181556994.jpg",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_151152_811.html"
     }
   ]
 }
