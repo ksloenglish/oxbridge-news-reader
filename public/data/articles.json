@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T21:01:00.625Z",
-  "checkedAt": "2026-10-28T21:12:04.102Z",
+  "generatedAt": "2026-10-28T21:15:16.536Z",
+  "checkedAt": "2026-10-28T21:15:16.536Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -8,8 +8,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_elocal.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "fetch failed",
+      "ok": true,
+      "error": null,
       "articleCount": 20
     },
     {
@@ -18,8 +18,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_egreaterchina.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "fetch failed",
+      "ok": true,
+      "error": null,
       "articleCount": 20
     },
     {
@@ -28,8 +28,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_einternational.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "fetch failed",
+      "ok": true,
+      "error": null,
       "articleCount": 19
     },
     {
@@ -38,8 +38,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_efinance.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "fetch failed",
+      "ok": true,
+      "error": null,
       "articleCount": 16
     },
     {
@@ -48,8 +48,8 @@
       "url": "https://rthk.hk/rthk/news/rss/e_expressnews_esport.xml",
       "category": "rthk",
       "enabled": true,
-      "ok": false,
-      "error": "fetch failed",
+      "ok": true,
+      "error": null,
       "articleCount": 20
     },
     {
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "f644b02f6e39a9f3",
+      "title": "US Federal Reserve holds rates steady, as expected",
+      "excerpt": "The Federal Reserve held interest rates steady on Wednesday, awaiting further data on the path of inflation. In a 10-2…",
+      "fullText": "The Federal Reserve held interest rates steady on Wednesday, awaiting further data on the path of inflation.\n\nIn a 10-2 decision, the US central bank said it would maintain its benchmark interest rate within the current 3.75 percent and 4.00 percent range, while acknowledging that inflation \"remains elevated,\" upgrading its assessment of the economy and hinting that further rate hikes may be coming depending on inflation.\n\n\"The accumulation of more information will help the Committee determine the policy stance appropriate to ensure a timely return of inflation to the Committee's 2 percent goal,\" the rate-setting Federal Open Market Committee said in its latest policy statement. \"The Committee will deliver price stability.\"\n\nFed Governor Lisa Cook, currently targeted by US President Donald Trump for removal from the central bank, dissented in favour of a quarter-percentage-point rate hike, as did Cleveland Fed President Beth Hammack, a consistently hawkish voice who also dissented in July for the same reason.\n\nThe Fed's latest policy statement is a notable change from the September 15-16 meeting, with a hint of the sort of forward guidance Fed Chairman Kevin Warsh has said he wants to avoid.\n\nThe Fed's assessment of the US economy was upgraded to \"strong\" from the \"solid\" expansion seen as of the September meeting, while investment was still viewed as robust and job gains were keeping pace with the workforce. (Reuters)\n\nEdited by Robert kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T21:01:25.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875699-20261029.htm"
+    },
     {
       "id": "a6bc564ba8236e2b",
       "title": "Creating AI value with enterprise context",
@@ -1116,17 +1127,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_183417_832.html"
-    },
-    {
-      "id": "fe292f6aebf7f242",
-      "title": "Trump: Audi to invest US$4.2bn in its first US plant",
-      "excerpt": "US President Donald Trump on Saturday announced that Audi will build an automobile plant in Georgia as he tries to…",
-      "fullText": "US President Donald Trump on Saturday announced that Audi will build an automobile plant in Georgia as he tries to deliver on his promise to bolster American manufacturing in the final days before the midterm elections.\n\nSpeaking at a campaign rally in Perry, Georgia, where he sought to boost Republican candidates, Trump said Audi – the German luxury brand owned by Volkswagen – would commit US$4.2 billion in nearby Macon to begin construction on a plant that will produce 200,000 cars a year.\n\n“Think of that. 200,000 cars a year. That’s incredible,” Trump said, crediting his aggressive and unpopular tariff policies for the company's decision to build the plant.\n\nThe announcement seemed timed to offer a last-minute boost to Republican candidates in the battleground state, including Representative Mike Collins, who is trying to unseat Democratic Senator Jon Ossoff. Trump has spent October campaigning in reliably Republican states as the party tries to hold onto its majorities in the House and Senate. Trump won Georgia in 2024 after losing it in 2020.\n\nTrump was joined on stage by Gernot Dollner, the chairman of the board of management at Audi, who said the plant would be producing “our biggest and most premium SUVs”.\n\n“This is a long-term investment, because we believe in the American market,” he said.\n\nAudi, in a news release, said the plant – its first in Georgia – would create about 4,500 jobs and that construction was scheduled to begin in 2027, with production beginning in the early 2030s.\n\nRepublicans are bracing for losses in the November 3 midterm elections as they contend with an unpopular president and an electorate that is angry over high costs and the ongoing war in Iran. (AP)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T14:15:00.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875272-20261025.htm"
     },
     {
       "id": "ecc0d4018f7050e4",
