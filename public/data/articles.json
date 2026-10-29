@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T08:15:20.441Z",
-  "checkedAt": "2026-10-29T08:15:20.441Z",
+  "generatedAt": "2026-10-29T08:30:22.790Z",
+  "checkedAt": "2026-10-29T08:30:22.790Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 17
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 11
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "3bcd5ffbb031c998",
+      "title": "Govt departments share blame for Wang Fuk fire",
+      "excerpt": "An independent committee looking into the Wang Fuk Court fire on Thursday concluded that government regulators must share responsibility for…",
+      "fullText": "An independent committee looking into the Wang Fuk Court fire on Thursday concluded that government regulators must share responsibility for the high death toll in the Wang Fuk Court fire, finding that private-sector misconduct was compounded by decades of official failure, regulatory loopholes and “slack enforcement”.\n\nThe committee concluded that had officials handled residents’ complaints properly and worked with a sense of crisis about facade fires on occupied renovation sites, private wrongdoing and site hazards “could have been rectified or removed before the fire.” Lax enforcement, it said, “inevitably” breeds lax private-sector performance.\n\nThe government bodies identified “should bear part of the responsibility for the high casualties”.\n\n\"Had the staff of the various government bodies handled the complaints properly and done their works seriously given the possible tragic consequences of fire in the building maintenance and repair sites, there was a real possibility that the misconduct of the private-sector parties and the fire hazards in Wang Fuk Court could have been rectified or removed before the fire,\" it said.\n\nIt found the Buildings Department (BD) and the Independent Checking Unit (ICU) primarily responsible for failed supervision of the Wang Fuk Court works. The failings were “systemic and multi-layered,” spanning policy design and day-to-day operations.\n\nIt listed six core failures: over-reliance on the integrity of building professionals; failing to design supervision around the tragic risk of fires at building maintenance and renovation sites; inadequate control of temporary materials such as scaffolding nets, canvas, foam boards and toe-boards; poor complaint handling; slack operational enforcement; and poor BD-ICU coordination, including the BD’s failure to audit the ICU.\n\nDespite a contract worth more than HK$330 million covering the external walls of eight high-rise occupied blocks, the works were classified as “lower-risk” minor works under the Minor Works Control System rather than high-risk major works.\n\nThe committee said the Fire Services Department (FSD) failed its supervisory duty to assess and remove fire hazards at Wang Fuk Court and to supervise shutdowns of fire service installations and the contractors who certify them.\n\nDespite 26 visits, FSD crews never inspected escape staircases and never detected access openings. Complaints about foam boards, smoking and blocked escapes were met with referrals and “merry-go-round” replies rather than effective action.\n\nIt also identified four Labour Department (LD) operational failures: smoking on site; foam-board fire hazards; verifying net fire-retardancy; and access openings.\n\nAfter 16 visits, smoking complaints were marked “not justified”. The committee said that finding was “simply contrary to the reality”, given residents’ photographs, videos and WhatsApp messages.\n\nCompared with the BD, ICU and FSD, the LD should bear “lesser” responsibility, the committee said – but still criticised a “just-following-the-books” attitude and departments that “passed the ball” until hazards fell through the cracks.\n\n\"There are already strong indications that persons with dubious or triad background are active in the building maintenance and repair industry. Given the probable presence of black sheep in the industry, it is regrettable that there was practicably no control or supervision over the actual execution of the building maintenance and repair works,\" the report says.\n\n\"As a matter of good governance, the services provided by the civil servants should be 'people-centred'\", the committee said.\n\nIn the case that the complainant has raised a matter of genuine concern, they should “take an extra step to help” and should avoid saying “this is not our responsibility and go look elsewhere”, it added.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T08:11:41.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875782-20261029.htm"
+    },
     {
       "id": "a236f8d4647e5a0f",
       "title": "Contractor, consultant, inspector blamed for fire",
@@ -849,8 +860,8 @@
       "fullText": "Banking giant HSBC on Tuesday said net profit in the third quarter rose a less-than-expected 45.5 percent year-on-year as the London-headquartered lender continued to restructure operations and cut costs.\n\nProfit attributable to shareholders for the three months ending in September stood at US$7 billion, from US$4.87 billion a year earlier, HSBC said in a filing to the Hong Kong stock exchange.\n\nPre-tax profit grew 32 percent to US$9.6 billion, with revenue increasing by US$0.8 billion to US$18.6 billion.\n\n\"As we simplify HSBC, we are creating greater capacity to invest, grow and deliver strong returns for our shareholders,\" chief executive Georges Elhedery said in the filing.\n\nThe banking giant also approved a third interim dividend of US$0.10 per share, and announced second US$1 billion buyback after completing one in the previous three months.\n\nHSBC said it remained \"confident in achieving the targets\" set out earlier this year.\n\n\"We continue to target year-on-year growth in revenue from 2026 to 2028, rising to five percent growth in 2028 compared with 2027,\" it said.\n\nThe bank also said expected credit losses tumbled 17 percent to US$800 million from the same period a year ago, thanks to a reduction in charges linked to Hong Kong's real estate sector as well as its UK and Mexican wealth businesses.\n\nThe lender also said it expected net interest income of at least US$46 billion for 2025. (Agencies)\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-10-27T05:07:49.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875488-20261027.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260919/20260919_161358_599.html"
-    },
-    {
-      "id": "4935a4def0ff3a58",
-      "title": "Jobless rate rises to 3.8%",
-      "excerpt": "The seasonally adjusted unemployment rate increased from 3.7% in the May to July period to 3.8% in three months from…",
-      "fullText": "The seasonally adjusted unemployment rate increased from 3.7% in the May to July period to 3.8% in three months from June to August, the Census & Statistics Department announced today.\n\nThe underemployment rate also rose from 1.7% to 1.9% during the same period.\n\nThe number of unemployed persons (not seasonally adjusted) increased by around 8,200 to 153,900 in the June to August period, while the labour force rose by around 12,600 to 3,805,900.\n\nLooking ahead, Secretary for Labour & Welfare Chris Sun said the continued expansion of the local economy is expected to underpin overall labour market conditions, though employment situations across various industries will continue to hinge on their respective business conditions.\n\nHe added that the potential impacts of evolving external uncertainties on corporate hiring sentiments still warrant attention.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_165139_765/images/20260917172737037.jpg",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_165139_765.html"
     }
   ]
 }
