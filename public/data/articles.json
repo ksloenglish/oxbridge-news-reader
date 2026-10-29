@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T01:45:18.031Z",
-  "checkedAt": "2026-10-29T03:00:33.541Z",
+  "generatedAt": "2026-10-29T03:15:19.470Z",
+  "checkedAt": "2026-10-29T03:15:19.470Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 9
+      "articleCount": 10
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "daa52804343888e9",
+      "title": "HKMA warns of interest rate risks as Fed holds steady",
+      "excerpt": "The Hong Kong Monetary Authority (HKMA) on Thursday reminded the public to carefully manage interest rate risks when making property…",
+      "fullText": "The Hong Kong Monetary Authority (HKMA) on Thursday reminded the public to carefully manage interest rate risks when making property, investment or borrowing decisions, after the US Federal Reserve kept its benchmark rate unchanged.\n\nThe Fed's Federal Open Market Committee decided to hold the target range for the federal funds rate at 3.75 to four percent, a move in line with market expectations.\n\n\"Hong Kong's monetary and financial markets have continued to operate in an orderly manner,\" the HKMA said in a statement.\n\nIt noted that with the persistent interest rate differential between the Hong Kong and US dollars, trade activities may cause the local currency to gradually ease.\n\nHowever, the HKMA said the outlook for the Hong Kong dollar and interbank rates could vary depending on factors such as market risk appetite for carry trades and the supply-demand conditions for the local currency, which are in turn influenced by capital market activities and other seasonal factors.\n\nIt added that US interest rate adjustments remain subject to considerable uncertainty and will depend on developments in inflation, the labour market and other economic data, which may in turn affect the interest rate environment in Hong Kong.\n\nThe HKMA said it will continue to closely monitor market developments to maintain monetary and financial stability.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T03:01:30.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875743-20261029.htm"
+    },
+    {
+      "id": "b77c8a4c3baf5eb8",
+      "title": "HK slips as Korean results raises stakes for AI giants",
+      "excerpt": "Asian shares gave up earlier gains on Thursday as AI-related earnings announcements prompted wildly mixed responses, raising the stakes for…",
+      "fullText": "Asian shares gave up earlier gains on Thursday as AI-related earnings announcements prompted wildly mixed responses, raising the stakes for Amazon and Intel results due later in the day.\n\nIn Hong Kong, the benchmark Hang Seng Index opened down six points, or 0.03 percent, at 23,088.\n\nThe tech index slipped 19 points, or 0.5 percent, to 3,834 while the China Enterprises Index inched down six points, or 0.08 percent, to 7,797.\n\nUp north, the Shanghai Composite Index opened down four points, or 0.13 percent, at 3,676.\n\nThe Shenzhen Component Index fell 94 points, or 0.82 percent, to 11,379 while the ChiNext Index lost 38 points, or 1.46 percent, to open at 2,596.\n\nIn Tokyo, the Nikkei opened 172 points, or 0.27 percent, at 64,126 but regained ground to be 11 points off the pace at one stage before noon.\n\nIn Seoul, the Kospi inched up four points, or 0.08 percent, to open at 6,017, gained ground before slipping into loss territory to the tune of 182 points at one stage before lunch.\n\nThe opening losses for Asian markets came as a hefty cash burn at Alphabet sent its shares 10 percent lower in after-hours trading, wiping nearly US$400 billion off its market value. That drove Nasdaq futures one percent lower. Microsoft, by contrast, beat forecasts with better-than-expected cash flows that lifted its shares by three percent.\n\nOvernight, the US Federal Reserve held interest rates steady as widely expected, but two committee members voted for a hike. Chairman Kevin Warsh struck a more confident note on the inflation outlook during his press conference, sparking a rally in Treasuries.\n\nHowever, the bigger test came from earnings. Samsung Electronics said on Thursday its operating profit rose nearly ninefold to a record high in the third quarter, driven by robust demand for AI chips. Its shares still slid more than four percent.\n\n\"The reason why Alphabet is down is because their traditional revenue service of ad generation has been impacted by the very thing which is the AI boom. So it's causing a mix of results for Google,\" said Jamie Hannah, deputy head of investments at VanEck.\n\n\"Both of Alphabet and Microsoft confirmed that the AI revenue generation is still solid. We saw that through the data centre growth, the cloud services. So that part of the business is solid, which then flows into a lot of the information coming out of Asia with SK Hynix yesterday as well in Korea.\" (Reuters & Xinhua)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T02:52:11.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875741-20261029.htm"
+    },
     {
       "id": "d913f4889179676f",
       "title": "US warns allies to prepare for possible Iran strikes",
@@ -975,28 +997,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875401-20261026.htm"
     },
     {
-      "id": "9271be24243d1f59",
-      "title": "Evening News on TV32 - Oct 26",
-      "excerpt": "Top stories for Monday, Oct 26, 2026 - China congratulates Brazil's Luiz Inacio Lula da Silva on his election victory…",
-      "fullText": "Top stories for Monday, Oct 26, 2026\n\n- China congratulates Brazil's Luiz Inacio Lula da Silva on his election victory.\n\n- President Xi Jinping opens a key Party meeting on governance.\n\n- John Lee says Hong Kong can enhance Belt and Road connections.",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T12:20:16.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875391-20261026.htm"
-    },
-    {
-      "id": "ed8ec797b3c7d032",
-      "title": "HK, Shanghai up amid wait for key central bank moves",
-      "excerpt": "Mainland stocks recouped earlier losses and ended largely flat on Monday as investors turned cautious ahead of a busy week…",
-      "fullText": "Mainland stocks recouped earlier losses and ended largely flat on Monday as investors turned cautious ahead of a busy week of major central bank meetings.\n\nIn Hong Kong, the benchmark Hang Seng Index ended 118 points, or 0.5 percent, higher at 23,211 on turnover of HK$175.76 billion.\n\nThe tech index dropped 14 points, or 0.4 percent, to 3,857 while the China enterprises index gained 45 points, or 0.6 percent, to 7,802.\n\nOn the mainland, the Shanghai Composite Index reversed losses to close up seven points, or 0.19 percent, at 3,697 on turnover of 746.52 billion yuan while the blue-chip CSI300 index was roughly unchanged at 4,103.\n\nThe Shenzhen Component Index fell 139 points, or 1.19 percent, to close at 11,534 on turnover of 862.25 billion yuan.\n\nTech shares remained among the key losers, with the startup board ChiNext Composite index falling 45 points, or 1.71 percent, to 2,638 on turnover of 428.14 billion yuan while Shanghai's tech-focused Star50 index tumbling 2.2 percent.\n\nThe CSI 5G communications, which tracks the industry, plunged four percent.\n\nPartly offsetting the weakness, oil and gas shares bounced, with a sub-index tracking the sector rising 2.4 percent, as persistent attacks on key producer Saudi Arabia kept investors cautious despite hopes for easing tensions between the United States and Iran.\n\nMainland stocks were volatile last week, with blue-chip shares posting a record-long weekly losing streak, despite a surge in trading in exchange-traded funds favoured by state-backed investors.\n\n\"Concerns over selling caused by trust tax, pressure on e-commerce, a weakening macro and elevated global market volatility have caused an acceleration of China's market correction,\" analysts at Morgan Stanley said in a note.\n\n\"So for the A-share market, important to watch is when the national team officially starts to buy in a high-profile way,\" they said.\n\nIn the region, stock markets traded cautiously ahead of a week packed with central bank meetings and corporate earnings that will further test investor confidence in the AI boom.\n\nIn Tokyo, the Nikkei slid 503 points, or 0.8 percent, to 62,189 as the 225 share gauge lost ground for a third straight session amid a continued decline for chip-related shares.\n\nThe broader Topix inched up seven points, or 0.18 percent, to 3,972.\n\nIn Seoul, the tech-heavy Kospi closed down 80 points, or 1.46 percent, at 5,469 as chipmakers fell, with Samsung Electronics losing 1.16 percent while peer SK hynix lost 0.16 percent. (Reuters/Xinhua)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T09:14:50.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875370-20261026.htm"
-    },
-    {
       "id": "007c8953914a9cef",
       "title": "The focus on AI safety disasters ignores everyday harms",
       "excerpt": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide …",
@@ -1039,17 +1039,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875373-20261026.htm"
-    },
-    {
-      "id": "60d708260ebf5358",
-      "title": "HK gets world-first secondary tokenised funds trading",
-      "excerpt": "The Securities and Futures Commission has approved the world's first secondary trading of tokenised public funds on its licensed virtual…",
-      "fullText": "The Securities and Futures Commission has approved the world's first secondary trading of tokenised public funds on its licensed virtual asset trading platform (VATP), with around-the-clock trading of two tokenised money market funds beginning on Monday.\n\nThe approval builds on a new regulatory framework it introduced in April, which sets out requirements for secondary trading of tokenised funds on licensed VATPs.\n\nThe framework covers trading channel operations, fair pricing, liquidity provision and disclosure.\n\nThe first batch of products involves two existing SFC-authorised tokenised money market funds, now available for secondary trading on a 24/7 basis.\n\nLooking ahead, the SFC said tokenised public funds could further leverage tokenised deposit capabilities being developed in collaboration with the Hong Kong Monetary Authority under Project Ensemble.\n\nThis would allow investors to sell tokenised assets around the clock and instantly transfer proceeds to other investment opportunities.\n\nElisa Ng, the SFC's executive director of investment products, said the move \"marks an important milestone\" in the city's digital asset development, adding that it adds \"24/7 trading capability\" to Hong Kong's evolving tokenisation ecosystem.\n\nThe SFC said it would monitor trading activities closely and consider broadening the product scope over time, taking into account market developments and experience gained.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T07:13:01.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875360-20261026.htm"
     },
     {
       "id": "d6a462a2cd823c15",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260922/20260922_160618_499.html"
+    },
+    {
+      "id": "8a73cb143c325b83",
+      "title": "Youth teams received by state leader",
+      "excerpt": "The “‘Salute to the National Flag’ Hong Kong & Macau Youth Flag-Raising Teams’ Beijing Visit Delegation”, led by Chief Secretary…",
+      "fullText": "The “‘Salute to the National Flag’ Hong Kong & Macau Youth Flag-Raising Teams’ Beijing Visit Delegation”, led by Chief Secretary Chan Kwok-ki, was received today by Member of the Standing Committee of the Political Bureau of the CPC Central Committee and Vice Premier of the State Council Ding Xuexiang at the Great Hall of the People.\n\nMr Chan expressed deep gratitude to Mr Ding for personally guiding the Hong Kong and Macau youths, and even more so to the nation for providing this valuable opportunity for students to take part in the solemn flag‑raising ceremony at Tiananmen Square and experience the historical culture and development achievements of the capital.\n\nThe Chief Secretary said this was a rare and profound patriotic education experience. During the solemn flag‑raising ceremony, students felt the dignity of the national flag and anthem up close, deepening their understanding of the symbolic meaning of the flag, as well as the national situation and development.\n\nThrough a rich itinerary of visits, the students also gained a genuine appreciation of the challenges and accomplishments of the nation’s journey from history to rejuvenation, further strengthening their national identity, their sense of national pride, affection for and sense of belonging to it.\n\nMr Chan emphasised that the trip was of great significance for promoting patriotic education in Hong Kong’s primary and secondary schools.\n\nIn addition to textbook learning, he explained, bringing students to the sites of national history and culture allows them to experience emotions firsthand and deepen their understanding through real stories, which greatly contributes to patriotic education.\n\nMr Chan said the delegation’s itinerary organically integrated national flag education, history education, cultural education and national development education, making patriotism more concrete, vivid and powerful in the hearts of students, guiding them to consciously safeguard national sovereignty, security and development interests, and aspiring to become a new generation that loves the country and Hong Kong, and is willing to take responsibility.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260921/20260921_204627_798/images/20260921224722859.jpg",
+      "publishedAt": "2026-09-20T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260921/20260921_204627_798.html"
     }
   ]
 }
