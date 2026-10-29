@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T13:00:33.818Z",
-  "checkedAt": "2026-10-29T13:45:18.845Z",
+  "generatedAt": "2026-10-29T14:00:31.510Z",
+  "checkedAt": "2026-10-29T14:00:31.510Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -456,6 +456,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261029/20261029_160028_023.html"
+    },
+    {
+      "id": "e5d20bdf3b5fd25d",
+      "title": "Team formed to probe fire failings",
+      "excerpt": "The Public Service Commission today announced the formation of an investigation team to examine alleged deficiencies and failings in overseeing…",
+      "fullText": "The Public Service Commission today announced the formation of an investigation team to examine alleged deficiencies and failings in overseeing the fire risks associated with the works at Wang Fuk Court.\n\nThe move follows a referral by Chief Executive John Lee to activate the Administrative Responsibility Two-tier Investigation Mechanism under the Heads of Department Accountability System. The team will probe whether the relevant departments failed to properly discharge their duties and responsibilities regarding fire risk oversight.\n\nAs identified in the report submitted by the independent committee set up in relation to the fire at Wang Fuk Court in Tai Po, the departments under review include the Housing Bureau’s Independent Checking Unit, the Buildings Department, the Fire Services Department and the Labour Department.\n\nTasked with collecting evidence, the team will investigate the responsibilities of the individual officers concerned, examining whether they neglected their duties or contravened departmental guidelines, the Civil Service Code and civil service administrative regulations.\n\nThe team is also mandated to advise the Government on appropriate disciplinary or administrative actions against officers with alleged failings, in accordance with departmental guidelines, the Public Service (Administration) Order, the Public Service (Disciplinary) Regulation and other relevant regulations.\n\nChaired by Commission Chairman Maisie Cheng Mei-sze, the team also comprises Commission members Ann Kung Yeung Yun-chi and Adrian Wong Koon-man.\n\nMs Cheng stated that the team will spearhead the investigation, directly participating in and supervising the entire process.\n\n“We will take the committee report and the voluminous information which has been made public earlier as a starting point, uphold the principles of fairness and impartiality in the course of ascertaining the facts as well as sorting out and clarifying the administrative responsibilities of the civil servants concerned, including whether they had failed their duties and contravened relevant departmental guidelines, the Civil Service Code and civil service administrative regulations,” she added.\n\nTo support its work, the team has established a support office under the Investigation Regulation.\n\nThe Government has progressively deployed personnel from various grades to join the preparatory work since August. Over the past few weeks, the team has studied extensive material released by the independent committee to facilitate the investigation.\n\nMoving forward, the support office will assist the team by requesting information from the relevant departments and arranging professional, rigorous meetings with the civil servants involved.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261029/20261029_181228_911/images/20261029204707261.jpg",
+      "publishedAt": "2026-10-28T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261029/20261029_181228_911.html"
     },
     {
       "id": "a6d50a5ae12b60f0",
@@ -1402,17 +1413,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/tibet/2026/10/23/golog-qinghai-tibetan-schools-closed-ethnic-unity-law/"
-    },
-    {
-      "id": "0b9c0984af88b862",
-      "title": "CE congratulates HK athletes",
-      "excerpt": "Chief Executive John Lee today congratulated Hong Kong, China athletes on their achievements at the 5th Asian Para Games, commending…",
-      "fullText": "Chief Executive John Lee today congratulated Hong Kong, China athletes on their achievements at the 5th Asian Para Games, commending their outstanding performance and noble sportsmanship.\n\nMr Lee said the Hong Kong, China delegation delivered an excellent performance at this year's Asian Para Games, winning a total of 41 medals, comprising 3 gold, 14 silver and 24 bronze medals, and achieving Hong Kong's best-ever result in boccia with a total of 2 gold, 3 silver, and 3 bronze medals.\n\nHe said these heartening achievements write a splendid chapter in the development of para sports in Hong Kong.\n\n\"Hong Kong, China athletes gave their utmost in the competition, demonstrating superb skills and indomitable determination. Their achievements have not only brought honour to Hong Kong, but also inspired the community with their perseverance and never-give-up sportsmanship. Their outstanding performance has earned the admiration and pride of the entire Hong Kong community.”\n\nMr Lee stressed that the Hong Kong Special Administrative Region Government has always attached great importance to sports development for persons with disabilities, helping them to realise their potential and pursue their dreams. Through the Hong Kong Sports Institute, the Government provides full-time high-level training for elite athletes with disabilities. This allows them to receive professional coaching, with access to barrier-free world-class training venues and equipment, and comprehensive support in sports science and sports medicine, enabling them to represent Hong Kong, China in competitions in the Mainland and abroad.\n\nThe Chief Executive added that the Government last year raised the level of direct financial support for elite athletes with disabilities across the board, and for the first time introduced a Senior Squad funding tier. This further enhances the training pathway.\n\nMr Lee said Hong Kong's outstanding performance at this year's Asian Para Games demonstrates that the Government's policy direction is the right one.\n\n\"I would like to thank all the athletes, coaches, medical teams and support personnel for their tireless efforts and dedication. The Government will continue to work closely with the China Hong Kong Paralympic Committee, the Hong Kong Sports Institute and various national sports associations to devote resources to nurturing talent, helping more athletes with disabilities unleash their potential, surpass themselves and achieve new levels in future international competitions.\"",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261024/20261024_150558_040/images/20261024172702639.jpg",
-      "publishedAt": "2026-10-23T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261024/20261024_150558_040.html"
     },
     {
       "id": "d34d25c689aebc3a",
