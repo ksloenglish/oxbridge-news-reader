@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T23:45:16.189Z",
-  "checkedAt": "2026-10-28T23:45:16.189Z",
+  "generatedAt": "2026-10-29T00:00:31.248Z",
+  "checkedAt": "2026-10-29T00:00:31.248Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "80ef43fc238b68c2",
+      "title": "Alphabet shares plummet after revenue miss",
+      "excerpt": "Google parent Alphabet on Wednesday missed Wall Street profit and revenue expectations, and AI spending accelerated its cash burn, sending…",
+      "fullText": "Google parent Alphabet on Wednesday missed Wall Street profit and revenue expectations, and AI spending accelerated its cash burn, sending its shares down more than 10 percent in extended trading.\n\nCapital expenditures, driven by AI, will increase significantly in 2027, said Chief Financial Officer Anat Ashkenazi, adding that this year's capex forecast was unchanged. She said she also expected near-term margin pressure from the use of third-party cloud capacity.\n\nThe tech giant reported negative free cash flow of US$9.07 billion, compared with analyst expectations that it would come close to breaking even, according to data compiled by LSEG.\n\nThe results reflect the huge costs of the AI buildout, with investors in the sector concerned both by potential overspending and the risk of falling behind rivals by not spending enough.\n\nThe quarterly cash burn is an increase from US$5.9 billion in the prior quarter, which was the first time the company went into the negative in its 22-year history as a public company.\n\nAlphabet's cash burn was driven by spending to boost cloud capacity and fund AI research. It reported a US$7.66 billion operating income loss in \"Alphabet-level activities,\" which it said primarily reflected expenses related to AI research and development.\n\nThe tech giant's total revenue for the third quarter was US$127.6 billion, short of analysts' estimate of US$128.2 billion, according to LSEG data.\n\nThe revenue miss was caused by Google's core advertising business that reported US$82.01 billion in revenue, about US$1.41 billion short of expectations.\n\nNet income available to common shareholders fell 25 percent to US$26.17 billion, and adjusted earnings per share of US$2.67 missed Wall Street targets of US$3.02.\n\nEarlier on Wednesday, Google sought to preempt its results and counter the perception it had fallen behind in the AI race by announcing its new Gemini 4 Carbon model, which CEO Sundar Pichai told analysts during the earnings call meant it was again \"leading at the frontier.\"\n\nRevenue at Google Cloud exceeded estimates and more than doubled to US$30.71 billion in the third quarter ended September 30, but was not enough to make up for the ad-side performance. (Reuters)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T23:49:11.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875719-20261029.htm"
+    },
     {
       "id": "2449a28f7441832a",
       "title": "China leverages Taiwan’s reverence for Sun Yat-sen to promote ‘reunification’",
@@ -1061,17 +1072,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875349-20261026.htm"
-    },
-    {
-      "id": "7a9668f5d8ea5ce3",
-      "title": "Full MPF portability 'can help drive down fees'",
-      "excerpt": "Lawmakers hailed on Monday an upcoming arrangement that allows employees to transfer not only their own mandatory provident fund contributions…",
-      "fullText": "Lawmakers hailed on Monday an upcoming arrangement that allows employees to transfer not only their own mandatory provident fund contributions but also their employer’s to a scheme of their choice once every calendar year.\n\nTheir remarks came as phase one of the MPF Full Portability scheme – which grants employees greater autonomy by allowing them to transfer accrued mandatory contributions by their employers to a scheme of their choice – is set to begin on December 21.\n\nSpeaking on a RTHK radio programme, lawmaker Chau Siu-chung said he supported the arrangement as workers would be able to choose the MPF trustee they considered to be the best for them as well as foster more competition and help drive down administrative fees.\n\nHe also said that the current eMPF platform would make the transfer process simpler and easier.\n\nChau, also a non-executive director of the Mandatory Provident Fund Schemes Authority, noted that many workers remained unclear about what MPF “full portability” means and that public awareness in this regard needed to be strengthened.\n\n“I think public awareness right now is indeed not ideal – about 80 percent of people are basically not very clear about what full portability means, there is definitely a need to do more,” he said.\n\nChau also called on the public to be alert to unfair sales practices.\n\nHe urged the government to take this opportunity to summarise and simplify information about different trustees so that workers could have clear, easy-to-compare information to take reference from.\n\nSpeaking on RTHK’s Backchat programme, lawmaker Lam Chun-sing also welcomed the arrangement but noted that employees should avoid changing their scheme frequently as it may cause high administrative costs and may affect their returns.\n\n“MPF investment is a long-term investment for retirement [so] that we want to achieve stable growth of the MPF contributions instead of short-term returns like share investment or other investment tools,” he said.\n\n“If you frequently change your scheme or transfer your MPF contribution to different trustees, this may cause high administrative costs and may affect your return.”\n\nLam also encouraged workers who are not investment professionals or do not have time to manage their scheme to consider using the default investment strategy, saying it automatically reduces risks and uses a diversified investment approach to bring favourable returns.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T05:05:30.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875339-20261026.htm"
     },
     {
       "id": "9f9ba7539bd95ae4",
