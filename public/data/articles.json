@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T11:15:17.987Z",
-  "checkedAt": "2026-10-29T11:15:17.987Z",
+  "generatedAt": "2026-10-29T11:30:30.179Z",
+  "checkedAt": "2026-10-29T11:30:30.179Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "0f095c5218189d1d",
+      "title": "Winnie Ho 'willing to take political responsibility'",
+      "excerpt": "Winnie Ho, who resigned as secretary for housing over the Wang Fuk Court fire, said she was willing to bear…",
+      "fullText": "Winnie Ho, who resigned as secretary for housing over the Wang Fuk Court fire, said she was willing to bear political responsibility for the deadly blaze.\n\nIn a statement, Ho said she met with Chief Executive John Lee on Wednesday and tendered her resignation, which Lee accepted.\n\nHo also said the government's reform measures, based on the independent committee's report, demonstrate a strong determination to confront the complex and longstanding problems exposed by the fire.\n\n\"Since July 1, 2022, I have fought side by side with the Housing Bureau team, working hard to reverse the longstanding housing problems that have plagued Hong Kong for years,\" she said.\n\nHo also listed achievements during her tenure, including the rapid construction of light public housing, shortening waiting times for public housing, tackling substandard subdivided units and clamping down on public housing abuse.\n\nShe said she felt deeply honoured to have served Hong Kong over the past four years, and expressed gratitude to the central government, the chief executive and the entire government team for their trust and support.\n\nHo also said she hopes those who were killed in the blaze can rest in peace and their families can move forward and recover from their grief.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T11:18:23.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875829-20261029.htm"
+    },
     {
       "id": "d66ac185a2843893",
       "title": "Plenum adopts resolution on Party self-governance",
@@ -830,17 +841,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875545-20261027.htm"
-    },
-    {
-      "id": "2127ba565d97d064",
-      "title": "Evening News on TV32 - Oct 27",
-      "excerpt": "Top stories for Monday, Oct 26, 2026 - Thousands are left without tap water as a pipe bursts in Shau…",
-      "fullText": "Top stories for Monday, Oct 26, 2026\n\n- Thousands are left without tap water as a pipe bursts in Shau Kei Wan.\n\n- John Lee calls on university leaders to join the development of the Northern Metropolis.\n\n- Hundreds of people are hit by two new data breaches.",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T12:41:09.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875534-20261027.htm"
     },
     {
       "id": "a5398d693fa11a69",
