@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T00:00:31.248Z",
-  "checkedAt": "2026-10-29T01:30:21.489Z",
+  "generatedAt": "2026-10-29T01:45:18.031Z",
+  "checkedAt": "2026-10-29T01:45:18.031Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "d913f4889179676f",
+      "title": "US warns allies to prepare for possible Iran strikes",
+      "excerpt": "US officials have told several Middle East countries and regional allies to be prepared for potential renewed military action against…",
+      "fullText": "US officials have told several Middle East countries and regional allies to be prepared for potential renewed military action against Iran after next week’s midterm elections in the United States — as well as the possibility that Iran will attempt to retaliate against them, according to two diplomats briefed on the matter.\n\nBoth of the diplomats spoke on the condition of anonymity because they were not authorised to comment about the sensitive warnings conveyed by US diplomats and defence officials.\n\nPresident Donald Trump has not made a final decision on whether to carry out new strikes against Iran, the diplomats stressed. The president, however, has repeatedly said that he is weighing ordering new military action once the critical November 3 elections in the US are over.\n\nThose threats and the fresh US pushes for allies to prepare for potential retaliation are putting the region on alert that a return to major operations could now be on the horizon.\n\nThe White House and US officials declined to comment.\n\nIranian Foreign Minister Abbas Araghchi said on Wednesday in a post on X that Tehran “continues to give diplomacy a chance to succeed” and is working with mediators to review ideas that Tehran included in a proposal floated last month -- summarily rejected by Trump-- that the Iranians still want to see used as the basis to return to a ceasefire.\n\nThe United Arab Emirates foreign ministry issued a statement urging the sides to “exercise wisdom and pursue political solutions to help contain tensions” and prevent a return to full-scale operations in the war that began in late February.\n\nThe Pentagon late last month deployed the USS Theodore Roosevelt, along with a series of amphibious landing ships with Marines aboard -- roughly 9,000 troops in all -- from San Diego to the Persian Gulf to bolster the US military in the region.\n\nThe war has proved to be a heavy weight on Republican candidates as they make their case to voters who are fatigued by rising gasoline prices, a byproduct of the war that's driven up costs across nearly every sector in the global economy. (AP)\n\nEdited by Altis Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T01:23:12.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875730-20261029.htm"
+    },
     {
       "id": "80ef43fc238b68c2",
       "title": "Alphabet shares plummet after revenue miss",
@@ -841,17 +852,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875446-20261027.htm"
-    },
-    {
-      "id": "b7140e4531256a2d",
-      "title": "Brazil election looks rigged, says Trump",
-      "excerpt": "US President Donald Trump said on Monday that leftist incumbent Luiz Inacio Lula da Silva's surprise win in Brazil's presidential…",
-      "fullText": "US President Donald Trump said on Monday that leftist incumbent Luiz Inacio Lula da Silva's surprise win in Brazil's presidential vote \"looked like another rigged election,\" although the party of defeated right-winger Flavio Bolsonaro later acknowledged the result.\n\nThe son of former president Jair Bolsonaro, Flavio Bolsonaro has refused to concede defeat in Sunday's presidential election, saying he would seek the annulment of Lula's victory after the Supreme Court extended voting by two hours.\n\nLater on Monday, however, Bolsonaro's Liberal Party said it acknowledged the runoff result in a statement signed by the party's head Valdemar Costa Neto.\n\n\"We recognise the presidential election results,\" Costa Neto said. \"But we believe the issues raised need to be properly clarified.\"\n\nBolsonaro, who has not commented publicly since his party's statement, said earlier on Monday he would comply with a federal police order to hand over his passports following a visit to his father, who is under house arrest, and denied he was planning to flee Brazil.\n\nTrump did not endorse Bolsonaro ahead of the vote, although Reuters has reported that officials from his State Department led a campaign to return the Bolsonaros to power.\n\n\"I didn't take sides, but it looked like another rigged election,\" Trump told reporters, without providing any evidence. \"It looked very bad to me.\"\n\nBolsonaro lost to Lula by over 4 million votes, a clear result that it will be challenging for him to overturn. Fewer than 35,000 votes, or some 0.03 percent of the total, were cast in the extra two hours of voting ordered by the Supreme Court, according to an analysis of electoral records by Insper professor Pedro Burgos.\n\n\"I just think it had a very bad look, the election, the way it was tabulated,\" Trump said. \"The extension given was very strange.\"\n\nVice President Geraldo Alckmin later defended Brazil's electoral system, saying in a TV interview with Rede Vanguarda that Trump's remarks were \"totally wrong\" and \"unfounded.\"\n\nNeither Trump nor Jair Bolsonaro accepted their election losses in 2020 and 2022, respectively. Brazil's former president was handed a 27-year sentence for plotting a coup after losing to Lula.\n\nAnalysts do not expect Flavio Bolsonaro to be able to build the same anti-democratic movement as his father in 2022.\n\nWorld leaders have already widely congratulated Lula on his unprecedented fourth mandate, which was greeted with dismay by investors who had been betting on a Bolsonaro win.\n\nBrazil's real fell 8.1 percent against the US dollar in its biggest one-day drop since 2002, while the stock exchange marked its steepest one-day fall since 2020.\n\n\"The initial selloff could moderate as election-related positions are unwound, but investors will demand convincing fiscal commitments before rebuilding exposure,\" said Pantheon Macroeconomics' chief Latin America economist Andres Abadia.\n\nLula's victory defied polls, precedent and global anti-incumbent sentiment to put the brakes on a wave of right-wing election victories across Latin America. He trailed Bolsonaro in the first round, but managed to convince voters to come out for him in the runoff.\n\nPollsters said a higher-than-expected turnout and an improved social media campaign helped power Lula to victory. (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T23:54:50.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875445-20261027.htm"
     },
     {
       "id": "dafa64f8f5fb1585",
