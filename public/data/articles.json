@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T14:45:18.827Z",
-  "checkedAt": "2026-10-29T15:00:31.594Z",
+  "generatedAt": "2026-10-29T15:15:17.985Z",
+  "checkedAt": "2026-10-29T15:15:17.985Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 13
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "51f93cfa9f299d66",
+      "title": "US economy posts stronger Q3 growth",
+      "excerpt": "The US economy grew at a healthy 3.4 percent annual pace from July through September, accelerating from the second quarter…",
+      "fullText": "The US economy grew at a healthy 3.4 percent annual pace from July through September, accelerating from the second quarter on strong consumer spending and investment in artificial intelligence.\n\nThe expansion in third-quarter gross domestic product – the nation’s output of goods and services – was faster than the 2.2 percent growth registered from April through June, the US Commerce Department said on Thursday.\n\nConsumer spending rose at a brisk 3.8 percent clip in the third quarter, and business investment was up sharply, reflecting the AI boom.\n\nThe American economy – by far, the world’s biggest – has proven resilient in the face of higher energy prices caused by the fighting with Iran.\n\nEconomists had expected GDP to grow 3 percent in the third quarter, according to a survey of forecasters by the data firm FactSet.\n\nUS growth has been lifted by an AI investment boom. Business investment, excluding housing, was up 12.7 percent in the third quarter. Investment in information processing equipment surged 37.4 percent, in software 9.6 percent and in research and development 7.5 percent.\n\nHowever, housing investment, hurt by high mortgage rates, dropped 3.3 percent and has now fallen six of the last seven quarters.\n\nThursday’s report was the first of three Commerce Department estimates of third-quarter GDP growth. (AP)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T14:59:46.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875863-20261029.htm"
+    },
     {
       "id": "5cff61d477439a98",
       "title": "Shenzhen Bay port to open longer on Fri and Sat",
@@ -478,6 +489,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261029/20261029_160028_023.html"
+    },
+    {
+      "id": "77f5a33f407aa94f",
+      "title": "Shenzhen Bay to extend hours",
+      "excerpt": "The Hong Kong Special Administrative Region Government today announced that passenger and vehicle clearance services at the Shenzhen Bay Control…",
+      "fullText": "The Hong Kong Special Administrative Region Government today announced that passenger and vehicle clearance services at the Shenzhen Bay Control Point will be extended by two hours until 2am on October 30 and 31. The arrangement follows a consensus reached with Shenzhen authorities to facilitate festival traffic.\n\nA substantial rise in visitor arrivals and late-night cross-boundary trips is anticipated over the Halloween weekend, which coincides with major local events including the Hong Kong Wine & Dine Festival and mega concerts.\n\nThe Hong Kong SAR Government expects the busiest period for northbound traffic at Huanggang Port to be between 11pm and 2am overnight, warning of heavy congestion around the port area and San Tin Highway. The extended hours at Shenzhen Bay aim to divert this late-night flow.\n\nCross-boundary coach operators have co-ordinated with the Hong Kong SAR Government to extend northbound services utilizing the Shenzhen Bay Control Point.\n\nFor local public transport services, franchised bus operators will run two special overnight bus routes – NB2 and NB3 – during the early morning hours. These will connect the Shenzhen Bay Control Point and Yuen Long/Tin Shui Wai and Tuen Mun respectively.\n\nClearance arrangements at Huanggang Port will remain unchanged.\n\nTravellers are advised to check real-time updates – including average passenger and private car waiting times – via the Security Bureau’s “Easy Boundary” platform or the Transport Department’s “HKeMobility” mobile application to plan their journeys and avoid delays.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261029/20261029_200450_909/images/20261029214117977.jpg",
+      "publishedAt": "2026-10-28T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261029/20261029_200450_909.html"
     },
     {
       "id": "e5d20bdf3b5fd25d",
@@ -986,17 +1008,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875460-20261027.htm"
     },
     {
-      "id": "f55f905316782e33",
-      "title": "Walter Koenig of 'Star Trek' fame dies at 90",
-      "excerpt": "Walter Koenig, the actor best known for his role as Pavel Chekov on the groundbreaking television show \"Star Trek\" and…",
-      "fullText": "Walter Koenig, the actor best known for his role as Pavel Chekov on the groundbreaking television show \"Star Trek\" and in the franchise's first seven movies, has died at age 90, his representative said on Monday.\n\nKoenig died at his home in North Hollywood in Los Angeles, his agent Zachery McGinnis said in a statement, citing the cause of \"old age\" without further details.\n\nThe actor was known for playing the youthful Russian navigator Chekov in the original television series, as well as in several \"Star Trek\" feature films.\n\n\"Today we mourn the passing of Walter Koenig, whose talent, warmth, and unforgettable performances left a lasting mark on generations of fans around the world,\" read the statement.\n\n\"Thank you, Walter, for the memories, the inspiration, and for boldly going where few have gone before.\"\n\nThe actor died surrounded by his daughter and niece, added the statement.\n\nEnsign Pavel Chekov first appeared in the iconic series at the start of its second season, in 1967.\n\nThe character was meant to appeal to younger viewers.\n\nWilliam Shatner, who played Captain James T Kirk, and Leonard Nimoy (Mr. Spock) were both in their mid-thirties at the onset of the series, nearly over the hill by the era's standards.\n\nKoenig was 30 when he was cast, and producers hoped he'd appeal to teens, with his mop-top hairstyle not unlike Davy Jones of the Monkees, the famed TV-produced pop band.\n\nBorn in Chicago and raised in Manhattan, Koenig was the child of Lithuanian immigrants.\n\nHe earned a bachelor's degree in psychology and initially planned a career as a psychiatrist.\n\nBut acting proved a good bet.\n\n\"Star Trek\" was given a tepid reception when it debuted, but it eventually snowballed into a cultural phenomenon, spawning a universe of spinoff series along with the films, and a rabid fan following.\n\nThe original show ran from 1966 to 1969.\n\nKoenig told The Los Angeles Times that when it was cancelled he was \"totally at sea\" with \"no reason to get up in the morning\".\n\nBut the series soon found massive cult fame, with \"Trekkie\" super fans who have kept it alive to this day.\n\nKoenig signed on to a film franchise that followed, becoming a mainstay of \"Star Trek\" movies released between 1979 and 1994.\n\nHe also appeared in non-canon spin-offs, and was in the space drama TV series \"Babylon 5\".\n\nThroughout his career he also posted a number of writing credits, and also worked on computer games.\n\nKoenig married Judy Levitt, who also appeared in \"Star Trek\" films, in 1965.\n\nShe died in 2022.\n\n\"My heart is heavy,\" wrote George Takei, Koenig's \"Star Trek\" co-star who played Sulu in the franchise.\n\n\"Walter was more than Chekov. He was a writer, a teacher, a thoughtful man, and a loyal friend. To the fans who loved him for so many years, thank you. He loved you too,\" Takei wrote on Facebook.\n\n\"Rest well, my dear friend. Keep navigating a steady course.\" (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T01:20:57.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875458-20261027.htm"
-    },
-    {
       "id": "dafa64f8f5fb1585",
       "title": "Kane, Putellas win top honours at 2026 Ballon d'Or",
       "excerpt": "Harry Kane became England's first Ballon d'Or winner in 25 years in his native city of London on Monday, beating…",
@@ -1017,17 +1028,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875422-20261027.htm"
-    },
-    {
-      "id": "0702b34ed7be7e5b",
-      "title": "AI stocks on Wall Street lifted by Anthropic filing",
-      "excerpt": "US stocks closed higher on Monday, with the S&P 500 and Nasdaq coming off consecutive weekly declines, as Anthropic's IPO…",
-      "fullText": "US stocks closed higher on Monday, with the S&P 500 and Nasdaq coming off consecutive weekly declines, as Anthropic's IPO filing helped boost sentiment in AI-related stocks in a week filled with a host of market catalysts.\n\nAnthropic disclosed steep losses and red-hot revenue growth in its filing for a US initial public offering, laying out its ambition to build AI systems capable of reshaping the global economy despite the high costs of developing the technology.\n\nThe AI lab is pushing ahead with its listing plans even as a once-lively autumn IPO calendar has slowed, with recent market volatility prompting companies to delay offerings.\n\nAnthropic's filing comes as investors increasingly dissect the potential pay-off from massive AI spending and at the start of an eventful week.\n\nOn tap are the Federal Reserve's policy statement on Wednesday, readings on US economic growth and inflation on Thursday and a slew of corporate earnings reports throughout the week.\n\nMore than a third of S&P 500 companies are scheduled to report earnings this week, including hyper-scalers Alphabet, Microsoft and Amazon, whose results will be parsed for signs of whether the hefty AI investments are translating into growth.\n\n\"Today's all about the Anthropic release, so we're back on a little bit of an optimistic tilt, I would say. But there's a lot in that release. It will be interesting to see how well things are received when they actually come to list,\" said JP Powers, chief investment officer at RWA Wealth Partners in Boston.\n\n\"The risk is maybe a little bit of a whipsaw if things aren't all moving in the same direction. A little optimism today, but who knows what will happen from some of these other releases this week,\" he said.\n\nThe S&P 500 rose 0.7 percent, to 7,676, the Nasdaq rose 0.8 percent, to 26,169, while the Dow rose 0.3 percent, to 52,361.\n\nSemiconductor and chip-related companies, widely viewed as some of the biggest beneficiaries of the AI boom, helped fuel the gains.\n\nMeta shares closed down 1.9 percent after the social media company said it plans to raise up to US$95 billion in equity to fund its AI-related expansion of data centres, cloud computing power and other infrastructure.\n\nThe AI trade has come under pressure this month amid concerns that debt-funded spending may become harder to justify in the face of climbing borrowing costs.\n\nThe Anthropic filing helped buoy sentiment, however, as neo-cloud firms, including CoreWeave, erased earlier declines.\n\nMegacap and growth stocks were also mostly higher. Tesla jumped 5.2 percent to close at its highest level in more than three months after Barclays upgraded its rating on the stock to \"overweight\" from \"equal-weight.\"\n\nMarkets are pricing in only a 12.7 percent chance of a rate hike from the Fed on Wednesday, according to CME FedWatch.\n\nBut with US inflation pressures showing no signs of abating, market participants do not believe the central bank will be on hold for long.\n\nInvestors are also bracing for the November 3 midterm elections, which will decide control of the US Congress. (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T23:02:02.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875430-20261027.htm"
     },
     {
       "id": "ad311f18c403db4e",
@@ -1415,17 +1415,6 @@
       "link": "https://rfa.org/english/tibet/2026/10/23/golog-qinghai-tibetan-schools-closed-ethnic-unity-law/"
     },
     {
-      "id": "d34d25c689aebc3a",
-      "title": "Counter-terrorism exhibition opens",
-      "excerpt": "The Inter-departmental Counter Terrorism Unit (ICTU) is staging an educational counter-terrorism exhibition in the Hong Kong Museum of History. Co-organised…",
-      "fullText": "The Inter-departmental Counter Terrorism Unit (ICTU) is staging an educational counter-terrorism exhibition in the Hong Kong Museum of History.\n\nCo-organised by the National Security Department of the Hong Kong Police Force and co-ordinated by the Security Bureau, the exhibition aims to enhance public awareness of counter-terrorism (CT) and strengthen public response capabilities through multimedia displays and interactive experiences.\n\nAddressing today's opening ceremony, Secretary for Security Tang Ping-keung emphasised that terrorism knows no borders. He said Hong Kong must therefore remain vigilant and be prepared for potential threats, while continuing to strengthen the city’s CT capabilities in the areas of prevention, preparedness, response and recovery.\n\nMr Tang outlined that the exhibition aims to deepen public understanding of terrorism, the global CT landscape, and Hong Kong's strategies. It also seeks to encourage members of the public to stay alert, embrace the message that “greater vigilance means lower risk”, and work together to safeguard Hong Kong’s security.\n\nThe exhibition, located in the main lobby of the museum, will run until March 1 next year. Together with the National Security Exhibition Gallery on the second floor, it offers a complementary and synergistic exhibition experience.\n\nFeaturing diverse and vibrant content across multiple zones, the exhibition showcases the global and local CT landscape; Hong Kong’s strategies, including the Government's Three-tier Prevention Framework for CT, and the relevant legal framework; as well as the CT roles of the ICTU and other government departments.\n\nIt also has interactive elements such as the “Spot and Report” and “Run, Hide, Report” games, together with an authentic wartime bomb weighing over 1,000 pounds. Dismantled in 2014, it has been provided for display by the Police Explosive Ordnance Disposal Bureau.\n\nThe exhibition enables visitors to gain CT and emergency preparedness knowledge through immersive and interactive experiences, thereby enhancing public awareness of terrorism prevention.\n\nIn addition, \"Safe Community Plus+”, jointly organised by the ICTU and the Hong Kong Federation of Youth Groups for a third time, also officially launched following the opening ceremony. It will visit various schools and community venues over the next six months, using a variety of interactive mini-games to help students and the public to learn about security awareness and emergency response in an engaging manner.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261024/20261024_165407_745/images/20261024182408854.jpeg",
-      "publishedAt": "2026-10-23T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261024/20261024_165407_745.html"
-    },
-    {
       "id": "ec7777667e12cad6",
       "title": "Event showcases tech achievements",
       "excerpt": "The InnoCarnival 2026, showcasing local innovation and technology (I&T) achievements, kicked off today at the Hong Kong Science Park in…",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_165139_765.html"
+    },
+    {
+      "id": "9b802df8bd789f7a",
+      "title": "HSK campus sites application opened",
+      "excerpt": "The Government today rolled out three sites in the Hung Shui Kiu (HSK) University Town campus area for eligible post-secondary…",
+      "fullText": "The Government today rolled out three sites in the Hung Shui Kiu (HSK) University Town campus area for eligible post-secondary institutions to apply for, and will provide loan arrangements to support their campus construction.\n\nThe campus sites have a total area of around 26 hectares: Area (1) of approximately 16.5 hectares, Area (2) of approximately 5.3 hectares and Area (3) of approximately 4.4 hectares. The application deadline is December 31.\n\nThe First Five-Year Plan 2026 Policy Address announced that the Government will develop the San Tin, HSK and Ta Kwu Ling University Towns in the Northern Metropolis (NM).\n\nLocated in the HSK/Ha Tsuen New Development Area, HSK University Town’s campus area and adjoining technology and industry areas, including the HSK Industry Park, the Lau Fau Shan Digital Technology Hub, the Yuen Long InnoPark and the Hong Kong Microelectronics Research and Development Institute, will be developed as a Centre for Applied Post-secondary Education in Smart Manufacturing and Global Talent Cultivation.\n\nThe plan is to drive NM development with university towns, fostering the integrated development of education, technology and talent, further supporting post-secondary education to expand capacity and enhancing quality. This also helps consolidate Hong Kong's position as an international education hub.\n\nA Designated Vetting Group led by the Chief Secretary will be set up to facilitate the holistic consolidation and development planning of the university towns. It will be responsible for reviewing the proposals submitted by institutions, as well as approving and deciding on campus area sites and loan proposals.\n\nSubsequently, the Government will grant the sites to successful institutions at a nominal land premium by way of private treaty grants, and the relevant loan proposals will be submitted to the Legislative Council's Finance Committee for approval according to established procedures.\n\nThe Government encourages interested institutions to plan their development in the Northern Metropolis University Town more comprehensively according to the positioning and functions of different university towns to give full play to the vision of empowering the development of the NM through teaching and research.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_151152_811/images/20260917181556994.jpg",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_151152_811.html"
     }
   ]
 }
