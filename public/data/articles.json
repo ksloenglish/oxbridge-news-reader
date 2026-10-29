@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T10:45:19.440Z",
-  "checkedAt": "2026-10-29T10:45:19.440Z",
+  "generatedAt": "2026-10-29T11:00:32.600Z",
+  "checkedAt": "2026-10-29T11:00:32.600Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "9dbf05f89230976f",
+      "title": "100 govt officers to be interviewed in Wang Fuk probe",
+      "excerpt": "Public Service Commission chairwoman Maisie Cheng said on Thursday that an inquiry team examining civil servants' accountability over the Wang…",
+      "fullText": "Public Service Commission chairwoman Maisie Cheng said on Thursday that an inquiry team examining civil servants' accountability over the Wang Fuk Court fire will interview about 100 government officers across four departments, with 40 to 50 likely to be investigation targets.\n\nShe was speaking after Chief Executive John Lee announced the two-tier administrative-accountability investigation covering the Housing Department's Independent Checking Unit, Buildings Department, Fire Services Department and Labour Department.\n\nCheng said although the investigation will be challenging, the team will race against time and go all out to complete the work within three months as the CE requires.\n\nShe said preparatory work has been underway since August. The team will use the independent committee report and published materials as its starting point, then dig into shortfalls by individual civil servants – including possible breaches of the Civil Service Code – by seeking files and interviewing officers, she added.\n\n\"This team has already put all their effort to familiarise themselves with the information, especially those abundant information, made public by the independent committee,\" she said.\n\n\"With all this preparatory work and also the preparatory work done by the two members and myself in the past few months, we are very confident that although the investigation team and the support office will be officially set up today, we can commence the investigation immediately.\"\n\nCivil Service Secretary Ingrid Yeung said after the probe, the team will decide which civil servants bear administrative responsibility and how serious it is – then recommend to the government whether to take disciplinary action or impose administrative sanctions.\n\nShe said the government will study the recommendations quickly.\n\nYeung added that for disciplinary cases, hearings will be held – and if charges are proven, the government can dismiss the officer, order compulsory retirement, demote, issue a reprimand or impose a fine.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T10:41:42.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875826-20261029.htm"
+    },
     {
       "id": "ec80bada15c6fe19",
       "title": "We urgently need to monitor AI agents’ actions in real time",
@@ -841,17 +852,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/"
-    },
-    {
-      "id": "48061f52e8dac045",
-      "title": "Hung Hom skybridge 'to serve as viewing platform'",
-      "excerpt": "The Development Bureau said on Tuesday a skybridge between two buildings to be constructed on Hung Hom waterfront would also…",
-      "fullText": "The Development Bureau said on Tuesday a skybridge between two buildings to be constructed on Hung Hom waterfront would also serve as a viewing platform and a venue for public activities.\n\nThe plan was revealed as the bureau revised its development proposal for sites around Hung Hom MTR station and the district's harbourfront areas following a public consultation.\n\nPermanent Secretary for Development Doris Ho told lawmakers the authorities plan to connect two mixed-use towers proposed to be constructed at the waterfront area.\n\nThe skybridge connecting the buildings would create an open space that could serve as a viewing platform, she said at a meeting of the Legislative Council’s development panel.\n\n“Our current plan is that the space will be open to the public. But whether it will operate on a commercial basis or be open for free is something we need to keep flexible and decide at the next stage,” Ho said.\n\n“Apart from allowing people to enjoy views of Victoria Harbour, we also have an idea that this space could be opened up for holding events.”\n\nAccording to a document submitted to the legislature, the entire development at Hung Hom is expected to provide more than 200,000 square metres of gross floor area – an increase by three percent compared with the previous plan.\n\nThis includes more than 60 percent of areas for residential use and over 30 percent for commercial purposes.\n\nHo said the bureau had adjusted the allocation of floor space by cutting the floor area for commercial use and increasing the residential areas amid lower demand for the former.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T10:27:09.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875519-20261027.htm"
     },
     {
       "id": "d30265f9dc5f1385",
