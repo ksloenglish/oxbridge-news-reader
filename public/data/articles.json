@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T16:00:33.298Z",
-  "checkedAt": "2026-10-29T16:30:24.617Z",
+  "generatedAt": "2026-10-29T16:45:19.117Z",
+  "checkedAt": "2026-10-29T16:45:19.117Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -489,6 +489,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261029/20261029_160028_023.html"
+    },
+    {
+      "id": "611346718ebb0f06",
+      "title": "CE congratulates plenary session",
+      "excerpt": "Chief Executive John Lee today expressed his warm congratulations on the successful conclusion of the Fifth Plenary Session of the…",
+      "fullText": "Chief Executive John Lee today expressed his warm congratulations on the successful conclusion of the Fifth Plenary Session of the 20th Central Committee of the Communist Party of China (CPC) in Beijing.\n\nThe session deliberated and adopted the Resolution of the Central Committee of the CPC on Certain Major Issues concerning Persevering with Full and Rigorous Party Self-Governance.\n\nMr Lee said he was encouraged and inspired by the session, noting that exercising full and rigorous self-governance bears on the CPC's leadership capability and the country's governance capacity. He emphasised that this holds important guiding significance for the governance of the Hong Kong Special Administrative Region.\n\nSince assuming office, the Chief Executive has built a government team focused on a result-oriented approach, consistently emphasising that reform is a continuous, ongoing endeavour.\n\n“The Hong Kong SAR Government must closely integrate the spirit of the Fifth Plenary Session of the 20th CPC Central Committee with Hong Kong's actual circumstances, continue to improve and reform itself, continuously enhance governance efficiency, strengthen the development of the governance team, and improve institutional mechanisms to better respond to public concerns,” Mr Lee said.\n\n“The Hong Kong SAR Government will take forward such measures as incorporating the requirement of full rigour throughout the entire process of the Hong Kong SAR's governance, and better co-ordinating development and security.”\n\nIn addition, the Hong Kong SAR Government remains fully committed to implementing Hong Kong's First Five-Year Plan, transforming the strategic plans into tangible outcomes to drive high-quality development across the city.\n\nThe Chief Executive added that the Hong Kong SAR Government will continue to fully and faithfully implement the principle of \"one country, two systems\". Supported strongly by the central authorities, the Government aims to unite all sectors of the community to earnestly study and implement the spirit of the plenary session.\n\nBy leveraging the strength and value of \"patriots administering Hong Kong\", Mr Lee stated that Hong Kong will fulfil its responsibilities, seize opportunities and contribute to the country's continuous progress in building a great nation and achieving national rejuvenation on all fronts through Chinese modernisation.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261029/20261029_201847_196/images/20261029231748408.jpg",
+      "publishedAt": "2026-10-28T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261029/20261029_201847_196.html"
     },
     {
       "id": "77f5a33f407aa94f",
@@ -1413,17 +1424,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/tibet/2026/10/23/golog-qinghai-tibetan-schools-closed-ethnic-unity-law/"
-    },
-    {
-      "id": "ec7777667e12cad6",
-      "title": "Event showcases tech achievements",
-      "excerpt": "The InnoCarnival 2026, showcasing local innovation and technology (I&T) achievements, kicked off today at the Hong Kong Science Park in…",
-      "fullText": "The InnoCarnival 2026, showcasing local innovation and technology (I&T) achievements, kicked off today at the Hong Kong Science Park in Sha Tin.\n\nUnder the theme \"Lead with I&T Dream to Fly High\", the event also features an aerospace thematic zone presenting research projects from local universities and their contributions to the country's space exploration missions.\n\nSpeaking at the opening ceremony, Financial Secretary Paul Chan said that Hong Kong's strong frontier research capabilities, comprehensive financial services and world-class international talent together provide a complete pathway for turning ideas into industries.\n\nHe stressed that Hong Kong's First Five-Year Plan, announced last month, positions the Northern Metropolis as a hub for I&T industries, promoting the integrated development of education, technology, talent and industry to closely align university talent development and research with industry needs. The Government will also leverage Hong Kong's financial strengths to channel more patient capital into supporting research teams and start-ups as they progress from research and development (R&D) to application.\n\nMr Chan said that I&T development ultimately depends on people, particularly the younger generation, adding that the InnoCarnival encourages public learning through exhibits, workshops, talks and interactive experiences.\n\nCiting a mobile food-waste paper machine that took top prize in the junior secondary division of this year's Hong Kong Student Science Project Competition, Mr Chan urged young people to draw inspiration from everyday life and consider how to make the city a better place.\n\n\"The idea is not complicated, but with dedication to putting it into practice, even a small invention can make a big difference. The next invention to reach the world may well come from one of the students here today.\" he said.\n\nThe Carnival will run until November 1 for nine consecutive days. Admission is free. Click here for details.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261024/20261024_182401_681/images/20261024195440611.jpg",
-      "publishedAt": "2026-10-23T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261024/20261024_182401_681.html"
     },
     {
       "id": "66987c7a2c32d52a",
