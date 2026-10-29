@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T14:00:31.510Z",
-  "checkedAt": "2026-10-29T14:00:31.510Z",
+  "generatedAt": "2026-10-29T14:12:11.738Z",
+  "checkedAt": "2026-10-29T14:12:11.738Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "28232b1732f770db",
+      "title": "Govt not proceeding with Peak lighting show",
+      "excerpt": "The government said on Thursday it won't proceed with a lighting project on the Peak that drew opposition from residents…",
+      "fullText": "The government said on Thursday it won't proceed with a lighting project on the Peak that drew opposition from residents.\n\nThe Hong Kong Tourism Board (HKTB) will remove the installations as soon as possible and restore the site to its original condition, according to a paper submitted by the board and the Tourism Commission to the Central and Western District Council.\n\n“As we have just started moving forward, we have only carried out part of the work. We haven’t started operating or doing maintenance and repair work. So the resources we have used are limited,\" tourism minister Rosanna Law told reporters.\n\n\"These are resources that were allocated to the Tourism Board a long time ago.”\n\nLaw also said the light fittings that are to be removed could be useful for other HKTB projects.\n\nAccording to the document, the project had been planned for the area around Lugard and Harlech roads on the Peak, where there would be small-scale lighting installations at designated spots along a walking trail.\n\nUpon learning the concerns from the public, the government and HKTB arranged site visits with both lawmakers and district councillors, and looked into various enhancement measures.\n\nFor instance, the board considered reducing the number of scenic spots along the trail from 10 to seven and shortening the project’s duration from one year to the end of February. It also planned to slash the number of trees used for hanging light fittings by more than half to 24.\n\nStill, the government noted that the proposed amendments might not be able to fully ease concerns of residents and trail users.\n\n“On the other hand, following a significant reduction in the project’s scale, even with efforts to retain the most distinctive design elements, we are wary that it could be difficult to fully realise the original design concept and lighting effect,” the document read.\n\nThis would compromise the overall experience and appeal of the project, it added, and might not meet its expected results of encouraging travellers to revisit the SAR and stay longer through infusing traditional attractions with new elements.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T13:52:05.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875844-20261029.htm"
+    },
     {
       "id": "44d7a8b7ba42e095",
       "title": "Evening News on TV32 - Oct 29",
@@ -654,17 +665,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875606-20261028.htm"
-    },
-    {
-      "id": "300bfc2eb03f60af",
-      "title": "SAR committed to driving sustainable growth: CE",
-      "excerpt": "Chief Executive John Lee on Wednesday said Hong Kong is committed to promoting sustainable growth across Asia and the world…",
-      "fullText": "Chief Executive John Lee on Wednesday said Hong Kong is committed to promoting sustainable growth across Asia and the world, and is leaning on innovation to achieve this goal.\n\nSpeaking at the annual One Earth Summit, Lee said bridging the gap between green capital, innovation and governance is vital amid accelerating climate change and biodiversity loss.\n\nHe noted that the city serves as a bridge between the mainland and overseas on testing and developing new green technologies.\n\nGovernment leadership, Lee said, will allow Hong Kong to tackle climate change better.\n\n“The Hong Kong SAR Government is setting up an inter-departmental task force to build an ‘AI City Brain’ system,” the CE said.\n\n“It will provide early warnings of risks and trend forecasts. It will improve inter-departmental collaboration on extreme weather, major incidents and public order.”\n\nLee went on to say that the SAR has already announced various decarbonisation and environmental-protection targets in its inaugural five-year plan, such as improving air and water quality.\n\nHe believes the SAR can play a part in driving sustainability by mobilising capital, technology and people.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T03:08:46.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875594-20261028.htm"
     },
     {
       "id": "7cd89e0ad8fec4b4",
