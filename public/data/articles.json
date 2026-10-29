@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T08:00:29.233Z",
-  "checkedAt": "2026-10-29T08:00:29.233Z",
+  "generatedAt": "2026-10-29T08:15:20.441Z",
+  "checkedAt": "2026-10-29T08:15:20.441Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -95,10 +95,21 @@
   ],
   "articles": [
     {
+      "id": "a236f8d4647e5a0f",
+      "title": "Contractor, consultant, inspector blamed for fire",
+      "excerpt": "The main contractor and project consultant for Wang Fuk Court’s renovation project, and a registered inspector must bear the most…",
+      "fullText": "The main contractor and project consultant for Wang Fuk Court’s renovation project, and a registered inspector must bear the most significant accountability for a disastrous fire that took 168 lives nearly a year ago, an independent inquiry into the tragedy has concluded.\n\nIn a 16-chapter report spanning nearly 1,200 pages submitted to the government, the committee stated that Prestige Construction & Engineering and consultancy firm Will Power Architects were fully aware of the fire risks but ignored repeated complaints and safety concerns raised by residents of the Tai Po housing estate during maintenance works.\n\n“They put the lives of all residents in Wang Fuk Court at serious risk, apparently with a view to maximising their financial gains,” the report read.\n\nThe committee slammed the two firms' conduct as going far beyond oversight or negligence, noting that they used substandard building materials and unsafe working procedures, such as non-fire-retardant scaffolding nets and flammable foam boards covering building windows.\n\nThe report also stated that Will Power and Prestige Construction should be held responsible for fire service installations that did not function properly on the day of the fire.\n\nThe committee found that Prestige Construction and its management, including Hau Wa-kin and Gordon Ho; as well as Will Power and its management Jason Wong; alongside Wilson Ng, a registered inspector employed by Will Power to oversee the renovation project, \"deserve the most severe criticisms\".\n\nThe committee also named other firms as culpable for the disaster to varying degrees.\n\nThese include Gain Profit Shed Industry, which was aware of and took part in a plot to temporarily replace non-fire-retardant scaffolding nets with fire-retardant ones just for site inspections by authorities.\n\nThe property management company for Wang Fuk Court at the time of the fire, ISS EastPoint Properties, was also slammed for allowing its staff to switch off the power supply to the fire alarm systems despite lacking the professional qualifications to do so.\n\nMeanwhile, Victory Fire Engineering, the registered fire services contractor responsible for annual inspections and related works, was criticised for being passive in dealing with fire safety issues.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T07:53:20.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875787-20261029.htm"
+    },
+    {
       "id": "4630d0f34e7ffffd",
       "title": "Housing chief Winnie Ho resigns over Wang Fuk fire",
       "excerpt": "Chief Executive John Lee on Thursday said he accepted the resignation of Winnie Ho as secretary for housing, saying she…",
-      "fullText": "Chief Executive John Lee on Thursday said he accepted the resignation of Winnie Ho as secretary for housing, saying she had to shoulder political responsibility for last year's Wang Fuk Court fire that killed 168 people.\n\nAt a press conference on Thursday, Lee and other principal officials also apologised and bowed.\n\n\"As chief executive and head of the government, I am deeply saddened. On behalf of the SAR government, I offer my apologies to the victims and the public at large,\" Lee said in his opening remarks.\n\nHe added that while Ho committed no personal wrongdoing, she must bear political responsibility as secretary for housing.\n\n\"I have taken various factors into account, including the specific roles played by officials, the connection between their policy portfolios and the incident, the nature of the issues involved, whether they pertain to policy or implementation, the performance of subordinates, and the significant workload that the political team must address moving forward,\" Lee said.\n\nDeputy Financial Secretary Michael Wong will serve as acting secretary for housing.\n\nEdited by Aaron Tam",
+      "fullText": "Chief Executive John Lee on Thursday said he accepted the resignation of Winnie Ho as secretary for housing, saying she took political responsibility for last year's Wang Fuk Court fire that killed 168 people.\n\nAt a press conference on Thursday, Lee and other principal officials also apologised and bowed.\n\n\"As chief executive and head of the government, I am deeply saddened. On behalf of the SAR government, I offer my apologies to the victims and the public at large,\" Lee said in his opening remarks.\n\nHe added that while Ho committed no personal wrongdoing, she must bear political responsibility as secretary for housing.\n\n\"I have taken various factors into account, including the specific roles played by officials, the connection between their policy portfolios and the incident, the nature of the issues involved, whether they pertain to policy or implementation, the performance of subordinates, and the significant workload that the political team must address moving forward,\" Lee said.\n\nDeputy Financial Secretary Michael Wong will serve as acting secretary for housing.\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-10-29T07:06:56.000Z",
       "source": "RTHK English — Local",
@@ -852,17 +863,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875485-20261027.htm"
-    },
-    {
-      "id": "ee5896a2ff7de364",
-      "title": "Over 1,600 affected in airline, retailer data breaches",
-      "excerpt": "The Office of the Privacy Commissioner for Personal Data on Tuesday confirmed that more than 1,600 people have been affected…",
-      "fullText": "The Office of the Privacy Commissioner for Personal Data on Tuesday confirmed that more than 1,600 people have been affected by data breaches at Hong Kong Airlines and electronics retailer Yoho Hong Kong.\n\nThe privacy watchdog said the breach at Hong Kong Airlines affected 815 passengers travelling between September 29 and October 22, involving their names, phone numbers and flight information.\n\nThe Yoho Hong Kong breach affected 790 customers who placed their orders between September 29 and October 12, involving their names, phone numbers along with delivery information.\n\nThe watchdog said customers received suspected scam calls stating their personal data.\n\nAdditionally, the privacy commissioner received a data-breach incident report from Broadway Photo Supply.\n\nAs of Monday, it had received a total of 23 complaints and 20 inquiries, and investigations have been launched.\n\nThe office urged people to consider carefully should they have any doubts about callers claiming to be merchants, and verify their identities and authenticity of the calls through official channels.\n\nCustomers should also refuse any suspicious money-transfer requests and keep records of communications.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T04:28:27.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875475-20261027.htm"
     },
     {
       "id": "36cb377a9523245f",
