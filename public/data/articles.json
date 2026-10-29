@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T04:00:25.741Z",
-  "checkedAt": "2026-10-29T04:00:25.741Z",
+  "generatedAt": "2026-10-29T04:15:17.516Z",
+  "checkedAt": "2026-10-29T04:15:17.516Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 10
+      "articleCount": 11
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "d3f86965a79bea19",
+      "title": "Samsung profits up a record 780pc despite AI jitters",
+      "excerpt": "Massive demand for AI chips delivered record quarterly profits to South Korea's Samsung Electronics on Thursday, but shares fell as…",
+      "fullText": "Massive demand for AI chips delivered record quarterly profits to South Korea's Samsung Electronics on Thursday, but shares fell as investors questioned the resilience of the global tech boom.\n\nSamsung is the world's largest maker of memory chips – components in short supply as advanced types are snapped up for use in data centres powering artificial intelligence.\n\nThe company posted July-September operating profit at 107.4 trillion won (US$80.5 billion) – up more than 780 percent year-on-year.\n\nIt marked the first time any technology company had reported quarterly operating profit over 100 trillion won, Samsung said.\n\nNet profit jumped more than 510 percent from last year to 75.1 trillion won, while sales reached 195.3 trillion won.\n\nThe global race to build data centres to train and run chatbots, image generators and other AI tools has turbocharged the fortunes of Samsung and other chipmakers, despite concerns that the sector may be overvalued.\n\nSamsung shares fell more than five percent on Thursday morning.\n\nInvestors were disappointed by a miss of market expectations for operating profit by the semiconductor division, according to Bloomberg News.\n\nThe company's memory business achieved \"another record-breaking quarter by managing its product mix, with a focus on AI products, amid capacity constraints,\" Samsung said in a statement.\n\n\"Strong demand momentum for servers led to higher market prices across all applications.\" (AFP)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T04:10:22.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875746-20261029.htm"
+    },
+    {
+      "id": "ea47c86f994fdcbd",
+      "title": "Bus-only lanes 'just the ticket to cut Huanggang jams'",
+      "excerpt": "The chairman of the Non-Franchised Public Bus Association of Hong Kong, Eddie Choi, said on Thursday he believed that dedicated…",
+      "fullText": "The chairman of the Non-Franchised Public Bus Association of Hong Kong, Eddie Choi, said on Thursday he believed that dedicated transport lanes at Huanggang checkpoint could effectively reduce traffic congestion during peak hours this weekend.\n\nAuthorities announced on Wednesday that priority would be given to public transport to manage vehicular traffic peaks at the crossing between 11pm and 2am on Friday, Saturday and Sunday.\n\nLate-night outbound passenger flow surged last weekend as scores of visitors left the city after attending a concert in Kai Tak and Halloween festivities elsewhere.\n\n\"The reason there was traffic congestion last Saturday is because many cars and taxis used the lanes before they reached the control zone,\" Choi told an RTHK radio programme.\n\n\"With the dedicated lanes extended, I think traffic police officers need to be stationed at the scene to prevent cars or taxis at the border crossing from driving onto the lanes and creating traffic congestion on San Tin Highway.\n\n“Improvements also need to be made to the holding area for vehicles waiting to enter the new Huanggang Port.”\n\nWith proper arrangements made to separate the flow of cars from that of buses, Choi said he believed the journey time for cross-border buses from urban areas to the port could be kept within 40 minutes.\n\nLegislative Council transport panel chairman Ben Chan also welcomed the government's move to give priority to public transport during vehicular traffic peaks at the crossing, saying it gives travellers an extra incentive to take buses.\n\n\"I think in Hong Kong the most successful measure is public transport [prioritisation]. This time, the government will arrange more bus lines to service during peak hours, and also the police will facilitate public transport to use the [dedicated lanes] to avoid them from getting trapped on the roads. So I think people will try to use public transport this week,\" he said.\n\nIn a Facebook post, the Transport Department said public transport operators have reserved sufficient vehicles and manpower to cope with the expected travel surge over the weekend.\n\nIt said five cross-border bus routes connecting urban areas to Huanggang Port will step up their services during late-night periods on Friday, Saturday and Sunday.\n\nSpecial cross-border buses will also head for Huanggang and Shenzhen Bay ports from Kai Tak after concerts on Friday and Saturday, and passengers are reminded to purchase bus tickets in advance.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T04:06:24.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875742-20261029.htm"
+    },
     {
       "id": "36347b301c027fe4",
       "title": "Brewers sink Rays for first-ever World Series crown",
@@ -843,17 +865,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875477-20261027.htm"
     },
     {
-      "id": "f9cdaa606a39005c",
-      "title": "CE homes in on N Metropolis vigour in call to top unis",
-      "excerpt": "Chief Executive John Lee has called on global university leaders to join the SAR’s Northern Metropolis development, saying it is…",
-      "fullText": "Chief Executive John Lee has called on global university leaders to join the SAR’s Northern Metropolis development, saying it is where the future of education, research, industry and technology lies.\n\nIn an opening speech at the Global University Presidents and Leaders Summit at the Convention and Exhibition Centre on Tuesday, he said Hong Kong, with a total land area of about 1,100 square kilometres, is home to five institutions that are ranked among the world’s top 100.\n\nThe Northern Metropolis mega project lies at the core of Hong Kong’s future, with its main focus being the university towns that will be springing up, he said.\n\nLee said the mega project's university towns of San Tin, Hung Shui Kiu and Ta Kwu Ling are positioned to attract the world’s best scholars and students and that they would each have a distinct focus.\n\n“The towns are also designed to empower industry,” he said.\n\n“We will encourage university staff to undertake research at companies. We will encourage industry professionals to contribute to university teaching and research.\n\n“Our goal is to strengthen the links between industry, academia and research – enabling them to complement and reinforce one another.”\n\nThe government will also invite universities to establish basic research institutes and large-scale shared research platforms at the university towns, Lee added.\n\nThe two-day event in Wan Chai has attracted more than 50 renowned university leaders from more than 20 countries and regions.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T03:27:15.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875470-20261027.htm"
-    },
-    {
       "id": "cc643c0c912e6317",
       "title": "HK rises amid Anthropic IPO lift for regional markets",
       "excerpt": "Asian stocks surged on Tuesday as AI bellwether Anthropic's eagerly anticipated IPO filing lifted risk appetite ahead of tech earnings…",
@@ -885,17 +896,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875458-20261027.htm"
-    },
-    {
-      "id": "c109349c30e15864",
-      "title": "Syria shuts border crossing with Jordan after strikes",
-      "excerpt": "Jordan said on Monday its air force struck what it described as militant hideouts in southern Syria after determining that…",
-      "fullText": "Jordan said on Monday its air force struck what it described as militant hideouts in southern Syria after determining that the suspects behind last week's deadly church attack in the kingdom were linked to \"terrorist groups\" operating there.\n\nThe armed forces said the operation was conducted in coordination with Damascus. Syria's government gave a contradictory account, saying it had launched an investigation into the Jordanian attacks, and stressed in a statement the importance of field and security coordination in border areas.\n\nDamascus informed Jordan of its \"complete reservation\" over the strikes without prior coordination, the foreign ministry said in a statement.\n\nSeven people, including three children and a woman, were killed and three others were wounded in the Jordanian strikes, the Syrian Civil Defence said in a preliminary report. It said emergency teams responded to four sites hit by the strikes in the countryside of Daraa and Sweida provinces.\n\nThere was no immediate comment from Jordan on that account.\n\nShortly after the strikes, Syria closed the Nassib border crossing with Jordan on Tuesday, suspending passenger and commercial traffic in both directions, citing developments on the ground in Daraa province, the Syrian General Authority for Border Crossings and Customs said in a statement.\n\nNassib is Jordan's only passenger and commercial border crossing with Syria.\n\nEarlier on Monday, senior government security officials said Jordanian security forces had arrested two brothers and their brother-in-law after a shootout on Monday over the church violence that killed nine people.\n\n\"God willing, they only represent themselves,\" said Jordan's Director of Public Security, Major-General Obeidallah al-Maaytah.\n\nSuch violence is rare in Jordan, a relatively stable US ally in the Middle East. Friday's attack on the Christian minority prompted King Abdullah to order security forces to respond with an \"iron fist\".\n\nIn a press conference, al-Maaytah and Interior Minister Mazen al-Faraya said the country would not tolerate extremist terrorism.\n\n\"The file has not yet been closed; investigations are still ongoing. As of today, there are no indications of any links between them and other cells,\" al-Faraya added.\n\nFriday's assault during a funeral at a Greek Orthodox church in the village of Hamoud, about 120 km southwest of the capital, Amman, also wounded at least 34 people. Witnesses said gunmen opened fire for several minutes.\n\nThe suspects, who lived near Hamoud, will face justice, said the security officials. The three suspects were named in the press briefing.\n\nJordan's Public Security Directorate said in a statement carried by state media that security forces located the suspects while they were hiding in an abandoned house. They refused to surrender and attacked security forces, who returned fire and arrested all three after wounding them.\n\nNo security personnel were injured, and security forces found a number of firearms and rounds of ammunition in the suspects' possession.\n\nThere has been no claim of responsibility for the church attack.\n\nJordan, a US partner in the fight against extremism, has foiled Islamist militant plots in the past. The security officials did not name any Islamist groups in the press conference. (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T00:11:55.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875446-20261027.htm"
     },
     {
       "id": "dafa64f8f5fb1585",
@@ -984,17 +984,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875409-20261026.htm"
-    },
-    {
-      "id": "7d88f9de2187bc16",
-      "title": "Meta planning to raise US$95bn to fund AI buildout",
-      "excerpt": "Meta Platforms said on Monday it plans to raise up to US$95 billion in its largest-ever equity fundraising, as the…",
-      "fullText": "Meta Platforms said on Monday it plans to raise up to US$95 billion in its largest-ever equity fundraising, as the social media giant spends aggressively on its costly AI infrastructure expansion.\n\nThe Facebook parent has launched public offerings worth about US$35 billion in common and preferred stock, and said it also plans to launch a separate at-the-market share sale programme worth up to US$60 billion.\n\nThe company will launch the larger share sale programme after its new non-voting Class C shares begin trading, which is expected in the first quarter of 2027, but said it has not yet finalised its timing and terms of the sale.\n\nMeta's fundraising plan, which would rank among the biggest by an AI company, has also drawn interest of up to US$5 billion in total from Nvidia, Advanced Micro Devices and Broadcom for Class A shares.\n\nTheir funding interest adds to concerns about an increasingly circular flow of capital in the AI industry, as chip suppliers help finance the expansion of one of their biggest customers.\n\nMeta has been pouring money into chips and data centres to compete better with OpenAI and Anthropic.\n\nIts latest fundraising further underscores a shift among big technology companies increasingly tapping debt markets and raising equity ⁠to bolster their AI infrastructure, having previously relied on cash to fund their investments.\n\nEarlier this year, Alphabet increased the size of its equity offerings to US$84.75 billion.\n\nSeparately on Monday, SpaceX said an affiliate of Apollo Global Management will buy AI chips and server hardware and lease them to the rockets-to-AI firm, in a deal with total principal payments of about US$40 billion.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T14:27:36.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875404-20261026.htm"
     },
     {
       "id": "86d0619a80290fee",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260921/20260921_204627_798.html"
+    },
+    {
+      "id": "31619d7972ae4080",
+      "title": "Youth forum holds annual review",
+      "excerpt": "Youth leaders from Hong Kong, Shenzhen, and Macao shared their experiences and achievements from the past year as they gathered…",
+      "fullText": "Youth leaders from Hong Kong, Shenzhen, and Macao shared their experiences and achievements from the past year as they gathered today for the Security Bureau Youth Uniformed Group Leaders Forum annual review.\n\nThey also gave presentations on various issues related to the Greater Bay Area, and outlined the forum’s activities for the coming year.\n\nAddressing members, Deputy Chief Secretary Cheuk Wing-hing said the Hong Kong Special Administrative Region Government attaches great importance to youth development.\n\nHe highlighted that Hong Kong's First Five-Year Plan clearly states that diversified platforms will be developed for exchanges and experiences that broaden young people's horizons.\n\nBuilding on the Youth Development Blueprint, the Hong Kong SAR Government is developing broader platforms and more opportunities for young people to grow and thrive, aiming to nurture a new generation with an affection for both China and Hong Kong, as well as a global perspective, ambition, and a positive mindset.\n\nMr Cheuk said the leaders forum is an important platform for the Government to implement its vision for youth development.\n\nOver the past year, the forum organised more than 30 activities spanning national security, patriotic education, frontier technologies and multicultural themes. Members also contributed to national initiatives such as the 15th National Games, which Mr Cheuk said demonstrated vitality and a sense of responsibility.\n\nSecretary for Security Tang Ping-keung expressed his satisfaction at the progress shown by members over the past year.\n\nHe highlighted that 51 members undertook summer internships at 26 renowned enterprises and organisations across cities including Beijing, Shanghai, Nanjing, Shenzhen, Macao and Hong Kong. In addition, nine students from Shenzhen University came to Hong Kong for training and hands-on experience at various companies.\n\nMr Tang also observed that since the forum's establishment four years ago, more than 60% of its graduates have joined the Hong Kong SAR Government, taking up positions such as administrative officer and inspectorate officer in the disciplinary forces. Others have pursued careers in the legal, medical, engineering, finance and other sectors.\n\nThe security chief stressed that the National 15th Five-Year Plan includes a dedicated section for youth development, adding that the Hong Kong SAR Government's own Five-Year Plan dovetails with national strategies, allowing Hong Kong to better integrate into and serve the country's overall development.\n\nHe added that future development opportunities for young people are unlimited and encouraged members of the leaders forum to seize such opportunities.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260919/20260919_161358_599/images/20260919172500992.jpeg",
+      "publishedAt": "2026-09-18T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260919/20260919_161358_599.html"
     }
   ]
 }
