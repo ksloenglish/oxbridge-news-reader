@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T06:15:17.289Z",
-  "checkedAt": "2026-10-29T07:01:27.790Z",
+  "generatedAt": "2026-10-29T07:15:17.134Z",
+  "checkedAt": "2026-10-29T07:15:17.134Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 20
+      "articleCount": 19
     },
     {
       "id": "rthk-world",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "4630d0f34e7ffffd",
+      "title": "Housing chief Winnie Ho resigns over Wang Fuk fire",
+      "excerpt": "Chief Executive John Lee on Thursday said he accepted the resignation of Winnie Ho as secretary for housing, saying she…",
+      "fullText": "Chief Executive John Lee on Thursday said he accepted the resignation of Winnie Ho as secretary for housing, saying she had to shoulder political responsibility for last year's Wang Fuk Court fire that killed 168 people.\n\nAt a press conference on Thursday, Lee and other principal officials also apologised and bowed.\n\n\"As chief executive and head of the government, I am deeply saddened. On behalf of the SAR government, I offer my apologies to the victims and the public at large,\" Lee said in his opening remarks.\n\nHe added that while Ho committed no personal wrongdoing, she must bear political responsibility as secretary for housing.\n\n\"I have taken various factors into account, including the specific roles played by officials, the connection between their policy portfolios and the incident, the nature of the issues involved, whether they pertain to policy or implementation, the performance of subordinates, and the significant workload that the political team must address moving forward,\" Lee said.\n\nDeputy Financial Secretary Michael Wong will serve as acting secretary for housing.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T07:06:56.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875773-20261029.htm"
+    },
     {
       "id": "4c6f8418b9da8d33",
       "title": "Five-year plan 'all about finding new growth engines'",
@@ -860,8 +871,8 @@
       "fullText": "Chinese University of Hong Kong will bid for one of the first three sites in the Northern Metropolis University Town in Hung Shui Kiu, Vice-Chancellor Professor Dennis Lo said, but warned that the government's staggered tendering process and high construction costs pose major challenges.\n\nIn an interview with Ming Pao published on Tuesday, Lo said the university town project would allow the city's eight publicly funded universities to expand their footprint and increase their impact on society.\n\n\"Our campus is currently relatively small, like a boutique hotel, and I believe this Northern Metropolis University Town has given us a rare opportunity to have some land to expand our footprint,\" he said.\n\nHe said Hong Kong universities enjoy strong international reputations and high rankings but are limited in size.\n\nLo said scale is important for universities to produce research that can \"change the world\", as campus size affects the number of researchers, which in turn affects patents and publications.\n\nThe university town would help break through the space constraint, he said.\n\nHe noted that the university had established an InnoHub for New Quality Industries in Qianhai, near Hung Shui Kiu, in March this year, and believed there would be synergy effects.\n\nHe said the university was considering collaboration with overseas institutions and industries in future at the Hung Shui Kiu university town, but could not reveal further details as it was competing with other universities.\n\nHowever, Lo predicted that due to limited land, the university may prefer to set up research institutes rather than full campuses in the university town.\n\nHe also said the government's plan to tender the three campuses — in Hung Shui Kiu, San Tin and Ta Kwu Ling — at different times would make planning and collaboration among universities more difficult.\n\n\"The three plots are being rolled out in batches. For the first ones, you dare not not bid, because each time is an opportunity,\" he said.\n\nOn financing, Lo said CUHK would be prudent with possible future development at the Northern Metropolis.\n\nHe noted that while the government has earmarked HK$10 billion for loans to support campus development at the Northern Metropolis University Town, there is a cap on borrowing and construction costs are high.\n\nHe estimated that HK$10 billion would only be enough to build five buildings, and called on the government to increase funding.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-10-27T04:17:26.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875483-20261027.htm"
     },
     {
@@ -1490,17 +1501,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/myanmar/2026/10/22/aung-san-suu-kyi-son-kim-aris-burma-phone-call/"
-    },
-    {
-      "id": "d7162d6f417f4e0c",
-      "title": "Evergrande liquidators recover US$435m in asset sales",
-      "excerpt": "China Evergrande Group's liquidators have recovered US$435.9 million from asset sales and loan recoveries so far, highlighting the challenge of…",
-      "fullText": "China Evergrande Group's liquidators have recovered US$435.9 million from asset sales and loan recoveries so far, highlighting the challenge of repaying creditors with claims of about US$46 billion against the developer.\n\nIn their second progress report since a Hong Kong court ordered Evergrande's liquidation in January 2024, the liquidators, Edward Middleton and Tiffany Wong of Alvarez & Marsal, said on Thursday they aimed to make a first interim dividend payment to creditors in the first half of 2027, although the amount has yet to be determined.\n\nEvergrande, once China's top property developer, defaulted on most of its roughly US$300 billion in liabilities.\n\nThe liquidators said they had raised the US$435.9 million through the sale of assets including aircraft, artwork and club memberships, as well as the settlement of loan receivables.\n\nThey said 96 of the 107 artworks found at Evergrande's Hong Kong headquarters had been sold for US$28.8 million at a loss. The collection included works by Picasso, Monet and Warhol, as well as sculptures by Moore and Hepworth.\n\nOther assets being sold include a private jet expected to fetch about US$12 million in the fourth quarter. The liquidators are also seeking a US$2 million refund from a US university for part of a donation made in 2020. (Reuters)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-22T10:35:10.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1874949-20261022.htm"
     },
     {
       "id": "c14331b8616f068a",
