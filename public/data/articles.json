@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T03:15:19.470Z",
-  "checkedAt": "2026-10-29T03:15:19.470Z",
+  "generatedAt": "2026-10-29T03:30:28.963Z",
+  "checkedAt": "2026-10-29T03:30:28.963Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "6b918a0594dfe570",
+      "title": "Firefighters douse Jordan kitchen blaze",
+      "excerpt": "A fire broke out in the kitchen of a restaurant in Jordan on Thursday morning, with firefighters called to the…",
+      "fullText": "A fire broke out in the kitchen of a restaurant in Jordan on Thursday morning, with firefighters called to the scene.\n\nPolice received multiple reports at around 9.30am that thick smoke was coming from a restaurant near the junction of Nathan Road and Austin Road.\n\nCustomers were able to leave the premises themselves and the fire was put out later.\n\nPreliminary investigations suggest the blaze started from a kitchen exhaust hood. No injuries were reported.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T03:14:18.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875747-20261029.htm"
+    },
     {
       "id": "daa52804343888e9",
       "title": "HKMA warns of interest rate risks as Fed holds steady",
@@ -984,17 +995,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/"
-    },
-    {
-      "id": "e18fb9ada6f34f57",
-      "title": "Pair rescued after working platform plunge",
-      "excerpt": "Two workers were left hanging mid-air outside Jardine House in Central for about two hours on Monday evening, after their…",
-      "fullText": "Two workers were left hanging mid-air outside Jardine House in Central for about two hours on Monday evening, after their gondola suddenly dropped and almost hit the ground.\n\nPolice received a report shortly after 6pm that the suspended working platform had stopped operating, leaving two workers stranded on the exterior wall.\n\nBoth were wearing safety harnesses.\n\nFirefighters first abseiled down to bring one worker safely to the ground at around 7.40pm.\n\nShortly afterwards, the second worker was pulled up to the building's rooftop.\n\nOne of them suffered hand injuires and was taken to Queen Mary Hospital for treatment.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T12:29:41.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875401-20261026.htm"
     },
     {
       "id": "007c8953914a9cef",
