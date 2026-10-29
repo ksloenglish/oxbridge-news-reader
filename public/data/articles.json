@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T12:45:19.620Z",
-  "checkedAt": "2026-10-29T12:45:19.620Z",
+  "generatedAt": "2026-10-29T13:00:33.818Z",
+  "checkedAt": "2026-10-29T13:00:33.818Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "44d7a8b7ba42e095",
+      "title": "Evening News on TV32 - Oct 29",
+      "excerpt": "Top stories for Thursday, Oct 29, 2026 - John Lee bows in apology and one of his ministers resigns over…",
+      "fullText": "Top stories for Thursday, Oct 29, 2026\n\n- John Lee bows in apology and one of his ministers resigns over last year's Wang Fuk Court disaster.\n\n- Various reforms are announced to address shortcomings flagged up by the inquiry into the fire.\n\n- Spain begins three days of mourning after one of Europe's deadliest train crash in decades.",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T12:44:55.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875846-20261029.htm"
+    },
     {
       "id": "ea15336c2c7ed5b9",
       "title": "The Download: AI agent tracking and climate feedback loops",
@@ -819,17 +830,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_173933_220.html"
-    },
-    {
-      "id": "997e8a68ab7d7444",
-      "title": "Shau Kei Wan water supply returns after pipe burst",
-      "excerpt": "The government said emergency repair works conducted after a water pipe burst in Shau Kei Wan have been completed, with…",
-      "fullText": "The government said emergency repair works conducted after a water pipe burst in Shau Kei Wan have been completed, with fresh water supply to users in the area returning to normal from 9.30pm on Tuesday.\n\nIn a social media post, the Water Supplies Department said that because the incident involved a large and complex system of pipes, people living at the ends of the water supply network or at higher elevations may need to wait up to three to four hours before the water reaches them.\n\nThe department said it would continue to provide water trucks and tanks until the fresh water supply fully returns to normal.\n\nIt also said it is normal for the water to appear milky or slightly turbid upon supply restoration.\n\nLawmaker Elaine Chik called on the authorities to fully digitalise the city's underground pipeline data to prevent similar incidents from happening.\n\n\"We suggest that implementing a 'scan-first, backfill-after' rule for all construction projects to build an accurate 3D underground pipeline database for future reference,\" Chik said.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T15:18:16.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875553-20261027.htm"
     },
     {
       "id": "f1b22c1f04fb09dc",
