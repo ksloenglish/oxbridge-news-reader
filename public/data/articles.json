@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T14:12:11.738Z",
-  "checkedAt": "2026-10-29T14:31:19.754Z",
+  "generatedAt": "2026-10-29T14:45:18.827Z",
+  "checkedAt": "2026-10-29T14:45:18.827Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 17
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 11
+      "articleCount": 12
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "5cff61d477439a98",
+      "title": "Shenzhen Bay port to open longer on Fri and Sat",
+      "excerpt": "The Shenzhen Bay control point will extend its opening hours on Friday and Saturday to help facilitate cross-boundary traffic. Clearance…",
+      "fullText": "The Shenzhen Bay control point will extend its opening hours on Friday and Saturday to help facilitate cross-boundary traffic.\n\nClearance time at the crossing will be extended to 2am from midnight, as the number of travellers is expected to surge due to a series of events staged in Hong Kong including Halloween festivities, the Wine and Dine Festival and mega concerts.\n\nThe government said on Thursday that it reached a consensus with Shenzhen authorities for the arrangement, so as to alleviate the expected surge in passenger and vehicular flows at the round-the-clock Huanggang port and San Tin Highway.\n\nSAR authorities have also coordinated with cross-boundary coach operators to extend their service hours serving Shenzhen Bay.\n\nFranchised bus operators, for their part, will arrange two special overnight bus routes to ply between the port and Yuen Long/Tin Shui Wai and Tuen Mun respectively.\n\n“The implementation of the special arrangement to extend the clearance hours at the Shenzhen Bay Control Point helps divert late-night cross-boundary passenger and vehicular flows and facilitates travel for residents of both places and visitors,” a government spokesman said.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T14:22:13.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875855-20261029.htm"
+    },
     {
       "id": "28232b1732f770db",
       "title": "Govt not proceeding with Peak lighting show",
@@ -654,17 +665,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875603-20261028.htm"
-    },
-    {
-      "id": "be0db33bd81c4919",
-      "title": "HK home prices rise for second straight month",
-      "excerpt": "Government data released on Wednesday showed private home prices rose for a second straight month in September, with the official…",
-      "fullText": "Government data released on Wednesday showed private home prices rose for a second straight month in September, with the official index climbing 0.19 percent month-on-month to 320.8.\n\nOn a year-on-year basis, home prices were up 9.3 percent, according to the figures from the Rating and Valuation Department.\n\nFor the first nine months of the year, prices accumulated a rise of more than seven percent.\n\nBy unit size, prices for small and medium-sized flats rose 0.16 percent from the previous month, and were up 9.3 percent year-on-year. Larger units saw a 0.8 percent monthly increase and a 9.5 percent annual gain.\n\nThe rental index hit another record high, extending the upward streak to 11 months.\n\nThe September reading stood at 212.2, up 0.47 percent from August and 6.2 percent higher than a year earlier. For the first nine months of the year, rents have climbed 5.8 percent.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T03:50:11.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875606-20261028.htm"
     },
     {
       "id": "7cd89e0ad8fec4b4",
@@ -1470,17 +1470,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875067-20261023.htm"
     },
     {
-      "id": "5abe3e73e01bba6b",
-      "title": "'Daily Huanggang traffic hit 130k at long weekend'",
-      "excerpt": "The new Huanggang border crossing facility is operating smoothly but still has room for improvement, Secretary for Security Chris Tang…",
-      "fullText": "The new Huanggang border crossing facility is operating smoothly but still has room for improvement, Secretary for Security Chris Tang said on Friday, as he revealed that daily passenger traffic hit 130,000 during the three-day Chung Yeung festival holiday.\n\nSpeaking on a radio programme, Tang said the new port is handling about 83,000 passengers on ordinary days – more than double the volume of the old crossing.\n\nDuring the long weekend holiday period, the average daily figure reached 130,000, with the busiest period around midday on Saturday, seeing waits of up to one hour from alighting to completing clearance, the security minister said.\n\n\"On the 17th, the number of people exiting was nine times higher than normal. Usually, during peak hours, the wait is 15 minutes; now, it’s nine times longer than peak hours – if you calculate it that way, you might have to wait two hours. Also, don’t forget that this time, our border crossing allows direct entry into the mainland. Previously, after exiting Hong Kong, you still had to queue again on the mainland,\" he said.\n\nTang stressed that the \"one-stop\" inspection system still makes the process faster than before, as travellers only need to go through a single check.\n\nThe minister identified several areas for improvement, saying some travellers have not pre-registered for e-channel services, and children under seven must use manual counters. He said the authorities would learn from the experience and step up crowd management.\n\nOn arrangements for non-Chinese passport holders, Tang said the mainland side requires them to fill in forms, and Hong Kong authorities have been assisting travellers in completing the paperwork while they wait.\n\nTang noted that the new crossing can open up to 90 departure counters – 60 e-channels and 30 manual counters. However, the manual counters require staff on both the SAR and the mainland sides to operate simultaneously.\n\nThe security chief thanked frontline staff for their hard work, acknowledging they are under immense pressure and have had to cancel leave. He said the authorities have deployed additional manpower and extended working hours where necessary.\n\nOn next month's Apec summit in Shenzhen, Tang said if any Very Important Persons travel via Hong Kong, security preparations must be thorough, though the impact on ordinary citizens is expected to be minimal.\n\nHe said the authorities will guard against anyone using Hong Kong as a gateway to enter the mainland for illegal activities, and will also watch for drone activity aimed at disrupting the summit.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T02:44:11.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875037-20261023.htm"
-    },
-    {
       "id": "315d54623764691f",
       "title": "‘I hope that she will be free before long’ Aung San Suu Kyi’s son Kim Aris says",
       "excerpt": "Kim Aris talks to RFA after his first direct contact in 5 years with his mother, under house arrest in…",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260919/20260919_161358_599.html"
+    },
+    {
+      "id": "4935a4def0ff3a58",
+      "title": "Jobless rate rises to 3.8%",
+      "excerpt": "The seasonally adjusted unemployment rate increased from 3.7% in the May to July period to 3.8% in three months from…",
+      "fullText": "The seasonally adjusted unemployment rate increased from 3.7% in the May to July period to 3.8% in three months from June to August, the Census & Statistics Department announced today.\n\nThe underemployment rate also rose from 1.7% to 1.9% during the same period.\n\nThe number of unemployed persons (not seasonally adjusted) increased by around 8,200 to 153,900 in the June to August period, while the labour force rose by around 12,600 to 3,805,900.\n\nLooking ahead, Secretary for Labour & Welfare Chris Sun said the continued expansion of the local economy is expected to underpin overall labour market conditions, though employment situations across various industries will continue to hinge on their respective business conditions.\n\nHe added that the potential impacts of evolving external uncertainties on corporate hiring sentiments still warrant attention.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_165139_765/images/20260917172737037.jpg",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_165139_765.html"
     }
   ]
 }
