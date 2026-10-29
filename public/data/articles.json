@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T04:15:17.516Z",
-  "checkedAt": "2026-10-29T06:00:31.714Z",
+  "generatedAt": "2026-10-29T06:15:17.289Z",
+  "checkedAt": "2026-10-29T06:15:17.289Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "4c6f8418b9da8d33",
+      "title": "Five-year plan 'all about finding new growth engines'",
+      "excerpt": "Financial Secretary Paul Chan said on Thursday Hong Kong's first five-year plan provides a clear framework for policymaking and investment…",
+      "fullText": "Financial Secretary Paul Chan said on Thursday Hong Kong's first five-year plan provides a clear framework for policymaking and investment, urging businesses to understand the government's strategies and priorities so they can \"plan and invest with confidence\".\n\nSpeaking at a business forum, Chan highlighted two connected priorities – finance, and innovation and technology – in the plan, which was unveiled last month.\n\n\"For Hong Kong, we are equally determined to turn opportunities into lasting outcomes,\" he said.\n\nThe government's \"Finance+\" approach, Chan pointed out, aims to develop new growth engines, support new industries and finance Hong Kong's green transition.\n\n\"Hong Kong brings together capital, innovators, enterprises and professional expertise.\n\n\"We want to put these strengths to fuller use, thereby developing new growth engines, supporting new industries, helping businesses transform and expand, as well as financing the green transition.\n\n\"The question is not simply how much capital we attract but what that capital makes possible.\"\n\nChan noted that Hong Kong's close connection with the mainland is central to this role, helping take technologies from the laboratory to the market at scale while marrying mainland strengths with international capital and global markets.\n\nHe cited strong IPO momentum in this regard, saying Hong Kong raised some HK$388 billion in the first nine months of this year, which was more than double that of a year earlier.\n\nInternational investors from the United States, Europe, Southeast Asia and the Middle East are major players, while enterprises from the last two regions as well as Central Asia are exploring listing or bond-issuance opportunities.\n\nOn innovation and technology, Chan said the Northern Metropolis project is more than just about land and buildings.\n\n\"We are bringing education, research, talent, enterprises and industry together to create a new engine of growth,\" he said.\n\nHe highlighted the Hetao co-operation zone as a clear example, where Hong Kong and mainland authorities are strengthening cooperation in clinical research and drug regulation, attracting international pharmaceutical companies to conduct research and set up manufacturing facilities.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T05:57:45.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875751-20261029.htm"
+    },
     {
       "id": "d3f86965a79bea19",
       "title": "Samsung profits up a record 780pc despite AI jitters",
@@ -973,17 +984,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261027/20261027_211107_283.html"
-    },
-    {
-      "id": "6020f993a2e68cd2",
-      "title": "Anthropic files papers to sell shares to the public",
-      "excerpt": "Anthropic, one of the world's leading artificial intelligence companies, on Monday made public its plans to sell shares on the…",
-      "fullText": "Anthropic, one of the world's leading artificial intelligence companies, on Monday made public its plans to sell shares on the stock market, a significant test of whether the AI boom can deliver profits.\n\nIts filing shows rapidly growing sales while setting out a range of risks for investors, from its conflict with the Trump administration to AI systems acting on their own.\n\nThe listing would be the first by one of the standalone companies leading the race to build advanced AI, ahead of its main rival OpenAI, which has pushed back its own market debut to next year.\n\nIt also follows the June listing of SpaceX, which owns Elon Musk's AI venture xAI and saw its shares fall sharply after a strong debut.\n\nA disappointing reception for Anthropic could dent investor enthusiasm for AI, a sector that has become a key driver of US economic growth.\n\nThe filing lays out risks specific to an industry that has faced a string of reports in recent months of AI systems behaving in unexpected and harmful ways.\n\n\"If the use of our AI models results in harm, whether through use by malicious actors or misuse by other third parties, or if our model guardrails or safeguards fail to prevent such misuse,\" the firm's business could suffer, the filing said.\n\nAnthropic also warned that its \"engagement with policymakers and public positions on AI regulation and safety could subject us to heightened scrutiny, political backlash, or disproportionate regulatory action.\"\n\nThe company has been targeted in recent months by the administration of US President Donald Trump for refusing to lift restrictions on how the Pentagon could use its technology, and the Defense Department has since labelled it a national security risk and barred it as a supplier.\n\nDespite these challenges, Anthropic's business has grown very quickly. Sales reached US$11.6 billion in the April-June quarter, up from US$787 million a year earlier. That compares with US$4.6 billion in sales for all of 2025.\n\nThe company made its first operating profit in that quarter, close to US$1 billion. It still reported an overall loss of US$66 billion, mostly because of accounting charges linked to its rising value rather than cash spent.\n\nMuch of the growth comes from businesses using Claude to write software and handle office work. (AFP)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T14:40:37.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875409-20261026.htm"
     },
     {
       "id": "86d0619a80290fee",
