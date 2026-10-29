@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T21:58:05.808Z",
-  "checkedAt": "2026-10-29T22:02:07.771Z",
+  "generatedAt": "2026-10-29T22:15:18.729Z",
+  "checkedAt": "2026-10-29T22:15:18.729Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 20
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 12
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "7ede7ab0d44f7a11",
+      "title": "'Star Trek', 'X-Men' star Patrick Stewart dead at 86",
+      "excerpt": "Patrick Stewart, the British Shakespearean actor who became a Hollywood megastar through roles in the \"Star Trek\" and \"X-Men\" franchises…",
+      "fullText": "Patrick Stewart, the British Shakespearean actor who became a Hollywood megastar through roles in the \"Star Trek\" and \"X-Men\" franchises, has died at the age of 86, an official statement said on Thursday.\n\n\"We announce with great sorrow the passing of Sir Patrick Stewart yesterday at his home in Los Angeles, in the loving care of his beloved wife Sunny, following a brief and poignant journey with Alzheimer's Disease and Lewy Body Dementia,\" the statement said.\n\nThe actor, who hailed from Yorkshire, trod the boards in Britain with the Royal Shakespeare Company before crossing the Atlantic to enjoy an acclaimed career on the US stage and screen.\n\nHis best-known Hollywood roles were as Captain Jean-Luc Picard in \"Star Trek: The Next Generation\" and Professor Charles Xavier in multiple \"X-Men\" and related Marvel films.\n\n\"His sonorous voice and singular talent will forever be synonymous with indelible performances in every genre,\" the statement said.\n\n\"He explored the human condition in all its poetic complexity and brought hope not only to the far reaches of the Marvel Cinematic Universe, but into science fiction's most iconic final frontier aboard the Starship Enterprise.\" (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T22:07:19.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875877-20261030.htm"
+    },
     {
       "id": "d847ae777101c412",
       "title": "US stocks slip as Google drags down Nasdaq",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_165139_765.html"
-    },
-    {
-      "id": "9b802df8bd789f7a",
-      "title": "HSK campus sites application opened",
-      "excerpt": "The Government today rolled out three sites in the Hung Shui Kiu (HSK) University Town campus area for eligible post-secondary…",
-      "fullText": "The Government today rolled out three sites in the Hung Shui Kiu (HSK) University Town campus area for eligible post-secondary institutions to apply for, and will provide loan arrangements to support their campus construction.\n\nThe campus sites have a total area of around 26 hectares: Area (1) of approximately 16.5 hectares, Area (2) of approximately 5.3 hectares and Area (3) of approximately 4.4 hectares. The application deadline is December 31.\n\nThe First Five-Year Plan 2026 Policy Address announced that the Government will develop the San Tin, HSK and Ta Kwu Ling University Towns in the Northern Metropolis (NM).\n\nLocated in the HSK/Ha Tsuen New Development Area, HSK University Town’s campus area and adjoining technology and industry areas, including the HSK Industry Park, the Lau Fau Shan Digital Technology Hub, the Yuen Long InnoPark and the Hong Kong Microelectronics Research and Development Institute, will be developed as a Centre for Applied Post-secondary Education in Smart Manufacturing and Global Talent Cultivation.\n\nThe plan is to drive NM development with university towns, fostering the integrated development of education, technology and talent, further supporting post-secondary education to expand capacity and enhancing quality. This also helps consolidate Hong Kong's position as an international education hub.\n\nA Designated Vetting Group led by the Chief Secretary will be set up to facilitate the holistic consolidation and development planning of the university towns. It will be responsible for reviewing the proposals submitted by institutions, as well as approving and deciding on campus area sites and loan proposals.\n\nSubsequently, the Government will grant the sites to successful institutions at a nominal land premium by way of private treaty grants, and the relevant loan proposals will be submitted to the Legislative Council's Finance Committee for approval according to established procedures.\n\nThe Government encourages interested institutions to plan their development in the Northern Metropolis University Town more comprehensively according to the positioning and functions of different university towns to give full play to the vision of empowering the development of the NM through teaching and research.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_151152_811/images/20260917181556994.jpg",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_151152_811.html"
     }
   ]
 }
