@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T00:45:17.462Z",
-  "checkedAt": "2026-10-30T01:30:22.149Z",
+  "generatedAt": "2026-10-30T01:45:21.964Z",
+  "checkedAt": "2026-10-30T01:45:21.964Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "8f21de381e4ba5f1",
+      "title": "Four tankers hit mines in Strait of Hormuz: Iran",
+      "excerpt": "Four tankers caught fire after hitting mines while attempting to navigate the Strait of Hormuz, Iran's armed forces said —…",
+      "fullText": "Four tankers caught fire after hitting mines while attempting to navigate the Strait of Hormuz, Iran's armed forces said — a day after the US military said it cleared key routes through the waterway.\n\n\"Over the past 24 hours, three violating oil tankers exploded and caught fire after striking mines while attempting to pass through the unauthorised southern route of the Strait of Hormuz,\" Iran's Islamic Revolutionary Guards Corps said in a statement.\n\nLater on Thursday, Iran's army reported that another tanker had caught fire east of the strait, after hitting mines while \"operating in a restricted and dangerous area\".\n\nThe initial three vessels had \"switched off all their radar and navigation systems\" and disregarded warnings from the IRGC navy, the statement said.\n\nIt was not immediately clear when the incidents occurred or which flags the tankers were flying.\n\nIn recent weeks, Iran has reported multiple vessels striking sea mines, prompting US Central Command (Centcom), which runs military operations in the region, to reaffirm on social media its insistence that all mines in \"primary transit routes\" have been cleared.\n\nOn Thursday, Hossein Mohebi, the spokesman for the IRGC challenged the claim, saying on X: \"Prove your Hormuz mine-clearing claim with independent evidence, not statements!\"\n\nSince the outbreak of the war on February 28, Iran has severely restricted traffic through the strategic waterway, which normally carries about one-fifth of global oil consumption.\n\nThe United States has in response imposed a blockade on Iranian ports and helped tankers travel the strait.\n\nOn Sunday Centcom said it had helped Gulf countries export 1.5 billion barrels of oil via Hormuz since the summer.\n\nIn their statement on Thursday, the Guards said \"the unauthorised route through the Strait of Hormuz is mined, and that vessel owners and crews are responsible for transiting these routes and should not pay attention to Centcom's delusions on social media\". (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T01:27:15.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875901-20261030.htm"
+    },
     {
       "id": "0d8e8bb370ab1db6",
       "title": "Australian mushroom killer loses appeal",
@@ -929,17 +940,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875575-20261028.htm"
-    },
-    {
-      "id": "379a9c02a4c50c02",
-      "title": "Houthis claim missile strike on Saudi refinery",
-      "excerpt": "Yemen's Iran-aligned Houthis said on Tuesday they had hit Saudi Arabia's Ras Tanura oil refinery, the ⁠biggest in the kingdom…",
-      "fullText": "Yemen's Iran-aligned Houthis said on Tuesday they had hit Saudi Arabia's Ras Tanura oil refinery, the ⁠biggest in the kingdom, with a ballistic missile.\n\nIntensifying hostilities between Yemen and Saudi Arabia have further disrupted oil supplies and heightened the risk of a wider regional conflict, eight months since the Iran war began.\n\nThe Houthis also said they had attacked Saudi military aircraft and repelled an advance by Saudi-backed forces near the Bab el-Mandeb Strait, an important Red Sea shipping route.\n\nThe Houthis' military spokesperson, Yahya Saree, said the strike on the Ras Tanura refinery had caused a fire at the complex, which also includes a shipping terminal and is located on the Gulf, west of the Strait of Hormuz.\n\nSaudi authorities did not immediately confirm the strike.\n\nRas Tanura, which has a capacity of 550,000 barrels per day, was shut for a period in the early months of the Iran war as a precautionary measure.\n\nNearly all Saudi Arabia's oil exports flow through two main ports: Ras Tanura in the Gulf and Yanbu on the Red Sea, both of which the Houthis have attacked in the past.\n\nThe Houthis said they had attacked two military transport jets at Najran Airport and an airbase in Khamis Mushait. They also said they attacked the Saudi defence ministry building in Riyadh, and Abha airport.\n\nThere was no immediate Saudi confirmation of the attacks.\n\nOn Tuesday afternoon, civil defence authorities briefly issued an air raid alert in the Saudi capital Riyadh.\n\nFalling debris from the interception of two ballistic missiles over Riyadh caused material damage to a building, a construction site and a vehicle, the Saudi Civil Defence said later on Tuesday.\n\nThe Saudi-led coalition fighting the Houthis in support of Yemen's internationally recognised government said it had intercepted and destroyed two ballistic missiles launched by the Houthis towards Riyadh.\n\nThe Houthis said they had repelled an advance by forces they described as Saudi-backed from the southern approaches to the Bab el-Mandeb Strait.\n\nSaudi-backed Yemeni government forces earlier this month pushed the Houthis out of coastal areas they had seized in September, loosening the group's grip on a vital Red Sea oil route.\n\nHouthi-affiliated Al Masirah TV reported Saudi strikes on the Yemeni city of Mocha. There was no immediate Saudi confirmation.\n\nThe fighting has shattered a 2022 UN-brokered truce between the coalition and the Houthis, who control the Yemeni capital Sanaa.\n\nOn Monday, Saudi Arabia, Türkiye and Pakistan met Iranian officials in Tehran to try to reduce regional tensions.\n\nParliament in Egypt, which has said it is considering joining the three countries in a mutual defence pact, authorised Egypt's military on Monday to help defend Saudi Arabia if asked. (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T23:01:24.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875561-20261028.htm"
     },
     {
       "id": "bf856cdd674ff502",
