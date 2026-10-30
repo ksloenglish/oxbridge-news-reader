@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T12:30:23.822Z",
-  "checkedAt": "2026-10-30T12:30:23.822Z",
+  "generatedAt": "2026-10-30T12:45:18.615Z",
+  "checkedAt": "2026-10-30T12:45:18.615Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 12
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "0eea6204ccbcabc9",
+      "title": "Evening News on TV32 - Oct 30",
+      "excerpt": "Top stories for Friday, Oct 30, 2026 - A new council will be launched to help homeowners with building repairs…",
+      "fullText": "Top stories for Friday, Oct 30, 2026\n\n- A new council will be launched to help homeowners with building repairs.\n\n- Supervision of building renovation is to be tightened up after the Wang Fuk Court blaze.\n\n- Movie lovers are mourning the death of British actor Patrick Stewart.",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T12:31:05.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875990-20261030.htm"
+    },
     {
       "id": "806b240bf744fbd3",
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
@@ -750,8 +761,8 @@
       "fullText": "The Hong Kong Monetary Authority (HKMA) on Thursday reminded the public to carefully manage interest rate risks when making property, investment or borrowing decisions, after the US Federal Reserve kept its benchmark rate unchanged.\n\nThe Fed's Federal Open Market Committee decided to hold the target range for the federal funds rate at 3.75 to four percent, a move in line with market expectations.\n\n\"Hong Kong's monetary and financial markets have continued to operate in an orderly manner,\" the HKMA said in a statement.\n\nIt noted that with the persistent interest rate differential between the Hong Kong and US dollars, trade activities may cause the local currency to gradually ease.\n\nHowever, the HKMA said the outlook for the Hong Kong dollar and interbank rates could vary depending on factors such as market risk appetite for carry trades and the supply-demand conditions for the local currency, which are in turn influenced by capital market activities and other seasonal factors.\n\nIt added that US interest rate adjustments remain subject to considerable uncertainty and will depend on developments in inflation, the labour market and other economic data, which may in turn affect the interest rate environment in Hong Kong.\n\nThe HKMA said it will continue to closely monitor market developments to maintain monetary and financial stability.\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-10-29T03:01:30.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875743-20261029.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260921/20260921_204627_798.html"
-    },
-    {
-      "id": "31619d7972ae4080",
-      "title": "Youth forum holds annual review",
-      "excerpt": "Youth leaders from Hong Kong, Shenzhen, and Macao shared their experiences and achievements from the past year as they gathered…",
-      "fullText": "Youth leaders from Hong Kong, Shenzhen, and Macao shared their experiences and achievements from the past year as they gathered today for the Security Bureau Youth Uniformed Group Leaders Forum annual review.\n\nThey also gave presentations on various issues related to the Greater Bay Area, and outlined the forum’s activities for the coming year.\n\nAddressing members, Deputy Chief Secretary Cheuk Wing-hing said the Hong Kong Special Administrative Region Government attaches great importance to youth development.\n\nHe highlighted that Hong Kong's First Five-Year Plan clearly states that diversified platforms will be developed for exchanges and experiences that broaden young people's horizons.\n\nBuilding on the Youth Development Blueprint, the Hong Kong SAR Government is developing broader platforms and more opportunities for young people to grow and thrive, aiming to nurture a new generation with an affection for both China and Hong Kong, as well as a global perspective, ambition, and a positive mindset.\n\nMr Cheuk said the leaders forum is an important platform for the Government to implement its vision for youth development.\n\nOver the past year, the forum organised more than 30 activities spanning national security, patriotic education, frontier technologies and multicultural themes. Members also contributed to national initiatives such as the 15th National Games, which Mr Cheuk said demonstrated vitality and a sense of responsibility.\n\nSecretary for Security Tang Ping-keung expressed his satisfaction at the progress shown by members over the past year.\n\nHe highlighted that 51 members undertook summer internships at 26 renowned enterprises and organisations across cities including Beijing, Shanghai, Nanjing, Shenzhen, Macao and Hong Kong. In addition, nine students from Shenzhen University came to Hong Kong for training and hands-on experience at various companies.\n\nMr Tang also observed that since the forum's establishment four years ago, more than 60% of its graduates have joined the Hong Kong SAR Government, taking up positions such as administrative officer and inspectorate officer in the disciplinary forces. Others have pursued careers in the legal, medical, engineering, finance and other sectors.\n\nThe security chief stressed that the National 15th Five-Year Plan includes a dedicated section for youth development, adding that the Hong Kong SAR Government's own Five-Year Plan dovetails with national strategies, allowing Hong Kong to better integrate into and serve the country's overall development.\n\nHe added that future development opportunities for young people are unlimited and encouraged members of the leaders forum to seize such opportunities.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260919/20260919_161358_599/images/20260919172500992.jpeg",
-      "publishedAt": "2026-09-18T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260919/20260919_161358_599.html"
     }
   ]
 }
