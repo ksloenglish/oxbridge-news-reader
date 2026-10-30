@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T09:30:22.603Z",
-  "checkedAt": "2026-10-30T09:30:22.603Z",
+  "generatedAt": "2026-10-30T09:45:22.696Z",
+  "checkedAt": "2026-10-30T09:45:22.696Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 17
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 13
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "a546006873568077",
+      "title": "Race to make bid-rigging criminal offence by April",
+      "excerpt": "Officials said on Friday they aim to criminalise bid-rigging by April as well as enhance enforcement through the establishment of…",
+      "fullText": "Officials said on Friday they aim to criminalise bid-rigging by April as well as enhance enforcement through the establishment of an inter-departmental task force.\n\nCompetition Commission chief executive Rasul Butt said the watchdog would be consulting lawmakers over the proposed amendments “very soon” before seeking opinions from stakeholders.\n\n“The government and, of course, the relevant authorities like the Competition Commission... will need to engage with some stakeholders,” he said.\n\n“In terms of going to Legco to seek Legco's approval to pass the new amendments, the aim right now is April next year.”\n\nThe task force – comprised of representatives from the commission, the police force and the Independent Commission Against Corruption – will be led by Secretary for Security Chris Tang.\n\nTang said the fight against bid-rigging, currently only a civil offence, would be efficient and enhanced through the sharing of intelligence and databases by the task force.\n\n“In fact in the past, our three different departments, namely police, ICAC and Competition Commission, we are all separately, vigorously investigating bid-rigging-related offences,” he said.\n\n“But now we have a joint task force – we can share our intelligence, we can conduct more precise joint operation, and we can have more proactive elements in cracking bid-rigging activities.”\n\nWhile Tang did not reveal how many members there would be in the task force, he stressed that setting it up would not require any additional resources.\n\nHe noted that under the coordination of the Home Affairs Department, task force members would attend owners corporations’ meetings at high-risk buildings – meaning those with high project costs and a significant number of flats involved – to look for indications that bid-rigging might be involved.\n\nHowever, Tang warned, the task force will also rely on intelligence, undercover operations and informers to crack down on malpractices.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T09:38:35.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875966-20261030.htm"
+    },
     {
       "id": "a7df3c04c3d8aeee",
       "title": "HK bucks trend as tech jitters rattle regional markets",
@@ -915,8 +926,8 @@
       "fullText": "The government warned that private cars crossing into Shenzhen via the Huanggang checkpoint during peak hours this weekend could face waits of more than an hour, as priority would be given to those arriving by public transport.\n\nLate-night outbound passenger flow surged last weekend, with scores of visitors leaving the city after attending a concert in Kai Tak or Halloween festivities elsewhere.\n\nIn a press briefing on Wednesday, Chief Secretary Eric Chan said more than 1,000 vehicles passed through Huanggang within two hours last Saturday, far exceeding its capacity of 360 vehicles per hour.\n\nWith more concerts scheduled this Friday and Saturday, plus the Wine and Dine Festival at the Central Harbourfront, authorities are bracing for another hectic weekend at the port.\n\nChan said northbound traffic at the crossing is expected to peak between 11pm and 2am from October 30 to November 1.\n\nAll inspection counters and vehicle lanes will open during those times to facilitate the travel peak.\n\nChan said priority will be given to public transport, while private cars will be diverted to a holding area when necessary, with possible waiting times of more than one hour.\n\nHe also urged travellers not to patronise unauthorised ride-hailing services.\n\n\"We will take law enforcement action because this is no good for the passengers. There is a risk in case of accidents – the insurance will not cover the damage,\" he said, adding that three arrests were made in the past two days.\n\nSecretary for Transport and Logistics Mable Chan said cross-border coach operators would ramp up services this weekend, with frequencies of up to five minutes.\n\nSecretary for Security Chris Tang said an emergency monitoring and support centre will start operating at noon on Friday to coordinate between government departments.\n\nEric Chan once again appealed to travellers to consider staying overnight.\n\n\"Rather than being stuck in traffic, why not spend an extra hour at Lan Kwai Fong?\" he said.\n\nEdited by Raymond Yeung",
       "imageUrl": null,
       "publishedAt": "2026-10-28T12:14:05.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875667-20261028.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260919/20260919_161358_599.html"
-    },
-    {
-      "id": "4935a4def0ff3a58",
-      "title": "Jobless rate rises to 3.8%",
-      "excerpt": "The seasonally adjusted unemployment rate increased from 3.7% in the May to July period to 3.8% in three months from…",
-      "fullText": "The seasonally adjusted unemployment rate increased from 3.7% in the May to July period to 3.8% in three months from June to August, the Census & Statistics Department announced today.\n\nThe underemployment rate also rose from 1.7% to 1.9% during the same period.\n\nThe number of unemployed persons (not seasonally adjusted) increased by around 8,200 to 153,900 in the June to August period, while the labour force rose by around 12,600 to 3,805,900.\n\nLooking ahead, Secretary for Labour & Welfare Chris Sun said the continued expansion of the local economy is expected to underpin overall labour market conditions, though employment situations across various industries will continue to hinge on their respective business conditions.\n\nHe added that the potential impacts of evolving external uncertainties on corporate hiring sentiments still warrant attention.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_165139_765/images/20260917172737037.jpg",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_165139_765.html"
     }
   ]
 }
