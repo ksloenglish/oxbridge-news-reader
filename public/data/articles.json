@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T12:45:18.615Z",
-  "checkedAt": "2026-10-30T12:45:18.615Z",
+  "generatedAt": "2026-10-30T13:00:30.745Z",
+  "checkedAt": "2026-10-30T13:00:30.745Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "2eb2588455cd0f95",
+      "title": "Nominations of 1,115 EC poll candidates deemed valid",
+      "excerpt": "The Registration and Electoral Affairs said on Friday that the nominations of 1,115 candidates running for the Election Committee Subsector…",
+      "fullText": "The Registration and Electoral Affairs said on Friday that the nominations of 1,115 candidates running for the Election Committee Subsector Ordinary Elections next month are deemed valid.\n\nOf those, 856 will compete for 723 seats across 31 subsectors.\n\nThe remaining 259 candidates are returned uncontested in five other subsectors.\n\nThe Electoral Affairs Commission will hold a briefing session for candidates on Tuesday to familiarise them with the electoral arrangements and various regulations.\n\nOn the day of the polls on November 22, five ordinary polling stations will open from 9am to 6pm.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T12:47:35.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875988-20261030.htm"
+    },
     {
       "id": "0eea6204ccbcabc9",
       "title": "Evening News on TV32 - Oct 30",
@@ -742,17 +753,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875749-20261029.htm"
-    },
-    {
-      "id": "6b918a0594dfe570",
-      "title": "Firefighters douse Jordan kitchen blaze",
-      "excerpt": "A fire broke out in the kitchen of a restaurant in Jordan on Thursday morning, with firefighters called to the…",
-      "fullText": "A fire broke out in the kitchen of a restaurant in Jordan on Thursday morning, with firefighters called to the scene.\n\nPolice received multiple reports at around 9.30am that thick smoke was coming from a restaurant near the junction of Nathan Road and Austin Road.\n\nCustomers were able to leave the premises themselves and the fire was put out later.\n\nPreliminary investigations suggest the blaze started from a kitchen exhaust hood. No injuries were reported.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T03:14:18.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875747-20261029.htm"
     },
     {
       "id": "daa52804343888e9",
