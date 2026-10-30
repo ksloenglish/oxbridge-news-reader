@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T02:07:19.960Z",
-  "checkedAt": "2026-10-30T02:30:23.952Z",
+  "generatedAt": "2026-10-30T02:45:24.550Z",
+  "checkedAt": "2026-10-30T02:45:24.550Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "f31a7e2276b22691",
+      "title": "Netanyahu ahead after elections but short of majority",
+      "excerpt": "Israeli Prime Minister Benjamin Netanyahu's camp finished ahead of the opposition, but remained well short of a majority, final results…",
+      "fullText": "Israeli Prime Minister Benjamin Netanyahu's camp finished ahead of the opposition, but remained well short of a majority, final results from Israel's general election showed Friday, setting the stage for tough coalition talks or potentially another vote.\n\nNetanyahu's coalition of right-wing and far-right parties won 53 of the Knesset's 120 seats, with his Likud Party remaining the largest faction with 27 seats.\n\nThe opposition bloc, led by centrist Gadi Eisenkot, secured 48 seats.\n\nThe results from the Central Elections Committee also cemented the emergence as potential kingmakers of the Arab party groupings Raam and the Joint List, with the two winning a combined 19 seats.\n\nThe fragmented outcome sets the stage for difficult negotiations to form a government that could last weeks, with no single bloc able to reach the 61-seat threshold needed and the prospect of another election remaining if talks fail.\n\nThe final tally came after Netanyahu's camp spent Thursday amplifying unproven allegations that Arab-Israeli groups received foreign funding to influence the vote, accusations rejected by both Arab-majority lists and Qatar.\n\nIsrael's Shin Bet domestic security service said it was investigating suspected irregularities, but stressed the probe was not intended to \"cast aspersions or place blame on an entire sector that went out to vote in a democratic and lawful manner\".\n\nThe electoral commission also sought to calm tensions, with its acting director general Dean Livne saying any suggestion of widespread issues was \"entirely groundless\".\n\nThe controversy centred on allegations that Raam received money from Qatar, the energy-rich Gulf powerbroker that has channels to Hamas, to finance vote-buying operations.\n\n\"The Raamgate scandal is a political earthquake. Israel's elections have been stolen!\" Netanyahu's Likud Party said on Thursday.\n\nRaam leader Mansour Abbas denied any wrongdoing and welcomed an investigation, while the Joint List accused Netanyahu and his allies of conducting a \"campaign of incitement\" out of fear of Arab voters' growing political influence.\n\nEisenkot said: \"It's already clear that Likud and Netanyahu have embarked on a coordinated, organised campaign seeking to delegitimise the results of the election.\" (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T02:28:42.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875915-20261030.htm"
+    },
     {
       "id": "e3a9ea014f795960",
       "title": "'Wang Fuk recommendations will be carried out swiftly'",
@@ -907,17 +918,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875576-20261028.htm"
-    },
-    {
-      "id": "70104ae031763f5d",
-      "title": "Norway, Finland leaders call Putin over Ukraine",
-      "excerpt": "Finland's president and Norway's prime minister held a \"frank and substantive\" discussion with Russian President Vladimir Putin on Tuesday about…",
-      "fullText": "Finland's president and Norway's prime minister held a \"frank and substantive\" discussion with Russian President Vladimir Putin on Tuesday about efforts to end the war in Ukraine, the Nordic leaders said.\n\nIt was the latest effort by Kyiv's allies to de-escalate the most deadly conflict in Europe since World War II.\n\n\"The outcome of this war will have a direct impact on our and the broader European security. Ending the war requires direct discussions,\" President Alexander Stubb said in a joint statement with Norwegian Prime Minister Jonas Gahr Store.\n\nSpeaking to reporters in Helsinki, Stubb said the idea for the call had originated during a meeting in Oslo on October 20 between Store, Stubb and Ukraine's President Volodymyr Zelensky as well as US envoy Steve Witkoff.\n\nUS President Donald Trump's son-in-law Jared Kushner also took part in the meeting remotely. After the Oslo talks, Witkoff travelled to Saint Petersburg to meet Putin.\n\nStubb said \"both the Americans and the Ukrainians thought it would be a good idea to reach out,\" and that Ukraine had wished for the Nordic countries to help it \"open a channel of communication.\"\n\nStore, who was also in Helsinki for a meeting of Nordic leaders, told reporters that the 90-minute call had highlighted \"big differences in views\" on Ukraine.\n\nAccording to a statement from the Kremlin, Putin had during the call stressed that it was the EU's and Nato's \"confrontational policy\" that was \"leading to a protraction of hostilities.\"\n\nThe Kremlin said the three leaders had \"agreed to continue maintaining direct contact by telephone.\"\n\nStubb described the discussion between the three as \"frank and substantive.\"\n\nShortly after the announcement of the call, Kyiv said Zelensky had spoken to the Nordic leaders about the conversation with Putin.\n\nThe Nordic leaders stressed they were only representing their own countries and had not spoken on behalf of Europe, but Danish Prime Minister Mette Frederiksen bemoaned that they had gone \"solo.\"\n\n\"I'm very sceptical about this Norwegian and Finnish initiative. It hasn't been coordinated with any of the rest of us,\" she told reporters while attending a meeting of Nordic leaders, including Store and Stubb, in Finland.\n\n\"I honestly don't know what those two countries think they can achieve with this,\" she said.\n\nStore rejected the criticism.\n\n\"In the times we live in, it cannot be that only the US administration has a channel to talk to the Russian leadership. European countries must be able to do that as well,\" the prime minister told reporters.\n\nStubb also told reporters that while the idea of opening a dialogue with Russia had been discussed for a while, \"the rather tense situation between the United States and Ukraine\" is what tipped the scale.\n\nRelations between Ukraine and the United States were again strained after Trump this month suddenly announced a deal with Russia to obtain diesel, as part of his efforts to lower oil prices sent soaring by his Iran war.\n\nUkraine reacted with dismay after Trump also waived sanctions against Russia and appeared to again pivot to Putin.\n\nThe Oslo meeting followed furious diplomatic efforts in Washington, Kyiv and Western capitals to calm the situation.\n\nNorway and Finland, both Nato members, share borders with Russia and the statement emphasised that the countries are \"firm supporters of Ukraine.\" (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T23:49:47.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875556-20261028.htm"
     },
     {
       "id": "2eb48b5e1f2848ac",
