@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T04:00:26.908Z",
-  "checkedAt": "2026-10-30T04:30:20.702Z",
+  "generatedAt": "2026-10-30T04:45:18.467Z",
+  "checkedAt": "2026-10-30T04:45:18.467Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "35251699e040c779",
+      "title": "CPC outlines four areas in anti-corruption drive",
+      "excerpt": "The Communist Party of China (CPC) outlined four areas of focus for combating corruption in a resolution adopted at the…",
+      "fullText": "The Communist Party of China (CPC) outlined four areas of focus for combating corruption in a resolution adopted at the fifth plenary session of the CPC Central Committee, a senior anti-graft official said Friday.\n\nThe four areas are maintaining a tough stance against corruption, strengthening checks on and oversight over the exercise of power, fortifying the cultural-ethical foundations for championing integrity and disdaining corruption, and enhancing coordinated efforts to prevent corruption by rooting out audacity, opportunity, and desire.\n\n\"Conducts and discipline problems are long-term recurrent and stubborn, persistent efforts are needed to tackle them,\" said Zhang Fuhai, deputy secretary of the Central Commission for Discipline Inspection of the CPC and deputy head of the National Commission of Supervision.\n\nHe made the remarks at a press conference on the guiding principles from the fifth plenary session of the 20th Central Committee of the CPC in Beijing.\n\nSince the 18th National Congress of the CPC in 2012, discipline inspection and supervisory organs across the country have filed 8.105 million cases and punished 7.922 million people, including 963 officials registered at and supervised by the CPC Central Committee, according to Zhang.\n\n\"We will intensify anti-corruption efforts in areas with a high concentration of power funds and resources focus on corruption that involves both political and economic elements collusion between officials and business people, and capital infiltrating into the political realm dig deep into new and disguised manifestations of corruption and tackle on a regular basis misconduct and corruption that occurs at people's doorsteps,\" he said.\n\nThe plenum, which concluded on Thursday in Beijing, adopted the Resolution of the Central Committee of the CPC on Certain Major Issues concerning Persevering with Full and Rigorous Party Self-Governance. (Additional reporting from Xinhua)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T04:29:31.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875926-20261030.htm"
+    },
     {
       "id": "e2f148a1a1a5fc70",
       "title": "Investment firm PAG buys 51pc of Evergrande unit",
@@ -1468,17 +1479,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/china/2026/10/23/china-taiwan-sanctions-paraguay-belize/"
-    },
-    {
-      "id": "fd0517419f7f1aa0",
-      "title": "CE expresses condolences to Xizang quake victims",
-      "excerpt": "Chief Executive John Lee said he was deeply saddened by the 7.0-magnitude earthquake that struck Xizang Autonomous Region. Writing on…",
-      "fullText": "Chief Executive John Lee said he was deeply saddened by the 7.0-magnitude earthquake that struck Xizang Autonomous Region.\n\nWriting on social media, he expressed his deepest condolences to those who lost their lives and sympathy to the bereaved families and the injured.\n\nLee said the Hong Kong government will monitor the situation and is ready to provide assistance through the Disaster Relief Fund.\n\nHe said he hopes rescue work will be carried out safely and smoothly, and those who were affected will overcome the hardship in no time.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-23T10:19:20.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875106-20261023.htm"
     },
     {
       "id": "315d54623764691f",
