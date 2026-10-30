@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T14:30:24.315Z",
-  "checkedAt": "2026-10-30T14:30:24.315Z",
+  "generatedAt": "2026-10-30T14:45:17.402Z",
+  "checkedAt": "2026-10-30T14:45:17.402Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "4bb4b4db3ff07d37",
+      "title": "Amid fuel tax cut, German inflation slows",
+      "excerpt": "German inflation slowed more than expected in October, the first month of a government fuel tax cut, adding to evidence…",
+      "fullText": "German inflation slowed more than expected in October, the first month of a government fuel tax cut, adding to evidence that Europe's largest economy could prove more resilient than anticipated despite disruptions linked to the war in Iran.\n\nGross domestic product increased slightly more than expected in the third quarter, though economists warned the expansion remained heavily reliant on government spending.\n\nInflation eased to 2.8 percent year-on-year in October from 3.3 percent the month before, preliminary data from the statistics office showed on Friday, below forecasts for 3.1 percent.\n\nEasing energy price rises drove the slowdown, increasing by 12.2 percent in October versus 14.9 percent the month before, and indicated that the fuel tax cut that runs to year-end is having an effect.\n\nCore inflation, which excludes volatile food and energy prices, fell to 2.1 percent from 2.4 percent the month before.\n\nThe German data comes ahead of a euro zone inflation update due on Wednesday. Inflation in the bloc is expected to come in at 3.9 percent in October, slightly above September's 3.8 percent, according to economists polled by Reuters.\n\nGerman GDP increased by 0.2 percent in the third quarter compared with the previous three-month period, according to preliminary data from the statistics office, slightly above a rise of 0.1 percent forecast by analysts polled by Reuters.\n\nThe data pointed to a fourth straight quarter of recovery in Europe's largest economy, helped by increased public spending, even as private sector momentum remained subdued.\n\nUnder Chancellor Friedrich Merz, government funding has surged since Berlin last year approved a €500 billion infrastructure fund and exempted much defence spending from its debt brake rules.\n\nThe economy grew by 0.3 percent in the second quarter and 0.4 percent in the first quarter, according to the office.\n\nThe fuel tax cut, which aims to cushion households from the surge in oil prices caused by the Iran war, will likely help the economy hold up in the fourth quarter as well, said Deutsche Bank analyst Marc Schattenberg.\n\nHowever, with no sign of a lasting de-escalation in the Middle East, energy prices are unlikely to drop noticeably and will continue to stoke inflation in coming months, say analysts.\n\n\"It is clear that the inflation rate will hover around 3 percent for some time to come,\" said Alexander Krueger, chief economist at Bethmann HAL bank.\n\n\"Given this backdrop, an interest rate hike by the ECB cannot be ruled out.\"\n\nThe European Central Bank left interest rates unchanged on Thursday but clearly hinted at another hike in December.\n\nWhile analysts broadly agree Germany is emerging from a prolonged slowdown, many stop short of calling the recovery self-sustaining because private investment remains weak.\n\nA lack of sweeping reforms means Germany's attractiveness as a place to do business will remain impaired, preventing a significant recovery in private investment, Commerzbank chief economist Joerg Kraemer said.\n\nAnalysts pointed to the increased government spending on infrastructure and defence as the main driver of the recovery.\n\n\"Without this artificially initiated impulse, economic output would probably have stagnated,\" said Krueger.\n\nJens-Oliver Niklasch, economist at LBBW bank, said that next year would reveal whether the economic revival is sustainable or just a flash in the pan.\n\n\"For sustained, higher growth, investment would need to pick up more substantially, which, to date, has not been the case,\" he said.\n\nThe German government expects the economy to grow by 1.3 percent in 2026 and 1.1 percent in 2027, with the economy ministry saying earlier this month that the Iran war, and resulting high energy prices, is not hurting the economy as much as feared.\n\nIn a further positive sign, the Ifo economic institute's closely watched business climate index rose for a sixth straight month in October. (Reuters)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T14:37:52.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876011-20261030.htm"
+    },
     {
       "id": "b43b8fc4f2334945",
       "title": "US woman blames 'incompetence' for failed execution",
@@ -1094,17 +1105,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875606-20261028.htm"
-    },
-    {
-      "id": "bc6d6d5962a883f1",
-      "title": "Asia shares up ahead of US tech results",
-      "excerpt": "Asia stocks rallied on Wednesday after a resurgence in AI enthusiasm ahead of earnings from industry bellwethers later in the…",
-      "fullText": "Asia stocks rallied on Wednesday after a resurgence in AI enthusiasm ahead of earnings from industry bellwethers later in the US day, while the dollar was perky ahead of a Federal Reserve policy decision.\n\nThe AI rally faces its next test when technology giants Alphabet and Microsoft report earnings after market close, with investors looking for evidence of returns that would justify the hefty price of AI build-out.\n\nAhead of US earnings, MSCI's broadest index of Asia-Pacific shares outside Japan was up 0.85 percent in early Asia trade, with Japan's Nikkei adding 1.2 percent and South Korea's Kospi jumping more than three percent.\n\nThe Hang Seng Index was slightly lower in mid-morning trade, down 0.02 percent, at 23,036. (Reuters)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T02:41:06.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875596-20261028.htm"
     },
     {
       "id": "52e9da3130bfde0d",
