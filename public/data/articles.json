@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T15:00:34.609Z",
-  "checkedAt": "2026-10-30T15:45:19.677Z",
+  "generatedAt": "2026-10-30T16:00:35.332Z",
+  "checkedAt": "2026-10-30T16:00:35.332Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -579,6 +579,17 @@
       "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_165347_939.html"
     },
     {
+      "id": "d62935b7be8a90e1",
+      "title": "New measures to combat bid-rigging",
+      "excerpt": "The Government today announced a series of reform measures using a three-pronged approach to rigorously combat bid-rigging and other syndicate-led…",
+      "fullText": "The Government today announced a series of reform measures using a three-pronged approach to rigorously combat bid-rigging and other syndicate-led criminal activities in building maintenance and renovation projects.\n\nUnder existing legislation, bid-rigging is primarily addressed through the civil regime under the Competition Ordinance, while criminal enforcement can only target other offences arising during the process. To tackle this, the Government will introduce a series of legislative amendments, step up law enforcement co-ordination and enhance frontline prevention.\n\nThe Government proposes amending the Competition Ordinance to criminalise four types of serious anti-competitive conduct involving tenders for building maintenance and renovation projects, holding the individuals and undertakings concerned criminally liable. These four types of conduct comprise bid-rigging, price-fixing, market sharing and output restrictions.\n\nTo tackle collusion comprehensively across all stages, the proposed regulatory scope will cover tendering for works contractors as well as related preparatory arrangements, such as engaging consultants at the preliminary stage.\n\nTo enhance deterrence, the new criminal offence will carry a maximum penalty of 10 years' imprisonment and a fine. The maximum fine will be the highest of $10 million, three times the total value of the commercial gains derived from the contravention, or an amount calculated at 50% of the undertaking’s local turnover for each year the contravention occurred.\n\nThe overall civil regime under the Competition Ordinance will be enhanced in parallel to strengthen penalties and improve enforcement effectiveness.\n\nAdditionally, the Government proposes designating the new criminal offence as a specified offence under the Organised & Serious Crimes Ordinance and the Independent Commission Against Corruption Ordinance. This will strengthen the investigative powers of the law enforcement agencies, enabling the Police Force, the Independent Commission Against Corruption (ICAC) and the Competition Commission to collaborate more effectively.\n\nThese agencies will be able to leverage specific powers to target syndicates.\n\nThrough a Witness Order, the Secretary for Justice may apply to the Court of First Instance for an order requiring a relevant person to answer questions or furnish information. Through a Production Order, the Secretary for Justice or an authorised officer may apply to the Court of First Instance to require a specified individual, entity or public officer to provide material or permit access to it within a specified period.\n\nFurthermore, the prosecution may apply for an enhanced sentence, allowing the court to impose a substantially heavier penalty based on the seriousness of the case, the extent of harm inflicted on the community, or the prevalence of the offence. The court may also issue a confiscation order to recover money or property from convicted criminals, which covers all realisable property belonging to the defendant, including real property, stocks and vehicles.\n\nThe Government will also step up the co-ordination of law enforcement actions on all fronts. The Chief Executive has tasked the Secretary for Security to lead the establishment of a joint task force to combat bid-rigging in building maintenance and renovation projects.\n\nComprising representatives from the Police Force, the ICAC and the Competition Commission, the task force will combat syndicates through intelligence sharing, joint operations and preventive measures.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_153129_783/images/20261030201106767.JPG",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_153129_783.html"
+    },
+    {
       "id": "fff4c6b2afb912e5",
       "title": "HK to host Vinexpo Asia for 5 years",
       "excerpt": "The Hong Kong Tourism Board and Vinexposium, a leading global organiser of wine and spirits trade events, have signed a…",
@@ -1149,17 +1160,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_161337_804.html"
-    },
-    {
-      "id": "63424a9ca4c48416",
-      "title": "I.PARK1 incinerator rumours denied",
-      "excerpt": "The Environmental Protection Department (EPD) today clarified that allegations of incinerator design defects and the collapse of an incineration module…",
-      "fullText": "The Environmental Protection Department (EPD) today clarified that allegations of incinerator design defects and the collapse of an incineration module under construction at Integrated Waste Management Facilities Phase 1 (I.PARK1) arose following a fire on Monday.\n\nNoting that such rumours are circulating online, the department stated in the strongest terms that the allegations are groundless and entirely fictitious, and urged the public not to be misled by these false messages and to stop sharing them.\n\nThe department said preliminary information indicates that the fire originated at the roof of the incinerator building's third incineration module area where finishing work was still in progress. It is preliminarily suspected that the fire originated from construction materials, rather than from incinerator operations or from the waste stored.\n\nIt will work with the Police, the Fire Services Department and the Labour Department to investigate the cause of the fire, and has instructed the contractor to submit an incident report on the fire within seven days of the incident.\n\nMeanwhile, the EPD is evaluating the damage and its impact on the facility and its processing capacity, and will urge the contractor to carry out repairs as soon as possible.\n\nI.PARK1 has temporarily suspended waste reception since yesterday. The EPD has arranged to extend the operating hours of its West New Territories Landfill Extension. The waste originally destined for I.PARK1 has therefore been transported to the landfill for disposal to maintain the normal operation of the city's overall waste management system.\n\nThe department stated that it will resume waste reception at I.PARK1 as soon as possible, after a comprehensive examination of the facility's structure and all critical systems, and upon confirming that it is safe to restart operations.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_111756_327/images/20261028125526751.jpg",
-      "publishedAt": "2026-10-27T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_111756_327.html"
     },
     {
       "id": "9fd8f24288a8ea57",
