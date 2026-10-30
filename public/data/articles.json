@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T23:45:18.797Z",
-  "checkedAt": "2026-10-29T23:45:18.797Z",
+  "generatedAt": "2026-10-30T00:00:27.063Z",
+  "checkedAt": "2026-10-30T00:00:27.063Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "79bb5b72e22febbf",
+      "title": "DPRK's Kim calls for drone dominance",
+      "excerpt": "The Democratic People's Republic of Korea (DPRK) has test-fired attack drones, missiles and a multiple rocket launcher at a weapons…",
+      "fullText": "The Democratic People's Republic of Korea (DPRK) has test-fired attack drones, missiles and a multiple rocket launcher at a weapons demonstration, state media KCNA reported on Friday, as leader Kim Jong Un called for faster development of drone and AI technology for military use.\n\nThe event came a day after Seoul said Pyongyang had fired 'around a dozen' short-range ballistic missiles off its east coast, though it was not immediately clear whether the launches were linked to the demonstration.\n\nAt the event, Kim stressed the \"aim to seize the absolute superiority in the drone technology is an indispensable option in the light of the ever-changing patterns of modern warfare,\" according to KCNA.\n\nHe added: \"Strength precisely means peace and peace is guaranteed only by strength.\"\n\nThe demonstration featured suicide attack drones, multipurpose drones firing air-to-surface missiles, cruise missiles and 600mm multiple rocket launchers. KCNA said the drones and cruise missiles hit an island target with 100 percent accuracy.\n\nThe event follows a slew of recent weapons tests by Pyongyang, including a new precision-guided torpedo system and an intermediate-range hypersonic missile, both of which were said to employ AI technology.\n\nSouth Korea's Joint Chiefs of Staff said its military detected around a dozen short-range ballistic missiles fired from the Wonsan area of the DPRK towards the East Sea, also known as the Sea of Japan.\n\nThe missiles flew about 250 kilometres, and \"South Korea and the United States are conducting a detailed analysis of their exact specifications\", Seoul's military said, adding it had stepped up surveillance of possible additional launches.\n\nSeoul's National Security Office, meanwhile, said the launches violated UN Security Council resolutions, labelling them \"serious acts that do nothing to help manage the current situation\". (AFP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-29T23:49:42.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875891-20261030.htm"
+    },
     {
       "id": "2fdcb7758637d051",
       "title": "U.S. to China after demolition report: ‘End interference in Tibetan religious life’",
@@ -973,17 +984,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875551-20261027.htm"
-    },
-    {
-      "id": "2cc9b5735c351832",
-      "title": "Qatar, Iran leader discussed war in Moscow meeting",
-      "excerpt": "Qatar's ruler and the Iranian president discussed the Middle East war and the blockaded Strait of Hormuz during a meeting…",
-      "fullText": "Qatar's ruler and the Iranian president discussed the Middle East war and the blockaded Strait of Hormuz during a meeting in Moscow, the emir's office said on Tuesday.\n\nThe high-level meeting came a day after senior officials from Saudi Arabia, Turkiye and Pakistan held talks with Iran in Tehran in an attempt to stop the Middle East war from reigniting.\n\nQatari Emir Sheikh Tamim bin Hamad Al Thani and Iranian President Masoud Pezeshkian met on Tuesday on the sidelines of a summit of the Gas Exporting Countries Forum in Moscow.\n\nPezeshkian is also due to meet with Russian President Vladimir Putin later in the day.\n\nThe Qatari and Iranian leaders \"reviewed the current state of relations between Tehran and Doha and emphasised the importance of deepening political and economic ties and making use of existing potential to strengthen bilateral cooperation,\" Iranian state television said.\n\nQatar and Pakistan have been at the forefront of efforts to secure a lasting deal between the United States and Iran.\n\nOn Sunday, a Qatari delegation visited Tehran and \"reviewed developments in the regional situation, foremost among them the latest on the negotiations, the Strait of Hormuz, and energy supplies\", Iran's foreign ministry spokesman Esmaeil Baqaei said earlier.\n\nOn Tuesday, Qatari foreign ministry official Ibrahim Al-Hashmi said the region needed a new security framework to prevent further violence.\n\n\"The ball is now in Iran's court to commit to these principles and demonstrate good faith,\" he said.\n\n\"We have heard positive statements from the Iranian side... but they still need to demonstrate good faith, stop threatening countries of the region, and reopen the Strait of Hormuz so that all those efforts can go towards having a safe and prosperous region,\" he added.\n\nMonday's talks in Tehran included Saudi Defence Minister Khalid bin Salman, Pakistan's army chief General Asim Munir and Turkiye's intelligence chief Ibrahim Kalin. Iran described them as \"very good\".\n\nThey followed warnings by the United States, Iran and Israel that hostilities could restart in the eight-month war, which saw Tehran strike US allies in the region including Qatar.\n\nIn early October, Putin said Russia was prepared to take part in mediation to bring an end to the war. (AFP)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T13:19:13.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875545-20261027.htm"
     },
     {
       "id": "a5398d693fa11a69",
