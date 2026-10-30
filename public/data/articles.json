@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T17:00:39.603Z",
-  "checkedAt": "2026-10-30T17:00:39.603Z",
+  "generatedAt": "2026-10-30T17:15:17.676Z",
+  "checkedAt": "2026-10-30T17:15:17.676Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -511,6 +511,17 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875872-20261030.htm"
+    },
+    {
+      "id": "0535acc2e963236e",
+      "title": "Building repair reforms unveiled",
+      "excerpt": "(To watch the full press conference with sign language interpretation, click here .) The Housing Bureau will establish the Public…",
+      "fullText": "(To watch the full press conference with sign language interpretation, click here .)\n\nThe Housing Bureau will establish the Public Housing Building Control Section (PBC) within the next month to replace the Independent Checking Unit, launching a new project-based regulatory regime to strengthen the oversight of large-scale maintenance and renovation works in courts and estates.\n\nThe Development Bureau and the Housing Bureau today jointly announced the details of the comprehensive reform measures, which are based on the findings of the independent committee’s report on the fire at Wang Fuk Court in Tai Po.\n\nThe PBC will strengthen and focus regulation of existing buildings and maintenance works across all public rental housing (PRH) estates, subsidised sale housing courts and related facilities sold or divested by the Housing Authority (HA). It will also regulate new public housing development projects (including PRH and subsidised sale housing) developed by the HA, as well as relevant works for existing, non-divested PRH estates.\n\nAnnouncing the measures at a press conference this morning, Deputy Financial Secretary & Acting Secretary for Housing Michael Wong said this new project-based model will provide macro-level co-ordination and comprehensive management of large-scale maintenance and renovation projects in housing courts and estates. He noted this will target high-risk, large-scale maintenance works to improve overall project co-ordination, communication and risk control.\n\nWhere individual public housing courts or estates carry out major building maintenance and renovation works regulated under the Buildings Ordinance, the Head of the PBC will set up a project-specific team to handle related works matters in an integrated manner. The team will assign a dedicated liaison officer to proactively contact the relevant Owners' Corporation and provide necessary assistance.\n\nIn tandem, the Government will establish the Building Maintenance Support & Services Council (BMSSC) to provide more proactive support to owners in maintaining properties.\n\nSecretary for Development Bernadette Linn noted that the BMSSC will provide end-to-end services with standard fees calculated on a cost-recovery basis. The preliminary estimate of the cost is several thousand dollars per household.\n\nThe Government has earmarked $100 million in this year’s Budget as start-up capital for the BMSSC to cover initial staff expenditure and operating expenses, with the council expected to achieve self-financing in the long run. An additional $200 million has also been earmarked to provide fee concessions to owners in need.\n\nThe Government aims to set up the BMSSC by the end of this year, with project tendering for owners commencing within the first quarter of 2027.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_121247_837/images/20261030170702821.jpg",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_121247_837.html"
     },
     {
       "id": "1b94cbc8ad946a0c",
@@ -1149,17 +1160,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_202236_885.html"
-    },
-    {
-      "id": "3d2730b4de88bae2",
-      "title": "Security books for kids launched",
-      "excerpt": "The Security Bureau (SB) today held a launch ceremony for the “Andy & Security Bear: Young Citizens Safeguarding National Security”…",
-      "fullText": "The Security Bureau (SB) today held a launch ceremony for the “Andy & Security Bear: Young Citizens Safeguarding National Security” educational picture books.\n\nPublished by the SB with support from the Education Bureau, the books convey national security concepts to young children through vivid illustrations and simple words and cultivate their awareness of abiding by laws and rules.\n\nSecretary for Security Tang Ping-keung and Under Secretary for Education Sze Chun-fai jointly officiated at the launch and presented books to kindergarten representatives.\n\nMr Tang outlined the creative concept, explaining that the books' illustrations, coupled with an engaging storyline, allow children to discover what it means to follow rules and think critically, thereby developing an understanding of the importance of safeguarding national security from an early age.\n\nMr Sze spoke about the books’ application in school environments, highlighting their effectiveness in enhancing learning outcomes.\n\nThe three-volume set reprises the characters “Andy & Security Bear”, the protagonists from a national security comic series launched by the SB in mid-2024 that has been well received by the education sector and students.\n\nThe set consists of three new stories, along with other resources such as songs, helping to make learning enjoyable in kindergartens.\n\nTo accompany book one of the set, the SB released a song, “Singing Softly”, which was aired at the launch by kindergarten students.\n\nThe children’s performance brought the lyrics – which reinforce positive values of respecting others and safeguarding one’s home – to life.\n\nThe SB will distribute a first batch of the picture books to over 900 kindergartens and public libraries in Hong Kong by the end of this year. On-site kindergarten workshops will be used to help convey national security concepts to young children in a diverse and fun way.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_161337_804/images/20261028180900131.jpg",
-      "publishedAt": "2026-10-27T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_161337_804.html"
     },
     {
       "id": "9fd8f24288a8ea57",
