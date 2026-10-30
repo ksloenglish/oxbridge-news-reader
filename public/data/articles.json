@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T10:45:21.154Z",
-  "checkedAt": "2026-10-30T10:45:21.154Z",
+  "generatedAt": "2026-10-30T11:00:28.534Z",
+  "checkedAt": "2026-10-30T11:00:28.534Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -478,6 +478,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_152807_234.html"
+    },
+    {
+      "id": "c60be94686ea124d",
+      "title": "Election committee nominations valid",
+      "excerpt": "The Registration & Electoral Office (REO) today announced that the nominations of 1,115 candidates for the 2026 Election Committee Subsector…",
+      "fullText": "The Registration & Electoral Office (REO) today announced that the nominations of 1,115 candidates for the 2026 Election Committee Subsector (ECSS) Ordinary Elections have been declared valid.\n\nThe announcement follows determinations made by the Candidate Eligibility Review Committee.\n\nThe REO stated that 856 validly nominated candidates from 31 contested subsectors will compete for 723 seats in the ECSS Ordinary Elections to be held on November 22.\n\nVoting will not be required for five subsectors, where 259 candidates will be returned uncontested.\n\nThe five uncontested subsectors are: Education; Sports, performing arts, culture and publication; Associations of Chinese fellow townsmen; Labour; and Representatives of Hong Kong members of relevant national organisations.\n\nRelevant Government Gazette notices and detailed information have been uploaded to the election website .",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_165347_939/images/20261030180606722.JPG",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_165347_939.html"
     },
     {
       "id": "fff4c6b2afb912e5",
@@ -1237,17 +1248,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/korea/2026/10/26/kim-jong-un-china-trip-bridge/"
-    },
-    {
-      "id": "fbceb119c523cbc7",
-      "title": "Eco Expo Asia enters second day",
-      "excerpt": "The 21st Eco Expo Asia entered its second day today at AsiaWorld-Expo in Lantau. Speaking at the welcome ceremony, Secretary…",
-      "fullText": "The 21st Eco Expo Asia entered its second day today at AsiaWorld-Expo in Lantau.\n\nSpeaking at the welcome ceremony, Secretary for Environment & Ecology Tse Chin-wan highlighted that the Government has formulated the city’s First Five-Year Plan and introduced four binding environmental targets. He noted that these measures establish a clear benchmark for advancing the green transition, driving energy reform and transforming Hong Kong into a cleaner, more liveable city.\n\nMr Tse pointed out that the Belt & Road Green Innovation Conference was held outside the Chinese Mainland for the first time this year, playing a pivotal role in connecting policy with innovation, technology with investment and expertise with opportunity.\n\nHe added that under the \"one country, two systems\" principle, Hong Kong maintains close connections with both the Mainland and international markets. By leveraging its professional services, robust financial and common law systems and extensive environmental management experience, the city continues to serve as a \"super connector\" for international collaboration in green transformation.\n\nMinister of Ecology & Environment Huang Runqiu also attended the welcome ceremony.\n\nDuring the event, Mr Huang and Mr Tse witnessed the exchange of a co-operation agreement between Vice President of the Chinese Research Academy of Environmental Sciences Liu Chunyan and Director of Environmental Protection Samuel Chui. The pact aims to deepen development across the Guangdong-Hong Kong-Macao Greater Bay Area, support the \"Beautiful China Pilot Zone\" and foster green Belt & Road co-operation.\n\nThe Environment & Ecology Bureau has set up four dedicated exhibition zones at the expo, focusing on the themes of \"Green Energy and Buildings\", \"Green Transport\", \"Waste Reduction and Recycling\" and \"Better Environment\".\n\nThe four-day expo runs until this Thursday, with the final day designated as the public day, allowing members of the public to visit free of charge.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261027/20261027_211107_283/images/20261027222851817.jpg",
-      "publishedAt": "2026-10-26T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261027/20261027_211107_283.html"
     },
     {
       "id": "43b580deb30d3979",
