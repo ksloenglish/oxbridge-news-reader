@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T07:45:19.807Z",
-  "checkedAt": "2026-10-30T07:45:19.807Z",
+  "generatedAt": "2026-10-30T08:00:27.651Z",
+  "checkedAt": "2026-10-30T08:00:27.651Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "eded09fac0ea55d2",
+      "title": "Tip-offs 'helping stub out construction-site smoking'",
+      "excerpt": "Secretary for Labour and Welfare Chris Sun called on the public on Friday to continue to provide information to help…",
+      "fullText": "Secretary for Labour and Welfare Chris Sun called on the public on Friday to continue to provide information to help enforce the full smoking ban on construction sites and buildings undergoing major renovations.\n\nThe call came as he revealed that citizen tip-offs had led to a disproportionately high number of successful prosecutions since the new rules took effect three months ago.\n\nSun said the Labour Department has issued 87 fixed-penalty notices since the ban was introduced, of which 27 – about one third – were based on information provided by citizens.\n\nThere are currently, he pointed out, four contractor cases involving five summonses going through prosecution proceedings.\n\nThe department has conducted more than 6,900 inspections over the past three months, he said, of which about 430 were triggered by complaints or tip-offs.\n\n\"The proportion of inspections is certainly not large, but the success rate is very high, because you see, among our fixed-penalty notices, approximately one third of them were issued because some citizens kindly provided us with photos, videos and information, enabling us to conduct inspections promptly,\" said Sun.\n\nHe also apologised again over the deadly Wang Fuk Court fire, whose independent report was released by the government on Thursday.\n\nSun pointed out that he had to, as a politically appointed official, support the chief executive and be accountable to him.\n\nThe chief executive, he said, had made clear his requirements and he would follow them, stay on the job and strive to implement the government's reform agenda.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T07:41:59.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875949-20261030.htm"
+    },
     {
       "id": "87280b0a4ba96091",
       "title": "Party to build links with emerging economic sectors",
@@ -368,6 +379,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_104107_783.html"
+    },
+    {
+      "id": "8449263c38a8ab63",
+      "title": "3 sports events get 'M' Mark status",
+      "excerpt": "The Major Sports Events Committee today announced it has awarded “M” Mark status to the 2026 World Triathlon Cup -…",
+      "fullText": "The Major Sports Events Committee today announced it has awarded “M” Mark status to the 2026 World Triathlon Cup - Hong Kong, the BLAST Premier Hong Kong Rivals 2026, and the Bank of China (Hong Kong) Hong Kong-Zhuhai-Macao Bridge (Hong Kong Section) Half Marathon 2026.\n\nThe triathlon tournament is scheduled for November 7 to 8, followed by the esports tournament from November 13 to 15, and the half-marathon tournament on November 15.\n\nCommittee Chairman Wilfred Ng said that the World Triathlon Cup allows athletes to showcase their incredible determination against the backdrop of Victoria Harbour and the streets of Central, while the BLAST Premier Hong Kong Rivals draws the attention of esports fans worldwide, and the Hong Kong-Zhuhai-Macao Bridge Half Marathon leverages a world-class landmark to highlight the city’s unique appeal.\n\n“Beyond attracting world-class athletes and international visitors to Hong Kong, these events will further consolidate Hong Kong’s position as a centre for international sports events,” he said.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_124418_748/images/20261030130647269.jpg",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_124418_748.html"
     },
     {
       "id": "889214d2fc3338a4",
@@ -931,17 +953,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875649-20261028.htm"
     },
     {
-      "id": "1c9e9ceb0a96b2be",
-      "title": "'Waste facility fire caused by construction materials'",
-      "excerpt": "The government on Wednesday said a recent fire at a Shek Kwu Chau waste treatment facility is suspected to have…",
-      "fullText": "The government on Wednesday said a recent fire at a Shek Kwu Chau waste treatment facility is suspected to have been sparked by construction materials on the roof, rather than the operation of the facility or stored waste.\n\nThe Environmental Protection Department (EPD) said preliminary information indicated that Monday's blaze started on the roof of the third incineration module area, where construction works were being finalised.\n\n\"The EPD will work with the police, the Fire Services Department and the Labour Department to investigate the cause of fire, and has instructed the contractor to submit an incident report on the fire within seven days from the day of the incident,\" according to a statement.\n\nThe department said it is evaluating the damage and the impact on the facility's processing capacity, and will urge the contractor to conduct repairs as soon as possible.\n\nThe facility, I.PARK1, has temporarily suspended waste reception since October 27.\n\nThe department said it has extended the operating hours of the West New Territories Landfill Extension to handle the waste originally destined for I.PARK1, ensuring the normal operation of the city's overall waste management system.\n\n\"The EPD will resume waste reception at I.PARK1 as soon as possible, following a comprehensive examination of the facility's structure and all critical systems, and upon confirming that it is suitable to restart the facility's safe operation,\" it added.\n\nIt also issued a strong denial of online rumours about \"design defects of the incinerator\" and a \"collapse of the incineration module under construction\", calling them groundless and entirely fictitious.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T06:16:29.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875624-20261028.htm"
-    },
-    {
       "id": "6ff23ffcaca16e53",
       "title": "Rays win thriller to stay alive in World Series",
       "excerpt": "The Tampa Bay Rays staged a dramatic extra-innings rally to keep their World Series dream alive on Tuesday, walking off…",
@@ -1292,17 +1303,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875296-20261026.htm"
-    },
-    {
-      "id": "2cb096d00658934b",
-      "title": "CE meets environment minister",
-      "excerpt": "Chief Executive John Lee met Minister of Ecology & Environment Huang Runqiu at Government House today to exchange views on…",
-      "fullText": "Chief Executive John Lee met Minister of Ecology & Environment Huang Runqiu at Government House today to exchange views on deepening green co-operation. Mr Lee welcomed Mr Huang and his delegation to Hong Kong to officiate at the Belt & Road Green Innovation Conference 2026.\n\nMr Lee thanked the country for its support for Hong Kong as a platform for international exchanges. He also expressed gratitude for choosing the city as the venue for the conference, which is being held outside the Mainland for the first time.\n\nHe pointed out that under the \"one country, two systems\" principle, Hong Kong enjoys the unique advantage of connecting the Mainland and the world. Mr Lee added that the city plays the roles of \"super connector\" and \"super value-adder\" to proactively build itself into an international green co-operation hub.\n\nThe Hong Kong Special Administrative Region Government will build a pool of talent in international environmental protection and facilitate technology exchanges to promote the green and high-quality development of the Belt & Road (B&R) Initiative. This will be achieved through the B&R Green Development Co-operation Platform established with the Ministry of Ecology & Environment, and the B&R Sustainable Green Development Training Centre established by the Environmental Protection Department.\n\nMr Lee noted that the Hong Kong SAR Government attaches great importance to green and sustainable development, and added that four binding indicators have been set out in Hong Kong's First Five-Year Plan relating to environmental protection.\n\nThrough developing zero-carbon energy and hydrogen energy, alongside enhancing waste reduction and recycling, Hong Kong is moving towards carbon neutrality. The city will also leverage its status as a centre for green and sustainable finance to actively explore cross-boundary carbon trading, supporting the country in building a carbon market with greater international influence.\n\nThe Chief Executive added that the Guangdong-Hong Kong-Macao Greater Bay Area (GBA) is a key engine for the country's high-quality development. Hong Kong is actively enhancing its role in the GBA's green value chain to promote green development across the region.\n\nHong Kong has successfully facilitated the establishment of a world-leading sustainable aviation fuel production base in Dongguan. It will further strengthen collaboration in resources circulation to jointly build a “Zero Waste Bay Area” with the Mainland.\n\nMr Lee thanked the ministry for its continued support for Hong Kong's environmental protection work, and expressed hope that both sides will continue to strengthen collaboration to better integrate into and serve the overall national development.\n\nSecretary for Environment & Ecology Tse Chin-wan also attended the meeting.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_150639_499/images/20261026161147482.jpg",
-      "publishedAt": "2026-10-25T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_150639_499.html"
     },
     {
       "id": "6c7fa58303e84f2c",
