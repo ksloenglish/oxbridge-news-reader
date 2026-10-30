@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T08:00:27.651Z",
-  "checkedAt": "2026-10-30T08:00:27.651Z",
+  "generatedAt": "2026-10-30T08:15:17.061Z",
+  "checkedAt": "2026-10-30T08:15:17.061Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "61971cdbb0b00a67",
+      "title": "'Huanggang Port ready for increased traffic flows'",
+      "excerpt": "The Transport Department has warned that traffic around the Huanggang control point and San Tin Road will be very heavy…",
+      "fullText": "The Transport Department has warned that traffic around the Huanggang control point and San Tin Road will be very heavy on Friday night and over the next two nights, as Halloween celebrations and other events in Hong Kong and Kowloon are expected to end around midnight.\n\nIn a post on its social media page, the department said the Huanggang checkpoint provides dedicated public transport lanes, allowing franchised buses, cross-boundary coaches and green minibuses to travel via San Sham Road directly to the port.\n\nIt said road markings have been strengthened and the dedicated lanes extended to improve effectiveness.\n\nDuring peak traffic periods, four franchised bus routes heading to the Huanggang Port via the San Tin Public Transport Interchange will enter the interchange directly from a junction of the San Tin section of Castle Peak Road helping to divert traffic away from the busy San Tin roundabout.\n\nThe department said it has instructed public transport operators to reserve sufficient vehicles and manpower, and to increase service frequency according to passenger flow.\n\nIts Emergency Transport Co-ordination Centre will monitor traffic conditions around the clock and take appropriate measures as needed, it said.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T08:01:06.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875954-20261030.htm"
+    },
     {
       "id": "eded09fac0ea55d2",
       "title": "Tip-offs 'helping stub out construction-site smoking'",
@@ -379,6 +390,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_104107_783.html"
+    },
+    {
+      "id": "471f48ad5df9252b",
+      "title": "100k private flats projected",
+      "excerpt": "The projected private flat supply for the next three to four years is 100,000 units, up 4,000 from the previous…",
+      "fullText": "The projected private flat supply for the next three to four years is 100,000 units, up 4,000 from the previous estimate.\n\nThe Housing Bureau said today there were 19,000 unsold units in completed projects as of the end of September.\n\nThere were also 62,000 units under construction, excluding those pre-sold by developers; and 19,000 units from disposed sites where construction may start at any time.\n\nThe number of flats under construction in the third quarter this year was 2,800, while 1,700 units were completed during the same period.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_150336_438/images/20261030154841857.jpg",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_150336_438.html"
     },
     {
       "id": "8449263c38a8ab63",
@@ -857,7 +879,7 @@
       "id": "624801b23bf0b207",
       "title": "Priority given to buses at Huanggang this weekend",
       "excerpt": "The government warned that private cars crossing into Shenzhen via the Huanggang checkpoint during peak hours this weekend could face…",
-      "fullText": "The government warned that private cars crossing into Shenzhen via the Huanggang checkpoint during peak hours this weekend could face waits of more than an hour, as priority would be given to those arriving by public transport.\n\nLate-night outbound passenger flow surged last weekend, with scores of visitors leaving the city after attending a concert in Kai Tak or Halloween festivities elsewhere.\n\nIn a press briefing on Wednesday, Chief Secretary Eric Chan said more than 1,000 vehicles passed through Huanggang within two hours last Saturday, far exceeding its capacity of 360 vehicles per hour.\n\nWith more concerts scheduled this Friday and Saturday, plus the Wine and Dine Festival at the Central Harbourfront, authorities are bracing for another hectic weekend at the port.\n\nChan said northbound traffic at the crossing is expected to peak between 11pm and 2am from October 30 to November 1.\n\nAll inspection counters and vehicle lanes will open during those times to facilitate the travel peak.\n\nChan said priority will be given to public transport, while private cars will be diverted to a holding area when necessary, with possible waiting times of more than one hour.\n\nHe also urged travellers not to patronise unauthorised ride-hailing services.\n\n\"We will take law enforcement action because this is no good for the passengers. There is a risk in case of accidents – the insurance will not cover the damage,\" he said, adding that three arrests were made in the past two days.\n\nSecretary for Transport and Logistics Mable Chan said cross-border coach operators would ramp up services this weekend, with frequencies of up to five minutes.\n\nSecretary for Security Chris Tang said an emergency monitoring and support centre will start operating at noon on Friday to coordinate between government departments.\n\nChan once again appealed to travellers to consider staying overnight.\n\n\"Rather than being stuck in traffic, why not spend an extra hour at Lan Kwai Fong?\" he said.\n\nEdited by Raymond Yeung",
+      "fullText": "The government warned that private cars crossing into Shenzhen via the Huanggang checkpoint during peak hours this weekend could face waits of more than an hour, as priority would be given to those arriving by public transport.\n\nLate-night outbound passenger flow surged last weekend, with scores of visitors leaving the city after attending a concert in Kai Tak or Halloween festivities elsewhere.\n\nIn a press briefing on Wednesday, Chief Secretary Eric Chan said more than 1,000 vehicles passed through Huanggang within two hours last Saturday, far exceeding its capacity of 360 vehicles per hour.\n\nWith more concerts scheduled this Friday and Saturday, plus the Wine and Dine Festival at the Central Harbourfront, authorities are bracing for another hectic weekend at the port.\n\nChan said northbound traffic at the crossing is expected to peak between 11pm and 2am from October 30 to November 1.\n\nAll inspection counters and vehicle lanes will open during those times to facilitate the travel peak.\n\nChan said priority will be given to public transport, while private cars will be diverted to a holding area when necessary, with possible waiting times of more than one hour.\n\nHe also urged travellers not to patronise unauthorised ride-hailing services.\n\n\"We will take law enforcement action because this is no good for the passengers. There is a risk in case of accidents – the insurance will not cover the damage,\" he said, adding that three arrests were made in the past two days.\n\nSecretary for Transport and Logistics Mable Chan said cross-border coach operators would ramp up services this weekend, with frequencies of up to five minutes.\n\nSecretary for Security Chris Tang said an emergency monitoring and support centre will start operating at noon on Friday to coordinate between government departments.\n\nEric Chan once again appealed to travellers to consider staying overnight.\n\n\"Rather than being stuck in traffic, why not spend an extra hour at Lan Kwai Fong?\" he said.\n\nEdited by Raymond Yeung",
       "imageUrl": null,
       "publishedAt": "2026-10-28T12:14:05.000Z",
       "source": "RTHK English — Local",
@@ -929,17 +951,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875650-20261028.htm"
-    },
-    {
-      "id": "5cd8a6e823adb15a",
-      "title": "HK's exports surge nearly 65pc in September",
-      "excerpt": "Hong Kong’s exports and imports both rose for September, according to data released by the Census and Statistics Department on…",
-      "fullText": "Hong Kong’s exports and imports both rose for September, according to data released by the Census and Statistics Department on Wednesday, with the increase in exports marking the fastest monthly year-on-year growth in more than four decades.\n\nThe value of total exports of goods surged by 64.9 percent compared to a year earlier to HK$762.6 billion in September.\n\nIt followed a year-on-year increase of 53 percent in August.\n\nThe value of imports also went up by 57.8 percent over a year earlier to HK$808.9 billion last month.\n\nA trade deficit of HK$417.7 billion – equivalent to seven percent of the imports value – was recorded in the first nine months of the year.\n\nA government spokesman said AI-related electronic products continued to drive the city’s trade performance, and the growth in exports marked a double-digit growth for the 20th straight month.\n\nIt noted that exports to all major destinations have surged remarkably.\n\n“Looking ahead, Hong Kong's merchandise trade performance will continue to benefit from the prevailing wave of robust AI-related investment and the resilient global economic growth,” the statement read.\n\n“Nonetheless, external uncertainties warrant close monitoring, including the Middle East conflict, trade protectionist measures by major economies, and risks associated with the rapid expansion of global investment in AI.”\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T09:02:58.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875646-20261028.htm"
     },
     {
       "id": "eb71d648fbfa31bc",
@@ -1314,17 +1325,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_175334_867.html"
-    },
-    {
-      "id": "b10015d99de29ad9",
-      "title": "HK advances fintech growth",
-      "excerpt": "Secretary for Financial Services & the Treasury Christopher Hui today chaired the sixth meeting of the Coordination Group on the…",
-      "fullText": "Secretary for Financial Services & the Treasury Christopher Hui today chaired the sixth meeting of the Coordination Group on the Implementation of Fintech Initiatives.\n\nDuring the meeting, he exchanged views with representatives from financial regulators, the fintech sector and academia on the latest developments in fintech in Hong Kong.\n\nMr Hui said, drawing on the valuable views of the industry representatives, the Government and financial regulators will maintain a multi-pronged approach to facilitate fintech development, including enhancing financial infrastructure, further enriching the fintech ecosystem, nurturing fintech talent, as well as strengthening connections and collaboration beyond Hong Kong.\n\nDifferent aspects of fintech, including the proposed regulatory regimes for virtual asset dealing, custody, advisory and management service providers, were discussed.\n\nThe financial regulators provided updates on their progress in adopting artificial intelligence in the financial market.\n\nThe Monetary Authority briefed the meeting on the latest developments regarding Project Ensemble, the quantum preparedness of Hong Kong's banking sector, as well as the Commercial Data Interchange and Project CargoX.\n\nThe meeting also noted that Hong Kong FinTech Week 2026, themed “Fintech Nexus: Bridging the World, Building the Future”, will be held from November 2 to 6 in conjunction with the StartmeupHK Festival.\n\nThe 11th edition of this event will attract attendees from all over the world. The Financial Services & the Treasury Bureau and Invest Hong Kong will collaborate with industry stakeholders and showcase the vitality of Hong Kong's fintech ecosystem to the global market.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_180214_849/images/20261026191646880.jpg",
-      "publishedAt": "2026-10-25T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_180214_849.html"
     },
     {
       "id": "d615ec135ecaad16",
