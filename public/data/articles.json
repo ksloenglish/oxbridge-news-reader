@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T08:30:22.770Z",
-  "checkedAt": "2026-10-30T08:30:22.770Z",
+  "generatedAt": "2026-10-30T08:45:19.130Z",
+  "checkedAt": "2026-10-30T08:45:19.130Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -953,6 +953,17 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875650-20261028.htm"
     },
     {
+      "id": "5cd8a6e823adb15a",
+      "title": "HK's exports surge nearly 65pc in September",
+      "excerpt": "Hong Kong’s exports and imports both rose for September, according to data released by the Census and Statistics Department on…",
+      "fullText": "Hong Kong’s exports and imports both rose for September, according to data released by the Census and Statistics Department on Wednesday, with the increase in exports marking the fastest monthly year-on-year growth in more than four decades.\n\nThe value of total exports of goods surged by 64.9 percent compared to a year earlier to HK$762.6 billion in September.\n\nIt followed a year-on-year increase of 53 percent in August.\n\nThe value of imports also went up by 57.8 percent over a year earlier to HK$808.9 billion last month.\n\nA trade deficit of HK$417.7 billion – equivalent to seven percent of the imports value – was recorded in the first nine months of the year.\n\nA government spokesman said AI-related electronic products continued to drive the city’s trade performance, and the growth in exports marked a double-digit growth for the 20th straight month.\n\nIt noted that exports to all major destinations have surged remarkably.\n\n“Looking ahead, Hong Kong's merchandise trade performance will continue to benefit from the prevailing wave of robust AI-related investment and the resilient global economic growth,” the statement read.\n\n“Nonetheless, external uncertainties warrant close monitoring, including the Middle East conflict, trade protectionist measures by major economies, and risks associated with the rapid expansion of global investment in AI.”\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T09:02:58.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875646-20261028.htm"
+    },
+    {
       "id": "eb71d648fbfa31bc",
       "title": "Attacker killed outside Israeli embassy in Belgrade",
       "excerpt": "Israel's foreign ministry on Wednesday confirmed an \"attempted terrorist attack\" near its embassy in Belgrade, adding that no embassy personnel…",
@@ -973,6 +984,17 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875616-20261028.htm"
+    },
+    {
+      "id": "be0db33bd81c4919",
+      "title": "HK home prices rise for second straight month",
+      "excerpt": "Government data released on Wednesday showed private home prices rose for a second straight month in September, with the official…",
+      "fullText": "Government data released on Wednesday showed private home prices rose for a second straight month in September, with the official index climbing 0.19 percent month-on-month to 320.8.\n\nOn a year-on-year basis, home prices were up 9.3 percent, according to the figures from the Rating and Valuation Department.\n\nFor the first nine months of the year, prices accumulated a rise of more than seven percent.\n\nBy unit size, prices for small and medium-sized flats rose 0.16 percent from the previous month, and were up 9.3 percent year-on-year. Larger units saw a 0.8 percent monthly increase and a 9.5 percent annual gain.\n\nThe rental index hit another record high, extending the upward streak to 11 months.\n\nThe September reading stood at 212.2, up 0.47 percent from August and 6.2 percent higher than a year earlier. For the first nine months of the year, rents have climbed 5.8 percent.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-10-28T03:50:11.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875606-20261028.htm"
     },
     {
       "id": "bc6d6d5962a883f1",
@@ -1030,17 +1052,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875575-20261028.htm"
     },
     {
-      "id": "bf856cdd674ff502",
-      "title": "Wall Street ends higher on revived AI momentum",
-      "excerpt": "An AI-fueled tech rally sent US stocks to a higher close on Tuesday as third-quarter reporting season gained steam, while…",
-      "fullText": "An AI-fueled tech rally sent US stocks to a higher close on Tuesday as third-quarter reporting season gained steam, while the US Federal Reserve convened for its penultimate meeting of the year.\n\nThe tech-heavy Nasdaq led the gains.\n\nThe buzz surrounding details of Anthropic's impending initial public offering helped boost chip stocks for the third consecutive session.\n\nGrowing concerns over the viability of debt-funded spending amid rising borrowing costs have weighed on the AI trade this month.\n\nTo fund its AI expansion, Meta increased its largest-ever equity fundraising to US$97.5 billion, sending the Facebook parent's shares down 1.6 percent.\n\n\"(The Anthropic news) seems to be giving a little bit of a relief rally to the AI stocks, particularly the semis,\" said Chuck Carlson, CEO at Horizon Investment Services in Hammond, Indiana, referring to chip stocks. \"Those stocks have gotten clobbered in recent weeks and they were probably due for a bounce.\"\n\nEconomic data showed rising new orders for computers and peripheral equipment, supporting the notion of strong AI-related spending.\n\nNearly half of S&P 500 companies have reported third-quarter results. Of those, 83 percent have delivered better-than-expected results, according to the most recent available LSEG data.\n\nBoeing tumbled 10.7 percent following its bigger-than-expected third-quarter loss, while water-management company Xylem slid 14.2 percent after trimming full-year forecasts.\n\nUnited Parcel Service advanced 5.8 percent after the package delivery firm raised its annual revenue and profit forecasts.\n\nSherwin-Williams' quarterly profit miss sent the stock 2.7 percent lower, weighing on the Dow.\n\nRoyal Caribbean rose 5.5 percent after the cruise operator lifted its full-year profit forecast.\n\nMicrosoft and Alphabet results are expected on Wednesday, while Amazon.com is due to report on Thursday.\n\nThe Fed convened on Tuesday for its October monetary policy meeting, which is widely expected to culminate in a decision to keep the fed funds target rate on hold in the 3.75 to 4 percent range, saving its second rate hike of the year for its final meeting in December, according to CME's FedWatch tool.\n\n\"There seems to be more confidence that the Fed isn't going to do anything at this meeting, partly because we have an election on Tuesday,\" Carlson added. \"There's probably at least some relief that the rate situation is not going to get in the way of a rally.\"\n\nThe Dow Jones Industrial Average rose 15 points, or 0.03 percent, to 52,377, the S&P 500 gained 45 points, or 0.6 percent, to 7,722 and the Nasdaq Composite gained 308 points, or 1.2 percent, to 26,477. (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T22:25:08.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875563-20261028.htm"
-    },
-    {
       "id": "3405700f4ba699ae",
       "title": "CE mourns Liu Yandong",
       "excerpt": "Chief Executive John Lee today expressed profound sorrow over the passing of former Vice Premier Liu Yandong, extending heartfelt condolences…",
@@ -1083,17 +1094,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_173933_220.html"
-    },
-    {
-      "id": "f1b22c1f04fb09dc",
-      "title": "Boeing delays 737 production target to early 2027",
-      "excerpt": "Boeing CEO Kelly Ortberg said on Tuesday that the company will not reach its 737 production rate target of 47…",
-      "fullText": "Boeing CEO Kelly Ortberg said on Tuesday that the company will not reach its 737 production rate target of 47 jets a month until next year, a serious setback to the company's ongoing recovery.\n\nThe company had planned to reach the target this past summer, but it will take \"into early next year,\" Ortberg said during an interview on CNBC.\n\nIn September, he said that Boeing has not been able to make wings fast enough.\n\nDeliveries of the popular single-aisle jetliner are a major driver of Boeing's cash flow.\n\nShares of the US planemaker fell 2.5 percent in premarket trading even as Boeing continues to recover from years of crises and controversies that dented its reputation, drained cash and saddled it with a heavy debt load.\n\nDuring the quarter, Boeing secured certification for the 737 MAX 7 from US regulators, won the US Navy's sixth-generation F/A-XX fighter contract and generated free cash flow for another quarter, while certification of the larger MAX 10 followed in October.\n\n\"Expectations are rising, and they should. We have a stronger foundation than a year ago, but we also have more work to do to deliver on our backlog, strengthen our culture, and improve how we work every day,\" Ortberg said in a memo to employees after the results.\n\nBoeing reported an adjusted loss of 34 cents per share for the quarter through September, compared with market expectation of 21 cents, according to data compiled by LSEG.\n\nRevenue at Boeing Commercial Airplanes dipped slightly to US$10.7 billion, while operating loss stood at US$697 million and margin shrank by just 6.5 percent compared with a contraction of 48.3 percent a year ago.\n\nThe company attributed the performance to less profitable jetliner deliveries and higher production costs, including from its supply chain.\n\nAt Boeing's defense division, higher deliveries, improved operational performance and a US$252-million sale of a subsidiary contributed to nearly US$500 million in quarterly earnings with an operating margin of 6.2 percent, up from 1.7 percent a year ago.\n\nBoeing Global Services earned US$1 billion and posted an operating margin of 18.3 percent.\n\nThe US planemaker ended the quarter with US$25.2 billion in net debt, down slightly from US$25.9 billion in the previous three months and US$30.4 billion a year ago. (Reuters)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T14:24:57.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875551-20261027.htm"
     },
     {
       "id": "a5398d693fa11a69",
