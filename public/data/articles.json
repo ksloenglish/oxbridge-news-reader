@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T02:45:24.550Z",
-  "checkedAt": "2026-10-30T03:00:34.374Z",
+  "generatedAt": "2026-10-30T03:15:18.009Z",
+  "checkedAt": "2026-10-30T03:15:18.009Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 17
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 11
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "2469ae32e8b3c35e",
+      "title": "HK stocks up amid fears over returns from AI build-out",
+      "excerpt": "Tech shares slumped in Asia on Friday, the yen rose and bonds surged towards their biggest monthly gain in nearly…",
+      "fullText": "Tech shares slumped in Asia on Friday, the yen rose and bonds surged towards their biggest monthly gain in nearly three years as investors scurried to safety against worries that huge and rising AI spending may not deliver sufficient returns.\n\nIn Hong Kong, the benchmark Hang Seng Index opened up 52 points, or 0.23 percent, at 23,011.\n\nThe China enterprises index rose 23 points, or 0.31 percent, to 7,779 while the tech index fell 23 points, or 0.63 percent, to 3,720.\n\nUp north, the benchmark Shanghai Composite Index opened down 45 points, or 1.25 percent, at 3,605.\n\nThe blue-chip CSI300 headed for its largest monthly fall in a decade, after nearly four months of AI stocks tanking on fears that a slowdown in demand for chips and other data centre equipment could crush revenues.\n\nThe Shenzhen Component Index fell 267 points, or 2.4 percent, to 10,871 while the ChiNext Index plunged 3.29 percent to 2,434.\n\nIn Tokyo, the Nikkei opened 315 points, or 0.49 percent, down at 64,344 and was 1,742 points lower at one stage before noon as the tech-heavy 225 benchmark tracked overnight losses on Wall Street and was given additional impetus by late earnings from Amazon.com and Intel that showed massive cash burns.\n\nIn Seoul, the Kospi dived 177 points, or 2.99 percent, to open at 5,760 before continuing its downward spiral to be 313 points down at one stage before noon, triggering at one point a sidecar trading curb and halting algorithmic trading for five minutes.\n\nThe weakness in Asian markets came as shares in Google parent Alphabet fell 12.6 percent on Wall Street and slid a little further after hours, to wipe out a withering US$500 billion in market value, as massive AI spending turned the company's cash flow negative.\n\nAn aftermarket plunge of 23 percent in Intel shares and a drop of seven percent in Amazon stocks, as they too burn through cash, drove Nasdaq 100 futures down 1.4 percent and sent stocks of chipmakers around Asia into a tailspin.\n\n\"The market isn't necessarily questioning whether the AI buildout can be financed,\" said Pepperstone analyst Chris Weston.\n\n\"It's increasingly questioning whether shareholders will earn an adequate return on the enormous capital being deployed.\"\n\nNerves were also frayed by a potentially record-breaking hack at Binance, the world's biggest cryptocurrency exchange, which drove down bitcoin, other cryptocurrency prices and stocks including rival exchange Coinbase.\n\nInvestors' rush into bonds was further spurred further by the Federal Reserve's Wednesday decision to keep US interest rates on hold, with no firm projection of when it might need to hike next.\n\nBenchmark 10-year US Treasury yields fell by more than seven basis points in Tokyo trade on Friday to 4.91 percent for a fall of some 37 bps through October – the largest one-month drop since December 2023.\n\nThe risk-averse mood strengthened haven currencies such as the yen, pushing the currency up about 0.2 percent to 157.47 per US dollar. (Reuters/Xinhua)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T03:03:26.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875919-20261030.htm"
+    },
     {
       "id": "f31a7e2276b22691",
       "title": "Netanyahu ahead after elections but short of majority",
@@ -141,8 +152,8 @@
     {
       "id": "1b8c0c46b1355aed",
       "title": "Assets frozen after possible Binance hack",
-      "excerpt": "Binance, the world's largest cryptocurrency exchange, said on Thursday it had frozen US$3 billion in crypto assets as it investigated…",
-      "fullText": "Binance, the world's largest cryptocurrency exchange, said on Thursday it had frozen US$3 billion in crypto assets as it investigated a potential security breach, with stablecoin issuers Circle and Tether freezing related assets.\n\n\"Binance will cover all hacking losses,\" Binance co-founder Yi He said, without providing more details about the incident.\n\nThe market impact of the possible hacking, which could be the largest-ever crypto heist according to analytics firm Chainalysis, was felt immediately in early Asian trading on Friday.\n\nBitcoin dropped about 2 percent to a six-week low of US$77,646 and ether fell around 2 percent to a two-month low of US$2,238.76. BNB, a token originally launched as Binance Coin that can be used to pay Binance fees, was down more than 8 percent over the past 24 hours at US$694, according to market aggregator CoinGecko.\n\nCrypto exchange Coinbase Global slid 4.8 percent while those of bitcoin buyer Strategy fell nearly 6 percent in extended US trading.\n\nBinance said the amount frozen could increase as it worked with law enforcement agencies, token issuers, blockchain intelligence firms and other industry partners to trace and freeze additional assets.\n\nBinance co-founder Changpeng Zhao, who no longer runs the company, said in a post on X that the incident \"looked like a hack.\"\n\nBinance, which allows users to buy, sell and trade digital assets, has more than 335 million registered users globally and had about US$160 billion in assets under custody as of the exchange's 2024 annual report.\n\nBinance runs a secure asset fund for users, according to its website, which is a reserve held entirely in bitcoin that is intended to protect user assets in cases of security breaches.\n\n\"It's becoming very hard to counter hacks as AI can find vulnerabilities faster than you can fix them, said Bernardo Brites, CEO of Trace Finance, a payments and stablecoin infrastructure company.\n\n\"My view is that users will move away from smaller and medium-sized exchanges, (it is) becoming too risky to park your money somewhere that couldn't cover a hack of meaningful size.\"\n\nTether said it had frozen nearly US$1.57 billion in assets linked to the incident, while Circle froze more than US$800 million.\n\nBinance said it was conducting security checks and would resume withdrawals once the issue was fully resolved. It added user funds remained safe and that teams were reviewing the incident.\n\nThe exchange also temporarily suspended trading on its Binance Alpha platform as a precaution.\n\nWorld Liberty Financial, a crypto company linked to US President Donald Trump and his family, said on Thursday it had worked with cryptocurrency custodian BitGo to freeze funds stolen in what it described as a Binance hack.\n\nBinance's Yi said US$27 million in stablecoins and about US$2 million worth of World Liberty tokens had been frozen.\n\nCrypto firm Ripple also froze roughly US$200 million in funds, Yi said. Jack McDonald, senior vice president of stablecoins at Ripple, said the company was closely monitoring reports of a potential exploit involving Binance and was freezing affected funds and coordinating with relevant parties.\n\nMiguel Morel, CEO of blockchain intelligence firm Arkham, said data indicated that billions of dollars appeared to have been hacked from Binance by an unknown actor, though the exact cause had not been confirmed. Morel said the incident began around 4.30 pm EDT and appeared to be ongoing.\n\nThe incident adds to a string of crypto thefts. Last year, attackers stole US$2.9 billion worth of cryptocurrency across nearly 150 attacks, according to researchers at TRM Labs.\n\nIn September, cryptocurrency exchange Bitget said roughly US$350 million in crypto had been stolen from its platform, underscoring the industry's vulnerability to hackers. (Reuters)\n_____________________________\nLast updated: 2026-10-30 HKT 09:55\n\nEdited by Cecil Wong",
+      "excerpt": "Binance, the world's largest cryptocurrency exchange, on Thursday said it had frozen US$3 billion in crypto assets as it investigated…",
+      "fullText": "Binance, the world's largest cryptocurrency exchange, on Thursday said it had frozen US$3 billion in crypto assets as it investigated a potential security breach, with stablecoin issuers Circle and Tether freezing related assets.\n\n\"Binance will cover all hacking losses,\" Binance co-founder Yi He said, without providing more details about the incident.\n\nThe market impact of the possible hacking, which could be the largest-ever crypto heist according to analytics firm Chainalysis, was felt immediately in early Asian trading on Friday.\n\nBitcoin dropped about two percent to a six-week low of US$77,646 and ether fell around two percent to a two-month low of US$2,238.76.\n\nBNB, a token originally launched as Binance Coin that can be used to pay Binance fees, was down more than eight percent over the past 24 hours at US$694, according to market aggregator CoinGecko.\n\nCrypto exchange Coinbase Global slid 4.8 percent while those of bitcoin buyer Strategy fell nearly six percent in extended US trading.\n\nBinance said the amount frozen could increase as it worked with law enforcement agencies, token issuers, blockchain intelligence firms and other industry partners to trace and freeze additional assets.\n\nBinance co-founder Changpeng Zhao, who no longer runs the company, said in a post on X that the incident \"looked like a hack.\"\n\nBinance, which allows users to buy, sell and trade digital assets, has more than 335 million registered users globally and had about US$160 billion in assets under custody as of the exchange's 2024 annual report.\n\nBinance runs a secure asset fund for users, according to its website, which is a reserve held entirely in bitcoin that is intended to protect user assets in cases of security breaches.\n\n\"It's becoming very hard to counter hacks as AI can find vulnerabilities faster than you can fix them, said Bernardo Brites, CEO of Trace Finance, a payments and stablecoin infrastructure company.\n\n\"My view is that users will move away from smaller and medium-sized exchanges, (it is) becoming too risky to park your money somewhere that couldn't cover a hack of meaningful size.\"\n\nTether said it had frozen nearly US$1.57 billion in assets linked to the incident, while Circle froze more than US$800 million.\n\nBinance said it was conducting security checks and would resume withdrawals once the issue was fully resolved.\n\nIt added user funds remained safe and that teams were reviewing the incident.\n\nThe exchange also temporarily suspended trading on its Binance Alpha platform as a precaution.\n\nWorld Liberty Financial, a crypto company linked to US President Donald Trump and his family, said on Thursday it had worked with cryptocurrency custodian BitGo to freeze funds stolen in what it described as a Binance hack.\n\nBinance's Yi said US$27 million in stablecoins and about US$2 million worth of World Liberty tokens had been frozen.\n\nCrypto firm Ripple also froze roughly US$200 million in funds, Yi said.\n\nJack McDonald, senior vice president of stablecoins at Ripple, said the company was closely monitoring reports of a potential exploit involving Binance and was freezing affected funds and coordinating with relevant parties.\n\nMiguel Morel, CEO of blockchain intelligence firm Arkham, said data indicated that billions of dollars appeared to have been hacked from Binance by an unknown actor, though the exact cause had not been confirmed.\n\nMorel said the incident began around 4.30 pm EDT and appeared to be ongoing.\n\nThe incident adds to a string of crypto thefts.\n\nLast year, attackers stole US$2.9 billion worth of cryptocurrency across nearly 150 attacks, according to researchers at TRM Labs.\n\nIn September, cryptocurrency exchange Bitget said roughly US$350 million in crypto had been stolen from its platform, underscoring the industry's vulnerability to hackers. (Reuters)\n_____________________________\nLast updated: 2026-10-30 HKT 09:55\n\nEdited by Cecil Wong",
       "imageUrl": null,
       "publishedAt": "2026-10-30T00:07:42.000Z",
       "source": "RTHK English — Finance",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260919/20260919_161358_599.html"
-    },
-    {
-      "id": "4935a4def0ff3a58",
-      "title": "Jobless rate rises to 3.8%",
-      "excerpt": "The seasonally adjusted unemployment rate increased from 3.7% in the May to July period to 3.8% in three months from…",
-      "fullText": "The seasonally adjusted unemployment rate increased from 3.7% in the May to July period to 3.8% in three months from June to August, the Census & Statistics Department announced today.\n\nThe underemployment rate also rose from 1.7% to 1.9% during the same period.\n\nThe number of unemployed persons (not seasonally adjusted) increased by around 8,200 to 153,900 in the June to August period, while the labour force rose by around 12,600 to 3,805,900.\n\nLooking ahead, Secretary for Labour & Welfare Chris Sun said the continued expansion of the local economy is expected to underpin overall labour market conditions, though employment situations across various industries will continue to hinge on their respective business conditions.\n\nHe added that the potential impacts of evolving external uncertainties on corporate hiring sentiments still warrant attention.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_165139_765/images/20260917172737037.jpg",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_165139_765.html"
     }
   ]
 }
