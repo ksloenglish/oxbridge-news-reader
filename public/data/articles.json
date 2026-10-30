@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T08:45:19.130Z",
-  "checkedAt": "2026-10-30T09:03:32.793Z",
+  "generatedAt": "2026-10-30T09:15:18.538Z",
+  "checkedAt": "2026-10-30T09:15:18.538Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "a7df3c04c3d8aeee",
+      "title": "HK bucks trend as tech jitters rattle regional markets",
+      "excerpt": "Blue-chip shares on the mainland closed lower on Friday and booked their steepest monthly loss since early 2016, as a…",
+      "fullText": "Blue-chip shares on the mainland closed lower on Friday and booked their steepest monthly loss since early 2016, as a global selloff in AI stocks weighed on sentiment.\n\nIn Hong Kong, however, the benchmark Hang Seng Index ended 335 points, or 1.5 percent, higher for the day at 23,294 on turnover of HK$214.32 billion and was 0.9 percent up for the week.\n\nThe tech index rose 10 points, or 0.3 percent, to 3,754, although the gauge still hovered near its lowest in two years.\n\n\"At valuations of 10-11 times price-to-earnings after accounting for new AI investment, we think some stocks are increasingly treating the spending peak as a permanent earnings burden, while assigning limited value to a normalisation of future cash flows or successful AI monetisation,\" said Kenneth Fong, head of China internet research at UBS.\n\nFinancials led gains, up 1.3 percent, while mainland property developers rose 2.8 percent.\n\nThe China enterprises index put on 106 points, or 1.4 percent, to end at 7,862.\n\nAcross the border, the Shanghai Composite Index lost 52 points, or 1.44 percent, to close at 3,599 on turnover of 764.22 billion yuan while the blue-chip CSI300 Index fell 1.4 percent to close near a one-year low.\n\nThe CSI300 Index was down 8.5 percent for the month, its biggest monthly loss in more than a decade.\n\nOver the last 12 weeks, it has lost 15 percent, the longest losing streak on record.\n\nThe Shenzhen Component Index fell 304 points, or 2.73 percent, to 10,833 on turnover of 910.23 billion yuan while the ChiNext Index plunged 103 points, or 4.13 percent, to 2,413 on turnover of 452.21 billion yuan.\n\nAI-related shares led declines after a selloff in US technology stocks reignited concerns about the returns on heavy AI spending.\n\nShares in Google parent Alphabet, Amazon.com and Intel all fell on AI cash burn.\n\nMemory chip giant SK Hynix fell more than seven percent.\n\nCSI 5G communications, a gauge that measures the industry, slumped 6.2 percent.\n\nShares of Chinese optical module producer Eoptolink Tech tumbled 14 percent and were down 50 percent this month.\n\nAgainst broad declines, consumer staple shares rose two percent as investors rotated into less risky sectors.\n\nIn Tokyo, the Nikkei fell 1,369 points, or 2.12 percent, to close at 63,290 for the day, led lower by chip-equipment heavyweights Advantest and Tokyo Electron.\n\nFor the week, the benchmark managed to gain one percent.\n\nThe broader Topix was down a milder one percent on Friday but flat for the week.\n\nIn Seoul, the Kospi closed down 206 points, or 3.48 percent, at 5,730 for the day and 16.2 percent for the month, after diving up to 5.7 percent earlier and triggering a sidecar trading curb. (Reuters/Xinhua)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T09:06:30.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875967-20261030.htm"
+    },
     {
       "id": "61971cdbb0b00a67",
       "title": "'Huanggang port ready for increased traffic flows'",
@@ -423,6 +434,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_120335_653.html"
+    },
+    {
+      "id": "b2a4582e5cef3de7",
+      "title": "APEC card visa-free stay extended",
+      "excerpt": "The Immigration Department (ImmD) today announced that the visa-free period of stay in Hong Kong for APEC Business Travel Card…",
+      "fullText": "The Immigration Department (ImmD) today announced that the visa-free period of stay in Hong Kong for APEC Business Travel Card (ABTC) holders will be extended from 60 days to 90 days starting November 1.\n\nTo enjoy the visa-free stay, cardholders must have obtained pre-clearance from the Hong Kong Special Administrative Region.\n\nThe ImmD noted that the APEC Business Mobility Group recently announced that five participating economies of the ABTC Scheme – the People’s Republic of China; Hong Kong, China; Indonesia; the Philippines; and Singapore – will extend the maximum stay for visiting ABTC holders to 90 days to enhance the card's effectiveness.\n\nWhile each of the five economies will determine its own implementation timeline, the Mainland will roll out the new arrangement on November 1. The Hong Kong SAR is implementing the extension concurrently to align with the Mainland’s timeline.\n\nCurrently, 19 economies participate in the scheme: Australia; Brunei Darussalam; Chile; the People’s Republic of China; Hong Kong, China; Indonesia; Japan; the Republic of Korea; Malaysia; Mexico; New Zealand; Papua New Guinea; Peru; the Philippines; Russia; Singapore; Chinese Taipei; Thailand; and Vietnam.\n\nABTC holders who have obtained pre-clearance from these participating economies are entitled to a visa-free stay of no less than 60 days.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_152807_234/images/20261030162529509.jpg",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_152807_234.html"
     },
     {
       "id": "51f93cfa9f299d66",
@@ -1030,17 +1052,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875576-20261028.htm"
     },
     {
-      "id": "2eb48b5e1f2848ac",
-      "title": "US consumer confidence up in October on fuel cost lull",
-      "excerpt": "US consumer confidence improved in October, driven primarily by a lull in fuel price increases, according to a key indicator…",
-      "fullText": "US consumer confidence improved in October, driven primarily by a lull in fuel price increases, according to a key indicator published on Tuesday, a week before crucial midterm elections that will decide control of Congress.\n\nThe Conference Board's Consumer Confidence Index rose by 7.5 points to 91.7 in October, the organisation said in a statement. The data defied analyst expectations of a drop in confidence.\n\n\"The recovery was in line with retail gasoline prices easing from September to October,\" said Fergus McCormick, senior economist at the Conference Board.\n\n\"Yet, despite the increase in October, consumer confidence remained on the long-term downward trend that's persisted over the past few years.\"\n\nThe rising cost of living is a core voter concern going into the November 3 elections, in which the Democratic Party is seeking to wrest control of Congress from US President Donald Trump's Republicans.\n\nTrump's war on Iran has driven up global energy prices, exacerbating already high inflation in the United States as the price for regular petrol has increased by more than 40 percent since the start of the conflict.\n\nTrump welcomed the October consumer confidence data in a post on social media, calling it \"an extremely big rise.\" (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T23:21:19.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875555-20261028.htm"
-    },
-    {
       "id": "399cecedf27d86e5",
       "title": "Arsenal stunned in League Cup by fourth-tier Fleetwood",
       "excerpt": "Arsenal suffered one of the most humiliating defeats in their history as the Premier League champions were stunned by fourth-tier…",
@@ -1314,17 +1325,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875296-20261026.htm"
-    },
-    {
-      "id": "6c7fa58303e84f2c",
-      "title": "CE praises HK athletes",
-      "excerpt": "A commendation ceremony for the Hong Kong, China Delegation to the 20th Asian Games was held today at the Kowloon…",
-      "fullText": "A commendation ceremony for the Hong Kong, China Delegation to the 20th Asian Games was held today at the Kowloon Park Sports Centre.\n\nChief Executive John Lee officiated at the ceremony, which was jointly organised by the Hong Kong Special Administrative Region Government and the Sports Federation & Olympic Committee of Hong Kong, China (SF&OC). He presented certificates of commendation to the medallists to honour their exceptional achievements.\n\nSpeaking at the event, Mr Lee praised the athletes, noting that their outstanding performances exemplified the hard work and dedication of countless individuals. He expressed gratitude to the Hong Kong Sports Institute (HKSI), the SF&OC, national sports associations, coaches and medical teams for their dedicated guidance and comprehensive support, which provided staunch backing for the athletes.\n\nMr Lee highlighted that the Hong Kong SAR Government attaches great importance to sports development. Hong Kong’s First Five-Year Plan, announced last month, clearly outlines directions for advancing elite sports, maintaining Hong Kong's status as a centre for major international sports events, enhancing professionalism, and developing sports as an industry, including upgrading athletes’ overall standards through the HKSI’s elite training system.\n\nIn the latest Policy Address, Mr Lee proposed supporting the HKSI in launching a new three-year Sports Executive Training Programme. The initiative aims to broaden career pathways for retired athletes and nurture professional management talent for the sports sector.\n\nThe Hong Kong, China delegation, comprising around 580 athletes, competed in 38 events and secured a record-breaking 54 medals , including 11 gold, 19 silver and 24 bronze. Both the gold medal count and the overall medal tally marked the delegation’s most successful performance in Asian Games history.\n\nOther guests included Deputy Director of the Liaison Office of the Central People’s Government in the Hong Kong SAR Sun Shangwu; President of the SF&OC of Hong Kong, China, Timothy Fok; Chef de Mission of the Hong Kong, China Delegation to the 20th Asian Games Wong Po-kee; Chief Secretary Chan Kwok-ki; Secretary for Culture, Sports & Tourism Rosanna Law; Permanent Secretary for Culture, Sports & Tourism Vivian Sum; Under Secretary for Culture, Sports & Tourism Raistlin Lau; Commissioner for Sports Polly Chong; and Director of Leisure & Cultural Services Manda Chan.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_175334_867/images/20261026200325640.jpg",
-      "publishedAt": "2026-10-25T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_175334_867.html"
     },
     {
       "id": "d615ec135ecaad16",
