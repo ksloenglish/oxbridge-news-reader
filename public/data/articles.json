@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T10:00:30.846Z",
-  "checkedAt": "2026-10-30T10:15:17.219Z",
+  "generatedAt": "2026-10-30T10:30:23.502Z",
+  "checkedAt": "2026-10-30T10:30:23.502Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "ecfa9040387142a8",
+      "title": "Eight applicants in the race for ride-hailing licences",
+      "excerpt": "The Transport Department said eight applications had been lodged for ride-hailing service licences by the deadline at noon on Friday…",
+      "fullText": "The Transport Department said eight applications had been lodged for ride-hailing service licences by the deadline at noon on Friday.\n\nThe department said the number of applications reflected a positive response from the sector.\n\nRepresentatives from the Transport and Logistics Bureau, the Digital Policy Office and the Transport Department will assess the applications and make recommendations to the transport commissioner, with the aim of announcing the qualified platforms before the year ends.\n\n“We will carefully assess each application to ensure that licensed platforms have the necessary operational and financial capabilities to provide safe, reliable and efficient ride-hailing services sustainably,” a spokesman said.\n\nThe department, he added, will unveil details for vehicle-driving as well as vehicle permits in due course.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-10-30T10:18:27.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1875977-20261030.htm"
+    },
     {
       "id": "a546006873568077",
       "title": "Race to make bid-rigging criminal offence by April",
@@ -467,6 +478,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_152807_234.html"
+    },
+    {
+      "id": "fff4c6b2afb912e5",
+      "title": "HK to host Vinexpo Asia for 5 years",
+      "excerpt": "The Hong Kong Tourism Board and Vinexposium, a leading global organiser of wine and spirits trade events, have signed a…",
+      "fullText": "The Hong Kong Tourism Board and Vinexposium, a leading global organiser of wine and spirits trade events, have signed a memorandum of understanding to establish a five-year strategic partnership.\n\nUnder the agreement, Hong Kong will secure exclusive hosting rights for Vinexpo Asia for five consecutive years starting next year. The first annual event under this partnership is scheduled to take place at the Convention & Exhibition Centre, from June 8 to 10 next year.\n\nThe signing ceremony was witnessed by Secretary for Culture, Sports & Tourism Rosanna Law and Tourism Board Chairman Peter Lam.\n\nMr Lam thanked Vinexposium, describing the decision as a powerful endorsement of Hong Kong’s unique advantages as an international trade centre.\n\n“More importantly, it demonstrates the confidence that global business and event organisers continue to place in Hong Kong. Under this new partnership, we also take Vinexpo Asia beyond the exhibition halls and make it a city-wide event,” he said.\n\nVinexposium Overseas Events Director Deborah Sanchez noted that Hong Kong has always held a special place in Vinexpo Asia's global strategy.\n\n“Over nearly three decades here, we have built trusted relationships, strong networks, and an unwavering commitment to this market. And today, what our industry needs is stability, clarity and long-term visibility,” she said.\n\n“By establishing Vinexpo Asia here as an annual permanent gathering, we are giving our exhibitors and our international buyers a clear, reliable anchor to plan ahead, invest and grow together. One city, one annual meeting point, one powerful platform connecting the world of wine and spirits across Asia,” she added.\n\n“And now, building on three decades of trust, we are now taking this commitment even further.”",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_150255_290/images/20261030175646128.jpg",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_150255_290.html"
     },
     {
       "id": "51f93cfa9f299d66",
@@ -909,17 +931,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875685-20261028.htm"
     },
     {
-      "id": "40d195087d68ef6d",
-      "title": "Evening News on TV32 - Oct 28",
-      "excerpt": "Top stories for Wednesday, Oct 28, 2026 - Sources say the government is about to release the findings of the…",
-      "fullText": "Top stories for Wednesday, Oct 28, 2026\n\n- Sources say the government is about to release the findings of the Wang Fuk Court inquiry.\n\n- Officials warn Huanggang port will be very busy over the weekend.\n\n- Dozens are killed in a high-speed train collision in Spain.",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T12:33:06.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875678-20261028.htm"
-    },
-    {
       "id": "624801b23bf0b207",
       "title": "Priority given to buses at Huanggang this weekend",
       "excerpt": "The government warned that private cars crossing into Shenzhen via the Huanggang checkpoint during peak hours this weekend could face…",
@@ -1336,17 +1347,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875296-20261026.htm"
-    },
-    {
-      "id": "d615ec135ecaad16",
-      "title": "Belt-Road green conference held",
-      "excerpt": "The Belt & Road Green Innovation Conference 2026 was held in Hong Kong today, marking the first time the city…",
-      "fullText": "The Belt & Road Green Innovation Conference 2026 was held in Hong Kong today, marking the first time the city has hosted the prestigious event.\n\nUnder the theme \"Partnering with the Global South on Green Transition, Advancing Sustainable Development Worldwide\", the conference underscored Hong Kong’s unique position and pivotal role in driving global green development.\n\nSpeaking at the opening ceremony, Chief Executive John Lee emphasised that green transformation requires visionary planning to navigate challenges and capture emerging opportunities.\n\nWith a vision to achieve carbon neutrality before 2050, Mr Lee stated that Hong Kong is closely aligned with the country's \"dual carbon\" goals. He noted that Hong Kong is well-positioned to provide Belt & Road partners with world-class professional services, including financing, project management and risk management for green infrastructure and sustainable development projects.\n\nHe added that Hong Kong will actively participate in the Belt & Road Conference on Science & Technology Exchange, the Ministerial Meeting on Science, Technology & Innovation, and the implementation of the Belt & Road Science, Technology & Innovation Co-operation Action Plan.\n\nThe conference was jointly organised by the Ministry of Ecology & Environment and the Environment & Ecology Bureau of the Hong Kong SAR Government.\n\nThe event gathered over 400 political and business leaders, international organisation representatives, experts and scholars from 17 Belt & Road countries and around 40 Mainland provinces and cities. Participants engaged in in-depth exchanges on green finance, green innovation and digital empowerment.\n\nMinister of Ecology & Environment Huang Runqiu also addressed the opening ceremony.\n\nDuring a morning session, Secretary for Environment & Ecology Tse Chin-wan delivered a keynote speech, highlighting that, in the face of severe climate change challenges, Hong Kong will leverage green innovation as an engine to transform technology, capital, talent and professional services into practical and low-carbon solutions.\n\nMr Tse added that Hong Kong will work hand in hand with Belt & Road partners to address climate challenges and promote sustainable development.\n\nIn the afternoon, Mr Tse held bilateral meetings with delegations from Myanmar, the Maldives and Bangladesh respectively. They exchanged views on combating climate change, environmental protection and strengthening inter-city co-operation.\n\nSeparately, Hong Kong's annual flagship environmental event, the 21st Eco Expo Asia , also opened today at AsiaWorld-Expo. Running from October 26 to 29, the event will open to the public for free on its final day.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_183417_832/images/20261026211650115.jpg",
-      "publishedAt": "2026-10-25T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261026/20261026_183417_832.html"
     },
     {
       "id": "ecc0d4018f7050e4",
