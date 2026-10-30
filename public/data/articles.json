@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T08:15:17.061Z",
-  "checkedAt": "2026-10-30T08:15:17.061Z",
+  "generatedAt": "2026-10-30T08:30:22.770Z",
+  "checkedAt": "2026-10-30T08:30:22.770Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 14
     },
     {
       "id": "rfa-english",
@@ -96,9 +96,9 @@
   "articles": [
     {
       "id": "61971cdbb0b00a67",
-      "title": "'Huanggang Port ready for increased traffic flows'",
+      "title": "'Huanggang port ready for increased traffic flows'",
       "excerpt": "The Transport Department has warned that traffic around the Huanggang control point and San Tin Road will be very heavy…",
-      "fullText": "The Transport Department has warned that traffic around the Huanggang control point and San Tin Road will be very heavy on Friday night and over the next two nights, as Halloween celebrations and other events in Hong Kong and Kowloon are expected to end around midnight.\n\nIn a post on its social media page, the department said the Huanggang checkpoint provides dedicated public transport lanes, allowing franchised buses, cross-boundary coaches and green minibuses to travel via San Sham Road directly to the port.\n\nIt said road markings have been strengthened and the dedicated lanes extended to improve effectiveness.\n\nDuring peak traffic periods, four franchised bus routes heading to the Huanggang Port via the San Tin Public Transport Interchange will enter the interchange directly from a junction of the San Tin section of Castle Peak Road helping to divert traffic away from the busy San Tin roundabout.\n\nThe department said it has instructed public transport operators to reserve sufficient vehicles and manpower, and to increase service frequency according to passenger flow.\n\nIts Emergency Transport Co-ordination Centre will monitor traffic conditions around the clock and take appropriate measures as needed, it said.\n\nEdited by Tony Sabine",
+      "fullText": "The Transport Department has warned that traffic around the Huanggang control point and San Tin Road will be very heavy on Friday night and over the next two nights, as Halloween celebrations and other events in Hong Kong and Kowloon are expected to end around midnight.\n\nIn a post on its social media page, the department said the Huanggang checkpoint provides dedicated public transport lanes, allowing franchised buses, cross-boundary coaches and green minibuses to travel via San Sham Road directly to the port.\n\nIt said road markings have been strengthened and the dedicated lanes extended to improve effectiveness.\n\nDuring peak traffic periods, four franchised bus routes heading to the Huanggang port via the San Tin Public Transport Interchange will enter the interchange directly from a junction of the San Tin section of Castle Peak Road helping to divert traffic away from the busy San Tin roundabout.\n\nThe department said it has instructed public transport operators to reserve sufficient vehicles and manpower, and to increase service frequency according to passenger flow.\n\nIts Emergency Transport Co-ordination Centre will monitor traffic conditions around the clock and take appropriate measures as needed, it said.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-10-30T08:01:06.000Z",
       "source": "RTHK English — Local",
@@ -1448,17 +1448,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875185-20261024.htm"
     },
     {
-      "id": "3bc94ce15050cd83",
-      "title": "Cross-border yacht scheme to shore up tourist spending",
-      "excerpt": "Secretary for Transport and Logistics Mable Chan on Saturday said a newly launched scheme that eases cross-border yacht visits would…",
-      "fullText": "Secretary for Transport and Logistics Mable Chan on Saturday said a newly launched scheme that eases cross-border yacht visits would usher in a new wave of tourist consumption.\n\nSpeaking on an RTHK radio programme, she said the first batch of five mainland vessels that entered the city last Friday through the southbound yacht scheme stayed for three to four days.\n\nSome of them reserved hotels in advance of their overnight stays.\n\nThose who docked at Lantau Yacht Club could use their craft as accommodation, Chan said, but they would still go on shore to spend.\n\n“Some of them visited Stanley, some even headed to Central,” she said.\n\n“Apart from sightseeing at sea, they would also go on shore to shop and head to theme parks.”\n\nYacht owners and masters have to register an account with the SAR’s Marine Department as part of the procedure for them to travel here, with Chan saying 32 accounts have already been set up so far.\n\nShe also said that, ahead of the end of the application period for platform companies to apply for ride-hailing service licences on October 30, the government is considering allowing applicants who are, for instance, particularly able to meet Hong Kong's needs, to have a higher chance of securing a permit.\n\nA lottery will be carried out if the number of applications exceeds the 10,000-permit cap.\n\n“I think that some of the main considerations include whether they are able to provide transport capacity or if they are really committed – this is very important,\" Chan said.\n\n\"We will also take into consideration how long they have owned the vehicles.”\n\nSince a new combined written test for taxis and ride-hailing vehicles was launched in early August as part of the new regulatory framework for ride-hailing services, Chan said around 16,000 people have registered for the exam so far.\n\nThe government was, she stressed, pleased to see the enthusiastic response to the test, which has seen a passing rate of more than 60 percent.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T04:18:16.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875169-20261024.htm"
-    },
-    {
       "id": "726fbb1507f69cf2",
       "title": "Live K-pop show makes South Korea more real to former North Korean arts troupe singer",
       "excerpt": "“I really am in the South now,” said Cho Mi-young - at her first K-pop show - 22 years after…",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260919/20260919_161358_599.html"
+    },
+    {
+      "id": "4935a4def0ff3a58",
+      "title": "Jobless rate rises to 3.8%",
+      "excerpt": "The seasonally adjusted unemployment rate increased from 3.7% in the May to July period to 3.8% in three months from…",
+      "fullText": "The seasonally adjusted unemployment rate increased from 3.7% in the May to July period to 3.8% in three months from June to August, the Census & Statistics Department announced today.\n\nThe underemployment rate also rose from 1.7% to 1.9% during the same period.\n\nThe number of unemployed persons (not seasonally adjusted) increased by around 8,200 to 153,900 in the June to August period, while the labour force rose by around 12,600 to 3,805,900.\n\nLooking ahead, Secretary for Labour & Welfare Chris Sun said the continued expansion of the local economy is expected to underpin overall labour market conditions, though employment situations across various industries will continue to hinge on their respective business conditions.\n\nHe added that the potential impacts of evolving external uncertainties on corporate hiring sentiments still warrant attention.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_165139_765/images/20260917172737037.jpg",
+      "publishedAt": "2026-09-16T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_165139_765.html"
     }
   ]
 }
