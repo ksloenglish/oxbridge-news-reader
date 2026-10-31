@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T09:15:17.258Z",
-  "checkedAt": "2026-10-31T09:30:21.175Z",
+  "generatedAt": "2026-10-31T09:45:17.773Z",
+  "checkedAt": "2026-10-31T09:45:17.773Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "8e08e69a8d0cc7c6",
+      "title": "58 arrested in triad crackdown as youth crimes spike",
+      "excerpt": "Police on Saturday arrested 58 people in a city-wide, anti-triad operation, disrupting gang networks exploiting the youth. The suspects rounded…",
+      "fullText": "Police on Saturday arrested 58 people in a city-wide, anti-triad operation, disrupting gang networks exploiting the youth.\n\nThe suspects rounded up include core gang members as well as those aged below 18. They are alleged to have committed a series of offenses, including claiming to be triad members, inviting another person to become a triad member, false imprisonment and money laundering.\n\nChief inspector Chan Pak-ki said the arrests came after undercover officers infiltrated two triad groups amid a rise in youth crimes early this year.\n\n“We found that these triad groups would obtain the youths' trust first. They might carry out simple initiation ceremonies,\" she said.\n\n\"After obtaining their trust, they lured them, through false promises that there was quick money to be made, into carrying out a lot of illegal acts.”\n\nThe force also busted a number of illegal gambling and drug dens.\n\nChan did not rule out further arrests, adding that the operation was still ongoing.\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T09:28:44.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876048-20261031.htm"
+    },
     {
       "id": "cc60f909174bcded",
       "title": "Lan Kwai Fong expects monster finish to Halloween",
@@ -819,17 +830,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875825-20261029.htm"
-    },
-    {
-      "id": "9dbf05f89230976f",
-      "title": "100 govt officers to be interviewed in Wang Fuk probe",
-      "excerpt": "Public Service Commission chairwoman Maisie Cheng said on Thursday that an inquiry team examining civil servants' accountability over the Wang…",
-      "fullText": "Public Service Commission chairwoman Maisie Cheng said on Thursday that an inquiry team examining civil servants' accountability over the Wang Fuk Court fire will interview about 100 government officers across four departments, with 40 to 50 likely to be investigation targets.\n\nShe was speaking after Chief Executive John Lee announced the two-tier administrative-accountability investigation covering the Housing Department's Independent Checking Unit, Buildings Department, Fire Services Department and Labour Department.\n\nCheng said although the investigation will be challenging, the team will race against time and go all out to complete the work within three months as the CE requires.\n\nShe said preparatory work has been underway since August. The team will use the independent committee report and published materials as its starting point, then dig into shortfalls by individual civil servants – including possible breaches of the Civil Service Code – by seeking files and interviewing officers, she added.\n\n\"This team has already put all their effort to familiarise themselves with the information, especially those abundant information, made public by the independent committee,\" she said.\n\n\"With all this preparatory work and also the preparatory work done by the two members and myself in the past few months, we are very confident that although the investigation team and the support office will be officially set up today, we can commence the investigation immediately.\"\n\nCivil Service Secretary Ingrid Yeung said after the probe, the team will decide which civil servants bear administrative responsibility and how serious it is – then recommend to the government whether to take disciplinary action or impose administrative sanctions.\n\nShe said the government will study the recommendations quickly.\n\nYeung added that for disciplinary cases, hearings will be held – and if charges are proven, the government can dismiss the officer, order compulsory retirement, demote, issue a reprimand or impose a fine.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T10:41:42.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875826-20261029.htm"
     },
     {
       "id": "ec80bada15c6fe19",
