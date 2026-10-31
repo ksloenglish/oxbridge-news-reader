@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T01:05:33.805Z",
-  "checkedAt": "2026-10-31T02:00:30.777Z",
+  "generatedAt": "2026-10-31T02:15:16.974Z",
+  "checkedAt": "2026-10-31T02:15:16.974Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -566,6 +566,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_150336_438.html"
+    },
+    {
+      "id": "47e4e47a995c67ae",
+      "title": "Wine & Dine Festival opens",
+      "excerpt": "Organised by the Tourism Board, the Wine & Dine Festival kicked off at the Central Harbourfront Event Space and Tamar…",
+      "fullText": "Organised by the Tourism Board, the Wine & Dine Festival kicked off at the Central Harbourfront Event Space and Tamar Park on Thursday for a four-day run. This year's festival has expanded significantly, featuring over 340 booths – a 10% increase over last year.\n\nMany festival-goers have dressed up to join the fun, embracing this year’s theme: \"Taste the World's Best\".\n\nThe festival has attracted wine lovers from the Chinese Mainland and overseas. A British tourist who previously attended the event praised it as a vibrant, exciting reason to visit Hong Kong. He added that his itinerary is always so packed that he cannot complete everything he wants to do, prompting him to plan a return.\n\nMeanwhile, a tourist from Guangzhou made a special two-day trip to Hong Kong just to enjoy a few drinks with friends, noting that the festival offers a much wider variety of wines at far more affordable prices compared to the Mainland.\n\nExhibitors have travelled from around 30 countries and regions, including new pavilions showcasing Australia, Canada and South Korea.\n\nAfter visiting the event in previous years, one South Korean exhibitor described having her own booth at the festival as a dream come true. Highlighting that Hong Kong is open to foreign markets – where products like sake and French wine have successfully started their overseas businesses in the city – she hopes to take this opportunity to promote Korean drinks.\n\nAside from wine, the event also offers delicious food.\n\nA local third-year exhibitor has infused Hong Kong’s iconic egg waffle with 50-year-aged dried tangerine peel and Pu’er tea, promoting it as an exclusive \"Only in Hong Kong\" festival highlight. After seeing visitors queue for hours last year, the exhibitor has doubled the equipment this time around, anticipating a 20% surge in revenue.\n\nThe festival runs until 1am on Saturday night and until midnight on Sunday. Admission is $40, with separate tasting tokens required to sample the wine and food.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_132844_227/images/20261030190702231.jpg",
+      "publishedAt": "2026-10-29T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_132844_227.html"
     },
     {
       "id": "8449263c38a8ab63",
@@ -1149,17 +1160,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875575-20261028.htm"
-    },
-    {
-      "id": "3405700f4ba699ae",
-      "title": "CE mourns Liu Yandong",
-      "excerpt": "Chief Executive John Lee today expressed profound sorrow over the passing of former Vice Premier Liu Yandong, extending heartfelt condolences…",
-      "fullText": "Chief Executive John Lee today expressed profound sorrow over the passing of former Vice Premier Liu Yandong, extending heartfelt condolences to her family on behalf of the Hong Kong Special Administrative Region.\n\nMr Lee remembered Ms Liu as an outstanding leader in the country's work on education, science and technology, medical care, and women’s and children's affairs.\n\n“She served as a member of the Preparatory Committee of the Hong Kong Special Administrative Region under the National People's Congress and deputy leader of the Central Coordination Group for Hong Kong and Macao Affairs, and had always cared for and supported the long-term stability and prosperity of Hong Kong,” Mr Lee said.\n\nMr Lee added that Ms Liu visited Hong Kong on multiple occasions, engaging with residents across various sectors. During her visits, she met with local university presidents and youth, and also officiated at the opening ceremony of the 5th East Asian Games.\n\n“I am sincerely grateful for her contributions to promoting the development of Hong Kong in such areas as education, economy and sports,” Mr Lee said.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_202236_885/images/20261028202719430.jpg",
-      "publishedAt": "2026-10-27T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261028/20261028_202236_885.html"
     },
     {
       "id": "9fd8f24288a8ea57",
