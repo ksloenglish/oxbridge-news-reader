@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T21:15:17.168Z",
-  "checkedAt": "2026-10-31T01:01:03.103Z",
+  "generatedAt": "2026-10-31T01:05:33.805Z",
+  "checkedAt": "2026-10-31T01:05:33.805Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "38eff2da26ddbd36",
+      "title": "US markets hit by big tech sell-off",
+      "excerpt": "The sell-off for tech stocks on Wall Street worsened on Friday on fears that the frenzy around AI has sent…",
+      "fullText": "The sell-off for tech stocks on Wall Street worsened on Friday on fears that the frenzy around AI has sent prices too high.\n\nThe S&P 500 dropped 140.32 points, or 1.8 percent, to 7,580.07, for its worst day since June.\n\nThe Nasdaq composite fell 747.72 points, or 2.9 percent, to 25,437.00, and the Dow Jones Industrial Average dropped 572.25 points, or 1.1 percent, to 51,770.31.\n\nIntel sank almost 29 percent for its worst day since 1974 after its profit forecast was below analysts’ expectations.\n\nAmazon’s latest profit report raised more worries about how much companies are spending on their AI Investments.\n\nTreasury yields sank as investors searched for safer things to own, even though oil prices rose. (AP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T00:59:12.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876032-20261031.htm"
+    },
     {
       "id": "694c727298e70f71",
       "title": "EU, Canada move closer in face of Trump isolationism",
@@ -1105,17 +1116,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875616-20261028.htm"
-    },
-    {
-      "id": "be0db33bd81c4919",
-      "title": "HK home prices rise for second straight month",
-      "excerpt": "Government data released on Wednesday showed private home prices rose for a second straight month in September, with the official…",
-      "fullText": "Government data released on Wednesday showed private home prices rose for a second straight month in September, with the official index climbing 0.19 percent month-on-month to 320.8.\n\nOn a year-on-year basis, home prices were up 9.3 percent, according to the figures from the Rating and Valuation Department.\n\nFor the first nine months of the year, prices accumulated a rise of more than seven percent.\n\nBy unit size, prices for small and medium-sized flats rose 0.16 percent from the previous month, and were up 9.3 percent year-on-year. Larger units saw a 0.8 percent monthly increase and a 9.5 percent annual gain.\n\nThe rental index hit another record high, extending the upward streak to 11 months.\n\nThe September reading stood at 212.2, up 0.47 percent from August and 6.2 percent higher than a year earlier. For the first nine months of the year, rents have climbed 5.8 percent.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T03:50:11.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875606-20261028.htm"
     },
     {
       "id": "52e9da3130bfde0d",
