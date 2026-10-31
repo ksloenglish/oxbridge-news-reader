@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T03:45:16.389Z",
-  "checkedAt": "2026-10-31T04:30:22.297Z",
+  "generatedAt": "2026-10-31T04:45:17.898Z",
+  "checkedAt": "2026-10-31T04:45:17.898Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -95,8 +95,19 @@
   ],
   "articles": [
     {
+      "id": "33ccb29c65e65d10",
+      "title": "Buildings-repair body 'to operate on user-pays basis'",
+      "excerpt": "The new Building Maintenance Support and Services Council will operate on a non-profit basis but must recover costs on a…",
+      "fullText": "The new Building Maintenance Support and Services Council will operate on a non-profit basis but must recover costs on a user-pays basis, Financial Secretary Paul Chan said on Saturday, as the government moves to set it up in response to the independent committee report on the Wang Fuk Court fire.\n\nThe council will guide owners through the full cycle of building repairs – handling tendering and evaluation on their behalf – for a fee.\n\nChan told a Commercial Radio programme that the non-statutory company, wholly owned by Financial Secretary Incorporated, must recover costs, as owners are responsible for maintaining private residential properties.\n\nHe said the fees would depend on the scope of the works and would cost roughly several thousand dollars per flat.\n\n\"We understand that Hong Kong has many old districts, and some buildings are quite old,\" Chan said.\n\n\"Many elderly people live there, and they may not be able to fully afford the fees. So in these areas, the government can provide some subsidies.\"\n\nFor better-off owners, professional guidance matters more than cash subsidies, so a one-size-fits-all subsidy ratio would not be appropriate, Chan pointed out.\n\nHe said a pre-screened list of professionals and contractors would be published for owners to choose from, describing it as government-checked to give owners greater peace of mind.\n\nThe government has earmarked HK$300 million for the plan, including HK$100 million as start-up capital and HK$200 million to subsidise owners.\n\nThe new body is expected to start operating by the end of the year, with recruitment for a chief executive already underway.\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T04:21:38.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876034-20261031.htm"
+    },
+    {
       "id": "b08d562c81232f02",
-      "title": "Kane edges Mbappe in Ballon d'Or",
+      "title": "Kane edges Mbappe by narrow margin",
       "excerpt": "Harry Kane won the Ballon d'Or by the smallest margin under its current voting system when he edged Kylian Mbappe…",
       "fullText": "Harry Kane won the Ballon d'Or by the smallest margin under its current voting system when he edged Kylian Mbappe by 28 points, France Football which runs the awards, revealed on Friday.\n\nThe magazine published a breakdown of the votes in its Friday edition.\n\nBayern Munich's Kane, the first Englishman to win the award since Michael Owen in 2001, received 40 first-place votes from the 100 jurors and a total of 1,055 points. France captain Mbappe of Real Madrid was placed first 23 times and finished with 1,027 points.\n\nThe previous smallest margin was 41 when Rodri, then of Manchester City, edged another Real player Vinicius Junior by 41 points in 2024.\n\nLast season, Paris Saint-Germain forward Ousmane Dembele totalled 1,380 points as he finished 321 points ahead of Lamine Yamal of Barcelona.\n\nThis summer, Yamal won a World Cup with Spain but he finished third in the voting on 881 points, 174 behind Kane.\n\nThe Ballon d'Or is awarded following a vote by journalists (one per country) representing the top 100 nations in the Fifa rankings for men, and the top 50 for women. (AFP)\n\nEdited by Robert Kemp",
       "imageUrl": null,
@@ -830,17 +841,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875782-20261029.htm"
-    },
-    {
-      "id": "a236f8d4647e5a0f",
-      "title": "Contractor, consultant, inspector blamed for fire",
-      "excerpt": "The main contractor and project consultant for Wang Fuk Court’s renovation project, and a registered inspector must bear the most…",
-      "fullText": "The main contractor and project consultant for Wang Fuk Court’s renovation project, and a registered inspector must bear the most significant accountability for a disastrous fire that took 168 lives nearly a year ago, an independent inquiry into the tragedy has concluded.\n\nIn a 16-chapter report spanning nearly 1,200 pages submitted to the government, the committee stated that Prestige Construction & Engineering and consultancy firm Will Power Architects were fully aware of the fire risks but ignored repeated complaints and safety concerns raised by residents of the Tai Po housing estate during maintenance works.\n\n“They put the lives of all residents in Wang Fuk Court at serious risk, apparently with a view to maximising their financial gains,” the report read.\n\nThe committee slammed the two firms' conduct as going far beyond oversight or negligence, noting that they used substandard building materials and unsafe working procedures, such as non-fire-retardant scaffolding nets and flammable foam boards covering building windows.\n\nThe report also stated that Will Power and Prestige Construction should be held responsible for fire service installations that did not function properly on the day of the fire.\n\nThe committee found that Prestige Construction and its management, including Hau Wa-kin and Gordon Ho; as well as Will Power and its management Jason Wong; alongside Wilson Ng, a registered inspector employed by Will Power to oversee the renovation project, \"deserve the most severe criticisms\".\n\nThe committee also named other firms as culpable for the disaster to varying degrees.\n\nThese include Gain Profit Shed Industry, which was aware of and took part in a plot to temporarily replace non-fire-retardant scaffolding nets with fire-retardant ones just for site inspections by authorities.\n\nThe property management company for Wang Fuk Court at the time of the fire, ISS EastPoint Properties, was also slammed for allowing its staff to switch off the power supply to the fire alarm systems despite lacking the professional qualifications to do so.\n\nMeanwhile, Victory Fire Engineering, the registered fire services contractor responsible for annual inspections and related works, was criticised for being passive in dealing with fire safety issues.\n\nAnd the committee described China Status Development and Engineering Company as a \"dummy\" fire services contractor, saying the firm filed documents simply to feign compliance and satisfy regulators.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T07:53:20.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875787-20261029.htm"
     },
     {
       "id": "4c6f8418b9da8d33",
