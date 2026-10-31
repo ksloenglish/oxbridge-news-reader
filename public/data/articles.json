@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T02:32:58.715Z",
-  "checkedAt": "2026-10-31T02:32:58.715Z",
+  "generatedAt": "2026-10-31T02:45:15.641Z",
+  "checkedAt": "2026-10-31T02:45:15.641Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "b08d562c81232f02",
+      "title": "Kane edges Mbappe in Ballon d'Or",
+      "excerpt": "Harry Kane won the Ballon d'Or by the smallest margin under its current voting system when he edged Kylian Mbappe…",
+      "fullText": "Harry Kane won the Ballon d'Or by the smallest margin under its current voting system when he edged Kylian Mbappe by 28 points, France Football which runs the awards, revealed on Friday.\n\nThe magazine published a breakdown of the votes in its Friday edition.\n\nBayern Munich's Kane, the first Englishman to win the award since Michael Owen in 2001, received 40 first-place votes from the 100 jurors and a total of 1,055 points. France captain Mbappe of Real Madrid was placed first 23 times and finished with 1,027 points.\n\nThe previous smallest margin was 41 when Rodri, then of Manchester City, edged another Real player Vinicius Junior by 41 points in 2024.\n\nLast season, Paris Saint-Germain forward Ousmane Dembele totalled 1,380 points as he finished 321 points ahead of Lamine Yamal of Barcelona.\n\nThis summer, Yamal won a World Cup with Spain but he finished third in the voting on 881 points, 174 behind Kane.\n\nThe Ballon d'Or is awarded following a vote by journalists (one per country) representing the top 100 nations in the Fifa rankings for men, and the top 50 for women. (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T02:24:24.000Z",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876040-20261031.htm"
+    },
     {
       "id": "48b665252d45aeb2",
       "title": "HKEAA reports international exam data leak",
@@ -1402,17 +1413,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875247-20261025.htm"
-    },
-    {
-      "id": "d931ac7fb12dfd14",
-      "title": "Arsenal level with Man City - thanks to Aston Villa",
-      "excerpt": "Manchester City's flawless start to the Premier League season was ended in a 2-1 defeat at Aston Villa on Saturday…",
-      "fullText": "Manchester City's flawless start to the Premier League season was ended in a 2-1 defeat at Aston Villa on Saturday that allowed Arsenal to join them at the top of the table with victory over Everton.\n\nTottenham won at Chelsea for just the second time in 42 visits to Stamford Bridge as Mike Penders's own goal and a Cole Palmer red card cost the Blues in a 2-0 defeat.\n\nEnzo Maresca had become the first manager to win his first seven Premier League games in charge of a new club but failed to find a solution to City's struggles at Villa Park, where they have now lost for the past four seasons.\n\nNicolas Jackson struck twice for Unai Emery's men to continue a fine run of form for a new-look Villa side.\n\nErling Haaland briefly levelled early in the second half, but Maresca was left to rue City not making more of their dominance for large spells of the game.\n\n\"We lost because we probably are not being clinical enough in their box,\" said Maresca.\n\nThe Villa side that won the Europa League last season was decimated by high-profile departures during the transfer window.\n\nBut Emery has quickly moulded his new squad into shape with Jackson proving his critics from a difficult spell at Chelsea wrong.\n\nThe Senegal international pounced on an error by Marc Guehi to fire Villa ahead after just six minutes.\n\nAnother of Villa's new signings Zion Suzuki then thwarted City with a string of stunning saves.\n\nHaaland headed in his 13th goal in 10 games this season to equalise.\n\nVilla, though, swiftly responded as Gianluigi Donnarumma failed to keep out Jackson's low shot on the hour mark.\n\n\"A fantastic day to share with our supporters in Villa Park,\" said Emery.\n\n\"We felt that this is our fortress and the energy the supporters gave us was really fantastic.\"\n\nArsenal took advantage to move alongside City on 21 points from eight games with a routine 2-0 win against Everton.\n\nShorn of the creative inspiration of Bukayo Saka, who is set for a lengthy spell on the sidelines with a thigh injury, Arsenal had to rely on their set-piece prowess to get the job done.\n\nEzri Konsa bundled in his first goal for the club after Everton failed to clear a corner to open the scoring on seven minutes.\n\nFellow centre-back Gabriel Magalhaes doubled the lead for Mikel Arteta's men midway through the second period.\n\n\"We had some problems to finish the actions but we scored from a set-piece,\" said Arteta. \"That gave us the confidence and composure to go and dominate the game.\"\n\nTottenham climbed out of the bottom three as Chelsea self-imploded at the Bridge.\n\nA game hampered by wild weather conditions exploded into action in the final 15 minutes when, on his first Premier League start, Penders, deputising for the injured Emi Martinez, miscued his attempted punch from a Spurs corner over his own line.\n\nMoments later Palmer was dismissed for a second yellow card after catching former team-mate Conor Gallagher.\n\nSpurs took full advantage as Mathys Tel's low strike also deceived Penders to win for only the second time at their London rivals since 1990.\n\nFulham also moved out of the relegation zone with a 1-0 win at Coventry thanks to Oscar Bobb's individual effort.\n\nOn Sunday, the focus turns to Manchester United boss Michael Carrick when his side take on Bournemouth.\n\nA seven-game winless streak has plunged Carrick's future into doubt just months after he was hired on a two-year deal after a successful interim spell in charge at the end of last season. (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T23:54:45.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875230-20261025.htm"
     },
     {
       "id": "5ffecabda8b52ecd",
