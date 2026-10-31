@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T10:30:22.579Z",
-  "checkedAt": "2026-10-31T10:30:22.579Z",
+  "generatedAt": "2026-10-31T10:45:18.460Z",
+  "checkedAt": "2026-10-31T10:45:18.460Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "75150d437e5a0edf",
+      "title": "Vaccination calls as flu season 'not over'",
+      "excerpt": "A seven-year-old girl with an underlying illness is critically ill with influenza A as authorities urge vaccination. The girl developed…",
+      "fullText": "A seven-year-old girl with an underlying illness is critically ill with influenza A as authorities urge vaccination.\n\nThe girl developed a runny nose, diarrhoea and abdominal pain on Thursday, followed by fever and convulsions on Friday, according to the Department of Health. She was admitted to Tuen Mun Hospital.\n\nShe was transferred to the hospital’s paediatric intensive care unit after her condition deteriorated and remains there for further treatment.\n\nHealth authorities warn that the city’s flu season is not over.\n\nHong Kong's current flu season has already dragged on for four months after beginning in late June, according to health officials. Dr. Edwin Tsui, Controller of the Centre for Health Protection, noted that while the latest surveillance data shows signs of decline, overall influenza activity \"remained above the baseline level.\"\n\n\"A cumulative total of 28 cases of severe paediatric influenza infection have been recorded in the current influenza season. Among these cases, 20 patients have recovered and been discharged from hospital, two are in stable condition, four are in critical condition and two have passed away,\" Tsui said.\n\nThe CHP has urged residents to get vaccinated to reduce the risk of potential illness.\n\nIts analysis of the previous year’s data showed that unvaccinated children who contracted flu had approximately five times the rate of severe complications or death compared with vaccinated children.\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T10:30:16.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876066-20261031.htm"
+    },
     {
       "id": "f48b849ba693188c",
       "title": "Nations commit to get nature goals back on track",
@@ -819,17 +830,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"
-    },
-    {
-      "id": "0f095c5218189d1d",
-      "title": "Winnie Ho 'willing to take political responsibility'",
-      "excerpt": "Winnie Ho, who resigned as secretary for housing over the Wang Fuk Court fire, said she was willing to bear…",
-      "fullText": "Winnie Ho, who resigned as secretary for housing over the Wang Fuk Court fire, said she was willing to bear political responsibility for the deadly blaze.\n\nIn a statement, Ho said she met with Chief Executive John Lee on Wednesday and tendered her resignation, which Lee accepted.\n\nHo also said the government's reform measures, based on the independent committee's report, demonstrate a strong determination to confront the complex and longstanding problems exposed by the fire.\n\n\"Since July 1, 2022, I have fought side by side with the Housing Bureau team, working hard to reverse the longstanding housing problems that have plagued Hong Kong for years,\" she said.\n\nHo also listed achievements during her tenure, including the rapid construction of light public housing, shortening waiting times for public housing, tackling substandard subdivided units and clamping down on public housing abuse.\n\nShe said she felt deeply honoured to have served Hong Kong over the past four years, and expressed gratitude to the central government, the chief executive and the entire government team for their trust and support.\n\nHo also said she hopes those who were killed in the blaze can rest in peace and their families can move forward and recover from their grief.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T11:18:23.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875829-20261029.htm"
     },
     {
       "id": "d66ac185a2843893",
