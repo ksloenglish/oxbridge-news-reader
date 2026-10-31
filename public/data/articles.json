@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T07:15:16.968Z",
-  "checkedAt": "2026-10-31T07:33:03.116Z",
+  "generatedAt": "2026-10-31T07:45:15.823Z",
+  "checkedAt": "2026-10-31T07:45:15.823Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "d6dd74ae69964c0f",
+      "title": "More experts 'applying to join building-repairs lists'",
+      "excerpt": "Secretary for Development Bernadette Linn said government has received an encouraging response from consultants and contractors seeking inclusion in three…",
+      "fullText": "Secretary for Development Bernadette Linn said government has received an encouraging response from consultants and contractors seeking inclusion in three pre-qualified lists under a new council that will soon be offering full-cycle building repairs.\n\nThe non-statutory Building Maintenance Support and Services Council – to be established by year-end – will gradually take over the Urban Renewal Authority’s building-upkeep subsidy schemes under its Smart Tender system.\n\nTaking to the airwaves on Saturday, Secretary for Development Bernadette Linn said the government had received about 150 applications from inspection and supervision consultants as well as 350 applications from contractors.\n\n\"Why do I say it’s encouraging? Because the URA’s Smart Tender platform also had a pre-qualified list – now it has been taken down as we have this new one,\" she said.\n\n\"The number of applications this time, compared to the one that was taken down, saw an increase of two to three times.\n\n\"This means that there are more consultants and contractors who did not participate in the past. I took it as a vote of confidence in the future system.\"\n\nWhile the council will prioritise around 1,800 maintenance projects that are already in the Smart Tender System, Linn said it would first focus on the 600 or so projects that had yet to undergo building inspections.\n\n“As inspections have not been carried out on these buildings, we can – when the new service is rolled out – deploy an inspection consultant for them,” she said.\n\nMost of the remaining buildings, she pointed out, have already recruited supervision consultants.\n\nInitially, the government had been planning to put the URA or its subsidiaries in charge of the new support service.\n\nHowever, Linn said, following through on that plan would have significantly increased the URA's burden as it was already handling many building maintenance-related works as well as redevelopment projects.\n\nAs for the new Public Housing Building Control Section that will replace the Housing Bureau’s Independent Checking Unit within a month, Deputy Financial Secretary Michael Wong said he was confident that it would bring about more fundamental changes.\n\nAbout 300 staff from the unit, which has been found by an independent inquiry to be primarily responsible for failed supervision of major renovations at Wang Fuk Court in the runup to the fire, will move to the new section.\n\n“We have held more than 10 training classes [for staff] so as to raise vigilance and awareness,” said Wong, who is also acting secretary for housing.\n\nA dedicated team will oversee each major maintenance project, while a project liaison officer will handle all enquiries from owners’ corporations, he added.\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T07:33:23.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876044-20261031.htm"
+    },
     {
       "id": "5881e8a912a15e8c",
       "title": "HK may see strongest growth in five years: Paul Chan",
@@ -830,17 +841,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875803-20261029.htm"
-    },
-    {
-      "id": "8f7edf808e0b221c",
-      "title": "Seven areas of reforms introduced after Wang Fuk blaze",
-      "excerpt": "Chief Executive John Lee said the government will roll out comprehensive reforms to address shortcomings exposed by the Wang Fuk…",
-      "fullText": "Chief Executive John Lee said the government will roll out comprehensive reforms to address shortcomings exposed by the Wang Fuk Court fire.\n\nSpeaking at a press conference on Thursday, Lee said the reforms will cover seven areas.\n\n\"The reforms that we roll out now are comprehensive reforms. We are restructuring departments so that they will enforce both inspection and also take legal action seriously,\" he said.\n\n\"And we see in this case a series of events that happened resulting in this tragedy, and the things that we are rolling out now address each and every one of them.\"\n\nFirst, authorities will crack down on bid-rigging activities in building maintenance projects by establishing specific criminal offences and incorporating them into the Organized and Serious Crimes Ordinance.\n\n\"This will empower law enforcement agencies to exercise statutory authority against suspects, including summoning individuals for questioning, demanding the submission of documents or materials, freezing assets, and confiscating proceeds of crime,\" he said.\n\nThe government will amend the law to empower the Competition Commission to combat bid-rigging through a mix of criminal and civil enforcement measures.\n\nThe commission will also team up with police and the Independent Commission Against Corruption (ICAC) in the formation of an inter-departmental task force. The agencies will conduct joint investigations, strengthen intelligence gathering and information exchange.\n\nTo assist homeowners, an authority will be established to provide independent, reliable, and professional advice on building maintenance. It will take up all related services currently provided by the Urban Renewal Authority (URA).\n\nAuthorities will also review and reform the regulatory frameworks for building maintenance projects to better clarify roles and responsibilities, and to strengthen regulation of professionals and contractors by introducing stiffer penalties.\n\nThe Buildings Department will be restructured to strengthen its leadership and supervisory roles, while improving collaboration with the Independent Checking Unit (ICU) under the Housing Bureau.\n\nA centralised database will be established to facilitate information sharing across government departments, such as past convictions and cases of professional misconduct in relation to building maintenance work.\n\n\"The government will also reform the existing complaint mechanism concerning building maintenance. The system will be integrated into the centralised database, utilising artificial intelligence to analyse and monitor the progress and outcomes... to ensure that public complaints are addressed appropriately,\" Lee said.\n\nFinally, a steering committee, chaired by Chief Secretary Eric Chan, will be established to ensure the independent committee's 120 recommendations on the Wang Fuk Court inferno are implemented thoroughly and effectively.\n_____________________________\nLast updated: 2026-10-29 HKT 16:54\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T08:27:11.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875786-20261029.htm"
     },
     {
       "id": "4c6f8418b9da8d33",
