@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T11:30:20.865Z",
-  "checkedAt": "2026-10-31T12:45:15.642Z",
+  "generatedAt": "2026-10-31T13:00:29.471Z",
+  "checkedAt": "2026-10-31T13:00:29.471Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "e8ac3f43d6bb81f7",
+      "title": "Evening News on TV32 - Oct 31",
+      "excerpt": "Top stories for Saturday, Oct 31, 2026 - Finance chief Paul Chan says Hong Kong could record its strongest full-year…",
+      "fullText": "Top stories for Saturday, Oct 31, 2026\n\n- Finance chief Paul Chan says Hong Kong could record its strongest full-year economic growth in five years.\n\n- Police arrest 58 people, including minors, in an anti-triad operation.\n\n- Halloween celebrations are in full swing, here and around the world.",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T12:47:18.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876091-20261031.htm"
+    },
     {
       "id": "98ffd1120066b4d9",
       "title": "Hakimi bags hat-trick as PSG rip Le Havre to pieces",
@@ -819,17 +830,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875844-20261029.htm"
-    },
-    {
-      "id": "44d7a8b7ba42e095",
-      "title": "Evening News on TV32 - Oct 29",
-      "excerpt": "Top stories for Thursday, Oct 29, 2026 - John Lee bows in apology and one of his ministers resigns over…",
-      "fullText": "Top stories for Thursday, Oct 29, 2026\n\n- John Lee bows in apology and one of his ministers resigns over last year's Wang Fuk Court disaster.\n\n- Various reforms are announced to address shortcomings flagged up by the inquiry into the fire.\n\n- Spain begins three days of mourning after one of Europe's deadliest train crash in decades.",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T12:44:55.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875846-20261029.htm"
     },
     {
       "id": "ea15336c2c7ed5b9",
