@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T13:00:29.471Z",
-  "checkedAt": "2026-10-31T13:00:29.471Z",
+  "generatedAt": "2026-10-31T13:15:22.998Z",
+  "checkedAt": "2026-10-31T13:15:22.998Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "33409ea021561cd9",
+      "title": "Iran supreme leader warns US, Israel against strikes",
+      "excerpt": "Iran's supreme leader Mojtaba Khamenei on Saturday warned the United States and Israel against returning to war, according to a…",
+      "fullText": "Iran's supreme leader Mojtaba Khamenei on Saturday warned the United States and Israel against returning to war, according to a written statement, following threats from the Islamic republic's foes of a possible resumption of strikes.\n\n\"If the enemies once again launch military or terrorist attacks, it is the armed forces of the Islamic Republic and the Iranian nation that will determine the time and conditions for ending them,\" said a statement attributed to Khamenei posted on his website.\n\nThe remarks came during a reported meeting between Khamenei and senior military commanders, including armed forces chief of staff Ali Abdollahi, army chief Amir Hatami and Revolutionary Guards commander Ahmad Vahidi. It was the first reported meeting between them.\n\nKhamenei has not been publicly seen since he became supreme leader, following his father Ayatollah Ali Khamenei's killing in US-Israeli strikes at the start of the Middle East war in February.\n\nAccording to the statement, Khamenei ordered the commanders to ensure that \"any level or type of threat must be met with an immediate, impactful and geographically unrestricted response\".\n\nIt also said that Khamenei ordered the commanders to update Iran's target list to include \"all types of tangible and intangible assets belonging to the American-Zionist enemy\".\n\nThe war began on February 28 with US-Israeli strikes on Iran, which swiftly responded with attacks on countries around the region.\n\nThe supreme leader's statement came as fresh diplomatic efforts were under way to avert a resumption of fighting.\n\nA Qatari delegation arrived in Tehran on Friday for talks with Iranian officials, after Iran reportedly received a letter from US Vice President JD Vance.\n\nAccording to Iranian media, Tehran had yet to respond to the letter. (AFP)\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T13:00:04.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876093-20261031.htm"
+    },
     {
       "id": "e8ac3f43d6bb81f7",
       "title": "Evening News on TV32 - Oct 31",
@@ -951,17 +962,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875741-20261029.htm"
-    },
-    {
-      "id": "d913f4889179676f",
-      "title": "US warns allies to prepare for possible Iran strikes",
-      "excerpt": "US officials have told several Middle East countries and regional allies to be prepared for potential renewed military action against…",
-      "fullText": "US officials have told several Middle East countries and regional allies to be prepared for potential renewed military action against Iran after next week’s midterm elections in the United States — as well as the possibility that Iran will attempt to retaliate against them, according to two diplomats briefed on the matter.\n\nBoth of the diplomats spoke on the condition of anonymity because they were not authorised to comment about the sensitive warnings conveyed by US diplomats and defence officials.\n\nPresident Donald Trump has not made a final decision on whether to carry out new strikes against Iran, the diplomats stressed. The president, however, has repeatedly said that he is weighing ordering new military action once the critical November 3 elections in the US are over.\n\nThose threats and the fresh US pushes for allies to prepare for potential retaliation are putting the region on alert that a return to major operations could now be on the horizon.\n\nThe White House and US officials declined to comment.\n\nIranian Foreign Minister Abbas Araghchi said on Wednesday in a post on X that Tehran “continues to give diplomacy a chance to succeed” and is working with mediators to review ideas that Tehran included in a proposal floated last month -- summarily rejected by Trump -- that the Iranians still want to see used as the basis to return to a ceasefire.\n\nThe United Arab Emirates foreign ministry issued a statement urging the sides to “exercise wisdom and pursue political solutions to help contain tensions” and prevent a return to full-scale operations in the war that began in late February.\n\nThe Pentagon late last month deployed the USS Theodore Roosevelt, along with a series of amphibious landing ships with Marines aboard -- roughly 9,000 troops in all -- from San Diego to the Persian Gulf to bolster the US military in the region.\n\nThe war has proved to be a heavy weight on Republican candidates as they make their case to voters who are fatigued by rising gasoline prices, a byproduct of the war that's driven up costs across nearly every sector in the global economy. (AP)\n\nEdited by Altis Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T01:23:12.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875730-20261029.htm"
     },
     {
       "id": "80ef43fc238b68c2",
