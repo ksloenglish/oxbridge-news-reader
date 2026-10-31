@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T02:15:16.974Z",
-  "checkedAt": "2026-10-31T02:15:16.974Z",
+  "generatedAt": "2026-10-31T02:30:24.040Z",
+  "checkedAt": "2026-10-31T02:30:24.040Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -95,6 +95,28 @@
   ],
   "articles": [
     {
+      "id": "48b665252d45aeb2",
+      "title": "HKEAA reports international exam data leak",
+      "excerpt": "The Hong of 16,900 mainland residents applying for two international exams had been leaked. The Hong Kong Examinations and Assessment…",
+      "fullText": "The Hong of 16,900 mainland residents applying for two international exams had been leaked.\n\nThe Hong Kong Examinations and Assessment Authority said on Friday that te personal data of 16,900 mainland residents applying for two international exams had been leaked.\n\nThe data included names, dates of birth, and email addresses.\n\nThe authority said it had discovered the incident on Thursday and reported it to the police and to the Office of the Privacy Commissioner for Personal Data.\n\nIt said there was so far no evidence that DSE or other exams had been affected.\n\nThe authority apologised and said it would take all feasible measures to mitigate the incident's impact. It said relevant examination organisers had been notified, and it was following up on arrangements to notify those affected.\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T02:17:45.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876038-20261031.htm"
+    },
+    {
+      "id": "e4b89cf81b8b946d",
+      "title": "Millions cast early votes in US midterms",
+      "excerpt": "A record 47.9 million Americans have already voted in next week's US midterm elections, with participation surging in key battleground…",
+      "fullText": "A record 47.9 million Americans have already voted in next week's US midterm elections, with participation surging in key battleground states and registered Democrats outpacing Republicans, figures showed on Friday.\n\nThe University of Florida's Election Lab had recorded 47,922,669 early votes nationwide by midday, surpassing the previous midterm record of 45.9 million cast ahead of Election Day in 2022.\n\nThe surge is especially pronounced in states with fiercely contested Senate races that could determine control of the chamber during the final two years of President Donald Trump's presidency.\n\nIn Texas, more than six million people had voted early by Wednesday, according to official figures, with in-person turnout running around 50 percent ahead of the same stage in 2022.\n\nNorth Carolina's election board reported early voting up nearly 37 percent on the same point four years ago, while South Carolina surpassed its entire 2022 early vote total on Monday, with five days of early voting still to go.\n\nIn Kansas, where Republican Senator Roger Marshall faces a tough re-election fight, advance ballots were running around two-thirds ahead of 2022 last week, according to the secretary of state's office.\n\nIn states that record voters' party affiliation, registered Democrats have accounted for a substantially larger share of early ballots than Republicans.\n\nElection Lab figures showed Democrats making up around 44 percent of early voters in those states, compared with 31 percent for Republicans and 25 percent for unaffiliated or minor-party voters.\n\nUniversity of Florida political scientist Michael McDonald, who oversees the Election Lab, has pointed to rising participation among Black and Hispanic voters in states that report racial and ethnic data, with particularly strong turnout in heavily Hispanic communities along the Texas-Mexico border.\n\nIn Georgia, where early in-person voting broke the state's midterm record on Thursday, women accounted for 56 percent of ballots cast by that day, compared with 44 percent for men.\n\n\"Georgians continue to head to the polls in record numbers because they trust the system,\" top elections official Brad Raffensperger said Thursday.\n\nBut experts warn against interpreting the figures as a prediction of the election outcome.\n\nA voter's party registration does not reveal which candidates they supported, and tens of millions more Americans are expected to cast ballots on Tuesday.\n\nIn recent elections Republicans have tended to turn out in greater numbers on Election Day, potentially narrowing or reversing the Democrats' early advantage.\n\nAnd higher early participation does not necessarily translate into higher overall turnout, since some voters may simply be casting ballots sooner than in previous elections. (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T02:02:56.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876036-20261031.htm"
+    },
+    {
       "id": "38eff2da26ddbd36",
       "title": "US markets hit by big tech sell-off",
       "excerpt": "The sell-off for tech stocks on Wall Street worsened on Friday on fears that the frenzy around AI has sent…",
@@ -115,6 +137,17 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876021-20261031.htm"
+    },
+    {
+      "id": "47e4e47a995c67ae",
+      "title": "Wine & Dine Festival opens",
+      "excerpt": "Organised by the Tourism Board, the Wine & Dine Festival kicked off at the Central Harbourfront Event Space and Tamar…",
+      "fullText": "Organised by the Tourism Board, the Wine & Dine Festival kicked off at the Central Harbourfront Event Space and Tamar Park on Thursday for a four-day run. This year's festival has expanded significantly, featuring over 340 booths – a 10% increase over last year.\n\nMany festival-goers have dressed up to join the fun, embracing this year’s theme: \"Taste the World's Best\".\n\nThe festival has attracted wine lovers from the Chinese Mainland and overseas. A British tourist who previously attended the event praised it as a vibrant, exciting reason to visit Hong Kong. He added that his itinerary is always so packed that he cannot complete everything he wants to do, prompting him to plan a return.\n\nMeanwhile, a tourist from Guangzhou made a special two-day trip to Hong Kong just to enjoy a few drinks with friends, noting that the festival offers a much wider variety of wines at far more affordable prices compared to the Mainland.\n\nExhibitors have travelled from around 30 countries and regions, including new pavilions showcasing Australia, Canada and South Korea.\n\nAfter visiting the event in previous years, one South Korean exhibitor described having her own booth at the festival as a dream come true. Highlighting that Hong Kong is open to foreign markets – where products like sake and French wine have successfully started their overseas businesses in the city – she hopes to take this opportunity to promote Korean drinks.\n\nAside from wine, the event also offers delicious food.\n\nA local third-year exhibitor has infused Hong Kong’s iconic egg waffle with 50-year-aged dried tangerine peel and Pu’er tea, promoting it as an exclusive \"Only in Hong Kong\" festival highlight. After seeing visitors queue for hours last year, the exhibitor has doubled the equipment this time around, anticipating a 20% surge in revenue.\n\nThe festival runs until 1am on Saturday night and until midnight on Sunday. Admission is $40, with separate tasting tokens required to sample the wine and food.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_132844_227/images/20261030190702231.jpg",
+      "publishedAt": "2026-10-30T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_132844_227.html"
     },
     {
       "id": "4bb4b4db3ff07d37",
@@ -568,17 +601,6 @@
       "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_150336_438.html"
     },
     {
-      "id": "47e4e47a995c67ae",
-      "title": "Wine & Dine Festival opens",
-      "excerpt": "Organised by the Tourism Board, the Wine & Dine Festival kicked off at the Central Harbourfront Event Space and Tamar…",
-      "fullText": "Organised by the Tourism Board, the Wine & Dine Festival kicked off at the Central Harbourfront Event Space and Tamar Park on Thursday for a four-day run. This year's festival has expanded significantly, featuring over 340 booths – a 10% increase over last year.\n\nMany festival-goers have dressed up to join the fun, embracing this year’s theme: \"Taste the World's Best\".\n\nThe festival has attracted wine lovers from the Chinese Mainland and overseas. A British tourist who previously attended the event praised it as a vibrant, exciting reason to visit Hong Kong. He added that his itinerary is always so packed that he cannot complete everything he wants to do, prompting him to plan a return.\n\nMeanwhile, a tourist from Guangzhou made a special two-day trip to Hong Kong just to enjoy a few drinks with friends, noting that the festival offers a much wider variety of wines at far more affordable prices compared to the Mainland.\n\nExhibitors have travelled from around 30 countries and regions, including new pavilions showcasing Australia, Canada and South Korea.\n\nAfter visiting the event in previous years, one South Korean exhibitor described having her own booth at the festival as a dream come true. Highlighting that Hong Kong is open to foreign markets – where products like sake and French wine have successfully started their overseas businesses in the city – she hopes to take this opportunity to promote Korean drinks.\n\nAside from wine, the event also offers delicious food.\n\nA local third-year exhibitor has infused Hong Kong’s iconic egg waffle with 50-year-aged dried tangerine peel and Pu’er tea, promoting it as an exclusive \"Only in Hong Kong\" festival highlight. After seeing visitors queue for hours last year, the exhibitor has doubled the equipment this time around, anticipating a 20% surge in revenue.\n\nThe festival runs until 1am on Saturday night and until midnight on Sunday. Admission is $40, with separate tasting tokens required to sample the wine and food.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_132844_227/images/20261030190702231.jpg",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_132844_227.html"
-    },
-    {
       "id": "8449263c38a8ab63",
       "title": "3 sports events get 'M' Mark status",
       "excerpt": "The Major Sports Events Committee today announced it has awarded “M” Mark status to the 2026 World Triathlon Cup -…",
@@ -810,17 +832,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875787-20261029.htm"
     },
     {
-      "id": "4630d0f34e7ffffd",
-      "title": "Housing chief Winnie Ho resigns over Wang Fuk fire",
-      "excerpt": "Chief Executive John Lee on Thursday said he accepted the resignation of Winnie Ho as secretary for housing, saying she…",
-      "fullText": "Chief Executive John Lee on Thursday said he accepted the resignation of Winnie Ho as secretary for housing, saying she took political responsibility for last year's Wang Fuk Court fire that killed 168 people.\n\nAt a press conference on Thursday, Lee and other principal officials also apologised and bowed.\n\n\"As chief executive and head of the government, I am deeply saddened. On behalf of the SAR government, I offer my apologies to the victims and the public at large,\" Lee said in his opening remarks.\n\nHe added that while Ho committed no personal wrongdoing, she must bear political responsibility as secretary for housing.\n\n\"I have considered a wide range of factors, including the official's role in the matter, the official's policy portfolio and its relation with the incident, whether the problem relates to policy or execution, the performance of the subordinates, the large amount of work the political team will have to do in the time ahead,\" Lee said.\n\n\"Considering that the fire took place in Wang Fuk Court and it falls within the purview of the Housing Department's [Independent Checking Unit], which is under the Housing Bureau, the secretary for housing should take political accountability,\" he added.\n\nDeputy Financial Secretary Michael Wong will serve as acting secretary for housing.\n_____________________________\nLast updated: 2026-10-29 HKT 16:48\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T07:06:56.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875773-20261029.htm"
-    },
-    {
       "id": "4c6f8418b9da8d33",
       "title": "Five-year plan 'all about finding new growth engines'",
       "excerpt": "Financial Secretary Paul Chan said on Thursday Hong Kong's first five-year plan provides a clear framework for policymaking and investment…",
@@ -951,17 +962,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875712-20261029.htm"
-    },
-    {
-      "id": "24fb763649977dc4",
-      "title": "I'm Brazil's rightful leader, says Flavio Bolsonaro",
-      "excerpt": "Senator Flavio Bolsonaro declared himself Brazil's rightful leader on Wednesday after arriving in the United States, alleging he was the…",
-      "fullText": "Senator Flavio Bolsonaro declared himself Brazil's rightful leader on Wednesday after arriving in the United States, alleging he was the victim of an electoral coup by the country's Supreme Court and President Luiz Inacio Lula da Silva, who won the vote by over 4 million votes.\n\nBolsonaro arrived in Miami after leaving Brazil, where he refused to comply with a Supreme Court order to surrender his passports. He thanked Argentine leader Javier Milei for helping him make the journey and US President Donald Trump, who granted him and his family entry visas, for welcoming him.\n\nIn an initial open letter posted on X, Bolsonaro declared himself \"the elected president.\" He then deleted that version and updated it with another letter in which he said he was the rightful \"leader\" of Brazil.\n\n\"I want to say, not only to my 60 million voters but to the Brazilian people, that I am the leader and that the criminals who stole Brazil’s election are part of a criminal organisation that has established a tyranny,\" he said in the updated version.\n\nLula's victory has been recognised by Brazil's federal electoral court, global leaders, international observers, and Bolsonaro's own party.\n\nBrazil's election took place in full compliance with legal and constitutional requirements, electoral authority chief Kassio Nunes Marques said in a statement, without referencing Bolsonaro's letter.\n\nAsked by reporters at Joint Base Andrews about Bolsonaro's comments, Trump declined to comment, reiterating earlier views that it was \"a very strange election.\"\n\nBolsonaro's declaration poses a problem for Washington as it seeks to navigate a rift with Latin America's largest country, home to the world's second-largest reserves of rare earths.\n\nLula has accused Washington of colluding with the Bolsonaro family to help return them to power.\n\nTrump has previously alleged Flavio's father, former President Jair Bolsonaro, was a victim of judicial persecution.\n\nJair Bolsonaro travelled to the United States after refusing to concede defeat to Lula in 2022. He eventually returned to Brazil but was sentenced to 27 years in prison for plotting a coup after supporters stormed government buildings in Brasilia.\n\nLula, who served time on corruption convictions that were later annulled, said this week it was \"shameful\" Bolsonaro had not stayed in Brazil to prove his innocence.\n\nBolsonaro left Brazil in secret after the Supreme Court issued the order, which relates to a money-laundering investigation in which he denies wrongdoing.\n\nBolsonaro, who had been widely expected to win Sunday's election, did not provide evidence for the alleged electoral fraud.\n\nHe based his rejection of the result on the fact that a Lula-appointed Supreme Court justice had extended voting by two hours on Sunday due to Lula campaign allegations of voter suppression in left-leaning northeastern states. However, Bolsonaro's campaign also sought an extension due to rain in conservative southern states.\n\nBolsonaro lost to Lula by around 4.5 million votes. Fewer than 35,000 votes, or some 0.03 percent of the total, were cast in the extra two hours of voting ordered by the Supreme Court, according to an analysis by Insper professor Pedro Burgos.\n\nIn his letter, Bolsonaro denied fleeing Brazil, saying he left to protect himself and his family, and to avoid being the victim of a witch hunt he accused Lula and the Brazilian Supreme Court of carrying out.\n\n\"I want to make this clear: I did not flee Brazil,\" he said. \"I left Brazil, but I did not abandon the Brazilian people.\" (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T23:10:09.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875713-20261029.htm"
     },
     {
       "id": "c63c32ded41865e9",
