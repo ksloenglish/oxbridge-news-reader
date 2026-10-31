@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T15:15:17.441Z",
-  "checkedAt": "2026-10-31T22:00:26.060Z",
+  "generatedAt": "2026-10-31T22:15:18.349Z",
+  "checkedAt": "2026-10-31T22:15:18.349Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 17
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 12
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "e7f208d778a86d20",
+      "title": "Fernandez to face off against Shnaider in Tokyo final",
+      "excerpt": "Leylah Fernandez hailed her \"mental fortitude\" on Saturday after setting up a Pan Pacific Open title clash against Russia's Diana…",
+      "fullText": "Leylah Fernandez hailed her \"mental fortitude\" on Saturday after setting up a Pan Pacific Open title clash against Russia's Diana Shnaider.\n\nThe World No. 23 from Canada defeated Uzbekistan's Kamilla Rakhimova 7-5, 6-3 in Tokyo to reach a second final in a row.\n\nFernandez won her first title of the season in Singapore in September and followed that up by reaching the decider last week in Ningbo, where she lost to world number one Elena Rybakina.\n\nFernandez will face 13th-ranked Shnaider after she beat Slovakian 18-year-old Mia Pohankova 6-4, 7-6 (9/7) in the other semi-final.\n\nFernandez put her success in this year's Asian swing down to a \"willingness to work\".\n\n\"I'm proud of my mental fortitude,\" said the 24-year-old, the US Open finalist in 2021.\n\n\"These aren't easy matches so I'm happy that I was able to find solutions and stay calm in tough moments.\"\n\nFernandez reached the semi-finals when Rybakina withdrew from their match with a neck injury, a day after securing the year-end world number one ranking.\n\nRybakina is one of several players who pulled out in Tokyo, which comes near the end of the tennis season.\n\nFernandez said she and her team decided to play as many matches as possible after the US Open in September, when she lost in the third round.\n\n\"We all agreed that what I needed the most was matches, to play in these tough matches, uncomfortable moments, and to be strong in those moments,\" she said.\n\n\"We could train all we want but we're not going to be able to replicate those difficult moments in training.\"\n\nShnaider is looking for her first title of the year after battling past former junior Wimbledon champion Pohankova.\n\n\"The work never stops,\" said Shnaider, 22, who beat Alexandra Eala in the quarter-finals.\n\n\"I had good preparation for the Asian swing from a fitness point of view.\n\n\"Yesterday was a very tough match and today I was happy that I managed to push myself again.\" (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T22:02:22.000Z",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876063-20261101.htm"
+    },
+    {
+      "id": "1b61cee3bcb4cff0",
+      "title": "Bolsonaro 'fled because he was victim of persecution'",
+      "excerpt": "Former conservative presidential candidate Flavio Bolsonaro said he fled Brazil to the United States because he was a victim of…",
+      "fullText": "Former conservative presidential candidate Flavio Bolsonaro said he fled Brazil to the United States because he was a victim of \"persecution\" in his country.\n\nBolsonaro, who lost Sunday's election runoff to President Luiz Inacio Lula da Silva, secretly left Brazil on Tuesday and arrived in Florida aboard a private jet on Wednesday after travelling through Argentina and Ecuador.\n\n\"The persecution began even sooner than I imagined,\" the senator said on Friday during an Instagram livestream in which he discussed his decision to flee after his Brazilian passports were cancelled as part of a money-laundering investigation.\n\nIn the video, he recounted how police informed him on Monday that his passports were being revoked as he left a visit to his father, former president Jair Bolsonaro, who is under house arrest.\n\n\"With tears in his eyes, he told me: 'You know where they're going with this, don't you?'\" he recounted his meeting with his father.\n\n\"I told him: 'Dad, I know... Now I know what I have to do.'\"\n\nAlthough he gave no details of how he left the country, Bolsonaro said he and his wife made the decision \"without anyone knowing\" and urged people not to \"point the finger at anyone\".\n\nUS President Donald Trump and Argentine President Javier Milei are under pressure to explain the involvement of the United States and Argentina in the senator's escape.\n\n\"I didn't leave Brazil, I left for Brazil,\" Bolsonaro said, alleging that Supreme Court Justice Alexandre de Moraes had made false accusations against him.\n\nHe also suggested there had been irregularities in the runoff, comparing them to \"handball goals\" that were not disallowed by VAR, without detailing what those irregularities might have been.\n\nHe also predicted that the economy would \"go bust\" under Lula and said he was willing to run for president again: \"I'm not talking about 2030, I'm talking about before then.\" (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T21:59:30.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876067-20261101.htm"
+    },
     {
       "id": "4d05b7668e878b6e",
       "title": "Alibaba's Qwen and Apple Intelligence team up",
@@ -827,8 +849,8 @@
       "fullText": "The US economy grew at a healthy 3.4 percent annual pace from July through September, accelerating from the second quarter on strong consumer spending and investment in artificial intelligence.\n\nThe expansion in third-quarter gross domestic product – the nation’s output of goods and services – was faster than the 2.2 percent growth registered from April through June, the US Commerce Department said on Thursday.\n\nConsumer spending rose at a brisk 3.8 percent clip in the third quarter, and business investment was up sharply, reflecting the AI boom.\n\nThe American economy – by far, the world’s biggest – has proven resilient in the face of higher energy prices caused by the fighting with Iran.\n\nEconomists had expected GDP to grow 3 percent in the third quarter, according to a survey of forecasters by the data firm FactSet.\n\nUS growth has been lifted by an AI investment boom. Business investment, excluding housing, was up 12.7 percent in the third quarter. Investment in information processing equipment surged 37.4 percent, in software 9.6 percent and in research and development 7.5 percent.\n\nHowever, housing investment, hurt by high mortgage rates, dropped 3.3 percent and has now fallen six of the last seven quarters.\n\nThursday’s report was the first of three Commerce Department estimates of third-quarter GDP growth. (AP)\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-10-29T14:59:46.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875863-20261029.htm"
     },
     {
@@ -1426,17 +1448,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875256-20261025.htm"
     },
     {
-      "id": "8b22ffccf252c5e8",
-      "title": "Families enjoy day out at HK golf open finale",
-      "excerpt": "Hundreds of fans enjoyed a day out with their families at the Fanling Golf Course on Sunday for the final…",
-      "fullText": "Hundreds of fans enjoyed a day out with their families at the Fanling Golf Course on Sunday for the final day of Hong Kong Open action.\n\nThe four-day event, which is marking its historic 65th edition, teed off on Thursday to much fanfare as the sport's biggest stars descended upon the SAR.\n\nHans, a local resident attending the tournament for the second time with his kids, told RTHK that the Hong Kong Open is a great opportunity for families to get up close and personal with some of the world's top athletes.\n\n\"It's a great event, walking around with the kids... getting close with the different golf professionals,\" he said.\n\n\"It's an awesome experience, being so close to the professional players and also they do a good job of bringing the fan village together,\" he added. \"It's fun for the kids.\"\n\nHans also commended the event's fan-friendly atmosphere, saying the interactive stalls, games, and entertainment made the tournament stand out from other sporting events.\n\nAnother local fan, Leon – who is attending the event for the sixth year in a row – echoed the sentiment.\n\n\"Personally, I play golf and I'm a member of the club. [This event] has such a nice outdoor area for the kids, every year we take them over and have some fun,\" he told RTHK.\n\nHe also pointed out that there were many elements of Hong Kong culture on display at the fan village.\n\n\"[Besides] the golf, we have Hong Kong culture, cultural stuff... which is very fun for the kids. I'd definitely recommend it.\"\n\nBryant Lu, captain of the Hong Kong Golf Club, said that the competition is a great opportunity for all sports fans to get a taste of a different side of the bustling city.\n\n\"I think what we offer is a very unique experience,\" he told reporters outside the course's clubhouse.\n\n\"Being a golfing event we have outdoors... and we can come all the way up to the Northern Metropolis. I think this is the new future for Hong Kong, and hosting an event here not only brings people to play golf but [they can] also experience what changes the Northern Metropolis brings to Hong Kong, I think that's very important.\n\n\"I think coming up here you can experience a different side of Hong Kong – beautiful trees, nice grounds, fresh air, and lots of smiling faces.\"\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T09:22:06.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875255-20261025.htm"
-    },
-    {
       "id": "5ffecabda8b52ecd",
       "title": "Transfusion service brings learning",
       "excerpt": "A group of SPHRC Kung Yik She Secondary School students recently received a different kind of biology lesson as they…",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260921/20260921_204627_798.html"
-    },
-    {
-      "id": "31619d7972ae4080",
-      "title": "Youth forum holds annual review",
-      "excerpt": "Youth leaders from Hong Kong, Shenzhen, and Macao shared their experiences and achievements from the past year as they gathered…",
-      "fullText": "Youth leaders from Hong Kong, Shenzhen, and Macao shared their experiences and achievements from the past year as they gathered today for the Security Bureau Youth Uniformed Group Leaders Forum annual review.\n\nThey also gave presentations on various issues related to the Greater Bay Area, and outlined the forum’s activities for the coming year.\n\nAddressing members, Deputy Chief Secretary Cheuk Wing-hing said the Hong Kong Special Administrative Region Government attaches great importance to youth development.\n\nHe highlighted that Hong Kong's First Five-Year Plan clearly states that diversified platforms will be developed for exchanges and experiences that broaden young people's horizons.\n\nBuilding on the Youth Development Blueprint, the Hong Kong SAR Government is developing broader platforms and more opportunities for young people to grow and thrive, aiming to nurture a new generation with an affection for both China and Hong Kong, as well as a global perspective, ambition, and a positive mindset.\n\nMr Cheuk said the leaders forum is an important platform for the Government to implement its vision for youth development.\n\nOver the past year, the forum organised more than 30 activities spanning national security, patriotic education, frontier technologies and multicultural themes. Members also contributed to national initiatives such as the 15th National Games, which Mr Cheuk said demonstrated vitality and a sense of responsibility.\n\nSecretary for Security Tang Ping-keung expressed his satisfaction at the progress shown by members over the past year.\n\nHe highlighted that 51 members undertook summer internships at 26 renowned enterprises and organisations across cities including Beijing, Shanghai, Nanjing, Shenzhen, Macao and Hong Kong. In addition, nine students from Shenzhen University came to Hong Kong for training and hands-on experience at various companies.\n\nMr Tang also observed that since the forum's establishment four years ago, more than 60% of its graduates have joined the Hong Kong SAR Government, taking up positions such as administrative officer and inspectorate officer in the disciplinary forces. Others have pursued careers in the legal, medical, engineering, finance and other sectors.\n\nThe security chief stressed that the National 15th Five-Year Plan includes a dedicated section for youth development, adding that the Hong Kong SAR Government's own Five-Year Plan dovetails with national strategies, allowing Hong Kong to better integrate into and serve the country's overall development.\n\nHe added that future development opportunities for young people are unlimited and encouraged members of the leaders forum to seize such opportunities.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260919/20260919_161358_599/images/20260919172500992.jpeg",
-      "publishedAt": "2026-09-18T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260919/20260919_161358_599.html"
     }
   ]
 }
