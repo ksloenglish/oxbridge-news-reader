@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T08:00:29.334Z",
-  "checkedAt": "2026-10-31T08:00:29.334Z",
+  "generatedAt": "2026-10-31T08:15:23.984Z",
+  "checkedAt": "2026-10-31T08:15:23.984Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "470c10beecba00c9",
+      "title": "Chinese factory activity slips amid strong tech show",
+      "excerpt": "China's manufacturing activity moderated in October, with the purchasing managers' index falling to 49.3 as the high-tech and equipment manufacturing…",
+      "fullText": "China's manufacturing activity moderated in October, with the purchasing managers' index falling to 49.3 as the high-tech and equipment manufacturing sectors maintained expansion, official data showed on Saturday.\n\nThe overall reading was down 0.8 percentage points from September, according to the National Bureau of Statistics.\n\nChief statistician Huo Lihui attributed the retreat to some demand being brought forward ahead of the National Day holiday this month and a complex international environment.\n\nThe production subindex stood at 49.8, down 1.9 points from September, while the new-orders subindex fell 1.1 points to 49.4, as both supply and demand moderated during the month.\n\nThe PMI for high-tech manufacturing stood at 51.3 while that for equipment manufacturing came in at 50.6, both remaining above the 50-point threshold that separates expansion from contraction.\n\nThe figures indicate that emerging industries continued to sustain growth momentum, supported by the ongoing development of new quality productive forces, Huo noted.\n\nManufacturing activity in several advanced industries remained robust.\n\nBoth the production and new-orders subindexes for railway, shipbuilding and aerospace equipment manufacturing, as well as computer, communications and electronic equipment manufacturing, stood at 53 or above, pointing to relatively strong supply and demand in these sectors.\n\nLarge manufacturers continued to report expansion, with their PMI standing at 50.2, despite a slight decline of 0.4 points from the previous month.\n\nThe PMI readings for medium-sized and small enterprises came in at 48.4 and 47.5, respectively.\n\nOn the price front, both major raw material purchasing prices and factory-gate prices remained in expansionary territory, although their growth moderated.\n\nThe purchasing price subindex stood at 56.8, down four points from September while the factory-gate price subindex eased 2.3 points to 51.7, partly reflecting recent declines in the prices of certain nonferrous metals and other commodities. (Xinhua)\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T08:06:29.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876053-20261031.htm"
+    },
     {
       "id": "d6dd74ae69964c0f",
       "title": "More experts 'applying to join building-repairs lists'",
@@ -1446,17 +1457,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875202-20261024.htm"
-    },
-    {
-      "id": "1d1d9a212744cc8e",
-      "title": "Police ring up 33 arrests for cross-border card thefts",
-      "excerpt": "Thirty-three people have been arrested after Hong Kong and Shenzhen officers busted a cross-boundary credit card fraud syndicate that allegedly…",
-      "fullText": "Thirty-three people have been arrested after Hong Kong and Shenzhen officers busted a cross-boundary credit card fraud syndicate that allegedly targeted SAR residents travelling to Shenzhen.\n\nThe gang is believed to be linked to at least 60 fraud cases involving amount of more than HK$1.8 million, according to the police.\n\nChief inspector Fung Chi-tat said police had received multiple complaints from residents whose credit cards were stolen and used to buy mobile phones.\n\n“Investigations showed that these people had been to popular tourist spots or entertainment venues in Shenzhen but had not checked up on their belongings at those places,” he said.\n\n“It was only after they were informed by their banks of unusual, large-value credit card transactions that they realised their cards had been stolen and used.”\n\nSuperintendent Tsang Chun-kit said the gang stole credit cards from Hong Kong residents in Shenzhen and brought the cards back to the SAR immediately to shop at different stores.\n\nThe suspects would then resell the items the same day before fleeing Hong Kong.\n\nTsang added that the syndicate had mistakenly believed they could evade arrest by fleeing the SAR.\n\nHowever, he said, the Hong Kong police force has been in close communication with mainland law enforcement authorities.\n\nSixteen of the arrests – 11 men and five women aged between 17 and 45 – were made in Hong Kong while Public Security Bureau officers in Shenzhen picked up 11 men and six women aged 36 to 56.\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-10-24T09:05:52.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875193-20261024.htm"
     },
     {
       "id": "726fbb1507f69cf2",
