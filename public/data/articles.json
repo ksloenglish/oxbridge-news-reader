@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T09:45:17.773Z",
-  "checkedAt": "2026-10-31T10:15:16.794Z",
+  "generatedAt": "2026-10-31T10:30:22.579Z",
+  "checkedAt": "2026-10-31T10:30:22.579Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "f48b849ba693188c",
+      "title": "Nations commit to get nature goals back on track",
+      "excerpt": "Nearly 200 nations struck hard-fought agreements on Friday at a UN biodiversity summit hoping to revive a flagging commitment to…",
+      "fullText": "Nearly 200 nations struck hard-fought agreements on Friday at a UN biodiversity summit hoping to revive a flagging commitment to halt the destruction of nature by 2030.\n\nDelegates cheered as the crucial texts were approved in overtime but the celebrations were tempered by acrimonious debates and limited progress on some of the toughest issues.\n\n\"And that's it. Perfect,\" said COP17 president Hambardzum Matevosyan in Armenia as he brought down the gavel on the documents, the final versions of which were not immediately available.\n\nIt marked a renewed push to meet a landmark 2030 commitment to protect the plants, animals and ecosystems that sustain life on Earth after countries fell short on their promise.\n\nAccording to the United Nations, progress has lagged and key targets - including protecting 30 percent of land and oceans, tackling pollution, and increasing money for conservation - are off track.\n\nOver two bruising weeks in Yerevan, nations were urged to correct course to keep the pact alive.\n\nIn a draft agreement of one closely watched text, nations were urged to \"accelerate\" their efforts and warned that \"increased action\" was needed to tackle the forces driving biodiversity loss.\n\nAfter the cheers subsided, negotiations on other items dragged into the early hours of Saturday as the tone soured.\n\nSome welcomed modest progress on tackling subsidies and other incentives that encourage activities harmful to nature, such as fossil fuels, intensive agriculture and overfishing.\n\nEfforts to refine the lacklustre Cali Fund - a UN mechanism for sharing profits from corporations that use genetic data from plants and other organisms - also proved difficult.\n\nThe fund set out to raise US$1 billion a year for conservation in developing countries when it launched in early 2025. So far, it has attracted around US$10,000.\n\nNations have also feuded over science, with a small handful of countries accused of using tactics familiar from climate negotiations to weaken the role of a UN-backed biodiversity body.\n\n\"This UN conference made it clear that the obstructionist politics of the climate talks have entered the biodiversity negotiations,\" said Alfred DeGemmis from the Wildlife Conservation Society.\n\nAround 70 ministers joined the negotiations this week in an effort to nudge things along but the pace was sluggish, with indigenous leaders and civil society activists appealing to nations to act with greater urgency.\n\nThe 31st UN Climate Change Conference is scheduled for November 9 to 20, in Antalya, Türkiye. (AFP)\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T10:16:20.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876072-20261031.htm"
+    },
     {
       "id": "8e08e69a8d0cc7c6",
       "title": "58 arrested in triad crackdown as youth crimes spike",
@@ -962,17 +973,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/china/2026/10/28/china-taiwan-sun-yat-sen/"
-    },
-    {
-      "id": "462ffa2f72326f3e",
-      "title": "UK budget lifts bank tax to offset energy bills",
-      "excerpt": "Britain's Labour government will increase a tax on profits earned by banks to help reduce soaring energy bills for millions…",
-      "fullText": "Britain's Labour government will increase a tax on profits earned by banks to help reduce soaring energy bills for millions of UK households, finance minister John Healey announced in his budget on Wednesday.\n\nThe first budget of Prime Minister Andy Burnham's administration was delivered to parliament against a harsh global backdrop of rising inflation and borrowing costs, and the fallout of the Iran war.\n\nDespite the constraints, Healey pledged to raise UK defence spending to three percent of gross domestic product by 2030 – a commitment he had pushed for before resigning as defence secretary over insufficient military funding under previous PM Keir Starmer.\n\nBritain's economy will grow slightly faster than forecast this year – by 1.2 percent – before slowing to a worse-than-expected 1.0 percent in 2027 – driven by effects of the war in the Middle East, Healey said as he delivered the government's annual budget.\n\n\"Fiscal discipline is my first commitment,\" he added, in comments welcomed by bond markets as UK yields dipped Wednesday.\n\nHealey, whose official title is Chancellor of the Exchequer, promised \"immediate\" support for households and businesses in the face of \"global economic storms\".\n\nLabour is to double to six percent a surcharge on profits earned by banks operating in the UK.\n\nLasting for 15 months from January, the tax increase will raise £1.5 billion, Britain's fiscal watchdog, the Office for Budget Responsibility, said in an accompanying statement.\n\n\"This is net of an estimated £190 million reduction in receipts as some banks are assumed to move profits out of the UK in response to the higher tax rate,\" the OBR said.\n\nBanks had expected to be hit harder, resulting in share prices of most UK lenders, including Barclays and NatWest, rising.\n\nOil and gas giants operating in the UK, which are enjoying bumper profits thanks to the US-Iran war, are already subject to a windfall tax.\n\nHealey said a direct payment of £100 will be sent to 20 million households, as gas and electricity prices surge in large part owing to the Middle East conflict.\n\nFurther measures to lower energy bills included removing fixed fees on gas bills and extending a freeze on fuel duty.\n\nHealey's budget plans were constrained by his commitment to abide by predecessor Rachel Reeves's fiscal rules, stating that day-to-day outlay must balance with state tax receipts.\n\nIn the runup to the budget, UK media reports suggested government spending cuts could occur next year.\n\nResponding to the budget, the leader of the main opposition Conservatives Kemi Badenoch said: \"We all know why he's delayed until tomorrow, difficult (budget) decisions he should have taken today.\n\n\"It is because the prime minister wants to keep the option of an early general election, putting his party's interests before the country's.\"\n\nSince Burnham replaced Starmer as prime minister in July, Labour's support has risen among voters in opinion polls.\n\nFollowing Badenoch's comments, Burnham again ruled out the prospect of a snap general election in the next year, adding the budget had taken \"a very prudent and stable approach\". (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T23:39:50.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875717-20261029.htm"
     },
     {
       "id": "7f337e8b1e2199f1",
