@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T06:30:23.711Z",
-  "checkedAt": "2026-10-31T07:00:26.247Z",
+  "generatedAt": "2026-10-31T07:15:16.968Z",
+  "checkedAt": "2026-10-31T07:15:16.968Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "5881e8a912a15e8c",
+      "title": "HK may see strongest growth in five years: Paul Chan",
+      "excerpt": "Hong Kong could record its strongest full-year economic growth figure in five years in 2026, according to Financial Secretary Paul…",
+      "fullText": "Hong Kong could record its strongest full-year economic growth figure in five years in 2026, according to Financial Secretary Paul Chan.\n\nSpeaking on a radio programme on Saturday, he said the economy grew by 5.1 percent in the first half of the year and that strong export performance and investment growth continued into the third quarter.\n\n\"What I'm most pleased to see is that in terms of investment, the growth momentum in the first half of the year carried through into the third quarter,\" Chan said.\n\n\"Visitor numbers to Hong Kong are high, the streets are busy, and we're holding many mega events – such as the Wine and Dine Festival – plus many other big events and concerts.\n\n\"We have FinTech Week coming up. There's a chance that 2026 will be the strongest full-year economic growth in the past five years.\"\n\nOn next year’s budget, Chan said any relief measures would depend on economic performance.\n\nHe said the government would do its best but substantial infrastructure spending ahead meant authorities would need to manage public finances closely.\n\nHe also flagged external risks.\n\nIf geopolitical tensions and the Middle East conflict persist, oil prices could rise and feed into inflationary pressures, Chan stressed.\n\nHe expects interest rates to stay relatively high next year, which could affect the property market and the wider economy, and said the authorities would remain alert to financial risks.\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-10-31T06:54:34.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876049-20261031.htm"
+    },
     {
       "id": "33ccb29c65e65d10",
       "title": "Buildings-repair body 'to operate on user-pays basis'",
@@ -206,7 +217,7 @@
     },
     {
       "id": "5a93828148154129",
-      "title": "HK$160k worth of sculptures stolen at City Hall",
+      "title": "HK$160k worth of sculptures stolen from City Hall",
       "excerpt": "Police said a batch of sculptures was believed to be stolen from the City Hall in Central ahead of the…",
       "fullText": "Police said a batch of sculptures was believed to be stolen from the City Hall in Central ahead of the opening of an arts festival there.\n\nOfficers said they were alerted at around 2.30pm that the sculptures worth about HK$160,000 went missing.\n\nThe case has been classified as theft.\n\nThe Central district's criminal investigation team is following up on the case.\n\nThe opening of the Microwave International New Media Arts Festival was scheduled for Friday evening.\n\nEdited by Edmond Fong",
       "imageUrl": null,
@@ -830,17 +841,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875786-20261029.htm"
-    },
-    {
-      "id": "3bcd5ffbb031c998",
-      "title": "Govt departments share blame for Wang Fuk fire",
-      "excerpt": "An independent committee looking into the Wang Fuk Court fire on Thursday concluded that government regulators must share responsibility for…",
-      "fullText": "An independent committee looking into the Wang Fuk Court fire on Thursday concluded that government regulators must share responsibility for the high death toll in the Wang Fuk Court fire, finding that private-sector misconduct was compounded by decades of official failure, regulatory loopholes and “slack enforcement”.\n\nThe committee concluded that had officials handled residents’ complaints properly and worked with a sense of crisis about facade fires on occupied renovation sites, private wrongdoing and site hazards “could have been rectified or removed before the fire.” Lax enforcement, it said, “inevitably” breeds lax private-sector performance.\n\nThe government bodies identified “should bear part of the responsibility for the high casualties”.\n\n\"Had the staff of the various government bodies handled the complaints properly and done their works seriously given the possible tragic consequences of fire in the building maintenance and repair sites, there was a real possibility that the misconduct of the private-sector parties and the fire hazards in Wang Fuk Court could have been rectified or removed before the fire,\" it said.\n\nIt found the Buildings Department (BD) and the Independent Checking Unit (ICU) primarily responsible for failed supervision of the Wang Fuk Court works. The failings were “systemic and multi-layered,” spanning policy design and day-to-day operations.\n\nIt listed six core failures: over-reliance on the integrity of building professionals; failing to design supervision around the tragic risk of fires at building maintenance and renovation sites; inadequate control of temporary materials such as scaffolding nets, canvas, foam boards and toe-boards; poor complaint handling; slack operational enforcement; and poor BD-ICU coordination, including the BD’s failure to audit the ICU.\n\nDespite a contract worth more than HK$330 million covering the external walls of eight high-rise occupied blocks, the works were classified as “lower-risk” minor works under the Minor Works Control System rather than high-risk major works.\n\nThe committee said the Fire Services Department (FSD) failed its supervisory duty to assess and remove fire hazards at Wang Fuk Court and to supervise shutdowns of fire service installations and the contractors who certify them.\n\nDespite 26 visits, FSD crews never inspected escape staircases and never detected access openings. Complaints about foam boards, smoking and blocked escapes were met with referrals and “merry-go-round” replies rather than effective action.\n\nIt also identified four Labour Department (LD) operational failures: smoking on site; foam-board fire hazards; verifying net fire-retardancy; and access openings.\n\nAfter 16 visits, smoking complaints were marked “not justified”. The committee said that finding was “simply contrary to the reality”, given residents’ photographs, videos and WhatsApp messages.\n\nCompared with the BD, ICU and FSD, the LD should bear “lesser” responsibility, the committee said – but still criticised a “just-following-the-books” attitude and departments that “passed the ball” until hazards fell through the cracks.\n\n\"There are already strong indications that persons with dubious or triad background are active in the building maintenance and repair industry. Given the probable presence of black sheep in the industry, it is regrettable that there was practicably no control or supervision over the actual execution of the building maintenance and repair works,\" the report says.\n\n\"As a matter of good governance, the services provided by the civil servants should be 'people-centred'\", the committee said.\n\nIn the case that the complainant has raised a matter of genuine concern, they should “take an extra step to help” and should avoid saying “this is not our responsibility and go look elsewhere”, it added.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T08:11:41.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875782-20261029.htm"
     },
     {
       "id": "4c6f8418b9da8d33",
