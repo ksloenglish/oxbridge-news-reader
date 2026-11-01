@@ -480,6 +480,14 @@ select {
 .excerpt, .meta, .quiet { color: var(--muted); }
 .excerpt { font-size: 0.95rem; }
 .meta { font-size: 0.86rem; }
+/* Published line, then word count and reading time. Outer space matches the
+   old single meta paragraph (1em of the 0.86rem meta type). */
+.story-meta {
+  display: grid;
+  gap: 0.25rem;
+  margin: 0.86rem 0;
+}
+.story-meta .meta { margin: 0; }
 
 .reader h2 { font-size: clamp(1.8rem, 4vw, 2.6rem); margin: 0.2rem 0 0.6rem; }
 .hero {
