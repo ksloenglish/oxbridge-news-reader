@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T22:45:17.344Z",
-  "checkedAt": "2026-11-01T23:00:27.439Z",
+  "generatedAt": "2026-11-01T23:15:18.809Z",
+  "checkedAt": "2026-11-01T23:15:18.809Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "226f6a402248fd6c",
+      "title": "Houthi media issue fresh threats against Saudi targets",
+      "excerpt": "Houthi media, citing an anonymous military official, renewed threats on Sunday against Saudi oil giant Aramco and aviation in the…",
+      "fullText": "Houthi media, citing an anonymous military official, renewed threats on Sunday against Saudi oil giant Aramco and aviation in the kingdom.\n\nYemen's Houthis, fighting a Saudi-led coalition backing the internationally recognised government, are allies of Iran, which on Sunday warned the US and Israel not to renew strikes on the Islamic republic after they had threatened a return to war.\n\n\"Aramco facilities are within range of the Yemeni Armed Forces, and investments in them are a venture fraught with losses,\" the Houthis' Saba news agency quoted the military official as saying.\n\nThe official also warned international airlines against using Saudi airspace \"except for the airspaces of Mecca and Medina\".\n\nThe Houthis have targeted oil facilities and airports in the kingdom since Yemen's once-dormant war reignited in July, killing 24 people in Saudi Arabia last month.\n\nAn October 10 strike on Riyadh's international airport became the deadliest on Saudi soil in years when it killed at least 13 people.\n\nMeanwhile, fighting in Yemen has displaced more than 300,000 people in the western part of the impoverished country.\n\nMost of them forced from their homes in the last two months, the displaced \"urgently need shelter, food, clean water and health care\", the International Organisation for Migration said in a statement on Sunday.\n\nThe United Nations says more than 1,600 people have been killed since fighting in Yemen reignited.\n\nSaba on Sunday said that Saudi Arabia had \"targeted the Faculty of Medicine at Hodeidah University with two raids\".\n\nA fragile 2022 truce fell apart in July after the Houthis allowed an Iranian plane to land in Yemen's capital Sanaa in defiance of Saudi control over Yemeni airspace, setting off a spate of attacks. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T23:07:34.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876175-20261102.htm"
+    },
     {
       "id": "e0240100c36068f4",
       "title": "Swedish runner dominates at New York in first marathon",
@@ -742,17 +753,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875915-20261030.htm"
-    },
-    {
-      "id": "8f21de381e4ba5f1",
-      "title": "Four tankers hit mines in Strait of Hormuz: Iran",
-      "excerpt": "Four tankers caught fire after hitting mines while attempting to navigate the Strait of Hormuz, Iran's armed forces said —…",
-      "fullText": "Four tankers caught fire after hitting mines while attempting to navigate the Strait of Hormuz, Iran's armed forces said — a day after the US military said it cleared key routes through the waterway.\n\n\"Over the past 24 hours, three violating oil tankers exploded and caught fire after striking mines while attempting to pass through the unauthorised southern route of the Strait of Hormuz,\" Iran's Islamic Revolutionary Guards Corps said in a statement.\n\nLater on Thursday, Iran's army reported that another tanker had caught fire east of the strait, after hitting mines while \"operating in a restricted and dangerous area\".\n\nThe initial three vessels had \"switched off all their radar and navigation systems\" and disregarded warnings from the IRGC navy, the statement said.\n\nIt was not immediately clear when the incidents occurred or which flags the tankers were flying.\n\nIn recent weeks, Iran has reported multiple vessels striking sea mines, prompting US Central Command (Centcom), which runs military operations in the region, to reaffirm on social media its insistence that all mines in \"primary transit routes\" have been cleared.\n\nOn Thursday, Hossein Mohebi, the spokesman for the IRGC challenged the claim, saying on X: \"Prove your Hormuz mine-clearing claim with independent evidence, not statements!\"\n\nSince the outbreak of the war on February 28, Iran has severely restricted traffic through the strategic waterway, which normally carries about one-fifth of global oil consumption.\n\nThe United States has in response imposed a blockade on Iranian ports and helped tankers travel the strait.\n\nOn Sunday Centcom said it had helped Gulf countries export 1.5 billion barrels of oil via Hormuz since the summer.\n\nIn their statement on Thursday, the Guards said \"the unauthorised route through the Strait of Hormuz is mined, and that vessel owners and crews are responsible for transiting these routes and should not pay attention to Centcom's delusions on social media\". (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T01:27:15.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875901-20261030.htm"
     },
     {
       "id": "1b8c0c46b1355aed",
