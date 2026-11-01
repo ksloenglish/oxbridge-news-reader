@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T05:30:21.122Z",
-  "checkedAt": "2026-11-01T08:15:15.604Z",
+  "generatedAt": "2026-11-01T08:30:26.696Z",
+  "checkedAt": "2026-11-01T08:30:26.696Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 19
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 11
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "89c0b4b4472d390e",
+      "title": "HK Q3 growth set to beat forecasts: FS",
+      "excerpt": "Hong Kong’s economy is expected to grow faster than market forecasts in Q3, extending its positive growth streak to 15…",
+      "fullText": "Hong Kong’s economy is expected to grow faster than market forecasts in Q3, extending its positive growth streak to 15 consecutive quarters, according to Financial Secretary Paul Chan.\n\nIn his weekly blog on Sunday, Chan said the government will release advance estimates for third-quarter GDP on Tuesday.\n\nPreliminary indications suggest that faster export growth and solid domestic demand will push year-on-year growth above market expectations and accelerate from the second quarter.\n\n\"For the first three quarters combined, real GDP growth year-on-year will be the highest for the same period in five years,\" he said.\n\n\"With the economy maintaining good momentum, the full-year economic growth forecast is expected to be revised upward again.\"\n\nChan attributed part of the growth to technological innovation, noting that the global artificial intelligence investment boom continues to drive strong demand for high-end electronic components and AI-related goods.\n\n\"The value of Hong Kong’s merchandise exports surged by 64.9 percent year-on-year in September, recording double-digit growth for the 20th consecutive month, with the monthly increase hitting a more than 40-year high,\" he said.\n\n\"Among these, exports of 'office machines and automatic data processing machines' soared by 183.7 percent.\"\n\nPrivate investment expenditure has also grown by double digits for three straight quarters and maintained that momentum into the third quarter, Chan said, reflecting corporate confidence in the outlook.\n\nService exports have benefited from continued growth in inbound tourism, buoyant cross-boundary transport and an active financial market.\n\nChan said upcoming retail and catering receipts figures are expected to continue showing moderate growth.\n\nHe also noted that two major international financial events – Hong Kong Fintech Week and the Global Financial Leaders’ Investment Summit – will begin on Monday.\n\nFintech industry players and investors from more than 100 economies, as well as heads of top international financial institutions, will gather in Hong Kong to discuss key issues in global financial markets and technological development and to identify and create new investment opportunities through high-level exchanges.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T08:18:10.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876139-20261101.htm"
+    },
+    {
+      "id": "b2fa5c9fd1aa4a3e",
+      "title": "Runners unfazed by heat in first-ever NM marathon",
+      "excerpt": "Around 15,000 people took part in the inaugural Northern Metropolis Marathon on Sunday morning, with the organiser saying it will…",
+      "fullText": "Around 15,000 people took part in the inaugural Northern Metropolis Marathon on Sunday morning, with the organiser saying it will try to hold future races in cooler months and extend the route to Shenzhen.\n\nAt the sound of the horn, eager runners began their 42.1km journey at 6:30am in Shek Mun, where the Heung Yee Kuk – which organised the event – is headquartered.\n\nFull marathoners then headed north via the Science Park, Tolo Highway, Lam Tsuen River in Tai Po and the Lung Shan Tunnel before crossing the line at the recently commissioned Fanling Bypass.\n\nHalf-marathon runners had a similar route, starting at the Science Park and finishing in Fanling.\n\nMost participants said the arrangements were smooth. But depending on their luck, some might have had to briefly stop at the traffic lights at a crossing to let cars pass.\n\nA certain section of the route also saw runners sharing a bike path with cyclists.\n\nLai, a marathon finisher, said he was not pleased with his time of three hours and 11 minutes.\n\n\"I kind of expected it, because of the heat,\" he said.\n\n\"To me the route didn't matter. Running in 28 degrees [Celsius] was really tough, and there was a lack of water stations. There should be one station every 2.5 kilometres, compared to every three to four kilometres right now.\"\n\nFormer SAR representative Chan Ka-ho, meanwhile, came fourth overall in the men's marathon.\n\n\"There aren't that many full marathon courses in Hong Kong, perhaps only three or four. So this new course offers a fresh experience,\" he said.\n\n\"If you ask me if the route is fast, I would say no. But for recreational runners who wish to step onto the Fanling Bypass and Lung Shan Tunnel, then it's quite nice.\"\n\nTo promote local produce and delicacies, each finisher was given a hydroponic cabbage as well as pastries.\n\nHeung Yee Kuk chairman Kenneth Lau said he was surprised by the turnout.\n\nHe hoped that the route allowed participants to experience the charm of the New Territories, and thanked authorities for providing help to overcome various challenges.\n\n\"Many people have asked, if they can run all the way to Shenzhen... We can see that infrastructure development in Yuen Long and the rest of the Northern Metropolis is in full swing, with numerous construction sites and projects under way,\" he said.\n\n\"I believe that in the future, the route will surely extend to San Tin, the Lok Ma Chau Loop, or even all the way into the Shenzhen area.\"\n\nLau admitted the day's temperature of 25 degrees Celsius or so was not the most ideal for running, and hoped to hold future races in December if possible.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T08:06:46.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876136-20261101.htm"
+    },
     {
       "id": "bdd2db8fd2480d6d",
       "title": "'Revolutionary change aimed for building maintenance'",
@@ -645,17 +667,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875915-20261030.htm"
     },
     {
-      "id": "e3a9ea014f795960",
-      "title": "'Wang Fuk recommendations will be carried out swiftly'",
-      "excerpt": "Most of the 120 recommendations from the independent committee report on the deadly Wang Fuk Court fire could be implemented…",
-      "fullText": "Most of the 120 recommendations from the independent committee report on the deadly Wang Fuk Court fire could be implemented within a few months, Chief Secretary Eric Chan said on Friday.\n\n\"To implement the 120 recommendations as soon as possible, I believe, will help to quickly reduce the possibility of similar problems occurring again in the future. This is very important,\" he said during an RTHK programme.\n\nChan said the recommendations are very comprehensive and the government must draw lessons from the incident to reform and improve existing systems.\n\nThe chief secretary will lead a steering committee to review each of the 120 proposals, and drive and monitor the implementation of measures.\n\nChan said the committee would meet soon and assign each recommendation to the relevant departments.\n\nWhere a recommendation involves multiple departments, he said, the lead department responsible for overseeing implementation would be identified.\n\nEach department would be required to submit a report to him on how the recommendation would be implemented or improved, and he would oversee the timeline for implementation.\n\n\"There are several principles. First, it must be done very rigorously; second, it must be done very promptly; third, it must be effective — effectively achieving the goal,\" he said.\n\nThe chief secretary said some recommendations are already being rolled out.\n\nHe expressed hope that six bills, including amendments to the Fire Services Ordinance and the Competition Ordinance, could be submitted to the Legislative Council within the year.\n\nOnce enacted, he said, these laws would give enforcement and regulatory bodies sufficient powers to carry out their work.\n\nOn the proposal to set up a central database to share information, such as underperforming contractors, among government departments, Chan said preparation work may take a few months due to the need for data conversion and platform design.\n\nHe expects the system could be initially launched around May or June next year, and that the government would then be able to better serve the public.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T01:41:43.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875905-20261030.htm"
-    },
-    {
       "id": "8f21de381e4ba5f1",
       "title": "Four tankers hit mines in Strait of Hormuz: Iran",
       "excerpt": "Four tankers caught fire after hitting mines while attempting to navigate the Strait of Hormuz, Iran's armed forces said —…",
@@ -893,8 +904,8 @@
       "fullText": "The Shenzhen Bay control point will extend its opening hours on Friday and Saturday to help facilitate cross-boundary traffic.\n\nClearance time at the crossing will be extended to 2am from midnight, as the number of travellers is expected to surge due to a series of events staged in Hong Kong including Halloween festivities, the Wine and Dine Festival and mega concerts.\n\nThe government said on Thursday that it reached a consensus with Shenzhen authorities for the arrangement, so as to alleviate the expected surge in passenger and vehicular flows at the round-the-clock Huanggang port and San Tin Highway.\n\nSAR authorities have also coordinated with cross-boundary coach operators to extend their service hours serving Shenzhen Bay.\n\nFranchised bus operators, for their part, will arrange two special overnight bus routes to ply between the port and Yuen Long/Tin Shui Wai and Tuen Mun respectively.\n\n“The implementation of the special arrangement to extend the clearance hours at the Shenzhen Bay Control Point helps divert late-night cross-boundary passenger and vehicular flows and facilitates travel for residents of both places and visitors,” a government spokesman said.\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-10-29T14:22:13.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875855-20261029.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
-    },
-    {
-      "id": "7aceb231ca0e6f87",
-      "title": "Manpower shortage to narrow",
-      "excerpt": "The Labour & Welfare Bureau today published its Mid-term Update of Manpower Projection report, predicting that Hong Kong's overall manpower…",
-      "fullText": "The Labour & Welfare Bureau today published its Mid-term Update of Manpower Projection report, predicting that Hong Kong's overall manpower shortage will narrow from the previous projection of approximately 180,000 to some 130,000 by 2028.\n\nThe report indicates that the city’s overall manpower shortage has been alleviated, benefiting from various talent admission and labour importation measures implemented by the Government over the past three years.\n\nSecretary for Labour & Welfare Chris Sun said the mid-term update reflects the Government’s measures have effectively stabilised the labour force.\n\n“However, manpower demand in certain industries remains acute. In response to the job reshaping driven by artificial intelligence (AI), the Government will continue to collaborate with all parties to formulate targeted measures.\n\n“In addition to strengthening retraining mechanisms and providing flexible skill-conversion programmes for elderly and middle-aged employees, we will enhance the employment support for young graduates and explore incentives for employers and employees to engage in on-the-job retraining.\n\n“The Government will adopt a multipronged approach to assist workers at all levels in equipping themselves to step into the new era of AI.”\n\nThe report finds that economic restructuring and the adoption of AI adoption have moderated growth in demand for manpower, at the same time as admission schemes have supplemented parts of the labour force. Nevertheless, the manpower situation across most key industries – particularly innovation and technology, aviation, construction, everyday services and healthcare services – remains tight.\n\nAbout 60% percentage of the overall manpower shortage over the next three years is projected to be concentrated in two categories – skilled technical workers, and services and sales workers. This is due to workforce ageing and difficulties in attracting younger entrants.\n\nLooking ahead to 2028, the overall labour force, driven by continued population ageing, is projected to decrease gradually to approximately 3.4 million even after accounting for various new entrants.\n\nThe report includes analysis of the profound impact of AI on the labour market.\n\nResearch indicates that adoption of AI in applicable roles will boost individual productivity by 20% to 30%. Companies are currently managing the transition through natural attrition and the risk of large-scale layoffs in the short term remains relatively low. However, approximately 20% to 30% of positions, primarily clerical roles, will face restructuring.\n\nThe Government will continue to promote “AI for All” and support lifelong learning, ensuring that skills in the labour force remain aligned with Hong Kong's future economy.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260922/20260922_160618_499/images/20260922182515791.jpg",
-      "publishedAt": "2026-09-21T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260922/20260922_160618_499.html"
     }
   ]
 }
