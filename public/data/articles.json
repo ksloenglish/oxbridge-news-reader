@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T12:45:16.163Z",
-  "checkedAt": "2026-11-01T13:30:22.823Z",
+  "generatedAt": "2026-11-01T13:45:20.050Z",
+  "checkedAt": "2026-11-01T13:45:20.050Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "23d17fb5f55c70f3",
+      "title": "France probes petrol-bomb attack on police",
+      "excerpt": "France has launched an attempted murder investigation after a petrol bomb was thrown at security forces during a weekend protest…",
+      "fullText": "France has launched an attempted murder investigation after a petrol bomb was thrown at security forces during a weekend protest in Paris, prosecutors said on Sunday.\n\nOn Saturday, clashes erupted in Paris and some other cities after hundreds of thousands of people staged a third weekend of protests against soaring living costs.\n\nThe Paris police prefecture said that several hundred rioters had attacked security forces with projectiles, including a Molotov cocktail.\n\n\"Explosive devices were thrown at around fifteen gendarmes as well as police officers,\" the prosecutor's office said on Sunday.\n\nGendarmes are military police officers who are part of the French armed forces.\n\nProsecutors said an investigation had been opened for \"attempted murder of persons vested with public authority\".\n\nDramatic images showed a homemade incendiary device exploding at the feet of a security officer in eastern Paris.\n\nAn assessment of the injured was ongoing, prosecutors said, adding the reported injuries include second-degree burns.\n\nNo suspects \"have been arrested at this stage in connection with the incident,\" the prosecutor's office said, adding that investigators were working to identify those responsible.\n\nInterior Minister Laurent Nunez on Saturday decried an \"extraordinary\" level of violence from some rioters.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T13:22:37.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876156-20261101.htm"
+    },
     {
       "id": "0d54c2e1842f3da2",
       "title": "Evening News on TV32 - Nov 1",
@@ -731,17 +742,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875893-20261030.htm"
-    },
-    {
-      "id": "79bb5b72e22febbf",
-      "title": "DPRK's Kim calls for drone dominance",
-      "excerpt": "The Democratic People's Republic of Korea (DPRK) has test-fired attack drones, missiles and a multiple rocket launcher at a weapons…",
-      "fullText": "The Democratic People's Republic of Korea (DPRK) has test-fired attack drones, missiles and a multiple rocket launcher at a weapons demonstration, state media KCNA reported on Friday, as leader Kim Jong Un called for faster development of drone and AI technology for military use.\n\nThe event came a day after Seoul said Pyongyang had fired \"around a dozen\" short-range ballistic missiles off its east coast, though it was not immediately clear whether the launches were linked to the demonstration.\n\nAt the event, Kim stressed the \"aim to seize the absolute superiority in the drone technology is an indispensable option in the light of the ever-changing patterns of modern warfare,\" according to KCNA.\n\nHe added: \"Strength precisely means peace and peace is guaranteed only by strength.\"\n\nThe demonstration featured suicide attack drones, multipurpose drones firing air-to-surface missiles, cruise missiles and 600mm multiple rocket launchers. KCNA said the drones and cruise missiles hit an island target with 100 percent accuracy.\n\nThe event follows a slew of recent weapons tests by Pyongyang, including a new precision-guided torpedo system and an intermediate-range hypersonic missile, both of which were said to employ AI technology.\n\nSouth Korea's Joint Chiefs of Staff said its military detected around a dozen short-range ballistic missiles fired from the Wonsan area of the DPRK towards the East Sea, also known as the Sea of Japan.\n\nThe missiles flew about 250 kilometres, and \"South Korea and the United States are conducting a detailed analysis of their exact specifications\", Seoul's military said, adding it had stepped up surveillance of possible additional launches.\n\nSeoul's National Security Office, meanwhile, said the launches violated UN Security Council resolutions, labelling them \"serious acts that do nothing to help manage the current situation\". (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T23:49:42.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875891-20261030.htm"
     },
     {
       "id": "2fdcb7758637d051",
