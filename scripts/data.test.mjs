@@ -6,6 +6,9 @@ import {
   FEED_CHECK_OVERDUE_MS,
   articlesForSelection,
   describeFeedCheck,
+  READING_WPM,
+  countArticleWords,
+  formatArticleReading,
   formatPublishedAt,
   formatSnapshotUpdated,
   isFeedCheckOverdue,
@@ -52,6 +55,29 @@ test("snapshot time is shown in Hong Kong time", () => {
   assert.equal(formatSnapshotUpdated("2026-10-26T03:48:42.114Z"), "26 Oct 2026, 11:48 am");
   assert.equal(formatSnapshotUpdated(null), "");
   assert.equal(formatSnapshotUpdated("not-a-date"), "");
+});
+
+test("article reading line counts the body and estimates time at 230 words per minute", () => {
+  assert.equal(READING_WPM, 230);
+  assert.equal(countArticleWords(null), 0);
+  assert.equal(countArticleWords(""), 0);
+  assert.equal(countArticleWords("   \n\n  "), 0);
+  assert.equal(formatArticleReading(""), "");
+  assert.equal(formatArticleReading("<p></p><br><script>alert(1)</script>"), "");
+  assert.equal(countArticleWords("One"), 1);
+  assert.equal(formatArticleReading("One"), "1 word · Less than 1 min read");
+  assert.equal(countArticleWords("Hello\n\nworld."), 2);
+  assert.equal(countArticleWords("<p>Hello <b>world</b></p><script>alert(1)</script>"), 2);
+  const justUnder = Array.from({ length: 114 }, () => "word").join(" ");
+  const halfMinute = Array.from({ length: 115 }, () => "word").join(" ");
+  const almostTwo = Array.from({ length: 344 }, () => "word").join(" ");
+  const twoMinutes = Array.from({ length: 345 }, () => "word").join(" ");
+  const longer = Array.from({ length: 1234 }, () => "word").join(" ");
+  assert.equal(formatArticleReading(justUnder), "114 words · Less than 1 min read");
+  assert.equal(formatArticleReading(halfMinute), "115 words · 1 min read");
+  assert.equal(formatArticleReading(almostTwo), "344 words · 1 min read");
+  assert.equal(formatArticleReading(twoMinutes), "345 words · 2 min read");
+  assert.equal(formatArticleReading(longer), "1,234 words · 5 min read");
 });
 
 test("publication time uses publishedAt in Hong Kong time and is omitted when missing", () => {

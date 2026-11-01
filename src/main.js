@@ -4,6 +4,7 @@ import {
   articlesForSelection,
   categoryLabel,
   describeFeedCheck,
+  formatArticleReading,
   formatPublishedAt,
   readCatalog,
   readSnapshot,
@@ -322,8 +323,11 @@ function storyMeta(article) {
     ? `<a class="original" href="${esc(href)}" target="_blank" rel="noopener noreferrer">Original article</a>`
     : "";
   const bits = [published, original].filter(Boolean);
-  if (!bits.length) return "";
-  return `<p class="meta">${bits.join(" · ")}</p>`;
+  const reading = formatArticleReading(article?.fullText);
+  if (!bits.length && !reading) return "";
+  const publishedLine = bits.length ? `<p class="meta">${bits.join(" · ")}</p>` : "";
+  const readingLine = reading ? `<p class="meta">${esc(reading)}</p>` : "";
+  return `<div class="story-meta">${publishedLine}${readingLine}</div>`;
 }
 
 function renderAbout() {

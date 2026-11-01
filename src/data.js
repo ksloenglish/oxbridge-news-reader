@@ -146,3 +146,49 @@ export function formatPublishedAt(value) {
   if (!when) return "";
   return `Published ${when} (HKT)`;
 }
+
+/**
+ * Adult pace for news prose, inside the usual 200–250 words per minute.
+ * Reading time rounds to the nearest minute. Under 30 seconds is
+ * “Less than 1 min read”.
+ */
+export const READING_WPM = 230;
+
+const WORD_COUNT = new Intl.NumberFormat("en-GB");
+
+/** Body prose only. Tags and script blocks are not words the reader counts. */
+function visibleArticleBody(value) {
+  return String(value ?? "")
+    .replace(/<\s*(script|style|noscript|iframe)\b[^>]*>[\s\S]*?<\s*\/\s*\1\s*>/gi, " ")
+    .replace(/<\s*(script|style|noscript|iframe)\b[^>]*>[\s\S]*$/gi, " ")
+    .replace(/<!--[\s\S]*?-->/g, " ")
+    .replace(/<[^>]+>/g, " ");
+}
+
+/**
+ * Words in `fullText`, the article body shown in the reader.
+ * Headline, excerpt, date, and other desk chrome are not included.
+ * Whitespace-separated tokens; punctuation stays on its word.
+ * Empty or markup-only text counts as zero.
+ */
+export function countArticleWords(fullText) {
+  const flat = visibleArticleBody(fullText).replace(/\s+/g, " ").trim();
+  if (!flat) return 0;
+  return flat.split(" ").length;
+}
+
+/**
+ * “1,234 words · 6 min read”, or empty when the body has no words.
+ * The line is omitted for a missing body so the empty-state paragraph stands alone.
+ */
+export function formatArticleReading(fullText) {
+  const count = countArticleWords(fullText);
+  if (!count) return "";
+  const words = WORD_COUNT.format(count);
+  const wordLabel = count === 1 ? "word" : "words";
+  const minutes = count / READING_WPM;
+  const time = minutes < 0.5
+    ? "Less than 1 min read"
+    : `${Math.round(minutes)} min read`;
+  return `${words} ${wordLabel} · ${time}`;
+}
