@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T11:00:30.263Z",
-  "checkedAt": "2026-11-01T12:30:21.341Z",
+  "generatedAt": "2026-11-01T12:45:16.163Z",
+  "checkedAt": "2026-11-01T12:45:16.163Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 20
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 11
+      "articleCount": 10
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "0d54c2e1842f3da2",
+      "title": "Evening News on TV32 - Nov 1",
+      "excerpt": "Top stories for Sunday, Nov 1, 2026 - The justice secretary says \"bad actors\" are going to be driven out…",
+      "fullText": "Top stories for Sunday, Nov 1, 2026\n\n- The justice secretary says \"bad actors\" are going to be driven out of the building maintenance sector.\n\n- Thousands join the first ever Northern Metropolis Marathon.\n\n- Hong Kong has its warmest October on record.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T12:22:27.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876151-20261101.htm"
+    },
     {
       "id": "1d9656a7047c96ee",
       "title": "Hong Kong records warmest October since records begin",
@@ -585,8 +596,8 @@
       "fullText": "The Transport Department has warned that traffic around the Huanggang control point and San Tin Road will be very heavy on Friday night and over the next two nights, as Halloween celebrations and other events in Hong Kong and Kowloon are expected to end around midnight.\n\nIn a post on its social media page, the department said the Huanggang checkpoint provides dedicated public transport lanes, allowing franchised buses, cross-boundary coaches and green minibuses to travel via San Sham Road directly to the port.\n\nIt said road markings have been strengthened and the dedicated lanes extended to improve effectiveness.\n\nDuring peak traffic periods, four franchised bus routes heading to the Huanggang port via the San Tin Public Transport Interchange will enter the interchange directly from a junction of the San Tin section of Castle Peak Road helping to divert traffic away from the busy San Tin roundabout.\n\nThe department said it has instructed public transport operators to reserve sufficient vehicles and manpower, and to increase service frequency according to passenger flow.\n\nIts Emergency Transport Co-ordination Centre will monitor traffic conditions around the clock and take appropriate measures as needed, it said.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-10-30T08:01:06.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875954-20261030.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
-    },
-    {
-      "id": "9ae8a1e02c50d50c",
-      "title": "SED meets state leader in Beijing",
-      "excerpt": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in…",
-      "fullText": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in visiting a state leader and Ministry of Education officials in Beijing.\n\nMs Choi and the delegates were received by Vice-Chairperson of the National People's Congress Standing Committee Tie Ning at the Great Hall of the People this afternoon. They also met and exchanged views with officials from the ministry.\n\nMs Choi remarked that this year marks the 77th anniversary of the founding of the People's Republic of China, the 105th anniversary of the founding of the Communist Party of China, and the opening year of the National 15th Five-Year Plan.\n\nShe said it was highly significant for Hong Kong's education sector to visit Beijing ahead of National Day, on October 1, and to celebrate the motherland's birthday and experience a jubilant festive atmosphere with people in the capital.\n\nMs Choi highlighted that last week the Hong Kong Special Administrative Region Government announced its First Five-Year Plan, which aligns with the National 15th Five-Year Plan. She outlined that the Hong Kong's education sector faces multiple tasks, including digital education, talent cultivation and the integration of industry and education.\n\nShe said: “The delegation enabled teachers to gain insight into the latest education developments of the country and share experiences with Chinese Mainland teachers in areas such as operation models, curricula and teaching arrangements of schools at all levels.\n\n“It not only broadened their horizons but also fostered exchanges between the education sectors of both places, providing important references for the future development of Hong Kong's education and laying a foundation for deeper collaboration.”\n\nMs Choi and the delegation subsequently attended a banquet hosted by the Ministry of Education, where they engaged in in-depth discussions regarding professional connections and mutual learning between the education sectors of the two places.\n\nMs Choi and the delegation members will conclude their visit and return to Hong Kong tomorrow.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014/images/20260923195636768.jpg",
-      "publishedAt": "2026-09-22T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
     }
   ]
 }
