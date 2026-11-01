@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T13:45:20.050Z",
-  "checkedAt": "2026-11-01T14:23:22.280Z",
+  "generatedAt": "2026-11-01T14:30:25.602Z",
+  "checkedAt": "2026-11-01T14:30:25.602Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "1212cf0131848715",
+      "title": "UAE says hoping for breakthrough in Iran-US war",
+      "excerpt": "The United Arab Emirates is hoping for a breakthrough in negotiations between Iran and the United States while being prepared…",
+      "fullText": "The United Arab Emirates is hoping for a breakthrough in negotiations between Iran and the United States while being prepared for the worst, a senior official said on Sunday, following threats of a resumption of the Middle East war.\n\n\"We're hoping that there is a diplomatic breakthrough,\" diplomatic adviser to the Emirati president Anwar Gargash said during a conference in Manama.\n\n\"It is not the interest of the region to go through another round... But I think we're also, as we've shown before, braced for the worst.\"\n\nFollowing a visit to Tehran this week by a Qatari delegation, Iran has dispatched envoys to the Gulf country to continue consultations as part of indirect negotiations with the US to end the war.\n\nBut US President Donald Trump reiterated his threats on Saturday, saying the United States still has to \"take care of\" one or two targets in Iran.\n\n\"We just can't allow Iran to take this region and the global economy hostage,\" US Assistant Secretary for Near Eastern Affairs Donald Blome said at the Manama conference on Sunday.\n\n\"The hand of negotiation has been extended, and those channels have continued to be open and active at the same time,\" Blome said. \"We've been also prepared to go in another direction.\"\n\nOn Saturday, US Secretary of State Marco Rubio said Trump has not made a decision about fresh strikes on Iran and that the US would be open to a diplomatic solution.\n\nThe war began on February 28 with joint US-Israeli strikes on Iran, which retaliated by targeting, among others, Gulf countries allied with Washington. (AFP)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T14:12:25.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876159-20261101.htm"
+    },
     {
       "id": "23d17fb5f55c70f3",
       "title": "France probes petrol-bomb attack on police",
@@ -731,17 +742,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875890-20261030.htm"
-    },
-    {
-      "id": "0117b641264389b7",
-      "title": "Russian drone strike kills 14 at Ukraine train station",
-      "excerpt": "A Russian drone slammed into a busy railway platform in the Ukrainian city of Dnipro on Thursday, killing at least…",
-      "fullText": "A Russian drone slammed into a busy railway platform in the Ukrainian city of Dnipro on Thursday, killing at least 14 people in what President Volodymyr Zelensky called a \"horrific\" attack that demands action by Kyiv's allies.\n\nThe strike came as Ukraine and Russia kept to a fragile local ceasefire in the ravaged city of Oleshky – under Russian occupation since 2022 and where residents have faced months of food, water and medicine shortages.\n\nWhile the truce held into a third day, at least 20 people were killed and more than 70 people injured, according to local officials, in strikes across the country.\n\nThe strike on Dnipro station hit a platform \"where a regular commuter train and a regular passenger train were standing\", Zelensky said.\n\nBy Thursday afternoon, Dnipropetrovsk regional governor Oleksandr Ganzha said the death toll had risen to 14 with another 14 people wounded, six of them in severe condition with \"multiple shrapnel wounds\".\n\nOne injured was an 11-year-old boy, while one man had \"both legs amputated\", according to the governor.\n\nZelensky slammed the attack as \"horrific\" and insisted that \"sanctions against Moscow and its war machine must not be eased for as long as this Russian war continues\".\n\nImages released by Ukrainian emergency services showed bodies on the platform, rescuers helping victims and two burnt-out passenger trains with their windows shattered.\n\nFrench President Emmanuel Macron reacted with outrage to the attack, stressing the need for \"far more than a localised ceasefire\" like the one in Oleshky.\n\nEuropean Union council president Antonio Costa called for greater pressure on Russia after the latest \"cruel and devastating series of Russian strikes against civilians\".\n\n\"The EU will continue to increase the pressure on Russia and to support Ukraine until a just and lasting peace is achieved,\" he added.\n\n\"We call on all our international partners to do the same.\"\n\nUkraine's air force said it intercepted three jet-powered drones in one daytime attack, but that a fourth evaded its defences and hit the station.\n\nAfter the attack, Zelensky renewed his criticism of a deal struck between US President Donald Trump and Russia's President Vladimir Putin to ease some US sanctions on Russia allowing Moscow to release diesel onto global markets.\n\n\"How many such terrorist strikes has Russia carried out against our people since sanctions were lifted on some Russian oligarchs and the energy sector, instead of de-escalating,\" he asked.\n\n\"It is important that America does not remain silent about the killings – this is very important,\" he added in a separate statement.\n\nAt least six other people were killed across Ukraine in separate Russian attacks, according to local officials.\n\nAn attack on the city centre of Chernigiv, north of Kyiv, killed two 15-year-old girls and wounded nearly two dozen other people, including four children, the head of the city's military administration, Dmytro Bryzhynsky, said.\n\nA drone slammed into a multi-storey residential building in the central city of Kremenchuk, killing three people and wounding several – including a six-year-old – the local governor said.\n\nRussia has intensified drone and missile attacks in recent weeks, hitting energy sites in what Kyiv says is a bid to plunge the country into cold and darkness throughout the winter.\n\nThe Kremlin this week vowed not to let up the overall pace of the war even as the sides prepare to restart stalled talks under US mediation. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T23:52:10.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875893-20261030.htm"
     },
     {
       "id": "2fdcb7758637d051",
