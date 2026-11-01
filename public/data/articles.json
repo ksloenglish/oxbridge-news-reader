@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T15:45:21.756Z",
-  "checkedAt": "2026-11-01T22:15:15.826Z",
+  "generatedAt": "2026-11-01T22:30:22.937Z",
+  "checkedAt": "2026-11-01T22:30:22.937Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "6bd78653e1f33c59",
+      "title": "Arsenal back in top spot after beating Liverpool 1-0",
+      "excerpt": "Champions Arsenal moved three points clear at the top of the Premier League with Kai Havertz's early goal securing a…",
+      "fullText": "Champions Arsenal moved three points clear at the top of the Premier League with Kai Havertz's early goal securing a statement 1-0 victory over Liverpool at Anfield on Sunday.\n\nGerman striker Havertz tapped in from Declan Rice's low cross in the 16th minute after the hosts were caught out trying to play the ball out of defence.\n\nLiverpool responded strongly as halftime approached with Florian Wirtz curling a free kick against the crossbar and Alexis Mac Allister heading a good chance over the bar.\n\nArsenal weathered the storm, and defended superbly to keep Liverpool at arm's length after the break and seal their first Premier League win at Anfield for 14 years.\n\nMikel Arteta's side replace Manchester City at the top with 24 points from nine games, with City on 21 after losing at home to Brighton and Hove Albion on Saturday.\n\nLiverpool's second league defeat of the season left them nine points behind Arsenal in fifth place. (Reuters)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T22:08:43.000Z",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876170-20261102.htm"
+    },
     {
       "id": "8aff0663bb9ea2e2",
       "title": "Party releases resolution after plenum on governance",
@@ -1468,17 +1479,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875298-20261026.htm"
-    },
-    {
-      "id": "cb5ad46a19818207",
-      "title": "Man United lose again as Liverpool climb to fourth",
-      "excerpt": "Michael Carrick was pushed to the brink of being sacked after Manchester United slumped to a miserable 3-0 home defeat…",
-      "fullText": "Michael Carrick was pushed to the brink of being sacked after Manchester United slumped to a miserable 3-0 home defeat against Bournemouth, while Alexander Isak extended his hot streak in Liverpool's 2-0 win against Brighton on Sunday.\n\nCarrick's bold decision to drop captain Bruno Fernandes backfired as defeat stretched United's winless run to eight games and left them 16th in the Premier League, just one point above the relegation zone.\n\nFor the third time in four seasons, the Cherries won by a three-goal margin at Old Trafford as strikes from Rayan, Marcus Tavernier and Evanilson secured a fully deserved victory for Marco Rose's side.\n\nFernandes was critical of Carrick's tactics in a 4-1 Champions League thrashing at Como on Wednesday.\n\nThe United boss said the decision to leave out last season's Premier League Player of the Year was a \"purely football\" driven, but it was hard to believe Fernandes was not being punished as he was left on the bench for the entire match.\n\nCarrick was taunted with chants of \"you're getting sacked in the morning\" from the Bournemouth fans.\n\nBut on this evidence, dismissing another manager is far from a quick fix for a club that has fallen dramatically from grace since Alex Ferguson's retirement after winning their most recent English title 13 years ago.\n\nA strong finish to last season during Carrick's interim spell in charge secured third place in the Premier League.\n\nYet with just one win against promoted Ipswich, United have taken just seven points from eight league games so far this season – their lowest tally at this stage of a season since 1986-87.\n\nUnited's players were booed off by the few frustrated fans that remained inside Old Trafford at the end of their heaviest home defeat since 2024.\n\nUnited's co-owners the Glazer family and Jim Ratcliffe were also targeted for angry chants, although Carrick largely avoided the fans' ire.\n\nIt is unlikely that sympathy vote will spare the former United midfielder from the axe.\n\nAt Anfield, Liverpool struck twice in quick succession in the first half, with Pascal Gross's own goal followed by Isak's latest strike.\n\nIsak has netted six times in seven league games this season and has three goals in his last four matches.\n\nAfter a turbulent debut season following his acrimonious move from Newcastle, the Sweden striker is finally beginning to repay his £125 million fee.\n\nIt was a welcome first taste of top-flight success at Anfield for Reds boss Andoni Iraola, who had failed to win his first three league games on Merseyside since arriving from Bournemouth in the close season.\n\nThe Spaniard, who had won Champions League and League Cup games at Anfield, has led Liverpool to four successive victories in all competitions since the chastening 3-0 home defeat against Manchester City.\n\nLiverpool have climbed to fourth place, just one point behind third-placed Brighton after inflicting the high-flying Seagulls' second league loss this term.\n\nThe rampant Reds are six points behind leaders City as they eye a potential title challenge.\n\nWilliam Osula and Harvey Barnes scored in the second half as Newcastle piled pressure on Crystal Palace manager Pierre Sage with a 2-0 win at Selhurst Park.\n\nThrashed 5-0 at rivals Brighton last weekend, 17th-placed Palace have won just twice in eight league games under Sage, who arrived from Lens in the close season to replace Oliver Glasner.\n\nHull's unbeaten home record remains intact but the Tigers have not tasted victory for seven games after a 1-1 draw with Brentford at the MKM Stadium.\n\nOli McBurnie's 24th-minute penalty, awarded when Aaron Hickey fouled Tim Iroegbunam, put Hull ahead, but Dango Ouattara equalised in the 63rd minute.\n\nElsewhere on the pitch, Sunderland hosted Leeds to a 0-0 draw. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-25T23:54:40.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875296-20261026.htm"
     },
     {
       "id": "5ffecabda8b52ecd",
