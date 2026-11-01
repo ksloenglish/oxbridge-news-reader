@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T10:00:26.177Z",
-  "checkedAt": "2026-11-01T10:45:16.528Z",
+  "generatedAt": "2026-11-01T11:00:30.263Z",
+  "checkedAt": "2026-11-01T11:00:30.263Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "1d9656a7047c96ee",
+      "title": "Hong Kong records warmest October since records begin",
+      "excerpt": "The Observatory on Sunday said Hong Kong recorded its warmest October since records began in 1884. The forecaster said the…",
+      "fullText": "The Observatory on Sunday said Hong Kong recorded its warmest October since records began in 1884.\n\nThe forecaster said the average temperature last month stood at 27.6 degrees Celsius.\n\nThe mean maximum and minimum temperatures also set records, at 30.5 degrees and 25.8 degrees respectively.\n\nThe Observatory attributed the unusually warm conditions to the ongoing El Niño and a weak northeast monsoon, while noting that climate change also played a role.\n\nA fresh to strong northeast monsoon is expected to reach the city in the coming days, bringing a slight drop in temperatures early next week.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-01T10:27:16.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876147-20261101.htm"
+    },
     {
       "id": "6358e8147b9e4327",
       "title": "Bar Association backs criminalising bid-rigging",
@@ -577,17 +588,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875954-20261030.htm"
-    },
-    {
-      "id": "eded09fac0ea55d2",
-      "title": "Tip-offs 'helping stub out construction-site smoking'",
-      "excerpt": "Secretary for Labour and Welfare Chris Sun called on the public on Friday to continue to provide information to help…",
-      "fullText": "Secretary for Labour and Welfare Chris Sun called on the public on Friday to continue to provide information to help enforce the full smoking ban on construction sites and buildings undergoing major renovations.\n\nThe call came as he revealed that citizen tip-offs had led to a disproportionately high number of successful prosecutions since the new rules took effect three months ago.\n\nSun said the Labour Department has issued 87 fixed-penalty notices since the ban was introduced, of which 27 – about one third – were based on information provided by citizens.\n\nThere are currently, he pointed out, four contractor cases involving five summonses going through prosecution proceedings.\n\nThe department has conducted more than 6,900 inspections over the past three months, he said, of which about 430 were triggered by complaints or tip-offs.\n\n\"The proportion of inspections is certainly not large, but the success rate is very high, because you see, among our fixed-penalty notices, approximately one third of them were issued because some citizens kindly provided us with photos, videos and information, enabling us to conduct inspections promptly,\" said Sun.\n\nHe also apologised again over the deadly Wang Fuk Court fire, whose independent report was released by the government on Thursday.\n\nSun pointed out that he had to, as a politically appointed official, support the chief executive and be accountable to him.\n\nThe chief executive, he said, had made clear his requirements and he would follow them, stay on the job and strive to implement the government's reform agenda.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T07:41:59.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875949-20261030.htm"
     },
     {
       "id": "87280b0a4ba96091",
