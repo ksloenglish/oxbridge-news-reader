@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T12:30:33.677Z",
-  "checkedAt": "2026-11-02T12:30:33.677Z",
+  "generatedAt": "2026-11-02T12:45:18.023Z",
+  "checkedAt": "2026-11-02T12:45:18.023Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "738c45427ba41f4b",
+      "title": "Evening News on TV32 - Nov 2",
+      "excerpt": "Top stories for Monday, Nov 2, 2026 - John Lee says Hong Kong offers businesses long-term certainty. - The government…",
+      "fullText": "Top stories for Monday, Nov 2, 2026\n\n- John Lee says Hong Kong offers businesses long-term certainty.\n\n- The government says new building project liaison officers will provide one-stop handling of homeowners' enquiries.\n\n- Nine die as a plane crashes into a neighbourhood in Florida.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T12:23:47.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876274-20261102.htm"
+    },
     {
       "id": "8a3538f11e19f32a",
       "title": "Apple iPhone pre-sales linked to 1,700 fraud cases",
@@ -665,17 +676,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876053-20261031.htm"
-    },
-    {
-      "id": "d6dd74ae69964c0f",
-      "title": "More experts 'applying to join building-repairs lists'",
-      "excerpt": "Secretary for Development Bernadette Linn said government has received an encouraging response from consultants and contractors seeking inclusion in three…",
-      "fullText": "Secretary for Development Bernadette Linn said government has received an encouraging response from consultants and contractors seeking inclusion in three pre-qualified lists under a new council that will soon be offering full-cycle building repairs.\n\nThe non-statutory Building Maintenance Support and Services Council – to be established by year-end – will gradually take over the Urban Renewal Authority’s building-upkeep subsidy schemes under its Smart Tender system.\n\nTaking to the airwaves on Saturday, Secretary for Development Bernadette Linn said the government had received about 150 applications from inspection and supervision consultants as well as 350 applications from contractors.\n\n\"Why do I say it’s encouraging? Because the URA’s Smart Tender platform also had a pre-qualified list – now it has been taken down as we have this new one,\" she said.\n\n\"The number of applications this time, compared to the one that was taken down, saw an increase of two to three times.\n\n\"This means that there are more consultants and contractors who did not participate in the past. I took it as a vote of confidence in the future system.\"\n\nWhile the council will prioritise around 1,800 maintenance projects that are already in the Smart Tender system, Linn said it would first focus on the 600 or so projects that had yet to undergo building inspections.\n\n“As inspections have not been carried out on these buildings, we can – when the new service is rolled out – deploy an inspection consultant for them,” she said.\n\nMost of the remaining buildings, she pointed out, have already recruited supervision consultants.\n\nInitially, the government had been planning to put the URA or its subsidiaries in charge of the new support service.\n\nHowever, Linn said, following through on that plan would have significantly increased the URA's burden as it was already handling many building maintenance-related works as well as redevelopment projects.\n\nAs for the new Public Housing Building Control Section that will replace the Housing Bureau’s Independent Checking Unit within a month, Deputy Financial Secretary Michael Wong said he was confident that it would bring about more fundamental changes.\n\nAbout 300 staff from the unit, which has been found by an independent inquiry to be primarily responsible for failed supervision of major renovations at Wang Fuk Court in the runup to the fire, will move to the new section.\n\n“We have held more than 10 training classes [for staff] so as to raise vigilance and awareness,” said Wong, who is also acting secretary for housing.\n\nA dedicated team will oversee each major maintenance project, while a project liaison officer will handle all enquiries from owners’ corporations, he added.\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T07:33:23.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876044-20261031.htm"
     },
     {
       "id": "b08d562c81232f02",
