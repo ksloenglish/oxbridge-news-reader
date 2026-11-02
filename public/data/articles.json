@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T06:45:22.145Z",
-  "checkedAt": "2026-11-02T08:00:33.080Z",
+  "generatedAt": "2026-11-02T08:11:55.356Z",
+  "checkedAt": "2026-11-02T08:11:55.356Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "89b9ddb66c14c35f",
+      "title": "NPC set to lay down law on cross-border corruption",
+      "excerpt": "The National People's Congress has begun deliberating on a draft law on combating cross-border corruption, including a provision on promoting…",
+      "fullText": "The National People's Congress has begun deliberating on a draft law on combating cross-border corruption, including a provision on promoting the building of a fair and equitable global anti-corruption governance system.\n\nThe draft was submitted for its second reading at an NPC Standing Committee session that runs through Friday.\n\nIt further elaborates on the legislative purpose and enriches the principles guiding efforts to combat cross-border corruption.\n\nIt also stipulates that such efforts must be conducted in strict accordance with the Constitution and laws, follow statutory procedures, and respect and protect human rights.\n\nThe draft law was first submitted for deliberation in late August. The formulation of the law is an important step by China to put in place a systematic and comprehensive foreign-related legal framework for anti-corruption, according to the NPC.\n\nStructured into six chapters and 47 articles, the draft sets out the principles, scope and key positions underpinning China's efforts to combat cross-border corruption.\n\nThe revised draft also sets out provisions on the use of information technology by authorities in combating cross-border corruption.\n\nIt requires relevant authorities and their staff to keep confidential any state secrets, work-related confidential information, trade secrets, personal privacy and personal information obtained during supervision and investigations.\n\nIt also requires Chinese companies operating across borders to set up integrity and compliance departments or appoint dedicated staff, based on their size, business scope, and risk prevention and control. (Xinhua)\n\nEdited by Raymond Yeung",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T07:43:50.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876229-20261102.htm"
+    },
     {
       "id": "480f14a0e2e22ccd",
       "title": "HSBC to set up AI institute in race to train staff",
@@ -1468,17 +1479,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875359-20261026.htm"
-    },
-    {
-      "id": "df4185f9e96287c0",
-      "title": "Xi opens Party plenum on governance",
-      "excerpt": "President Xi Jinping opened the fifth plenary session of the 20th Central Committee of the Communist Party of China (CPC)…",
-      "fullText": "President Xi Jinping opened the fifth plenary session of the 20th Central Committee of the Communist Party of China (CPC) in Beijing on Monday.\n\nXi, who is also general secretary of the CPC Central Committee, delivered a work report on behalf of the Politburo and explained a draft decision by the Central Committee on major issues concerning strengthening Party self-governance.\n\nThe draft decision summarises the achievements and experience of full and rigorous Party self-governance in the new era in a truth-seeking manner, and offers in-depth analysis of the situation and tasks concerning Party building at present and for the future.\n\nIt also sets out strategic plans for strengthening full and rigorous Party self-governance with perseverance, according to a Politburo meeting in September that submitted the document to the plenum for review.\n\nThe plenary session will last till Thursday.\n\nThe fifth plenum comes ahead of a major Party congress next year, where Xi is expected to oversee a leadership reshuffle.\n\nState media published an article ahead of the gathering, based on a speech Xi gave in January in which he railed against \"two-faced\" officials who appear to comply with central directives but \"inwardly resist\", pursue \"individualism\" and are \"politically opportunistic\". (Xinhua/AFP)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-26T05:19:41.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875349-20261026.htm"
     },
     {
       "id": "5ffecabda8b52ecd",
