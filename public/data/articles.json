@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T01:30:21.260Z",
-  "checkedAt": "2026-11-02T03:00:34.656Z",
+  "generatedAt": "2026-11-02T03:15:16.443Z",
+  "checkedAt": "2026-11-02T03:15:16.443Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "039f368b4e1d65a5",
+      "title": "ICAC charges two ex-cleaning firm executives",
+      "excerpt": "Two former senior executives of a cleaning company have been charged by the ICAC for allegedly accepting bribes totalling more…",
+      "fullText": "Two former senior executives of a cleaning company have been charged by the ICAC for allegedly accepting bribes totalling more than HK$75 million in connection with the procurement of cleaning vehicles and maintenance services, with the case expected to be mentioned at Kwun Tong Magistrates' Courts on Monday.\n\nWilliam Fung, 54, former director of Johnson Cleaning Services Company Limited and chief executive officer of its parent company, and Jimmy Lee, 57, former general manager of Johnson, were both charged on October 30 with one count of conspiracy for an agent to accept advantages under the Prevention of Bribery Ordinance and the Crimes Ordinance.\n\nAt the time of the alleged offences, Fung oversaw Johnson's business including subcontracts, purchase orders and the release of payments.\n\nLee was under his direct supervision.\n\nBetween November 2024 and January 2026, Johnson procured multiple fleets of cleaning vehicles from a supplier and regularly used the supplier's vehicle maintenance services, with total expenses exceeding HK$160 million.\n\nThe charge alleges that Fung and Lee conspired to accept bribes totalling over HK$75 million from individuals including the supplier's proprietor, as a reward for showing favour to the supplier in the company's business dealings.\n\nThe ICAC said Johnson had rendered full assistance during its investigation.\n\nAs the corruption investigation is ongoing, the commission said it would not rule out further prosecution.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T03:04:38.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876208-20261102.htm"
+    },
+    {
+      "id": "158f2b4830b83982",
+      "title": "HK, mainland rise as tech fears weigh on Nikkei, Kospi",
+      "excerpt": "Asian share markets mostly slipped on Monday as worries about the sustainability of the AI investment boom loomed over the…",
+      "fullText": "Asian share markets mostly slipped on Monday as worries about the sustainability of the AI investment boom loomed over the tech sector, while the high price of oil limited the safe-haven appeal of sovereign bonds.\n\nIn Hong Kong, the benchmark Hang Seng Index opened up seven points, or 0.03 percent, at 23,301.\n\nThe tech index rose 20 points, or 0.55 percent, to 3,775 while the China enterprises index edged up 14 points, or 0.18 percent, to 7,876.\n\nThe Shanghai Composite Index opened 15 points, or 0.4 percent, higher at 3,614.\n\nThe Shenzhen Component Index was 63 points, or 0.59 percent, up at 10,897 while the ChiNext Index rose 25 points, or 1.05 percent, to 2,439.\n\nIn Tokyo, the Nikkei opened 318 points, or 0.51 percent, lower at 62,972, moved up into positive territory before slipping again to be 215 points lower at one stage before lunch.\n\nIn Seoul, the Kospi opened 92 points, or 1.62 percent, down at 5,637 before regaining ground to be 87 points higher at one stage before noon.\n\nThe mixed openings came as concerns about negative cash flow and the sheer scale of AI capex saw the cost of insuring against corporate defaults blow out last week, while gold hit a one-year low amid talk stressed investors were selling to raise money for margin calls.\n\nAn added wrinkle is the US midterms, with a win by Democrats in either or both houses may result in more political hurdles for data centres.\n\nAdding to the air of unease were withdrawals from Binance as the world's biggest cryptocurrency exchange went back online on Sunday after hackers stole billions from the platform last week.\n\nAll of which raises the stakes for earnings this week with Apple, AMD and Palantir set to report in the wake of Intel's near 29 percent tumble on Friday.\n\nAnalysts at Goldman Sachs expect capex by hyperscalers to almost double to US$800 billion this year, and rise further to US$1.2 trillion in 2027.\n\nAt the same time, they see S&P 500 earnings per share growth of nearly 30 percent in 2026, slowing to 18 percent next year.\n\n\"Earnings results have underscored the fundamental challenge facing equity investors – earnings growth is strong, but it is no longer accelerating,\" wrote Ben Snider, Goldman's chief US equity strategist, in a note.\n\n\"Similarly, Q3 results support our view that AI investment spending will continue to grow but that the growth rate of AI capex is peaking.\"\n\nThe recent retreat in equities provided a reprieve for safe-haven bonds, with investors wondering if a sustained selloff in the stock market could deter the Federal Reserve from hiking interest rates in December.\n\nFutures still imply a 72 percent chance of a quarter-point rate rise, but now only have 55 basis points of total tightening priced in compared to more than 70 basis points a month ago. (Reuters/Xinhua)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T02:57:26.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876201-20261102.htm"
+    },
     {
       "id": "450d6567ca5ca2de",
       "title": "Democrat turns on party and backs Republican",
@@ -676,17 +698,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875977-20261030.htm"
-    },
-    {
-      "id": "a546006873568077",
-      "title": "Race to make bid-rigging criminal offence by April",
-      "excerpt": "Officials said on Friday they aim to criminalise bid-rigging by April as well as enhance enforcement through the establishment of…",
-      "fullText": "Officials said on Friday they aim to criminalise bid-rigging by April as well as enhance enforcement through the establishment of an inter-departmental task force.\n\nCompetition Commission chief executive Rasul Butt said the watchdog would be consulting lawmakers over the proposed amendments “very soon” before seeking opinions from stakeholders.\n\n“The government and, of course, the relevant authorities like the Competition Commission... will need to engage with some stakeholders,” he said.\n\n“In terms of going to Legco to seek Legco's approval to pass the new amendments, the aim right now is April next year.”\n\nThe task force – comprised of representatives from the commission, the police force and the Independent Commission Against Corruption – will be led by Secretary for Security Chris Tang.\n\nTang said the fight against bid-rigging, currently only a civil offence, would be efficient and enhanced through the sharing of intelligence and databases by the task force.\n\n“In fact in the past, our three different departments, namely police, ICAC and Competition Commission, we are all separately, vigorously investigating bid-rigging-related offences,” he said.\n\n“But now we have a joint task force – we can share our intelligence, we can conduct more precise joint operations, and we can have more proactive elements in cracking bid-rigging activities.”\n\nWhile Tang did not reveal how many members there would be in the task force, he stressed that setting it up would not require any additional resources.\n\nHe noted that under the coordination of the Home Affairs Department, task force members would attend owners' corporations meetings at high-risk buildings – meaning those with high project costs and a significant number of flats involved – to look for indications that bid-rigging might be involved.\n\nTang said the task force will also rely on intelligence, undercover operations and informers to crack down on malpractices.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T09:38:35.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875966-20261030.htm"
     },
     {
       "id": "a7df3c04c3d8aeee",
@@ -1281,17 +1292,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875650-20261028.htm"
-    },
-    {
-      "id": "5cd8a6e823adb15a",
-      "title": "HK's exports surge nearly 65pc in September",
-      "excerpt": "Hong Kong’s exports and imports both rose for September, according to data released by the Census and Statistics Department on…",
-      "fullText": "Hong Kong’s exports and imports both rose for September, according to data released by the Census and Statistics Department on Wednesday, with the increase in exports marking the fastest monthly year-on-year growth in more than four decades.\n\nThe value of total exports of goods surged by 64.9 percent compared to a year earlier to HK$762.6 billion in September.\n\nIt followed a year-on-year increase of 53 percent in August.\n\nThe value of imports also went up by 57.8 percent over a year earlier to HK$808.9 billion last month.\n\nA trade deficit of HK$417.7 billion – equivalent to seven percent of the imports value – was recorded in the first nine months of the year.\n\nA government spokesman said AI-related electronic products continued to drive the city’s trade performance, and the growth in exports marked a double-digit growth for the 20th straight month.\n\nIt noted that exports to all major destinations have surged remarkably.\n\n“Looking ahead, Hong Kong's merchandise trade performance will continue to benefit from the prevailing wave of robust AI-related investment and the resilient global economic growth,” the statement read.\n\n“Nonetheless, external uncertainties warrant close monitoring, including the Middle East conflict, trade protectionist measures by major economies, and risks associated with the rapid expansion of global investment in AI.”\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T09:02:58.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875646-20261028.htm"
     },
     {
       "id": "6ff23ffcaca16e53",
