@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T13:45:24.139Z",
-  "checkedAt": "2026-11-02T14:00:43.608Z",
+  "generatedAt": "2026-11-02T14:15:20.596Z",
+  "checkedAt": "2026-11-02T14:15:20.596Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "047ce1f8035e1ef7",
+      "title": "Foreign firms debut in HK to access mainland market",
+      "excerpt": "A number of foreign companies have made their debut at the annual Hong Kong Fintech Week and StartmeupHK that commenced…",
+      "fullText": "A number of foreign companies have made their debut at the annual Hong Kong Fintech Week and StartmeupHK that commenced on Monday, hoping to use the SAR as a springboard to tap into the mainland market.\n\nThey include a Canadian company that produces renewable fuels.\n\nJag Singh from SBI BioEnergy noted that his firm can contribute to the SAR’s green aviation development, and hopes to also explore opportunities in the mainland market.\n\n“Everyone in the world has a shortage of sustainable aviation fuel and a target to blend sustainable aviation fuel,” he said.\n\n“So we are helping to achieve that and we can do it globally because it's our own process modular, and we have all the control of the technology because we have the hydrogen production as well as the conversion system in them.”\n\nSingh went on to say that the firm’s next goal is to expand even further in Asia through Hong Kong.\n\n\"We hear a lot about the great agreements and structures here and IP protection, and that's very important to us because these are our babies – these are our patented processes – we spent a lot of time and blood, sweat and tears to make this happen,\" he said.\n\n\"So I think it’s a perfect gateway or potential base as a springboard to the rest of Asia and China.\"\n\nCanadian firm Deep Sky, which specialises in carbon removal, is also taking part in the event.\n\n“What I’ve noticed is there's an incredible density of companies that are developing energy infrastructure in [the] mainland and internationally, financiers financing those projects and trading firms who are trading the products,” the firm's Charlie Renzoni said.\n\n“So I see an incredibly important connection between Hong Kong, [the] mainland and the rest of the world.”\n\nFor Korean firm MoneyStation, which focuses on AI-powered investment intelligence, they decided to make the SAR their first stop to go overseas.\n\n“Hong Kong is like a pioneer in adapting the new financial business models like cryptos or stock markets and asset management,” its founder James Lee said.\n\nHe added that the city’s annual event also offered them a chance to look for strategic business partners.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T14:04:06.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876281-20261102.htm"
+    },
     {
       "id": "b126351b17fb9b78",
       "title": "'HK crucial for mainland firms' global expansion'",
@@ -687,17 +698,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876072-20261031.htm"
-    },
-    {
-      "id": "8e08e69a8d0cc7c6",
-      "title": "58 arrested in triad crackdown as youth crimes spike",
-      "excerpt": "Police on Saturday arrested 58 people in a city-wide, anti-triad operation, disrupting gang networks exploiting the youth. The suspects rounded…",
-      "fullText": "Police on Saturday arrested 58 people in a city-wide, anti-triad operation, disrupting gang networks exploiting the youth.\n\nThe suspects rounded up include core gang members as well as those aged below 18. They are alleged to have committed a series of offenses, including claiming to be triad members, inviting another person to become a triad member, false imprisonment and money laundering.\n\nChief inspector Chan Pak-ki said the arrests came after undercover officers infiltrated two triad groups amid a rise in youth crimes early this year.\n\n“We found that these triad groups would obtain the youths' trust first. They might carry out simple initiation ceremonies,\" she said.\n\n\"After obtaining their trust, they lured them, through false promises that there was quick money to be made, into carrying out a lot of illegal acts.”\n\nThe force also busted a number of illegal gambling and drug dens.\n\nChan did not rule out further arrests, adding that the operation was still ongoing.\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T09:28:44.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876048-20261031.htm"
     },
     {
       "id": "470c10beecba00c9",
