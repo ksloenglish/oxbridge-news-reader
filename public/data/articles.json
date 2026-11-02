@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T10:00:37.152Z",
-  "checkedAt": "2026-11-02T10:30:24.660Z",
+  "generatedAt": "2026-11-02T10:45:32.479Z",
+  "checkedAt": "2026-11-02T10:45:32.479Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "8a3538f11e19f32a",
+      "title": "Apple iPhone pre-sales linked to 1,700 fraud cases",
+      "excerpt": "Police have received more than 1,700 reports of suspected credit-card fraud cases linked to Apple's recent iPhone pre-sales in September…",
+      "fullText": "Police have received more than 1,700 reports of suspected credit-card fraud cases linked to Apple's recent iPhone pre-sales in September and October.\n\nAt a Southern District Council meeting on Monday, Police Commissioner Joe Chow said the force received 1,589 reports of unauthorised credit card transactions involving the purchases of various Apple iPhone 18 models.\n\nPre-orders for the smartphone began on September 12 in Hong Kong.\n\nAnother 138 reports were filed in October, when the iPhone Duo began accepting orders.\n\nAccording to Chow, Apple opted against extra security measures for credit card transactions. An example would be the \"3D Secure\" protocol, which asks customers to enter a one-time password or verify their identity on the bank's mobile app.\n\n\"During this period, we contacted Apple, credit card companies and banks, and cancelled all problematic purchase records. As a result, the victims did not suffer any losses,\" Chow said.\n\nThe police chief said officers had reached out to Apple on multiple occasions to express hope that the company would implement effective security measures and strengthen verification in future product launches.\n\nChow also briefed district councillors on Hong Kong's law-and-order situation.\n\nHe said fraud remained the dominant crime category, with 34,679 cases in the first nine months of the year, making up 51 percent of all crimes.\n\nVictims reported losses of HK$6.02 billion, a 6.7 per cent increase year on year.\n\nPhone scams were now the most common type of fraud, followed by online shopping deception.\n\nEdited by Raymond Yeung",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T10:35:41.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876250-20261102.htm"
+    },
     {
       "id": "57de6b3e2afe56cc",
       "title": "Mideast not battleground for great-power rivalry: Xi",
@@ -643,17 +654,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876044-20261031.htm"
-    },
-    {
-      "id": "5881e8a912a15e8c",
-      "title": "HK may see strongest growth in five years: Paul Chan",
-      "excerpt": "Hong Kong could record its strongest full-year economic growth figure in five years in 2026, according to Financial Secretary Paul…",
-      "fullText": "Hong Kong could record its strongest full-year economic growth figure in five years in 2026, according to Financial Secretary Paul Chan.\n\nSpeaking on a radio programme on Saturday, he said the economy grew by 5.1 percent in the first half of the year and that strong export performance and investment growth continued into the third quarter.\n\n\"What I'm most pleased to see is that in terms of investment, the growth momentum in the first half of the year carried through into the third quarter,\" Chan said.\n\n\"Visitor numbers to Hong Kong are high, the streets are busy, and we're holding many mega events – such as the Wine and Dine Festival – plus many other big events and concerts.\n\n\"We have FinTech Week coming up. There's a chance that 2026 will be the strongest full-year economic growth in the past five years.\"\n\nOn next year’s budget, Chan said any relief measures would depend on economic performance.\n\nHe said the government would do its best but substantial infrastructure spending ahead meant authorities would need to manage public finances closely.\n\nHe also flagged external risks.\n\nIf geopolitical tensions and the Middle East conflict persist, oil prices could rise and feed into inflationary pressures, Chan stressed.\n\nHe expects interest rates to stay relatively high next year, which could affect the property market and the wider economy, and said the authorities would remain alert to financial risks.\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T06:54:34.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876049-20261031.htm"
     },
     {
       "id": "b08d562c81232f02",
