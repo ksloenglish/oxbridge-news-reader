@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T03:45:19.720Z",
-  "checkedAt": "2026-11-02T04:00:25.717Z",
+  "generatedAt": "2026-11-02T04:15:17.231Z",
+  "checkedAt": "2026-11-02T04:15:17.231Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "4b2c88bd678e8c79",
+      "title": "HK 'an ideal home for international private law body'",
+      "excerpt": "Chief Executive John Lee on Monday said Hong Kong strives to attract global organisations and promote international legal cooperation. He…",
+      "fullText": "Chief Executive John Lee on Monday said Hong Kong strives to attract global organisations and promote international legal cooperation.\n\nHe made the remarks in an opening ceremony by the International Institute for the Unification of Private Law – also known as Institut International Pour L'unification du Droit Prive (Unidroit) – of its Asia-Pacific liaison office in the city.\n\nAt the ceremony, which also marks the beginning of this year’s Hong Kong Legal Week, Lee said the establishment of the office would deepen collaboration, facilitating the implementation of private law.\n\n\"It is a decision of profound significance – for Unidroit, for Hong Kong and for the entire Asia-Pacific region,\" he said.\n\n\"The liaison office will serve as a focal point for enhanced engagement with member states and stakeholders in the region. And it will play a crucial role in the legislative and institutional work of Unidroit.\n\n\"Hong Kong, strategically located at the heart of Asia, is an ideal home for the Asia-Pacific liaison office.\"\n\nLee said the establishment of the liaison office would strengthen the collaborative relationship between Hong Kong and the institute.\n\nThe office would also be able to benefit from cooperation with other legal organisations in the city, he added.\n\nHong Kong, Lee pointed out, is a renowned international legal, trade and financial hub and serves as a host to many international organisations.\n\nThe city’s laws and dispute resolution framework also align with international standards and have been recognised globally, he stressed.\n\nThe nation's 15th Five-Year Plan supports Hong Kong’s development as an international legal and dispute resolution services centre, Lee said, while the city’s own five-year blueprint sets out a series of measures for leveraging the strengths of the SAR’s common law system.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T03:54:25.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876206-20261102.htm"
+    },
     {
       "id": "48ab58c927410fc2",
       "title": "John Lee says HK offers businesses long-term certainty",
@@ -676,17 +687,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875988-20261030.htm"
-    },
-    {
-      "id": "0eea6204ccbcabc9",
-      "title": "Evening News on TV32 - Oct 30",
-      "excerpt": "Top stories for Friday, Oct 30, 2026 - A new council will be launched to help homeowners with building repairs…",
-      "fullText": "Top stories for Friday, Oct 30, 2026\n\n- A new council will be launched to help homeowners with building repairs.\n\n- Supervision of building renovation is to be tightened up after the Wang Fuk Court blaze.\n\n- Movie lovers are mourning the death of British actor Patrick Stewart.",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T12:31:05.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875990-20261030.htm"
     },
     {
       "id": "806b240bf744fbd3",
