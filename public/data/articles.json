@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T00:45:19.133Z",
-  "checkedAt": "2026-11-02T01:15:17.405Z",
+  "generatedAt": "2026-11-02T01:30:21.260Z",
+  "checkedAt": "2026-11-02T01:30:21.260Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "450d6567ca5ca2de",
+      "title": "Democrat turns on party and backs Republican",
+      "excerpt": "Michigan Democrat Abdul El-Sayed’s former opponent in the US Senate primary, Haley Stevens, stunned party officials on Sunday by endorsing…",
+      "fullText": "Michigan Democrat Abdul El-Sayed’s former opponent in the US Senate primary, Haley Stevens, stunned party officials on Sunday by endorsing Republican Mike Rogers as Democratic tensions boiled over days before the election that could determine the balance of power on Capitol Hill.\n\nStevens endorsed Rogers after attending a Detroit church service with him.\n\nThe remarkable show of support for the US President Donald Trump-backed candidate in the tightly contested race comes after she was uninvited to a joint event the same day with El-Sayed, who defeated the congresswoman by a slim margin in the August primary.\n\n“Our Democratic nominee for Senate said I was no longer welcome in his campaign and that I should stay away,\" Stevens said in a video announcing the endorsement, which led her top aide to quit.\n\n“And he's right. And that's why I am endorsing Mike Rogers for the United States Senate today.”\n\nEl-Sayed dismissed the endorsement when asked about it by reporters later Sunday, saying he's focused on issues voters care about, such as the high cost of living.\n\n“At the end of the day I actually don’t think about Haley Stevens,\" he said, adding later: “None of this matters.\"\n\nMichigan Democratic leaders were left shocked.\n\nWith less than 48 hours to go before Election Day, a party that had spent months trying to unite behind its Senate nominee was suddenly grappling with an extraordinary defection in one of this year's most important races.\n\nTensions between the two Democrats have festered since the primary.\n\nStevens is a staunch supporter of Israel, while El-Sayed is a fierce critic of the US ally.\n\nHe has also been criticised by some in the community for past remarks regarding a Michigan synagogue attack and for appearances with controversial streamer Hasan Piker.\n\nEl-Sayed, a former Michigan public health official, is facing Rogers, an ex-congressman, for the seat held by the retiring Democrat, Gary Peters.\n\nKeeping Michigan in Democratic hands is vital to the party’s effort to win a majority for the final two years of Trump’s second term. (AP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T01:17:37.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876185-20261102.htm"
+    },
     {
       "id": "981fba4807c73514",
       "title": "Nine killed in small plane crash in southern Florida",
@@ -731,17 +742,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875951-20261030.htm"
-    },
-    {
-      "id": "2c136d2c3023638c",
-      "title": "Japan keeps rates steady as inflation hits 2pc target",
-      "excerpt": "The Bank of Japan kept interest rates steady on Friday but declared victory in a nearly 14-year battle to hit…",
-      "fullText": "The Bank of Japan kept interest rates steady on Friday but declared victory in a nearly 14-year battle to hit its price target and signalled vigilance against inflationary risks, suggesting scope to hike borrowing costs as soon as December.\n\nWith underlying inflation having roughly hit two percent, the central bank must focus on anchoring it around the target, it said, stressing anew that its policy has entered a new, more hawkish phase open to raising rates once every few months.\n\nThe pivot aligns the BoJ with its US and European counterparts eyeing near-term rate hikes to battle inflationary risks from the AI boom and the Iran war-induced energy shock.\n\n\"Underlying inflation is at a level generally consistent with our price target, and is expected to remain at around that level,\" it said in a quarterly outlook report.\n\n\"Against this backdrop, it will be important to examine the degree to which underlying inflation is anchored around two percent.\"\n\nAt the two-day meeting ending on Friday, the BoJ maintained its policy rate at 1.25 percent in a widely expected move, forgoing a back-to-back hike to spend more time scrutinising the effects of past rate hikes on lending conditions.\n\nHajime Takata, a hawkish member of the bank's board, dissented over the decision to hold rates, instead proposing unsuccessfully a hike to 1.5 percent.\n\nIn a surprise move, the central bank also said it will accelerate the pace of its sales of exchange-traded funds from January to 860 billion yen per year from the current 330 billion yen.\n\nMarkets are focusing on governor Kazuo Ueda's post-meeting briefing for clues on the timing and pace of future rate hikes.\n\nIn the report, the bank revised up its core consumer inflation forecast for the fiscal year ending March 2028 to 2.6 percent from 2.4 percent projected three months ago.\n\nDeclaring victory in hitting its two percent inflation target marks a turning point for the BoJ, which has spent most of its history battling low or negative price growth since gaining legal independence from the government in 1998.\n\nUnder former governor Haruhiko Kuroda, the bank deployed massive monetary stimulus in 2013 to pull Japan out of deflation and fire up inflation to the two percent target.\n\nEven after ending its mix of unorthodox easing steps in 2024, the bank has trodden cautiously in raising rates on the view underlying inflation – or price moves excluding one-off factors and driven by domestic demand – remained below target.\n\nWith stubbornly high energy costs and rising import prices from a weak yen adding to inflationary pressures, the bank raised rates in September after delivering a hike in June – a shorter interval than the roughly twice-a-year hikes in 2024 and 2025. (Reuters)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T04:42:30.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875928-20261030.htm"
     },
     {
       "id": "35251699e040c779",
