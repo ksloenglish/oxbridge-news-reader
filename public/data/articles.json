@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T13:00:30.640Z",
-  "checkedAt": "2026-11-02T13:15:19.622Z",
+  "generatedAt": "2026-11-02T13:30:33.184Z",
+  "checkedAt": "2026-11-02T13:30:33.184Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "b126351b17fb9b78",
+      "title": "'HK crucial for mainland firms' global expansion'",
+      "excerpt": "Mainland companies have hailed the city’s annual flagship finance and technology event, saying it offers an opportunity for them to…",
+      "fullText": "Mainland companies have hailed the city’s annual flagship finance and technology event, saying it offers an opportunity for them to carry out exchanges with potential overseas partners.\n\nSpeaking on the sidelines of the Hong Kong Fintech Week and StartmeupHK on Monday, Liu Yong from the Zhongguancun Fintech Industry Development said this year was their third time participating in the event.\n\nHe said that the SAR’s role as a super connector was crucial for the mainland in setting up shop overseas.\n\n“Hong Kong can fully leverage its strength in international talent. Because in the international aspects, such as accounting standards, Hong Kong itself is an international financial centre – it has a very good foundation and conditions,” he said.\n\nMu Rong from the Greater Bay Area fintech delegation noted that some firms focusing on securities and asset management, which used to adopt a wait-and-see approach, have gradually set up shop in Hong Kong to start doing business overseas.\n\n“Some of these tech companies have started making profits. The orders that they received from overseas customers were even larger than those from the mainland,” she said.\n\n“This shows that Hong Kong fully recognised their technical capabilities.”\n\nMu went on to say that firms that wish to expand to international markets will now team up, rather than go it alone.\n\nWang Yu, who represented a delegation led by the Union of Finance Alumni of Peking University said that more than 30 percent of the firms in their group – particularly those focusing on AI – are determined to expand globally via the SAR.\n\nWang highlighted how Hong Kong’s convenience across various aspects, including culture and language, makes it an ideal platform to go global.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T13:17:18.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876275-20261102.htm"
+    },
     {
       "id": "4c7e471051b3998f",
       "title": "Beijing working to ease Middle East situation: Wang Yi",
@@ -665,17 +676,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876048-20261031.htm"
-    },
-    {
-      "id": "cc60f909174bcded",
-      "title": "Lan Kwai Fong expects monster finish to Halloween",
-      "excerpt": "Hong Kong's premier nightlife and party district Lan Kwai Fong is expecting business to jump about 50 percent this Halloween…",
-      "fullText": "Hong Kong's premier nightlife and party district Lan Kwai Fong is expecting business to jump about 50 percent this Halloween.\n\nTurnover is already up at least 30 to 40 percent over the past two weekends, according to Anthea Cheung, Lan Kwai Fong Association director. She credited this growth to the Tourism Board's inaugural Hong Kong Halloween Month, which generated significant festive buzz ahead of this weekend's finale and attracted higher-than-expected interest.\n\nCheung said locals still made up around 70 percent of visitors to the district around which Halloween celebrations traditionally centre, with the rest coming from overseas and the mainland.\n\nThe number of arrivals from the Greater Bay Area have spiked with cross-boundary travel made easier, she added, with many of them dressing up for a night out.\n\nBars and restaurants, she pointed out, have kept some seats in reserve for walk-in customers since bookings for tables are already full.\n\n“We expect about a 50 percent increase tonight – it’s Halloween proper, and it’s a weekend too,\" Cheung said.\n\n\"Our merchants are ready, they’ve stocked enough drinks and food for tonight’s celebrations.”\n\nLooking ahead, the association wants more hotel, dining and transport package deals to draw visitors into staying longer and spending more.\n\nAs Lan Kwai Fong gears up to cope with crowds of revellers, immigration officers inspected Huanggang Port and Shenzhen Bay Control Point ahead of an expected late-night outbound peak on Saturday and Sunday by mainlanders here for Halloween night.\n\nThe Immigration Department urged travellers seeking a quicker crossing to avoid peak hours where possible, adding that it is coordinating with public transport operators to step up their service frequency.\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T08:38:13.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876051-20261031.htm"
     },
     {
       "id": "470c10beecba00c9",
