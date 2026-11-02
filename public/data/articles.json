@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T03:15:16.443Z",
-  "checkedAt": "2026-11-02T03:30:22.063Z",
+  "generatedAt": "2026-11-02T03:45:19.720Z",
+  "checkedAt": "2026-11-02T03:45:19.720Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "48ab58c927410fc2",
+      "title": "John Lee says HK offers businesses long-term certainty",
+      "excerpt": "Chief Executive John Lee said Hong Kong offers businesses the \"certainty\" they need to innovate, invest and flourish over the…",
+      "fullText": "Chief Executive John Lee said Hong Kong offers businesses the \"certainty\" they need to innovate, invest and flourish over the long term, even as global uncertainty persists.\n\nThat assurance came in opening remarks that he made on the first day of the region's annual flagship finance and technology event, Hong Kong Fintech Week and StartmeupHK, on Monday.\n\nThe conference brings together some 1,000 government leaders and fintech, finance and technology professionals from more than 100 countries and economies, along with around 800 exhibitors and startups and more than 30 delegations from the mainland and abroad.\n\nLee framed the event against a fast-changing global backdrop, saying technology is advancing at a remarkable speed, with artificial intelligence transforming industries and forcing businesses worldwide to adjust to shifting market conditions and unprecedented technological changes.\n\n\"In such an ever-changing, all-encompassing environment, one quality is becoming even more valuable — I'm talking about certainty,\" he said.\n\n\"Certainty about direction, certainty about opportunities, certainty about where businesses can invest, innovate and flourish in the long term.\"\n\nLee pointed to Hong Kong’s first-ever five-year plan, saying the strategic blueprint reinforces the city’s status as an international financial, maritime and trade centre and aviation hub, while accelerating its development as an international innovation and technology centre and a hub for high-calibre talent.\n\nHe also cited Hong Kong’s ranking as the world’s freest economy, its more than 1,400 fintech companies and InvestHK’s support for more than 550 overseas and mainland companies in the first nine months of the year, generating about US$9 billion in foreign direct investment and some 11,100 jobs.\n\nHe also pointed to the Northern Metropolis as a long-term source of opportunity, saying the mega project would create an innovation \"through-train\" that connects talent and research with commercialisation, capital and global markets.\n\nLee expressed confidence that Hong Kong’s future would be one for everyone – in business, finance, technology and beyond.\n\n\"If you believe that technology will define the future, if you believe that Asia will continue to drive global economic growth, and if you believe in the transformation taking place across China, then you must believe in Hong Kong's pivotal place in making it happen,\" he said.\n\n\"After all, it's in Hong Kong that you access global capital while remaining close to one of the world's most dynamic engines of innovation and growth.\"\n\nHe added that Hong Kong is a place where ideas can move from research to commercialisation and then into global markets – an East-meets-West city built on multilateralism, free trade and mutual opportunity.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T03:11:43.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876203-20261102.htm"
+    },
     {
       "id": "039f368b4e1d65a5",
       "title": "ICAC charges two ex-cleaning firm executives",
@@ -687,17 +698,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/"
-    },
-    {
-      "id": "ecfa9040387142a8",
-      "title": "Eight applicants in race for ride-hailing licences",
-      "excerpt": "The Transport Department said eight applications had been lodged for ride-hailing service licences by the deadline at noon on Friday…",
-      "fullText": "The Transport Department said eight applications had been lodged for ride-hailing service licences by the deadline at noon on Friday.\n\nThe department said the number of applications reflected a positive response from the sector.\n\nRepresentatives from the Transport and Logistics Bureau, the Digital Policy Office and the Transport Department will assess the applications and make recommendations to the transport commissioner, with the aim of announcing the qualified platforms before the year ends.\n\n“We will carefully assess each application to ensure that licensed platforms have the necessary operational and financial capabilities to provide safe, reliable and efficient ride-hailing services sustainably,” a spokesman said.\n\nThe department, he added, will unveil details for vehicle-driving as well as vehicle permits in due course.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T10:18:27.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875977-20261030.htm"
     },
     {
       "id": "a7df3c04c3d8aeee",
