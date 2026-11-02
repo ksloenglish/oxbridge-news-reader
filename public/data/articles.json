@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T20:15:33.942Z",
-  "checkedAt": "2026-11-02T20:30:26.040Z",
+  "generatedAt": "2026-11-02T20:45:18.240Z",
+  "checkedAt": "2026-11-02T20:45:18.240Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 11
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,39 @@
     }
   ],
   "articles": [
+    {
+      "id": "cac37fa89b00e9fa",
+      "title": "Anthropic says revenue surged 1,100pc ahead of IPO",
+      "excerpt": "Anthropic, one of the world's leading artificial intelligence companies, on Monday reported a more than 1,100 percent surge in quarterly…",
+      "fullText": "Anthropic, one of the world's leading artificial intelligence companies, on Monday reported a more than 1,100 percent surge in quarterly revenue and nearly US$900 billion in spending commitments as it counts down to its Wall Street listing later this month.\n\nThe San Francisco-based company was founded in 2021 by former OpenAI researchers led by chief executive Dario Amodei and his sister Daniela, now its president, with AI safety as its focus.\n\nThe listing comes amid growing nervousness among investors about the huge sums being poured into AI.\n\nRevenue reached US$17 billion in the third quarter, up from US$1.4 billion a year earlier, though sales growth slowed from previous quarters amid fierce competition from ChatGPT-maker OpenAI and cheaper models.\n\nThe company, whose stock market debut is seen as a gauge of how long the AI spending boom lifting the US economy can last, said in an amended filing that its net loss reached US$23.3 billion in the July-September period.\n\nThe loss stemmed mostly from non-cash accounting charges linked to the company's rising valuation, the filing showed.\n\nAnthropic also posted an operating loss of US$567 million in the third quarter as it paid more for short-term computing capacity.\n\nThe filing said the company has committed to spend about US$895 billion, mostly on computing power, with US$70 billion of that due before September 2027.\n\nThe IPO will be a major test of the market's faith in the AI boom, with the pool of potential investors set to widen as retail traders get their first chance to buy shares directly in a standalone AI giant.\n\nAccording to several media outlets, the five-year-old company plans to raise around US$100 billion in its initial public offering, at a valuation of between US$1.5 trillion and US$2 trillion.\n\nThat would surpass the record set in June by SpaceX, which raised US$86 billion. (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T20:31:07.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876301-20261103.htm"
+    },
+    {
+      "id": "71865fc13155115f",
+      "title": "US approves cheap generic HIV shot for poorer nations",
+      "excerpt": "The US Food and Drug Administration on Monday approved a low-cost version of a twice-yearly HIV prevention shot, bringing the…",
+      "fullText": "The US Food and Drug Administration on Monday approved a low-cost version of a twice-yearly HIV prevention shot, bringing the breakthrough drug closer to market in low-income countries.\n\nThe tentative approval was announced by Dr Reddy's Laboratories, the Indian maker of the generic version of lenacapavir, and by Unitaid, a global health initiative.\n\nThe generic will be available for US$40 per person per year in 120 countries, under a pricing agreement announced in September 2025 between Unitaid, the African health research institute Wits RHI, and the Clinton Health Access Initiative (CHAI) and Dr Reddy's.\n\nLenacapavir was first developed by US pharmaceutical company Gilead Sciences and approved in June 2025 after proving more than 99.9 percent effective in large clinical trials.\n\n\"This is an extraordinary milestone for global health. For too long, people in lower- and middle-income countries have had to wait a decade or more to access breakthrough medicines already available elsewhere,\" said Carmen Perez-Casas, Unitaid's senior strategy lead for HIV and pandemic preparedness.\n\n\"With lenacapavir, we've reduced that gap to little more than a year. Having an FDA-approved generic at US$40 per person per year – a price comparable to daily HIV prevention pills – is a remarkable achievement.\"\n\nA twice-yearly injectable that is akin to a vaccine – albeit without training the immune system – can be a more effective way to administer HIV preexposure prophylaxis (PrEP) than daily pills, which first won US approval in 2012 but only work if taken consistently.\n\nBut lenacapavir's high cost – roughly $28,000 per year in the US, though insurance lowers what patients pay – was a major obstacle to its becoming a game-changer against a disease that has killed over 40 million people in four decades.\n\nIn late 2024, Gilead granted voluntary licenses for lenacapavir to six generic manufacturers, including Dr Reddy's.\n\nEven before generic availability, more than 125,000 people in 10 early adopter African countries have already started Gilead's lenacapavir, Unitaid's statement said.\n\n\"This is a moment of immense pride for all of us at Dr Reddy's,\" said Deepak Sapra, CEO of Pharmaceutical Services and API at Dr Reddy's, in a statement.\n\nThe generic was granted \"tentative approval\" by the FDA, Unitaid said, under an accelerated pathway that allows sponsors to use existing data.\n\nLenacapavir was named \"Breakthrough of the Year\" in 2024 by the prestigious journal Science, which hailed the basic research underpinning the drug, specifically a new understanding of HIV's capsid protein, which forms a protective shell around the virus's genetic material and which lenacapavir targets.\n\nAn HIV infection once condemned patients to Aids (Acquired Immunodeficiency Syndrome), when the immune system is so damaged that everyday germs make people very sick.\n\nThe first antiretrovirals that could fully suppress HIV and stave off Aids were developed in 1996, with current generations even better, allowing people to live normal life spans while managing their chronic infection.\n\nOral PrEP pills came along in 2012, and before lenacapavir, a PrEP drug called cabotegravir was approved in 2021 requiring shots every two months.\n\nPerez-Casas said the real work for lenacapavir was still ahead, in moving from approval to rollout.\n\n\"An estimated 1.2 million people acquired HIV last year, even as we now have a medicine offering near-100 percent protection with just two injections a year,\" she said.\n\n\"The demand is high, and we cannot afford to lose momentum. Unitaid is already working with governments and partners to support country-led rollouts, ensuring that communities play a central role in bringing this breakthrough to the people who need it most.\" (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T20:29:42.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876298-20261103.htm"
+    },
+    {
+      "id": "b520f4c93ec6213d",
+      "title": "UN reports warn of large-scale damage to Earth's ice",
+      "excerpt": "Exceeding 1.5C of global warming will have \"irreversible\" consequences for glaciers, sea ice and the Earth's frozen regions, two UN…",
+      "fullText": "Exceeding 1.5C of global warming will have \"irreversible\" consequences for glaciers, sea ice and the Earth's frozen regions, two UN reports warned on Monday, calling for urgent action.\n\nThe landmark 2015 Paris Agreement commits the world to limiting warming to well below 2C and pursuing efforts to hold it at 1.5C to try to avoid the worst effects of climate change.\n\nOne of the reports said overshooting the 1.5C target \"will bring large-scale and in many cases irreversible impacts\" for the cryosphere – Earth's ice in all its forms.\n\nMelting of glaciers and sea ice, the thawing of permafrost and the accelerating rise in sea levels, will have widespread repercussions, from flooding to water shortages.\n\nSome of the effects of the rise in temperature are already visible, such as the 20-percent loss in glacial mass in Switzerland.\n\nBut even if the 1.5C target remains relevant, it is already too high for the cryosphere, as current levels of warming were \"already unsafe\" for the Arctic, Antarctic, mountain glaciers and polar oceans, the UN warned.\n\n\"Although returning to 1.5 C will slow ice loss, a truly 'safe' temperature for Earth's ice is now thought to be closer to 1C or even below over the coming centuries,\" it added.\n\nGlobal warming has already reached 1.37C above pre-industrial levels and according to the European Copernicus network, the 1.5C threshold could be exceeded around 2030.\n\n\"There are no good outcomes in exceeding 1.5C,\" said glaciologist James Kirkham, lead author of one of the reports, entitled \"Overshoot and the Cryosphere,\" which was written with 80 scientists.\n\n\"To contain the global fallout and damage from ice loss in the world's polar and mountain regions, overshoot needs to be kept to the absolute minimum,\" he said.\n\n\"Every extra fraction of a degree and every year spent in overshoot means more devastating impacts.\"\n\nScientists warn in particular about the risks of crossing certain tipping points and say that, even if temperatures were to return to below the 1.5C threshold, recovery would be very slow.\n\nReducing warming to under 1.5C and even 1C could see some glaciers partially regenerate, while there could also be benefits for sea ice.\n\nBut Matthew England, an oceanographer and climatologist at the University of New South Wales in Australia, said recovery could take \"decades to centuries.\"\n\nThe second report – \"State of the Cryosphere 2026. The Cost of Overshoot\" – shows that exceeding 2.8C into the next century would have significant consequences.\n\nSea levels could rise by up to five centimetres a year by 2150, compared to the current 0.45 centimetres while the thawing of permafrost could release as much carbon dioxide each year as the United States, the world's second-largest polluter.\n\nA worst-case but not-so-improbable scenario is that the world is heading towards warming of 2.6C by 2100 even if countries meet their climate commitments.\n\n\"Temporarily exceeding 1.5C does not mean that the goals of the Paris Agreement are irrelevant but instead makes them more urgent,\" argued Kirkham.\n\n\"Returning to 1.5C or below by 2100 remains possible with sufficient political ambition and urgency, specifically by speeding the transition away from fossil fuel use to reach net zero by mid-century,\" he said.\n\n\"Such urgent action can prevent and even reverse some cryosphere loss.\"\n\nGunjan Silwal, a Nepali glacier researcher, said decisions made in the next few years \"will lock in the scale of the damage,\" warning that August's mountain and glacier collapse that killed more than 1,400 and left over 5,000 missing, was \"only a foretaste.\" (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T20:29:11.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876296-20261103.htm"
+    },
     {
       "id": "43988feebac4c430",
       "title": "Raising the quality of insights in agentic analytics",
@@ -827,20 +860,9 @@
       "fullText": "German inflation slowed more than expected in October, the first month of a government fuel tax cut, adding to evidence that Europe's largest economy could prove more resilient than anticipated despite disruptions linked to the war in Iran.\n\nGross domestic product increased slightly more than expected in the third quarter, though economists warned the expansion remained heavily reliant on government spending.\n\nInflation eased to 2.8 percent year-on-year in October from 3.3 percent the month before, preliminary data from the statistics office showed on Friday, below forecasts for 3.1 percent.\n\nEasing energy price rises drove the slowdown, increasing by 12.2 percent in October versus 14.9 percent the month before, and indicated that the fuel tax cut that runs to year-end is having an effect.\n\nCore inflation, which excludes volatile food and energy prices, fell to 2.1 percent from 2.4 percent the month before.\n\nThe German data comes ahead of a euro zone inflation update due on Wednesday. Inflation in the bloc is expected to come in at 3.9 percent in October, slightly above September's 3.8 percent, according to economists polled by Reuters.\n\nGerman GDP increased by 0.2 percent in the third quarter compared with the previous three-month period, according to preliminary data from the statistics office, slightly above a rise of 0.1 percent forecast by analysts polled by Reuters.\n\nThe data pointed to a fourth straight quarter of recovery in Europe's largest economy, helped by increased public spending, even as private sector momentum remained subdued.\n\nUnder Chancellor Friedrich Merz, government funding has surged since Berlin last year approved a €500 billion infrastructure fund and exempted much defence spending from its debt brake rules.\n\nThe economy grew by 0.3 percent in the second quarter and 0.4 percent in the first quarter, according to the office.\n\nThe fuel tax cut, which aims to cushion households from the surge in oil prices caused by the Iran war, will likely help the economy hold up in the fourth quarter as well, said Deutsche Bank analyst Marc Schattenberg.\n\nHowever, with no sign of a lasting de-escalation in the Middle East, energy prices are unlikely to drop noticeably and will continue to stoke inflation in coming months, say analysts.\n\n\"It is clear that the inflation rate will hover around 3 percent for some time to come,\" said Alexander Krueger, chief economist at Bethmann HAL bank.\n\n\"Given this backdrop, an interest rate hike by the ECB cannot be ruled out.\"\n\nThe European Central Bank left interest rates unchanged on Thursday but clearly hinted at another hike in December.\n\nWhile analysts broadly agree Germany is emerging from a prolonged slowdown, many stop short of calling the recovery self-sustaining because private investment remains weak.\n\nA lack of sweeping reforms means Germany's attractiveness as a place to do business will remain impaired, preventing a significant recovery in private investment, Commerzbank chief economist Joerg Kraemer said.\n\nAnalysts pointed to the increased government spending on infrastructure and defence as the main driver of the recovery.\n\n\"Without this artificially initiated impulse, economic output would probably have stagnated,\" said Krueger.\n\nJens-Oliver Niklasch, economist at LBBW bank, said that next year would reveal whether the economic revival is sustainable or just a flash in the pan.\n\n\"For sustained, higher growth, investment would need to pick up more substantially, which, to date, has not been the case,\" he said.\n\nThe German government expects the economy to grow by 1.3 percent in 2026 and 1.1 percent in 2027, with the economy ministry saying earlier this month that the Iran war, and resulting high energy prices, is not hurting the economy as much as feared.\n\nIn a further positive sign, the Ifo economic institute's closely watched business climate index rose for a sixth straight month in October. (Reuters)\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-10-30T14:37:52.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876011-20261030.htm"
-    },
-    {
-      "id": "b43b8fc4f2334945",
-      "title": "US woman blames 'incompetence' for failed execution",
-      "excerpt": "Christa Pike said on Friday that she remains in constant pain and struggles to speak a month after surviving a…",
-      "fullText": "Christa Pike said on Friday that she remains in constant pain and struggles to speak a month after surviving a lethal injection in the US state of Tennessee, a failure she blames on “incompetence”.\n\nIn her first public statement since the failed execution, Pike said she never contemplated a life beyond her execution date and was prepared to die in peace, but woke up alone and confused in a hospital bed.\n\n“There hasn’t been a moment since that night when I haven’t been in pain. My body hurts. My arms hurt. My hands hurt. My throat hurts. I still struggle to speak. And the pain isn’t just physical. There is pain in my mind and in my soul,” Pike said.\n\nPike, 50, survived two doses of pentobarbital as the state tried to execute her on September 30 for the 1995 stabbing death of 19-year-old classmate Colleen Slemmer.\n\nPike was 18 when she and her boyfriend tortured and killed Slemmer, becoming one of the youngest women to be sentenced to death.\n\n“I’m deeply hurt by the incompetence that has put so many people in this terrible position,” she said. “I continue to think about my victim’s family and the terrible pain and loss they have endured.”\n\nTennessee Governor Bill Lee has called for an investigation into what happened during the failed execution and postponed the state’s other lethal injection scheduled this year.\n\nPike said she's thankful for the medical workers who saved her life and the people who showed her kindness.\n\n“I don’t know why I survived that night. I don’t know what comes next. Some days, finding hope is harder than others. For now, I am trying to heal, one day at a time. And I am holding on to the love and kindness of so many people who have reminded me that I am not alone,” she said.\n\nPike’s attorneys have urged the governor to reduce her sentence to life imprisonment.\n\nLee told reporters this week that, “I suspect her sentence will be the same as before unless determined otherwise by the courts.”\n\nFriday's statement was dictated to Pike's legal team from the infirmary at the prison where she is housed.\n\nPike was hospitalised in the immediate aftermath of the failed execution and then moved back to prison at the Debra K. Johnson Rehabilitation Center. (AP)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T14:09:44.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876009-20261030.htm"
     },
     {
       "id": "251e9a97db768b7c",
@@ -1237,17 +1259,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875741-20261029.htm"
-    },
-    {
-      "id": "80ef43fc238b68c2",
-      "title": "Alphabet shares plummet after revenue miss",
-      "excerpt": "Google parent Alphabet on Wednesday missed Wall Street profit and revenue expectations, and AI spending accelerated its cash burn, sending…",
-      "fullText": "Google parent Alphabet on Wednesday missed Wall Street profit and revenue expectations, and AI spending accelerated its cash burn, sending its shares down more than 10 percent in extended trading.\n\nCapital expenditures, driven by AI, will increase significantly in 2027, said Chief Financial Officer Anat Ashkenazi, adding that this year's capex forecast was unchanged. She said she also expected near-term margin pressure from the use of third-party cloud capacity.\n\nThe tech giant reported negative free cash flow of US$9.07 billion, compared with analyst expectations that it would come close to breaking even, according to data compiled by LSEG.\n\nThe results reflect the huge costs of the AI buildout, with investors in the sector concerned both by potential overspending and the risk of falling behind rivals by not spending enough.\n\nThe quarterly cash burn is an increase from US$5.9 billion in the prior quarter, which was the first time the company went into the negative in its 22-year history as a public company.\n\nAlphabet's cash burn was driven by spending to boost cloud capacity and fund AI research. It reported a US$7.66 billion operating income loss in \"Alphabet-level activities,\" which it said primarily reflected expenses related to AI research and development.\n\nThe tech giant's total revenue for the third quarter was US$127.6 billion, short of analysts' estimate of US$128.2 billion, according to LSEG data.\n\nThe revenue miss was caused by Google's core advertising business that reported US$82.01 billion in revenue, about US$1.41 billion short of expectations.\n\nNet income available to common shareholders fell 25 percent to US$26.17 billion, and adjusted earnings per share of US$2.67 missed Wall Street targets of US$3.02.\n\nEarlier on Wednesday, Google sought to preempt its results and counter the perception it had fallen behind in the AI race by announcing its new Gemini 4 Carbon model, which CEO Sundar Pichai told analysts during the earnings call meant it was again \"leading at the frontier.\"\n\nRevenue at Google Cloud exceeded estimates and more than doubled to US$30.71 billion in the third quarter ended September 30, but was not enough to make up for the ad-side performance. (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T23:49:11.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875719-20261029.htm"
     },
     {
       "id": "2449a28f7441832a",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
-    },
-    {
-      "id": "9ae8a1e02c50d50c",
-      "title": "SED meets state leader in Beijing",
-      "excerpt": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in…",
-      "fullText": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in visiting a state leader and Ministry of Education officials in Beijing.\n\nMs Choi and the delegates were received by Vice-Chairperson of the National People's Congress Standing Committee Tie Ning at the Great Hall of the People this afternoon. They also met and exchanged views with officials from the ministry.\n\nMs Choi remarked that this year marks the 77th anniversary of the founding of the People's Republic of China, the 105th anniversary of the founding of the Communist Party of China, and the opening year of the National 15th Five-Year Plan.\n\nShe said it was highly significant for Hong Kong's education sector to visit Beijing ahead of National Day, on October 1, and to celebrate the motherland's birthday and experience a jubilant festive atmosphere with people in the capital.\n\nMs Choi highlighted that last week the Hong Kong Special Administrative Region Government announced its First Five-Year Plan, which aligns with the National 15th Five-Year Plan. She outlined that the Hong Kong's education sector faces multiple tasks, including digital education, talent cultivation and the integration of industry and education.\n\nShe said: “The delegation enabled teachers to gain insight into the latest education developments of the country and share experiences with Chinese Mainland teachers in areas such as operation models, curricula and teaching arrangements of schools at all levels.\n\n“It not only broadened their horizons but also fostered exchanges between the education sectors of both places, providing important references for the future development of Hong Kong's education and laying a foundation for deeper collaboration.”\n\nMs Choi and the delegation subsequently attended a banquet hosted by the Ministry of Education, where they engaged in in-depth discussions regarding professional connections and mutual learning between the education sectors of the two places.\n\nMs Choi and the delegation members will conclude their visit and return to Hong Kong tomorrow.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014/images/20260923195636768.jpg",
-      "publishedAt": "2026-09-22T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
     }
   ]
 }
