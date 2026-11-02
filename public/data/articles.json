@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T12:15:20.402Z",
-  "checkedAt": "2026-11-02T12:15:20.402Z",
+  "generatedAt": "2026-11-02T12:30:33.677Z",
+  "checkedAt": "2026-11-02T12:30:33.677Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -346,6 +346,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261102/20261102_121618_093.html"
+    },
+    {
+      "id": "2215545d043af868",
+      "title": "New Wah Fu Estate plan briefed",
+      "excerpt": "The Housing Authority today briefed the Southern District Council on the latest progress of the clearance and rehousing plan for…",
+      "fullText": "The Housing Authority today briefed the Southern District Council on the latest progress of the clearance and rehousing plan for the redevelopment of Wah Fu Estate (WFE) and consulted members on the proposed public housing development at New Wah Fu Estate (NWFE) Phase 1. The proposal has received general support.\n\nConstruction works for the proposed public housing developments in the five reception sites in Pok Fu Lam South are proceeding in an orderly manner, with the first reception estate, Wah Fu North Estate (WFNE) on Wah King Street, anticipated to be completed by late this year when residents of Wah On House and Wah Lok House will move in progressively.\n\nThe entire rehousing process is expected to conclude in the third quarter of 2027, after which demolition works will commence to clear the site for the construction of NWFE Phase 1 to meet the rehousing needs of the residents from Wah Chui House and Wah King House six years earlier.\n\nTo make effective use of public housing resources and provide diversified rehousing arrangements that meet the needs of residents affected by the clearance for the redevelopment of WFE Phase 1b, those living in Wah Cheong House, Wah Kin House and Wah Tai House who wish to transfer early to the newly completed public rental housing, the authority will launch a thinning-out exercise for these residents by offering more than 400 flats in WFNE for eligible residents' selection. Those who successfully select a flat are expected to complete the intake formalities in March next year.\n\nThe remaining four reception estates are also scheduled for completion successively between 2028 and 2031. Certain signature public spaces in the existing WFE will be recreated within the reception estates as highlights of the community.\n\nNWFE adopted a community-oriented approach as its core design concept. Through the public engagement initiative, the design team has systematically fostered local consensus.\n\nAdditionally, the authority will continue to co-ordinate with the Highways Department's Railway Development Office and the MTR Corporation for the alignment of the South Island Line (West), the location of Wah Fu Station and the overall development planning. The master planning and design proposal for NWFE is expected to be substantially completed by the first half of 2028, and the HA will then submit a comprehensive proposal to the District Council.\n\n“Rebuilding Wah Fu” is the design concept of NWFE Phase 1, involving the preservation and revitalisation of the existing Wah Fu (I) Shopping Centre and the “Banyan Tree Area” outside the shopping centre.\n\nTo create a larger parcel of land for the development of NWFE Phase 1, a section of the existing Wah Fu Road will be realigned. The authority will arrange gazettal of the relevant road works in early 2027 and will commence the relevant works in mid-2028.\n\nThe pedestrian facilities and road improvement works being carried out in the Pok Fu Lam South area by the Civil Engineering & Development Department are expected to be completed by 2027.Meanwhile, the MTR Corporation is currently conducting detailed planning and design for the South Island Line (West) with the project expected to be completed and in operation by 2034 or earlier.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261102/20261102_174753_450/images/20261102200758589.jpg",
+      "publishedAt": "2026-11-01T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261102/20261102_174753_450.html"
     },
     {
       "id": "6352fe2dde763876",
@@ -995,17 +1006,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_124418_748.html"
-    },
-    {
-      "id": "889214d2fc3338a4",
-      "title": "Mentorship scheme applications open",
-      "excerpt": "The Strive & Rise Programme began recruiting 4,000 mentees for its fifth cohort today, and applications will close on November…",
-      "fullText": "The Strive & Rise Programme began recruiting 4,000 mentees for its fifth cohort today, and applications will close on November 19.\n\nSecondary One to Secondary Four students from underprivileged families, particularly those living in subdivided units, can submit their applications through the programme’s mobile app.\n\nFormulated and implemented by an interdepartmental task force led by the Chief Secretary, the programme comprises three key elements – mentorship, personal development plans and financial support.\n\nThe one-year intensive foundation training includes mentorship and a structured programme covering orientation, basic training, mentor-mentee interaction, diverse group activities, Mainland study and exchange tours, and more.\n\nIt aims to help mentees broaden their horizons, build self-confidence, develop a positive outlook on life, explore more possibilities for personal development, set goals for the future and strive for upward mobility.\n\nEach mentee will be provided with start-up financial support of $5,000. Mentors will assist and guide mentees in developing positive financial planning concepts and implementing their personal development plans.\n\nUpon successful completion of the programme, mentees will receive a scholarship of $5,000 and automatically become members of the Alumni Club.\n\nFor enquiries, interested students may approach their schools or the non-governmental organisations assisting the Government in implementing the programme.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_120335_653/images/20261030123639907.jpg",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_120335_653.html"
     },
     {
       "id": "b2a4582e5cef3de7",
