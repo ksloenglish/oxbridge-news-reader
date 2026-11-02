@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T14:15:20.596Z",
-  "checkedAt": "2026-11-02T14:15:20.596Z",
+  "generatedAt": "2026-11-02T14:30:27.625Z",
+  "checkedAt": "2026-11-02T14:30:27.625Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "a73a5d6d9e808e81",
+      "title": "Three-vehicle crash in Tsuen Wan injures nine",
+      "excerpt": "Nine people sustained light injuries in a car crash involving three vehicles in Tsuen Wan on Monday night. Police said…",
+      "fullText": "Nine people sustained light injuries in a car crash involving three vehicles in Tsuen Wan on Monday night.\n\nPolice said they were alerted at 7.30pm that a minibus collided with a private vehicle and a light goods vehicle on Tsuen Wan Road.\n\nThe collision shattered the minibus' windshield.\n\nAll of those hurt were conscious.\n\nA part of Tsuen Wan Road was temporarily closed due to the incident.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T14:18:12.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876285-20261102.htm"
+    },
     {
       "id": "047ce1f8035e1ef7",
       "title": "Foreign firms debut in HK to access mainland market",
@@ -676,17 +687,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876077-20261031.htm"
-    },
-    {
-      "id": "75150d437e5a0edf",
-      "title": "Vaccination calls as flu season 'not over'",
-      "excerpt": "A seven-year-old girl with an underlying illness is critically ill with influenza A as authorities urge vaccination. The girl developed…",
-      "fullText": "A seven-year-old girl with an underlying illness is critically ill with influenza A as authorities urge vaccination.\n\nThe girl developed a runny nose, diarrhoea and abdominal pain on Thursday, followed by fever and convulsions on Friday, according to the Department of Health. She was admitted to Tuen Mun Hospital.\n\nShe was transferred to the hospital’s paediatric intensive care unit after her condition deteriorated and remains there for further treatment.\n\nHealth authorities warn that the city’s flu season is not over.\n\nHong Kong's current flu season has already dragged on for four months after beginning in late June, according to health officials. Dr. Edwin Tsui, Controller of the Centre for Health Protection, noted that while the latest surveillance data shows signs of decline, overall influenza activity \"remained above the baseline level.\"\n\n\"A cumulative total of 28 cases of severe paediatric influenza infection have been recorded in the current influenza season. Among these cases, 20 patients have recovered and been discharged from hospital, two are in stable condition, four are in critical condition and two have passed away,\" Tsui said.\n\nThe CHP has urged residents to get vaccinated to reduce the risk of potential illness.\n\nIts analysis of the previous year’s data showed that unvaccinated children who contracted flu had approximately five times the rate of severe complications or death compared with vaccinated children.\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T10:30:16.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876066-20261031.htm"
     },
     {
       "id": "f48b849ba693188c",
