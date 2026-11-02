@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T04:15:17.231Z",
-  "checkedAt": "2026-11-02T04:15:17.231Z",
+  "generatedAt": "2026-11-02T04:30:21.780Z",
+  "checkedAt": "2026-11-02T04:30:21.780Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 10
+      "articleCount": 11
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "bf64b56122212c7f",
+      "title": "HKMA eyes next level for Fintech 2030 with AI push",
+      "excerpt": "The Hong Kong Monetary Authority has set out the next phase of its Fintech 2030 strategy, which will pair new…",
+      "fullText": "The Hong Kong Monetary Authority has set out the next phase of its Fintech 2030 strategy, which will pair new technology initiatives with a renewed emphasis on governance and risk management.\n\nSpeaking at Hong Kong Fintech Week on Monday, authority chief executive Eddie Yue said the HKMA is launching Project Sage to examine the application and governance of \"agentic finance\" – artificial intelligence systems that can execute tasks on behalf of users.\n\n\"The main purpose of the Sage project is to hope that, under agentic finance, we can both promote application and pay attention to governance,\" he said.\n\nYue said a cross-sector expert panel would bring together finance, payments, professional services, technology and academic representatives to explore use cases, sandbox testing, interoperability standards and governance safeguards.\n\nThe HKMA is also issuing a discussion paper on banks’ use of agentic AI, seeking views on governance models, responsibility arrangements and a possible central register of trusted agents.\n\nYue said the aim is to set rules that allow innovation while managing risks.\n\nHe also said the authority would launch a post-quantum cryptography toolbox with the Hong Kong University of Science and Technology to help banks prepare for the challenges stemming from breakthroughs in quantum computing.\n\nOn tokenisation, Yue said the HKMA is introducing tokenised central bank money to enable 24/7 settlement of interbank tokenised deposits and would expand the number of participating banks to support cross-lender transfers around the clock.\n\n\"The benefit is that, for example, quite a number of enterprises with global liquidity to manage can, if round-the-clock tokenised deposit transfers are achieved, make payments at any time and anywhere, across different accounts and even cross-border,\" he said.\n\n\"And for retail investors, if in the future they want to invest in different retail tokenised financial products, they can also more flexibly do their investments 24/7, strengthening the flexibility and security of their asset allocation.\"\n\nYue said the HKMA would further pilot tokenised Exchange Fund Bills in the secondary market and explore whether regulated stablecoins could serve as a payment channel.\n\nHe stressed that innovation must be matched by governance and risk management so it can go further, land better and benefit more people.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-02T04:14:07.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876212-20261102.htm"
+    },
     {
       "id": "4b2c88bd678e8c79",
       "title": "HK 'an ideal home for international private law body'",
@@ -676,17 +687,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875991-20261030.htm"
-    },
-    {
-      "id": "2eb2588455cd0f95",
-      "title": "Nominations of 1,115 EC poll candidates deemed valid",
-      "excerpt": "The Registration and Electoral Affairs said on Friday that the nominations of 1,115 candidates running for the Election Committee Subsector…",
-      "fullText": "The Registration and Electoral Affairs said on Friday that the nominations of 1,115 candidates running for the Election Committee Subsector Ordinary Elections next month are deemed valid.\n\nOf those, 856 will compete for 723 seats across 31 subsectors.\n\nThe remaining 259 candidates are returned uncontested in five other subsectors.\n\nThe Electoral Affairs Commission will hold a briefing session for candidates on Tuesday to familiarise them with the electoral arrangements and various regulations.\n\nOn the day of the polls on November 22, five ordinary polling stations will open from 9am to 6pm.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T12:47:35.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875988-20261030.htm"
     },
     {
       "id": "806b240bf744fbd3",
@@ -1272,17 +1272,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875673-20261028.htm"
     },
     {
-      "id": "9debba75a2859e56",
-      "title": "Tech stocks soar pushing regional bourses higher",
-      "excerpt": "Technology firms surged in Asia on Wednesday after blockbuster earnings from chip giant SK hynix helped boost optimism in the…",
-      "fullText": "Technology firms surged in Asia on Wednesday after blockbuster earnings from chip giant SK hynix helped boost optimism in the AI trade ahead of results from Wall Street titans Microsoft and Alphabet.\n\nOil prices rose as investors kept tabs on Israel's election results, which could determine the future of Israeli Prime Minister Benjamin Netanyahu's war against Iran.\n\nIn Hong Kong, the stock market ended higher, with the benchmark Hang Seng Index up 0.23 percent to close at 23,094 points.\n\nThe Hang Seng China Enterprises Index gained 0.32 percent to 7,791 points, and the Hang Seng Tech Index jumped 1.40 percent to 3,853 points.\n\nOn the mainland, the benchmark Shanghai Composite Index finished up 0.91 percent to 3,681 points while the Shenzhen Component Index closed 2.02 percent higher.\n\nTurnover of stocks covered by these two indices totalled about 1.63 trillion yuan, up from 1.46 trillion yuan on the previous trading day.\n\nShares in robotics, semiconductor chips and AI-generated animated dramas were among the top gainers, while stocks in the pork and insurance sectors fell against the broader upward trend.\n\nThe ChiNext Index, tracking China's Nasdaq-style board of growth enterprises, gained 3.4 percent.\n\nThe STAR Composite Index, which reflects the performance of stocks on China's sci-tech innovation board, closed 3.2 percent higher.\n\nElsewhere in Asia, Tokyo stocks closed mixed.\n\nArtificial intelligence-related shares extended gains as worries about the profitability and sustainability of massive investments in the sector eased, but rising crude oil futures prompted selling in the broader market.\n\nThe benchmark Nikkei stock index, climbed 685 points, or 1.08 percent, to finish at 63,954.\n\nThe broader Topix index, meanwhile, slipped 5.66 points, or 0.14 percent.\n\nHeavyweight AI- and semiconductor-related shares tracked their US counterparts higher, with upbeat details in the initial public offering prospectus of AI giant Anthropic drawing buyers to the Tokyo market for a second straight session.\n\nMeanwhile, SK hynix, which has been at the forefront of the chip boom, said on Wednesday that third-quarter operating profit soared 632 percent to US$62.8 billion thanks to explosive demand for its advanced semiconductors.\n\nThe firm said it had now posted record revenue and operating profit for six straight quarters.\n\n\"While Wall Street argues over whether the AI arms race can keep financing itself, SK hynix has just reminded the market that somebody on the other side of all that capex is receiving the cheque,\" wrote Stephen Innes at SPI Asset Management.\n\nShares in SK hynix soared almost 11 percent and South Korean rival Samsung, which reports on Thursday, added nine percent.\n\nThat pushed Seoul's Kospi index up more than six percent at the close. (AFP/Xinhua)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T09:29:46.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875652-20261028.htm"
-    },
-    {
       "id": "66ca3358a5ff891d",
       "title": "China takes Mbappe's apology for Mao comment seriously",
       "excerpt": "Beijing on Wednesday said it took seriously an apology from Real Madrid superstar Kylian Mbappe after he made comments about…",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
+    },
+    {
+      "id": "9ae8a1e02c50d50c",
+      "title": "SED meets state leader in Beijing",
+      "excerpt": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in…",
+      "fullText": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in visiting a state leader and Ministry of Education officials in Beijing.\n\nMs Choi and the delegates were received by Vice-Chairperson of the National People's Congress Standing Committee Tie Ning at the Great Hall of the People this afternoon. They also met and exchanged views with officials from the ministry.\n\nMs Choi remarked that this year marks the 77th anniversary of the founding of the People's Republic of China, the 105th anniversary of the founding of the Communist Party of China, and the opening year of the National 15th Five-Year Plan.\n\nShe said it was highly significant for Hong Kong's education sector to visit Beijing ahead of National Day, on October 1, and to celebrate the motherland's birthday and experience a jubilant festive atmosphere with people in the capital.\n\nMs Choi highlighted that last week the Hong Kong Special Administrative Region Government announced its First Five-Year Plan, which aligns with the National 15th Five-Year Plan. She outlined that the Hong Kong's education sector faces multiple tasks, including digital education, talent cultivation and the integration of industry and education.\n\nShe said: “The delegation enabled teachers to gain insight into the latest education developments of the country and share experiences with Chinese Mainland teachers in areas such as operation models, curricula and teaching arrangements of schools at all levels.\n\n“It not only broadened their horizons but also fostered exchanges between the education sectors of both places, providing important references for the future development of Hong Kong's education and laying a foundation for deeper collaboration.”\n\nMs Choi and the delegation subsequently attended a banquet hosted by the Ministry of Education, where they engaged in in-depth discussions regarding professional connections and mutual learning between the education sectors of the two places.\n\nMs Choi and the delegation members will conclude their visit and return to Hong Kong tomorrow.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014/images/20260923195636768.jpg",
+      "publishedAt": "2026-09-22T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
     }
   ]
 }
