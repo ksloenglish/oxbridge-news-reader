@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T04:45:19.985Z",
-  "checkedAt": "2026-11-03T04:45:19.985Z",
+  "generatedAt": "2026-11-03T05:00:33.705Z",
+  "checkedAt": "2026-11-03T05:00:33.705Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -95,6 +95,17 @@
   ],
   "articles": [
     {
+      "id": "d7121b1b6f47ec84",
+      "title": "Parking meters restored after hours of breakdown",
+      "excerpt": "The Transport Department said the operation of the city's parking meter system had returned to normal following emergency repairs after…",
+      "fullText": "The Transport Department said the operation of the city's parking meter system had returned to normal following emergency repairs after a breakdown that lasted for nearly four hours on Tuesday morning.\n\nThe department said it received a report from the operator at about 8.20am that the system had malfunctioned.\n\nThe Digital Policy Office was notified of the incident, the department said, noting that there was no evidence to suggest the system had been hacked.\n\nSecretary for Transport and Logistics Mable Chan said officials had urged the operator of the parking meters to submit a report as soon as possible.\n\n\"I want to reiterate that we attach huge importance to this incident and the system malfunction. I have instructed the Transport Department to require the system operator, Hong Kong Telecom, to submit a report as soon as possible. I hope an initial report can be submitted within the next 24 hours,\" she said.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T04:47:11.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876370-20261103.htm"
+    },
+    {
       "id": "fbdf2f3ecc04f6d9",
       "title": "New service to simplify mainland flight transit in HK",
       "excerpt": "Secretary for Transport and Logistics Mable Chan on Tuesday said a new service had been launched to streamline international travel…",
@@ -104,6 +115,17 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876362-20261103.htm"
+    },
+    {
+      "id": "8289a65b86803237",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox…",
+      "fullText": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,  sign up here .\n\nAt the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That term beat out other contenders, including “Extreme Intelligence” and “Supreme Intelligence,” offered by the president in a poll on X a couple of weeks earlier.\n\nRebrands are, of course, now a White House tradition: Trump has changed names to project US dominance of certain bodies of water (the Gulf of America and Lake America), to signal new institutional priorities (Department of War), or simply to leave his mark on storied places (see the ongoing fight over renaming the Kennedy Center).\n\nThe stated reason for this name change is that today’s AI systems “amplify human ingenuity” rather than merely “imitate” intelligence, and the government’s terminology should reflect that. But if this rebrand follows the pattern of others, its effects will extend beyond government.\n\nIt will turn a choice of words into a political loyalty test: Those who use the new term demonstrate allegiance to the administration, and those who don’t become marks for attacks (recall that the Trump administration barred the Associated Press from some White House press events after the news outlet did not adopt the term “Gulf of America”).\n\nBut most Americans go months without ever pondering what to call the major lake between New York and Canada. AI, on the other hand, is at the center of our national conversation and a technology two-thirds of Americans report interacting with multiple times a week. It might be the boldest rebrand yet.\n\nSo one month in, who’s on board?\n\nLet’s start with the government itself. The term “Super Intelligence”—or simply “SI”—now appears more often on government solicitations, like a new request by Immigration and Customs Enforcement for companies to build “SI-powered” surveillance for ICE detention facilities. The new term has been swapped in silently on most government websites. Some, including that of the National Institutes of Health, now include a banner warning visitors they might see both the new and the old terms during the transition period.\n\nThere have been hiccups. A day after the rebrand order, the Pentagon announced an ambitious new initiative to study the future of warfare, called Project Meridian; it used the old terminology. A Federal Trade Commission press release last week used “superintelligence” instead of the two-word, capitalized version ordered by the president, and recent press releases from Health and Human Services show no sign of the new language.\n\nThe term “AI” will likely stick around given the countless AI-related offices, initiatives, and programs that have sprung up in recent years, like the Chief Digital and Artificial Intelligence Office at the Pentagon (the executive order says it doesn’t apply to previously issued regulations or documents).\n\nAs for government employees, it appears to be taking time for “SI” rather than “AI” to roll off the tongue. One researcher at a national lab I interviewed a few weeks ago used “AI” repeatedly before sheepishly acknowledging the slip-up. Even Defense Secretary Pete Hegseth used “AI” in an interview on October 3.\n\nBut Trump’s other rebrands suggest the goal isn’t merely to change the government’s vocabulary. It’s to change how the rest of us speak, too.\n\nIn the past couple of weeks, most of President Trump’s posts on Truth Social have been endorsements for candidates in the midterms. But on October 27 he took a break from electioneering to criticize the Wall Street Journal for not using “Super Intelligence,” “the name which virtually everyone else is using, or soon will be.” He suggested that a new rule will soon go further than the executive order to outright ban “artificial intelligence” from government documents.\n\nBut the Wall Street Journal is not alone: Even Newsmax, an outlet whose founder described it as “supportive of the President and his policies,” isn’t using the president’s preferred term.\n\nAre Big Tech executives falling in line? It’s complicated. The same day that President Trump signed the rebranding order, he also released a nonbinding statement on AI safety, the White House Accord on Super Intelligence, signed by six of the most powerful people in tech: Sundar Pichai of Google, Dario Amodei of Anthropic, Mark Zuckerberg of Meta, Greg Brockman of OpenAI, Elon Musk of xAI, and Jensen Huang of Nvidia.\n\nBut even among this group—three members of which attended Trump’s inauguration—the term has not caught on.\n\nIn an analysis of third-quarter earnings calls, CNBC reported that only Zuckerberg and Musk used the term consistently. But Zuckerberg doesn’t quite count: Meta has been saying “superintelligence” since last year anyway. Musk’s companies seem to use the term the most—and he even pledged to rename SpaceXAI to SpaceXSI. Musk himself still mixes SI and AI when posting on X.\n\nExecutives from Amazon, Microsoft, and Alphabet used “AI” in their calls, though Microsoft’s recent letter to shareholders referred to the “Super Intelligence era.” Huang has referenced the term but still uses AI too .\n\nOne objection to this rebranding project is that it will cost time and taxpayer dollars. It is Salesforce CEO Marc Benioff’s prerogative to decide that SIForce is a better name than AIForce and direct his company to implement that change. But government employees are now spending time writing guides on how departments should navigate the rebrand. And, per the executive order , leaders of federal agencies will be required to put their heads together to draft a new legislative definition of “Super Intelligence” to be run by the president by the end of this month. \n\nBut I’m more worried about what this does to our national conversation about AI than I am about the potential waste of time and money. Surprisingly often I overhear strangers at a grocery store or coffee shop who have struck up a conversation about AI. The substance of the conversation is rarely uplifting—they most often talk about a jobs apocalypse or AI-powered warfare—but what is heartening is how often I see a widespread desire among people to have a say in how this technology transforms their lives.\n\nPeople may have wildly different feelings about AI, including outright hostility, but those differences don’t yet map neatly onto the partisan divisions that make it awkward for strangers to discuss immigration or climate change.\n\nIf “Super Intelligence” turns into a loyalty test, this will cease to be the case. It’s easy to imagine that two people chatting about, say, whether chatbots are good or bad for our mental health will stop once they realize one of them is saying “super intelligence” and the other “AI.” That would be a shame for us all.\n\nMidterm elections are tomorrow. Americans say AI is more important to them in this election than environmental and climate policy (and Democrats even rank it above abortion and gun policy). We’re only just beginning to have a national conversation about what AI will mean for our lives. Whether or not “Super Intelligence” catches on, turning the terminology itself into a loyalty test will do nothing to advance a national conversation about AI that’s only just getting started.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T04:18:47.000Z",
+      "source": "MIT Technology Review",
+      "sourceFeed": "mit-technology-review",
+      "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
     },
     {
       "id": "b76c22c0429bdb6d",
@@ -722,17 +744,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876147-20261101.htm"
     },
     {
-      "id": "6358e8147b9e4327",
-      "title": "Bar Association backs criminalising bid-rigging",
-      "excerpt": "The Bar Association on Sunday said it supports the criminalisation of bid-rigging activities through amendments to the Competition Ordinance. This…",
-      "fullText": "The Bar Association on Sunday said it supports the criminalisation of bid-rigging activities through amendments to the Competition Ordinance.\n\nThis came as its task force on law review proposed about 50 legislative amendments following the deadly Wang Fuk Court fire. It covered bid-rigging, tender specifications, declaration of interests, as well as project safety and risks.\n\nJose-Antonio Maurellet, chairman of the association, expressed support of criminalising bid-rigging in parallel to the existing civil regime.\n\n“The existence of the dual-track system, of course, does not mean that civil and criminal proceedings would be taken forward at the same time for the same case – this would contravene the principle against double jeopardy,” he said.\n\n“The enforcement authorities concerned will therefore need to coordinate with one another and to decide whether a case is to be dealt with by civil enforcement or by criminal prosecution.”\n\nHe went on to say that under the new criminal offence, the elements of crime, such as the definition of bid-rigging and the burden of proof, must be clearly defined.\n\nThe association also proposed to amend the Building Management Ordinance, saying if a project exceeds a certain value, tenders must be submitted in “two envelopes” – one for the technical proposal and the other for price.\n\nThe price proposal may only be opened after the technical proposal has met a minimum score specified in the evaluation to encourage a focus on quality, it said.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T09:45:09.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876144-20261101.htm"
-    },
-    {
       "id": "c5b859edcffed43c",
       "title": "Evacuees from occupied Oleshky arrive in Ukraine",
       "excerpt": "Residents of the Russian-occupied city of Oleshky, ravaged by years of war, arrived in Ukraine on Saturday after being evacuated…",
@@ -1226,17 +1237,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875712-20261029.htm"
-    },
-    {
-      "id": "a6bc564ba8236e2b",
-      "title": "Creating AI value with enterprise context",
-      "excerpt": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms…",
-      "fullText": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a proper understanding of the business. Many organizations find themselves in this situation—and it could be one of key reasons they struggle to extract returns on their AI investments.\n\nDOWNLOAD THE REPORT\n\nAn MIT Technology Review Insights poll finds that while every organization surveyed is using AI today to some degree, fewer than one in five (16%) are extracting transformative value from their deployments. The largest percentage of respondents (40%) say they are seeing moderate gains in specific tasks or teams, while 21% report meaningful gains, leaving 23% that are seeing minimal returns or none at all.\n\nCompanies are mostly still piloting AI use cases (according to 38% of respondents) or using it to assist employees’ work with tools like co-pilots or chat assistants (35%). Just 12% of enterprises have AI agents in production and 3% say they are using AI to do most of the work in key processes.\n\n“There’s a big gap between what the models are capable of and how the models are actually being useful inside organizations,” says Prukalpa Sankar, co-founder of Atlan. “For every real-life intent and purpose, artificial general intelligence is already here. It’s just not really useful in most companies today.”\n\nThe missing layer, Sankar says, is context, or how well AI understands a business. A context layer is the architectural infrastructure that sits between an organization’s business systems (for example, systems of record and data, and its AI platforms). It translates enterprise intelligence into governed, machine-usable context for AI agents or models and helps knowledge compound. “Without a context layer for AI, it’s almost like you’re hiring the smartest intern in the world, blindfolding them, and throwing them into your organization,” Sankar says.\n\nDownload the report\n\nThis content was produced by Insights, MIT Technology Review’s custom content arm, not its editorial staff. It was researched and written by humans, with any AI tools that may have been used limited to production processes under human oversight.",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MIT_Atlan-Cover-28-26.png?w=840",
-      "publishedAt": "2026-10-28T20:32:02.000Z",
-      "source": "MIT Technology Review",
-      "sourceFeed": "mit-technology-review",
-      "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
     },
     {
       "id": "3ca62df0456290ff",
