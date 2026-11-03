@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T07:01:45.774Z",
-  "checkedAt": "2026-11-03T07:01:45.774Z",
+  "generatedAt": "2026-11-03T07:15:17.997Z",
+  "checkedAt": "2026-11-03T07:15:17.997Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rthk-world",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 10
+      "articleCount": 9
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "0b6d746cf0046b6c",
+      "title": "Financial institutions laud HK's gateway guardianship",
+      "excerpt": "Global bank leaders have lauded Hong Kong for its role as a gateway between the mainland and the rest of…",
+      "fullText": "Global bank leaders have lauded Hong Kong for its role as a gateway between the mainland and the rest of the world, facilitating two-way financial flows and minimising risks in an era of uncertainty.\n\nAt a panel meeting held at the Global Financial Leaders’ Investment Summit in Central, State Street chairman and chief executive Ronald O’Hanley noted that trade patterns had changed in recent years due to uncertainties brought by the pandemic and global conflicts.\n\nMore borrowers and people looking to raise capital, he said, are looking for safer options when building supply chains and structuring financing – switching from “just in time to just in case”.\n\n“Where we’re seeing the most change is around the role of China, and Hong Kong is the gateway to that,” O’Hanley said.\n\n\"It’s the kind of movement of money north and south and movement of capital north and south, and Hong Kong is playing that role.”\n\nBarclays group chief executive C S Venkatakrishnan said firms had been reducing their dependency on strategic imports over the past decade and that the city which is positioned as both an international financial centre as well as a domestic one is the one that can help countries manage the dependencies.\n\n“I think in order for international finance not to get caught up in the strategic breakdown of dependence, it’s important for the international financial centres like Hong Kong to do what you’re doing – which is to have fair and transparent regulation to promote growth and to make it easy for people to operate,” he said.\n\nBNP Paribas chairman Jean Lemierre noted that more mainland firms were operating in Europe.\n\nWith Hong Kong being a renminbi hub, it acts as a bridge between China and Europe that helps these companies gain access to the euro, he said, adding that mainland firms can have better understanding of the European market through the SAR.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T07:09:14.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876374-20261103.htm"
+    },
     {
       "id": "df59898eb923f2b5",
       "title": "Patience pays off at Melbourne Cup for Point Of Law",
@@ -755,17 +766,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876156-20261101.htm"
     },
     {
-      "id": "0d54c2e1842f3da2",
-      "title": "Evening News on TV32 - Nov 1",
-      "excerpt": "Top stories for Sunday, Nov 1, 2026 - The justice secretary says \"bad actors\" are going to be driven out…",
-      "fullText": "Top stories for Sunday, Nov 1, 2026\n\n- The justice secretary says \"bad actors\" are going to be driven out of the building maintenance sector.\n\n- Thousands join the first ever Northern Metropolis Marathon.\n\n- Hong Kong has its warmest October on record.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T12:22:27.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876151-20261101.htm"
-    },
-    {
       "id": "c5b859edcffed43c",
       "title": "Evacuees from occupied Oleshky arrive in Ukraine",
       "excerpt": "Residents of the Russian-occupied city of Oleshky, ravaged by years of war, arrived in Ukraine on Saturday after being evacuated…",
@@ -1030,17 +1030,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875922-20261030.htm"
     },
     {
-      "id": "2469ae32e8b3c35e",
-      "title": "HK stocks up amid fears over returns from AI build-out",
-      "excerpt": "Tech shares slumped in Asia on Friday, the yen rose and bonds surged towards their biggest monthly gain in nearly…",
-      "fullText": "Tech shares slumped in Asia on Friday, the yen rose and bonds surged towards their biggest monthly gain in nearly three years as investors scurried to safety against worries that huge and rising AI spending may not deliver sufficient returns.\n\nIn Hong Kong, the benchmark Hang Seng Index opened up 52 points, or 0.23 percent, at 23,011.\n\nThe China enterprises index rose 23 points, or 0.31 percent, to 7,779 while the tech index fell 23 points, or 0.63 percent, to 3,720.\n\nUp north, the benchmark Shanghai Composite Index opened down 45 points, or 1.25 percent, at 3,605.\n\nThe blue-chip CSI300 headed for its largest monthly fall in a decade, after nearly four months of AI stocks tanking on fears that a slowdown in demand for chips and other data centre equipment could crush revenues.\n\nThe Shenzhen Component Index fell 267 points, or 2.4 percent, to 10,871 while the ChiNext Index plunged 3.29 percent to 2,434.\n\nIn Tokyo, the Nikkei opened 315 points, or 0.49 percent, down at 64,344 and was 1,742 points lower at one stage before noon as the tech-heavy 225 benchmark tracked overnight losses on Wall Street and was given additional impetus by late earnings from Amazon.com and Intel that showed massive cash burns.\n\nIn Seoul, the Kospi dived 177 points, or 2.99 percent, to open at 5,760 before continuing its downward spiral to be 313 points down at one stage before noon, triggering at one point a sidecar trading curb and halting algorithmic trading for five minutes.\n\nThe weakness in Asian markets came as shares in Google parent Alphabet fell 12.6 percent on Wall Street and slid a little further after hours, to wipe out a withering US$500 billion in market value, as massive AI spending turned the company's cash flow negative.\n\nAn aftermarket plunge of 23 percent in Intel shares and a drop of seven percent in Amazon stocks, as they too burn through cash, drove Nasdaq 100 futures down 1.4 percent and sent stocks of chipmakers around Asia into a tailspin.\n\n\"The market isn't necessarily questioning whether the AI buildout can be financed,\" said Pepperstone analyst Chris Weston.\n\n\"It's increasingly questioning whether shareholders will earn an adequate return on the enormous capital being deployed.\"\n\nNerves were also frayed by a potentially record-breaking hack at Binance, the world's biggest cryptocurrency exchange, which drove down bitcoin, other cryptocurrency prices and stocks including rival exchange Coinbase.\n\nInvestors' rush into bonds was further spurred further by the Federal Reserve's Wednesday decision to keep US interest rates on hold, with no firm projection of when it might need to hike next.\n\nBenchmark 10-year US Treasury yields fell by more than seven basis points in Tokyo trade on Friday to 4.91 percent for a fall of some 37 bps through October – the largest one-month drop since December 2023.\n\nThe risk-averse mood strengthened haven currencies such as the yen, pushing the currency up about 0.2 percent to 157.47 per US dollar. (Reuters/Xinhua)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T03:03:26.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875919-20261030.htm"
-    },
-    {
       "id": "aa78b4c40f126ee3",
       "title": "Djokovic eliminated in Basel in blow to ATP Finals bid",
       "excerpt": "Novak Djokovic fell in the second round of the ATP 500 tournament in Basel on Thursday when Germany's Jan-Lennard Struff…",
@@ -1281,17 +1270,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875667-20261028.htm"
-    },
-    {
-      "id": "a1c3a2e9867d9d04",
-      "title": "Ex-vice premier Liu Yandong passes away at 81",
-      "excerpt": "Former vice premier and state councilor Liu Yandong passed away due to illness at the age of 81 in Beijing…",
-      "fullText": "Former vice premier and state councilor Liu Yandong passed away due to illness at the age of 81 in Beijing on Wednesday afternoon, according to Xinhua News Agency.\n\nLiu also served as a member of the Political Bureau of the 17th and 18th Central Committees of the Communist Party of China (CPC), and a vice chairperson of the 10th National Committee of the Chinese People's Political Consultative Conference.\n\nLiu was \"an excellent Party member, a time-tested and loyal communist fighter, and an outstanding leader in the CPC's united front work and in the fields of education, science and technology, health, and children and women work in China,\" an official statement said.\n\nChief Executive John Lee expressed his profound sorrow over Liu's passing, and extended his condolences to her family.\n\n\"[Former Vice Premier Liu] served as a member of the Preparatory Committee of the Hong Kong Special Administrative Region under the National People's Congress and deputy leader of the Central Coordination Group for Hong Kong and Macao Affairs, and had always cared for and supported the long-term stability and prosperity of Hong Kong,\" a statement read.\n\nLee recalled Liu's multiple visits to the SAR, where she reached out to people from different sectors and fully demonstrated her care for Hong Kong and its people.\n\n\"I am sincerely grateful for her contributions to promoting the development of Hong Kong in such areas as education, economy and sports,\" Lee added. (Additional reporting by Xinhua)\n_____________________________\nLast updated: 2026-10-28 HKT 21:10\n\nEdited by Raymond Yeung",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T11:48:09.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875673-20261028.htm"
     },
     {
       "id": "6ff23ffcaca16e53",
