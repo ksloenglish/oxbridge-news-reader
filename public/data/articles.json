@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T09:45:26.563Z",
-  "checkedAt": "2026-11-03T09:45:26.563Z",
+  "generatedAt": "2026-11-03T09:58:22.486Z",
+  "checkedAt": "2026-11-03T09:58:22.486Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -390,6 +390,17 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
+    },
+    {
+      "id": "115b85f475e9888b",
+      "title": "Arbitral hearings scheme extended",
+      "excerpt": "The Government announced today the expansion of the Immigration Facilitation Scheme for Persons Participating in Arbitral Proceedings in Hong Kong…",
+      "fullText": "The Government announced today the expansion of the Immigration Facilitation Scheme for Persons Participating in Arbitral Proceedings in Hong Kong .\n\nThe Department of Justice outlined that the new measures provide greater convenience to those covered by the scheme, incentivising them to choose Hong Kong as a place to conduct arbitration and bolstering the city's competitiveness as an arbitral seat.\n\nThe Government said that since its regularisation last year, the scheme has been welcomed by the legal and dispute resolution sector and the international arbitration community, adding that its facilitation of international and cross-border arbitral proceedings in Hong Kong has strengthened the city’s position as a premier international arbitration hub.\n\nThe scheme's expansion means it now covers arbitral proceedings that occur physically, or in hybrid fashion, in Hong Kong, and are administered by dispute resolution institutions or permanent offices set up in the Chinese Mainland, Macao, Taiwan or overseas, supported by a designated arbitral and dispute resolution institution in Hong Kong under the \"Arrangement Concerning Mutual Assistance in Court-ordered Interim Measures in Aid of Arbitral Proceedings by the Courts of the Mainland and of the Hong Kong Special Administrative Region\".\n\nThe Governement explained that \"supported by\" means that such an institution will provide venue, hearing or meeting facilities, in addition to ancillary services, such as those provided by tribunal reporters and interpreters, translators and caterers, to support arbitrations.\n\nFor proceedings newly covered under the scheme's expansion, arbitral and dispute resolution institutions offering support are required to verify the identities of participants in arbitral proceedings.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_153006_706/images/20261103163149329.jpg",
+      "publishedAt": "2026-11-02T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_153006_706.html"
     },
     {
       "id": "58b5fb3e0815979b",
@@ -1138,17 +1149,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_121247_837.html"
-    },
-    {
-      "id": "d62935b7be8a90e1",
-      "title": "New measures to combat bid-rigging",
-      "excerpt": "The Government today announced a series of reform measures using a three-pronged approach to rigorously combat bid-rigging and other syndicate-led…",
-      "fullText": "The Government today announced a series of reform measures using a three-pronged approach to rigorously combat bid-rigging and other syndicate-led criminal activities in building maintenance and renovation projects.\n\nUnder existing legislation, bid-rigging is primarily addressed through the civil regime under the Competition Ordinance, while criminal enforcement can only target other offences arising during the process. To tackle this, the Government will introduce a series of legislative amendments, step up law enforcement co-ordination and enhance frontline prevention.\n\nThe Government proposes amending the Competition Ordinance to criminalise four types of serious anti-competitive conduct involving tenders for building maintenance and renovation projects, holding the individuals and undertakings concerned criminally liable. These four types of conduct comprise bid-rigging, price-fixing, market sharing and output restrictions.\n\nTo tackle collusion comprehensively across all stages, the proposed regulatory scope will cover tendering for works contractors as well as related preparatory arrangements, such as engaging consultants at the preliminary stage.\n\nTo enhance deterrence, the new criminal offence will carry a maximum penalty of 10 years' imprisonment and a fine. The maximum fine will be the highest of $10 million, three times the total value of the commercial gains derived from the contravention, or an amount calculated at 50% of the undertaking’s local turnover for each year the contravention occurred.\n\nThe overall civil regime under the Competition Ordinance will be enhanced in parallel to strengthen penalties and improve enforcement effectiveness.\n\nAdditionally, the Government proposes designating the new criminal offence as a specified offence under the Organised & Serious Crimes Ordinance and the Independent Commission Against Corruption Ordinance. This will strengthen the investigative powers of the law enforcement agencies, enabling the Police Force, the Independent Commission Against Corruption (ICAC) and the Competition Commission to collaborate more effectively.\n\nThese agencies will be able to leverage specific powers to target syndicates.\n\nThrough a Witness Order, the Secretary for Justice may apply to the Court of First Instance for an order requiring a relevant person to answer questions or furnish information. Through a Production Order, the Secretary for Justice or an authorised officer may apply to the Court of First Instance to require a specified individual, entity or public officer to provide material or permit access to it within a specified period.\n\nFurthermore, the prosecution may apply for an enhanced sentence, allowing the court to impose a substantially heavier penalty based on the seriousness of the case, the extent of harm inflicted on the community, or the prevalence of the offence. The court may also issue a confiscation order to recover money or property from convicted criminals, which covers all realisable property belonging to the defendant, including real property, stocks and vehicles.\n\nThe Government will also step up the co-ordination of law enforcement actions on all fronts. The Chief Executive has tasked the Secretary for Security to lead the establishment of a joint task force to combat bid-rigging in building maintenance and renovation projects.\n\nComprising representatives from the Police Force, the ICAC and the Competition Commission, the task force will combat syndicates through intelligence sharing, joint operations and preventive measures.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_153129_783/images/20261030201106767.JPG",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_153129_783.html"
     },
     {
       "id": "5cff61d477439a98",
