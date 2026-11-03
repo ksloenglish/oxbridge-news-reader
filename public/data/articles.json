@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T08:30:25.801Z",
-  "checkedAt": "2026-11-03T08:45:15.631Z",
+  "generatedAt": "2026-11-03T09:00:35.650Z",
+  "checkedAt": "2026-11-03T09:00:35.650Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 18
     },
     {
       "id": "rthk-finance",
@@ -50,7 +50,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 20
+      "articleCount": 19
     },
     {
       "id": "news-gov-hk-top",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "db6a8b0c8e341374",
+      "title": "'Joint task force to target bid-rigging early'",
+      "excerpt": "Secretary for Security Chris Tang on Tuesday said officers from an interdepartmental task force on combating bid-rigging in building maintenance…",
+      "fullText": "Secretary for Security Chris Tang on Tuesday said officers from an interdepartmental task force on combating bid-rigging in building maintenance and renovation projects would proactively look for clues to prevent such activities.\n\nAuthorities have vowed to step up crackdowns on bid-rigging following the deadly Wang Fuk Court fire.\n\nProposed measures included the criminalisation of bid-rigging in relation to these projects, enabling a dual-track approach of both criminal and civil enforcement.\n\nAuthorities will also set up a joint task force that comprises officers from police, the ICAC and the Competition Commission to better coordinate law enforcement actions.\n\nSpeaking to lawmakers at a meeting of the Legislative Council’s Panel on Security and Panel on Economic Development, Tang said the task force's establishment could enable early intervention.\n\nTang said officers would adopt different tactics against bid-rigging, such as surveillance, undercover operations and the use of informants.\n\nHe added that the three agencies of the task force would also attend owners’ corporation meetings to look for suspicious activities, including people who hold many proxy votes or suspected triad members engaging in harassment or intimidation.\n\nOfficers would take enforcement actions when necessary, he added.\n\n“If we notice any abnormal situations at the scene that violate the law, such as intimidation and blackmail, our law enforcement colleagues on site will take immediate action,” Tang said.\n\n“Even if the situation is not serious enough to require enforcement action, if we notice signs that may point to hidden crimes, we will carry out investigations.”\n\nTang said the task force would consider a series of factors when deciding which projects would be prioritised for investigation.\n\n“We will consider the impact of the projects, for example, projects conducted at large estates with a lot of residents and those involving a large amount of money, and if someone seeking to participate in bid-rigging has triad backgrounds – these are all factors we take into consideration.”\n\nSecretary for Commerce and Economic Development Algernon Yau, meanwhile, told lawmakers that relevant legislative amendments to combat bid-rigging would be submitted to the legislature as soon as possible.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T08:48:42.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876393-20261103.htm"
+    },
+    {
+      "id": "c509a3f96195121e",
+      "title": "Mideast conflict forces postponement of Asian Cup",
+      "excerpt": "The Asian Football Confederation (AFC) has postponed the 2027 Asian Cup by almost a year because of the conflict in…",
+      "fullText": "The Asian Football Confederation (AFC) has postponed the 2027 Asian Cup by almost a year because of the conflict in the Middle East and recent deadly attacks on Saudi Arabia by Iran-backed Houthi rebels in Yemen.\n\nThe AFC issued a statement on Tuesday saying after extensive consultations with Saudi organisers it had decided to push the tournament kickoff back from January 7 to December 23.\n\nThe organising committee “approved to reschedule the flagship national team tournament in light of the current exceptional circumstances arising from developments in the region, including substantial logistical complexities and travel disruptions,” the AFC said in a statement.\n\n“Exceptional circumstances have been created for the organisation and delivery of the competition as originally scheduled, making the postponement necessary in the interest of all participating teams, officials, spectators and other stakeholders.”\n\nThe new dates — December 23, 2027 to January 21, 2028 — will be submitted to Fifa for approval.\n\nThe decision to delay the tournament ends months of speculation about a postponement which, until recently, had been rejected by local organisers.\n\nAs recently as last week, Saudi officials released the kickoff times and finalised schedule for the 2027 tournament in a move aimed at assuring continental football federations that planning was on track.\n\nMuhammed Q. Alghamdi, a spokesman for the organising committee, last month told members at an Asian Football Confederation meeting in Tokyo that “daily life is ongoing in Saudi Arabia,” despite the regional hostilities.\n\nBefore that meeting, AFC President Sheikh Salman bin Ibrahim Al Khalifa had indicated that the Asian Cup could be postponed by a year if necessary, saying “we can wait until the end of November” to make a decision.”\n\nThe month-long tournament was scheduled to feature 24 teams playing matches in eight venues across three cites — Riyadh, Jeddah, and Khobar.\n\nIran qualified and has been grouped with Syria, China and Kyrgyzstan for the league stage.\n\nAsia's marquee continental club tournament — the AFC Champions League Elite — has been disrupted by the conflict.\n\nA game between Cristiano Ronaldo ’s Al-Nassr and Uzbekistan’s Neftchi Fergana was delayed on October 12 after Saudi Arabia’s Civil Defence issued a security alert.\n\nAn Al-Nassr’s home game in Riyadh last week against Al-Wasl of the United Arab Emirates was postponed because the visiting team didn't travel.\n\nAmong other major sports events that have been moved or cancelled in Saudi are the WTA Finals, the season-ending event in women’s tennis, which moved from Riyadh to Indian Wells, California. (AP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T08:47:56.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876396-20261103.htm"
+    },
     {
       "id": "4db1c82176ebe42b",
       "title": "HK eager to help build 'enterprises of tomorrow'",
@@ -566,17 +588,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876212-20261102.htm"
-    },
-    {
-      "id": "4b2c88bd678e8c79",
-      "title": "HK 'an ideal home for international private law body'",
-      "excerpt": "Chief Executive John Lee on Monday said Hong Kong strives to attract global organisations and promote international legal cooperation. He…",
-      "fullText": "Chief Executive John Lee on Monday said Hong Kong strives to attract global organisations and promote international legal cooperation.\n\nHe made the remarks in an opening ceremony by the International Institute for the Unification of Private Law – also known as Institut International Pour L'unification du Droit Prive (Unidroit) – of its Asia-Pacific liaison office in the city.\n\nAt the ceremony, which also marks the beginning of this year’s Hong Kong Legal Week, Lee said the establishment of the office would deepen collaboration, facilitating the implementation of private law.\n\n\"It is a decision of profound significance – for Unidroit, for Hong Kong and for the entire Asia-Pacific region,\" he said.\n\n\"The liaison office will serve as a focal point for enhanced engagement with member states and stakeholders in the region. And it will play a crucial role in the legislative and institutional work of Unidroit.\n\n\"Hong Kong, strategically located at the heart of Asia, is an ideal home for the Asia-Pacific liaison office.\"\n\nLee said the establishment of the liaison office would strengthen the collaborative relationship between Hong Kong and the institute.\n\nThe office would also be able to benefit from cooperation with other legal organisations in the city, he added.\n\nHong Kong, Lee pointed out, is a renowned international legal, trade and financial hub and serves as a host to many international organisations.\n\nThe city’s laws and dispute resolution framework also align with international standards and have been recognised globally, he stressed.\n\nThe nation's 15th Five-Year Plan supports Hong Kong’s development as an international legal and dispute resolution services centre, Lee said, while the city’s own five-year blueprint sets out a series of measures for leveraging the strengths of the SAR’s common law system.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T03:54:25.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876206-20261102.htm"
     },
     {
       "id": "48ab58c927410fc2",
@@ -1314,17 +1325,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875575-20261028.htm"
-    },
-    {
-      "id": "c0a85990fc5ca721",
-      "title": "Brewers rout Rays to reach brink of World Series sweep",
-      "excerpt": "With a devastating 16-hit batting performance and masterful pitching by Robert Gasser, the Milwaukee Brewers routed Tampa Bay 10-1 on…",
-      "fullText": "With a devastating 16-hit batting performance and masterful pitching by Robert Gasser, the Milwaukee Brewers routed Tampa Bay 10-1 on Monday, reaching the brink of a World Series sweep.\n\nLeft-handed starter Gasser threw six shutout innings, allowing only one hit with a walk and three strikeouts in facing the minimum 18 batters.\n\n\"It was awesome,\" Gasser said.\n\n\"We're going to enjoy tonight. It was a great team win. But we've got work to do.\"\n\nJackson Chourio, a 22-year-old Venezuelan outfielder, went 4-for-5 at the plate, scored twice, stole a base and also drove in a run in the Brewers' historic eight-run fifth inning to humble the Rays.\n\nAll eight runs came with two outs in the inning, a World Series record, and Milwaukee batters made seven consecutive hits, a playoff first.\n\n\"It was special for sure,\" Chourio said through a translator.\n\n\"We've been preparing for this day. We've known it was coming. We have one more to lock in for tomorrow to complete the mission.\"\n\nThe Brewers seized a 3-0 lead in Major League Baseball's best-of-seven final and can win the first title in team history with a triumph in game four on Tuesday at Tropicana Field.\n\n\"There's still one more game to go for us to win,\" Gasser said.\n\n\"I know everybody is eager to do it and we're going to show up tomorrow ready to go.\"\n\nGasser became the first lefty to face the minimum over six innings in a World Series clash since Sandy Koufax of the Los Angeles Dodgers in 1965.\n\nThe Rays managed a run in the ninth but only three hits in the game.\n\nChourio raced home from second base on a Christian Yelich single in the third inning to score the first run and William Contreras drove in another with a hit to right field for a 2-0 lead.\n\nThe Brewers, whose only prior World Series was a 1982 loss to St. Louis in seven games, had two one-run wins to start the Series but overwhelmed Tampa Bay with a barrage in the fifth.\n\nChourio singled, stole second and advanced to third on a Contreras single that loaded the bases as Rays starter Freddy Peralta, who had played for Milwaukee the past eight seasons, was lifted for relief pitcher Cam Booser.\n\nBrice Turang followed with a two-run single up the middle, Garrett Mitchell added a single to score Contreras, and Cooper Pratt followed with a two-run double to left field for a 7-0 Brewers lead.\n\nSal Frelick doubled in Pratt for an 8-0 Milwaukee edge, bringing on Rays reliever Cole Sulser, who promptly surrendered a single to David Hamilton to drive in Frelick for a 9-0 lead.\n\nChourio concluded the stunning streak with a double to right field to score Hamilton for a 10-0 Brewers lead.\n\nGasser, meanwhile, had to wait an extra 45 minutes before returning to the mound, watching the amazing streak with glee.\n\n\"It was special. I had a smile on my face the whole time,\" Gasser said.\n\n\"It was just surreal when something like that happens.\"\n\nChourio's eight hits through three games are the second-most in World Series history after nine by Billy Hatcher for Cincinnati in 1990.\n\n\"My mentality is to stay on top of the ball and hit line drives,\" Chourio said.\n\n\"I consider myself more of a hitter than a home run hitter.\"\n\nChourio became the youngest player to ever begin a World Series with three multi-hit games, delivering singles in the first, third and fifth innings on Monday. (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T04:42:20.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875485-20261027.htm"
     },
     {
       "id": "ad311f18c403db4e",
