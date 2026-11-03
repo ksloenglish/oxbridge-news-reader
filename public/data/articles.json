@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T03:15:17.808Z",
-  "checkedAt": "2026-11-03T03:15:17.808Z",
+  "generatedAt": "2026-11-03T03:30:21.314Z",
+  "checkedAt": "2026-11-03T03:30:21.314Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 18
     },
     {
       "id": "rthk-world",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 14
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "d69f630d91d6f76e",
+      "title": "HK stocks buck regional trend amid midterm jitters",
+      "excerpt": "Stocks edged generally lower at the start of Asian trade on Tuesday and oil prices stabilised after the previous session's…",
+      "fullText": "Stocks edged generally lower at the start of Asian trade on Tuesday and oil prices stabilised after the previous session's tumble, with investors on edge with hours to go to the start of voting for the US midterm elections.\n\nIn Hong Kong, however, the benchmark Hang Seng Index opened up 76 points, or 0.33 percent, at 23,469.\n\nThe China enterprises index edged up 27 points, or 0.35 percent, to 7,933 while the tech index inched 13 points, or 0.36 percent, higher to 3,853.\n\nMainland markets went the other way, with the Shanghai Composite Index opening down 13 points, or 0.37 percent, at 3,624.\n\nThe Shenzhen Component Index fell 76 points, or 0.69 percent, to 10,934 while the ChiNext Index was 28 points, or 1.18 percent, lower at 2,429.\n\nWith the Nikkei closed for a public holiday, the Kospi plunged 143 points, or 2.46 percent, to 5,715 in Seoul and was just a tad worse off at 145 points down at one stage before noon.\n\n\"Tuesday will be nothing more than the day ahead of a much bigger day,\" ING analysts wrote in a note.\n\nBy tomorrow, the market will have guidance on the midterm implications and the US Treasury's quarterly refunding announcement, they wrote.\n\nThe yield on the US 10-year Treasury bond was up 2.1 basis points at 4.913 percent.\n\nOvernight, stocks on Wall Street edged lower, with the S&P 500 slipping 0.5 percent as tech-sector earnings weighed on investor confidence, even as data showed US manufacturing activity picked up in October amid strong domestic demand.\n\nApple shares extended losses, falling 2.8 percent in after-hours trading after the iPhone maker on Monday forecast lower gross margins for the crucial holiday quarter, citing rising memory-chip costs, and projected services revenue growth that fell well short of Wall Street expectations.\n\nInvestors are also preparing to vote in the US midterm elections, where President Donald Trump's Republican Party is facing a challenge to keep its hold on Congress.\n\nOpinion polls favour the Democrats to win the House, though the Senate remains too close to call.\n\nPrediction market sites Polymarket and Kalshi currently assign around a 75 percent probability that the Democrats will control the Senate.\n\n\"Prediction markets imply the greatest likelihood of a Democratic 'sweep', but polling margins remain broadly comparable to Trump 1.0 midterms in 2018 when Democrats won the House decisively, but Republicans held onto the Senate,\" MUFG analysts wrote in a note.\n\n\"Brazil’s election surprise is a reminder that prediction markets can misprice political tail risks, raising questions around the roughly 70 percent odds now assigned to a blue 'sweep' in the midterms.\"\n\nOil prices steadied after a fall, with Brent crude fluctuating between gains and losses and was last 0.1 percent lower at US$104.72 as trading resumed in Asia and investors weighed the state of peace talks between the US and Iran.\n\nThe Wall Street Journal on Monday reported the US military struck Iran's Qeshm Island in the Strait of Hormuz, citing US officials. (Reuters/Xinhua)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T03:12:12.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876341-20261103.htm"
+    },
     {
       "id": "fdef73f451fde41e",
       "title": "Parking meters down, emergency repairs under way",
@@ -307,7 +318,7 @@
       "id": "8a3538f11e19f32a",
       "title": "Apple iPhone pre-sales linked to 1,700 fraud cases",
       "excerpt": "Police have received more than 1,700 reports of suspected credit-card fraud cases linked to Apple's recent iPhone pre-sales in September…",
-      "fullText": "Police have received more than 1,700 reports of suspected credit-card fraud cases linked to Apple's recent iPhone pre-sales in September and October.\n\nAt a Southern District Council meeting on Monday, Police Commissioner Joe Chow said the force received 1,589 reports of unauthorised credit card transactions involving the purchase of various Apple iPhone 18 models.\n\nPre-orders for the smartphone began on September 12 in Hong Kong.\n\nAnother 138 reports were filed in October, when the iPhone Duo began accepting orders.\n\nAccording to Chow, Apple opted against extra security measures for credit card transactions. An example would be the \"3D Secure\" protocol, which asks customers to enter a one-time password or verify their identity on the bank's mobile app.\n\n\"During this period, we contacted Apple, credit card companies and banks, and cancelled all problematic purchase records. As a result, the victims did not suffer any losses,\" Chow said.\n\nThe police chief said officers had reached out to Apple on multiple occasions to express hope that the company would implement effective security measures and strengthen verification in future product launches.\n\nChow also briefed district councillors on Hong Kong's law-and-order situation.\n\nHe said fraud remained the dominant crime category, with 34,679 cases in the first nine months of the year, making up 51 percent of all crimes.\n\nVictims reported losses of HK$6.02 billion, a 6.7 per cent increase year on year.\n\nPhone scams were now the most common type of fraud, followed by online shopping deception.\n\nEdited by Raymond Yeung",
+      "fullText": "Police have received more than 1,700 reports of suspected credit-card fraud cases linked to Apple's recent iPhone pre-sales in September and October.\n\nAt a Southern District Council meeting on Monday, Police Commissioner Joe Chow said the force received 1,589 reports of unauthorised credit card transactions involving the purchase of various Apple iPhone 18 models.\n\nPre-orders for the smartphone began on September 12 in Hong Kong.\n\nAnother 138 reports were filed in October, when the iPhone Duo began accepting orders.\n\nAccording to Chow, Apple opted against extra security measures for credit card transactions. An example would be the \"3D Secure\" protocol, which asks customers to enter a one-time password or verify their identity on the bank's mobile app.\n\n\"During this period, we contacted Apple, credit card companies and banks, and cancelled all problematic purchase records. As a result, the victims did not suffer any losses,\" Chow said.\n\nThe police chief said officers had reached out to Apple on multiple occasions to express hope that the company would implement effective security measures and strengthen verification in future product launches.\n\nChow also briefed district councillors on Hong Kong's law-and-order situation.\n\nHe said fraud remained the dominant crime category, with 34,679 cases in the first nine months of the year, making up 51 percent of all crimes.\n\nVictims reported losses of HK$6.02 billion, a 6.7 percent increase year on year.\n\nPhone scams were now the most common type of fraud, followed by online shopping deception.\n\nEdited by Raymond Yeung",
       "imageUrl": null,
       "publishedAt": "2026-11-02T10:35:41.000Z",
       "source": "RTHK English — Local",
@@ -1217,28 +1228,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875803-20261029.htm"
     },
     {
-      "id": "4c6f8418b9da8d33",
-      "title": "Five-year plan 'all about finding new growth engines'",
-      "excerpt": "Financial Secretary Paul Chan said on Thursday Hong Kong's first five-year plan provides a clear framework for policymaking and investment…",
-      "fullText": "Financial Secretary Paul Chan said on Thursday Hong Kong's first five-year plan provides a clear framework for policymaking and investment, urging businesses to understand the government's strategies and priorities so they can \"plan and invest with confidence\".\n\nSpeaking at a business forum, Chan highlighted two connected priorities – finance, and innovation and technology – in the plan, which was unveiled last month.\n\n\"For Hong Kong, we are equally determined to turn opportunities into lasting outcomes,\" he said.\n\nThe government's \"Finance+\" approach, Chan pointed out, aims to develop new growth engines, support new industries and finance Hong Kong's green transition.\n\n\"Hong Kong brings together capital, innovators, enterprises and professional expertise.\n\n\"We want to put these strengths to fuller use, thereby developing new growth engines, supporting new industries, helping businesses transform and expand, as well as financing the green transition.\n\n\"The question is not simply how much capital we attract but what that capital makes possible.\"\n\nChan noted that Hong Kong's close connection with the mainland is central to this role, helping take technologies from the laboratory to the market at scale while marrying mainland strengths with international capital and global markets.\n\nHe cited strong IPO momentum in this regard, saying Hong Kong raised some HK$388 billion in the first nine months of this year, which was more than double that of a year earlier.\n\nInternational investors from the United States, Europe, Southeast Asia and the Middle East are major players, while enterprises from the last two regions as well as Central Asia are exploring listing or bond-issuance opportunities.\n\nOn innovation and technology, Chan said the Northern Metropolis project is more than just about land and buildings.\n\n\"We are bringing education, research, talent, enterprises and industry together to create a new engine of growth,\" he said.\n\nHe highlighted the Hetao co-operation zone as a clear example, where Hong Kong and mainland authorities are strengthening cooperation in clinical research and drug regulation, attracting international pharmaceutical companies to conduct research and set up manufacturing facilities.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T05:57:45.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875751-20261029.htm"
-    },
-    {
-      "id": "d3f86965a79bea19",
-      "title": "Samsung profits up a record 780pc despite AI jitters",
-      "excerpt": "Massive demand for AI chips delivered record quarterly profits to South Korea's Samsung Electronics on Thursday, but shares fell as…",
-      "fullText": "Massive demand for AI chips delivered record quarterly profits to South Korea's Samsung Electronics on Thursday, but shares fell as investors questioned the resilience of the global tech boom.\n\nSamsung is the world's largest maker of memory chips – components in short supply as advanced types are snapped up for use in data centres powering artificial intelligence.\n\nThe company posted July-September operating profit at 107.4 trillion won (US$80.5 billion) – up more than 780 percent year-on-year.\n\nIt marked the first time any technology company had reported quarterly operating profit over 100 trillion won, Samsung said.\n\nNet profit jumped more than 510 percent from last year to 75.1 trillion won, while sales reached 195.3 trillion won.\n\nThe global race to build data centres to train and run chatbots, image generators and other AI tools has turbocharged the fortunes of Samsung and other chipmakers, despite concerns that the sector may be overvalued.\n\nSamsung shares fell more than five percent on Thursday morning.\n\nInvestors were disappointed by a miss of market expectations for operating profit by the semiconductor division, according to Bloomberg News.\n\nThe company's memory business achieved \"another record-breaking quarter by managing its product mix, with a focus on AI products, amid capacity constraints,\" Samsung said in a statement.\n\n\"Strong demand momentum for servers led to higher market prices across all applications.\" (AFP)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T04:10:22.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875746-20261029.htm"
-    },
-    {
       "id": "ea47c86f994fdcbd",
       "title": "Bus-only lanes 'just the ticket to cut Huanggang jams'",
       "excerpt": "The chairman of the Non-Franchised Public Bus Association of Hong Kong, Eddie Choi, said on Thursday he believed that dedicated…",
@@ -1413,17 +1402,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875485-20261027.htm"
-    },
-    {
-      "id": "36cb377a9523245f",
-      "title": "Chinese industrial profits see sharp rise to 14.4pc",
-      "excerpt": "China's industrial profits grew at a faster pace in September, though a deepening divergence across the economy continued to weigh…",
-      "fullText": "China's industrial profits grew at a faster pace in September, though a deepening divergence across the economy continued to weigh on business earnings.\n\nProfits at industrial firms rose 14.4 percent from a year earlier last month, quickening from a 4.2 increase in August, data from the National Bureau of Statistics showed on Tuesday.\n\nProfits were up 15.5 percent in the first nine months, compared with a 15.7 percent increase in the January-August period.\n\nWhile export-oriented firms brace for greater uncertainty, as expanding trade surpluses heighten the risk of external pressures, firms tied to domestic demand continue to grapple with subdued consumption, casting a shadow over the sustainability of profit growth.\n\nThe sectoral divide remained pronounced.\n\nProfits in the computer, communication, and other electronic equipment manufacturing category soared 103.8 percent in the first nine months, whereas the furniture manufacturing sector posted a 51.3 percent decline, making it one of the weakest performers and highlighting the uneven nature of China's economy.\n\nA stronger-than-expected 4.5 percent expansion in the third quarter put China within reach of its annual growth target of 4.5 to five percent, but disparities across different parts of the economy suggest the recovery remains unbalanced, with persistent weakness in some sectors continuing to erode corporate profitability.\n\nThat pressure has become increasingly visible at the company level.\n\nNet profit at the world's largest electric vehicle battery maker, CATL, slowed sharply in the past quarter, as intense competition in the EV battery market squeezed margins at a time when China's auto sales were in a downturn.\n\nIndustrial profit figures cover firms with yearly revenue of at least 20 million yuan from main operations. (Reuters)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-27T03:48:58.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875477-20261027.htm"
     },
     {
       "id": "dafa64f8f5fb1585",
@@ -1743,6 +1721,28 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260922/20260922_160618_499.html"
+    },
+    {
+      "id": "8a73cb143c325b83",
+      "title": "Youth teams received by state leader",
+      "excerpt": "The “‘Salute to the National Flag’ Hong Kong & Macau Youth Flag-Raising Teams’ Beijing Visit Delegation”, led by Chief Secretary…",
+      "fullText": "The “‘Salute to the National Flag’ Hong Kong & Macau Youth Flag-Raising Teams’ Beijing Visit Delegation”, led by Chief Secretary Chan Kwok-ki, was received today by Member of the Standing Committee of the Political Bureau of the CPC Central Committee and Vice Premier of the State Council Ding Xuexiang at the Great Hall of the People.\n\nMr Chan expressed deep gratitude to Mr Ding for personally guiding the Hong Kong and Macau youths, and even more so to the nation for providing this valuable opportunity for students to take part in the solemn flag‑raising ceremony at Tiananmen Square and experience the historical culture and development achievements of the capital.\n\nThe Chief Secretary said this was a rare and profound patriotic education experience. During the solemn flag‑raising ceremony, students felt the dignity of the national flag and anthem up close, deepening their understanding of the symbolic meaning of the flag, as well as the national situation and development.\n\nThrough a rich itinerary of visits, the students also gained a genuine appreciation of the challenges and accomplishments of the nation’s journey from history to rejuvenation, further strengthening their national identity, their sense of national pride, affection for and sense of belonging to it.\n\nMr Chan emphasised that the trip was of great significance for promoting patriotic education in Hong Kong’s primary and secondary schools.\n\nIn addition to textbook learning, he explained, bringing students to the sites of national history and culture allows them to experience emotions firsthand and deepen their understanding through real stories, which greatly contributes to patriotic education.\n\nMr Chan said the delegation’s itinerary organically integrated national flag education, history education, cultural education and national development education, making patriotism more concrete, vivid and powerful in the hearts of students, guiding them to consciously safeguard national sovereignty, security and development interests, and aspiring to become a new generation that loves the country and Hong Kong, and is willing to take responsibility.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260921/20260921_204627_798/images/20260921224722859.jpg",
+      "publishedAt": "2026-09-20T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260921/20260921_204627_798.html"
+    },
+    {
+      "id": "31619d7972ae4080",
+      "title": "Youth forum holds annual review",
+      "excerpt": "Youth leaders from Hong Kong, Shenzhen, and Macao shared their experiences and achievements from the past year as they gathered…",
+      "fullText": "Youth leaders from Hong Kong, Shenzhen, and Macao shared their experiences and achievements from the past year as they gathered today for the Security Bureau Youth Uniformed Group Leaders Forum annual review.\n\nThey also gave presentations on various issues related to the Greater Bay Area, and outlined the forum’s activities for the coming year.\n\nAddressing members, Deputy Chief Secretary Cheuk Wing-hing said the Hong Kong Special Administrative Region Government attaches great importance to youth development.\n\nHe highlighted that Hong Kong's First Five-Year Plan clearly states that diversified platforms will be developed for exchanges and experiences that broaden young people's horizons.\n\nBuilding on the Youth Development Blueprint, the Hong Kong SAR Government is developing broader platforms and more opportunities for young people to grow and thrive, aiming to nurture a new generation with an affection for both China and Hong Kong, as well as a global perspective, ambition, and a positive mindset.\n\nMr Cheuk said the leaders forum is an important platform for the Government to implement its vision for youth development.\n\nOver the past year, the forum organised more than 30 activities spanning national security, patriotic education, frontier technologies and multicultural themes. Members also contributed to national initiatives such as the 15th National Games, which Mr Cheuk said demonstrated vitality and a sense of responsibility.\n\nSecretary for Security Tang Ping-keung expressed his satisfaction at the progress shown by members over the past year.\n\nHe highlighted that 51 members undertook summer internships at 26 renowned enterprises and organisations across cities including Beijing, Shanghai, Nanjing, Shenzhen, Macao and Hong Kong. In addition, nine students from Shenzhen University came to Hong Kong for training and hands-on experience at various companies.\n\nMr Tang also observed that since the forum's establishment four years ago, more than 60% of its graduates have joined the Hong Kong SAR Government, taking up positions such as administrative officer and inspectorate officer in the disciplinary forces. Others have pursued careers in the legal, medical, engineering, finance and other sectors.\n\nThe security chief stressed that the National 15th Five-Year Plan includes a dedicated section for youth development, adding that the Hong Kong SAR Government's own Five-Year Plan dovetails with national strategies, allowing Hong Kong to better integrate into and serve the country's overall development.\n\nHe added that future development opportunities for young people are unlimited and encouraged members of the leaders forum to seize such opportunities.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260919/20260919_161358_599/images/20260919172500992.jpeg",
+      "publishedAt": "2026-09-18T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260919/20260919_161358_599.html"
     }
   ]
 }
