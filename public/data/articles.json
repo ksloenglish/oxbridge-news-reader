@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T05:00:33.705Z",
-  "checkedAt": "2026-11-03T05:15:19.042Z",
+  "generatedAt": "2026-11-03T05:30:26.681Z",
+  "checkedAt": "2026-11-03T05:30:26.681Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "9479cf2f7b4a01ee",
+      "title": "Beijing approves removal of Winnie Ho as housing chief",
+      "excerpt": "The State Council has decided to remove Winnie Ho from the post of housing secretary of the Hong Kong government…",
+      "fullText": "The State Council has decided to remove Winnie Ho from the post of housing secretary of the Hong Kong government, Xinhua reported on Tuesday.\n\nIt said the decision, made on Tuesday, was in accordance with the Basic Law and based on the suggestion of Chief Executive John Lee.\n\nThat came after Lee said Ho had tendered her resignation on October 28 and indicated that she would shoulder political accountability for the Wang Fuk Court fire in Tai Po.\n\nA day after that, the government made public the investigation report by an independent committee into the deadly blaze and unveiled sweeping measures to prevent a recurrence.\n\nIn a statement, Lee recounted Ho's career from the time that she joined the government in 1992, becoming director of architectural services in 2020 to being appointed as secretary for housing in 2022.\n\nLee said Ho had been dedicated to implementing his directives, including constructing some 30,000 Light Public Housing units, shortening the composite waiting time for subsidised rental housing from 6.1 years to 4.8 years, effectively combating the abuse of public rental housing and enacting the Basic Housing Units Ordinance to eradicate substandard subdivided units.\n\n\"As she officially leaves her post today, I wish her all the best in her future endeavours and a healthy life,\" he said.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T05:17:21.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876371-20261103.htm"
+    },
     {
       "id": "d7121b1b6f47ec84",
       "title": "Parking meters restored after hours of breakdown",
@@ -291,6 +302,17 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
+    },
+    {
+      "id": "b6571d8df6bc672b",
+      "title": "Removal of Winnie Ho approved",
+      "excerpt": "The Central People's Government has approved the removal of Winnie Ho from her post as Secretary for Housing, following a…",
+      "fullText": "The Central People's Government has approved the removal of Winnie Ho from her post as Secretary for Housing, following a recommendation by Hong Kong Special Administrative Region Chief Executive John Lee. The announcement was made in accordance with the relevant provisions of the Basic Law of the Hong Kong SAR of the People's Republic of China.\n\nMr Lee noted that Ms Ho tendered her resignation last Wednesday to assume political accountability for the Wang Fuk Court fire.\n\nMs Ho joined the Government in 1992 and was appointed Director of Architectural Services in 2020. She assumed the role of Secretary for Housing in 2022, becoming a principal official of the sixth-term of the Hong Kong SAR Government.\n\nThe Chief Executive commended Ms Ho for her dedication to implementing his key housing directives. These included the construction of around 30,000 Light Public Housing units and successfully shortening the Composite Waiting Time for Subsidised Rental Housing from 6.1 years to 4.8 years.\n\nMr Lee also praised her for effectively combating the abuse of public rental housing and enacting the Basic Housing Units Ordinance to phase out substandard subdivided residential units in an orderly manner.\n\nAs Ms Ho officially leaves office today, Mr Lee wishes her good health and the very best in her future endeavours.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_111449_986/images/20261103123116024.JPG",
+      "publishedAt": "2026-11-02T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_111449_986.html"
     },
     {
       "id": "6172f9a0a83faf11",
@@ -733,17 +755,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876151-20261101.htm"
     },
     {
-      "id": "1d9656a7047c96ee",
-      "title": "Hong Kong records warmest October since records begin",
-      "excerpt": "The Observatory on Sunday said Hong Kong recorded its warmest October since records began in 1884. The forecaster said the…",
-      "fullText": "The Observatory on Sunday said Hong Kong recorded its warmest October since records began in 1884.\n\nThe forecaster said the average temperature last month stood at 27.6 degrees Celsius.\n\nThe mean maximum and minimum temperatures also set records, at 30.5 degrees and 25.8 degrees respectively.\n\nThe Observatory attributed the unusually warm conditions to the ongoing El Niño and a weak northeast monsoon, while noting that climate change also played a role.\n\nA fresh to strong northeast monsoon is expected to reach the city in the coming days, bringing a slight drop in temperatures early next week.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T10:27:16.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876147-20261101.htm"
-    },
-    {
       "id": "c5b859edcffed43c",
       "title": "Evacuees from occupied Oleshky arrive in Ukraine",
       "excerpt": "Residents of the Russian-occupied city of Oleshky, ravaged by years of war, arrived in Ukraine on Saturday after being evacuated…",
@@ -1083,17 +1094,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_121247_837.html"
-    },
-    {
-      "id": "471f48ad5df9252b",
-      "title": "100k private flats projected",
-      "excerpt": "The projected private flat supply for the next three to four years is 100,000 units, up 4,000 from the previous…",
-      "fullText": "The projected private flat supply for the next three to four years is 100,000 units, up 4,000 from the previous estimate.\n\nThe Housing Bureau said today there were 19,000 unsold units in completed projects as of the end of September.\n\nThere were also 62,000 units under construction, excluding those pre-sold by developers; and 19,000 units from disposed sites where construction may start at any time.\n\nThe number of flats under construction in the third quarter this year was 2,800, while 1,700 units were completed during the same period.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_150336_438/images/20261030154841857.jpg",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_150336_438.html"
     },
     {
       "id": "b2a4582e5cef3de7",
