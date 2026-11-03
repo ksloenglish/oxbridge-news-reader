@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T11:15:16.976Z",
-  "checkedAt": "2026-11-03T12:30:24.148Z",
+  "generatedAt": "2026-11-03T12:45:19.513Z",
+  "checkedAt": "2026-11-03T12:45:19.513Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 9
+      "articleCount": 10
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "61bcda3a23d3e1c7",
+      "title": "HK recovery uneven despite high GDP: economist",
+      "excerpt": "A local economist said Hong Kong’s third-quarter GDP performance has lifted business sentiment, but the recovery remains uneven and will…",
+      "fullText": "A local economist said Hong Kong’s third-quarter GDP performance has lifted business sentiment, but the recovery remains uneven and will take time to broaden.\n\nHo Lok-sang, adjunct professor with the Academy for Applied Policy Studies and Education Futures at the Education University of Hong Kong, made the assessment as advance estimates showed Hong Kong’s economy grew 5.2 percent year on year in the third quarter of 2026.\n\nThe clearest sign of recovery, he said, was in prime office space.\n\n\"Especially for the Grade A centrally located locations, [the] office take-up rate is pretty impressive,\" he said. \"Now, certainly it’s recovering.\"\n\nBut Ho stressed that the strength is not spreading beyond that segment.\n\n\"On the outside of the Grade A and centrally located areas, office demand is still relatively weak, and the demand for commercial properties is still relatively weak,\" he said.\n\nHe added that a broader recovery will not come quickly and will likely depend on lower rents.\n\n\"I think that it will take quite some time to recover, and I think recovery will also necessitate a decline in rents,\" Ho said.\n\nHo was more upbeat about the rest of the year's outlook.\n\n\"Definitely the full year growth is going to be quite strong, and I am pretty confident that it will be over four percent or could be as much as 4.5 percent,” he said.\n\nThe government's real GDP growth forecast for 2026 as a whole is 3.5 to 4.5 percent.\n\nHo said the financial sector is performing \"pretty well, extremely well\", with IPOs still at a very high level and \"no sign of it ebbing\".\n\nHe added that exports, too, are \"doing quite well\".\n\nBut he flagged persistent weak spots: \"Demand in terms of both construction demand and also the retail consumption demand and restaurant business are still lagging behind\".\n\nTo support these sectors, Ho pointed to major events and tourism.\n\n\"Of course the major events – for example concerts and Halloween and so on – it’s entirely possible to boost tourism even more,\" he said.\n\n\"Tourism is doing pretty well this year, and we hope that the tourists can stay a bit longer and consume a bit more.\"\n\nHo said that outcome depends on the business sector and the government continuing to promote such major events.\n\nMeanwhile, Kenny Shui, vice president of Our Hong Kong Foundation, said the third-quarter figures pointed to strengthening momentum: goods exports rose 30.4 percent on AI and electronics demand, while services exports grew 4.3 percent on tourism and financial activity.\n\nBut he said private consumption rose just 2.8 percent, slower than the previous quarter, showing that the strength in retail and investment has yet to fully reach households.\n\n\"Growth momentum is broadening, but the recovery still needs to be felt more widely,\" Shui said.\n\nWith first-nine-month growth at 5.1 percent, Shui expects a fourth-quarter growth of four to five percent and full-year growth of around five percent – above the government’s forecast, leaving room for an upward revision.\n\nHe cautioned, however, that interest rates could weigh on business investment and household spending, and with unemployment at 3.9 percent, consumption still needs job and income support.\n\nIn the fourth quarter, the key will be whether exports stay strong and consumption and employment improve, Shui added.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T12:38:22.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876418-20261103.htm"
+    },
+    {
+      "id": "04894fa50bc1301f",
+      "title": "HK takes five of top 10 in QS Asia university rankings",
+      "excerpt": "Hong Kong has dominated the QS Asia University Rankings 2027, with five of the city’s institutions placing in the top…",
+      "fullText": "Hong Kong has dominated the QS Asia University Rankings 2027, with five of the city’s institutions placing in the top 10.\n\nThe University of Hong Kong (HKU) retained the top spot, while City University of Hong Kong (CityUHK) rose to fourth and the Chinese University of Hong Kong (CUHK) climbed to fifth.\n\nCityUHK and CUHK had tied for seventh a year earlier.\n\nThe Hong Kong Polytechnic University (PolyU) and the Hong Kong University of Science and Technology (HKUST) shared ninth place.\n\nThe rankings, compiled by international higher education experts at QS, assessed more than 1,700 universities across 26 higher education systems.\n\nBen Sowter, QS' senior vice-president, said Hong Kong continues to set the benchmark for university performance in Asia.\n\n\"The University of Hong Kong leads the region for a second consecutive year, and having five Hong Kong institutions in the top 10, more than any other higher education system, is an exceptional achievement,\" he said.\n\n\"Increasing international engagement and growing recognition among academics and employers reinforce Hong Kong's regional strength, at a time when competition for students, researchers and academic talent is intensifying across Asia.\"\n\nXiang Zhang, president and vice-chancellor of HKU, attributed the university’s second straight top ranking in Asia to its community’s unwavering commitment to academic excellence and its recent drive for change.\n\n\"We will continue to draw the world’s finest minds to shape an academic ecosystem driven by a spirit of inquiry, propelling Hong Kong’s advancement as an international hub for education, innovation and technology, while supporting the nation's high-quality development through scientific breakthroughs and contributing to solving global challenges,\" he said in a statement.\n\nMeanwhile, CityUHK acting president Lee Chun-sing described the university’s rise into the top five for the first time as an encouraging achievement.\n\n\"This progress reflects the collective efforts of our academic community to pursue excellence in research and create an inspiring learning environment,\" Lee said in a statement.\n\n\"It also demonstrates the success of our strategic commitment to recruiting global academic talent and nurturing future leaders.\"\n\nThe top 10 also included three mainland institutions – among them Peking University and Tsinghua University – and two universities from Singapore.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T12:26:14.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876427-20261103.htm"
+    },
     {
       "id": "14621c7687f835d1",
       "title": "Spanish footballer dies after collision with keeper",
@@ -662,8 +684,8 @@
       "fullText": "The Securities and Futures Commission has released its first-ever AI readiness survey, showing that most large financial firms in Hong Kong already use artificial intelligence across their operations, with adoption expected to accelerate over the coming year.\n\nThe survey, conducted between July and August this year, covered 20 large financial firms with 78 affiliated licensed corporations in Hong Kong. Together they accounted for over 75 percent of securities transactions reported by licensed corporations in the six months ended June.\n\nThe survey found that 95 percent of surveyed firms expected AI usage to accelerate over the next 12 months, with 90 percent already connecting AI tools to internal systems. AI use now spans front-, middle- and back-office activities.\n\n\"AI adoption in Hong Kong in the capital market is growing rapidly in speed and in scale,\" SFC chief executive officer Julia Leung said during the Hong Kong Fintech Week.\n\nNotably, agentic AI – which can autonomously determine and execute steps to achieve an objective – is gaining traction, the survey showed.\n\nThirty percent of surveyed firms already use it in their business operations, and 25 percent are piloting it with varying degrees of autonomy and human involvement.\n\nHowever, Leung struck a note of caution.\n\n\"Just think of agentic AI [as] your kids at home. They define the boundaries we set for them. They can go rogue, they can collude with their siblings, and disrupt your neighbour,\" she said.\n\nLeung also acknowledged that the development of frontier AI models and agents has outpaced governments' and regulators' ability to set rules.\n\nThe SFC said the findings will inform its supervisory approach to AI, with priorities including protecting investors, strengthening cybersecurity and operational resilience, and ensuring effective AI governance.\n\nEdited by Raymond Yeung",
       "imageUrl": null,
       "publishedAt": "2026-11-02T08:05:04.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876240-20261102.htm"
     },
     {
@@ -684,8 +706,8 @@
       "fullText": "Banking giant HSBC says an artificial intelligence and emerging technology institute being set up in Hong Kong is due to become operational in the first quarter of 2027.\n\nAnnouncing the update at Hong Kong Fintech Week on Monday, chief executive Georges Elhedery said the city's biggest lender aims to move the institute to the Northern Metropolis once a suitable location has been identified.\n\nFor now, he said the Hong Kong University of Science and Technology will be the institute’s first anchor academic partner.\n\n\"We bring their skills and know-how and capabilities as well as our domain expertise and financial services to find and work on solutions that make our clients' lives much easier in the age of AI, but also other emerging technologies such as blockchain, quantum, etc,\" Elhedery said.\n\nHe framed the institute's establishment as part of HSBC's broader AI strategy to give its roughly 200,000 employees – including about 28,000 in Hong Kong – an efficiency boost.\n\n\"AI is going to be disruptive. It’s going to transform jobs. It’s going to eliminate some. It’s going to create new ones,\" Elhedery said.\n\n\"The first mission for us is to bring all our colleagues … on the journey with us as opposed to creating an environment where uncertainty actually prevails.\"\n\nHSBC is already testing how client agents could interact with the bank’s agents to handle basic tasks, he said, though security remains a major workstream.\n\nOn AI security, Elhedery said, HSBC is constantly working to identify vulnerabilities and build more resilient systems.\n\nEdited by Raymond Yeung",
       "imageUrl": null,
       "publishedAt": "2026-11-02T06:21:34.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876223-20261102.htm"
     },
     {
@@ -1017,17 +1039,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876040-20261031.htm"
-    },
-    {
-      "id": "38eff2da26ddbd36",
-      "title": "US markets hit by big tech sell-off",
-      "excerpt": "The sell-off for tech stocks on Wall Street worsened on Friday on fears that the frenzy around AI has sent…",
-      "fullText": "The sell-off for tech stocks on Wall Street worsened on Friday on fears that the frenzy around AI has sent prices too high.\n\nThe S&P 500 dropped 140.32 points, or 1.8 percent, to 7,580.07, for its worst day since June.\n\nThe Nasdaq composite fell 747.72 points, or 2.9 percent, to 25,437.00, and the Dow Jones Industrial Average dropped 572.25 points, or 1.1 percent, to 51,770.31.\n\nIntel sank almost 29 percent for its worst day since 1974 after its profit forecast was below analysts’ expectations.\n\nAmazon’s latest profit report raised more worries about how much companies are spending on their AI Investments.\n\nTreasury yields sank as investors searched for safer things to own, even though oil prices rose. (AP)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T00:59:12.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876032-20261031.htm"
     },
     {
       "id": "2d7389b7fc72a659",
