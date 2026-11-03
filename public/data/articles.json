@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T09:30:32.390Z",
-  "checkedAt": "2026-11-03T09:30:32.390Z",
+  "generatedAt": "2026-11-03T09:45:26.563Z",
+  "checkedAt": "2026-11-03T09:45:26.563Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -403,6 +403,17 @@
       "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_113941_609.html"
     },
     {
+      "id": "838bf185f0a99ca1",
+      "title": "DC member sentenced to prison",
+      "excerpt": "The District Court today sentenced Yuen Long District Council (DC) Member Sei Chun-hing to 2.5 years’ imprisonment following his conviction…",
+      "fullText": "The District Court today sentenced Yuen Long District Council (DC) Member Sei Chun-hing to 2.5 years’ imprisonment following his conviction for unlawful intercourse with a girl under 16.\n\nUnder the District Councils Ordinance, any DC member convicted of an offence and sentenced to a prison term exceeding three months without the option of a fine is disqualified from holding office.\n\nAs both the prosecution and the defence retain the right to lodge an appeal, the Government will closely monitor the developments of the judicial proceedings.\n\nMeanwhile, Mr Sei's remuneration package as a DC member has been suspended since his conviction on September 14.\n\nThe Government places great importance on the conduct and integrity of DC members.\n\nIn accordance with the ordinance and the performance monitoring system of DC members, the Secretary for Home & Youth Affairs has appointed a supervisory committee to conduct an investigation. The committee will follow up on the matter as the case develops.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_151419_588/images/20261103163554209.jpg",
+      "publishedAt": "2026-11-02T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_151419_588.html"
+    },
+    {
       "id": "b6571d8df6bc672b",
       "title": "Removal of Winnie Ho approved",
       "excerpt": "The Central People's Government has approved the removal of Winnie Ho from her post as Secretary for Housing, following a…",
@@ -412,6 +423,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_111449_986.html"
+    },
+    {
+      "id": "ceaa04ccd7f3ca34",
+      "title": "October property sales fall 10%",
+      "excerpt": "The Land Registry logged 5,795 sale and purchase agreements received for registration for all building units in October, a decrease…",
+      "fullText": "The Land Registry logged 5,795 sale and purchase agreements received for registration for all building units in October, a decrease of 10% compared with September and down 19.4% year on year.\n\nThe total consideration for building unit sale and purchase agreements in October dropped 6.5% from the previous month to $50 billion, representing a 13.6% year-on-year decrease.\n\nA total of 4,512 agreements were for residential units, down 5.2% from the previous month and down 21% from a year ago.\n\nThe total consideration for residential units was $42.3 billion, a decrease of 9.5% compared with the previous month and a drop of 17.1% year on year.\n\nThere were 418,352 land register searches last month.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_152029_668/images/20261103164812383.jpg",
+      "publishedAt": "2026-11-02T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_152029_668.html"
     },
     {
       "id": "6172f9a0a83faf11",
@@ -1118,17 +1140,6 @@
       "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_121247_837.html"
     },
     {
-      "id": "c60be94686ea124d",
-      "title": "Election committee nominations valid",
-      "excerpt": "The Registration & Electoral Office (REO) today announced that the nominations of 1,115 candidates for the 2026 Election Committee Subsector…",
-      "fullText": "The Registration & Electoral Office (REO) today announced that the nominations of 1,115 candidates for the 2026 Election Committee Subsector (ECSS) Ordinary Elections have been declared valid.\n\nThe announcement follows determinations made by the Candidate Eligibility Review Committee.\n\nThe REO stated that 856 validly nominated candidates from 31 contested subsectors will compete for 723 seats in the ECSS Ordinary Elections to be held on November 22.\n\nVoting will not be required for five subsectors, where 259 candidates will be returned uncontested.\n\nThe five uncontested subsectors are: Education; Sports, performing arts, culture and publication; Associations of Chinese fellow townsmen; Labour; and Representatives of Hong Kong members of relevant national organisations.\n\nRelevant Government Gazette notices and detailed information have been uploaded to the election website .",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_165347_939/images/20261030180606722.JPG",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_165347_939.html"
-    },
-    {
       "id": "d62935b7be8a90e1",
       "title": "New measures to combat bid-rigging",
       "excerpt": "The Government today announced a series of reform measures using a three-pronged approach to rigorously combat bid-rigging and other syndicate-led…",
@@ -1138,17 +1149,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_153129_783.html"
-    },
-    {
-      "id": "fff4c6b2afb912e5",
-      "title": "HK to host Vinexpo Asia for 5 years",
-      "excerpt": "The Hong Kong Tourism Board and Vinexposium, a leading global organiser of wine and spirits trade events, have signed a…",
-      "fullText": "The Hong Kong Tourism Board and Vinexposium, a leading global organiser of wine and spirits trade events, have signed a memorandum of understanding to establish a five-year strategic partnership.\n\nUnder the agreement, Hong Kong will secure exclusive hosting rights for Vinexpo Asia for five consecutive years starting next year. The first annual event under this partnership is scheduled to take place at the Convention & Exhibition Centre, from June 8 to 10 next year.\n\nThe signing ceremony was witnessed by Secretary for Culture, Sports & Tourism Rosanna Law and Tourism Board Chairman Peter Lam.\n\nMr Lam thanked Vinexposium, describing the decision as a powerful endorsement of Hong Kong’s unique advantages as an international trade centre.\n\n“More importantly, it demonstrates the confidence that global business and event organisers continue to place in Hong Kong. Under this new partnership, we also take Vinexpo Asia beyond the exhibition halls and make it a city-wide event,” he said.\n\nVinexposium Overseas Events Director Deborah Sanchez noted that Hong Kong has always held a special place in Vinexpo Asia's global strategy.\n\n“Over nearly three decades here, we have built trusted relationships, strong networks, and an unwavering commitment to this market. And today, what our industry needs is stability, clarity and long-term visibility,” she said.\n\n“By establishing Vinexpo Asia here as an annual permanent gathering, we are giving our exhibitors and our international buyers a clear, reliable anchor to plan ahead, invest and grow together. One city, one annual meeting point, one powerful platform connecting the world of wine and spirits across Asia,” she added.\n\n“And now, building on three decades of trust, we are now taking this commitment even further.”",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_150255_290/images/20261030175646128.jpg",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_150255_290.html"
     },
     {
       "id": "5cff61d477439a98",
