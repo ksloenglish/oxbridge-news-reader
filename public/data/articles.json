@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T05:30:26.681Z",
-  "checkedAt": "2026-11-03T05:30:26.681Z",
+  "generatedAt": "2026-11-03T05:45:18.637Z",
+  "checkedAt": "2026-11-03T05:45:18.637Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "rthk-world",
@@ -1281,17 +1281,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875673-20261028.htm"
-    },
-    {
-      "id": "66ca3358a5ff891d",
-      "title": "China takes Mbappe's apology for Mao comment seriously",
-      "excerpt": "Beijing on Wednesday said it took seriously an apology from Real Madrid superstar Kylian Mbappe after he made comments about…",
-      "fullText": "Beijing on Wednesday said it took seriously an apology from Real Madrid superstar Kylian Mbappe after he made comments about former leader Mao Zedong.\n\nForeign Ministry spokesman Guo Jiakun told a regular briefing on Wednesday: \"We take seriously the apology the individual concerned has made.\"\n\nThe French footballer's recent comment, in which he appeared to mock the founding leader of the People's Republic of China, resulted in major Chinese brands dropping their sponsorship deals with the player, and saw Spanish football suspended from television.\n\nThe ministry responded by said that hurting the feelings of the country's people would meet \"unanimous rejection\".\n\nMbappe later apologised.\n\n\"My comment was ill-judged, and I now understand that it hurt many people in China and in Chinese communities around the world. I apologise to everyone my words have upset.\n\n\"This was absolutely not my intention. I have deep respect for the Chinese people and their history, and I am sincerely sorry,\" he added.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-28T09:07:20.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875650-20261028.htm"
     },
     {
       "id": "6ff23ffcaca16e53",
