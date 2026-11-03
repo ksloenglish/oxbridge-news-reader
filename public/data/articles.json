@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T09:58:22.486Z",
-  "checkedAt": "2026-11-03T10:15:19.914Z",
+  "generatedAt": "2026-11-03T10:30:21.578Z",
+  "checkedAt": "2026-11-03T10:30:21.578Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -423,6 +423,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_151419_588.html"
+    },
+    {
+      "id": "96f60e091304422e",
+      "title": "September retail sales up 6.4%",
+      "excerpt": "The total value of retail sales in September, provisionally estimated at $33.4 billion, was up 6.4% compared with the same…",
+      "fullText": "The total value of retail sales in September, provisionally estimated at $33.4 billion, was up 6.4% compared with the same month a year earlier, the Census & Statistics Department said today.\n\nAfter netting out the effect of price changes over the same period, the provisional estimate of the volume of total retail sales represents a 3.9% year-on-year increase.\n\nOnline sales accounted for 13.1% of the total retail sales value in September. Provisionally estimated at $4.4 billion, the value of this segment rose 12% from the same month a year earlier.\n\nThe value of sales of electrical goods and other consumer durable goods not elsewhere classified increased by 9.7% in September 2026 compared with the same period a year earlier.\n\nThere were also increases in the following categories: jewellery, watches and clocks, and valuable gifts (up 20.3%); other consumer goods not elsewhere classified (up 11.5%); food, alcoholic drinks and tobacco (up 5.3%); medicines and cosmetics (up 9%); wearing apparel (up 11.1%); footwear, allied products and other clothing accessories (up 12.4%); furniture and fixtures (up 9%); and optical shops (up 14.6%).\n\nMeanwhile, the value of sales of commodities in supermarkets dropped by 1% in September 2026 over a year earlier. This was followed by sales of commodities in department stores (down 4.1%); books, newspapers, stationery and gifts (down 0.5%); fuels (down 3.1%); motor vehicles and parts (down 34.7%); and Chinese drugs and herbs (down 3%).\n\nThe Government said total retail sales value grew at a faster year-on-year rate in September, marking the 17th consecutive month of expansion. It noted that growth in sales was broad-based across many types of retail outlets, reflecting solid local consumption sentiment in general.\n\nA pick-up in visitor arrivals and sales of festive items associated with the earlier arrival of Mid-Autumn Festival this year also contributed to growth in overall sales in the month. Meanwhile, online retail sales value rose further alongside consumers' growing use of digital channels.\n\nLooking ahead, the Government said that sustained solid economic expansion and growth in labour earnings will bolster local consumption. A series of upcoming mega-events and festive celebrations in various districts, together with continued growth in inbound tourism, will inject additional momentum into the retail sector.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_165222_094/images/20261103173821452.jpg",
+      "publishedAt": "2026-11-02T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_165222_094.html"
     },
     {
       "id": "b6571d8df6bc672b",
@@ -1138,17 +1149,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875871-20261030.htm"
-    },
-    {
-      "id": "0535acc2e963236e",
-      "title": "Building repair reforms unveiled",
-      "excerpt": "(To watch the full press conference with sign language interpretation, click here .) The Housing Bureau will establish the Public…",
-      "fullText": "(To watch the full press conference with sign language interpretation, click here .)\n\nThe Housing Bureau will establish the Public Housing Building Control Section (PBC) within the next month to replace the Independent Checking Unit, launching a new project-based regulatory regime to strengthen the oversight of large-scale maintenance and renovation works in courts and estates.\n\nThe Development Bureau and the Housing Bureau today jointly announced the details of the comprehensive reform measures, which are based on the findings of the independent committee’s report on the fire at Wang Fuk Court in Tai Po.\n\nThe PBC will strengthen and focus regulation of existing buildings and maintenance works across all public rental housing (PRH) estates, subsidised sale housing courts and related facilities sold or divested by the Housing Authority (HA). It will also regulate new public housing development projects (including PRH and subsidised sale housing) developed by the HA, as well as relevant works for existing, non-divested PRH estates.\n\nAnnouncing the measures at a press conference this morning, Deputy Financial Secretary & Acting Secretary for Housing Michael Wong said this new project-based model will provide macro-level co-ordination and comprehensive management of large-scale maintenance and renovation projects in housing courts and estates. He noted this will target high-risk, large-scale maintenance works to improve overall project co-ordination, communication and risk control.\n\nWhere individual public housing courts or estates carry out major building maintenance and renovation works regulated under the Buildings Ordinance, the Head of the PBC will set up a project-specific team to handle related works matters in an integrated manner. The team will assign a dedicated liaison officer to proactively contact the relevant Owners' Corporation and provide necessary assistance.\n\nIn tandem, the Government will establish the Building Maintenance Support & Services Council (BMSSC) to provide more proactive support to owners in maintaining properties.\n\nSecretary for Development Bernadette Linn noted that the BMSSC will provide end-to-end services with standard fees calculated on a cost-recovery basis. The preliminary estimate of the cost is several thousand dollars per household.\n\nThe Government has earmarked $100 million in this year’s Budget as start-up capital for the BMSSC to cover initial staff expenditure and operating expenses, with the council expected to achieve self-financing in the long run. An additional $200 million has also been earmarked to provide fee concessions to owners in need.\n\nThe Government aims to set up the BMSSC by the end of this year, with project tendering for owners commencing within the first quarter of 2027.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_121247_837/images/20261030170702821.jpg",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_121247_837.html"
     },
     {
       "id": "5cff61d477439a98",
