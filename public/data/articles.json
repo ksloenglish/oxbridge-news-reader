@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T07:15:17.997Z",
-  "checkedAt": "2026-11-03T07:17:55.833Z",
+  "generatedAt": "2026-11-03T07:30:22.701Z",
+  "checkedAt": "2026-11-03T07:30:22.701Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -324,6 +324,17 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
+    },
+    {
+      "id": "58b5fb3e0815979b",
+      "title": "LawTech funding scheme launched",
+      "excerpt": "The Department of Justice (DoJ) today officially launched the Funding Scheme for LawTech Solution Subscription by the Hong Kong Legal…",
+      "fullText": "The Department of Justice (DoJ) today officially launched the Funding Scheme for LawTech Solution Subscription by the Hong Kong Legal Sector, aiming to boost the local legal sector’s technological capability and fortify the city’s status as an international legal and dispute resolution hub.\n\nThe scheme is a policy initiative under the Chief Executive's 2026 Policy Address. It will be jointly managed by the Hong Kong Bar Association and the Law Society of Hong Kong , which will handle applications and disburse funds.\n\nApplications are open from today until January 29, 2027. Eligible applicants include sole practitioners, Hong Kong law firms with no more than five partners, and barristers with no more than seven years of call.\n\nDeputy Secretary for Justice and Chairman of the Consultation Group on LawTech Development Cheung Kwok-kwan stated that promoting LawTech is a core DoJ policy initiative. He noted that since last year, the DoJ has hosted five rounds of the LexGoTech Roundtables to gather feedback from practitioners, academics and stakeholders.\n\nHe added that the DoJ is aware that small and medium-sized law firms, as well as junior barristers, are particularly concerned about the financial burden of adopting LawTech tools. The scheme is launched to directly respond to the industry’s needs.\n\nHe pointed out that small and medium-sized law firms account for about 88% of all law firms in Hong Kong, while junior barristers with less than seven years of call make up about one-third of the total practicing bar. The scheme will lower the barrier to entry and enhance the overall competitiveness of Hong Kong's legal sector.\n\nOperating on an actual-expense reimbursement basis, the scheme provides up to $20,000 per applicant for a one-year subscription. Applicants can choose from a designated list of 14 local, Mainland and overseas providers covering legal research, document drafting, workflow management and hearing support.\n\nTo ensure effectiveness, these service providers will offer transparent pricing alongside technical support and training. The application process consists of four steps.\n\nFirst, applicants must select a provider from the designated list and obtain a written price quotation. Second, they will submit their application to either the Hong Kong Bar Association or the Law Society of Hong Kong.\n\nThird, the relevant body will issue a written result, after which successful applicants can subscribe to their chosen service. Finally, applicants submit proof of subscription and payment to their respective professional body to claim reimbursement.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_113941_609/images/20261103131121196.jpg",
+      "publishedAt": "2026-11-02T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_113941_609.html"
     },
     {
       "id": "b6571d8df6bc672b",
@@ -1094,17 +1105,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_121247_837.html"
-    },
-    {
-      "id": "b2a4582e5cef3de7",
-      "title": "APEC card visa-free stay extended",
-      "excerpt": "The Immigration Department (ImmD) today announced that the visa-free period of stay in Hong Kong for APEC Business Travel Card…",
-      "fullText": "The Immigration Department (ImmD) today announced that the visa-free period of stay in Hong Kong for APEC Business Travel Card (ABTC) holders will be extended from 60 days to 90 days starting November 1.\n\nTo enjoy the visa-free stay, cardholders must have obtained pre-clearance from the Hong Kong Special Administrative Region.\n\nThe ImmD noted that the APEC Business Mobility Group recently announced that five participating economies of the ABTC Scheme – the People’s Republic of China; Hong Kong, China; Indonesia; the Philippines; and Singapore – will extend the maximum stay for visiting ABTC holders to 90 days to enhance the card's effectiveness.\n\nWhile each of the five economies will determine its own implementation timeline, the Mainland will roll out the new arrangement on November 1. The Hong Kong SAR is implementing the extension concurrently to align with the Mainland’s timeline.\n\nCurrently, 19 economies participate in the scheme: Australia; Brunei Darussalam; Chile; the People’s Republic of China; Hong Kong, China; Indonesia; Japan; the Republic of Korea; Malaysia; Mexico; New Zealand; Papua New Guinea; Peru; the Philippines; Russia; Singapore; Chinese Taipei; Thailand; and Vietnam.\n\nABTC holders who have obtained pre-clearance from these participating economies are entitled to a visa-free stay of no less than 60 days.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_152807_234/images/20261030162529509.jpg",
-      "publishedAt": "2026-10-29T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_152807_234.html"
     },
     {
       "id": "c60be94686ea124d",
