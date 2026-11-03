@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T09:15:16.475Z",
-  "checkedAt": "2026-11-03T09:15:16.475Z",
+  "generatedAt": "2026-11-03T09:30:32.390Z",
+  "checkedAt": "2026-11-03T09:30:32.390Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "1c367c3d33ca5da4",
+      "title": "Hong Kong economy grew 5.2pc in Q3 2026",
+      "excerpt": "Hong Kong’s economy grew 5.2 percent year on year in the third quarter of 2026, buoyed by stronger exports and…",
+      "fullText": "Hong Kong’s economy grew 5.2 percent year on year in the third quarter of 2026, buoyed by stronger exports and domestic demand, according to advance estimates.\n\nThe Census and Statistics Department said the increase compared with a 4.2 percent growth in the second quarter. On a seasonally adjusted basis, GDP rose 1.9 percent quarter on quarter.\n\nFor the first nine months combined, the economy grew 5.1 percent – the fastest growth for the period in five years.\n\nGoods exports rose 30.4 percent in real terms, after 28.9 percent in the second quarter, while imports grew 29.9 percent.\n\nExports of services increased 4.3 percent. Investment strengthened, with gross domestic fixed capital formation up 7.3 percent, while private consumption grew 2.8 percent and government consumption was up 1.7 percent.\n\nA government spokesman said the economy saw robust expansion, underpinned by accelerating exports and solid domestic demand.\n\nHe said the outlook remained positive, citing global artificial intelligence investment, inbound tourism, cross-boundary traffic and financial market activity.\n\nBut he advised caution over geopolitical tensions in the Middle East and tighter monetary policies by major central banks.\n\nRevised GDP figures and the updated forecast for 2026 will be released on November 13.\n\nSeparately, retail sales rose 6.4 percent year on year in September to a provisional HK$33.4 billion – the 17th straight month of expansion.\n\nAugust’s revised increase was 5.6 percent, and sales for the first nine months were up 8.3 percent by value.\n\nOnline sales rose 12 percent to HK$4.4 billion in September, or 13.1 percent of total retail sales, and were up 21.2 percent for the first nine months.\n\nRetail sales volume rose 3.9 percent in September.\n\nThe spokesman said solid local consumption sentiment, more visitor arrivals and earlier Mid-Autumn festive sales supported retail growth.\n\nHe said upcoming mega events, festive celebrations and inbound tourism should add momentum, though external headwinds warranted close monitoring.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T09:13:27.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876400-20261103.htm"
+    },
     {
       "id": "7eee08111c617bc9",
       "title": "HK up as policy moves fail to lift mainland markets",
@@ -596,8 +607,8 @@
       "fullText": "The Hong Kong Monetary Authority has set out the next phase of its Fintech 2030 strategy, which will pair new technology initiatives with a renewed emphasis on governance and risk management.\n\nSpeaking at Hong Kong Fintech Week on Monday, authority chief executive Eddie Yue said the HKMA is launching Project Sage to examine the application and governance of \"agentic finance\" – artificial intelligence systems that can execute tasks on behalf of users.\n\n\"The main purpose of the Sage project is to hope that, under agentic finance, we can both promote application and pay attention to governance,\" he said.\n\nYue said a cross-sector expert panel would bring together finance, payments, professional services, technology and academic representatives to explore use cases, sandbox testing, interoperability standards and governance safeguards.\n\nThe HKMA is also issuing a discussion paper on banks’ use of agentic AI, seeking views on governance models, responsibility arrangements and a possible central register of trusted agents.\n\nYue said the aim is to set rules that allow innovation while managing risks.\n\nHe also said the authority would launch a post-quantum cryptography toolbox with the Hong Kong University of Science and Technology to help banks prepare for the challenges stemming from breakthroughs in quantum computing.\n\nOn tokenisation, Yue said the HKMA is introducing tokenised central bank money to enable 24/7 settlement of interbank tokenised deposits and would expand the number of participating banks to support cross-lender transfers around the clock.\n\n\"The benefit is that, for example, quite a number of enterprises with global liquidity to manage can, if round-the-clock tokenised deposit transfers are achieved, make payments at any time and anywhere, across different accounts and even cross-border,\" he said.\n\n\"And for retail investors, if in the future they want to invest in different retail tokenised financial products, they can also more flexibly do their investments 24/7, strengthening the flexibility and security of their asset allocation.\"\n\nYue said the HKMA would further pilot tokenised Exchange Fund Bills in the secondary market and explore whether regulated stablecoins could serve as a payment channel.\n\nHe stressed that innovation must be matched by governance and risk management so it can go further, land better and benefit more people.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-02T04:14:07.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876212-20261102.htm"
     },
     {
@@ -962,17 +973,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_132844_227.html"
-    },
-    {
-      "id": "4bb4b4db3ff07d37",
-      "title": "Amid fuel tax cut, German inflation slows",
-      "excerpt": "German inflation slowed more than expected in October, the first month of a government fuel tax cut, adding to evidence…",
-      "fullText": "German inflation slowed more than expected in October, the first month of a government fuel tax cut, adding to evidence that Europe's largest economy could prove more resilient than anticipated despite disruptions linked to the war in Iran.\n\nGross domestic product increased slightly more than expected in the third quarter, though economists warned the expansion remained heavily reliant on government spending.\n\nInflation eased to 2.8 percent year-on-year in October from 3.3 percent the month before, preliminary data from the statistics office showed on Friday, below forecasts for 3.1 percent.\n\nEasing energy price rises drove the slowdown, increasing by 12.2 percent in October versus 14.9 percent the month before, and indicated that the fuel tax cut that runs to year-end is having an effect.\n\nCore inflation, which excludes volatile food and energy prices, fell to 2.1 percent from 2.4 percent the month before.\n\nThe German data comes ahead of a euro zone inflation update due on Wednesday. Inflation in the bloc is expected to come in at 3.9 percent in October, slightly above September's 3.8 percent, according to economists polled by Reuters.\n\nGerman GDP increased by 0.2 percent in the third quarter compared with the previous three-month period, according to preliminary data from the statistics office, slightly above a rise of 0.1 percent forecast by analysts polled by Reuters.\n\nThe data pointed to a fourth straight quarter of recovery in Europe's largest economy, helped by increased public spending, even as private sector momentum remained subdued.\n\nUnder Chancellor Friedrich Merz, government funding has surged since Berlin last year approved a €500 billion infrastructure fund and exempted much defence spending from its debt brake rules.\n\nThe economy grew by 0.3 percent in the second quarter and 0.4 percent in the first quarter, according to the office.\n\nThe fuel tax cut, which aims to cushion households from the surge in oil prices caused by the Iran war, will likely help the economy hold up in the fourth quarter as well, said Deutsche Bank analyst Marc Schattenberg.\n\nHowever, with no sign of a lasting de-escalation in the Middle East, energy prices are unlikely to drop noticeably and will continue to stoke inflation in coming months, say analysts.\n\n\"It is clear that the inflation rate will hover around 3 percent for some time to come,\" said Alexander Krueger, chief economist at Bethmann HAL bank.\n\n\"Given this backdrop, an interest rate hike by the ECB cannot be ruled out.\"\n\nThe European Central Bank left interest rates unchanged on Thursday but clearly hinted at another hike in December.\n\nWhile analysts broadly agree Germany is emerging from a prolonged slowdown, many stop short of calling the recovery self-sustaining because private investment remains weak.\n\nA lack of sweeping reforms means Germany's attractiveness as a place to do business will remain impaired, preventing a significant recovery in private investment, Commerzbank chief economist Joerg Kraemer said.\n\nAnalysts pointed to the increased government spending on infrastructure and defence as the main driver of the recovery.\n\n\"Without this artificially initiated impulse, economic output would probably have stagnated,\" said Krueger.\n\nJens-Oliver Niklasch, economist at LBBW bank, said that next year would reveal whether the economic revival is sustainable or just a flash in the pan.\n\n\"For sustained, higher growth, investment would need to pick up more substantially, which, to date, has not been the case,\" he said.\n\nThe German government expects the economy to grow by 1.3 percent in 2026 and 1.1 percent in 2027, with the economy ministry saying earlier this month that the Iran war, and resulting high energy prices, is not hurting the economy as much as feared.\n\nIn a further positive sign, the Ifo economic institute's closely watched business climate index rose for a sixth straight month in October. (Reuters)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T14:37:52.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876011-20261030.htm"
     },
     {
       "id": "251e9a97db768b7c",
