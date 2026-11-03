@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T01:15:16.254Z",
-  "checkedAt": "2026-11-03T01:30:22.246Z",
+  "generatedAt": "2026-11-03T01:45:20.551Z",
+  "checkedAt": "2026-11-03T01:45:20.551Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "8dda505e2b7d5c5b",
+      "title": "Man arrested over suspected spiked drink",
+      "excerpt": "Police have arrested a 61-year-old man suspected of adding an unknown substance to a 33-year-old woman's drink at a bar…",
+      "fullText": "Police have arrested a 61-year-old man suspected of adding an unknown substance to a 33-year-old woman's drink at a bar in Tsim Sha Tsui.\n\nPolice received a report just before 5am on Sunday that a woman had fallen ill after drinking a beverage at a bar on Mody Road, with suspicions that the drink had been spiked.\n\nShe was conscious and taken to Queen Elizabeth Hospital for treatment.\n\nThe Yau Tsim Criminal Investigation Support Team took up the case and made the arrest in Central on Monday.\n\nThe man is being held for further questioning on suspicion of administering poison with intent to harm.\n\nJapanese former adult film star turned DJ, Mao Hamasaki, has said she fell ill after having a drink that she said had been tampered with during a Halloween event.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T01:29:32.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876336-20261103.htm"
+    },
+    {
+      "id": "4a7349bc0d3c5903",
+      "title": "Driver arrested in Tuen Mun fatal accident",
+      "excerpt": "A 54-year-old woman died early on Tuesday after reportedly being knocked down by a private car in Tuen Mun, with…",
+      "fullText": "A 54-year-old woman died early on Tuesday after reportedly being knocked down by a private car in Tuen Mun, with the driver arrested for dangerous driving causing death.\n\nThe accident happened at about 11.09pm on Monday along Castle Peak Road in Hung Shui Kiu, as the car was travelling towards Yuen Long.\n\nThe woman suffered serious head injuries and was rushed to Tuen Mun Hospital in an unconscious state, where she was certified dead at 0.17am on Tuesday.\n\nThe 53-year-old male driver was arrested and is being detained for further enquiries.\n\nThe case is being investigated by the Special Investigation Team of Traffic, New Territories North.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T01:26:17.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876335-20261103.htm"
+    },
     {
       "id": "a902ec1efeb8c9e6",
       "title": "Everton edge Newcastle to go seventh in Premier League",
@@ -656,17 +678,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876136-20261101.htm"
     },
     {
-      "id": "bdd2db8fd2480d6d",
-      "title": "'Revolutionary change aimed for building maintenance'",
-      "excerpt": "Secretary for Justice Paul Lam on Sunday said the government’s efforts to amend the law following the deadly Wang Fuk…",
-      "fullText": "Secretary for Justice Paul Lam on Sunday said the government’s efforts to amend the law following the deadly Wang Fuk Court inferno aim to make a \"revolutionary change\" to the entire building maintenance ecosystem in Hong Kong.\n\nHis remarks came as authorities plan to submit legislative amendments to the Legislative Council within this year to reform the building maintenance and renovation system, as well as combat bid-rigging activities.\n\nSpeaking on a Commercial Radio programme, Lam said dishonest contractors should be driven out of the market.\n\n“In today’s large-scale building maintenance, there is an objective fact – an unfortunate and unacceptable fact – that the 'fat of the meat' is too rich, and the market was almost monopolised by bad actors,” he said.\n\n\"A friend of mine in law enforcement put it very well: bad money drives out good. Genuinely decent maintenance workers and professionals were not willing to take part in the market. People have no choice – it’s all bad actors.\n\n\"So the first step is to drive the bad actors out of the market, so that the highly professional and honest people will be willing to re-enter the market.\"\n\nLam said authorities should also assist home owners in finding suitable contractors and professionals, and ensure that construction works are carried out in a safe and lawful manner.\n\nSpeaking on the same show, Secretary for Commerce and Economic Development Algernon Yau said bid-rigging involves complex issues including price-fixing and market sharing.\n\nHe believes criminalising such activities would enable greater powers to combat bid-rigging, expressing hope that the amendments could be passed by April next year.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T05:15:00.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876125-20261101.htm"
-    },
-    {
       "id": "c5b859edcffed43c",
       "title": "Evacuees from occupied Oleshky arrive in Ukraine",
       "excerpt": "Residents of the Russian-occupied city of Oleshky, ravaged by years of war, arrived in Ukraine on Saturday after being evacuated…",
@@ -764,17 +775,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876093-20261031.htm"
-    },
-    {
-      "id": "e8ac3f43d6bb81f7",
-      "title": "Evening News on TV32 - Oct 31",
-      "excerpt": "Top stories for Saturday, Oct 31, 2026 - Finance chief Paul Chan says Hong Kong could record its strongest full-year…",
-      "fullText": "Top stories for Saturday, Oct 31, 2026\n\n- Finance chief Paul Chan says Hong Kong could record its strongest full-year economic growth in five years.\n\n- Police arrest 58 people, including minors, in an anti-triad operation.\n\n- Halloween celebrations are in full swing, here and around the world.",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T12:47:18.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876091-20261031.htm"
     },
     {
       "id": "98ffd1120066b4d9",
