@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T10:45:17.003Z",
-  "checkedAt": "2026-11-03T10:45:17.003Z",
+  "generatedAt": "2026-11-03T11:00:31.777Z",
+  "checkedAt": "2026-11-03T11:00:31.777Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "2c30826a3246984c",
+      "title": "Russia-Ukraine talks set for Abu Dhabi next week",
+      "excerpt": "The Kremlin confirmed on Tuesday that US-mediated Russia-Ukraine talks to end more than four years of war will take place…",
+      "fullText": "The Kremlin confirmed on Tuesday that US-mediated Russia-Ukraine talks to end more than four years of war will take place in Abu Dhabi next week.\n\nUS President Donald Trump's special envoy Steve Witkoff earlier announced the meeting will take place on November 10-11.\n\nWitkoff met with both Russia's Vladimir Putin and Ukraine's Volodymyr Zelensky last month, with all sides announcing three-way talks will resume in November, as Washington pushes an end to the dragging Ukraine-Russia war.\n\n\"The Russian delegation will arrive on November 10-11 in Abu Dhabi to take part in trilateral talks,\" Kremlin spokesman Dmitry Peskov told reporters, including AFP.\n\nThe Russian delegation will be led by Putin aide Vladimir Medinsky, who took part in previous negotiations that failed to reach a breakthrough.\n\nMedinsky, who is 56 and previously served as culture minister, is known for his nationalistic views on Russian history.\n\nHe took part in failed 2022 talks between Russia and Ukraine at the start of the war, also leading the Russian delegation in Istanbul last year and in Geneva earlier this year.\n\nMedinsky, who was born in Ukraine, has co-authored Russian history school textbooks praising Moscow's role in Ukraine. (AFP)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T10:42:41.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876410-20261103.htm"
+    },
     {
       "id": "c9b8b12d9f0c8710",
       "title": "Collaboration is key to development, Nobel winner says",
@@ -940,17 +951,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876063-20261101.htm"
-    },
-    {
-      "id": "1b61cee3bcb4cff0",
-      "title": "Bolsonaro 'fled because he was victim of persecution'",
-      "excerpt": "Former conservative presidential candidate Flavio Bolsonaro said he fled Brazil to the United States because he was a victim of…",
-      "fullText": "Former conservative presidential candidate Flavio Bolsonaro said he fled Brazil to the United States because he was a victim of \"persecution\" in his country.\n\nBolsonaro, who lost Sunday's election runoff to President Luiz Inacio Lula da Silva, secretly left Brazil on Tuesday and arrived in Florida aboard a private jet on Wednesday after travelling through Argentina and Ecuador.\n\n\"The persecution began even sooner than I imagined,\" the senator said on Friday during an Instagram livestream in which he discussed his decision to flee after his Brazilian passports were cancelled as part of a money-laundering investigation.\n\nIn the video, he recounted how police informed him on Monday that his passports were being revoked as he left a visit to his father, former president Jair Bolsonaro, who is under house arrest.\n\n\"With tears in his eyes, he told me: 'You know where they're going with this, don't you?'\" he recounted his meeting with his father.\n\n\"I told him: 'Dad, I know... Now I know what I have to do.'\"\n\nAlthough he gave no details of how he left the country, Bolsonaro said he and his wife made the decision \"without anyone knowing\" and urged people not to \"point the finger at anyone\".\n\nUS President Donald Trump and Argentine President Javier Milei are under pressure to explain the involvement of the United States and Argentina in the senator's escape.\n\n\"I didn't leave Brazil, I left for Brazil,\" Bolsonaro said, alleging that Supreme Court Justice Alexandre de Moraes had made false accusations against him.\n\nHe also suggested there had been irregularities in the runoff, comparing them to \"handball goals\" that were not disallowed by VAR, without detailing what those irregularities might have been.\n\nHe also predicted that the economy would \"go bust\" under Lula and said he was willing to run for president again: \"I'm not talking about 2030, I'm talking about before then.\" (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T21:59:30.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876067-20261101.htm"
     },
     {
       "id": "f824b6e663078f8a",
