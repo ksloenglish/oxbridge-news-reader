@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T19:45:20.739Z",
-  "checkedAt": "2026-11-03T22:00:29.838Z",
+  "generatedAt": "2026-11-03T22:15:19.591Z",
+  "checkedAt": "2026-11-03T22:15:19.591Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 10
+      "articleCount": 11
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,50 @@
     }
   ],
   "articles": [
+    {
+      "id": "9e542cb7a29c1166",
+      "title": "US stocks end mostly up as markets wait on midterms",
+      "excerpt": "Wall Street stocks finished mostly higher on Tuesday as oil prices continued to pull back, while markets awaited results from…",
+      "fullText": "Wall Street stocks finished mostly higher on Tuesday as oil prices continued to pull back, while markets awaited results from US midterm elections that could reshape US President Donald Trump's final two years in office.\n\nCrude prices, which fell sharply on Monday on revived talk of US-Iran peace prospects, fell modestly hours after Trump insisted that a deal with Tehran \"could happen,\" with traders also citing unconfirmed Middle East media reports saying progress on Iran's nuclear programme and frozen funds had been made.\n\nThe prospect of easing energy costs helped Wall Street steady after several sessions of losses, in particular on the tech-heavy Nasdaq, which enjoyed a positive session after three straight declines.\n\n\"Stocks are recovering from yesterday's bearish afternoon reversal even as the odds of a blue sweep have risen throughout the past few hours,\" said a note from Jose Torres of Interactive Brokers.\n\n\"The fact that equities are advancing in light of the Democrats being likely to win majority control across both chambers of Congress signals that a near-term bottom could be behind us, since an overall flip was the most feared outcome.\"\n\nAmericans voted on Tuesday with Democrats hoping to seize control of Congress and impose the first significant checks on Trump's tumultuous second term in the White House.\n\nThe election amounts to a nationwide judgement on his policies, with the mood turning sharply against Republicans amid anger over soaring living costs and the war against Iran.\n\nEarnings reports from titans including Amazon, Alphabet, Meta and Microsoft have shown they plan to keep pouring hundreds of billions of US dollars into data centres and chips even as investors grow impatient for returns.\n\nMonday saw Apple post forecast-topping sales and profits but it warned that increasing memory chip costs would hit its profit margins in the coming months.\n\nShares in Apple shed 1.9 percent.\n\nBut shares in AI chipmakers Nvidia and AMD both climbed, along with AI data centre operator CoreWeave.\n\nIn Europe most stock indices ended little changed, with London's FTSE falling under the weight of its oil and gas firms like BP and Shell.\n\n\"A sharp decline in crude oil prices – triggered by remarks from US President Donald Trump regarding potential adjustments to overseas financial support – put heavy pressure on index energy heavyweights,\" said Patrick Munnelly at Tickmill.\n\nThe Nasdaq rose 0.8 percent, to 25,372, the S&P 500 rose 0.4 percent, to 7,569, while the Dow fell 0.4 percent, to 51,787. (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T22:09:12.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876463-20261104.htm"
+    },
+    {
+      "id": "8c9147ef589e46b4",
+      "title": "Trump says US cutting US$3.8bn security aid to Israel",
+      "excerpt": "US President Donald Trump said on Tuesday that Washington is ending a 10-year security assistance accord with Israel that allowed…",
+      "fullText": "US President Donald Trump said on Tuesday that Washington is ending a 10-year security assistance accord with Israel that allowed US$3.8 billion in annual assistance to its ally until 2028.\n\nTrump said Israel was \"fine\" with him ending the assistance, which began in 2019 and was signed under his predecessor, Barack Obama, three years earlier.\n\n\"We'll help Israel if they need it,\" Trump added in an interview on \"Fox and Friends,\" saying that he had agreed with Israel's Prime Minister Benjamin Netanyahu to cut the assistance.\n\n\"Israel's our number one; we give them more than anybody else, and they no longer need it ... If they did need it, I would say keep it going,\" Trump added.\n\nUnder the deal, Israel receives financial assistance for the purchase of around US$3.8 billion in weapons a year.\n\nSince its founding in 1948, Israel has received more than US$300 billion, adjusted for inflation, in US economic and military assistance, according to the Council on Foreign Relations, far more than any other country since 1946.\n\nThe Israeli premier has said he wanted to end Israel's reliance on US support.\n\nIn June, Netanyahu called for his country to increase its military autonomy and reduce its reliance on Washington.\n\nIn January he told The Economist that he hoped to do so within a decade, while in May he told CBS that he wanted support to reach \"zero.\"\n\nTuesday's announcement was nonetheless met with backlash from Israeli opposition candidate Gadi Eisenkot, who said it showed that Netanyahu must go.\n\n\"The fact that Israel's defence establishment is learning of a shift in our strategic relationship through the media, at the same time as the Israeli public, shows just how dangerous Benjamin Netanyahu's conduct is,\" Eisenkot said in a statement.\n\n\"He can no longer be trusted and must be replaced.\"\n\nOn Tuesday, Trump cited attacks by leftist Democrat Abdul El-Sayed, who is running for the US Senate in Tuesday's midterm elections after harnessing popular discontent and anti-Israel sentiment, as part of the reasoning behind the decision to end aid.\n\n\"Why should we suffer the slings from lunatics like an El-Sayed when they don't need it?\" he said on Fox, referring to Israel and the assistance. (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T22:08:26.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876451-20261104.htm"
+    },
+    {
+      "id": "2d80d63add7a7480",
+      "title": "Greenland approves security deal with Denmark and US",
+      "excerpt": "Greenlandic lawmakers on Tuesday voted to approve an agreement between the Arctic island, Denmark and the United States to strengthen…",
+      "fullText": "Greenlandic lawmakers on Tuesday voted to approve an agreement between the Arctic island, Denmark and the United States to strengthen security in the Arctic and North Atlantic after months of pressure by US President Donald Trump seeking to control the semi-autonomous territory of a Nato ally.\n\nThe trilateral deal paves the way for more US bases in Greenland and eases tensions over Trump's repeated calls for the vast island to become part of the United States.\n\nThe agreement's goal is to bolster the US military presence on Greenland but keep the self-governing island under Danish control. It would still apply if Greenland eventually chooses independence. (AP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T22:07:23.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876449-20261104.htm"
+    },
+    {
+      "id": "a96b8ba91cbfeb4f",
+      "title": "King Charles calls slavery a 'monstrous injustice'",
+      "excerpt": "The UK's King Charles called the transatlantic slave trade \"a monstrous injustice\" on Tuesday, opening a Commonwealth summit in which…",
+      "fullText": "The UK's King Charles called the transatlantic slave trade \"a monstrous injustice\" on Tuesday, opening a Commonwealth summit in which UK leader Andy Burnham is holding talks about apologising for Britain's role in slavery.\n\nThe monarch told the Commonwealth Heads of Government Meeting in Antigua and Barbuda that slavery \"still casts a shadow over these islands and other members\" of the 56-nation group, many of which are former British colonies.\n\n\"As I have said before, that shameful chapter of history is one that fills my heart with horror and my soul with the most profound personal sorrow,\" said the king.\n\n\"And yet history also teaches us that evil need not have the last word; that character and courage can combine to overcome the most monstrous injustice, as they did with the determination to end international trade in enslaved people, in which the Royal Navy played such a leading role,\" Charles added.\n\nThe comments come as Burnham uses his appearance at the summit to hold discussions with Commonwealth leaders about issuing a formal apology for Britain's role in slavery, which saw about 10-15 million slaves brought from Africa to the Americas over four centuries.\n\nThe Labour premier, in office since July, said at the weekend that he was open to saying sorry but ruled out paying the financial reparations demanded by some Caribbean countries.\n\nBritain's pivotal part in slavery has long strained relations between the UK and its former colonies, including an awkward previous meeting of Commonwealth leaders in 2024.\n\nThe UK royal family benefited from the trade but Charles is politically neutral and is not expected to offer an apology.\n\nA palace spokesperson also said \"it would not be appropriate\" for the king to announce a change in government policy.\n\nBurnham discussed slavery with Barbados Prime Minister Mia Mottley during a meeting on Monday, one of several bilateral chats the prime minister is expected to have at the summit.\n\nThey discussed how Britain \"was offering a structured dialogue for communities impacted by the transatlantic slave trade,\" including the \"next steps,\" Downing Street said.\n\nBurnham wrote in the Guardian on Saturday that he would have \"difficult conversations\" to safeguard the Commonwealth's future.\n\n\"Listening to calls for a formal apology on behalf of the British state will form an important part of this process and I am open to them,\" Burnham wrote.\n\nHe insisted, however, that reparations were \"not the right answer,\" saying British people today should not be \"held liable for historical wrongs, however heinous.\"\n\nInstead, London is pursuing a \"debt reset\" plan for the poorest Commonwealth countries, led by former Labour prime minister Gordon Brown and which could alter interest rates on repayments.\n\nThe UK will also allocate £40 million over three years for infrastructure improvements in the Caribbean, including renewable energy.\n\nThe issue of slavery has loomed large over 77-year-old Charles's ongoing nine-day visit to three Caribbean countries.\n\nWhen the king arrived in the Bahamas last week, small groups of protesters waved placards reading: \"Pay what you owe us.\"\n\nThe monarch acknowledged \"the great suffering of the past\" during that stop.\n\nBritain has never formally apologised for slavery or agreed to pay reparations.\n\nThe UK profited for centuries from colonialism and slavery, but argues it also led the way in the latter's abolition.\n\nIn 1833, the UK parliament passed a law to abolish slavery in most of the British Empire.\n\nOpposition Conservative leader Kemi Badenoch has said Britain should not apologise, arguing it would boost countries' claims for financial compensation.\n\nAt the previous Commonwealth meeting in Samoa in 2024, 56 nations signed a communique backing talks over reparatory justice after then-prime minister Keir Starmer tried to avoid the issue of slavery.\n\nBurnham has said his government is pursuing a \"new approach.\" (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T22:06:54.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876443-20261104.htm"
+    },
     {
       "id": "f78f718bb35f1fa8",
       "title": "Software update triggers HK parking meter outage",
@@ -962,39 +1006,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876161-20261101.htm"
-    },
-    {
-      "id": "1212cf0131848715",
-      "title": "UAE says hoping for breakthrough in Iran-US war",
-      "excerpt": "The United Arab Emirates is hoping for a breakthrough in negotiations between Iran and the United States while being prepared…",
-      "fullText": "The United Arab Emirates is hoping for a breakthrough in negotiations between Iran and the United States while being prepared for the worst, a senior official said on Sunday, following threats of a resumption of the Middle East war.\n\n\"We're hoping that there is a diplomatic breakthrough,\" diplomatic adviser to the Emirati president Anwar Gargash said during a conference in Manama.\n\n\"It is not the interest of the region to go through another round... But I think we're also, as we've shown before, braced for the worst.\"\n\nFollowing a visit to Tehran this week by a Qatari delegation, Iran has dispatched envoys to the Gulf country to continue consultations as part of indirect negotiations with the US to end the war.\n\nBut US President Donald Trump reiterated his threats on Saturday, saying the United States still has to \"take care of\" one or two targets in Iran.\n\n\"We just can't allow Iran to take this region and the global economy hostage,\" US Assistant Secretary for Near Eastern Affairs Donald Blome said at the Manama conference on Sunday.\n\n\"The hand of negotiation has been extended, and those channels have continued to be open and active at the same time,\" Blome said. \"We've been also prepared to go in another direction.\"\n\nOn Saturday, US Secretary of State Marco Rubio said Trump has not made a decision about fresh strikes on Iran and that the US would be open to a diplomatic solution.\n\nThe war began on February 28 with joint US-Israeli strikes on Iran, which retaliated by targeting, among others, Gulf countries allied with Washington. (AFP)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T14:12:25.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876159-20261101.htm"
-    },
-    {
-      "id": "23d17fb5f55c70f3",
-      "title": "France probes petrol-bomb attack on police",
-      "excerpt": "France has launched an attempted murder investigation after a petrol bomb was thrown at security forces during a weekend protest…",
-      "fullText": "France has launched an attempted murder investigation after a petrol bomb was thrown at security forces during a weekend protest in Paris, prosecutors said on Sunday.\n\nOn Saturday, clashes erupted in Paris and some other cities after hundreds of thousands of people staged a third weekend of protests against soaring living costs.\n\nThe Paris police prefecture said that several hundred rioters had attacked security forces with projectiles, including a Molotov cocktail.\n\n\"Explosive devices were thrown at around fifteen gendarmes as well as police officers,\" the prosecutor's office said on Sunday.\n\nGendarmes are military police officers who are part of the French armed forces.\n\nProsecutors said an investigation had been opened for \"attempted murder of persons vested with public authority\".\n\nDramatic images showed a homemade incendiary device exploding at the feet of a security officer in eastern Paris.\n\nAn assessment of the injured was ongoing, prosecutors said, adding the reported injuries include second-degree burns.\n\nNo suspects \"have been arrested at this stage in connection with the incident,\" the prosecutor's office said, adding that investigators were working to identify those responsible.\n\nInterior Minister Laurent Nunez on Saturday decried an \"extraordinary\" level of violence from some rioters. (AFP)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T13:22:37.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876156-20261101.htm"
-    },
-    {
-      "id": "c5b859edcffed43c",
-      "title": "Evacuees from occupied Oleshky arrive in Ukraine",
-      "excerpt": "Residents of the Russian-occupied city of Oleshky, ravaged by years of war, arrived in Ukraine on Saturday after being evacuated…",
-      "fullText": "Residents of the Russian-occupied city of Oleshky, ravaged by years of war, arrived in Ukraine on Saturday after being evacuated via Belarus during a rare truce brokered by US First Lady Melania Trump.\n\nAn AFP journalist saw the residents, some draped in Ukrainian flags, disembark buses and tearfully embrace their loved-ones in emotional scenes.\n\nThe city of Oleshky in Ukraine's southern Kherson region, occupied by the Russian military since 2022, had been caught in intense fighting between the two sides that had left residents unable to escape and starving.\n\nAnnouncing the ceasefire last week, First Lady Melania Trump described the city as being \"on the brink of disaster\" and said that without her intervention, bringing aid to its beleaguered residents would have been \"impossible\".\n\nUkrainian President Volodymyr Zelensky said on X: \"As of now, Ukrainian citizens from Oleshky have crossed the Ukrainian border.\"\n\n\"All of them will receive the assistance they need,\" he added.\n\nUkrainian and Russian officials visited the city together on Friday, delivering aid and marshalling those who wanted to leave in a rare show of cooperation between the warring sides.\n\nThe truce, which began early Tuesday, has marked the longest pause in fighting between Russia and Ukraine anywhere on the front line, and comes more than four-and-a-half years into a conflict that has left hundreds of thousands of soldiers and civilians dead.\n\nIt is scheduled to end on Sunday evening.\n\nIn northern Ukraine, friends and relatives of those being evacuated had anxiously awaited their return.\n\nDaryna Goncharova, 40, said earlier she was waiting to see her parents who were trapped in the town.\n\nWhen asked what she would tell them when they arrived, she said: \"That I love them.\"\n\nYelyzaveta Paliy, who was waiting for her father to return, said she never expected him to be gone so long.\n\n\"We last saw him at the end of January 2024, when my sister, mum and I left, and he stayed behind,\" the 19-year-old said.\n\n\"Sadly, two years have already passed, and so far, it's just been an evacuation,\" she said, expressing hope the city could return to Ukrainian control.\n\nCaptured by Russia in 2022, locals in the city had faced food, water and medicine shortages for months, while some were forced to hunt and eat pigeons, former residents told AFP.\n\nAround 2,000 residents — compared with 24,000 before the war began — were still in Oleshky ahead of the humanitarian operation, according to Kyiv's estimates.\n\nNeither Moscow nor Kyiv has specified the number of people evacuated, and authorities in both countries previously indicated that many residents wished to remain in the city, even in the event of renewed fighting.\n\nRussia, which denies targeting civilians, now occupies around a fifth of its neighbour: the Crimean peninsula, which it annexed in 2014, most of the eastern regions of Donetsk and Lugansk — collectively referred to as the Donbas — and large parts of the southern Zaporizhzhia and Kherson regions.\n\nUS-mediated talks between Russia and Ukraine are set to resume in November, having been effectively frozen since the United States and Israel launched joint strikes on Iran in February.\n\nElsewhere in Ukraine, Russia fired more than 100 drones overnight, according to the Ukrainian air force.\n\nThe capital Kyiv was suffering electricity shortages again on Saturday, following Russian strikes on Ukrainian energy infrastructure the day before, private Ukrainian energy provider DTEK said. (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T02:39:36.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876119-20261101.htm"
     },
     {
       "id": "afce9a819a9d3a70",
