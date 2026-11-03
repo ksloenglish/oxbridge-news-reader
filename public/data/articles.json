@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T01:46:36.762Z",
-  "checkedAt": "2026-11-03T02:00:28.581Z",
+  "generatedAt": "2026-11-03T02:15:23.066Z",
+  "checkedAt": "2026-11-03T02:15:23.066Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "4f7df2a503eb6f36",
+      "title": "Oil prices plunge on US-Iran hopes, stocks end mixed",
+      "excerpt": "Oil prices tumbled more than seven percent on Monday, the eve of crucial midterm elections in the United States, as…",
+      "fullText": "Oil prices tumbled more than seven percent on Monday, the eve of crucial midterm elections in the United States, as signals that Tehran and Washington were renewing dialogue boosted hopes of ending the Middle East war.\n\nIran on Monday said \"intensive\" exchanges were underway with Washington and offered to reopen the Strait of Hormuz under strict conditions, as efforts escalated to avert a return to conflict.\n\nEarlier, the Axios news outlet reported that US Vice President JD Vance had sent a letter to Iranian national security chief Mohsen Rezaei about possible new talks.\n\nThat was the highest-level move from US President Donald Trump's administration in months.\n\nAgain Capital's John Kilduff described investors as experiencing \"a violent change in market sentiment,\" adding that \"we went from really, I think, expecting a major offensive after tomorrow's US elections to a potential breakthrough,\" he said.\n\n\"All these losses will be taken right back if this doesn't pan out,\" Kilduff said.\n\nThe steep drop in oil prices translated into weakness among petroleum stocks.\n\nBut Wall Street shares otherwise began the day with promise, bouncing back after last Friday's rout precipitated by worries over the tech industry's massive artificial intelligence spending.\n\nBut tech shares came under pressure as the session progressed, with the tech-focused Nasdaq slumping 1.1 percent.\n\n\"This is still a market that is on edge,\" said Joseph Zidle, chief market strategist at Cresset Capital, who described unease about midterm elections as adding to worries about the AI boom.\n\n\"The two of them are actually related,\" Zidle said of midterms and AI, noting that opposition to data centres has animated many campaigns.\n\nAI has been \"on the ballot in so many places, both blue and red,\" Zidle said.\n\n\"It seems like data centres are part of the kitchen table issues.\"\n\nPollsters expect Democrats to win back control of the House of Representatives, but view Trump's Republican Party as potentially able to maintain a majority in the Senate.\n\nThe loss of total Republican dominance would push the president into unfamiliar and uncomfortable territory: a lame duck period beset with high inflation at home, the sputtering war against Iran and hostile Democratic investigations into his activities in Washington.\n\n\"Investors are bracing for a fresh round of turbulence ahead of US midterm election fireworks while they assess the extent that companies are burning through cash to keep the AI bonfires burning,\" said Susannah Streeter, chief investment strategist at Wealth Club.\n\nEarnings this week will come from Apple, which reports after the close of trading on Monday, as well as Advanced Micro Devices and software titan Palantir will be closely watched this week.\n\nShares in Apple fell 1.8 percent.\n\nThe S&P 500 fell 0.5 percent, to 7,541, the Dow rose 0.4 percent, to 51,984, while the Nasdaq fell 1.1 percent, to 25,164. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-03T02:07:55.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876312-20261103.htm"
+    },
     {
       "id": "8dda505e2b7d5c5b",
       "title": "Man arrested over suspected spiked drink",
@@ -1259,17 +1270,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875743-20261029.htm"
-    },
-    {
-      "id": "b77c8a4c3baf5eb8",
-      "title": "HK slips as Korean results raise stakes for AI giants",
-      "excerpt": "Asian shares gave up earlier gains on Thursday as AI-related earnings announcements prompted wildly mixed responses, raising the stakes for…",
-      "fullText": "Asian shares gave up earlier gains on Thursday as AI-related earnings announcements prompted wildly mixed responses, raising the stakes for Amazon and Intel results due later in the day.\n\nIn Hong Kong, the benchmark Hang Seng Index opened down six points, or 0.03 percent, at 23,088.\n\nThe tech index slipped 19 points, or 0.5 percent, to 3,834 while the China Enterprises Index inched down six points, or 0.08 percent, to 7,797.\n\nUp north, the Shanghai Composite Index opened down four points, or 0.13 percent, at 3,676.\n\nThe Shenzhen Component Index fell 94 points, or 0.82 percent, to 11,379 while the ChiNext Index lost 38 points, or 1.46 percent, to open at 2,596.\n\nIn Tokyo, the Nikkei opened 172 points, or 0.27 percent, at 64,126 but regained ground to be 11 points off the pace at one stage before noon.\n\nIn Seoul, the Kospi inched up four points, or 0.08 percent, to open at 6,017, gained ground before slipping into loss territory to the tune of 182 points at one stage before lunch.\n\nThe opening losses for Asian markets came as a hefty cash burn at Alphabet sent its shares 10 percent lower in after-hours trading, wiping nearly US$400 billion off its market value. That drove Nasdaq futures one percent lower. Microsoft, by contrast, beat forecasts with better-than-expected cash flows that lifted its shares by three percent.\n\nOvernight, the US Federal Reserve held interest rates steady as widely expected, but two committee members voted for a hike. Chairman Kevin Warsh struck a more confident note on the inflation outlook during his press conference, sparking a rally in Treasuries.\n\nHowever, the bigger test came from earnings. Samsung Electronics said on Thursday its operating profit rose nearly ninefold to a record high in the third quarter, driven by robust demand for AI chips. Its shares still slid more than four percent.\n\n\"The reason why Alphabet is down is because their traditional revenue service of ad generation has been impacted by the very thing which is the AI boom. So it's causing a mix of results for Google,\" said Jamie Hannah, deputy head of investments at VanEck.\n\n\"Both of Alphabet and Microsoft confirmed that the AI revenue generation is still solid. We saw that through the data centre growth, the cloud services. So that part of the business is solid, which then flows into a lot of the information coming out of Asia with SK Hynix yesterday as well in Korea.\" (Reuters & Xinhua)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T02:52:11.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875741-20261029.htm"
     },
     {
       "id": "2449a28f7441832a",
