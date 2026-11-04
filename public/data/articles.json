@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T02:30:21.529Z",
-  "checkedAt": "2026-11-04T03:00:28.406Z",
+  "generatedAt": "2026-11-04T03:14:33.158Z",
+  "checkedAt": "2026-11-04T03:14:33.158Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rthk-world",
@@ -94,6 +94,39 @@
     }
   ],
   "articles": [
+    {
+      "id": "3078f00ee8d9d5f3",
+      "title": "HK offers businesses growth and capital: FS",
+      "excerpt": "Financial Secretary Paul Chan said Hong Kong is well-placed to provide businesses with both growth opportunities and long-term capital. The…",
+      "fullText": "Financial Secretary Paul Chan said Hong Kong is well-placed to provide businesses with both growth opportunities and long-term capital.\n\nThe finance chief made his remarks on Wednesday during a conversation session with investors on the second day of the Global Financial Leaders' Investment Summit in Central.\n\nChan noted that a company needs different forms of capital at each stage of development to turn its potential into sustained growth.\n\nThis, he said, is exactly where Hong Kong comes into play.\n\n“Under the 'One Country, Two Systems' framework, Hong Kong is closely connected to the Chinese mainland, while a common law legal system, free flow of capital and international networks provide a trusted and familiar environment for global investors to take part in China's enormous growth,” Chan said.\n\n“Here, we already bring together venture capital, private equity, family offices and asset managers, with deep equity and bond markets. Our task is to connect them more closely across the corporate life cycle.”\n\nHe said follow-on fundraising on the Hong Kong Stock Exchange reached HK$570 billion in the first nine months of the year, showing that the city’s market continues to support companies well beyond their initial listings.\n\nChan also said the aim is to expand allocation choices to help investors manage risks and liquidity in support of long-term value creation.\n\nHong Kong will keep raising its market efficiency with faster approvals, streamlined processes and clearer frameworks for new financial products – all without compromising its integrity, he added.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T03:04:42.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876497-20261104.htm"
+    },
+    {
+      "id": "bdf5556dae83a791",
+      "title": "HK's dominance in QS rankings 'not by chance'",
+      "excerpt": "Acting chief executive Eric Chan on Wednesday said Hong Kong would continue to stay at the forefront of education amid…",
+      "fullText": "Acting chief executive Eric Chan on Wednesday said Hong Kong would continue to stay at the forefront of education amid the latest accolades for the city's univiersities.\n\nSpeaking at the World Class University Presidents Forum, he noted that higher education had always served as a cornerstone for the SAR’s success.\n\nThe city is a global hub for education and talent, Chan said, noting that five local institutions took half of top 10 places in the latest QS Asia University Rankings.\n\nThree of them ranked the top five.\n\n“This is not by chance. It is the result of sustained government investment, clear policy direction and hard work of our universities,” he said.\n\n“It reflects our commitment to excellence, openness, academic freedom and institutional autonomy.”\n\nHong Kong, Chan said, would keep expanding its horizon and align with the nation’s development to remain in its leading position.\n\nWith the three university towns at the Northern Metropolis as well as the SAR’s Study in Hong Kong brand, he said the government welcomed people from the mainland and all over the world to pursue their studies here.\n\n“Hong Kong is a bridge between the mainland and the global higher education. We are opening doors for our youth to engage with diverse cultures and cutting-edge ideas,\" Chan said.\n\n\"By nurturing globally-minded innovators, we plant the seeds for a more collaborative and prosperous world.”\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T03:00:28.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876499-20261104.htm"
+    },
+    {
+      "id": "bcff6068dc8caa59",
+      "title": "Hong Kong stocks open lower",
+      "excerpt": "The Hang Seng Index opened lower on Wednesday, dropping 74 points, or 0.32 percent, at 23,451. Mainland stocks opened mixed…",
+      "fullText": "The Hang Seng Index opened lower on Wednesday, dropping 74 points, or 0.32 percent, at 23,451.\n\nMainland stocks opened mixed, with the benchmark Shanghai Composite Index down 0.08 percent at 3,605 and the Shenzhen Component Index 0.17 percent higher at 10,895.\n\nMeanwhile, Japan's Nikkei plummeted more than 3 percent and the US dollar slid, with markets anxiously watching the results of the US midterm elections. (Xinhua/AFP)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T02:46:35.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876500-20261104.htm"
+    },
     {
       "id": "1f35ef2009c33622",
       "title": "Strategy outline signals U.S. is open to engagement with Myanmar military government",
@@ -373,7 +406,7 @@
       "id": "4db1c82176ebe42b",
       "title": "HK eager to help build 'enterprises of tomorrow'",
       "excerpt": "Hong Kong is ambitious about helping create the \"enterprises of tomorrow\", Financial Secretary Paul Chan said on Tuesday in amplifying…",
-      "fullText": "Hong Kong is ambitious about helping create the \"enterprises of tomorrow\", Financial Secretary Paul Chan said on Tuesday in amplifying the pivotal role the Northern Metropolis would play in realising this vision.\n\nThat came as he told investors at the Global Financial Leaders' Investment Summit in Central about the dedication that investors can expect of Hong Kong to strengthening its contribution to innovation.\n\n“Our ambition is not only to finance businesses created elsewhere, but also to help create the enterprises of tomorrow,” Chan said.\n\n“The Northern Metropolis is central to this effort.\n\n\"It will bring universities, research facilities and technology enterprises closer together, linking education, technology and talent more closely with industry.”\n\nThe mega development project in the northern New Territories would, Chan said, serve as a base for closer ties with other Greater Bay Area cities, allowing Hong Kong to draw on their strengths in commercialisation, engineering and advanced manufacturing.\n\nHong Kong was eager to pair promising businesses with capital and partners, as well as give investors trusted pathways into unfamiliar sectors and economies, he added.\n\nHong Kong had, Chan pointed out, also taken steps to widen its connections with various economies and broaden asset classes in various regions.\n\n“In Southeast Asia, we are welcoming more enterprises from Indonesia, Thailand and Malaysia to lease in Hong Kong,” he said.\n\n“In the Middle East, Hong Kong and Saudi Arabia have listed ETFs, tracking each other's markets, giving investors new routes to invest.”\n\n“In Central Asia, Kazakhstan has already tapped Hong Kong's equity and bond markets. We welcome more issuers to raise capital here through listings and bond issuances.”\n\nChan added that Hong Kong would also continue to expand the range of assets and financial services to give investors more options to diversify.\n\nThis, he said, included a central focus on developing a commodity and gold trading ecosystem.\n\nEdited by Tony Sabine",
+      "fullText": "Hong Kong is ambitious about helping create the \"enterprises of tomorrow\", Financial Secretary Paul Chan said on Tuesday in amplifying the pivotal role the Northern Metropolis would play in realising this vision.\n\nThat came as he told investors at the Global Financial Leaders' Investment Summit in Central about the dedication that investors can expect of Hong Kong to strengthening its contribution to innovation.\n\n“Our ambition is not only to finance businesses created elsewhere, but also to help create the enterprises of tomorrow,” Chan said.\n\n“The Northern Metropolis is central to this effort.\n\n\"It will bring universities, research facilities and technology enterprises closer together, linking education, technology and talent more closely with industry.”\n\nThe mega development project in the northern New Territories would, Chan said, serve as a base for closer ties with other Greater Bay Area cities, allowing Hong Kong to draw on their strengths in commercialisation, engineering and advanced manufacturing.\n\nHong Kong was eager to pair promising businesses with capital and partners, as well as give investors trusted pathways into unfamiliar sectors and economies, he added.\n\nHong Kong had, Chan pointed out, also taken steps to widen its connections with various economies and broaden asset classes in various regions.\n\n“In Southeast Asia, we are welcoming more enterprises from Indonesia, Thailand and Malaysia to list in Hong Kong,” he said.\n\n“In the Middle East, Hong Kong and Saudi Arabia have listed ETFs, tracking each other's markets, giving investors new routes to invest.”\n\n“In Central Asia, Kazakhstan has already tapped Hong Kong's equity and bond markets. We welcome more issuers to raise capital here through listings and bond issuances.”\n\nChan added that Hong Kong would also continue to expand the range of assets and financial services to give investors more options to diversify.\n\nThis, he said, included a central focus on developing a commodity and gold trading ecosystem.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-03T08:10:16.000Z",
       "source": "RTHK English — Local",
@@ -761,8 +794,8 @@
       "fullText": "Mainland companies have hailed the city’s annual flagship finance and technology event, saying it offers an opportunity for them to carry out exchanges with potential overseas partners.\n\nSpeaking on the sidelines of the Hong Kong Fintech Week and StartmeupHK on Monday, Liu Yong from the Zhongguancun Fintech Industry Development said this year was their third time participating in the event.\n\nHe said that the SAR’s role as a super connector was crucial for the mainland in setting up shop overseas.\n\n“Hong Kong can fully leverage its strength in international talent. Because in the international aspects, such as accounting standards, Hong Kong itself is an international financial centre – it has a very good foundation and conditions,” he said.\n\nMu Rong from the Greater Bay Area fintech delegation noted that some firms focusing on securities and asset management, which used to adopt a wait-and-see approach, have gradually set up shop in Hong Kong to start doing business overseas.\n\n“Some of these tech companies have started making profits. The orders that they received from overseas customers were even larger than those from the mainland,” she said.\n\n“This shows that Hong Kong fully recognised their technical capabilities.”\n\nMu went on to say that firms that wish to expand to international markets will now team up, rather than go it alone.\n\nWang Yu, who represented a delegation led by the Union of Finance Alumni of Peking University said that more than 30 percent of the firms in their group – particularly those focusing on AI – are determined to expand globally via the SAR.\n\nWang highlighted how Hong Kong’s convenience across various aspects, including culture and language, makes it an ideal platform to go global.\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-11-02T13:17:18.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876275-20261102.htm"
     },
     {
@@ -797,17 +830,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876276-20261102.htm"
-    },
-    {
-      "id": "738c45427ba41f4b",
-      "title": "Evening News on TV32 - Nov 2",
-      "excerpt": "Top stories for Monday, Nov 2, 2026 - John Lee says Hong Kong offers businesses long-term certainty. - The government…",
-      "fullText": "Top stories for Monday, Nov 2, 2026\n\n- John Lee says Hong Kong offers businesses long-term certainty.\n\n- The government says new building project liaison officers will provide one-stop handling of homeowners' enquiries.\n\n- Nine die as a plane crashes into a neighbourhood in Florida.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T12:23:47.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876274-20261102.htm"
     },
     {
       "id": "57de6b3e2afe56cc",
@@ -907,17 +929,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876203-20261102.htm"
-    },
-    {
-      "id": "158f2b4830b83982",
-      "title": "HK, mainland rise as tech fears weigh on Nikkei, Kospi",
-      "excerpt": "Asian share markets mostly slipped on Monday as worries about the sustainability of the AI investment boom loomed over the…",
-      "fullText": "Asian share markets mostly slipped on Monday as worries about the sustainability of the AI investment boom loomed over the tech sector, while the high price of oil limited the safe-haven appeal of sovereign bonds.\n\nIn Hong Kong, the benchmark Hang Seng Index opened up seven points, or 0.03 percent, at 23,301.\n\nThe tech index rose 20 points, or 0.55 percent, to 3,775 while the China enterprises index edged up 14 points, or 0.18 percent, to 7,876.\n\nThe Shanghai Composite Index opened 15 points, or 0.4 percent, higher at 3,614.\n\nThe Shenzhen Component Index was 63 points, or 0.59 percent, up at 10,897 while the ChiNext Index rose 25 points, or 1.05 percent, to 2,439.\n\nIn Tokyo, the Nikkei opened 318 points, or 0.51 percent, lower at 62,972, moved up into positive territory before slipping again to be 215 points lower at one stage before lunch.\n\nIn Seoul, the Kospi opened 92 points, or 1.62 percent, down at 5,637 before regaining ground to be 87 points higher at one stage before noon.\n\nThe mixed openings came as concerns about negative cash flow and the sheer scale of AI capex saw the cost of insuring against corporate defaults blow out last week, while gold hit a one-year low amid talk stressed investors were selling to raise money for margin calls.\n\nAn added wrinkle is the US midterms, with a win by Democrats in either or both houses may result in more political hurdles for data centres.\n\nAdding to the air of unease were withdrawals from Binance as the world's biggest cryptocurrency exchange went back online on Sunday after hackers stole billions from the platform last week.\n\nAll of which raises the stakes for earnings this week with Apple, AMD and Palantir set to report in the wake of Intel's near 29 percent tumble on Friday.\n\nAnalysts at Goldman Sachs expect capex by hyperscalers to almost double to US$800 billion this year, and rise further to US$1.2 trillion in 2027.\n\nAt the same time, they see S&P 500 earnings per share growth of nearly 30 percent in 2026, slowing to 18 percent next year.\n\n\"Earnings results have underscored the fundamental challenge facing equity investors – earnings growth is strong, but it is no longer accelerating,\" wrote Ben Snider, Goldman's chief US equity strategist, in a note.\n\n\"Similarly, Q3 results support our view that AI investment spending will continue to grow but that the growth rate of AI capex is peaking.\"\n\nThe recent retreat in equities provided a reprieve for safe-haven bonds, with investors wondering if a sustained selloff in the stock market could deter the Federal Reserve from hiking interest rates in December.\n\nFutures still imply a 72 percent chance of a quarter-point rate rise, but now only have 55 basis points of total tightening priced in compared to more than 70 basis points a month ago. (Reuters/Xinhua)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T02:57:26.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876201-20261102.htm"
     },
     {
       "id": "450d6567ca5ca2de",
