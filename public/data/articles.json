@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T05:00:27.937Z",
-  "checkedAt": "2026-11-04T05:00:27.937Z",
+  "generatedAt": "2026-11-04T05:15:17.818Z",
+  "checkedAt": "2026-11-04T05:15:17.818Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -722,6 +722,17 @@
       "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_153006_706.html"
     },
     {
+      "id": "3156f31eb1c316e8",
+      "title": "One-stop transit service launched",
+      "excerpt": "Hong Kong International Airport (HKIA) today officially launched its \"Linking the Trunk and Branch, Connecting Urban and Remote\" facilitated transit…",
+      "fullText": "Hong Kong International Airport (HKIA) today officially launched its \"Linking the Trunk and Branch, Connecting Urban and Remote\" facilitated transit service. The first phase rolls out a new network connecting Hangzhou and Wuhan with global destinations via Hong Kong.\n\nOnce fully implemented, Mainland passengers transferring between flights operated by different airlines can enjoy a seamless one-stop service. This includes a single ticket, one-time check-in, and through-checked baggage to the final destination, allowing them to travel worldwide effortlessly.\n\nOverseas passengers will also benefit from reciprocal arrangements to travel easily to various Mainland cities via Hong Kong. Secretary for Transport & Logistics Mable Chan attended the launch ceremony alongside Civil Aviation Administration of China (CAAC) Deputy Administrator Han Jun and Deputy Director of the Third Bureau of the Hong Kong & Macao Work Office of the CPC Central Committee and the Hong Kong & Macao Affairs Office of State Council Wang Jinyu.\n\nIn her speech, Ms Chan described the service as a crucial step in implementing Hong Kong's First Five-Year Plan and integrating into national development. She expressed her gratitude to the CAAC for its support, stating that the initiative highlights Hong Kong's unique role as a global aviation hub that bridges strong Mainland backing with international connectivity.\n\nShe added that the \"Linking the Trunk and Branch, Connecting Urban and Remote\" service enables Hong Kong to align with national network development. By linking the Mainland's \"internal circulation\" network with Hong Kong's \"external circulation\" international network, Hong Kong upgrades from a \"super connector\" to a pivotal point in the country's dual circulation strategy.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_142642_559/images/20261103170859944.jpg",
+      "publishedAt": "2026-11-02T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_142642_559.html"
+    },
+    {
       "id": "31aadb357f2377aa",
       "title": "Growth estimated at 5.2% in Q3",
       "excerpt": "Hong Kong's economy is estimated to have grown 5.2% year on year in the third quarter, up from a 4.2%…",
@@ -995,17 +1006,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876170-20261102.htm"
-    },
-    {
-      "id": "1c7f9b26de8649f7",
-      "title": "CE to visit Beijing, Shanghai",
-      "excerpt": "Chief Executive John Lee will depart for Beijing and Shanghai tomorrow to attend the 29th Beijing-Hong Kong Economic Cooperation Symposium…",
-      "fullText": "Chief Executive John Lee will depart for Beijing and Shanghai tomorrow to attend the 29th Beijing-Hong Kong Economic Cooperation Symposium and the ninth China International Import Expo (CIIE).\n\nMr Lee said that Hong Kong will continue to deepen exchanges and co-operation with the Mainland. By participating in the events, the city aims to leverage its unique role as a \"super connector\" and \"super value-adder\" under the \"one country, two systems\" principle.\n\nHe added that Hong Kong will further consolidate its position as a two-way platform to help Mainland enterprises expand globally while attracting foreign investment. This collaborative approach seeks to explore new economic opportunities for all parties.\n\nMr Lee will meet Beijing officials during his stay in the city and deliver a speech at the symposium’s opening ceremony on Wednesday.\n\nThemed \"Beijing-Hong Kong Together into the 15th Five Year Plan\", this year's symposium focuses on driving deeper practical co-operation. It aims to harness complementary advantages to seize growth opportunities arising from the National 15th Five-Year Plan.\n\nMr Lee will depart for Shanghai later on Wednesday. He will attend the opening ceremony of the ninth CIIE and the Hongqiao International Economic Forum on Thursday.\n\nThe Chief Executive is scheduled to visit the Hong Kong exhibition area and address a sub-forum at the event. He will also hold meetings with Shanghai officials to further strengthen Shanghai-Hong Kong co-operation.\n\nMr Lee will return to Hong Kong on Friday. Chief Secretary Chan Kwok-ki will serve as Acting Chief Executive during his absence.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261102/20261102_121618_093/images/20261102132757432.jpg",
-      "publishedAt": "2026-11-01T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261102/20261102_121618_093.html"
     },
     {
       "id": "2215545d043af868",
