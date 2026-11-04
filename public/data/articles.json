@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T14:30:24.123Z",
-  "checkedAt": "2026-11-04T14:30:24.123Z",
+  "generatedAt": "2026-11-04T14:45:18.234Z",
+  "checkedAt": "2026-11-04T14:45:18.234Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -502,6 +502,17 @@
       "link": "https://www.news.gov.hk/eng/2026/11/20261104/20261104_181944_819.html"
     },
     {
+      "id": "d4192ce1680a8a42",
+      "title": "Festival of Connoisseurs opens",
+      "excerpt": "A new premium lifestyle-focused international exhibition, The Festival of Connoisseurs, opened at AsiaWorld-Expo today, with Financial Secretary Paul Chan and…",
+      "fullText": "A new premium lifestyle-focused international exhibition, The Festival of Connoisseurs, opened at AsiaWorld-Expo today, with Financial Secretary Paul Chan and Secretary for Commerce & Economic Development Algernon attending the launch.\n\nAddressing the opening ceremony, Mr Chan remarked that the event brings together exquisite craftsmanship and innovative ideas.\n\nHe said that Hong Kong, leveraging its role as a \"super connector\" and its unique advantages – such as its free flow of capital, goods, talent and information, its simple and low tax regime, and its position as the gateway to the Greater Bay Area – provides an ideal platform for international brands to showcase quality products, expand their customer base, build partnerships and explore new business opportunities.\n\nMr Chan highlighted that the Government earmarked $100 million in this year's Budget to attract high-quality, large-scale international exhibitions to Hong Kong, adding that this week's festival is the first exhibition to be funded under the initiative.\n\n“The Government will continue to consolidate Hong Kong's position as an international trade centre and world-class convention and exhibition hub, support brands to expand their markets and bring richer experience to visitors,” he said.\n\nInstead of adopting the traditional indoor-only, single-venue format, the exhibition, organised by Informa Markets, extends beyond indoor exhibition halls to outdoor venues showcasing items such as superyachts and supercars from the Chinese Mainland and around the globe. Offering new brand experiences, it has attracted a large number of premium exhibitors, buyers and visitors both from the Mainland and overseas.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261104/20261104_200055_735/images/20261104214041777.jpg",
+      "publishedAt": "2026-11-03T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261104/20261104_200055_735.html"
+    },
+    {
       "id": "e5c7d448dbef211a",
       "title": "Top Uni presidents forum opens",
       "excerpt": "The World Class University Presidents Forum 2026 opened today on the Hong Kong University of Science and Technology campus. The…",
@@ -929,17 +940,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_165222_094.html"
-    },
-    {
-      "id": "b6571d8df6bc672b",
-      "title": "Removal of Winnie Ho approved",
-      "excerpt": "The Central People's Government has approved the removal of Winnie Ho from her post as Secretary for Housing, following a…",
-      "fullText": "The Central People's Government has approved the removal of Winnie Ho from her post as Secretary for Housing, following a recommendation by Hong Kong Special Administrative Region Chief Executive John Lee. The announcement was made in accordance with the relevant provisions of the Basic Law of the Hong Kong SAR of the People's Republic of China.\n\nMr Lee noted that Ms Ho tendered her resignation last Wednesday to assume political accountability for the Wang Fuk Court fire.\n\nMs Ho joined the Government in 1992 and was appointed Director of Architectural Services in 2020. She assumed the role of Secretary for Housing in 2022, becoming a principal official of the sixth-term of the Hong Kong SAR Government.\n\nThe Chief Executive commended Ms Ho for her dedication to implementing his key housing directives. These included the construction of around 30,000 Light Public Housing units and successfully shortening the Composite Waiting Time for Subsidised Rental Housing from 6.1 years to 4.8 years.\n\nMr Lee also praised her for effectively combating the abuse of public rental housing and enacting the Basic Housing Units Ordinance to phase out substandard subdivided residential units in an orderly manner.\n\nAs Ms Ho officially leaves office today, Mr Lee wishes her good health and the very best in her future endeavours.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_111449_986/images/20261103123116024.JPG",
-      "publishedAt": "2026-11-02T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_111449_986.html"
     },
     {
       "id": "ceaa04ccd7f3ca34",
