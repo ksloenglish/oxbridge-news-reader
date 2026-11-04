@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T12:45:21.224Z",
-  "checkedAt": "2026-11-04T12:45:21.224Z",
+  "generatedAt": "2026-11-04T13:00:30.480Z",
+  "checkedAt": "2026-11-04T13:00:30.480Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 10
+      "articleCount": 11
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "3c0346d81a617ddf",
+      "title": "Evening News on TV32 - Nov 4",
+      "excerpt": "Top stories for Wednesday, Nov 4, 2026 - Americans reject Donald Trump's Republicans with Democrats taking control of Congress. -…",
+      "fullText": "Top stories for Wednesday, Nov 4, 2026\n\n- Americans reject Donald Trump's Republicans with Democrats taking control of Congress.\n\n- Eric Chan says it's not by chance that Hong Kong has done well in a ranking of Asian universities.\n\n- CE urges closer ties with the city of Beijing.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T12:47:44.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876576-20261104.htm"
+    },
+    {
+      "id": "d96e0da8a27786b8",
+      "title": "Climate adaptation aid must rise tenfold: UN",
+      "excerpt": "Developing countries will need US$305 billion a year by 2035 to adapt to a worsening climate crisis, nearly 10 times…",
+      "fullText": "Developing countries will need US$305 billion a year by 2035 to adapt to a worsening climate crisis, nearly 10 times what they currently receive from wealthy nations, a new UN report said on Wednesday.\n\nClimate finance is set to be a hot-button issue again when negotiators from nearly 200 countries gather at the UN's Cop31 climate summit in Antalya, Turkiye, from November 9 to 20.\n\nUnder UN climate agreements, developed countries, which are historically responsible for most greenhouse gas emissions, are expected to financially help developing nations adapt to climate impacts and transition to cleaner sources of energy.\n\nAdaptation finance is aimed at protecting countries from a changing climate, with measures ranging from building sea walls and levees to planting drought-resistant crops or making homes more resilient to natural disasters.\n\n\"The latest Adaptation Gap Report exposes a staggering shortfall. For every dollar developing countries need to adapt, they receive just 10 cents,\" UN Secretary-General Antonio Guterres said.\n\n\"We know who is most at risk. We know what works. What is missing is the money – and the political will. The choice is simple: invest in adaptation today – or pay for catastrophe tomorrow,\" he said.\n\nThe report – titled \"Ready? Not.\" – estimates the needs of developing countries for adaptation at US$305 billion per year by 2035.\n\nDeveloped countries provided between US$28.2 billion and US$31.7 billion in 2024, only a modest increase from the previous year.\n\nThe figures fell short of a commitment made at Cop26 in Glasgow in 2021 to double adaptation finance from 2019 levels by 2025, to reach US$40 billion annually.\n\nAt Cop30 in Brazil last year, countries adopted a final agreement that included a call for efforts to triple adaptation finance by 2035.\n\nBut UNEP's report said the tripling \"is less ambitious than it first appears\" as the funds would increase to somewhere between US$85 billion and US$120 billion per year, depending on how the Cop30 decision is interpreted.\n\nEven if the Cop30 aspiration is achieved, it would only cover 20 to 29 percent of what is needed to deal with intensifying climate impacts, UNEP said.\n\nThe report said 2026 provided \"stark reminders\" that climate change affects everyone, from extreme heat and wildfires in Europe to the catastrophic glacial flooding in Nepal.\n\nThe UNEP has also warned that global efforts have fallen short of preventing temperatures from exceeding 1.5 degrees Celsius above pre-industrial levels, the more ambitious limit set by the 2015 Paris Agreement to avert the worst impacts of climate change.\n\n\"The world is not ready to adapt to current climatic conditions, never mind what overshoot of 1.5C will bring,\" UNEP Executive Director Inger Andersen said in a statement.\n\nAndersen urged countries at Cop31 to focus on intensifying efforts to triple adaptation finance by 2035, \"while understanding that they will need to go even higher to save lives, avoid losses and damages and protect economies\". (AFP)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T12:32:40.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876574-20261104.htm"
+    },
     {
       "id": "725fa321b5f08310",
       "title": "HK, mainland stocks post gains",
@@ -403,6 +425,17 @@
       "link": "https://www.news.gov.hk/eng/2026/11/20261104/20261104_160643_629.html"
     },
     {
+      "id": "c2c773c67fd552f3",
+      "title": "Crypto reporting tax bill passed",
+      "excerpt": "The Government today welcomed the passage of the Inland Revenue (Amendment) (Crypto-Asset Reporting Framework & Amended Common Reporting Standard) Bill…",
+      "fullText": "The Government today welcomed the passage of the Inland Revenue (Amendment) (Crypto-Asset Reporting Framework & Amended Common Reporting Standard) Bill 2026 by the Legislative Council.\n\nThe bill aims to implement, in Hong Kong, the Crypto-Asset Reporting Framework (CARF) and the latest amendments to the Common Reporting Standard (CRS) developed by the Organisation for Economic Co-operation & Development (OECD).\n\nIn light of the rapid development of digital asset markets in recent years, the OECD published CARF in 2023 to provide for the automatic exchange of tax information on crypto-asset transactions with partner jurisdictions on an annual basis, and amended the CRS to cover digital financial products and enhance requirements regarding reporting and due diligence.\n\nSecretary for Financial Services & the Treasury Christopher Hui said that implementing the latest international standards for the automatic exchange of information on tax matters is crucial to maintaining Hong Kong's reputation as an international financial and commercial centre.\n\nMr Hui added that aligning with the latest standards will reinforce the confidence of crypto-asset service providers, financial institutions and digital asset users in operating and making long-term investments in Hong Kong.\n\nCARF will be implemented in Hong Kong next year when relevant service providers will be required to collect the information specified under the framework, allowing the Inland Revenue Department to exchange this information with partner jurisdictions, starting from 2028.\n\nThe amended CRS will also take effect in 2028, and the Inland Revenue Department will automatically exchange financial account information with suitable partners in accordance with the new standard starting from 2029. Hong Kong will conduct exchanges of information on a reciprocal basis and on the premise of data confidentiality and security.\n\nTo assist the industry in adapting to the new requirements and to enhance tax certainty, the department will issue relevant guidance and has set up a dedicated team to provide technical support to the industry and address enquiries from it.\n\nSince 2018, Hong Kong has conducted automatic exchanges of financial account information with partner jurisdictions annually in accordance with the CRS, thereby helping tax authorities to detect and combat tax evasion.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261104/20261104_181944_819/images/20261104193036963.jpg",
+      "publishedAt": "2026-11-03T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261104/20261104_181944_819.html"
+    },
+    {
       "id": "e5c7d448dbef211a",
       "title": "Top Uni presidents forum opens",
       "excerpt": "The World Class University Presidents Forum 2026 opened today on the Hong Kong University of Science and Technology campus. The…",
@@ -662,8 +695,8 @@
       "fullText": "Hong Kong can offer certainty, clarity and confidence to global investors at a time when structural forces are rewriting the rules of global finance, Chief Executive John Lee said on Tuesday.\n\nHe was speaking in Central at the Global Financial Leaders' Investment Summit, which gathered some 280 of the sector's leaders from around the world.\n\nWhile blockchain and tokenisation were rebuilding the world's financial infrastructure, and AI was reshaping productivity, labour markets and competition, Lee noted that Hong Kong’s first five-year blueprint had set out clear developmental directions.\n\n“The plan delivers what markets value most: certainty,” he said.\n\n“In an era of ever-shifting terrain, it lays out a transparent roadmap, showing where Hong Kong is heading and how we intend to get there. I invite you to consider that roadmap yours as well.\n\n“And to be clear, as we rethink the playbook, as we create strategic blueprints for Hong Kong's development, we ensure the value proposition of our city remains intact – that is our competitive edge under the ‘One Country, Two Systems’ principle.”\n\nLee added that he would be attending the Apec Economic Leaders’ Meeting in Shenzhen this month with the goal of advancing regional economic cooperation.\n\nMeanwhile, Vice Premier He Lifeng said Hong Kong’s development had always been in sync with the nation, adding that ensuring the sound development of the SAR had been a key strategic consideration of the central government.\n\nDelivering a speech to summit through video, he urged the SAR to leverage its advantages under \"One Country, Two Systems\".\n\n\"Further demonstrating its international characteristics, Hong Kong will continuously deepen and expand exchanges and cooperation with the world in areas such as the economy, technology, and culture,\" He said.\n\n\"It will provide greater convenience and better opportunities for more international capital, institutions, and talent to come to Hong Kong for entrepreneurship and development.\n\n\"We will, as always, fully support Hong Kong in maintaining its unique status and advantages over the long term, build a higher-level, more competitive free and open economic environment, and create broader space for future development.\"\n\nHe also expressed the central government’s confidence in the SAR’s five-year blueprint to develop Hong Kong.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-03T04:12:11.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876360-20261103.htm"
     },
     {
@@ -764,17 +797,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876298-20261103.htm"
-    },
-    {
-      "id": "b520f4c93ec6213d",
-      "title": "UN reports warn of large-scale damage to Earth's ice",
-      "excerpt": "Exceeding 1.5C of global warming will have \"irreversible\" consequences for glaciers, sea ice and the Earth's frozen regions, two UN…",
-      "fullText": "Exceeding 1.5C of global warming will have \"irreversible\" consequences for glaciers, sea ice and the Earth's frozen regions, two UN reports warned on Monday, calling for urgent action.\n\nThe landmark 2015 Paris Agreement commits the world to limiting warming to well below 2C and pursuing efforts to hold it at 1.5C to try to avoid the worst effects of climate change.\n\nOne of the reports said overshooting the 1.5C target \"will bring large-scale and in many cases irreversible impacts\" for the cryosphere – Earth's ice in all its forms.\n\nMelting of glaciers and sea ice, the thawing of permafrost and the accelerating rise in sea levels, will have widespread repercussions, from flooding to water shortages.\n\nSome of the effects of the rise in temperature are already visible, such as the 20-percent loss in glacial mass in Switzerland.\n\nBut even if the 1.5C target remains relevant, it is already too high for the cryosphere, as current levels of warming were \"already unsafe\" for the Arctic, Antarctic, mountain glaciers and polar oceans, the UN warned.\n\n\"Although returning to 1.5 C will slow ice loss, a truly 'safe' temperature for Earth's ice is now thought to be closer to 1C or even below over the coming centuries,\" it added.\n\nGlobal warming has already reached 1.37C above pre-industrial levels and according to the European Copernicus network, the 1.5C threshold could be exceeded around 2030.\n\n\"There are no good outcomes in exceeding 1.5C,\" said glaciologist James Kirkham, lead author of one of the reports, entitled \"Overshoot and the Cryosphere,\" which was written with 80 scientists.\n\n\"To contain the global fallout and damage from ice loss in the world's polar and mountain regions, overshoot needs to be kept to the absolute minimum,\" he said.\n\n\"Every extra fraction of a degree and every year spent in overshoot means more devastating impacts.\"\n\nScientists warn in particular about the risks of crossing certain tipping points and say that, even if temperatures were to return to below the 1.5C threshold, recovery would be very slow.\n\nReducing warming to under 1.5C and even 1C could see some glaciers partially regenerate, while there could also be benefits for sea ice.\n\nBut Matthew England, an oceanographer and climatologist at the University of New South Wales in Australia, said recovery could take \"decades to centuries.\"\n\nThe second report – \"State of the Cryosphere 2026. The Cost of Overshoot\" – shows that exceeding 2.8C into the next century would have significant consequences.\n\nSea levels could rise by up to five centimetres a year by 2150, compared to the current 0.45 centimetres while the thawing of permafrost could release as much carbon dioxide each year as the United States, the world's second-largest polluter.\n\nA worst-case but not-so-improbable scenario is that the world is heading towards warming of 2.6C by 2100 even if countries meet their climate commitments.\n\n\"Temporarily exceeding 1.5C does not mean that the goals of the Paris Agreement are irrelevant but instead makes them more urgent,\" argued Kirkham.\n\n\"Returning to 1.5C or below by 2100 remains possible with sufficient political ambition and urgency, specifically by speeding the transition away from fossil fuel use to reach net zero by mid-century,\" he said.\n\n\"Such urgent action can prevent and even reverse some cryosphere loss.\"\n\nGunjan Silwal, a Nepali glacier researcher, said decisions made in the next few years \"will lock in the scale of the damage,\" warning that August's mountain and glacier collapse that killed more than 1,400 and left over 5,000 missing, was \"only a foretaste.\" (AFP)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T20:29:11.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876296-20261103.htm"
     },
     {
       "id": "43988feebac4c430",
@@ -1061,17 +1083,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876170-20261102.htm"
-    },
-    {
-      "id": "d3d149d4c9710fd0",
-      "title": "Legal Week kicks off",
-      "excerpt": "Hong Kong Legal Week 2026, themed “Collaboration & Innovation: Legal Synergy for a Shared Future” began today. An annual flagship…",
-      "fullText": "Hong Kong Legal Week 2026, themed “Collaboration & Innovation: Legal Synergy for a Shared Future” began today.\n\nAn annual flagship event for the legal sector organised by the Department of Justice (DoJ) Legal Week 2026 brings together legal professionals, business leaders, policymakers, academics and leading international legal organisations from Hong Kong and around the world to have in-depth discussions and exchanges on forward-looking issues such as regional legal co-operation, international dispute resolution and lawtech.\n\nMarking the centenary celebration of the International Institute for the Unification of Private Law (UNIDROIT) and the 60th anniversary of the United Nations Commission on International Trade Law (UNCITRAL), both leading international legal organisations will hold celebratory events during Legal Week, making this year's programme particularly significant.\n\nUNIDROIT Centenary: Regional Conference for Asia-Pacific and Opening Ceremony of the Asia-Pacific Liaison Office was held as the opening event of this year's Legal Week.\n\nThe opening ceremony was officiated by Chief Executive John Lee, Commissioner of the Ministry of Foreign Affairs of the People's Republic of China in the Hong Kong Special Administrative Region Cui Jianchun, President of UNIDROIT Prof Enzo Moavero-Milanesi, Secretary-General of UNIDROIT Prof Ignacio Tirado and Secretary for Justice Paul Lam.\n\nWith the support of the central government, the DoJ has successfully secured the establishment of UNIDROIT's first office outside its seat in Rome in its 100 years of history, demonstrating Hong Kong's leading role as an international legal hub.\n\nIn his welcome remarks, Mr Lee said that today marks a double celebration, commemorating UNIDROIT's centenary and witnessing the opening of a new chapter for UNIDROIT – the establishment of its Asia-Pacific Liaison Office in Hong Kong. He noted that as a renowned international legal, trade and financial hub, Hong Kong strives to attract global organisations and talent, enable international legal co-operation and position Hong Kong as a super connector and super value-adder for East and West.\n\nMr Lee noted that by setting up a liaison office in Hong Kong, UNIDROIT not only enjoys benefits from co-operation with other partner organisations in the city, but also benefits from the network established by the Hong Kong International Legal Talents Training Academy to promote capacity building in the region. The establishment of the office is a symbol of the collective ambition to build a more harmonious and prosperous future for the Asia-Pacific and beyond.\n\nDirector-General of the Department of Treaty & Law, Ministry of Commerce of the People's Republic of China Yu Ning said in her video speech that UNIDROIT setting up a liaison office in Hong Kong reflects the international community's high regard for Hong Kong and marks a significant achievement in the city's continuous effort in building itself as an international legal centre.\n\nShe said that in recent years, the Hong Kong SAR has continued to strengthen its exchanges and co-operation with UNIDROIT under the framework of “one country, two systems”, further showcasing to the world its strengths including its robust common law system, well-established judicial system and extensive pool of international legal talent.\n\nDelivering his opening remarks, Mr Lam said that Hong Kong's relationship with UNIDROIT is longstanding. The establishment of the liaison office in Hong Kong will take the city's relationship with UNIDROIT to the next level, and will provide a stable and effective platform in the Asia-Pacific region to facilitate the development of international private law.\n\nHe noted that the presence of the three major private international law organisations at the Hong Kong legal hub, namely the UNIDROIT Asia-Pacific Liaison Office, the Regional Office for Asia and the Pacific of the Hague Conference on Private International Law, and the DoJ Project Office for Collaboration with United Nations Commission on International Trade Law, together with the International Organization for Mediation, the Asian African Legal Consultative Organization Hong Kong Regional Arbitration Centre and other international institutions, will create synergy.\n\nThe Regional Conference for the Asia-Pacific in celebration of UNIDROIT's centenary came right after the opening ceremony. More than 700 registrations from more than 40 countries or regions gathered to review UNIDROIT's achievements of a century in modernising and harmonising private law, and to explore how it can continue to foster regional development in its next century.\n\nDeputy Secretary for Justice Cheung Kwok-kwan said in his closing remarks that UNIDROIT opening its first ever overseas office in Hong Kong fully reflects the international community's vote of confidence in Hong Kong's legal system.\n\nHe pointed out that the Liaison Office will serve not only as a platform for dialogue with governments on the development and implementation of its instruments, but also as a hub for collaboration with academia, arbitral and mediation institutions, financial institutions and other key stakeholders.\n\nThe 3rd Asia-Pacific International Private Law Summit will be held tomorrow. Other events during Legal Week include the celebration event of UNCITRAL's 60th anniversary to be held on November 4, the Fourth Legal Forum on Interconnectivity and Development and the Hong Kong Mediation Lecture 2026 on November 5, as well as the Second Guangdong - Hong Kong - Macao Greater Bay Area Lawyers Forum on November 6.\n\nAdditionally, the three-day Hong Kong LawTech Fest 2026 will begin on Wednesday.\n\nClick here for details of the event.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261102/20261102_211608_935/images/20261102231315140.jpg",
-      "publishedAt": "2026-11-01T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261102/20261102_211608_935.html"
     },
     {
       "id": "8aff0663bb9ea2e2",
