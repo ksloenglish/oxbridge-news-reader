@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T09:00:28.908Z",
-  "checkedAt": "2026-11-04T09:03:41.426Z",
+  "generatedAt": "2026-11-04T09:15:18.739Z",
+  "checkedAt": "2026-11-04T09:15:18.739Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "31183ca7b0420ffe",
+      "title": "Singapore to tighten law in fight against haze",
+      "excerpt": "Singapore's parliament moved on Wednesday to toughen its anti-haze law with arrest powers, bigger fines and potential restrictions on companies…",
+      "fullText": "Singapore's parliament moved on Wednesday to toughen its anti-haze law with arrest powers, bigger fines and potential restrictions on companies linked to transboundary air pollution from wildfires.\n\nThe proposed changes, which are expected to pass easily, come after weeks of air pollution from fires in neighbouring Indonesia angered Singaporeans and sparked calls for action.\n\n\"We need better ways to obtain and verify information, trace complex corporate relationships and impose meaningful consequences on errant entities,\" Minister for Sustainability and the Environment Grace Fu said.\n\n\"We also need to be able to intervene earlier before haze pollution reaches Singapore. We therefore have to strengthen our laws, and we must act quickly.\"\n\nSingapore enacted a Transboundary Haze Pollution Act in 2014, but enforcement has been stymied by jurisdictional barriers and challenges obtaining evidence from overseas.\n\nThe government came under pressure to toughen up existing measures after thick haze from fires burning in Indonesia's Sumatra and Borneo drifted across the region.\n\nThe proposed changes would make offences under the law arrestable, and allow courts to try defendants in their absence if they are overseas or unreachable.\n\nFines would increase tenfold to nearly US$800,000 a day for companies deemed non-compliant, with the ceiling on fines rising to over US$15.6 million.\n\nThe government would also have powers to force companies to appoint independent assessors at their expense to investigate fires, business operations and corporate relationships.\n\nAssessors would be approved by the government and submit findings to officials for potential further action.\n\nAppointing an assessor would not imply wrongdoing, but be a way to determine possible links to fires.\n\nThe changes would also allow authorities to impose restrictions on designated companies, including limiting financial services.\n\nCompanies blaming third parties for fires affecting their land would also have to demonstrate they took reasonable steps to prevent and fight the blazes.\n\nThe changes are certified as urgent, allowing them to be debated and voted on quickly, and they are expected to easily pass by the legislature dominated by the ruling People's Action Party.\n\nUnder existing legislation, Singapore has already issued warnings to 10 companies telling them to deploy firefighters, stop burning and submit action plans.\n\nFires in Indonesia burned through over 1.9 million hectares between January and the end of September, most of it in recent months, according to the Nusantara Atlas monitor.\n\nThe fires have been driven in part by drought linked to a strong El Niño phenomenon, but are also caused by longstanding deforestation and drying of peatland, experts say. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T08:50:29.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876547-20261104.htm"
+    },
     {
       "id": "8eae40ac30188951",
       "title": "China 'will continue working with US' after midterms",
@@ -852,17 +863,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_202948_140.html"
-    },
-    {
-      "id": "6172f9a0a83faf11",
-      "title": "New fridge cyberattack hits Belgium stores",
-      "excerpt": "Dozens of Belgian grocery stores and an Ikea superstore saw their refrigerator temperatures soar on Monday, with several of the…",
-      "fullText": "Dozens of Belgian grocery stores and an Ikea superstore saw their refrigerator temperatures soar on Monday, with several of the firms involved confirming they had been hit by a cyberattack.\n\nIt is the latest in a series of cyberattacks on store refrigerators and suspicious actions around the supermarkets across Europe.\n\nA handful of Swedish supermarkets saw temperatures in their refrigerators and freezers soar early on Monday, Swedish chains Ica and Coop said without giving a cause. Major French retailers said on October 12 that hundreds of store refrigeration systems were hit by a cyberattack, which forced them to throw out spoiled food and raised food security fears.\n\nCarrefour Belgium reported disruption in about 15 of its 700 stores in Belgium. \"It's a cyberattack, there is no other reason,\" said Mich Vergauwen, a spokesman for Carrefour Belgium.\n\nAn Ikea Belgium spokeswoman likewise said a cyberattack hit its store in Mons, southwestern Belgium, causing the temperature of freezers to rise suddenly in the early hours of Monday.\n\nIt is the only Ikea store affected because it uses a different service provider than others in Belgium, the spokeswoman added, without identifying the provider.\n\nThe Delhaize supermarket chain meanwhile said refrigeration systems in \"dozens\" of its stores were affected by an IT incident.\n\nThe Colruyt and Intermarche supermarket chains likewise said they had been hit by technical problems affecting fridges in five and around 15 stores respectively, without confirming if a cyberattack was suspected.\n\n\"In some cases, it involved only a single refrigerator, so the impact was quite limited,\" an Intermarche spokesman said, adding that the incidents took place overnight Sunday-to-Monday.\n\nThe issue is not limited to Belgium.\n\nThe Swedish chains ICA and Coop said they were looking into the cause of their temperature soars that forced them to throw away food.\n\nOne ICA store at Sjobo in southern Sweden, posted on Facebook, however, that its fridges and freezers had \"been hacked and they set the temperature at 50 degrees\" Celsius.\n\nMore than 500 supermarkets were targeted in the French attack on October 12. The equipment was provided by Danish company, Danfoss. (AFP)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T14:21:12.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876283-20261102.htm"
     },
     {
       "id": "047ce1f8035e1ef7",
