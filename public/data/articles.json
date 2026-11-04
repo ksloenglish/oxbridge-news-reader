@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T14:45:18.234Z",
-  "checkedAt": "2026-11-04T15:30:34.034Z",
+  "generatedAt": "2026-11-04T15:45:19.213Z",
+  "checkedAt": "2026-11-04T15:45:19.213Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -469,6 +469,17 @@
       "link": "https://www.news.gov.hk/eng/2026/11/20261104/20261104_181121_677.html"
     },
     {
+      "id": "3b70538aeed5191b",
+      "title": "UNCITRAL anniversary event held",
+      "excerpt": "A 60th anniversary celebration event for the United Nations Commission on International Trade Law (UNCITRAL) was held today as part…",
+      "fullText": "A 60th anniversary celebration event for the United Nations Commission on International Trade Law (UNCITRAL) was held today as part of Hong Kong Legal Week 2026.\n\nOver 700 people from more than 40 jurisdictions attended the event, reflecting on UNCITRAL's achievements in fostering the progressive harmonisation, unification and modernisation of international trade law over the past six decades, and how UNCITRAL can further support cross-boundary commerce in the digital era.\n\nThe event featured discussions of UNCITRAL's contribution to the international transport of goods and trade finance, and the challenges and opportunities facing global commerce in an increasingly paperless and digital ecosystem.\n\nDelivering welcome remarks, Secretary for Justice Paul Lam said UNCITRAL's contribution to the international transport of goods in the digital economy is not just about legal texts, but also its role in reducing trade barriers, ensuring interoperability, and creating a legally certain digital ecosystem for global commerce.\n\nMr Lam stressed that as an international trade centre, Hong Kong has shown its commitment to promoting the development of digital trade by including introducing legislative amendments that foster trade, and fostering collaboration between the Hong Kong International Legal Talents Training Academy and UNCITRAL to strengthen exchanges and talent training.\n\nSecretary of UNCITRAL Anna Joubin-Bret thanked the Hong Kong Special Administrative Region for its continuous support for UNCITRAL's work.\n\nAt the conference, Secretary-General of the International Organization for Mediation Prof Teresa Cheng delivered a keynote speech on the contribution of Hong Kong towards advancing the rule of law in international trade and commerce.\n\nAcross four panel discussion sessions, experts with extensive knowledge of international trade discussed UNCITRAL's current initiatives and the future development of international trade.\n\nDelivering closing remarks, Deputy Secretary for Justice Cheung Kwok-kwan said that the insights shared by experts from the judicial, legal and public policy sectors during the panel discussions reflect UNCITRAL's enduring contribution to the international transport of goods. He stressed that international co-operation is the bedrock of promoting a seamless global trading system.\n\nMr Cheung added that, looking forward, different parties should embrace digitalisation and promote legal harmonisation together.\n\nThe three-day Hong Kong LawTech Fest also began today. The LawTech Forum, the festival's highlight event, will be held tomorrow. Click here for details.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261104/20261104_202439_930/images/20261104225733339.jpg",
+      "publishedAt": "2026-11-03T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261104/20261104_202439_930.html"
+    },
+    {
       "id": "a8187354e2da120a",
       "title": "Commerce chief joins APEC e-meet",
       "excerpt": "Secretary for Commerce & Economic Development Algernon Yau attended the video conference of the 37th Asia-Pacific Economic Cooperation (APEC) ministerial…",
@@ -896,17 +907,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_164936_634.html"
-    },
-    {
-      "id": "58b5fb3e0815979b",
-      "title": "LawTech funding scheme launched",
-      "excerpt": "The Department of Justice (DoJ) today officially launched the Funding Scheme for LawTech Solution Subscription by the Hong Kong Legal…",
-      "fullText": "The Department of Justice (DoJ) today officially launched the Funding Scheme for LawTech Solution Subscription by the Hong Kong Legal Sector, aiming to boost the local legal sector’s technological capability and fortify the city’s status as an international legal and dispute resolution hub.\n\nThe scheme is a policy initiative under the Chief Executive's 2026 Policy Address. It will be jointly managed by the Hong Kong Bar Association and the Law Society of Hong Kong , which will handle applications and disburse funds.\n\nApplications are open from today until January 29, 2027. Eligible applicants include sole practitioners, Hong Kong law firms with no more than five partners, and barristers with no more than seven years of call.\n\nDeputy Secretary for Justice and Chairman of the Consultation Group on LawTech Development Cheung Kwok-kwan stated that promoting LawTech is a core DoJ policy initiative. He noted that since last year, the DoJ has hosted five rounds of the LexGoTech Roundtables to gather feedback from practitioners, academics and stakeholders.\n\nHe added that the DoJ is aware that small and medium-sized law firms, as well as junior barristers, are particularly concerned about the financial burden of adopting LawTech tools. The scheme is launched to directly respond to the industry’s needs.\n\nHe pointed out that small and medium-sized law firms account for about 88% of all law firms in Hong Kong, while junior barristers with less than seven years of call make up about one-third of the total practicing bar. The scheme will lower the barrier to entry and enhance the overall competitiveness of Hong Kong's legal sector.\n\nOperating on an actual-expense reimbursement basis, the scheme provides up to $20,000 per applicant for a one-year subscription. Applicants can choose from a designated list of 14 local, Mainland and overseas providers covering legal research, document drafting, workflow management and hearing support.\n\nTo ensure effectiveness, these service providers will offer transparent pricing alongside technical support and training. The application process consists of four steps.\n\nFirst, applicants must select a provider from the designated list and obtain a written price quotation. Second, they will submit their application to either the Hong Kong Bar Association or the Law Society of Hong Kong.\n\nThird, the relevant body will issue a written result, after which successful applicants can subscribe to their chosen service. Finally, applicants submit proof of subscription and payment to their respective professional body to claim reimbursement.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_113941_609/images/20261103131121196.jpg",
-      "publishedAt": "2026-11-02T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_113941_609.html"
     },
     {
       "id": "838bf185f0a99ca1",
