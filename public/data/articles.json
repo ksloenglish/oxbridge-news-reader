@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T09:31:25.956Z",
-  "checkedAt": "2026-11-04T09:31:25.956Z",
+  "generatedAt": "2026-11-04T09:45:17.482Z",
+  "checkedAt": "2026-11-04T09:45:17.482Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "725fa321b5f08310",
+      "title": "HK, mainland stocks post gains",
+      "excerpt": "Stock markets mostly rose on Wednesday as investors assessed the impact of a Democratic sweep of the US Congress that…",
+      "fullText": "Stock markets mostly rose on Wednesday as investors assessed the impact of a Democratic sweep of the US Congress that dealt a blow to Donald Trump's economic agenda as he heads into his final two years as president.\n\nIn Hong Kong, the Hang Seng Index gained ground for the fourth straight day, putting on 393 points or 1.67 percent to 23,919.\n\nMainland shares climbed as well, with the benchmark Shanghai Composite Index up 2.16 percent to 3,686 and the Shenzhen Component Index surging 4.22 percent to 11,335.\n\nAcross the region, the Nikkei in Japan fell 1.42 percent to 62,188, dragged down by tech stocks, whereas the South Korean Kospi finished 0.62 percent higher at 5,683.\n\nThe prospect of Congress coming to a standstill weighed on the US dollar and Treasury yields, with observers pointing out that such a scenario would restrict spending.\n\n\"Democratic control of Congress will make it harder for the White House administration to pass major partisan legislation. That could reduce the prospect of significant additional fiscal stimulus over the next two years,\" wrote David Chao at Invesco.\n\n\"For Asia, the implications matter. Less fiscal stimulus could reduce upward pressure on US growth, inflation and Treasury yields, potentially easing some of the pressure that higher US rates and a stronger dollar have placed on Asian currencies and monetary policy.\" (AFP/Xinhua)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T09:11:12.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876550-20261104.htm"
+    },
     {
       "id": "31183ca7b0420ffe",
       "title": "Singapore to tighten law in fight against haze",
@@ -984,17 +995,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876223-20261102.htm"
-    },
-    {
-      "id": "bf64b56122212c7f",
-      "title": "HKMA eyes next level for Fintech 2030 with AI push",
-      "excerpt": "The Hong Kong Monetary Authority has set out the next phase of its Fintech 2030 strategy, which will pair new…",
-      "fullText": "The Hong Kong Monetary Authority has set out the next phase of its Fintech 2030 strategy, which will pair new technology initiatives with a renewed emphasis on governance and risk management.\n\nSpeaking at Hong Kong Fintech Week on Monday, authority chief executive Eddie Yue said the HKMA is launching Project Sage to examine the application and governance of \"agentic finance\" – artificial intelligence systems that can execute tasks on behalf of users.\n\n\"The main purpose of the Sage project is to hope that, under agentic finance, we can both promote application and pay attention to governance,\" he said.\n\nYue said a cross-sector expert panel would bring together finance, payments, professional services, technology and academic representatives to explore use cases, sandbox testing, interoperability standards and governance safeguards.\n\nThe HKMA is also issuing a discussion paper on banks’ use of agentic AI, seeking views on governance models, responsibility arrangements and a possible central register of trusted agents.\n\nYue said the aim is to set rules that allow innovation while managing risks.\n\nHe also said the authority would launch a post-quantum cryptography toolbox with the Hong Kong University of Science and Technology to help banks prepare for the challenges stemming from breakthroughs in quantum computing.\n\nOn tokenisation, Yue said the HKMA is introducing tokenised central bank money to enable 24/7 settlement of interbank tokenised deposits and would expand the number of participating banks to support cross-lender transfers around the clock.\n\n\"The benefit is that, for example, quite a number of enterprises with global liquidity to manage can, if round-the-clock tokenised deposit transfers are achieved, make payments at any time and anywhere, across different accounts and even cross-border,\" he said.\n\n\"And for retail investors, if in the future they want to invest in different retail tokenised financial products, they can also more flexibly do their investments 24/7, strengthening the flexibility and security of their asset allocation.\"\n\nYue said the HKMA would further pilot tokenised Exchange Fund Bills in the secondary market and explore whether regulated stablecoins could serve as a payment channel.\n\nHe stressed that innovation must be matched by governance and risk management so it can go further, land better and benefit more people.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T04:14:07.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876212-20261102.htm"
     },
     {
       "id": "fa73ead1a5bdcdd1",
