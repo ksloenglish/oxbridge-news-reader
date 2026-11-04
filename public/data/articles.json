@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T08:30:22.138Z",
-  "checkedAt": "2026-11-04T08:30:22.138Z",
+  "generatedAt": "2026-11-04T08:45:18.457Z",
+  "checkedAt": "2026-11-04T08:45:18.457Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "8eae40ac30188951",
+      "title": "China 'will continue working with US' after midterms",
+      "excerpt": "The Foreign Ministry on Wednesday said China was \"willing to continue working\" with the United States following midterm elections that…",
+      "fullText": "The Foreign Ministry on Wednesday said China was \"willing to continue working\" with the United States following midterm elections that saw US President Donald Trump's Republicans lose control of both chambers of Congress.\n\n\"The midterm elections are an internal affair of the United States,\" Foreign Ministry spokeswoman Mao Ning told a regular news briefing in Beijing.\n\n\"China is willing to continue working with the US to uphold and implement the important consensus reached by the two heads of state, strengthen communication, properly manage differences, expand cooperation, and build a constructive, strategically stable China-US relationship based on the principles of respect, fairness, and reciprocity.\"\n\nIn Europe, French Finance Minister Roland Lescure said Trump remained in charge on foreign policy issues despite the GOP's defeats in the midterms, adding that the American leader was unpredictable.\n\n\"Either he decides to rise above the fray — acknowledging that changes are necessary, particularly regarding gasoline prices, which directly affect people — and, I might add, he tones down his international involvement; or he does not,\" Lescure said in an interview on French TV channel BFM.\n\n\"Frankly, this is something we will need to keep an eye on in the coming days,\" he added. (Agencies)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T08:25:45.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876542-20261104.htm"
+    },
+    {
+      "id": "2f585231917bced7",
+      "title": "ICAC charges former HKEX vice president",
+      "excerpt": "A former vice president of the Hong Kong Exchanges and Clearing (HKEX) was charged by the ICAC on Wednesday for…",
+      "fullText": "A former vice president of the Hong Kong Exchanges and Clearing (HKEX) was charged by the ICAC on Wednesday for allegedly obtaining dishonest access to the HKEX’s internal information system.\n\nThe system contained confidential information involving listed companies, according to the anti-graft agency.\n\nGeoffrey Tong, 39, and his mother, Leung Yiu-chun, 68, jointly face one count of obtaining access to computer with a view to dishonest gain for himself or another under the Crimes Ordinance.\n\nThe charge alleges that the two defendants obtained access to the HKEX’s internal information system with a view to dishonest gain between February 2018 and April 2023.\n\nThe ICAC investigation revealed that Tong allegedly accessed confidential information of listed companies unrelated to his duties on multiple occasions.\n\n“Subsequently, the investment account of his mother, Leung, engaged in share transactions of the relevant listed companies, yielding profits exceeding HK$500,000,” the ICAC said in a statement.\n\nThe case was brought to the Eastern Magistrates’ Courts for mention on Wednesday.\n\nThe ICAC said it would not rule out further prosecution as the investigation continues.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T08:21:49.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876537-20261104.htm"
+    },
     {
       "id": "329db77d7ca8ad22",
       "title": "'Reservation effective in cutting Po Pin Chau visits'",
@@ -632,17 +654,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876341-20261103.htm"
-    },
-    {
-      "id": "fdef73f451fde41e",
-      "title": "Parking meters down, emergency repairs under way",
-      "excerpt": "The Transport Department on Tuesday said that the parking meter system had broken down, with emergency repairs under way. The…",
-      "fullText": "The Transport Department on Tuesday said that the parking meter system had broken down, with emergency repairs under way.\n\nThe department said it received a report from the operator at about 8.20am that the system had malfunctioned.\n\nIt said it instructed the operator to carry out the necessary repairs as soon as possible to minimise the impact on motorists, and to conduct a thorough investigation into the cause of the incident and submit a report.\n\nMotorists with enquiries can call the service hotline at 2332 3700.\n\nLater, Secretary for Transport and Logistics Mable Chan said several parking metres had returned to normal following the repairs.\n\nShe added that no parking tickets would be issued until the system was fully restored.\n\n\"The Transport Department immediately contacted the police. While the system is being repaired, police will not carry out enforcement on roadside parking spots. People can be sure of that,\" Chan said.\n\n\"I want to reiterate that we attach huge importance to this incident and the system malfunction. I have instructed the Transport Department to require the system operator, HKT, to submit a report as soon as possible. I hope an initial report can be submitted within the next 24 hours.\"\n_____________________________\nLast updated: 2026-11-03 HKT 12:17\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T02:31:04.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876346-20261103.htm"
     },
     {
       "id": "1e4ecd33c1335cc7",
@@ -1303,17 +1314,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"
-    },
-    {
-      "id": "d66ac185a2843893",
-      "title": "Plenum adopts resolution on Party self-governance",
-      "excerpt": "The Communist Party of China (CPC) Central Committee has adopted a resolution on persevering with full and rigorous Party self-governance…",
-      "fullText": "The Communist Party of China (CPC) Central Committee has adopted a resolution on persevering with full and rigorous Party self-governance as it concluded its fifth plenary session, according to Xinhua News Agency.\n\nThe Politburo presided over the meeting.\n\nPresident Xi Jinping, who's also general secretary of the CPC Central Committee, delivered an important address, and a communique was issued after the session.\n\nAt the session, participants considered and adopted the Resolution of the Central Committee of the Communist Party of China on Certain Major Issues concerning Persevering with Full and Rigorous Party Self-Governance.\n\nXi delivered explanatory remarks on the draft of the resolution.\n\nThe CPC Central Committee gave a highly positive assessment of the great achievements the Party has made in exercising full and rigorous self-governance in the new era, Xinhua reported.\n\n\"It was stressed that many favourable conditions are now in place for advancing full and rigorous Party self-governance, while we also face many new circumstances and new issues in this endeavour,\" the communique said.\n\nProfound changes in global, national and Party conditions have made the CPC's tasks of uniting and leading the people in safeguarding China's sovereignty, security, and development interests, of uniting and leading the people in promoting reform and development and maintaining social harmony and stability, and of maintaining its advanced nature and integrity even more formidable, it added.\n\nSystematic plans for persevering with full and rigorous Party self-governance were also made at the session, according to the communique.\n\nStrict management of officials is the key to full and rigorous Party self-governance, it noted.\n\n\"We will build up the ranks of high-calibre officials with firm political commitment, outstanding professional competence, excellent work conduct, and strict discipline,\" it added.\n\nParty organisations at all levels play the principal role in exercising full and rigorous Party self-governance, said the communique, adding that it is therefore essential to systematically advance the development of Party organisations at all levels and in all sectors to strengthen their political and organisational functions.\n\n\"It was noted that taking integrated steps to ensure that officials do not have the audacity, opportunity, or desire to commit corruption is both an important strategy for full and rigorous Party self-governance and a fundamental guideline for our fight against corruption,\" the communique said.\n\n\"We must take systematic steps to address both symptoms and root causes of corruption and adopt a holistic approach that combines severe punishment, targeted remedy, and effective prevention, carrying this fight through to the end.\"\n\nStrengthening Party regulations and institutions represents a long-term, fundamental strategy for ensuring full and rigorous Party self-governance, said the communique.\n\nThe CPC Central Committee decided at the session that the Party will convene its 21st National Congress in Beijing in the second half of 2027 and stated that this congress, which is to be held at a critical stage for basically realising socialist modernisation and on a new journey toward the Second Centenary Goal, will be a highly important meeting and an event of great political significance for both the Party and the country.\n\nThe session elected Zhang Shengmin as a new Politburo member.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T10:54:48.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875825-20261029.htm"
     },
     {
       "id": "36347b301c027fe4",
