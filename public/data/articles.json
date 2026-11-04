@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T05:45:17.386Z",
-  "checkedAt": "2026-11-04T06:00:27.538Z",
+  "generatedAt": "2026-11-04T06:15:17.027Z",
+  "checkedAt": "2026-11-04T06:15:17.027Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "329db77d7ca8ad22",
+      "title": "'Reservation effective in cutting Po Pin Chau visits'",
+      "excerpt": "Secretary for Environment and Ecology Tse Chin-wan on Wednesday said the government was reviewing the trial results of the real-name…",
+      "fullText": "Secretary for Environment and Ecology Tse Chin-wan on Wednesday said the government was reviewing the trial results of the real-name reservation system for the Po Pin Chau trail in Sai Kung East Country Park.\n\nSpeaking to lawmakers at the Legislative Council, Tse said authorities were looking at areas for further improvement and whether a fee could be imposed.\n\nTse noted that the reservation system had effectively controlled visitor numbers on peak days compared to the past.\n\nHe said the Po Pin Chau section received an average of 2,000 visitors per day during the Chinese New Year and Labour Day Golden Week holidays – before the reservation system was introduced, while the number was kept to around 950 during the National Day Golden Week with the reservation requirement.\n\nThe highest visitor flow recorded at the Po Pin Chau viewing platform was also cut by more than 30 percent compared to the past, he added.\n\n“Visitors mainly arrived in the morning. As the reservation system effectively kept the number of visitors within 500 per time slot, visitor flow on the trail was dispersed in an orderly manner, and visitors were able to tour in a more comfortable and safe environment without overcrowding,” he said.\n\n“Implementation experience shows that by effectively controlling the visitor numbers and diverting visitor flow, the reservation system not only reduced the wear and tear caused by visitors to the natural environment but also significantly improved the overall visitor experience.”\n\nHe added that the reservation system operated well, with most visitors satisfied with the arrangement.\n\nThe minister also said the government could collaborate with the tourism sector to launch eco-tours to further develop ecotourism products.\n\nHe said part of the 2,000 daily quota of Po Pin Chau trail could be reserved for tour groups.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T05:30:59.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876522-20261104.htm"
+    },
     {
       "id": "57cc3c9ca8c7c653",
       "title": "'World unis to step up collaboration over NM'",
@@ -654,17 +665,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876312-20261103.htm"
-    },
-    {
-      "id": "8dda505e2b7d5c5b",
-      "title": "Man arrested over suspected spiked drink",
-      "excerpt": "Police have arrested a 61-year-old man suspected of adding an unknown substance to a 33-year-old woman's drink at a bar…",
-      "fullText": "Police have arrested a 61-year-old man suspected of adding an unknown substance to a 33-year-old woman's drink at a bar in Tsim Sha Tsui.\n\nPolice received a report just before 5am on Sunday that a woman had fallen ill after drinking a beverage at a bar on Mody Road, with suspicions that the drink had been spiked.\n\nShe was conscious and taken to Queen Elizabeth Hospital for treatment.\n\nThe Yau Tsim Criminal Investigation Support Team took up the case and made the arrest in Central on Monday.\n\nThe man is being held for further questioning on suspicion of administering poison with intent to harm.\n\nJapanese former adult film star turned DJ, Mao Hamasaki, has said she fell ill after having a drink that she said had been tampered with during a Halloween event.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T01:29:32.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876336-20261103.htm"
     },
     {
       "id": "a902ec1efeb8c9e6",
