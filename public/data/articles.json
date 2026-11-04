@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T13:45:19.854Z",
-  "checkedAt": "2026-11-04T14:00:31.074Z",
+  "generatedAt": "2026-11-04T14:15:24.118Z",
+  "checkedAt": "2026-11-04T14:15:24.118Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rthk-world",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "ca4a3949d40a58c1",
+      "title": "John Lee visits Shanghai to promote SAR businesses",
+      "excerpt": "Chief Executive John Lee arrived in Shanghai on Wednesday afternoon after visiting Beijing, where he attended the opening ceremony of…",
+      "fullText": "Chief Executive John Lee arrived in Shanghai on Wednesday afternoon after visiting Beijing, where he attended the opening ceremony of the 29th Beijing Hong Kong Economic Cooperation Symposium.\n\nIn a Facebook post, Lee thanked representatives from the Ministry of Commerce, Beijing's Liaison Office in the SAR, and the Shanghai Municipal People's Government, as well as colleagues from the Hong Kong Economic and Trade Office in Shanghai for meeting him at the airport.\n\nLee will attend the opening ceremony of the ninth China International Import Expo (CIIE) on Thursday.\n\n\"This year's CIIE has attracted participants from 162 countries, regions, and international organisations, with a total exhibition area exceeding 440,000 square metres,\" the post read.\n\nThe CE will also attend the Hongqiao International Economic Forum.\n\n\"There, I will highlight how Hong Kong is leveraging its unique strengths to integrate into and serve the nation's overall development, showcasing our achievements and opportunities.\"\n\nLee said Shanghai and Hong Kong share deep historical ties, with the SAR pushing ahead plans to establish a \"sister port\" relationship with Shanghai within this year.\n\nHe added that a pilot project for the mutual exchange of trade data was launched last month and is expected to benefit local small and medium-sized enterprises that export goods from the mainland.\n\nLee is also expected to meet with Shanghai officials to deepen cooperation before returning to Hong Kong on Friday.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T14:00:27.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876582-20261104.htm"
+    },
     {
       "id": "04c37f9b791c2386",
       "title": "US midterm results a rejection of war: Tehran",
@@ -700,17 +711,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876371-20261103.htm"
     },
     {
-      "id": "d7121b1b6f47ec84",
-      "title": "Parking meters restored after hours of breakdown",
-      "excerpt": "The Transport Department said the operation of the city's parking meter system had returned to normal following emergency repairs after…",
-      "fullText": "The Transport Department said the operation of the city's parking meter system had returned to normal following emergency repairs after a breakdown that lasted for nearly four hours on Tuesday morning.\n\nThe department said it received a report from the operator at about 8.20am that the system had malfunctioned.\n\nThe Digital Policy Office was notified of the incident, the department said, noting that there was no evidence to suggest the system had been hacked.\n\nSecretary for Transport and Logistics Mable Chan said officials had urged the operator of the parking meters to submit a report as soon as possible.\n\n\"I want to reiterate that we attach huge importance to this incident and the system malfunction. I have instructed the Transport Department to require the system operator, HKT, to submit a report as soon as possible. I hope an initial report can be submitted within the next 24 hours,\" she said.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T04:47:11.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876370-20261103.htm"
-    },
-    {
       "id": "fbdf2f3ecc04f6d9",
       "title": "New service to simplify mainland flight transit in HK",
       "excerpt": "Secretary for Transport and Logistics Mable Chan on Tuesday said a new service had been launched to streamline international travel…",
@@ -1259,17 +1259,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875926-20261030.htm"
-    },
-    {
-      "id": "e2f148a1a1a5fc70",
-      "title": "Investment firm PAG buys 51pc of Evergrande unit",
-      "excerpt": "Asia-focused investment firm PAG will acquire a 51 percent stake in Evergrande Property Services Group, a unit of debt-laden developer…",
-      "fullText": "Asia-focused investment firm PAG will acquire a 51 percent stake in Evergrande Property Services Group, a unit of debt-laden developer China Evergrande Group, for HK$4.03 billion, the two said in a joint announcement on Friday.\n\nThe acquisition marks a major step in liquidators' efforts to sell assets and recover funds for creditors of China Evergrande, which received a combined US$46 billion in creditor claims.\n\nThe sale follows a competitive auction run by the liquidators, according to the filed announcement.\n\nPAG said in the filing that Evergrande Property's business generated stable, recurring revenue from a diversified portfolio of managed properties across China.\n\nPAG said taking control of the listed services unit would remove uncertainty tied to the liquidation of China Evergrande and CEG Holdings, and could strengthen market confidence.\n\nPAG will fund the acquisition and the offer, if fully accepted, with acquisition financing and equity committed by PAG Fund IV, the filing said.\n\nThe offer values the 5.52 billion shares at HK$0.8359 each, a 29 percent discount to Evergrande Property's last closing price on Wednesday.\n\nThe stock was suspended on Thursday pending the announcement and dropped 13.5 percent after trading resumed on Friday.\n\nThe offer values Evergrande Property Services at about HK$9.04 billion, compared to a market capitalisation of roughly HK$11.08 billion after the shares dropped to HK$1.025.\n\nPAG will also pay 500 million yuan at completion for certain taxes, transaction fees and other liabilities of CEG Holdings, according to the filing.\n\nFollowing completion of the deal, PAG will be required to make an unconditional offer for the remaining 5.3 billion shares in the company.\n\nGoldman Sachs is advising PAG on the acquisition and potential mandatory offer, while UBS and Citic Securities are joint financial advisers to China Evergrande and CEG Holdings.\n\nThe deal remains subject to Chinese antitrust approval, among other conditions.\n\nThe parties can terminate the agreement if these conditions are not met or waived by February 12, 2027, according to the filing.\n\nChina Evergrande, once China's premier property developer, defaulted on most of its US$300 billion in liabilities following Beijing's sweeping crackdown on the property sector six years ago.\n\nThe liquidators of China Evergrande and CEG Holdings informed Evergrande Property a year ago that they were seeking to sell the 51.016 percent stake, according to the filing.\n\nPAG intends to keep Evergrande Property listed in Hong Kong and does not plan major changes to its operations or workforce, apart from nominating new directors at the earliest time permitted under takeover.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T03:47:10.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875922-20261030.htm"
     },
     {
       "id": "aa78b4c40f126ee3",
