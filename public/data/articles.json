@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T05:15:17.818Z",
-  "checkedAt": "2026-11-04T05:15:17.818Z",
+  "generatedAt": "2026-11-04T05:30:22.720Z",
+  "checkedAt": "2026-11-04T05:30:22.720Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 19
     },
     {
       "id": "rthk-finance",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "57cc3c9ca8c7c653",
+      "title": "'World unis to step up collaboration over NM'",
+      "excerpt": "Leaders from universities around the world attending a conference in Hong Kong on Wednesday said they believe the Northern Metropolis…",
+      "fullText": "Leaders from universities around the world attending a conference in Hong Kong on Wednesday said they believe the Northern Metropolis project will foster closer collaboration among institutions.\n\nOn the sidelines of the World Class University Presidents Forum, Mark Scott, vice chancellor and president of the University of Sydney, recognised Hong Kong’s leading position in education, which has five institutions ranked in the world’s top 100 in the QS World University Rankings 2027.\n\n“There isn’t another city in the world that is achieving so remarkably at such scale, and so we have much to learn from Hong Kong,” he said.\n\n“One of the things I think we can learn is the commitment of leadership that sees investment in higher education, in research and in learning – as a key to economic growth and prosperity, and a richer and fairer society.”\n\nScott also said the University of Sydney is very excited about what the mega project has to offer.\n\n“We are very impressed by the level of financial commitment and long-term engagement from government and leadership here, and we are keen to find a way to be productive partners.”\n\nEbrahim Al Hajri, president of Khalifa University of Science and Technology in the United Arab Emirates, said the institution looks forward to playing a part in the development of the Northern Metropolis by collaborating with other institutions to “create local and global impact”.\n\n“This is actually physical research without borders – connecting both sides to technology, development, research, talent cultivation,” he said. “Not only that, but the translation of research into commercial opportunities to benefit society and economy at large.”\n\nThe Worldwide Universities Network – a leading global higher education network that comprises of 23 research-intensive universities – said the hub represents a “significant moment” for institutions to rethink global collaboration.\n\n“It’s not just about the scale and concentration for Hong Kong,” its executive director Dawn Freshwater said.\n\n“It’s actually about a beacon of excellence globally for ways in which we might partner, collaborate and truly focus on how we are going to solve the issues now facing civilisation – and that is substantial.”\n\nFudan University president Jin Li, for his part, believes the Northern Metropolis can further help Hong Kong connect to the world.\n\nThe mega hub is also crucial for the SAR to contribute to the nation’s development, he added.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T05:18:29.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876512-20261104.htm"
+    },
+    {
+      "id": "b1b184a18a5053e1",
+      "title": "Democrats win House, flip Senate in rebuke to Trump",
+      "excerpt": "Democrats won full control of the US Congress in a sweeping midterm rout on Tuesday with a landslide of upsets…",
+      "fullText": "Democrats won full control of the US Congress in a sweeping midterm rout on Tuesday with a landslide of upsets that delivered a crushing rebuke of President Donald Trump and his Republican Party.\n\nThe victory handed Democrats both the House of Representatives and Senate, giving them power to block Trump's agenda and investigate alleged corruption for the last two years of his presidency.\n\nThe vote reflected deep anger over living costs, tariffs and Trump's war against Iran, which has sent fuel prices soaring and compounded dissatisfaction with an already deeply unpopular president.\n\nTrump struck a conciliatory note despite his history of questioning election results, telling The New York Times: \"I am absolutely willing to accept those results\" and promising to \"work with the Democrats.\"\n\nBut minutes later on social media the 80-year-old signalled how he intends to deal with Democratic attempts to pass laws, posting a picture of a red baseball cap emblazoned: \"VETO.\"\n\nThe Democrats' decisive Senate breakthroughs came in Kansas and Iowa, the fifth and sixth Republican-held seats to fall in the extraordinary \"blue wave\" election night.\n\nIn Kansas, Methodist minister Adam Hamilton defeated Republican incumbent Roger Marshall, becoming the first Democrat elected to the Senate from the reliably conservative state since 1932.\n\nIowa had not elected a Democratic senator since 2008, again illustrating the scale of party's inroads into Republican strongholds.\n\nThe upsets followed victories in Texas, South Carolina, North Carolina and Ohio, where voters rejected Republican candidates despite Trump's intensive efforts to rally his supporters.\n\nTexas was a political bombshell.\n\nDemocrat James Talarico ousted a Trump-backed Senate candidate, while Gina Hinojosa unseated Republican governor Greg Abbott, ending decades of Republican control of the state's top office.\n\nDemocrats also protected key Senate seats of their own, including Jon Ossoff's in Georgia and an open seat in New Hampshire.\n\nRepublicans had held a 53-47 Senate majority.\n\nThe six-seat Democratic gain proved sufficient for networks to project a takeover despite some races remaining unresolved.\n\nDemocrats also captured the House after flipping Republican-held districts in states stretching from Pennsylvania and New Jersey to Kentucky, Arizona and North Carolina.\n\nSome victories came in territory Trump had carried comfortably in 2024, despite Republican attempts to shore up House seats by redrawing electoral boundaries.\n\nOne bellwether was Indiana, where Democrat JD Ford defeated Republican congresswoman Victoria Spartz in a district Trump won by 17 points.\n\nAnalysts had identified an upset there as a warning of a much wider Democratic advance.\n\nIn Georgia, former Atlanta mayor Keisha Lance Bottoms became the first Black woman elected governor in US history, while other Democratic gains extended to statehouses across the country.\n\nRepublicans had some bright spots in Florida, where Trump-backed Byron Donalds won the governorship, becoming the state's first Black governor, and Ashley Moody kept a Senate seat.\n\nGeorge Washington University professor Todd Belt called the Democratic advance \"a big wipeout and a strong repudiation of Donald Trump and his policies,\" citing voters' concerns about the economy, corruption and the Iran conflict.\n\nDemocrats will now be able to block Trump's legislation, investigate his administration over corruption allegations, the Iran war and immigration enforcement, and use Senate control to thwart judicial appointments and senior nominations.\n\nRobert Garcia, a Democrat expected to lead the powerful House Oversight Committee, warned Republicans on social media: \"LAWYER UP.\"\n\nHouse Democratic leader Hakeem Jeffries declared Trump's Maga movement \"on the run from sea to shining sea.\"\n\nJeffries is also positioned to become the first Black speaker of the House when the new Congress convenes in January, if elected by his colleagues.\n\nFor many voters, the central concern was Trump's stewardship of the economy.\n\n\"Rent, groceries, utility bills, and property taxes keep climbing,\" 24-year-old Los Angeles voter Taylor Cook told AFP. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-04T05:15:37.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876523-20261104.htm"
+    },
     {
       "id": "e7a6abeae492ab70",
       "title": "Democrats win key races in Texas",
@@ -632,17 +654,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876336-20261103.htm"
-    },
-    {
-      "id": "4a7349bc0d3c5903",
-      "title": "Driver arrested over Tuen Mun fatal accident",
-      "excerpt": "A 54-year-old woman died early on Tuesday after reportedly being knocked down by a private car in Tuen Mun, with…",
-      "fullText": "A 54-year-old woman died early on Tuesday after reportedly being knocked down by a private car in Tuen Mun, with the driver arrested on suspicion of dangerous driving causing death.\n\nThe accident happened at about 11.09pm on Monday along Castle Peak Road in Hung Shui Kiu, as the car was travelling towards Yuen Long.\n\nThe woman suffered serious head injuries and was rushed to Tuen Mun Hospital in an unconscious state, where she was certified dead at 0.17am on Tuesday.\n\nThe 53-year-old male driver was arrested and is being detained for further enquiries.\n\nThe case is being investigated by the Special Investigation Team of Traffic, New Territories North.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T01:26:17.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876335-20261103.htm"
     },
     {
       "id": "a902ec1efeb8c9e6",
