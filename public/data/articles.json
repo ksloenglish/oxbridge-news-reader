@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T08:30:24.104Z",
-  "checkedAt": "2026-11-05T08:30:24.104Z",
+  "generatedAt": "2026-11-05T08:45:17.540Z",
+  "checkedAt": "2026-11-05T08:45:17.540Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 12
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "ee671010baaed742",
+      "title": "HK 'to widen trade reach to help nation go global'",
+      "excerpt": "Chief Executive John Lee on Thursday said Hong Kong would continue to expand its international trade network to better contribute…",
+      "fullText": "Chief Executive John Lee on Thursday said Hong Kong would continue to expand its international trade network to better contribute to the country's overall development.\n\nSpeaking at the Hong Kong sub-forum of the Hongqiao International Economic Forum in Shanghai, he noted the event was the first major conference held by the SAR since the unveiling of its first-ever five-year plan in September.\n\nThe conference, Lee said, allowed experts and industry leaders from both the mainland and Hong Kong to gather and explore how the city could leverage its unique position under \"One Country, Two Systems\" and integrate into national development.\n\nOne key focus area is trade, he said.\n\n“Hong Kong has become the fifth-largest merchandise trading entity in the world, having signed free-trade agreements with 21 economies and investment agreements with 34 economies,\" Lee said.\n\n\"The SAR government will continue to expand its international economic and trade network to play a greater role in the country’s high-standard opening up.\"\n\nThe world, Lee pointed out, is experiencing a once-in-a-century transformation, which is happening alongside a global supply chain restructuring and rapid technological advancement.\n\nHe stressed that Hong Kong must proactively plan for its future and implement a forward-looking strategic plan with a calm and measured approach.\n\nAnother key focus area, Lee said, is finance.\n\nDescribing it as Hong Kong’s fundamental and greatest area of strength, he stressed that the SAR must consolidate its role as an international financial centre.\n\nHe added that Hong Kong would strengthen its position as the world's largest offshore renminbi hub to expand the global use of the currency and actively build a commodity and trading ecosystem.\n\nLee also noted that Hong Kong would proactively align with national scientific research and industrial strategies, accelerate its investment in science and technology, and help mainland enterprises expand overseas through its GoGlobal Task Force.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T08:29:05.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876668-20261105.htm"
+    },
     {
       "id": "7f060e854904f25b",
       "title": "Wong undermined HK's prosperity and stability: CE",
@@ -153,7 +164,7 @@
       "id": "c9ee7bfaceb20518",
       "title": "HK stocks gallop up as midterms fuel caution in region",
       "excerpt": "Oil, chip stocks and the US dollar were under pressure in Asia on Thursday and just about everything else was…",
-      "fullText": "Oil, chip stocks and the US dollar were under pressure in Asia on Thursday and just about everything else was up after US voters swept the Democrats to a series of stunning midterm election wins, a result that raised hopes for an end to the country's war on Iran.\n\nIn Hong Kong, the benchmark Hang Seng Index opened up 397 points, or 1.66 percent, at 24,316 and almost doubled its gains to be 784 points up in early trading.\n\nThe tech index rose 56 points, or 1.43 percent, to open at 3,992 while the China enterprises index too was higher by a similar margin, putting on 116 points, or 1.45 percent, to 8,174.\n\nUp north, the Shanghai Composite Index opened down 39 points, or 1.1 percent, at 3,646.\n\nThat downward trend held too for the Shenzhen Component Index, putting it 118 points, or 1.1 percent, lower at 11,216 while the ChiNext Index was 51 points, or two percent, down at 2,493.\n\nIn Tokyo, the Nikkei opened 196 points, or 0.32 percent, higher at 62,384, buoyed by declines in crude oil but with gains held in check by fears that the US midterms trashing for President Donald Trump will result in Democrats slowing the pace of AI data centre expansion.\n\nThe 225 benchmark was 104 points down at one stage before noon.\n\nIn Seoul, the Kospi opened 103 points, or 1.82 percent, lower at 5,580 on fears for AI and chip shares and was 182 points down at one stage before lunch.\n\nBrent crude futures dived nearly 9 percent overnight, falling below US$100 a barrel.\n\nBrent has dropped by about 20 percent so far this week.\n\nIf sustained through to Friday's close, it would make for the largest weekly drop in oil prices since a week in April 2020 when US crude briefly fell into negative territory.\n\nTumbling energy prices encouraged a rally in bonds, which lowered yields, pulled the dollar to a one-month low of US$1.1273 per euro, and helped stocks.\n\nSolar supply chain stocks jumped the most, in anticipation of Democrats boosting support for renewables, while shares in data centre companies and their equipment suppliers across Asia fell on expectations of tougher regulation.\n\nDemocratic data-centre opponents who campaigned, in part, on moratoriums on the AI linchpin won stunning victories in Texas and Georgia in a sign public opinion is shifting on the booming sector.\n\nTo be sure, most analysts think it ultimately won't dent demand for artificial intelligence, data centres or computer chips but do now expect at least a temporary slowdown.\n\n\"The magnitude of the victory is what has caught markets off guard,\" said Chris Weston, head of research at brokerage Pepperstone in Melbourne.\n\nAt US$93.50, oil was testing overnight lows in the Asia morning as traders chose to bet that US President Donald Trump, facing a Democratic Congress and hurt by high energy prices caused by the Mideast conflict, would be less likely to escalate the war with Iran.\n\nTrump acknowledged on Wednesday that the war played a role in Republicans' defeat and his vice president, JD Vance, was even more blunt on X: \"The reason we lost is the war.\"\n\nA resolution could push oil prices lower still, alleviating inflation pressure and reducing the likelihood of future interest rate hikes. (Reuters/Xinhua)\n\nEdited by Tony Sabine",
+      "fullText": "Oil, chip stocks and the US dollar were under pressure in Asia on Thursday and just about everything else was up after US voters swept the Democrats to a series of stunning midterm election wins, a result that raised hopes for an end to the country's war on Iran.\n\nIn Hong Kong, the benchmark Hang Seng Index opened up 397 points, or 1.66 percent, at 24,316 and almost doubled its gains to be 784 points up in early trading.\n\nThe tech index rose 56 points, or 1.43 percent, to open at 3,992 while the China enterprises index too was higher by a similar margin, putting on 116 points, or 1.45 percent, to 8,174.\n\nUp north, the Shanghai Composite Index opened down 39 points, or 1.1 percent, at 3,646.\n\nThat downward trend held too for the Shenzhen Component Index, putting it 118 points, or 1.1 percent, lower at 11,216 while the ChiNext Index was 51 points, or two percent, down at 2,493.\n\nIn Tokyo, the Nikkei opened 196 points, or 0.32 percent, higher at 62,384, buoyed by declines in crude oil but with gains held in check by fears that the US midterms trashing for President Donald Trump will result in Democrats slowing the pace of AI data centre expansion.\n\nThe 225 benchmark was 104 points down at one stage before noon.\n\nIn Seoul, the Kospi opened 103 points, or 1.82 percent, lower at 5,580 on fears for AI and chip shares and was 182 points down at one stage before lunch.\n\nBrent crude futures dived nearly 9 percent overnight, falling below US$100 a barrel.\n\nBrent has dropped by about 20 percent so far this week.\n\nIf sustained through to Friday's close, it would make for the largest weekly drop in oil prices since a week in April 2020 when US crude briefly fell into negative territory.\n\nTumbling energy prices encouraged a rally in bonds, which lowered yields, pulled the dollar to a one-month low of US$1.1273 per euro, and helped stocks.\n\nSolar supply chain stocks jumped the most, in anticipation of Democrats boosting support for renewables, while shares in data centre companies and their equipment suppliers across Asia fell on expectations of tougher regulation.\n\nDemocratic data-centre opponents who campaigned, in part, on moratoriums on the AI linchpin won stunning victories in Texas and Georgia in a sign public opinion is shifting on the booming sector.\n\nTo be sure, most analysts think it ultimately won't dent demand for artificial intelligence, data centres or computer chips but do now expect at least a temporary slowdown.\n\n\"The magnitude of the victory is what has caught markets off guard,\" said Chris Weston, head of research at brokerage Pepperstone in Melbourne.\n\nAt US$93.50, oil was testing overnight lows in the Asia morning as traders chose to bet that Trump, facing a Democratic Congress and hurt by high energy prices caused by the Mideast conflict, would be less likely to escalate the war with Iran.\n\nTrump acknowledged on Wednesday that the war played a role in Republicans' defeat and his vice president, JD Vance, was even more blunt on X: \"The reason we lost is the war.\"\n\nA resolution could push oil prices lower still, alleviating inflation pressure and reducing the likelihood of future interest rate hikes. (Reuters/Xinhua)\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-05T03:01:48.000Z",
       "source": "RTHK English — Finance",
@@ -280,6 +291,17 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/"
+    },
+    {
+      "id": "8bf272ebd905f587",
+      "title": "Wong Chi-fung jailed for 10 years",
+      "excerpt": "The High Court’s Court of First Instance today sentenced Wong Chi-fung to 10 years’ imprisonment for the offence of “conspiracy…",
+      "fullText": "The High Court’s Court of First Instance today sentenced Wong Chi-fung to 10 years’ imprisonment for the offence of “conspiracy to commit collusion with foreign countries or with external elements to endanger national security”.\n\nChief Executive John Lee identified Wong Chi-fung, Law Kwun-chung and their accomplices as being among the primary culprits responsible for undermining Hong Kong’s prosperity and stability.\n\nHe said they had obstructed the Hong Kong Special Administrative Region Government’s efforts to promote national education, set up radical organisations, incited students to engage in unlawful acts, and advocated the notions of “Hong Kong independence” and “self-determination”.\n\n“They further fuelled the ‘black-clad violence’ and the Hong Kong version of ‘colour revolution’ in 2019, committing a multitude of egregious misdeeds,” Mr Lee said.\n\n“Wong Chi-fung has repeatedly broken the law, including organising, taking part in, and inciting others to take part in unauthorised assemblies, unlawful assemblies, and contempt of court, demonstrating his utter disregard for the law. Before the implementation of the Hong Kong National Security Law, Wong Chi-fung, Law Kwun-chung and others persistently colluded with foreign countries or external elements, actively lobbied the United States to pass so-called legislation concerning Hong Kong, and openly solicited foreign countries to impose sanctions against China and the HKSAR.\n\n“Following the implementation of the Hong Kong National Security Law, Wong Chi-fung, Law Kwun-chung and their accomplices showed no repentance and continued to act as agents of foreign countries and external forces, wantonly persisting in conspiring to collude with foreign countries or external forces to endanger national security, in a vain attempt to exert pressure on the central authorities and the HKSAR Government through external forces, betraying Hong Kong while remaining incorrigible. Furthermore, Wong Chi-fung participated in the 'Project 35+', conspiring to subvert state power.”\n\nThe Chief Executive said these acts constitute extremely serious offences, severely undermining national sovereignty, security, and development interests, and directly prejudicing the well-being of the general public and the stability of society.\n\nThe Government said that in the face of overwhelming facts and evidence, it was impossible for Wong Chi-fung to deny his wrongdoing; therefore, he could only plead guilty, serving as a powerful deterrent to others attempting to collude with external forces and undermine national interests.\n\nNoting the court’s heavy sentence on Wong Chi-fung, the Government said it shattered the illusion that individuals endangering national security could escape liability under the guise of a so-called “international battlefront” or “international advocacy”, and demonstrated to the international community the HKSAR’s firm determination to safeguard national security.\n\nThe Government welcomed the strict sentence as a vital deterrent against foreign interference and said it will seize any property of Wong Chi-fung’s that is connected to the crime.\n\nRemarking that various western countries, anti-China organisations, politicians and foreign media have launched malicious attacks and smears on Hong Kong in relation to various cases and demanded the release of certain defendants, the Government reiterated that Hong Kong is a society underpinned by the rule of law.\n\nIt emphasised that all cases are handled strictly on the basis of evidence and in accordance with the law, adding that exempting any individuals or organisations from the legal consequences of their illegal acts and activities would amount to granting special privileges to break the law.\n\nThe Government said Wong Chi-fung’s guilty plea reflected the sufficiency of evidence gathered by the Police Force against him, adding that the court had set out the reasons for his prosecution in detail when delivering the sentence. It said Wong Chi-fung was sentenced under fair and open judicial proceedings which demonstrate Hong Kong’s rule of law, as upheld by its courts.\n\nHighlighting its constitutional duty to safeguard national security, the Government stated will continue to resolutely combat and pursue anti-China and destabilising elements and the agents of external forces. It said it will ensure that laws are observed and strictly enforced, and that offenders are brought to account, so as to prevent, suppress and punish acts and activities endangering national security.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_135816_382/images/20261105152709864.jpg",
+      "publishedAt": "2026-11-04T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_135816_382.html"
     },
     {
       "id": "bbc2fa366fb47ee7",
@@ -1030,17 +1052,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876320-20261103.htm"
     },
     {
-      "id": "cac37fa89b00e9fa",
-      "title": "Anthropic says revenue surged 1,100pc ahead of IPO",
-      "excerpt": "Anthropic, one of the world's leading artificial intelligence companies, on Monday reported a more than 1,100 percent surge in quarterly…",
-      "fullText": "Anthropic, one of the world's leading artificial intelligence companies, on Monday reported a more than 1,100 percent surge in quarterly revenue and nearly US$900 billion in spending commitments as it counts down to its Wall Street listing later this month.\n\nThe San Francisco-based company was founded in 2021 by former OpenAI researchers led by chief executive Dario Amodei and his sister Daniela, now its president, with AI safety as its focus.\n\nThe listing comes amid growing nervousness among investors about the huge sums being poured into AI.\n\nRevenue reached US$17 billion in the third quarter, up from US$1.4 billion a year earlier, though sales growth slowed from previous quarters amid fierce competition from ChatGPT-maker OpenAI and cheaper models.\n\nThe company, whose stock market debut is seen as a gauge of how long the AI spending boom lifting the US economy can last, said in an amended filing that its net loss reached US$23.3 billion in the July-September period.\n\nThe loss stemmed mostly from non-cash accounting charges linked to the company's rising valuation, the filing showed.\n\nAnthropic also posted an operating loss of US$567 million in the third quarter as it paid more for short-term computing capacity.\n\nThe filing said the company has committed to spend about US$895 billion, mostly on computing power, with US$70 billion of that due before September 2027.\n\nThe IPO will be a major test of the market's faith in the AI boom, with the pool of potential investors set to widen as retail traders get their first chance to buy shares directly in a standalone AI giant.\n\nAccording to several media outlets, the five-year-old company plans to raise around US$100 billion in its initial public offering, at a valuation of between US$1.5 trillion and US$2 trillion.\n\nThat would surpass the record set in June by SpaceX, which raised US$86 billion. (AFP)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T20:31:07.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876301-20261103.htm"
-    },
-    {
       "id": "43988feebac4c430",
       "title": "Raising the quality of insights in agentic analytics",
       "excerpt": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to…",
@@ -1050,17 +1061,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
-    },
-    {
-      "id": "115b85f475e9888b",
-      "title": "Arbitral hearings scheme extended",
-      "excerpt": "The Government announced today the expansion of the Immigration Facilitation Scheme for Persons Participating in Arbitral Proceedings in Hong Kong…",
-      "fullText": "The Government announced today the expansion of the Immigration Facilitation Scheme for Persons Participating in Arbitral Proceedings in Hong Kong .\n\nThe Department of Justice outlined that the new measures provide greater convenience to those covered by the scheme, incentivising them to choose Hong Kong as a place to conduct arbitration and bolstering the city's competitiveness as an arbitral seat.\n\nThe Government said that since its regularisation last year, the scheme has been welcomed by the legal and dispute resolution sector and the international arbitration community, adding that its facilitation of international and cross-border arbitral proceedings in Hong Kong has strengthened the city’s position as a premier international arbitration hub.\n\nThe scheme's expansion means it now covers arbitral proceedings that occur physically, or in hybrid fashion, in Hong Kong, and are administered by dispute resolution institutions or permanent offices set up in the Chinese Mainland, Macao, Taiwan or overseas, supported by a designated arbitral and dispute resolution institution in Hong Kong under the \"Arrangement Concerning Mutual Assistance in Court-ordered Interim Measures in Aid of Arbitral Proceedings by the Courts of the Mainland and of the Hong Kong Special Administrative Region\".\n\nThe Governement explained that \"supported by\" means that such an institution will provide venue, hearing or meeting facilities, in addition to ancillary services, such as those provided by tribunal reporters and interpreters, translators and caterers, to support arbitrations.\n\nFor proceedings newly covered under the scheme's expansion, arbitral and dispute resolution institutions offering support are required to verify the identities of participants in arbitral proceedings.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_153006_706/images/20261103163149329.jpg",
-      "publishedAt": "2026-11-02T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_153006_706.html"
     },
     {
       "id": "3156f31eb1c316e8",
@@ -1336,17 +1336,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875954-20261030.htm"
-    },
-    {
-      "id": "87280b0a4ba96091",
-      "title": "Party to build links with emerging economic sectors",
-      "excerpt": "The Communist Party of China has stressed the need to promote party building in emerging sectors in a resolution adopted…",
-      "fullText": "The Communist Party of China has stressed the need to promote party building in emerging sectors in a resolution adopted at a plenary session of the Central Committee, an official said on Friday.\n\nThe party will step up efforts to expand and deepen the coverage of party organisations and work in new types of economic and social organisations, as well as among groups in new forms of employment, so as to strengthen its appeal, cohesiveness and influence in emerging fields, said Huang Jianfa, deputy head of the organisation department of the committee.\n\nNew types of economic organisations encompass non-public-sector enterprises and businesses operating in emerging areas and cover a broad range of entities, including industry associations, chambers of commerce, social service agencies and community-based organisations.\n\nNew forms of employment have emerged alongside the growth of the internet and digital economy, including workers such as food-delivery couriers, ride-hailing drivers and online marketers, many of whom rely on digital platforms for their work.\n\nChina currently has around 84 million people engaged in new forms of employment, who play an important role in meeting people's daily needs, supporting livelihoods and keeping economic activity running smoothly. (Xinhua)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T07:18:17.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875946-20261030.htm"
     },
     {
       "id": "aa78b4c40f126ee3",
