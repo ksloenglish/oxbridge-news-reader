@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T07:45:26.201Z",
-  "checkedAt": "2026-11-05T07:45:26.201Z",
+  "generatedAt": "2026-11-05T08:00:28.825Z",
+  "checkedAt": "2026-11-05T08:00:28.825Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 12
     },
     {
       "id": "rthk-sport",
@@ -101,8 +101,8 @@
       "fullText": "The ninth edition of the China International Import Expo opened in Shanghai on Thursday amid fanfare.\n\nIt's the country's largest import expo and the world's first national-level exhibition dedicated to imports.\n\nVice Premier Ding Xuexiang delivered a keynote speech at the opening ceremony.\n\n\"China's continuous hosting of the China International Import Expo is not only a concrete measure to actively expand imports, but more importantly, a practical action to advocate for an open world economy, promote a proactive, dynamic and upward trade balance, and drive global development towards becoming more balanced, coordinated and inclusive,\" he said.\n\n“Everyone is concerned about trade market issues, the key is how to realise trade balance.”\n\nThis year's event, which runs through November 10, has attracted 4,142 overseas exhibitors from more than 160 countries and regions.\n\nMore than 480 exhibits are making their global, Asian or China debuts at the 2026 event, the highest number ever.\n\nThis year's expo retains its six major exhibition areas and an innovation incubation section, covering areas such as intelligent industry and information technology, consumer goods, food and agricultural products, automobiles and smart mobility, medical devices and healthcare products, and trade in services. (Xinhua and agencies)\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-05T07:38:34.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876667-20261105.htm"
     },
     {
@@ -1336,17 +1336,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875946-20261030.htm"
-    },
-    {
-      "id": "35251699e040c779",
-      "title": "CPC outlines four areas in anti-corruption drive",
-      "excerpt": "The Communist Party of China (CPC) outlined four areas of focus for combating corruption in a resolution adopted at the…",
-      "fullText": "The Communist Party of China (CPC) outlined four areas of focus for combating corruption in a resolution adopted at the fifth plenary session of the CPC Central Committee, a senior anti-graft official said on Friday.\n\nThe four areas are maintaining a tough stance against corruption, strengthening checks on and oversight over the exercise of power, fortifying the cultural-ethical foundations for championing integrity and disdaining corruption, and enhancing coordinated efforts to prevent corruption by rooting out audacity, opportunity, and desire.\n\n\"Conducts and discipline problems are long-term recurrent and stubborn, persistent efforts are needed to tackle them,\" said Zhang Fuhai, deputy secretary of the Central Commission for Discipline Inspection of the CPC and deputy head of the National Commission of Supervision.\n\nHe made the remarks at a press conference on the guiding principles from the fifth plenary session of the 20th Central Committee of the CPC in Beijing.\n\nSince the 18th National Congress of the CPC in 2012, discipline inspection and supervisory organs across the country have filed 8.105 million cases and punished 7.922 million people, including 963 officials registered at and supervised by the CPC Central Committee, according to Zhang.\n\n\"We will intensify anti-corruption efforts in areas with a high concentration of power funds and resources focus on corruption that involves both political and economic elements collusion between officials and business people, and capital infiltrating into the political realm dig deep into new and disguised manifestations of corruption and tackle on a regular basis misconduct and corruption that occurs at people's doorsteps,\" he said.\n\nThe plenum, which concluded on Thursday in Beijing, adopted the Resolution of the Central Committee of the CPC on Certain Major Issues concerning Persevering with Full and Rigorous Party Self-Governance. (Additional reporting from Xinhua)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T04:29:31.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875926-20261030.htm"
     },
     {
       "id": "aa78b4c40f126ee3",
