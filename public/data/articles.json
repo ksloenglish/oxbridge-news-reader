@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T14:15:18.323Z",
-  "checkedAt": "2026-11-05T14:30:24.049Z",
+  "generatedAt": "2026-11-05T14:45:20.794Z",
+  "checkedAt": "2026-11-05T14:45:20.794Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -456,6 +456,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_172828_699.html"
+    },
+    {
+      "id": "e9f40141ad7ac9df",
+      "title": "CEDD saddened by site accident",
+      "excerpt": "The Civil Engineering & Development Department has stated that it is deeply saddened by the passing of a contractor's staff…",
+      "fullText": "The Civil Engineering & Development Department has stated that it is deeply saddened by the passing of a contractor's staff member at a work site on Trunk Road T4 in Sha Tin today, and extended its deepest condolences to the deceased's family.\n\nAt about 11am this morning, a 61-year-old female worker is suspected to have been struck by a construction vehicle while working at the site on Sha Tin Road near Pok Hong Estate. She was certified dead at the scene.\n\nFollowing the incident, department representatives went to the site to learn about the situation. It instructed the project team to follow up on the incident, carry out a comprehensive review of safety procedures and measures, and offer appropriate assistance to the deceased's family.\n\nWork at the site has been suspended. The department has instructed the contractor to carry out a thorough investigation into the incident. It will also render full assistance to other investigating departments.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_210135_081/images/20261105220940047.jpg",
+      "publishedAt": "2026-11-04T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_210135_081.html"
     },
     {
       "id": "a01030ceb54ef2e2",
@@ -1138,17 +1149,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_142642_559.html"
-    },
-    {
-      "id": "87dbedd783cd84a3",
-      "title": "CE begins Beijing visit",
-      "excerpt": "Chief Executive John Lee today arrived in Beijing, where he began his visit by touring the Beijing Municipal Administrative Center…",
-      "fullText": "Chief Executive John Lee today arrived in Beijing, where he began his visit by touring the Beijing Municipal Administrative Center and meeting officials.\n\nAt the centre, Mr Lee visited the Beijing Library and the planning exhibition hall at the CPC Beijing Municipal Committee building. He learned about the overall planning, development and construction of cultural facilities at the centre.\n\nThe Chief Executive remarked that the Beijing Municipal Administrative Center is one of the capital's “two wings” in the co-ordinated development of the Beijing-Tianjin-Hebei region. He observed that this blueprint promotes higher-quality development and demonstrates the country's forward-looking and systemic deployment.\n\nMr Lee highlighted that Hong Kong is advancing at full steam with the development of the Northern Metropolis (NM), adding that the centre's experience in aspects spanning overall planning and development, supporting infrastructure, and the layout of public service facilities, can be instructive for Hong Kong in the NM's development.\n\nHe later met CPC Beijing Municipal Committee Secretary Yin Li and Beijing Mayor Yin Yong to exchange views on deepening co-operation between Hong Kong and Beijing. Executive Deputy Director of the Hong Kong & Macao Work Office of the Communist Party of China Central Committee and the State Council's Hong Kong & Macao Affairs Office Xu Qifang were also present.\n\nThe Chief Executive said that Beijing and Hong Kong have always maintained close co-operation, adding that they have strengthened collaboration through the Hong Kong/Beijing Co-operation Conference mechanism.\n\nHe outlined that the annual Beijing Hong Kong Economic Co-operation Symposium, held alternately in the two places, is a platform for deepening bilateral economic and trade co-operation and promoting high-level mutual benefits.\n\nMr Lee added: “The Hong Kong Special Administrative Region Government announced Hong Kong's First Five-Year Plan in September to proactively align with the National 15th Five-Year Plan and deepen regional co-operation with the Mainland.”\n\nHe said he looked forward to Hong Kong and Beijing continuing to complement each other's strengths, strengthen collaboration, and promote higher-level co-operation to serve the country's high-quality development.\n\nThe Chief Executive also mentioned that the Hong Kong SAR Government is advancing the establishment of “four centres and one hub”, and extending the Cross-sectoral Professional Services Platform to help Mainland enterprises \"go global\" and attract international capital to Hong Kong.\n\nHe urged more Mainland enterprises, including those from Beijing, to make use of Hong Kong's international professional capabilities, its open capital market, and its roles as a \"super connector\" and \"super value-adder\" to flexibly meet the needs of their target markets and explore new business opportunities.\n\nHe added that the Hong Kong SAR Government will continue to expand youth development work between the two places, thereby supporting young people in seizing the opportunities presented by national development and enabling Hong Kong to better integrate into and serve that development.\n\nTomorrow, Mr Lee is scheduled to attend the opening ceremony of the 29th Beijing Hong Kong Economic Co-operation Symposium and deliver a speech. He will then depart for Shanghai.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_190418_500/images/20261103214553876.jpg",
-      "publishedAt": "2026-11-02T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_190418_500.html"
     },
     {
       "id": "d6d6e7bb7f93d89f",
