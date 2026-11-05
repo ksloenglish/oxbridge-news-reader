@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T13:30:41.369Z",
-  "checkedAt": "2026-11-05T13:30:41.369Z",
+  "generatedAt": "2026-11-05T13:45:19.691Z",
+  "checkedAt": "2026-11-05T13:45:19.691Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -390,6 +390,17 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/"
+    },
+    {
+      "id": "54fb4ca5159e7986",
+      "title": "CE attends import expo in Shanghai",
+      "excerpt": "The ninth China International Import Expo is being held from today until November 10 at the National Exhibition & Convention…",
+      "fullText": "The ninth China International Import Expo is being held from today until November 10 at the National Exhibition & Convention Center in Shanghai, with Chief Executive John Lee attending the expo today.\n\nA record high of over 400 Hong Kong enterprises are participating in this year's expo.\n\nIn the morning, Mr Lee attended the opening ceremony of the expo and the Hongqiao Forum. Later, he accompanied Vice Premier Ding Xuexiang in touring the Hong Kong exhibition area of the China Pavilion.\n\nUnder the theme “Connectivity & Enterprise”, the Hong Kong exhibition area showcases Hong Kong’s commitment to capitalising on its role as a bridge linking China and the world, and its multiple top rankings in global indexes.\n\nMr Lee attended the “Hong Kong Parallel Session” of the Hongqiao Forum in the afternoon. The session was jointly organised by the Hong Kong SAR Government and the Ministry of Commerce.\n\nMr Lee and Minister of Commerce Wang Wentao both delivered remarks at the session, while Vice Minister of Commerce Yan Dong also attended. Under the theme “Aligning with the National 15th Five-Year Plan, Serving the National Development, & Seizing New Opportunities for Hong Kong”, the session attracted around 400 participants.\n\nMr Lee remarked that this was the first large-scale briefing session held at an international forum since the Hong Kong SAR Government announced Hong Kong's First Five-Year Plan, which laid out the city's unique advantages of being strongly supported by its motherland and closely connected to the world under the “one country, two systems” principle.\n\nHe said Hong Kong will continue to play its role as a “super connector” and “super value-adder”, advance its development of “four centres and one hub”, and contribute its strengths towards building a great country.\n\nAfter the session, Mr Lee toured the Enterprise & Business Exhibition and showed support for Hong Kong enterprises at the Hong Kong Food Pavilion and Hong Kong Services Pavilion, both set up by the Trade Development Council.\n\nTogether, the two pavilions are hosting 71 Hong Kong enterprises, with over 60% of these exhibiting for the first time this year, showcasing quality Hong Kong products and services across sectors such as food, finance, professional services, logistics and transportation, and innovation and technology (I&T).\n\nInvest Hong Kong and the Tourism Board are also using the expo to promote Hong Kong’s advantages and its latest tourism offerings.\n\nIn the evening, Mr Lee hosted a networking dinner, where he exchanged views with political and business leaders from Hong Kong and the Mainland. He promoted Hong Kong's professional services and I&T sectors, and encouraged Mainland enterprises to make use of the city as a platform to “go global”.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_184938_619/images/20261105194321993.jpg",
+      "publishedAt": "2026-11-04T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_184938_619.html"
     },
     {
       "id": "8bf272ebd905f587",
@@ -1127,17 +1138,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_142642_559.html"
-    },
-    {
-      "id": "31aadb357f2377aa",
-      "title": "Growth estimated at 5.2% in Q3",
-      "excerpt": "Hong Kong's economy is estimated to have grown 5.2% year on year in the third quarter, up from a 4.2%…",
-      "fullText": "Hong Kong's economy is estimated to have grown 5.2% year on year in the third quarter, up from a 4.2% increase in the second quarter.\n\nThe Census & Statistics Department released its advance estimates of gross domestic product (GDP) for the third quarter today.\n\nOn a seasonally adjusted quarter-to-quarter comparison basis, real GDP increased by 1.9% in the third quarter.\n\nThe Government said the Hong Kong economy expanded robustly from July through September, underpinned by accelerating growth in exports and solid domestic demand.\n\nIt added that, for the first three quarters combined, real GDP grew by 5.1% over a year earlier, the fastest growth for the corresponding period in five years.\n\nLooking ahead, the Government said Hong Kong’s economic outlook remains positive, with incoming data pointing to sustained growth momentum.\n\nHowever, it added that persistent uncertainties in the external environment, particularly developments surrounding geopolitical tensions in the Middle East and tighter monetary policies from many major central banks, warrant close monitoring.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_164936_634/images/20261103180907784.jpg",
-      "publishedAt": "2026-11-02T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_164936_634.html"
     },
     {
       "id": "87dbedd783cd84a3",
