@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T01:15:18.921Z",
-  "checkedAt": "2026-11-05T01:15:18.921Z",
+  "generatedAt": "2026-11-05T01:30:22.686Z",
+  "checkedAt": "2026-11-05T01:30:22.686Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "26d717e09772e917",
+      "title": "Djokovic to miss ATP Finals after early Paris exit",
+      "excerpt": "Novak Djokovic crashed out of the Paris Masters on Wednesday after the 24-time Grand Slam champion lost 2-6, 6-3, 6-3…",
+      "fullText": "Novak Djokovic crashed out of the Paris Masters on Wednesday after the 24-time Grand Slam champion lost 2-6, 6-3, 6-3 to Australian qualifier Rinky Hijikata in the second round.\n\nThe shock defeat by the world number 83 ended the 39-year-old Serb's hopes of qualifying for the ATP Finals later this month.\n\nSpeaking in the mixed zone after the loss, Djokovic told reporters his plan for the next few weeks was \"just rest\".\n\n\"I'm looking forward to it,\" the 39-year-old added.\n\nAfter sailing through the first set, Djokovic soon found himself in a battle with the Australian qualifier.\n\nHijikata broke Djokovic in the eighth game of the second frame before serving out to force a decider.\n\nThe third set ground on until the Serb cracked serving at 3-3 to hand his unfancied opponent a chance at victory, which he duly took with a second break to seal the match in style.\n\nDjokovic, a seven-time champion in Paris, said he felt \"disappointment obviously, losing a match that I felt like I was dominating for the first set\".\n\nBut he heaped praise on Hijikata for the way he responded.\n\n\"He was switched on, I wasn't serving as well and he was just playing out of his mind honestly. He was not missing and keeping the ball low and just a terrific performance,\" Djokovic said. (AFP)\n\nEdited by Nazvi Careem",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T01:10:49.000Z",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876615-20261105.htm"
+    },
     {
       "id": "b95a0eced8b46f63",
       "title": "Zverev loses first match as world No 1 in Paris",
@@ -1314,17 +1325,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875889-20261030.htm"
-    },
-    {
-      "id": "17e78c8a5ff0baf0",
-      "title": "Everton progress to League Cup quarter-finals",
-      "excerpt": "Everton swept into the League Cup quarter-finals with a 3-1 win against Newcastle on Thursday as they booked a clash…",
-      "fullText": "Everton swept into the League Cup quarter-finals with a 3-1 win against Newcastle on Thursday as they booked a clash against giant-killers Fleetwood.\n\nDavid Moyes's side took the lead through James Garner's first-half goal at the Hill Dickinson Stadium.\n\nHayden Hackney doubled the lead with his first goal since his close-season move from Middlesbrough.\n\nEverton striker Thierno Barry netted in the second half and Dan Burn's reply for Newcastle came far too late to stop the Toffees ending their three-match winless run.\n\nChasing their first League Cup final appearance in 43 years, Everton will travel to fourth-tier minnows Fleetwood in the week commencing December 14.\n\nThe \"Cod Army\" caused one of the biggest shocks in League Cup history on Tuesday when they beat Premier League champions Arsenal in a penalty shoot-out after a 1-1 draw at Highbury.\n\nEverton have never won the League Cup, losing their two final appearances in 1977 and 1984.\n\nEverton fans do not need reminding that it is 31 years since the club won the FA Cup in their most recent trophy triumph.\n\nBritish Prime Minister Andy Burnham, a noted Everton fan, is old enough to remember that success and he was cheering from the stands as Moyes's men made light work of their last-16 tie.\n\nNewcastle will have the chance for revenge when the sides meet again in the Premier League at St James' Park on Monday.\n\nEverton dropped a pre-match bombshell, saying Jack Grealish was unavailable for selection \"due to a breach of club discipline\".\n\nGrealish, beset by criticism of his behaviour off the pitch, was reported to have taken an unauthorised absence from training.\n\nBut the on-loan Manchester City winger's absence was no problem for his team-mates.\n\nNewcastle tested Jordan Pickford early on when Joe Willock's low drive was palmed away by the Everton goalkeeper, who repelled Fabian Schar's long-range strike moments later.\n\nGarner steadied Everton's nerves with a clinical opener in the 34th minute.\n\nHackney teed up Garner just inside the area and the midfielder stretched to guide a fine finish into the far corner for his first goal since January.\n\nEverton had hit their stride and Hackney struck on the stroke of half-time.\n\nAt the climax of a blistering Everton counter-attack, Barry hooked a cross into the six-yard box and Hackney timed his run perfectly to volley past Lukas Hornicek.\n\nFrustrated Newcastle boss Matthias Jaissle sent on Joelinton, Anthony Elanga and Yoane Wissa at the interval.\n\nWissa had an immediate chance after sprinting onto Willock's pass, but he misjudged the high bounce and ended up heading straight at Pickford.\n\nIt was a costly miss as Barry put the result beyond doubt in the 69th minute.\n\nKiernan Dewsbury-Hall provided the cross and Barry lashed home from close range for his seventh goal this season.\n\nBurn scored with a header from Willock's 88th-minute cross, sparking a brawl between several players.\n\nBut Newcastle's brief show of defiance was too little, too late as Everton moved a step closer to Wembley. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-29T23:13:39.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875888-20261030.htm"
     },
     {
       "id": "2449a28f7441832a",
