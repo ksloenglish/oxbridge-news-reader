@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T08:45:17.540Z",
-  "checkedAt": "2026-11-05T08:45:17.540Z",
+  "generatedAt": "2026-11-05T09:00:30.749Z",
+  "checkedAt": "2026-11-05T09:00:30.749Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "rthk-world",
@@ -101,8 +101,8 @@
       "fullText": "Chief Executive John Lee on Thursday said Hong Kong would continue to expand its international trade network to better contribute to the country's overall development.\n\nSpeaking at the Hong Kong sub-forum of the Hongqiao International Economic Forum in Shanghai, he noted the event was the first major conference held by the SAR since the unveiling of its first-ever five-year plan in September.\n\nThe conference, Lee said, allowed experts and industry leaders from both the mainland and Hong Kong to gather and explore how the city could leverage its unique position under \"One Country, Two Systems\" and integrate into national development.\n\nOne key focus area is trade, he said.\n\n“Hong Kong has become the fifth-largest merchandise trading entity in the world, having signed free-trade agreements with 21 economies and investment agreements with 34 economies,\" Lee said.\n\n\"The SAR government will continue to expand its international economic and trade network to play a greater role in the country’s high-standard opening up.\"\n\nThe world, Lee pointed out, is experiencing a once-in-a-century transformation, which is happening alongside a global supply chain restructuring and rapid technological advancement.\n\nHe stressed that Hong Kong must proactively plan for its future and implement a forward-looking strategic plan with a calm and measured approach.\n\nAnother key focus area, Lee said, is finance.\n\nDescribing it as Hong Kong’s fundamental and greatest area of strength, he stressed that the SAR must consolidate its role as an international financial centre.\n\nHe added that Hong Kong would strengthen its position as the world's largest offshore renminbi hub to expand the global use of the currency and actively build a commodity and trading ecosystem.\n\nLee also noted that Hong Kong would proactively align with national scientific research and industrial strategies, accelerate its investment in science and technology, and help mainland enterprises expand overseas through its GoGlobal Task Force.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-05T08:29:05.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876668-20261105.htm"
     },
     {
@@ -206,9 +206,9 @@
     },
     {
       "id": "03699cdc74cca4e6",
-      "title": "WHO approves clinical trials on two new Ebola vaccines",
+      "title": "WHO approves clinical trials for new Ebola vaccines",
       "excerpt": "The World Health Organisation on Wednesday approved clinical trials for two new Ebola vaccines, as doctors fight to control an…",
-      "fullText": "The World Health Organisation on Wednesday approved clinical trials for two new Ebola vaccines, as doctors fight to control an outbreak in Africa that has killed more than 5,300 people.\n\n\"Last month, a vaccine trial began using the Ervebo vaccine, which is approved for Ebola virus, but not for Bundibugyo virus\" ravaging the Democratic Republic of Congo, WHO chief Tedros Adhanom Ghebreyesus told reporters.\n\n\"Today, WHO expert groups are recommending adding two vaccine candidates to the trial\" he added.\n\nThose two – ChAdOx1 BDBV, developed by the University of Oxford with the Serum Institute of India, and Moderna's mRNA-1469 – were developed specifically for the Bundibugyo virus, he explained.\n\nThe DRC's National Institute for Biomedical Research is leading the trial, backed by partners including WHO, said Tedros.\n\n\"Vaccines are powerful tools, but they are not substitutes for the proven measures that can save lives now: early care, contact tracing, isolation, safe and dignified burials and trusted engagement with communities,\" he added.\n\nOn Monday, the Africa Centres for Disease Control and Prevention (Africa CDC) said Africa's ongoing Ebola epidemic had killed more than 5,300 people, the vast majority of them in the Democratic Republic of the Congo.\n\nA total of 10,444 cases have been confirmed, with a fatality rate of more than 50 percent, it added. (AFP)\n\nEdited by XXXX",
+      "fullText": "The World Health Organisation on Wednesday approved clinical trials for two new Ebola vaccines, as doctors fight to control an outbreak in Africa that has killed more than 5,300 people.\n\n\"Last month, a vaccine trial began using the Ervebo vaccine, which is approved for Ebola virus, but not for Bundibugyo virus\" ravaging the Democratic Republic of Congo, WHO chief Tedros Adhanom Ghebreyesus told reporters.\n\n\"Today, WHO expert groups are recommending adding two vaccine candidates to the trial,\" he added.\n\nThose two – ChAdOx1 BDBV, developed by the University of Oxford with the Serum Institute of India, and Moderna's mRNA-1469 – were developed specifically for the Bundibugyo virus, he explained.\n\nThe DRC's National Institute for Biomedical Research is leading the trial, backed by partners including WHO, said Tedros.\n\n\"Vaccines are powerful tools, but they are not substitutes for the proven measures that can save lives now: early care, contact tracing, isolation, safe and dignified burials and trusted engagement with communities,\" he added.\n\nOn Monday, the Africa Centres for Disease Control and Prevention (Africa CDC) said Africa's ongoing Ebola epidemic had killed more than 5,300 people, the vast majority of them in the Democratic Republic of the Congo.\n\nA total of 10,444 cases have been confirmed, with a fatality rate of more than 50 percent, it added. (AFP)\n\nEdited by Nazvi Careem",
       "imageUrl": null,
       "publishedAt": "2026-11-05T00:35:03.000Z",
       "source": "RTHK English — World",
@@ -896,17 +896,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876397-20261103.htm"
-    },
-    {
-      "id": "db6a8b0c8e341374",
-      "title": "'Joint task force to target bid-rigging early'",
-      "excerpt": "Secretary for Security Chris Tang on Tuesday said officers from an interdepartmental task force on combating bid-rigging in building maintenance…",
-      "fullText": "Secretary for Security Chris Tang on Tuesday said officers from an interdepartmental task force on combating bid-rigging in building maintenance and renovation projects would proactively look for clues to prevent such activities.\n\nAuthorities have vowed to step up crackdowns on bid-rigging following the deadly Wang Fuk Court fire.\n\nProposed measures included the criminalisation of bid-rigging in relation to these projects, enabling a dual-track approach of both criminal and civil enforcement.\n\nAuthorities will also set up a joint task force that comprises officers from police, the ICAC and the Competition Commission to better coordinate law enforcement actions.\n\nSpeaking to lawmakers at a meeting of the Legislative Council’s Panel on Security and Panel on Economic Development, Tang said the task force's establishment could enable early intervention.\n\nTang said officers would adopt different tactics against bid-rigging, such as surveillance, undercover operations and the use of informants.\n\nHe added that the three agencies of the task force would also attend owners’ corporation meetings to look for suspicious activities, including people who hold many proxy votes or suspected triad members engaging in harassment or intimidation.\n\nOfficers would take enforcement actions when necessary, he added.\n\n“If we notice any abnormal situations at the scene that violate the law, such as intimidation and blackmail, our law enforcement colleagues on site will take immediate action,” Tang said.\n\n“Even if the situation is not serious enough to require enforcement action, if we notice signs that may point to hidden crimes, we will carry out investigations.”\n\nTang said the task force would consider a series of factors when deciding which projects would be prioritised for investigation.\n\n“We will consider the impact of the projects, for example, projects conducted at large estates with a lot of residents and those involving a large amount of money, and if someone seeking to participate in bid-rigging has triad backgrounds – these are all factors we take into consideration.”\n\nSecretary for Commerce and Economic Development Algernon Yau, meanwhile, told lawmakers that relevant legislative amendments to combat bid-rigging would be submitted to the legislature as soon as possible.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T08:48:42.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876393-20261103.htm"
     },
     {
       "id": "c509a3f96195121e",
