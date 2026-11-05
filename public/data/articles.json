@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T13:45:19.691Z",
-  "checkedAt": "2026-11-05T14:00:31.876Z",
+  "generatedAt": "2026-11-05T14:15:18.323Z",
+  "checkedAt": "2026-11-05T14:15:18.323Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "e866d4d863137c8d",
+      "title": "Flights in Europe hit by more hoax threats",
+      "excerpt": "Multiple flights in Europe were targeted by bomb threats on Thursday, forcing emergency landings, searches and military escorts to airports…",
+      "fullText": "Multiple flights in Europe were targeted by bomb threats on Thursday, forcing emergency landings, searches and military escorts to airports in France, Italy and Bulgaria.\n\nA British official called them “malicious hoaxes\" that followed another rash of hoax threats earlier this week.\n\nMore than a dozen flights from cities including Copenhagen, Dublin, Helsinki, Madrid, Milan and Warsaw were confirmed to have been targeted with bomb threats, most diverted to other airports for emergency landings while others landed safely at their destinations.\n\nSo far inspections have not turned up hazardous or suspicious materials.\n\nBritain’s Transport Secretary Heidi Alexander told British broadcasters that flights across Europe have been hit by “malicious hoax threats”.\n\nThe European Union’s Transport Commissioner Apostolos Tzitzikostas said that “any threats against civilians are unacceptable,” and that the EU’s executive branch was in contact with affected member countries.\n\n“It is too early to draw conclusions on whether the reported incidents are linked,” Tzitzikostas told reporters in Dublin. “National investigations remain ongoing.”\n\nHe said that an EU level information-sharing mechanism on aviation security had been activated, and that “we don’t have information yet whether this is a cyberattack”.\n\nSuch threats are not new, but the latest incidents come at a time of increased geopolitical tensions and other disruptions, including attacks on supermarket refrigeration systems, drone incursions in Europe and mysterious triggers to alert apps. Authorities have warned that hybrid threats abound. (AP)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T13:43:38.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876717-20261105.htm"
+    },
     {
       "id": "80bac2dc529dc24d",
       "title": "First Bank of England rate hike in 3 years",
@@ -962,17 +973,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
-    },
-    {
-      "id": "2c30826a3246984c",
-      "title": "Russia-Ukraine talks set for Abu Dhabi next week",
-      "excerpt": "The Kremlin confirmed on Tuesday that US-mediated Russia-Ukraine talks to end more than four years of war will take place…",
-      "fullText": "The Kremlin confirmed on Tuesday that US-mediated Russia-Ukraine talks to end more than four years of war will take place in Abu Dhabi next week.\n\nUS President Donald Trump's special envoy Steve Witkoff earlier announced the meeting will take place on November 10-11.\n\nWitkoff met with both Russia's Vladimir Putin and Ukraine's Volodymyr Zelensky last month, with all sides announcing three-way talks will resume in November, as Washington pushes an end to the dragging Ukraine-Russia war.\n\n\"The Russian delegation will arrive on November 10-11 in Abu Dhabi to take part in trilateral talks,\" Kremlin spokesman Dmitry Peskov told reporters, including AFP.\n\nThe Russian delegation will be led by Putin aide Vladimir Medinsky, who took part in previous negotiations that failed to reach a breakthrough.\n\nMedinsky, who is 56 and previously served as culture minister, is known for his nationalistic views on Russian history.\n\nHe took part in failed 2022 talks between Russia and Ukraine at the start of the war, also leading the Russian delegation in Istanbul last year and in Geneva earlier this year.\n\nMedinsky, who was born in Ukraine, has co-authored Russian history school textbooks praising Moscow's role in Ukraine. (AFP)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T10:42:41.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876410-20261103.htm"
     },
     {
       "id": "c9b8b12d9f0c8710",
