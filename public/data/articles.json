@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T09:55:36.183Z",
-  "checkedAt": "2026-11-05T10:15:26.709Z",
+  "generatedAt": "2026-11-05T10:30:23.208Z",
+  "checkedAt": "2026-11-05T10:30:23.208Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "43823a65e03bd26f",
+      "title": "Tang condemns external smearing over Wong sentence",
+      "excerpt": "Secretary for Security Chris Tang strongly condemned on Thursday attacks by external forces following the sentencing of former activist Joshua…",
+      "fullText": "Secretary for Security Chris Tang strongly condemned on Thursday attacks by external forces following the sentencing of former activist Joshua Wong, who was imprisoned for 10 years after pleading guilty to conspiring with foreign countries or external elements to endanger national security.\n\nTang said the court, in passing sentence on Wong, found that he, Nathan Law, who has absconded, and others had continued to collude with foreign officials and outlets in calling for sanctions and hostile measures against the nation, Hong Kong and their officials.\n\nHe reiterated that Wong was sentenced under fair and open judicial proceedings, showing that the SAR abides by the rule of law.\n\n\"Those launching attacks against us are exactly the same external forces that Wong and Law attempted to collude, whom they begged for mercy and leaned on that day,\" Tang said.\n\n\"They must be strongly condemned, and Hong Kong citizens must recognise and acknowledge that clearly.\"\n\nSpeaking outside the High Court earlier on Thursday, Steve Li, chief superintendent of the police's national security department, said Wong had taken part in social movements from a young age and committed various offences in adulthood.\n\nLi said he hoped Wong would reflect on his wrongdoings.\n\n\"I sincerely hope that for the rest of his time in prison, apart from reflecting on the wrongdoings he has done to the country and to the Hong Kong SAR, he must seize the opportunity to learn how to respect the law and properly understand his own country,\" he said.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T10:13:43.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876686-20261105.htm"
+    },
     {
       "id": "00eaef69fe140a6d",
       "title": "DOJ launches HK$20,000 lawtech funding scheme",
@@ -852,17 +863,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876418-20261103.htm"
-    },
-    {
-      "id": "04894fa50bc1301f",
-      "title": "HK takes five of top 10 in QS Asia university rankings",
-      "excerpt": "Hong Kong has dominated the QS Asia University Rankings 2027, with five of the city’s institutions placing in the top…",
-      "fullText": "Hong Kong has dominated the QS Asia University Rankings 2027, with five of the city’s institutions placing in the top 10.\n\nThe University of Hong Kong (HKU) retained the top spot, while City University of Hong Kong (CityUHK) rose to fourth and the Chinese University of Hong Kong (CUHK) climbed to fifth.\n\nCityUHK and CUHK had tied for seventh a year earlier.\n\nThe Hong Kong Polytechnic University (PolyU) and the Hong Kong University of Science and Technology (HKUST) shared ninth place.\n\nThe rankings, compiled by international higher education experts at QS, assessed more than 1,700 universities across 26 higher education systems.\n\nBen Sowter, QS' senior vice-president, said Hong Kong continues to set the benchmark for university performance in Asia.\n\n\"The University of Hong Kong leads the region for a second consecutive year, and having five Hong Kong institutions in the top 10, more than any other higher education system, is an exceptional achievement,\" he said.\n\n\"Increasing international engagement and growing recognition among academics and employers reinforce Hong Kong's regional strength, at a time when competition for students, researchers and academic talent is intensifying across Asia.\"\n\nXiang Zhang, president and vice-chancellor of HKU, attributed the university’s second straight top ranking in Asia to its community’s unwavering commitment to academic excellence and its recent drive for change.\n\n\"We will continue to draw the world’s finest minds to shape an academic ecosystem driven by a spirit of inquiry, propelling Hong Kong’s advancement as an international hub for education, innovation and technology, while supporting the nation's high-quality development through scientific breakthroughs and contributing to solving global challenges,\" he said in a statement.\n\nMeanwhile, CityUHK acting president Lee Chun-sing described the university’s rise into the top five for the first time as an encouraging achievement.\n\n\"This progress reflects the collective efforts of our academic community to pursue excellence in research and create an inspiring learning environment,\" Lee said in a statement.\n\n\"It also demonstrates the success of our strategic commitment to recruiting global academic talent and nurturing future leaders.\"\n\nThe top 10 also included three mainland institutions – among them Peking University and Tsinghua University – and two universities from Singapore.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T12:26:14.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876427-20261103.htm"
     },
     {
       "id": "14621c7687f835d1",
