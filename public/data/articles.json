@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T05:15:23.783Z",
-  "checkedAt": "2026-11-05T05:15:23.783Z",
+  "generatedAt": "2026-11-05T05:30:24.486Z",
+  "checkedAt": "2026-11-05T05:30:24.486Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 17
     },
     {
       "id": "rfa-english",
@@ -258,6 +258,17 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/"
+    },
+    {
+      "id": "e229c087f76cfd6d",
+      "title": "Student assessment report released",
+      "excerpt": "The Hong Kong Examinations & Assessment Authority (HKEAA) has submitted the 2026 Territory-wide System Assessment (TSA) report to the Education…",
+      "fullText": "The Hong Kong Examinations & Assessment Authority (HKEAA) has submitted the 2026 Territory-wide System Assessment (TSA) report to the Education Bureau, the Government announced today.\n\nThe report said that the performance of Primary 3 and Secondary 3 students in the three major subjects ­– Chinese Language, English Language and Mathematics – remained generally steady this year, aligning closely with results from previous assessments.\n\nThe Education Bureau welcomed the findings, noting that schools broadly agree that the TSA report provides practical data and analysis regarding student performance. Combined with internal assessment results, this information enables schools to tailor their curriculum plans and instructional strategies to enhance learning effectiveness, fully reflecting the \"Assessment for Learning\" ethos.\n\nExpressing its gratitude to the school sector, the bureau commended educators for continuously adopting diversified teaching strategies to cater to the varied needs of students and raise instructional effectiveness.\n\nThe HKEAA will soon distribute school-level data directly to primary and secondary schools for feedback on learning and teaching. Meanwhile, the bureau will host thematic seminars on \"Promoting Assessment for Learning\" next month to support schools in making effective use of assessment data to enhance outcomes.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_120342_663/images/20261105124150748.jpg",
+      "publishedAt": "2026-11-04T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_120342_663.html"
     },
     {
       "id": "a01030ceb54ef2e2",
@@ -1041,17 +1052,6 @@
       "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_164936_634.html"
     },
     {
-      "id": "838bf185f0a99ca1",
-      "title": "DC member sentenced to prison",
-      "excerpt": "The District Court today sentenced Yuen Long District Council (DC) Member Sei Chun-hing to 2.5 years’ imprisonment following his conviction…",
-      "fullText": "The District Court today sentenced Yuen Long District Council (DC) Member Sei Chun-hing to 2.5 years’ imprisonment following his conviction for unlawful intercourse with a girl under 16.\n\nUnder the District Councils Ordinance, any DC member convicted of an offence and sentenced to a prison term exceeding three months without the option of a fine is disqualified from holding office.\n\nAs both the prosecution and the defence retain the right to lodge an appeal, the Government will closely monitor the developments of the judicial proceedings.\n\nMeanwhile, Mr Sei's remuneration package as a DC member has been suspended since his conviction on September 14.\n\nThe Government places great importance on the conduct and integrity of DC members.\n\nIn accordance with the ordinance and the performance monitoring system of DC members, the Secretary for Home & Youth Affairs has appointed a supervisory committee to conduct an investigation. The committee will follow up on the matter as the case develops.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_151419_588/images/20261103163554209.jpg",
-      "publishedAt": "2026-11-02T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_151419_588.html"
-    },
-    {
       "id": "87dbedd783cd84a3",
       "title": "CE begins Beijing visit",
       "excerpt": "Chief Executive John Lee today arrived in Beijing, where he began his visit by touring the Beijing Municipal Administrative Center…",
@@ -1721,17 +1721,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260919/20260919_161358_599.html"
-    },
-    {
-      "id": "4935a4def0ff3a58",
-      "title": "Jobless rate rises to 3.8%",
-      "excerpt": "The seasonally adjusted unemployment rate increased from 3.7% in the May to July period to 3.8% in three months from…",
-      "fullText": "The seasonally adjusted unemployment rate increased from 3.7% in the May to July period to 3.8% in three months from June to August, the Census & Statistics Department announced today.\n\nThe underemployment rate also rose from 1.7% to 1.9% during the same period.\n\nThe number of unemployed persons (not seasonally adjusted) increased by around 8,200 to 153,900 in the June to August period, while the labour force rose by around 12,600 to 3,805,900.\n\nLooking ahead, Secretary for Labour & Welfare Chris Sun said the continued expansion of the local economy is expected to underpin overall labour market conditions, though employment situations across various industries will continue to hinge on their respective business conditions.\n\nHe added that the potential impacts of evolving external uncertainties on corporate hiring sentiments still warrant attention.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_165139_765/images/20260917172737037.jpg",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_165139_765.html"
     },
     {
       "id": "9b802df8bd789f7a",
