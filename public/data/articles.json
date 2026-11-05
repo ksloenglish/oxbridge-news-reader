@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T06:30:23.555Z",
-  "checkedAt": "2026-11-05T07:30:22.408Z",
+  "generatedAt": "2026-11-05T07:45:26.201Z",
+  "checkedAt": "2026-11-05T07:45:26.201Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 13
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "e1418f4d138e257a",
+      "title": "Top import expo opens in Shanghai",
+      "excerpt": "The ninth edition of the China International Import Expo opened in Shanghai on Thursday amid fanfare. It's the country's largest…",
+      "fullText": "The ninth edition of the China International Import Expo opened in Shanghai on Thursday amid fanfare.\n\nIt's the country's largest import expo and the world's first national-level exhibition dedicated to imports.\n\nVice Premier Ding Xuexiang delivered a keynote speech at the opening ceremony.\n\n\"China's continuous hosting of the China International Import Expo is not only a concrete measure to actively expand imports, but more importantly, a practical action to advocate for an open world economy, promote a proactive, dynamic and upward trade balance, and drive global development towards becoming more balanced, coordinated and inclusive,\" he said.\n\n“Everyone is concerned about trade market issues, the key is how to realise trade balance.”\n\nThis year's event, which runs through November 10, has attracted 4,142 overseas exhibitors from more than 160 countries and regions.\n\nMore than 480 exhibits are making their global, Asian or China debuts at the 2026 event, the highest number ever.\n\nThis year's expo retains its six major exhibition areas and an innovation incubation section, covering areas such as intelligent industry and information technology, consumer goods, food and agricultural products, automobiles and smart mobility, medical devices and healthcare products, and trade in services. (Xinhua and agencies)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T07:38:34.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876667-20261105.htm"
+    },
     {
       "id": "36bbaa9e95645eca",
       "title": "Road worker killed in Sha Tin vehicle collision",
