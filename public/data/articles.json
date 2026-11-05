@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T20:45:17.460Z",
-  "checkedAt": "2026-11-05T22:13:35.353Z",
+  "generatedAt": "2026-11-05T22:15:18.789Z",
+  "checkedAt": "2026-11-05T22:15:18.789Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "0bcb4ec9d18a2527",
+      "title": "Liv Golf league to shut down after five years",
+      "excerpt": "The rebel Liv Golf tour will shut down after five years that rocked the global game, saying on Thursday that…",
+      "fullText": "The rebel Liv Golf tour will shut down after five years that rocked the global game, saying on Thursday that an effort to relaunch after losing its original Saudi backers has been scrapped.\n\nThe announcement follows reports that BC Partners Credit, the lead investor in \"Liv 2.0,\" had withdrawn from the project after struggling to convince several star players to fully commit to the league going forward.\n\nIn a statement, Liv Golf said only that attempts to implement its Restructuring Support Agreement with BC Partners had foundered.\n\n\"Despite extensive discussions, the relevant parties were ultimately unable to reach a consensual resolution of certain outstanding terms of the Transaction contemplated by the RSA,\" Liv Golf said. \"In light of the current circumstances, we believe shifting toward an orderly wind-down is the most responsible path forward for the League at this time.\"\n\nThe statement confirmed Liv attorney Matthew Williams's statements in a 13-minute hearing in bankruptcy court in New Jersey on Thursday.\n\nThe once free-spending Saudi-backed league that had turned the golf world upside-down by luring superstars away from the traditional PGA Tour will begin liquidating its remaining assets on Monday, the court heard.\n\nSaudi Arabia's Public Investment Fund (PIF) had poured an estimated US$5 billion into the tour since 2022, before abruptly pulling the plug earlier this year.\n\nLiv formally filed for bankruptcy protection in September, though officials vowed to relaunch as \"Liv 2.0\" next season with a shorter schedule and reduced prize money, and equity stakes in the league for players.\n\nBC Partners Credit had pledged an initial funding commitment of a potential US$300 million.\n\nBut several former Liv stars including Jon Rahm publicly announced their decisions to withdraw from the new version of the tour in recent weeks. Several others were believed to be on the fence.\n\nEven Bryson DeChambeau – arguably the breakaway circuit's biggest name, who continued to back the tour – did not publicly commit to returning. (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T22:04:30.000Z",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876736-20261106.htm"
+    },
     {
       "id": "498935d703372475",
       "title": "Russell Brand guilty of rape, three sexual assaults",
@@ -1369,17 +1380,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876053-20261031.htm"
-    },
-    {
-      "id": "b08d562c81232f02",
-      "title": "Kane edges Mbappe by narrow margin",
-      "excerpt": "Harry Kane won the Ballon d'Or by the smallest margin under its current voting system when he edged Kylian Mbappe…",
-      "fullText": "Harry Kane won the Ballon d'Or by the smallest margin under its current voting system when he edged Kylian Mbappe by 28 points, France Football which runs the awards, revealed on Friday.\n\nThe magazine published a breakdown of the votes in its Friday edition.\n\nBayern Munich's Kane, the first Englishman to win the award since Michael Owen in 2001, received 40 first-place votes from the 100 jurors and a total of 1,055 points. France captain Mbappe of Real Madrid was placed first 23 times and finished with 1,027 points.\n\nThe previous smallest margin was 41 when Rodri, then of Manchester City, edged another Real player Vinicius Junior by 41 points in 2024.\n\nLast season, Paris Saint-Germain forward Ousmane Dembele totalled 1,380 points as he finished 321 points ahead of Lamine Yamal of Barcelona.\n\nThis summer, Yamal won a World Cup with Spain but he finished third in the voting on 881 points, 174 behind Kane.\n\nThe Ballon d'Or is awarded following a vote by journalists (one per country) representing the top 100 nations in the Fifa rankings for men, and the top 50 for women. (AFP)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T02:24:24.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876040-20261031.htm"
     },
     {
       "id": "251e9a97db768b7c",
