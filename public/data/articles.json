@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T00:15:22.374Z",
-  "checkedAt": "2026-11-05T00:45:20.156Z",
+  "generatedAt": "2026-11-05T01:00:28.202Z",
+  "checkedAt": "2026-11-05T01:00:28.202Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "03699cdc74cca4e6",
+      "title": "WHO approves clinical trials on two new Ebola vaccines",
+      "excerpt": "The World Health Organisation on Wednesday approved clinical trials for two new Ebola vaccines, as doctors fight to control an…",
+      "fullText": "The World Health Organisation on Wednesday approved clinical trials for two new Ebola vaccines, as doctors fight to control an outbreak in Africa that has killed more than 5,300 people.\n\n\"Last month, a vaccine trial began using the Ervebo vaccine, which is approved for Ebola virus, but not for Bundibugyo virus\" ravaging the Democratic Republic of Congo, WHO chief Tedros Adhanom Ghebreyesus told reporters.\n\n\"Today, WHO expert groups are recommending adding two vaccine candidates to the trial\" he added.\n\nThose two – ChAdOx1 BDBV, developed by the University of Oxford with the Serum Institute of India, and Moderna's mRNA-1469 – were developed specifically for the Bundibugyo virus, he explained.\n\nThe DRC's National Institute for Biomedical Research is leading the trial, backed by partners including WHO, said Tedros.\n\n\"Vaccines are powerful tools, but they are not substitutes for the proven measures that can save lives now: early care, contact tracing, isolation, safe and dignified burials and trusted engagement with communities,\" he added.\n\nOn Monday, the Africa Centres for Disease Control and Prevention (Africa CDC) said Africa's ongoing Ebola epidemic had killed more than 5,300 people, the vast majority of them in the Democratic Republic of the Congo.\n\nA total of 10,444 cases have been confirmed, with a fatality rate of more than 50 percent, it added. (AFP)\n\nEdited by XXXX",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T00:35:03.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876595-20261105.htm"
+    },
     {
       "id": "7989e811d5c50c0f",
       "title": "Real stay perfect in Champions League as City hold on",
@@ -852,17 +863,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876360-20261103.htm"
-    },
-    {
-      "id": "aafa174606cd83d7",
-      "title": "Trump California gambit gets short shrift in top court",
-      "excerpt": "The US Supreme Court has rejected a Trump administration emergency attempt to force California to set aside the mail-in ballots…",
-      "fullText": "The US Supreme Court has rejected a Trump administration emergency attempt to force California to set aside the mail-in ballots of more than 20,000 people on the grounds they may not be American citizens.\n\nActing a day before the US midterm elections, the top court denied the request in an unsigned, one-sentence ruling, as is common in urgent cases before the court.\n\nIt gave no reasoning for the decision.\n\nThe federal government had accused California of having 190,000 illegal voters on its rolls.\n\nIt recently revised the figure to 20,000 and filed an emergency lawsuit – after early voting had begun – to stop the state from sending ballots to them.\n\nThe Supreme Court action came after lower courts last week – and again on Monday – rejected the demand by the US Department of Justice, with one judge calling it brazen pre-election interference.\n\nSolicitor General D John Sauer, in an emergency filing with the Supreme Court, had said that \"once California commingles the challenged ballots with lawful ones, there is no way to get the challenged ballots back\".\n\nThe California ballot case appeared to be another attempt by the administration to cast doubt on the results of Tuesday's vote, in which US President Donald Trump's Republican Party is at risk of losing control of Congress.\n\nUS District Judge David Carter last week refused to order the seizure of the ballots and sided with the government of Democratic-led California.\n\n\"The DOJ's actions are indicative of a broad, ongoing pattern of attempted election interference by federal officials,\" Carter said.\n\nAnother district judge, James Boasberg, also ruled against the Trump administration on Monday, saying the lists of alleged non-citizens were \"flawed\".\n\nA controversy similar to California's arose in neighbouring Nevada.\n\nThe administration said initially it had identified 16,000 non-citizen voters there, but after verification procedures that number dropped to 185 – and then to zero.\n\nStudies repeatedly show that while cases of voter fraud exist, such incidents are extremely rare and do not influence election results.\n\nIn another closely-watched election case, a federal judge in Alaska over the weekend tossed out a bid by the Trump administration to hold up US Senate election results in the state should the Democratic candidate win.\n\nThe DOJ had asked the court to block certification of the results if Republican Dan Sullivan, the incumbent, loses on Tuesday because a second candidate, also named Dan Sullivan, would have siphoned off votes.\n\nMary Peltola, the Democratic candidate for Senate in Alaska, has denied recruiting the second Sullivan into the race, but The New York Times reported that members of her campaign staff had been involved. (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T03:35:49.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876355-20261103.htm"
     },
     {
       "id": "4880a05b8fac0ab0",
