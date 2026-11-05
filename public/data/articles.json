@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T11:45:18.004Z",
-  "checkedAt": "2026-11-05T12:30:22.182Z",
+  "generatedAt": "2026-11-05T12:45:17.624Z",
+  "checkedAt": "2026-11-05T12:45:17.624Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 14
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "a1beb62f05c8629b",
+      "title": "Evening News on TV32 - Nov 5",
+      "excerpt": "Top stories for Thursday, Nov 5, 2026 - Chief Executive John Lee calls Joshua Wong a primary culprit in undermining…",
+      "fullText": "Top stories for Thursday, Nov 5, 2026\n\n- Chief Executive John Lee calls Joshua Wong a primary culprit in undermining Hong Kong's prosperity and stability, as the former activist gets a 10-year jail term for violating the National Security Law.\n\n- The China International Import Expo opens in Shanghai.\n\n- Americans react to the Republicans' crushing defeat in the midterms.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T12:40:02.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876709-20261105.htm"
+    },
     {
       "id": "7addc014294997c2",
       "title": "Cristiano Ronaldo quits international football",
@@ -390,6 +401,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_120342_663.html"
+    },
+    {
+      "id": "e92cfa7e283e8efb",
+      "title": "Judicial proceedings defended",
+      "excerpt": "(To watch the full media session with sign language interpretation, click here .) Secretary for Security Tang Ping-keung today issued…",
+      "fullText": "(To watch the full media session with sign language interpretation, click here .)\n\nSecretary for Security Tang Ping-keung today issued a condemnation of malicious attacks and smears launched by external forces in relation to the Wong Chi-fung case, stating that Wong was sentenced through fair and open judicial proceedings.\n\nThe High Court’s Court of First Instance this morning sentenced Wong to 10 years’ imprisonment for the offence of “conspiracy to commit collusion with foreign countries or with external elements to endanger national security”.\n\nMeeting the media this afternoon, Mr Tang said the court had ruled that the case fell within the category of \"an offence of a grave nature\" and warranted severe punishment.\n\n“I note that since the sentence of Wong, external forces have launched malicious attacks and smears regarding the present case,\" he said. “Those launching attacks against us are exactly the same external forces that Wong Chi-fung and Law Kwun-chung attempted to collude with. They must be strongly condemned, and Hong Kong citizens must recognise and acknowledge that clearly.\n\n“In fact, Wong pleaded guilty, and Wong was sentenced through fair and open judiciary proceedings that fully demonstrated the rule of law that the courts of the Hong Kong Special Administrative Region have consistently upheld.”\n\nThe security chief iterated that it is the constitutional duty of the Hong Kong SAR Government to safeguard national security, and that the Government will continue to resolutely combat actions that endanger national security.\n\n“We will discuss with the Department of Justice to see if there is any need for appeal of the sentence,” he added.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_172828_699/images/20261105195035641.jpg",
+      "publishedAt": "2026-11-04T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_172828_699.html"
     },
     {
       "id": "a01030ceb54ef2e2",
@@ -882,8 +904,8 @@
       "fullText": "A local economist said Hong Kong’s third-quarter GDP performance has lifted business sentiment, but the recovery remains uneven and will take time to broaden.\n\nHo Lok-sang, adjunct professor with the Academy for Applied Policy Studies and Education Futures at the Education University of Hong Kong, made the assessment as advance estimates showed Hong Kong’s economy grew 5.2 percent year on year in the third quarter of 2026.\n\nThe clearest sign of recovery, he said, was in prime office space.\n\n\"Especially for the Grade A centrally located locations, [the] office take-up rate is pretty impressive,\" he said. \"Now, certainly it’s recovering.\"\n\nBut Ho stressed that the strength is not spreading beyond that segment.\n\n\"On the outside of the Grade A and centrally located areas, office demand is still relatively weak, and the demand for commercial properties is still relatively weak,\" he said.\n\nHe added that a broader recovery will not come quickly and will likely depend on lower rents.\n\n\"I think that it will take quite some time to recover, and I think recovery will also necessitate a decline in rents,\" Ho said.\n\nHo was more upbeat about the rest of the year's outlook.\n\n\"Definitely the full year growth is going to be quite strong, and I am pretty confident that it will be over four percent or could be as much as 4.5 percent,” he said.\n\nThe government's real GDP growth forecast for 2026 as a whole is 3.5 to 4.5 percent.\n\nHo said the financial sector is performing \"pretty well, extremely well\", with IPOs still at a very high level and \"no sign of it ebbing\".\n\nHe added that exports, too, are \"doing quite well\".\n\nBut he flagged persistent weak spots: \"Demand in terms of both construction demand and also the retail consumption demand and restaurant business are still lagging behind\".\n\nTo support these sectors, Ho pointed to major events and tourism.\n\n\"Of course the major events – for example concerts and Halloween and so on – it’s entirely possible to boost tourism even more,\" he said.\n\n\"Tourism is doing pretty well this year, and we hope that the tourists can stay a bit longer and consume a bit more.\"\n\nHo said that outcome depends on the business sector and the government continuing to promote such major events.\n\nMeanwhile, Kenny Shui, vice president of Our Hong Kong Foundation, said the third-quarter figures pointed to strengthening momentum: goods exports rose 30.4 percent on AI and electronics demand, while services exports grew 4.3 percent on tourism and financial activity.\n\nBut he said private consumption rose just 2.8 percent, slower than the previous quarter, showing that the strength in retail and investment has yet to fully reach households.\n\n\"Growth momentum is broadening, but the recovery still needs to be felt more widely,\" Shui said.\n\nWith first-nine-month growth at 5.1 percent, Shui expects a fourth-quarter growth of four to five percent and full-year growth of around five percent – above the government’s forecast, leaving room for an upward revision.\n\nHe cautioned, however, that interest rates could weigh on business investment and household spending, and with unemployment at 3.9 percent, consumption still needs job and income support.\n\nIn the fourth quarter, the key will be whether exports stay strong and consumption and employment improve, Shui added.\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-11-03T12:38:22.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876418-20261103.htm"
     },
     {
@@ -1127,17 +1149,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_190418_500.html"
-    },
-    {
-      "id": "96f60e091304422e",
-      "title": "September retail sales up 6.4%",
-      "excerpt": "The total value of retail sales in September, provisionally estimated at $33.4 billion, was up 6.4% compared with the same…",
-      "fullText": "The total value of retail sales in September, provisionally estimated at $33.4 billion, was up 6.4% compared with the same month a year earlier, the Census & Statistics Department said today.\n\nAfter netting out the effect of price changes over the same period, the provisional estimate of the volume of total retail sales represents a 3.9% year-on-year increase.\n\nOnline sales accounted for 13.1% of the total retail sales value in September. Provisionally estimated at $4.4 billion, the value of this segment rose 12% from the same month a year earlier.\n\nThe value of sales of electrical goods and other consumer durable goods not elsewhere classified increased by 9.7% in September 2026 compared with the same period a year earlier.\n\nThere were also increases in the following categories: jewellery, watches and clocks, and valuable gifts (up 20.3%); other consumer goods not elsewhere classified (up 11.5%); food, alcoholic drinks and tobacco (up 5.3%); medicines and cosmetics (up 9%); wearing apparel (up 11.1%); footwear, allied products and other clothing accessories (up 12.4%); furniture and fixtures (up 9%); and optical shops (up 14.6%).\n\nMeanwhile, the value of sales of commodities in supermarkets dropped by 1% in September 2026 over a year earlier. This was followed by sales of commodities in department stores (down 4.1%); books, newspapers, stationery and gifts (down 0.5%); fuels (down 3.1%); motor vehicles and parts (down 34.7%); and Chinese drugs and herbs (down 3%).\n\nThe Government said total retail sales value grew at a faster year-on-year rate in September, marking the 17th consecutive month of expansion. It noted that growth in sales was broad-based across many types of retail outlets, reflecting solid local consumption sentiment in general.\n\nA pick-up in visitor arrivals and sales of festive items associated with the earlier arrival of Mid-Autumn Festival this year also contributed to growth in overall sales in the month. Meanwhile, online retail sales value rose further alongside consumers' growing use of digital channels.\n\nLooking ahead, the Government said that sustained solid economic expansion and growth in labour earnings will bolster local consumption. A series of upcoming mega-events and festive celebrations in various districts, together with continued growth in inbound tourism, will inject additional momentum into the retail sector.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_165222_094/images/20261103173821452.jpg",
-      "publishedAt": "2026-11-02T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_165222_094.html"
     },
     {
       "id": "d6d6e7bb7f93d89f",
