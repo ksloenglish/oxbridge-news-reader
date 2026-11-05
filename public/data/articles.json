@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T09:45:23.788Z",
-  "checkedAt": "2026-11-05T09:45:23.788Z",
+  "generatedAt": "2026-11-05T09:55:36.183Z",
+  "checkedAt": "2026-11-05T09:55:36.183Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 13
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "00eaef69fe140a6d",
+      "title": "DOJ launches HK$20,000 lawtech funding scheme",
+      "excerpt": "The Department of Justice has launched a funding scheme aimed at helping small and medium-sized law firms and newly qualified…",
+      "fullText": "The Department of Justice has launched a funding scheme aimed at helping small and medium-sized law firms and newly qualified barristers adopt legal technology.\n\nThe Funding Scheme for LawTech Solution Subscription, managed by the Law Society of Hong Kong and the Hong Kong Bar Association, will provide eligible applicants with up to HK$20,000 for a one-year subscription to designated legal technology services.\n\nThe list covers services from 14 local, mainland and overseas providers, spanning legal research, document drafting, workflow management and hearing support.\n\nEligible applicants are sole practitioners, Hong Kong law firms with five or fewer partners, and barristers with no more than seven years of call.\n\nSpeaking to reporters at Hong Kong Legal Week on Thursday, Deputy Secretary for Justice Horace Cheung said the pilot scheme would ease the financial burden on applicants seeking to improve their ability to adopt lawtech services.\n\n\"We hope that we can use such kind of financial incentive to encourage them to use the lawtech tools in their practice and we believe that after this pilot scheme, they will know how good the legal tool can help them in their practice,\" he said.\n\n\"I would say that is only the beginning. Certainly we will monitor the progress of the pilot scheme and see what we can do further for the legal sector in the years ahead.\"\n\nCheung also said the Department of Justice would release guidance notes on the application of technology in legal practice.\n\nThe notes, he said, are intended to give the legal profession principles to consider and practical advice on adopting legal technology, helping practitioners guard against potential risks while remaining mindful of their ongoing professional responsibilities.\n\nMeanwhile, José-Antonio Maurellet, chairman of the Hong Kong Bar Association, said the scheme was timely and far-sighted and would benefit about 500 members.\n\nHe believes it would encourage younger members to invest more time and resources in training and to stay competitive.\n\nRoden Tong, president of the Law Society of Hong Kong, for his part, said the Department of Justice had introduced the scheme for a second time, adding that the support helped the legal profession make better use of technology and improve efficiency.\n\nThe application deadline is January 29.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T09:48:54.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876676-20261105.htm"
+    },
     {
       "id": "ae9ad0e3ad848fa5",
       "title": "Kane 'feels right at home' with Bayern extension",
@@ -904,8 +915,8 @@
       "fullText": "Hong Kong’s economy grew 5.2 percent year on year in the third quarter of 2026, buoyed by stronger exports and domestic demand, according to advance estimates.\n\nThe Census and Statistics Department said the increase compared with a 4.2 percent growth in the second quarter. On a seasonally adjusted basis, GDP rose 1.9 percent quarter on quarter.\n\nFor the first nine months combined, the economy grew 5.1 percent – the fastest growth for the period in five years.\n\nGoods exports rose 30.4 percent in real terms, after 28.9 percent in the second quarter, while imports grew 29.9 percent.\n\nExports of services increased 4.3 percent. Investment strengthened, with gross domestic fixed capital formation up 7.3 percent, while private consumption grew 2.8 percent and government consumption was up 1.7 percent.\n\nA government spokesman said the economy saw robust expansion, underpinned by accelerating exports and solid domestic demand.\n\nHe said the outlook remained positive, citing global artificial intelligence investment, inbound tourism, cross-boundary traffic and financial market activity.\n\nBut he advised caution over geopolitical tensions in the Middle East and tighter monetary policies by major central banks.\n\nRevised GDP figures and the updated forecast for 2026 will be released on November 13.\n\nSeparately, retail sales rose 6.4 percent year on year in September to a provisional HK$33.4 billion – the 17th straight month of expansion.\n\nAugust’s revised increase was 5.6 percent, and sales for the first nine months were up 8.3 percent by value.\n\nOnline sales rose 12 percent to HK$4.4 billion in September, or 13.1 percent of total retail sales, and were up 21.2 percent for the first nine months.\n\nRetail sales volume rose 3.9 percent in September.\n\nThe spokesman said solid local consumption sentiment, more visitor arrivals and earlier Mid-Autumn festive sales supported retail growth.\n\nHe said upcoming mega events, festive celebrations and inbound tourism should add momentum, though external headwinds warranted close monitoring.\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-11-03T09:13:27.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876400-20261103.htm"
     },
     {
