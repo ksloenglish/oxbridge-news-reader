@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T08:00:28.825Z",
-  "checkedAt": "2026-11-05T08:15:18.480Z",
+  "generatedAt": "2026-11-05T08:30:24.104Z",
+  "checkedAt": "2026-11-05T08:30:24.104Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 13
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "7f060e854904f25b",
+      "title": "Wong undermined HK's prosperity and stability: CE",
+      "excerpt": "Chief Executive John Lee on Thursday said Joshua Wong was one of the “primary culprits responsible for undermining Hong Kong’s…",
+      "fullText": "Chief Executive John Lee on Thursday said Joshua Wong was one of the “primary culprits responsible for undermining Hong Kong’s prosperity and stability” after he was jailed for 10 years for conspiracy to collude with foreign countries or external elements to endanger national security.\n\nIn a statement, Lee said Wong has repeatedly broken the law over the years, adding that before the implementation of the National Security Law (NSL) Wong, Nathan Law and others persistently colluded with foreign countries and tried to get them to impose sanctions against China and the SAR.\n\nLee went on to say that after the NSL took effect, Wong, Law and their accomplices “showed no repentance and continued to act as agents of foreign countries and external forces, wantonly persisting in conspiring to collude with foreign countries or external forces to endanger national security, in a vain attempt to exert pressure on the Central Authorities and the HKSAR Government through external forces, betraying Hong Kong while remaining incorrigible\".\n\nMeanwhile, a government spokesman said Wong's sentence \"completely shattered the illusion of individuals endangering national security that they could escape liability under the guise of so-called 'international battlefront' or 'international advocacy', and demonstrated to the international community the HKSAR's firm determination to safeguard national security\".\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-05T08:09:30.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876659-20261105.htm"
+    },
     {
       "id": "e1418f4d138e257a",
       "title": "Top import expo opens in Shanghai",
@@ -269,6 +280,17 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/"
+    },
+    {
+      "id": "bbc2fa366fb47ee7",
+      "title": "HK global education role grows",
+      "excerpt": "Secretary for Education Choi Yuk-lin spoke today at the World Class University Presidents Forum 2026, highlighting Hong Kong's growing strength…",
+      "fullText": "Secretary for Education Choi Yuk-lin spoke today at the World Class University Presidents Forum 2026, highlighting Hong Kong's growing strength, global voice and strategic vision as a premier international higher education hub. The two-day forum in Hong Kong concludes today.\n\nAddressing the audience, Ms Choi noted that the forum gathered leaders and university presidents representing more than one-third of the world's top 50 universities. \"Assembling such a distinguished constellation of global academic leadership strongly reaffirms Hong Kong's standing as an international education hub and significantly enhances the city's discourse power in the global educational arena,\" she said.\n\nMs Choi emphasised that Hong Kong's institutional strength is firmly rooted in academic excellence, robust national support and open connectivity. Citing the latest QS World University Rankings: Asia 2027, she pointed out that Hong Kong continues to set regional benchmarks with five local universities securing places among Asia's top 10.\n\nServing as a vital bridge between East and West, Hong Kong offers a fertile ecosystem characterised by internationalisation and diversification to bring global talent together, she said. The education chief added that the forum forms part of a strategic series of signature initiatives promoting the “Study in Hong Kong” brand worldwide, alongside major events like February’s Asia-Pacific Association for International Education Conference and Exhibition.\n\nElaborating on the forum's theme, \"Higher Education Reimagined: Innovating for the Future\", Ms Choi stressed that no matter how the global landscape evolves, universities remain fundamentally tied to economic development, societal well-being and human progress. She noted that world-leading institutions must stand at the forefront to guide this transformation as Hong Kong's educational landscape evolves.\n\nThe vision is being physically realised through the development of the Northern Metropolis University Town. The Education Bureau pointed out that under the \"One Town, Five Elements\" framework, the Hong Kong Special Administrative Region Government is building a holistic campus ecosystem integrating higher education, advanced research, market innovation, vibrant living spaces and top-tier talent.\n\nPositioned at the gateway to the Chinese Mainland, the University Town will foster deep industry-academia-research integration, linking academic research directly with industry capabilities to serve national development under the 15th Five-Year Plan.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_133828_723/images/20261105152558884.jpg",
+      "publishedAt": "2026-11-04T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_133828_723.html"
     },
     {
       "id": "e229c087f76cfd6d",
@@ -882,8 +904,8 @@
       "fullText": "Hong Kong is ambitious about helping create the \"enterprises of tomorrow\", Financial Secretary Paul Chan said on Tuesday in amplifying the pivotal role the Northern Metropolis would play in realising this vision.\n\nThat came as he told investors at the Global Financial Leaders' Investment Summit in Central about the dedication that investors can expect of Hong Kong to strengthening its contribution to innovation.\n\n“Our ambition is not only to finance businesses created elsewhere, but also to help create the enterprises of tomorrow,” Chan said.\n\n“The Northern Metropolis is central to this effort.\n\n\"It will bring universities, research facilities and technology enterprises closer together, linking education, technology and talent more closely with industry.”\n\nThe mega development project in the northern New Territories would, Chan said, serve as a base for closer ties with other Greater Bay Area cities, allowing Hong Kong to draw on their strengths in commercialisation, engineering and advanced manufacturing.\n\nHong Kong was eager to pair promising businesses with capital and partners, as well as give investors trusted pathways into unfamiliar sectors and economies, he added.\n\nHong Kong had, Chan pointed out, also taken steps to widen its connections with various economies and broaden asset classes in various regions.\n\n“In Southeast Asia, we are welcoming more enterprises from Indonesia, Thailand and Malaysia to list in Hong Kong,” he said.\n\n“In the Middle East, Hong Kong and Saudi Arabia have listed ETFs, tracking each other's markets, giving investors new routes to invest.”\n\n“In Central Asia, Kazakhstan has already tapped Hong Kong's equity and bond markets. We welcome more issuers to raise capital here through listings and bond issuances.”\n\nChan added that Hong Kong would also continue to expand the range of assets and financial services to give investors more options to diversify.\n\nThis, he said, included a central focus on developing a commodity and gold trading ecosystem.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-03T08:10:16.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876380-20261103.htm"
     },
     {
@@ -1083,17 +1105,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_165222_094.html"
-    },
-    {
-      "id": "ceaa04ccd7f3ca34",
-      "title": "October property sales fall 10%",
-      "excerpt": "The Land Registry logged 5,795 sale and purchase agreements received for registration for all building units in October, a decrease…",
-      "fullText": "The Land Registry logged 5,795 sale and purchase agreements received for registration for all building units in October, a decrease of 10% compared with September and down 19.4% year on year.\n\nThe total consideration for building unit sale and purchase agreements in October dropped 6.5% from the previous month to $50 billion, representing a 13.6% year-on-year decrease.\n\nA total of 4,512 agreements were for residential units, down 5.2% from the previous month and down 21% from a year ago.\n\nThe total consideration for residential units was $42.3 billion, a decrease of 9.5% compared with the previous month and a drop of 17.1% year on year.\n\nThere were 418,352 land register searches last month.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_152029_668/images/20261103164812383.jpg",
-      "publishedAt": "2026-11-02T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_152029_668.html"
     },
     {
       "id": "d6d6e7bb7f93d89f",
@@ -1721,17 +1732,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260919/20260919_161358_599.html"
-    },
-    {
-      "id": "9b802df8bd789f7a",
-      "title": "HSK campus sites application opened",
-      "excerpt": "The Government today rolled out three sites in the Hung Shui Kiu (HSK) University Town campus area for eligible post-secondary…",
-      "fullText": "The Government today rolled out three sites in the Hung Shui Kiu (HSK) University Town campus area for eligible post-secondary institutions to apply for, and will provide loan arrangements to support their campus construction.\n\nThe campus sites have a total area of around 26 hectares: Area (1) of approximately 16.5 hectares, Area (2) of approximately 5.3 hectares and Area (3) of approximately 4.4 hectares. The application deadline is December 31.\n\nThe First Five-Year Plan 2026 Policy Address announced that the Government will develop the San Tin, HSK and Ta Kwu Ling University Towns in the Northern Metropolis (NM).\n\nLocated in the HSK/Ha Tsuen New Development Area, HSK University Town’s campus area and adjoining technology and industry areas, including the HSK Industry Park, the Lau Fau Shan Digital Technology Hub, the Yuen Long InnoPark and the Hong Kong Microelectronics Research and Development Institute, will be developed as a Centre for Applied Post-secondary Education in Smart Manufacturing and Global Talent Cultivation.\n\nThe plan is to drive NM development with university towns, fostering the integrated development of education, technology and talent, further supporting post-secondary education to expand capacity and enhancing quality. This also helps consolidate Hong Kong's position as an international education hub.\n\nA Designated Vetting Group led by the Chief Secretary will be set up to facilitate the holistic consolidation and development planning of the university towns. It will be responsible for reviewing the proposals submitted by institutions, as well as approving and deciding on campus area sites and loan proposals.\n\nSubsequently, the Government will grant the sites to successful institutions at a nominal land premium by way of private treaty grants, and the relevant loan proposals will be submitted to the Legislative Council's Finance Committee for approval according to established procedures.\n\nThe Government encourages interested institutions to plan their development in the Northern Metropolis University Town more comprehensively according to the positioning and functions of different university towns to give full play to the vision of empowering the development of the NM through teaching and research.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_151152_811/images/20260917181556994.jpg",
-      "publishedAt": "2026-09-16T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260917/20260917_151152_811.html"
     }
   ]
 }
