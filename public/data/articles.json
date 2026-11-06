@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T01:30:21.481Z",
-  "checkedAt": "2026-11-06T02:47:08.610Z",
+  "generatedAt": "2026-11-06T03:00:31.342Z",
+  "checkedAt": "2026-11-06T03:00:31.342Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "8598ddf5493f2002",
+      "title": "California governor to commute death sentences to life",
+      "excerpt": "California Governor Gavin Newsom said he was commuting all death sentences across the state to life imprisonment, in a move…",
+      "fullText": "California Governor Gavin Newsom said he was commuting all death sentences across the state to life imprisonment, in a move that will affect almost 550 prisoners.\n\nNewsom, who is widely expected to make a run for the White House in 2028, said capital punishment was \"incompatible\" with the values of the most populous state in the US.\n\n\"Today I am acting on my long and deeply held conviction that individually and collectively we are stronger as a society when we reject state-sanctioned killing,\" he wrote in a letter addressed \"to all Californians\".\n\nWith 548 people awaiting execution in California, the state has one of the largest death row populations in the world.\n\nHowever, it has not carried out a death sentence for two decades, even as courts continue to impose the penalty on those convicted of murder and other serious crimes.\n\n\"Many Californians feel that those who commit brutal crimes deserve to die. But as governor, I have concluded the state cannot morally kill them,\" he said, calling the decision \"among the most difficult of my career\".\n\n\"I do, however, pray that this action will finally separate the memories of the victims of these crimes from the fate of those who harmed them. We can now let these offenders die in obscurity while we forever remember and honor their victims.\"\n\nThe announcement comes with a renewed spotlight on the death penalty in the United States, one of the few wealthy countries to retain capital punishment.\n\nThree other US states – Alabama, Florida and Indiana – each carried out executions on the same day as Newsom's announcement.\n\nIn September, the state of Tennessee failed twice to kill convicted murderer Christa Pike with a lethal injection before rushing her to hospital.\n\nLast month Defence Secretary Pete Hegseth announced that the firing squad execution of a man who went on a shooting rampage at a US Army base would be livestreamed. (AFP)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T02:41:30.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876776-20261106.htm"
+    },
+    {
+      "id": "b4bc3f0265ff47b8",
+      "title": "HK, mainland markets feel rumble of Dem AI jitters",
+      "excerpt": "Mainland and Hong Kong stocks tumbled in early trade on Friday, tracking a global tech rout as fears of tighter…",
+      "fullText": "Mainland and Hong Kong stocks tumbled in early trade on Friday, tracking a global tech rout as fears of tighter AI regulation and a slowdown in the sector rattled investors.\n\nThe benchmark Hang Seng Index fell 392 points, or 1.58 percent, to 24,404 while the artificial intelligence index was down some 7 percent.\n\nThe China enterprises index was down 120 points, or 1.44 percent, at 8,248 while the tech index fell 129 points, or 3.11 percent, to 4,025.\n\nOn the mainland, the Shanghai Composite Index opened down 77 points, or 2.11 percent, at 3,612 while the blue-chip CSI300 Index slipped 1.5 percent.\n\nThe Shenzhen Component Index opened down 426 points, or 3.72 percent, at 11,044 while the ChiNext Index opened down 128 points, or 4.99 percent, at 2,438.\n\nTech led the drop, with startup board Star 50 Index and AI Index both down more than five percent at the open before narrowing some of the losses.\n\nOvernight in the US market, the tech-led Nasdaq notched its deepest one-day drop since \"Liberation Day\" in April 2025, when US President Donald Trump announced sweeping tariffs.\n\nThe drop wiped out trillions of dollars in market value on fears of more AI scrutiny after Democrats won big in US midterm elections. (Agencies)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T02:32:52.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876774-20261106.htm"
+    },
     {
       "id": "600f4c9de3beb011",
       "title": "US tech sell-off hits stocks in Seoul and Tokyo",
@@ -942,17 +964,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876451-20261104.htm"
     },
     {
-      "id": "2d80d63add7a7480",
-      "title": "Greenland approves security deal with Denmark and US",
-      "excerpt": "Greenlandic lawmakers on Tuesday voted to approve an agreement between the Arctic island, Denmark and the United States to strengthen…",
-      "fullText": "Greenlandic lawmakers on Tuesday voted to approve an agreement between the Arctic island, Denmark and the United States to strengthen security in the Arctic and North Atlantic after months of pressure by US President Donald Trump seeking to control the semi-autonomous territory of a Nato ally.\n\nThe trilateral deal paves the way for more US bases in Greenland and eases tensions over Trump's repeated calls for the vast island to become part of the United States.\n\nThe agreement's goal is to bolster the US military presence on Greenland but keep the self-governing island under Danish control. It would still apply if Greenland eventually chooses independence. (AP)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T22:07:23.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876449-20261104.htm"
-    },
-    {
       "id": "0580fef79562128f",
       "title": "CE promotes Beijing-HK ties",
       "excerpt": "Continuing a visit to Beijing, Chief Executive John Lee attended the opening ceremony of the 29th Beijing-Hong Kong Economic Cooperation…",
@@ -1127,17 +1138,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876380-20261103.htm"
-    },
-    {
-      "id": "080d40bbfe62d49e",
-      "title": "Real estate recovery drives growth forecast higher: FS",
-      "excerpt": "Financial Secretary Paul Chan on Tuesday said all three drivers of economic growth performed well in the third quarter, with…",
-      "fullText": "Financial Secretary Paul Chan on Tuesday said all three drivers of economic growth performed well in the third quarter, with consumption, investment, and exports all recording growth to varying degrees.\n\nHong Kong's advance estimates for the third-quarter GDP are set to be released later in the day.\n\nThe financial chief had announced over the weekend that the city's full-year economic growth forecast will be revised upwards following a stronger-than-expected 5.1 percent GDP growth in the first half of the year.\n\nChan said other factors also supported the projection, noting that full-year visitor arrivals are likely to exceed the target of 50 million and that the real estate market is improving.\n\n\"The residential property market has been on the rise since the latter half of last year. Last year, the increase was approximately three percent, while the rise this year has been between seven and 10 percent. In the residential property market, it's fair to say we are moving into a stage of steady ascent.” he said.\n\n\"In commercial real estate, we have observed significant improvements in office rentals, in terms of rental prices and vacancy rates, particularly in central business districts. It has also stabilised in other districts.\"\n\nAn expected influx of visitors towards the end of the year will also have a positive impact on the retail and catering sectors, Chan added.\n\nWhile certain industries, such as construction, catering, and retail, are facing more pressure with higher jobless rates, Chan stressed that the overall employment situation is stable, with unemployment standing at around 3.9 percent.\n\nIn predicting next year’s economic growth, Chan stressed that government economists are currently assessing the impact of several key factors.\n\nThese, he said, include expected high interest rates, geopolitical uncertainties like fluctuating oil prices driven by Middle East wars, upcoming elections in major economies, and the reallocation of international funds.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T08:07:24.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876386-20261103.htm"
     },
     {
       "id": "0b6d746cf0046b6c",
