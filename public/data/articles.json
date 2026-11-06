@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T03:46:18.867Z",
-  "checkedAt": "2026-11-06T03:46:18.867Z",
+  "generatedAt": "2026-11-06T04:00:31.230Z",
+  "checkedAt": "2026-11-06T04:00:31.230Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "ed052b29aab83501",
+      "title": "HK can help 'bend the curve' on rising drug costs: FS",
+      "excerpt": "Financial Secretary Paul Chan on Friday said Hong Kong can play a key role in reversing the rising cost of…",
+      "fullText": "Financial Secretary Paul Chan on Friday said Hong Kong can play a key role in reversing the rising cost of bringing new medicines to patients, as he opened the third International Bio-Computing Innovation Summit in the SAR.\n\nIn his opening speech, Chan drew on two contrasting \"laws\" to frame the challenge facing the life sciences industry.\n\nMoore's Law describes how the cost of computing power has gone down – while medicine is going down the opposite path.\n\nFor some seven decades, he said, the cost of bringing a new drug to patients roughly doubled every nine years, a phenomenon known as Eroom's Law.\n\n\"Behind that rising curve are promising treatments that were never able to secure funding, and patients waiting for better medical options,\" Chan said.\n\n\"Eroom's Law describes the past. It needs not dictate the future.\"\n\nChan identified three forces that could help \"bend the curve\", and said Hong Kong could contribute to each.\n\nThe first is the power of computing to transform biological research, he said, as gene sequencing becomes cheaper and AI allows scientists not only to read the code of life, but to model and \"write\" it – designing molecules, antibodies and enzymes rather than relying on laboratory trial and error.\n\nHe noted that a drug discovered by generative AI entered phase three clinical trials this year, and that the company behind it is listed in Hong Kong.\n\nRegulators, he added, are beginning to accept evidence from computer models and alternatives to animal testing.\n\nThe second force, Chan said, is the changing geography of drug innovation.\n\n\"China now is no longer just a market for global pharmaceutical companies. It has become an indispensable part of their global research and development network,\" he said, noting that overseas licensing deals for innovative drugs from China reached nearly US$140 billion in total value last year, almost 10 times the level in 2021.\n\nThe third force is capital – \"not just how much we invest, but how well we put it to work,\" he said.\n\nHe highlighted the power of the city's capital markets, noting Hong Kong has become the world's second-largest fundraising centre for biotechnology since listing reforms for pre-revenue biotech firms in 2018.\n\nChan said Hong Kong's role is increasingly clear: to bring models, patients, markets and capital together, and reduce the time and cost of bringing new treatments to market.\n\nHe pointed to the establishment of the Hong Kong Centre for Medical Products Regulation, efforts in Hetao to make it easier for data and biosamples to move across the boundary, the new Life and Health Technology Research Institute, and a third medical school being built with HKUST.\n\n\"If this is the decade in which we finally bend that curve, let Hong Kong play a part in making it happen,\" he said.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T03:41:06.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876797-20261106.htm"
+    },
     {
       "id": "cb32ee7c7d691dd4",
       "title": "Second domestically built cruise ship set to sail",
@@ -863,17 +874,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876497-20261104.htm"
-    },
-    {
-      "id": "bdf5556dae83a791",
-      "title": "HK's dominance in QS rankings 'not by chance'",
-      "excerpt": "Acting chief executive Eric Chan on Wednesday said Hong Kong would continue to stay at the forefront of education amid…",
-      "fullText": "Acting chief executive Eric Chan on Wednesday said Hong Kong would continue to stay at the forefront of education amid the latest accolades for the city's univiersities.\n\nSpeaking at the World Class University Presidents Forum, he noted that higher education had always served as a cornerstone for the SAR’s success.\n\nThe city is a global hub for education and talent, Chan said, noting that five local institutions took half of top 10 places in the latest QS Asia University Rankings.\n\nThree of them ranked the top five.\n\n“This is not by chance. It is the result of sustained government investment, clear policy direction and the hard work of our universities,” he said.\n\n“It reflects our commitment to excellence, openness, academic freedom and institutional autonomy.”\n\nHong Kong, Chan said, would keep expanding its horizon and align with the nation’s development to remain in its leading position.\n\nWith the three university towns at the Northern Metropolis as well as the SAR’s Study in Hong Kong brand, he said the government welcomed people from the mainland and all over the world to pursue their studies here.\n\n“Hong Kong is a bridge between the mainland and the global higher education system. We are opening doors for our youth to engage with diverse cultures and cutting-edge ideas,\" Chan said.\n\n\"By nurturing globally-minded innovators, we plant the seeds for a more collaborative and prosperous world.”\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T03:00:28.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876499-20261104.htm"
     },
     {
       "id": "bcff6068dc8caa59",
