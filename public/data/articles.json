@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T07:15:17.102Z",
-  "checkedAt": "2026-11-06T07:15:17.102Z",
+  "generatedAt": "2026-11-06T07:30:22.018Z",
+  "checkedAt": "2026-11-06T07:30:22.018Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 13
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "ca345a46a3299d72",
+      "title": "US judge blocks work from starting on Trump arch",
+      "excerpt": "A US judge has temporarily blocked construction from starting on President Donald Trump's proposed 76-metre triumphal arch in Washington, shortly…",
+      "fullText": "A US judge has temporarily blocked construction from starting on President Donald Trump's proposed 76-metre triumphal arch in Washington, shortly after it won a key approval.\n\nDistrict Judge Tanya Chutkan issued a 14-day restraining order late on Thursday following the National Capital Planning Commission voting by an eight-to-four margin to approve the project after it heard from about 100 opponents, including Democratic lawmakers.\n\nThe Trump administration contends Congress approved the arch more than 100 years ago when it also authorised construction of a bridge across the Potomac River.\n\n\"The sheer improbability that a 100-year-old statute would contain authority, unknown to every previous administration, to erect a 250-foot arch at a principal location in the nation’s capital indicates how far [the government] must stretch to justify this project,\" Chutkan wrote.\n\nShe said approval would result in construction for about three years \"that will disrupt traffic, create noise, result in large-scale excavation, and more.\"\n\nThe Justice Department had said earlier that if the project had been approved it expected an initial six to eight months of construction focused on excavation and foundation work could begin as soon as Thursday. Above-ground construction would start in May 2027 at the earliest, with the job expected to take 33 to 39 months total.\n\n\"It will snarl traffic for years, impact the nearby airport, and present even more serious threats to public safety that this commission has refused to acknowledge and grapple with,\" said Representative Don Beyer, a Democrat who represents northern Virginia.\n\nThe National Park Service also said late on Thursday it had approved the project.\n\nThe arch is among several costly projects Trump is pushing in Washington despite opposition from local officials and conservationists. They include rebuilding the Reflecting Pool at the Lincoln Memorial, constructing a massive White House ballroom and overhauling the Kennedy Center for the Performing Arts.\n\nThe arch has faced significant opposition in the courts. The state of Virginia and the District of Columbia sued the National Park Service and the Department of the Interior on Saturday, seeking to halt the start of construction, calling it \"legally indefensible\" and arguing that Congress has not approved it.\n\nThe arch would resemble the Arc de Triomphe in Paris but stand more than 24 metres taller. It would also be nearly as tall as the US Capitol, which at 87 metres, can be seen across much of Washington. The site is near airplanes' final approach to Ronald Reagan Washington National Airport.\n\nA rendering showed the flame would be held by a 18-metre-tall gold, winged female figure positioned atop the arch and flanked by gold flying eagles. (Reuters)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T07:10:16.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876814-20261106.htm"
+    },
     {
       "id": "3e000b0140d0991c",
       "title": "Choi to seek additional funding for university towns",
@@ -261,9 +272,9 @@
     },
     {
       "id": "0bcb4ec9d18a2527",
-      "title": "Liv Golf league to shut down after five years",
-      "excerpt": "The rebel Liv Golf tour will shut down after five years that rocked the global game, saying on Thursday that…",
-      "fullText": "The rebel Liv Golf tour will shut down after five years that rocked the global game, saying on Thursday that an effort to relaunch after losing its original Saudi backers has been scrapped.\n\nThe announcement follows reports that BC Partners Credit, the lead investor in \"Liv 2.0,\" had withdrawn from the project after struggling to convince several star players to fully commit to the league going forward.\n\nIn a statement, Liv Golf said only that attempts to implement its Restructuring Support Agreement with BC Partners had foundered.\n\n\"Despite extensive discussions, the relevant parties were ultimately unable to reach a consensual resolution of certain outstanding terms of the Transaction contemplated by the RSA,\" Liv Golf said. \"In light of the current circumstances, we believe shifting toward an orderly wind-down is the most responsible path forward for the League at this time.\"\n\nThe statement confirmed Liv attorney Matthew Williams's statements in a 13-minute hearing in bankruptcy court in New Jersey on Thursday.\n\nThe once free-spending Saudi-backed league that had turned the golf world upside-down by luring superstars away from the traditional PGA Tour will begin liquidating its remaining assets on Monday, the court heard.\n\nSaudi Arabia's Public Investment Fund (PIF) had poured an estimated US$5 billion into the tour since 2022, before abruptly pulling the plug earlier this year.\n\nLiv formally filed for bankruptcy protection in September, though officials vowed to relaunch as \"Liv 2.0\" next season with a shorter schedule and reduced prize money, and equity stakes in the league for players.\n\nBC Partners Credit had pledged an initial funding commitment of a potential US$300 million.\n\nBut several former Liv stars including Jon Rahm publicly announced their decisions to withdraw from the new version of the tour in recent weeks. Several others were believed to be on the fence.\n\nEven Bryson DeChambeau – arguably the breakaway circuit's biggest name, who continued to back the tour – did not publicly commit to returning. (AFP)\n\nEdited by Robert Kemp",
+      "title": "LIV Golf league to shut down after five years",
+      "excerpt": "The rebel LIV Golf tour will shut down after five years that rocked the global game, saying on Thursday that…",
+      "fullText": "The rebel LIV Golf tour will shut down after five years that rocked the global game, saying on Thursday that an effort to relaunch after losing its original Saudi backers has been scrapped.\n\nThe announcement follows reports that BC Partners Credit, the lead investor in \"LIV 2.0,\" had withdrawn from the project after struggling to convince several star players to fully commit to the league going forward.\n\nIn a statement, LIV Golf said only that attempts to implement its Restructuring Support Agreement with BC Partners had foundered.\n\n\"Despite extensive discussions, the relevant parties were ultimately unable to reach a consensual resolution of certain outstanding terms of the Transaction contemplated by the RSA,\" LIV Golf said. \"In light of the current circumstances, we believe shifting toward an orderly wind-down is the most responsible path forward for the League at this time.\"\n\nThe statement confirmed LIV attorney Matthew Williams's statements in a 13-minute hearing in bankruptcy court in New Jersey on Thursday.\n\nThe once free-spending Saudi-backed league that had turned the golf world upside-down by luring superstars away from the traditional PGA Tour will begin liquidating its remaining assets on Monday, the court heard.\n\nSaudi Arabia's Public Investment Fund (PIF) had poured an estimated US$5 billion into the tour since 2022, before abruptly pulling the plug earlier this year.\n\nLIV formally filed for bankruptcy protection in September, though officials vowed to relaunch as \"LIV 2.0\" next season with a shorter schedule and reduced prize money, and equity stakes in the league for players.\n\nBC Partners Credit had pledged an initial funding commitment of a potential US$300 million.\n\nBut several former LIV stars including Jon Rahm publicly announced their decisions to withdraw from the new version of the tour in recent weeks. Several others were believed to be on the fence.\n\nEven Bryson DeChambeau – arguably the breakaway circuit's biggest name, who continued to back the tour – did not publicly commit to returning. (AFP)\n\nEdited by Robert Kemp",
       "imageUrl": null,
       "publishedAt": "2026-11-05T22:04:30.000Z",
       "source": "RTHK English — Sport",
@@ -964,17 +975,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876455-20261104.htm"
     },
     {
-      "id": "9112bbe4efd4542f",
-      "title": "'Mogging' tops 'firewave' as Collins' word of the year",
-      "excerpt": "\"Mogging\" - a word meaning to outshine someone, often in appearance, was crowned word of the year by Collins English…",
-      "fullText": "\"Mogging\" - a word meaning to outshine someone, often in appearance, was crowned word of the year by Collins English Dictionary on Tuesday, beating \"firewave\" and \"ghost jobs.\"\n\nAccording to the dictionary, mogging is a compliment meaning \"the act of outshining or outperforming someone or something,\" with the word spreading on social media in the past year.\n\nIt is believed to be rooted in the slang acronym AMOG (alpha male of the group), which was associated with bodybuilding culture before being adopted by manosphere and incel spaces that often promote misogynist beliefs.\n\nBut mogging has in recent months entered mainstream conversation, used by Gen Alpha and Gen Z to playfully describe someone looking more attractive, fashionable or cooler than another.\n\nThe word saw a 210 percent increase in usage this year, the dictionary said in a press release.\n\n\"It's a great example of how Gen Z and Gen Alpha have adopted a word and turned it into humorous slang, making the language their own and 'mogging' the rest of us!\" managing director Alex Beecroft said in a statement.\n\nEvery year, Collins lexicographers create a list of words that \"reflect our ever evolving language and the preoccupations of those who use it.\"\n\nOthers in the running were carspreading – manufacturers making vehicles that are bigger with every new model – and ghost jobs, postings advertised without any intention to hire someone, driven by frustrations with the job market.\n\nAlso in contention was Manchesterism, the political philosophy associated by Andy Burnham, who became the UK's prime minister this summer after a dramatic takeover, and fricy, food that is both fruity and spicy.\n\nThere was also firewave, referring to multiple wildfires that spread over a short period of time, and bixie, which is a haircut between a bob and a pixie cut.\n\n\"Look across the shortlist and the pattern is hard to miss,\" a blog on the Collins website said. \"In 2026, everything is surpassing something else: bigger cars (carspreading), hotter summers (firewave, hydration break), a politician who outmanoeuvred a prime minister (Manchesterism)\".\n\nLast year's word of the year was \"vibe coding\", which meant the use of artificial intelligence to tell a machine what you want instead of coding it yourself. (AFP)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T23:53:58.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876453-20261104.htm"
-    },
-    {
       "id": "2c42865fc18679bc",
       "title": "PSG crush Villarreal in Champions League; Barca cruise",
       "excerpt": "Reigning champions Paris Saint-Germain scored four times in the first 17 minutes on their way to a 6-0 demolition of…",
@@ -1437,17 +1437,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876053-20261031.htm"
     },
     {
-      "id": "251e9a97db768b7c",
-      "title": "Xi welcomes visiting German, Swiss presidents",
-      "excerpt": "China has always viewed the European Union as a partner and is committed to developing China-EU relations with sincerity and…",
-      "fullText": "China has always viewed the European Union as a partner and is committed to developing China-EU relations with sincerity and goodwill, President Xi Jinping told German President Frank-Walter Steinmeier during talks in Beijing on Friday.\n\nHistory and reality have repeatedly shown that for China and the EU, cooperation outweighs competition and consensus outweighs differences, Xi said.\n\nHe added that as long as both China and the EU stay committed to the positioning of their partnership and maintain the tone of equal-footed dialogue, differences and problems can be resolved and will not hinder further development of China-EU relations.\n\nXi also said China's policy towards Germany is consistent, stable and predictable, and Beijing is happy to see Berlin play a greater role in European and international affairs.\n\nAlso on Friday, the president met with his Swiss counterpart Guy Parmelin in Beijing as the two countries signed a protocol on upgrading their free trade agreement.\n\nThe deal removes tariffs on almost all Swiss exports to the world's second-largest economy.\n\nIt grants 99.8 percent of Swiss exports duty-free access to the Chinese market over the next 10 years, up from around half of Swiss shipments previously.\n\nDuties will be eliminated on all imports of Swiss watches, of which only one percent were previously tariff-free, though producers will still have to pay China's luxury consumption tax.\n\nSwiss cheese and coffee, among other exports, will also see duties removed, bringing them in line with products such as chocolate and wine, which were already tariff-free.\n\nThe update also grants Switzerland greater access to the Chinese market in areas including manufacturing-related services, aircraft maintenance and maritime transport.\n\nIn exchange, it removes tariffs on 97.3 percent of Chinese agricultural exports to Switzerland, up from 80.1 percent prior.\n\n\"Together, we can inject valuable confidence and greater certainty into China-Europe economic and trade cooperation,\" Xi told Parmelin.\n\nThe upgraded trade agreement bucks a broader global shift towards ​protectionism. Observers are eyeing the Swiss deal as a potential litmus test between Beijing and other European economies. (Xinhua and agencies)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T13:05:19.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875991-20261030.htm"
-    },
-    {
       "id": "2fdcb7758637d051",
       "title": "U.S. to China after demolition report: ‘End interference in Tibetan religious life’",
       "excerpt": "Demolition of monks’ quarters aimed at reducing their population and making assimilation easier, sources tell RFA.",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
+    },
+    {
+      "id": "940d79532a5b6d51",
+      "title": "Nursing workforce planning outlined",
+      "excerpt": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare…",
+      "fullText": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare professionals. The statement was issued in response to public discussions regarding nursing manpower planning in Hong Kong, adding that such discussions should be grounded objective facts and data to foster consensus.\n\nAlthough the nurse attrition rate within the Hospital Authority has dropped from a peak of 10.9% to 5.4%, approximately 3,200 vacancies remain unfilled with recruitment ongoing. In 2025, around 3,500 of the 4,000 prospective nursing graduates qualified as Registered Nurses (RNs) or Enrolled Nurses (ENs), with about 60% applying for positions within the authority.\n\nThese figures demonstrate that graduates diversify into various sectors, including private healthcare institutions, elderly services and rehabilitation, community nursing, insurance and health management. Notably, approximately 99% of applicants who completed the interview or assessment process for RN posts within the authority received an offer of appointment.\n\nAs of the end of 2025, over 30,000 of Hong Kong’s 75,000 RNs and ENs were employed within the public healthcare system, representing roughly 40% of the total workforce. Given that nursing practice spans hospitals, primary care, community and elderly services, rehabilitation and other health service sectors, the Government noted that manpower supply and demand must be assessed holistically across the entire market.\n\nFurthermore, approximately 99.8% of RNs serving in the authority are locally trained, confirming that local professionals remain the backbone of public healthcare. The Government affirmed it will continue to promote regional healthcare collaboration and professional exchanges while strictly safeguarding employment priority for locally trained professionals.\n\nPlans are also underway to strengthen manpower training for primary healthcare and advance professional systems to enhance service quality and maximise the professional functions of nurses. Addressing broader roles, the Government stressed that the Health & Care Practitioner (HCP) rank is a dedicated welfare-sector role that should not be confused with ENs due to distinct scopes of practice.\n\nAcknowledging broader recruitment pressures, the Health Bureau noted that private hospitals face similar shortages, with one facility reporting 40 vacancies but receiving only 25 applications over the past year. In response to an ageing population, the Government reiterated its commitment to driving cross-sectoral collaboration and manpower planning based on service needs and manpower data to ensure that healthcare and nursing services in Hong Kong can continue to meet the needs of society.\n\nThe Government hopes that all sectors of the community will exchange views on healthcare manpower development and professional training based on facts and data, and work together to foster the sustainable development of the city's healthcare system.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431/images/20260929142417086.jpg",
+      "publishedAt": "2026-09-28T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
     }
   ]
 }
