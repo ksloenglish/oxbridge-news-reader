@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T10:15:19.695Z",
-  "checkedAt": "2026-11-06T10:30:27.387Z",
+  "generatedAt": "2026-11-06T10:45:13.157Z",
+  "checkedAt": "2026-11-06T10:45:13.157Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 18
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rfa-english",
@@ -156,8 +156,8 @@
       "fullText": "A Peruvian expert on Asian affairs urged Apec member economies to take a page from China when formulating policies to stimulate the economy, pointing to exports and foreign investment as two key drivers.\n\nWorld leaders are expected to gather in Shenzhen in the coming days, as the southern Chinese tech hub gets set to host the Apec Economic Leaders' Meeting.\n\nOn the eve of the summit, Shenzhen Media Group spoke with Carlos Aquino, an expert on China-Latin America ties who has been involved in Apec matters for years.\n\nThe director of the Centre for Asian Studies at Peru's National University of San Marcos also advises his government on Apec proceedings.\n\nIn an interview with Shenzhen TV, he explained how scholars like him contribute to the bloc.\n\n\"Within Apec, there is an Apec Study Centers Consortium. Every year scholars from Apec economies will meet. We give some ideas to officers, and the officers ... apply those policies to the economy,\" he said.\n\nHe said Apec could come in handy for nations looking to grow their economies but unsure about where to start.\n\n\"For example in Peru, we have industries, but we don't know how to sell ... to a market. So within the Apec framework, we can ask for help – economic help, economic cooperation to the whole economies.\n\n\"And we have already asked China, Japan, Korea. They sent an adviser, so they tell us how to produce something, or how to sell to those markets.\"\n\nLast year, Peru's exports reached a record US$90 billion, up 60 percent from 2021.\n\nMore than a third of its exports went to China, its largest trading partner, while the United States ranked second at 11 percent.\n\n\"The engine of growth of Asian economy has been trade and investment. And also in Peru, that is happening. So we are learning from Asia that to grow the economy, you have to export and also [bring in] investment.\"\n\nTies between China and Peru took a big step forward in 2024, when President Xi Jinping visited Lima and inaugurated the Chancay port, north of the capital.\n\nAquino said the port, built and owned by Chinese shipping giant Cosco, has cut shipping costs between the two countries by 20 percent.\n\nOther South American countries also stand to benefit, he believed.\n\n\"Colombia, Ecuador, Chile can bring the goods to Chancay Port and send [them] to China. So it's having a huge change not only for Peru, but also for the whole of Latin America,\" Aquino said.\n\n\"And you know, we are thinking of building a bi-oceanic railway between Chancay and Brazil. Perhaps if that is the case, Brazilian goods also will go cheaper to China.\"\n\nHe said that, as a result of Chancay, Peruvian exports to China jumped by 39 percent in the first seven months of this year.\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-11-06T08:41:08.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876840-20261106.htm"
     },
     {
@@ -1382,17 +1382,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876170-20261102.htm"
     },
     {
-      "id": "8aff0663bb9ea2e2",
-      "title": "Party releases resolution after plenum on governance",
-      "excerpt": "The Communist Party of China (CPC) on Sunday made public a resolution following this week's annual plenary session in Beijing…",
-      "fullText": "The Communist Party of China (CPC) on Sunday made public a resolution following this week's annual plenary session in Beijing.\n\nThe document titled \"The Resolution of the Central Committee of the Communist Party of China on Certain Major Issues concerning Persevering with Full and Rigorous Party Self-Governance\", was released by Xinhua News Agency.\n\nIn an explanation of the resolution also published by Xinhua, President Xi Jinping explained that Party building is crucial for the future of the CPC.\n\nXi acknowledged that the makeup of the Party has changed.\n\n\"Over the years, our Party membership is undergoing structural changes, with a steady increase in the proportion of members and officials born after the launch of reform and opening up in 1978. This has raised new requirements for education and management,\" he said.\n\n\"The vast majority of Party members are exemplary, yet there remain a number of problems and hidden dangers that threaten to undermine the Party’s advanced nature, weaken its integrity, and jeopardise its long-term governance.\n\n\"In particular, the problems of defects in thinking, organisation, and conduct have yet to be solved root and branch, while some new problems continue to emerge,\" he explained.\n\nThe resolution itself called for stricter monitoring of officials.\n\n\"Starting with high-ranking officials, we will tighten all-around management and regular oversight of officials, imposing strict requirements throughout their career and across the whole process of their education, management, and oversight to avoid over-emphasising selection to the neglect of management,\" it said.\n\n\"The system requiring leading officials to report personal information will be refined.\n\n\"Those with family property and spending far exceeding their normal incomes will be examined, and relevant verifications will be carried out. Regular management will be tightened for the commercial and entrepreneurial activities of leading officials’ spouses, children, and their children’s spouses. Dedicated efforts will be intensified to address nepotism,\" it wrote.\n\nXi in the explanation also said that the nation’s success hinges on the CPC, \"especially on the Party’s efforts to exercise full and rigorous self-governance\".\n\n\"In the face of complicated international and domestic landscapes and the challenging tasks of advancing reform, promoting development, and ensuring stability, it is essential, in our efforts to ensure steady and sustained progress in Chinese modernisation,\" Xi said.\n\nThe fifth plenum, which ended on Thursday, comes ahead of a major Party congress next year, where Xi is expected to oversee a leadership reshuffle.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T15:17:03.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876161-20261101.htm"
-    },
-    {
       "id": "afce9a819a9d3a70",
       "title": "Brighton beat City; United implode against Chelsea",
       "excerpt": "Brighton inflicted a second straight Premier League defeat on Manchester City with a 1-0 win to close within two points…",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
+    },
+    {
+      "id": "7aceb231ca0e6f87",
+      "title": "Manpower shortage to narrow",
+      "excerpt": "The Labour & Welfare Bureau today published its Mid-term Update of Manpower Projection report, predicting that Hong Kong's overall manpower…",
+      "fullText": "The Labour & Welfare Bureau today published its Mid-term Update of Manpower Projection report, predicting that Hong Kong's overall manpower shortage will narrow from the previous projection of approximately 180,000 to some 130,000 by 2028.\n\nThe report indicates that the city’s overall manpower shortage has been alleviated, benefiting from various talent admission and labour importation measures implemented by the Government over the past three years.\n\nSecretary for Labour & Welfare Chris Sun said the mid-term update reflects the Government’s measures have effectively stabilised the labour force.\n\n“However, manpower demand in certain industries remains acute. In response to the job reshaping driven by artificial intelligence (AI), the Government will continue to collaborate with all parties to formulate targeted measures.\n\n“In addition to strengthening retraining mechanisms and providing flexible skill-conversion programmes for elderly and middle-aged employees, we will enhance the employment support for young graduates and explore incentives for employers and employees to engage in on-the-job retraining.\n\n“The Government will adopt a multipronged approach to assist workers at all levels in equipping themselves to step into the new era of AI.”\n\nThe report finds that economic restructuring and the adoption of AI adoption have moderated growth in demand for manpower, at the same time as admission schemes have supplemented parts of the labour force. Nevertheless, the manpower situation across most key industries – particularly innovation and technology, aviation, construction, everyday services and healthcare services – remains tight.\n\nAbout 60% percentage of the overall manpower shortage over the next three years is projected to be concentrated in two categories – skilled technical workers, and services and sales workers. This is due to workforce ageing and difficulties in attracting younger entrants.\n\nLooking ahead to 2028, the overall labour force, driven by continued population ageing, is projected to decrease gradually to approximately 3.4 million even after accounting for various new entrants.\n\nThe report includes analysis of the profound impact of AI on the labour market.\n\nResearch indicates that adoption of AI in applicable roles will boost individual productivity by 20% to 30%. Companies are currently managing the transition through natural attrition and the risk of large-scale layoffs in the short term remains relatively low. However, approximately 20% to 30% of positions, primarily clerical roles, will face restructuring.\n\nThe Government will continue to promote “AI for All” and support lifelong learning, ensuring that skills in the labour force remain aligned with Hong Kong's future economy.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260922/20260922_160618_499/images/20260922182515791.jpg",
+      "publishedAt": "2026-09-21T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260922/20260922_160618_499.html"
     }
   ]
 }
