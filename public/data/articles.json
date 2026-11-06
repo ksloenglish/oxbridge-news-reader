@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T04:00:31.230Z",
-  "checkedAt": "2026-11-06T04:00:31.230Z",
+  "generatedAt": "2026-11-06T04:15:16.174Z",
+  "checkedAt": "2026-11-06T04:15:16.174Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 17
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 13
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,39 @@
     }
   ],
   "articles": [
+    {
+      "id": "a5eb0b0a95f8ec02",
+      "title": "Paraguay president resigns as bank mess sparks crisis",
+      "excerpt": "Paraguayan President Santiago Pena has resigned after the takeover of a bank linked to the US-allied leader blocked almost half…",
+      "fullText": "Paraguayan President Santiago Pena has resigned after the takeover of a bank linked to the US-allied leader blocked almost half the population from accessing their money.\n\nThe Central Bank's seizure of Ueno Bank two days earlier froze the deposits of some three million people, including pensioners, and sparked angry demonstrations across the country.\n\nThousands of Paraguayans gathered outside Congress on Thursday to protest against the president, who is still technically in power as his resignation awaits parliamentary approval.\n\n\"Give back the money,\" they yelled. Earlier demonstrations featured clashes with the police, who used tear gas and water cannon on the crowd.\n\n\"My family ran out of money, we don't have any cash. Santi [Pena] is a criminal, he has to go to jail,\" 21-year-old student protester Andres Maldonado said.\n\nLawmakers voted unanimously on Thursday to launch impeachment proceedings against Pena over the crisis, alleging misconduct and a conflict of interest in dealings with the bank to which he is tied.\n\nThe right-wing president said he would attend his impeachment trial, which is set to begin on Friday, after earlier apologising to the people of Paraguay.\n\nThe central bank said it took over Ueno due to a severe capital shortfall, in order to \"protect depositors and preserve the stability of the financial system.\"\n\n\"Ueno approved a loan for us to buy our first house. But the funds were never disbursed, and now we have nowhere to live,\" said 26-year-old Nadia Gonzalez, a mother of three.\n\nLong lines of people trying to withdraw their money from Ueno branches snaked down Asuncion's streets on Tuesday and Wednesday.\n\nPena owned shares in a group that controlled the bank, but he sold them last year.\n\nHe had attempted to ease tensions by requesting the resignation of Central Bank president Carlos Carvallo, who consented, and setting a five-day limit for the return of funds. Neither measure proved sufficient.\n\nCongress called an extraordinary session of both chambers Thursday to decide whether to accept Pena's resignation or reject it and proceed with the impeachment process. But the session failed to reach a quorum, so the vote did not go ahead.\n\nA later extraordinary session scheduled the impeachment trial to begin on Friday morning. Vice President Pedro Alliana is set to take over. (AFP)\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T04:02:07.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876792-20261106.htm"
+    },
+    {
+      "id": "7eb1a31839b05960",
+      "title": "Privacy chief backs tighter land-search rules",
+      "excerpt": "Privacy commissioner Ada Chung expressed support on Friday for government moves to tighten land record search arrangements, while raising concerns…",
+      "fullText": "Privacy commissioner Ada Chung expressed support on Friday for government moves to tighten land record search arrangements, while raising concerns that misuse of land registry data may be getting worse.\n\nHer comments come as the government tabled eight pieces of subsidiary legislation in the Legislative Council for the changes.\n\nUnder the new arrangements, land searches must meet one of nine specified purposes.\n\nSpeaking on RTHK, Chung said the purposes – which could be part of property deals and valuations – had to be concrete and clear so searchers would stick to declarations of their intended use of the data and not stray into potentially misusing it.\n\nShe said her office had received 20 complaints in five years about alleged misuse of land registry data, which included instances where owners were doxxed on social media, and the sending of promotional mail.\n\nSix complaints came this year alone, Chung pointed out.\n\n\"We've seen cases where land registry data was used for ... other purposes such as cyberbullying and doxxing. Not a single case of that kind should happen, and we've already had six this year, so the trend is worsening,\" she said.\n\nChung said the new rules on land searches make the system clearer, better protect owners' privacy, and help people to avoid breaking the law.\n\nShe noted that the Personal Data (Privacy) Ordinance's exemption for journalistic activities also requires a public-interest basis, matching the purpose of the new arrangements.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T04:01:17.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876787-20261106.htm"
+    },
+    {
+      "id": "8711450f9ed9fd4a",
+      "title": "'FundHK' crowdfunding website not associated with RTHK",
+      "excerpt": "Radio Television Hong Kong (RTHK) said on Friday it has no ties with a crowdfunding website operating under the name…",
+      "fullText": "Radio Television Hong Kong (RTHK) said on Friday it has no ties with a crowdfunding website operating under the name “FundHK” that used the acronym “RTHK” in its promotional materials and claimed that “RTHK” is one of its “media and institutional partners”.\n\n\"RTHK hereby clarifies that it has no affiliation, partnership, collaboration, authorisation, endorsement, or any other form of relationship whatsoever with FundHK or its operating entity,\" an RTHK statement said.\n\nThe broadcaster said any representation suggesting otherwise is unauthorised and does not reflect the position of RTHK.\n\nIt said members of the public who suspect fraud or become aware of any potentially unlawful activities are advised to report the matter to police immediately and seek appropriate assistance.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T03:53:24.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876800-20261106.htm"
+    },
     {
       "id": "ed052b29aab83501",
       "title": "HK can help 'bend the curve' on rising drug costs: FS",
@@ -860,8 +893,8 @@
       "fullText": "Secretary for Commerce and Economic Development Algernon Yau said Hong Kong's entry into the Regional Comprehensive Economic Partnership could inject fresh impetus into advancing the Free Trade Area of the Asia-Pacific (FTAAP) agenda.\n\n\"We welcome the establishment of the Accession Working Group for Hong Kong in September this year, and hope that our accession could inject fresh impetus into advancing the FTAAP agenda,\" he said during a virtual meeting at the 37th Asia-Pacific Economic Cooperation (Apec) Ministerial Meeting held on Tuesday.\n\nYau said that enhancing economic integration has been the core objective of Apec, and that one of the directions is to continue to advance the FTAAP.\n\nHe called on member economies to continue to strengthen connectivity in various areas, enabling the efficient flow of goods, services, capital and people, while narrowing development gaps and creating opportunities for all sectors across the region.\n\nYau also stressed that the multilateral trading system must remain the foundation of regional integration and international trade, highlighting the importance of enhancing co-operation to deal with the seismic changes in the trade landscape.\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-11-04T03:21:17.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876486-20261104.htm"
     },
     {
@@ -871,8 +904,8 @@
       "fullText": "Financial Secretary Paul Chan said Hong Kong is well-placed to provide businesses with both growth opportunities and long-term capital.\n\nThe finance chief made his remarks on Wednesday during a conversation session with investors on the second day of the Global Financial Leaders' Investment Summit in Central.\n\nChan noted that a company needs different forms of capital at each stage of development to turn its potential into sustained growth.\n\nThis, he said, is exactly where Hong Kong comes into play.\n\n“Under the 'One Country, Two Systems' framework, Hong Kong is closely connected to the Chinese mainland, while a common law legal system, free flow of capital and international networks provide a trusted and familiar environment for global investors to take part in China's enormous growth,” Chan said.\n\n“Here, we already bring together venture capital, private equity, family offices and asset managers, with deep equity and bond markets. Our task is to connect them more closely across the corporate life cycle.”\n\nHe said follow-on fundraising on the Hong Kong Stock Exchange reached HK$570 billion in the first nine months of the year, showing that the city’s market continues to support companies well beyond their initial listings.\n\nChan also said the aim is to expand allocation choices to help investors manage risks and liquidity in support of long-term value creation.\n\nHong Kong will keep raising its market efficiency with faster approvals, streamlined processes and clearer frameworks for new financial products – all without compromising its integrity, he added.\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-11-04T03:04:42.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876497-20261104.htm"
     },
     {
@@ -973,17 +1006,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876463-20261104.htm"
-    },
-    {
-      "id": "8c9147ef589e46b4",
-      "title": "Trump says US cutting US$3.8bn security aid to Israel",
-      "excerpt": "US President Donald Trump said on Tuesday that Washington is ending a 10-year security assistance accord with Israel that allowed…",
-      "fullText": "US President Donald Trump said on Tuesday that Washington is ending a 10-year security assistance accord with Israel that allowed US$3.8 billion in annual assistance to its ally until 2028.\n\nTrump said Israel was \"fine\" with him ending the assistance, which began in 2019 and was signed under his predecessor, Barack Obama, three years earlier.\n\n\"We'll help Israel if they need it,\" Trump added in an interview on \"Fox and Friends,\" saying that he had agreed with Israel's Prime Minister Benjamin Netanyahu to cut the assistance.\n\n\"Israel's our number one; we give them more than anybody else, and they no longer need it ... If they did need it, I would say keep it going,\" Trump added.\n\nUnder the deal, Israel receives financial assistance for the purchase of around US$3.8 billion in weapons a year.\n\nSince its founding in 1948, Israel has received more than US$300 billion, adjusted for inflation, in US economic and military assistance, according to the Council on Foreign Relations, far more than any other country since 1946.\n\nThe Israeli premier has said he wanted to end Israel's reliance on US support.\n\nIn June, Netanyahu called for his country to increase its military autonomy and reduce its reliance on Washington.\n\nIn January he told The Economist that he hoped to do so within a decade, while in May he told CBS that he wanted support to reach \"zero.\"\n\nTuesday's announcement was nonetheless met with backlash from Israeli opposition candidate Gadi Eisenkot, who said it showed that Netanyahu must go.\n\n\"The fact that Israel's defence establishment is learning of a shift in our strategic relationship through the media, at the same time as the Israeli public, shows just how dangerous Benjamin Netanyahu's conduct is,\" Eisenkot said in a statement.\n\n\"He can no longer be trusted and must be replaced.\"\n\nOn Tuesday, Trump cited attacks by leftist Democrat Abdul El-Sayed, who is running for the US Senate in Tuesday's midterm elections after harnessing popular discontent and anti-Israel sentiment, as part of the reasoning behind the decision to end aid.\n\n\"Why should we suffer the slings from lunatics like an El-Sayed when they don't need it?\" he said on Fox, referring to Israel and the assistance. (AFP)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T22:08:26.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876451-20261104.htm"
     },
     {
       "id": "0580fef79562128f",
@@ -1721,28 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
-    },
-    {
-      "id": "9ae8a1e02c50d50c",
-      "title": "SED meets state leader in Beijing",
-      "excerpt": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in…",
-      "fullText": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in visiting a state leader and Ministry of Education officials in Beijing.\n\nMs Choi and the delegates were received by Vice-Chairperson of the National People's Congress Standing Committee Tie Ning at the Great Hall of the People this afternoon. They also met and exchanged views with officials from the ministry.\n\nMs Choi remarked that this year marks the 77th anniversary of the founding of the People's Republic of China, the 105th anniversary of the founding of the Communist Party of China, and the opening year of the National 15th Five-Year Plan.\n\nShe said it was highly significant for Hong Kong's education sector to visit Beijing ahead of National Day, on October 1, and to celebrate the motherland's birthday and experience a jubilant festive atmosphere with people in the capital.\n\nMs Choi highlighted that last week the Hong Kong Special Administrative Region Government announced its First Five-Year Plan, which aligns with the National 15th Five-Year Plan. She outlined that the Hong Kong's education sector faces multiple tasks, including digital education, talent cultivation and the integration of industry and education.\n\nShe said: “The delegation enabled teachers to gain insight into the latest education developments of the country and share experiences with Chinese Mainland teachers in areas such as operation models, curricula and teaching arrangements of schools at all levels.\n\n“It not only broadened their horizons but also fostered exchanges between the education sectors of both places, providing important references for the future development of Hong Kong's education and laying a foundation for deeper collaboration.”\n\nMs Choi and the delegation subsequently attended a banquet hosted by the Ministry of Education, where they engaged in in-depth discussions regarding professional connections and mutual learning between the education sectors of the two places.\n\nMs Choi and the delegation members will conclude their visit and return to Hong Kong tomorrow.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014/images/20260923195636768.jpg",
-      "publishedAt": "2026-09-22T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
-    },
-    {
-      "id": "7aceb231ca0e6f87",
-      "title": "Manpower shortage to narrow",
-      "excerpt": "The Labour & Welfare Bureau today published its Mid-term Update of Manpower Projection report, predicting that Hong Kong's overall manpower…",
-      "fullText": "The Labour & Welfare Bureau today published its Mid-term Update of Manpower Projection report, predicting that Hong Kong's overall manpower shortage will narrow from the previous projection of approximately 180,000 to some 130,000 by 2028.\n\nThe report indicates that the city’s overall manpower shortage has been alleviated, benefiting from various talent admission and labour importation measures implemented by the Government over the past three years.\n\nSecretary for Labour & Welfare Chris Sun said the mid-term update reflects the Government’s measures have effectively stabilised the labour force.\n\n“However, manpower demand in certain industries remains acute. In response to the job reshaping driven by artificial intelligence (AI), the Government will continue to collaborate with all parties to formulate targeted measures.\n\n“In addition to strengthening retraining mechanisms and providing flexible skill-conversion programmes for elderly and middle-aged employees, we will enhance the employment support for young graduates and explore incentives for employers and employees to engage in on-the-job retraining.\n\n“The Government will adopt a multipronged approach to assist workers at all levels in equipping themselves to step into the new era of AI.”\n\nThe report finds that economic restructuring and the adoption of AI adoption have moderated growth in demand for manpower, at the same time as admission schemes have supplemented parts of the labour force. Nevertheless, the manpower situation across most key industries – particularly innovation and technology, aviation, construction, everyday services and healthcare services – remains tight.\n\nAbout 60% percentage of the overall manpower shortage over the next three years is projected to be concentrated in two categories – skilled technical workers, and services and sales workers. This is due to workforce ageing and difficulties in attracting younger entrants.\n\nLooking ahead to 2028, the overall labour force, driven by continued population ageing, is projected to decrease gradually to approximately 3.4 million even after accounting for various new entrants.\n\nThe report includes analysis of the profound impact of AI on the labour market.\n\nResearch indicates that adoption of AI in applicable roles will boost individual productivity by 20% to 30%. Companies are currently managing the transition through natural attrition and the risk of large-scale layoffs in the short term remains relatively low. However, approximately 20% to 30% of positions, primarily clerical roles, will face restructuring.\n\nThe Government will continue to promote “AI for All” and support lifelong learning, ensuring that skills in the labour force remain aligned with Hong Kong's future economy.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260922/20260922_160618_499/images/20260922182515791.jpg",
-      "publishedAt": "2026-09-21T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260922/20260922_160618_499.html"
     }
   ]
 }
