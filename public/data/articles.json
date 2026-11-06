@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T16:08:41.688Z",
-  "checkedAt": "2026-11-06T21:00:31.105Z",
+  "generatedAt": "2026-11-06T21:15:17.062Z",
+  "checkedAt": "2026-11-06T21:15:17.062Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 19
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "d3e278384f83e313",
+      "title": "Markle's father arrested over child sex abuse images",
+      "excerpt": "Thomas Markle, the estranged father of Prince Harry's wife, Meghan Markle, was arrested in Florida on Friday over alleged possession…",
+      "fullText": "Thomas Markle, the estranged father of Prince Harry's wife, Meghan Markle, was arrested in Florida on Friday over alleged possession of images of child sexual abuse, officials said.\n\nMarkle, 82, is charged with one count of \"possession of child pornography\" and is to make an initial court appearance in Tampa on Friday, US Attorney Bill Essayli said in a statement.\n\n\"Mr Markle is accused of possessing child sexual abuse material, including photographs depicting himself with minor girls,\" Essayli said. \"These allegations are extremely serious, and we will prosecute Mr Markle to the fullest extent of federal law.\"\n\nMarkle was taken into custody by FBI agents early Friday at the retirement home where he lives in Lakeland, Florida.\n\nThe Justice Department said Markle allegedly \"kept child sexual abuse material (CSAM), including sexually explicit photographs of himself with prepubescent girls, in two Los Angeles-area storage units he rented for nearly two decades.\"\n\n\"Inside the units, agents seized approximately 78 items, including slides, film negatives, and books that contained suspected CSAM,\" it said.\n\nMarkle could face up to 20 years in prison if convicted of possession of child sex abuse material.\n\nPictures of child sex abuse have also allegedly been found at Markle's former home in the Philippines and at a storage unit he rented in Mexico.\n\nThe British tabloid The Sun reported last month that Markle's son, Thomas Markle Jr, had discovered the child sex abuse images while going through boxes found in his father's former home in the Philippines.\n\nMarkle had been living in Cebu in the Philippines until reportedly returning to the United States earlier this year.\n\nMeghan Markle said last month that she was \"deeply distressed\" by accusations that her father possessed images of child sexual abuse.\n\nShe said she had blocked contact between him and her children over previous \"troubling and disturbing\" allegations.\n\nHarry, the second son of King Charles III and estranged brother of heir to the throne Prince William, married Meghan, an American former actress, at Windsor Castle in May 2018.\n\nThe couple left Britain and quit royal duties in 2020 but made an unexpected return with their two children to live in the United Kingdom in August. (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T21:05:48.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876893-20261107.htm"
+    },
+    {
+      "id": "95d8add8794b8c1b",
+      "title": "Trump promotes Stephen Miller in White House reshuffle",
+      "excerpt": "US President Donald Trump on Friday named Stephen Miller as his new chief of staff, promoting the architect of his…",
+      "fullText": "US President Donald Trump on Friday named Stephen Miller as his new chief of staff, promoting the architect of his hardline migration policy after the Republican Party's brutal US midterms defeat.\n\nMiller will replace current White House chief of staff Susie Wiles as of Monday, Trump said on his Truth Social network, thanking Wiles for an \"outstanding job.\"\n\nMiller, 41, has been one of Trump's closest aides for more than a decade and is the president's most powerful and hawkish voice on immigration.\n\n\"I am pleased to announce that Mr. Stephen Miller, the current Deputy Chief of Staff of the Trump Administration, and one of my most trusted advisors, will become the Chief of Staff starting Monday, November 9, 2026,\" Trump wrote.\n\n\"Susie Wiles, who has done an outstanding job, will be moving over to the Trump Political Operation. I want to thank her for her service as Chief of Staff - She has done a great job!\"\n\nMiller, who also holds the title of homeland security advisor, has been instrumental in driving the mass deportation program, often featuring violent raids by masked agents, during Trump's second term.\n\nMiller faced particular criticism after the deadly shootings of two protesters by immigration agents in Minneapolis in January -- incidents that sparked mass demonstrations.\n\nThe White House had recently vigorously pushed back against reports that Wiles, the first ever female chief of staff to a US president, was set to be sacked.\n\nBut the appointment of Miller indicates Trump, 80, is ready to double down on his policies after losing control of the House and Senate to Democrats in a landslide.\n\nWiles, 69, who announced recently that she had been given the all-clear from breast cancer, said in a statement on X that Friday would be her last day in her job.\n\n\"Serving President Trump in the White House has been the honour of a lifetime,\" she wrote.\n\n\"I'm so proud to have been a part of what we've accomplished together from securing our border and cutting taxes to strengthening our economy and putting America First.\" (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T20:59:24.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876892-20261107.htm"
+    },
     {
       "id": "e5def24bd6159fe2",
       "title": "More new jobs added in US as unemployment eases",
@@ -1041,17 +1063,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876542-20261104.htm"
     },
     {
-      "id": "b1b184a18a5053e1",
-      "title": "Democrats win House, flip Senate in rebuke to Trump",
-      "excerpt": "Democrats seized control of the US Congress on Tuesday, capturing the Senate and House of Representatives in a stunning, nationwide…",
-      "fullText": "Democrats seized control of the US Congress on Tuesday, capturing the Senate and House of Representatives in a stunning, nationwide rejection of Donald Trump set to put the brakes on the final two years of his presidency.\n\nThe Democratic landslide will give the opposition power to block legislation, launch broad investigations into Trump's administration and thwart his judicial and senior government appointments.\n\nThe results reflected deep anger over living costs, tariffs and Trump's war against Iran, which has sent fuel prices soaring and compounded dissatisfaction with an already deeply unpopular president.\n\n\"I'm just so happy. I'm so eager,\" 22-year-old paralegal Michael Diaz said in Georgia, celebrating a big win by rising Democratic star Jon Ossoff in the Senate.\n\nTrump struck a conciliatory note despite his history of questioning elections, telling The New York Times he was \"absolutely willing\" to accept the results.\n\n\"I think the Democrats did a good job, I really do,\" the 80-year-old told Fox News, in rare praise for his political opponents. \"They fought hard.\"\n\nBut he sought to distance himself from his own party's poor showing, adding that \"I don't view it as a hit on me.\"\n\nHe acknowledged that the Iran conflict had contributed to the defeat, while defending the military campaign, and he suggested the rival parties could find common ground on immigration, long one of the most divisive issues of his presidency.\n\nDemocrats flipped seats that had long been held by Republicans, scoring breakthroughs in South Carolina, North Carolina, Iowa, Kansas, Ohio, Texas and Maine.\n\nIn Maine, former logger Troy Jackson defeated longtime Republican Senator Susan Collins, the party's seventh Senate seat captured from Republicans.\n\nIn Kansas, Methodist minister Adam Hamilton became the first Democrat elected to the Senate from the reliably conservative state since 1932.\n\nIowa had not elected a Democratic senator since 2008.\n\nTexas Democrat James Talarico declared he had defeated \"Goliath\" in winning a Senate seat, while Gina Hinojosa unseated the state's Republican governor, Greg Abbott, ending decades of Republican rule.\n\nDemocrats also protected key Senate seats of their own, including Ossoff in Georgia and an open seat in New Hampshire.\n\nThe scale of the victory grew further when Abdul El-Sayed defeated former Republican lawmaker Mike Rogers in Michigan, making him the first Muslim elected to the upper chamber of Congress.\n\n\"Michigan, we did it!\" El-Sayed said in a speech at his election headquarters in Detroit.\n\nEl-Sayed won despite a last-minute curveball in his campaign when congresswoman Haley Stevens, who lost the Democratic primary to El-Sayed, came out in support of Rogers at the 11th hour.\n\nThe party's House victory saw gains across Pennsylvania, Kentucky, Arizona, North Carolina, Wisconsin and New Jersey, including districts Trump had carried comfortably in 2024.\n\nIn one closely watched bellwether, Democrat J.D. Ford ousted Republican congresswoman Victoria Spartz in Indiana, capturing a district Trump won by 17 points two years earlier.\n\nDemocrats also won Georgia's governorship, electing former Atlanta mayor Keisha Lance Bottoms as the first Black woman governor in US history.\n\nRepublicans had some consolation in Florida, where Trump-backed Byron Donalds became the state's first Black governor and Ashley Moody retained a Senate seat — but only after seeing off surprisingly strong Democratic challenges.\n\nThe night was \"a big wipeout and a strong repudiation of Donald Trump and his policies,\" George Washington University professor Todd Belt told AFP.\n\nDemocratic control of Congress will allow the party to pursue investigations into the Iran war, immigration enforcement and allegations of corruption, while blocking Trump's agenda and senior appointments.\n\nDemocratic Representative Robert Garcia, now expected to lead the powerful House Oversight Committee, warned Republicans on social media: \"LAWYER UP.\"\n\nHouse Democratic leader Hakeem Jeffries declared Trump's Maga movement \"on the run from sea to shining sea.\"\n\nJeffries could become the first Black speaker of the House when the new Congress convenes in January.\n\nDespite his conciliatory remarks, Trump also insisted on social media that Republicans would have won \"IN A LANDSLIDE\" if he had been running, though he had repeatedly urged supporters throughout the campaign to \"pretend I'm on the ballot.\"\n\nHe also repeated his threat to use the presidential veto on Democrat-passed laws, posting a picture on social media of a red baseball cap reading just: \"VETO.\" (AFP)\n\n_____________________________\nLast updated: 2026-11-04 HKT 16:44\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T05:15:37.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876523-20261104.htm"
-    },
-    {
       "id": "9fa00f0ca47ffa81",
       "title": "CE calls for closer cooperation with nation's capital",
       "excerpt": "Chief Executive John Lee on Wednesday called for closer financial and innovative ties with the city of Beijing, as he…",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
-    },
-    {
-      "id": "7aceb231ca0e6f87",
-      "title": "Manpower shortage to narrow",
-      "excerpt": "The Labour & Welfare Bureau today published its Mid-term Update of Manpower Projection report, predicting that Hong Kong's overall manpower…",
-      "fullText": "The Labour & Welfare Bureau today published its Mid-term Update of Manpower Projection report, predicting that Hong Kong's overall manpower shortage will narrow from the previous projection of approximately 180,000 to some 130,000 by 2028.\n\nThe report indicates that the city’s overall manpower shortage has been alleviated, benefiting from various talent admission and labour importation measures implemented by the Government over the past three years.\n\nSecretary for Labour & Welfare Chris Sun said the mid-term update reflects the Government’s measures have effectively stabilised the labour force.\n\n“However, manpower demand in certain industries remains acute. In response to the job reshaping driven by artificial intelligence (AI), the Government will continue to collaborate with all parties to formulate targeted measures.\n\n“In addition to strengthening retraining mechanisms and providing flexible skill-conversion programmes for elderly and middle-aged employees, we will enhance the employment support for young graduates and explore incentives for employers and employees to engage in on-the-job retraining.\n\n“The Government will adopt a multipronged approach to assist workers at all levels in equipping themselves to step into the new era of AI.”\n\nThe report finds that economic restructuring and the adoption of AI adoption have moderated growth in demand for manpower, at the same time as admission schemes have supplemented parts of the labour force. Nevertheless, the manpower situation across most key industries – particularly innovation and technology, aviation, construction, everyday services and healthcare services – remains tight.\n\nAbout 60% percentage of the overall manpower shortage over the next three years is projected to be concentrated in two categories – skilled technical workers, and services and sales workers. This is due to workforce ageing and difficulties in attracting younger entrants.\n\nLooking ahead to 2028, the overall labour force, driven by continued population ageing, is projected to decrease gradually to approximately 3.4 million even after accounting for various new entrants.\n\nThe report includes analysis of the profound impact of AI on the labour market.\n\nResearch indicates that adoption of AI in applicable roles will boost individual productivity by 20% to 30%. Companies are currently managing the transition through natural attrition and the risk of large-scale layoffs in the short term remains relatively low. However, approximately 20% to 30% of positions, primarily clerical roles, will face restructuring.\n\nThe Government will continue to promote “AI for All” and support lifelong learning, ensuring that skills in the labour force remain aligned with Hong Kong's future economy.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260922/20260922_160618_499/images/20260922182515791.jpg",
-      "publishedAt": "2026-09-21T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260922/20260922_160618_499.html"
     }
   ]
 }
