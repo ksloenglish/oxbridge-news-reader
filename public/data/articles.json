@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T14:30:25.915Z",
-  "checkedAt": "2026-11-06T14:30:25.915Z",
+  "generatedAt": "2026-11-06T14:45:25.396Z",
+  "checkedAt": "2026-11-06T14:45:25.396Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "e5def24bd6159fe2",
+      "title": "More new jobs added in US as unemployment eases",
+      "excerpt": "US nonfarm payrolls increased more than expected in October and the unemployment rate fell to 4.1 percent, suggesting the labour…",
+      "fullText": "US nonfarm payrolls increased more than expected in October and the unemployment rate fell to 4.1 percent, suggesting the labour market remained resilient and giving the Federal Reserve more scope to focus on inflation stemming from the Middle East conflict.\n\nPayrolls jumped by 165,000 jobs last month after an upwardly revised 60,000 gain in September, the US Labor Department's Bureau of Labor Statistics said on Friday.\n\nEconomists polled by Reuters had forecast payrolls advancing 65,000 after a previously reported 29,000 increase in September.\n\nEstimates ranged from 35,000 to 125,000 jobs.\n\nEconomists estimated the economy needed to create at least 40,000 jobs per month to keep up with growth in the working-age population. The so-called breakeven rate has declined from roughly 150,000 in 2024 because of the smaller labour force.\n\nThe unemployment rate declined from 4.2 percent in September.\n\nHistorically low layoffs and a recent jump in job openings have raised the prospect of labour market tightening.\n\nBut economists and US central bank officials have maintained that the labour market poses no inflation risk. Some economists have argued that a shrinking supply of workers amid an immigration crackdown and retirements is the primary driver of the relatively low unemployment rate.\n\nMeanwhile, Canada's unemployment rate went up to a six-month high in October and the economy lost a few thousand jobs as the private sector and full-time employment saw declines, data showed on Friday.\n\nThe unemployment rate edged up to 6.7 percent in October from 6.5 percent in the prior month, Statistics Canada said. The last time it was higher than this level was 6.9 percent jobless rate in April.\n\nThe economy lost a net of 4,700 jobs in the month, taking the total size of the jobs the economy lost this year to 46,000 overall.\n\nThe October report highlights a continued weakness in the labour market in Canada that has failed to post any job gains on average this year as trade tensions between the US and Canada worsened and businesses hunkered down to save costs. (Reuters)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T14:20:22.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876880-20261106.htm"
+    },
     {
       "id": "f66c14545acb7734",
       "title": "2026 on track to be second-hottest year in history",
@@ -1030,17 +1041,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876523-20261104.htm"
     },
     {
-      "id": "e7a6abeae492ab70",
-      "title": "Democrats win key races in Texas",
-      "excerpt": "Democrat James Talarico, a former schoolteacher and Presbyterian seminarian who campaigned on a \"politics of love,\" on Tuesday won the…",
-      "fullText": "Democrat James Talarico, a former schoolteacher and Presbyterian seminarian who campaigned on a \"politics of love,\" on Tuesday won the US Senate race in Texas, flipping yet another seat for his party in a huge blow to Republicans.\n\nTalarico defeated the state's attorney general Ken Paxton, a close ally of US President Donald Trump who survived impeachment and years of scandal, NBC News and CBS News projected.\n\nHe becomes the first Democrat to win statewide office in Texas since the 1990s.\n\nThe result was a major setback for Trump, who threw his weight behind Paxton and made the state a campaign priority.\n\nIn another political earthquake for the southern border state, Democrat Gina Hinojosa on Tuesday unseated incumbent Texas Governor Greg Abbott.\n\nHinojosa, a 52-year-old attorney and state lawmaker, is part of a new generation of Democrats who are seeking to attract independents and voters disillusioned by Trump's unpopular war in the Middle East and skyrocketing prices for gas and everyday goods.\n\nThe landmark victories for Democrats could signal that Texas, the country's second most populous state with 40 electoral votes, is becoming competitive in national elections, a shift that could reshape the electoral map for future races.\n\nThe result also marks a defeat for tech billionaire Elon Musk, who became one of Talarico's most vocal opponents in the final weeks of the campaign.\n\nMusk, who has moved the headquarters of Tesla, SpaceX and X to Texas, has a growing business stake in the state.\n\nThe world's richest man spent more than US$200 million supporting Paxton, according to federal filings.\n\nTalarico ran on a blend of Christian faith and economic populism, describing the contest in the final days of the campaign as a David versus Goliath fight and inviting Republicans dissatisfied with the party to join him.\n\n\"We are uniting Texans from all backgrounds and beliefs onto one team to take on this broken, corrupt political system,\" he told reporters after voting early in Austin last week.\n\nTrump travelled to Texas four times in the month before the election to rally for Paxton, whom he endorsed over four-term incumbent senator John Cornyn in the Republican primary.\n\nAt rallies, Trump told voters that a Democratic victory would mean open borders and economic damage, and repeatedly mocked Talarico.\n\nThe race became the most expensive non-presidential contest in US history, with more than US$560 million spent or reserved on political advertising, according to the ad-tracking firm AdImpact.\n\nTalarico, a 37-year-old former teacher and Presbyterian seminarian, was elected to the Texas House of Representatives in 2018 and built a national following with speeches combining progressive politics, biblical teaching and criticism of wealthy elites.\n\nA two-hour appearance on Joe Rogan's podcast in 2025 brought him an audience beyond traditional Democratic voters.\n\nHe defeated congresswoman Jasmine Crockett in the Democratic primary and sought to broaden his appeal by criticising aspects of former president Joe Biden's immigration policies.\n\nHis positions on abortion and LGBTQ rights drew sharp criticism from religious conservatives.\n\nPaxton, 63, survived impeachment by the Republican-controlled Texas House in 2023 on allegations of corruption and abuse of power before being acquitted by the state Senate.\n\nHe has denied wrongdoing and portrayed his legal troubles as attacks by the political establishment.\n\nDuring the campaign, Talarico drew support from voters who had left the Republican Party.\n\n\"That party's crazy. They left me, I didn't leave them. The Maga people are crazy,\" Noel, a 75-year-old lifelong Republican, told AFP at a recent rally in Galveston, a Republican stronghold on the Texas coast.\n\n\"He's a young man, he's an honest man, he's got a vision, he's smart, well-spoken, nice, kind, which is what we need,\" he said.\n\nYounger voters were also drawn to his campaign.\n\nMaya Guerra, the 21-year-old daughter of Latino migrants, told AFP in Houston that she saw Talarico as a source of hope.\n\nTraci Gibson, head of the Democratic Party in Harris County, which includes most of Houston, said Talarico's message reached across party lines.\n\n\"It's not left, it's not right. It's top versus bottom,\" she told AFP.\n\n\"It is us versus corrupt billionaires. It is us with our health care. It is us with our gas prices.\" (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T04:45:36.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876515-20261104.htm"
-    },
-    {
       "id": "9fa00f0ca47ffa81",
       "title": "CE calls for closer cooperation with nation's capital",
       "excerpt": "Chief Executive John Lee on Wednesday called for closer financial and innovative ties with the city of Beijing, as he…",
@@ -1204,17 +1204,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876411-20261103.htm"
-    },
-    {
-      "id": "1c367c3d33ca5da4",
-      "title": "Hong Kong economy grew 5.2pc in Q3 2026",
-      "excerpt": "Hong Kong’s economy grew 5.2 percent year on year in the third quarter of 2026, buoyed by stronger exports and…",
-      "fullText": "Hong Kong’s economy grew 5.2 percent year on year in the third quarter of 2026, buoyed by stronger exports and domestic demand, according to advance estimates.\n\nThe Census and Statistics Department said the increase compared with a 4.2 percent growth in the second quarter. On a seasonally adjusted basis, GDP rose 1.9 percent quarter on quarter.\n\nFor the first nine months combined, the economy grew 5.1 percent – the fastest growth for the period in five years.\n\nGoods exports rose 30.4 percent in real terms, after 28.9 percent in the second quarter, while imports grew 29.9 percent.\n\nExports of services increased 4.3 percent. Investment strengthened, with gross domestic fixed capital formation up 7.3 percent, while private consumption grew 2.8 percent and government consumption was up 1.7 percent.\n\nA government spokesman said the economy saw robust expansion, underpinned by accelerating exports and solid domestic demand.\n\nHe said the outlook remained positive, citing global artificial intelligence investment, inbound tourism, cross-boundary traffic and financial market activity.\n\nBut he advised caution over geopolitical tensions in the Middle East and tighter monetary policies by major central banks.\n\nRevised GDP figures and the updated forecast for 2026 will be released on November 13.\n\nSeparately, retail sales rose 6.4 percent year on year in September to a provisional HK$33.4 billion – the 17th straight month of expansion.\n\nAugust’s revised increase was 5.6 percent, and sales for the first nine months were up 8.3 percent by value.\n\nOnline sales rose 12 percent to HK$4.4 billion in September, or 13.1 percent of total retail sales, and were up 21.2 percent for the first nine months.\n\nRetail sales volume rose 3.9 percent in September.\n\nThe spokesman said solid local consumption sentiment, more visitor arrivals and earlier Mid-Autumn festive sales supported retail growth.\n\nHe said upcoming mega events, festive celebrations and inbound tourism should add momentum, though external headwinds warranted close monitoring.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T09:13:27.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876400-20261103.htm"
     },
     {
       "id": "c509a3f96195121e",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
+    },
+    {
+      "id": "9ae8a1e02c50d50c",
+      "title": "SED meets state leader in Beijing",
+      "excerpt": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in…",
+      "fullText": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in visiting a state leader and Ministry of Education officials in Beijing.\n\nMs Choi and the delegates were received by Vice-Chairperson of the National People's Congress Standing Committee Tie Ning at the Great Hall of the People this afternoon. They also met and exchanged views with officials from the ministry.\n\nMs Choi remarked that this year marks the 77th anniversary of the founding of the People's Republic of China, the 105th anniversary of the founding of the Communist Party of China, and the opening year of the National 15th Five-Year Plan.\n\nShe said it was highly significant for Hong Kong's education sector to visit Beijing ahead of National Day, on October 1, and to celebrate the motherland's birthday and experience a jubilant festive atmosphere with people in the capital.\n\nMs Choi highlighted that last week the Hong Kong Special Administrative Region Government announced its First Five-Year Plan, which aligns with the National 15th Five-Year Plan. She outlined that the Hong Kong's education sector faces multiple tasks, including digital education, talent cultivation and the integration of industry and education.\n\nShe said: “The delegation enabled teachers to gain insight into the latest education developments of the country and share experiences with Chinese Mainland teachers in areas such as operation models, curricula and teaching arrangements of schools at all levels.\n\n“It not only broadened their horizons but also fostered exchanges between the education sectors of both places, providing important references for the future development of Hong Kong's education and laying a foundation for deeper collaboration.”\n\nMs Choi and the delegation subsequently attended a banquet hosted by the Ministry of Education, where they engaged in in-depth discussions regarding professional connections and mutual learning between the education sectors of the two places.\n\nMs Choi and the delegation members will conclude their visit and return to Hong Kong tomorrow.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014/images/20260923195636768.jpg",
+      "publishedAt": "2026-09-22T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
     }
   ]
 }
