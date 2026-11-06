@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T01:00:29.035Z",
-  "checkedAt": "2026-11-06T01:00:29.035Z",
+  "generatedAt": "2026-11-06T01:15:25.617Z",
+  "checkedAt": "2026-11-06T01:15:25.617Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -95,6 +95,17 @@
   ],
   "articles": [
     {
+      "id": "398f05f4da598ed2",
+      "title": "Police to deploy facial recognition on CCTV networks",
+      "excerpt": "Police said facial recognition technology will be rolled out across its CCTV network this month to assist in criminal searches…",
+      "fullText": "Police said facial recognition technology will be rolled out across its CCTV network this month to assist in criminal searches and locate high-risk missing persons, with some of the captured data stored for up to 180 days.\n\nOfficers said they have so far installed around 10,000 cameras under the SmartView initiative, alongside connections to a further 10,000 from other government departments and public organisations.\n\nCovered locations include, among others, Kai Tak Sports Park, Hong Kong International Airport, cross-harbour tunnels, MTR stations and public housing estates.\n\nSuperintendent Raymond Cheng said the facial recognition feature can be activated anytime on all police cameras, as well as third-party feeds integrated into the SmartView system.\n\nHowever, he explained that the feature will only be triggered during active criminal searches or to locate high-risk missing persons, to save resources.\n\n\"For the 24 hours analysis, not all of them can be used at the same time because of the resources,\" Cheng said.\n\n\"But if we need to use, we can spend the resources on particular CCTV, and of course it can be used around the clock.”\n\nIn separate pilot tests, police said the facial recognition technology has already helped them arrest a robbery suspect and locate an elderly man with dementia within 1.5 hours of being reported missing.\n\nOfficers said CCTV footage will only be kept for a maximum of 31 days. However, photos of individuals captured by the facial recognition technology, along with metadata such as location, date, time, and facial characteristics, will be retained for 180 days.\n\nMeanwhile, police revealed that at least four shopping malls have agreed to connect their CCTV feeds to the police network.\n\nRTHK understands these include Tuen Mun Town Plaza, Olympian City, Kwai Chung Shopping Centre, and Sierra Life in Fanling.\n\nCheng said malls that have installed CCTV cameras are required by law to display signs warning people that recording is in progress.\n\nHowever, the superindendent noted the Department of Justice (DOJ) advised that it should be voluntary for malls to disclose whether their CCTV feeds are connected to the police network.\n\n“We will follow the advice from the DOJ to encourage shopping malls or the organisations to post our notice to announce that our system is connected with their CCTV,” Cheng added.\n\nPolice have been installing cameras in public places with high crime rates and heavy pedestrian flow since 2024, aiming to reach a target of 60,000 cameras by 2028 to cover the entire city.\n\nAn additional 6,500 cameras will be installed in the developing Northern Metropolis after 2028, bringing the total number of public surveillance cameras to around 66,500 in 2031.\n\nSince the project began, the force said its CCTV network has helped solve nearly 2,200 criminal cases, including murder, robbery, and arson, leading to more than 2,800 arrests.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T00:51:52.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876757-20261106.htm"
+    },
+    {
       "id": "33f87479bebcf6b9",
       "title": "Bournemouth stay perfect in Europa League",
       "excerpt": "Bournemouth extended their perfect Europa League record on Thursday as they came from behind to win 3-1 at 10-man Sparta…",
@@ -118,7 +129,7 @@
     },
     {
       "id": "c9ca56172ba666e6",
-      "title": "A brutal sell-off for AI stocks sends Wall St reeling",
+      "title": "Brutal sell-off for AI stocks sends Wall St reeling",
       "excerpt": "A brutal sell-off swept through Wall Street on Thursday, led by stocks tied to the buildout of AI data centres…",
       "fullText": "A brutal sell-off swept through Wall Street on Thursday, led by stocks tied to the buildout of AI data centres. The wipeout more than erased the US stock market’s gain from the day before, which was its best in three months.\n\nThe S&P 500 fell 4.4 percent for its worst day since US President Donald Trump shook markets worldwide in April 2025 with his “Liberation Day” tariffs.\n\nThe Dow sank 3.4 percent, while the Nasdaq tumbled 5.5 percent.\n\nThe Nasdaq, which is full of AI-related and other tech stocks, sank 11.9 percent below its all-time high set last month. Stock geeks call a loss of more than 10 percent a “correction.”\n\nStock markets around the world felt pressure from continued drops for companies that had benefited from the boom in the artificial-intelligence technology industry, and South Korea’s Kospi index tumbled 5.3 percent.\n\nSuch stocks have been swinging for months on worries that the construction of further AI data centres may slow because of how expensive it’s become to borrow money. Critics also said AI stock prices had shot too high and were in a bubble.\n\nTuesday’s US midterm elections added another challenge. The nationwide victories for Democrats raised the possibility that governments could force pauses in construction of more data centres.\n\nVoters across political parties say they’re wary about AI and don’t like the increases to power bills caused by data centres.\n\nAny slowdown in construction of AI data centres would mean fewer purchases of AI chips, not to mention electricity and other products and services that are getting vacuumed up in the AI frenzy, which is driving much of the US economy’s growth .\n\nNvidia, the chip company that quickly became the face of the AI boom, fell 9.3 percent and was by far the heaviest weight on the S&P 500.\n\nIt’s now down 2.6 percent for the year so far following annual gains of roughly 39 percent, 171 percent and 239 percent in the last three years.\n\nAdvanced Micro Devices tumbled 17.3 percent. CoreWeave, a company that rents access to AI chips to customers over the cloud, fell 9.8 percent. GE Vernova, which has been helping to power data centers, sank 7.5 percent.\n\nThe Nasdaq fell 5.5 percent, to 24,315, the S&P 500 fell 4.4 percent, to 7,353, while the Dow fell 3.4 percent, to 51,523. (AP)\n\nEdited by Robert Kemp",
       "imageUrl": null,
@@ -1017,17 +1028,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
-    },
-    {
-      "id": "23599dd884e1634a",
-      "title": "Evening News on TV32 - Nov 3",
-      "excerpt": "Top stories for Tuesday, Nov 3, 2026 - Hong Kong's economy grows 5.2 percent in the third quarter. - Parking…",
-      "fullText": "Top stories for Tuesday, Nov 3, 2026\n\n- Hong Kong's economy grows 5.2 percent in the third quarter.\n\n- Parking meters across the city go on the blink for hours.\n\n- Americans vote in midterms set to upend Donald Trump's presidency.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T12:43:18.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876415-20261103.htm"
     },
     {
       "id": "61bcda3a23d3e1c7",
