@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T09:15:18.553Z",
-  "checkedAt": "2026-11-06T09:15:18.553Z",
+  "generatedAt": "2026-11-06T09:30:27.576Z",
+  "checkedAt": "2026-11-06T09:30:27.576Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 14
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "56294b5f4c2045be",
+      "title": "HK stocks slip as tech rout spreads to Asian markets",
+      "excerpt": "Mainland and Hong Kong stocks fell on Friday as a Nasdaq-led tech rout rippled across Asia and fuelled fears the…",
+      "fullText": "Mainland and Hong Kong stocks fell on Friday as a Nasdaq-led tech rout rippled across Asia and fuelled fears the AI boom is losing steam, although bargain hunting helped pare losses in markets across the border buoyed by Beijing's market-supporting measures.\n\nIn Hong Kong, the benchmark Hang Seng Index ended 315 points, or 1.3 percent, in the red at 24,481 on turnover of HK$247.43 billion but registered a 5.1 percent weekly gain, its best since March 2025.\n\nThe tech index fell 76 points, or 1.8 percent, to 4,078 but posted its best weekly gain since February 2025, advancing 8.6 percent, while the China Enterprises Index was 94 points, or 1.1 percent, lower at 8,274.\n\nUp north, the blue-chip CSI 300 Index dropped 1.4 percent but notched up a 1.7 percent gain for the week to snap a 12-week-long losing streak.\n\nThe Shanghai Composite Index ended down 40 points, or 1.1 percent, at 3,649 on turnover of 772.63 billion yuan but broke a six-week losing streak to end the week 1.4 percent higher.\n\nThe Shenzhen Component Index fell 295 points, or 2.57 percent, to 11,175 on turnover of 885.16 billion yuan while the ChiNext Index dived 101 points, or 3.96 percent, to 2,465 on turnover of 441 billion yuan.\n\nTech sectors across Asia took a heavy blow after a steep selloff overnight in the United States wiped trillions of dollars off market value, as investors fretted that a Democratic sweep in the US midterm elections could bring tighter scrutiny of the AI sector.\n\nChina's tech-focused Star 50 index and the AI index slumped up to 5.2 percent before paring some losses.\n\nDong Baozhen, chairman of asset manager Lingtong Shengtai, said the overnight slump in US tech stocks meant the logic behind the AI-driven rally had crumbled.\n\n\"The US stock market has been the standard-bearer and backbone of the global AI bull run. Now that backbone has snapped. Can AI bull markets elsewhere hold up on their own?\" he said.\n\nChinese AI hardware stocks with significant exposure to the US market were among the hardest hit. Zhongji Innolight, which makes optical transceivers for data centres and generates most of its revenue in America, slumped 9.2 percent to a one-year low. Rival Eoptolink Technology tanked 7.3 percent.\n\nJason Hsu, founder and chairman of Rayliant Global Advisors, said China's sentiment-driven stock market was heavily influenced by AI stock performance in the United States.\n\nTechnology stocks carry significant weight in China's stock market and \"what people are really watching closely is whether AI in the United States is a bubble,\" he said, adding that any signs of a bubble bursting in the US \"obviously will affect the Chinese market\".\n\nStill, early panic selling drew in bargain hunters, helping trim losses after Beijing rolled out support measures and reiterated its commitment to preventing systemic risks.\n\n\"The series of domestic support measures introduced recently should provide a degree of support within a trading range and help reduce the risk of a systemic downturn,\" said Ailsa Liao, senior analyst at Forthright Securities.\n\nSome analysts, however, cautioned that the measures might not be enough to insulate the market from external shocks.\n\n\"I don't think China can completely escape the fallout from Wall Street, especially with selling this aggressive,\" said Pepperstone strategist Dilin Wu.\n\nIn Tokyo, the Nikkei ended down 3,643 points, or 5.96 percent, at 57,434 for the day and 9.3 percent for the week, its worst in more than six years amid worries new political equations forming in the wake of the US midterms could weigh on AI development. The broader Topix lost 232 points, or 5.9 percent, with all 33 industry sectors sliding.\n\nIn Seoul, the Kospi plunged 324 points, or 6.02 percent, to 5,059, a day after dropping 5.3 percent. The South Korean benchmark, down 11.7 percent for the week, has dropped 44 percent from its June peak but is still up 20 percent so far this year. (Agencies)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T09:16:57.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876843-20261106.htm"
+    },
+    {
+      "id": "455e38509200da94",
+      "title": "'Unlimited land searches raise privacy concerns'",
+      "excerpt": "A development official on Friday said a lack of restrictions for land record searches may lead to privacy concerns, prompting…",
+      "fullText": "A development official on Friday said a lack of restrictions for land record searches may lead to privacy concerns, prompting the authorities to adjust the mechanism.\n\nHer remarks came after the government proposed legislative amendments, saying land record searches must meet one of nine specified purposes.\n\nSpeaking to lawmakers, Permanent Secretary for Development of Planning and Lands Doris Ho said there should be room for the media to carry out investigative reporting by allowing the search in the public interest, including the reporting of large-scale unauthorised building works.\n\n“We believe that there should be a mechanism – a not too difficult one – for the media to carry out reporting that serves public interest,” she said.\n\n“We want to have this type of reporting. Therefore, although an application and some information will be required in the future… we believe the chance of approval is very high.”\n\nHo added that although there is no appeal mechanism, if an application is rejected, the applicant could submit grounds that were not previously provided for authorities to reconsider.\n\nAuthorities are also looking at the introduction of a mechanism to inform home owners whose properties are being searched, she said.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T09:07:06.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876833-20261106.htm"
+    },
     {
       "id": "241d274504cae706",
       "title": "Former Macao lawmaker jailed 12.5 years",
@@ -827,8 +849,8 @@
       "fullText": "Radio Television Hong Kong (RTHK) has signed a Memorandum of Understanding (MoU) with Tianjin Haihe Media Group, in a bid to boost bilateral collaboration in areas such as talent exchange and events.\n\nThe MoU was signed during a four-day trip by Director of Broadcasting Angelina Kwan to the mainland, which ended on Wednesday.\n\nDuring the trip, Kwan, as well as participants of RTHK's national studies programme, called on the Hong Kong and Macao Affairs Office of the State Council, and met Deputy Director Zhang Dongmei.\n\nKwan also visited the National Radio and Television Administration and the Beijing Radio and Television Station to explore opportunities for strengthening exchange and co-operation.\n\nOn Tuesday, Kwan signed an MoU with Tianjin Haihe Media Group President Ma Bo. The two sides agreed to establish a framework for bilateral collaboration spanning programme resources, talent exchanges, co-operation on platform and copyright licensing, as well as on-ground events.\n\nRTHK said the the partnership will facilitate the distribution of its content to the Beijing-Tianjin-Hebei region, while enabling Tianjin Haihe Media Group's productions to reach international audiences through RTHK's platforms.\n\nRTHK has signed MoUs with eight mainland and overseas media organisations so far this year.\n\n\"By building a growing network of broadcaster partnerships and deepening collaboration on an ongoing basis, RTHK is giving concrete expression to its strategic commitment to leveraging Hong Kong's unique role as a connector between the Chinese mainland and the wider world, thereby enhancing Hong Kong's international communication capacity and sharing the stories of the nation and Hong Kong on the global stage,\" a statement read.\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-11-04T13:00:19.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876575-20261104.htm"
     },
     {
@@ -1160,17 +1182,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876400-20261103.htm"
-    },
-    {
-      "id": "7eee08111c617bc9",
-      "title": "HK up as policy moves fail to lift mainland markets",
-      "excerpt": "The mainland's latest effort to steady its sliding stock market struggled for traction on Tuesday, with shares pinned near one-year…",
-      "fullText": "The mainland's latest effort to steady its sliding stock market struggled for traction on Tuesday, with shares pinned near one-year lows and investors saying a familiar playbook of encouraging money into the market was falling short this time.\n\nIn Hong Kong, the benchmark Hang Seng Index ended up 132 points, or 0.6 percent, at 23,525 on turnover of HK$236.4 billion.\n\nThe tech index rose 28 points, or 0.7 percent, to 3,867 while the China enterprises index was 36 points, or 0.5 percent, higher at 7,943.\n\nUp north, the Shanghai Composite Index fell 29 points, or 0.82 percent, to close at 3,608, on turnover of 810.83 billion yuan.\n\nThe Shenzhen Component Index dropped 133 points, or 1.21 percent, to 10,876 on turnover of 892.6 billion while the ChiNext Index plunged 67 points, or 2.73 percent, to 2,391 on turnover of 446.45 billion yuan.\n\nThe blue-chip CSI300 is down 13 percent since January.\n\nThe index notched its largest monthly fall for a decade in October, led by a slump in AI stocks, and closed 0.2 percent lower on Tuesday.\n\nOn Monday regulators responded with measures aimed at funding stock purchases by brokers, funds and companies.\n\nAuthorities have also instructed banks to hold off on new listings or large share sales in order to support the market, the Financial Times newspaper reported on Tuesday, citing insiders.\n\nFund manager Chen Jiande said steps — including central bank swap operations to fund stock purchases and encouraging buybacks — repeated efforts in 2024 and offered a chance to sell, rather than buy.\n\n\"These measures were below expectations,\" said Chen, general manager at Fujian Tianlang Asset Management.\n\n\"Many investors in battered tech shares are taking advantage of any rebound to rush out.\"\n\nUBS economists led by Yu Song agreed that support could build, saying the latest steps marked a new phase of coordinated action across the three main regulators – a sign of commitment to stabilising markets.\n\nBut they played down the prospect of a full-scale repeat, arguing economic growth remained within policymakers' comfort zone and the recent selloff did not reflect any fresh deterioration in fundamentals.\n\nIn Seoul, the Kospi closed down 210 points, or 3.59 percent, at 5,648 amid chip-sector losses of 4.15 percent for Samsung Electronics and 5.03 percent for SK Hynix. (Reuters/Xinhua)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T08:56:09.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876397-20261103.htm"
     },
     {
       "id": "c509a3f96195121e",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
-    },
-    {
-      "id": "9ae8a1e02c50d50c",
-      "title": "SED meets state leader in Beijing",
-      "excerpt": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in…",
-      "fullText": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in visiting a state leader and Ministry of Education officials in Beijing.\n\nMs Choi and the delegates were received by Vice-Chairperson of the National People's Congress Standing Committee Tie Ning at the Great Hall of the People this afternoon. They also met and exchanged views with officials from the ministry.\n\nMs Choi remarked that this year marks the 77th anniversary of the founding of the People's Republic of China, the 105th anniversary of the founding of the Communist Party of China, and the opening year of the National 15th Five-Year Plan.\n\nShe said it was highly significant for Hong Kong's education sector to visit Beijing ahead of National Day, on October 1, and to celebrate the motherland's birthday and experience a jubilant festive atmosphere with people in the capital.\n\nMs Choi highlighted that last week the Hong Kong Special Administrative Region Government announced its First Five-Year Plan, which aligns with the National 15th Five-Year Plan. She outlined that the Hong Kong's education sector faces multiple tasks, including digital education, talent cultivation and the integration of industry and education.\n\nShe said: “The delegation enabled teachers to gain insight into the latest education developments of the country and share experiences with Chinese Mainland teachers in areas such as operation models, curricula and teaching arrangements of schools at all levels.\n\n“It not only broadened their horizons but also fostered exchanges between the education sectors of both places, providing important references for the future development of Hong Kong's education and laying a foundation for deeper collaboration.”\n\nMs Choi and the delegation subsequently attended a banquet hosted by the Ministry of Education, where they engaged in in-depth discussions regarding professional connections and mutual learning between the education sectors of the two places.\n\nMs Choi and the delegation members will conclude their visit and return to Hong Kong tomorrow.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014/images/20260923195636768.jpg",
-      "publishedAt": "2026-09-22T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
     }
   ]
 }
