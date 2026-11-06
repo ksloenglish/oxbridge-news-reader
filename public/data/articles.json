@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T11:00:30.110Z",
-  "checkedAt": "2026-11-06T11:15:17.802Z",
+  "generatedAt": "2026-11-06T11:25:16.690Z",
+  "checkedAt": "2026-11-06T11:25:16.690Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "23b74c79e8dcb4ab",
+      "title": "28 nabbed in first task force raid against bid-rigging",
+      "excerpt": "Authorities said on Friday that 28 people were arrested in an operation against a suspected triad-linked bid-rigging syndicate targeting building…",
+      "fullText": "Authorities said on Friday that 28 people were arrested in an operation against a suspected triad-linked bid-rigging syndicate targeting building maintenance and renovation projects.\n\nSecretary for Security Chris Tang said it was the first operation by the joint task force made up of police, the ICAC and the Competition Commission, which was set up after the Wang Fuk Court fire last year.\n\nTang said the syndicate was looking to cash in before the government's anti-bid-rigging policies takes effect.\n\nUnder pretexts such as fluctuating material prices and the urgent need to start works, it tried to get homeowners to sign contracts quickly, so its preferred engineering consultants and contractors would be selected in a bid to rake in huge profits at the last minute, he said.\n\n\"The syndicate involved at least 20 buildings or estates, including 12 that have already awarded the contract and eight that have yet to award the contract,\" the security minister told reporters.\n\n\"The awarded sum is about HK$100 million and the to-be-awarded amount is also about HK$100 million.\"\n\nOfficials will contact the owners' corporations of the affected estates to offer assistance.\n\nThose arrested include directors and staff from a property management company, six contractors and 10 consultancy firms, along with one member of an owners' corporation.\n\nSeveral arrestees, Tang said, were suspected to have triad affiliations.\n\nThey were arrested for offences including deception, forgery, conspiracy to defraud and conspiracy to offer an advantage to an agent, among others.\n\nSeparately, police smashed seven illegal premises suspected to be controlled by triads across the city and arrested 38 people.\n\nTang said the syndicate allegedly funnelled profits from bid-rigging to illegal gambling dens and vice establishments.\n\nHe added a 24-hour hotline and a reward scheme have been set up to encourage the public to report suspected bid-rigging, with all information kept strictly confidential.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T11:18:39.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876858-20261106.htm"
+    },
     {
       "id": "ecfeadb473d9a2de",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -871,8 +882,8 @@
       "fullText": "Radio Television Hong Kong (RTHK) has signed a Memorandum of Understanding (MoU) with Tianjin Haihe Media Group, in a bid to boost bilateral collaboration in areas such as talent exchange and events.\n\nThe MoU was signed during a four-day trip by Director of Broadcasting Angelina Kwan to the mainland, which ended on Wednesday.\n\nDuring the trip, Kwan, as well as participants of RTHK's national studies programme, called on the Hong Kong and Macao Affairs Office of the State Council, and met Deputy Director Zhang Dongmei.\n\nKwan also visited the National Radio and Television Administration and the Beijing Radio and Television Station to explore opportunities for strengthening exchange and co-operation.\n\nOn Tuesday, Kwan signed an MoU with Tianjin Haihe Media Group President Ma Bo. The two sides agreed to establish a framework for bilateral collaboration spanning programme resources, talent exchanges, co-operation on platform and copyright licensing, as well as on-ground events.\n\nRTHK said the the partnership will facilitate the distribution of its content to the Beijing-Tianjin-Hebei region, while enabling Tianjin Haihe Media Group's productions to reach international audiences through RTHK's platforms.\n\nRTHK has signed MoUs with eight mainland and overseas media organisations so far this year.\n\n\"By building a growing network of broadcaster partnerships and deepening collaboration on an ongoing basis, RTHK is giving concrete expression to its strategic commitment to leveraging Hong Kong's unique role as a connector between the Chinese mainland and the wider world, thereby enhancing Hong Kong's international communication capacity and sharing the stories of the nation and Hong Kong on the global stage,\" a statement read.\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-11-04T13:00:19.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876575-20261104.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
-    },
-    {
-      "id": "7aceb231ca0e6f87",
-      "title": "Manpower shortage to narrow",
-      "excerpt": "The Labour & Welfare Bureau today published its Mid-term Update of Manpower Projection report, predicting that Hong Kong's overall manpower…",
-      "fullText": "The Labour & Welfare Bureau today published its Mid-term Update of Manpower Projection report, predicting that Hong Kong's overall manpower shortage will narrow from the previous projection of approximately 180,000 to some 130,000 by 2028.\n\nThe report indicates that the city’s overall manpower shortage has been alleviated, benefiting from various talent admission and labour importation measures implemented by the Government over the past three years.\n\nSecretary for Labour & Welfare Chris Sun said the mid-term update reflects the Government’s measures have effectively stabilised the labour force.\n\n“However, manpower demand in certain industries remains acute. In response to the job reshaping driven by artificial intelligence (AI), the Government will continue to collaborate with all parties to formulate targeted measures.\n\n“In addition to strengthening retraining mechanisms and providing flexible skill-conversion programmes for elderly and middle-aged employees, we will enhance the employment support for young graduates and explore incentives for employers and employees to engage in on-the-job retraining.\n\n“The Government will adopt a multipronged approach to assist workers at all levels in equipping themselves to step into the new era of AI.”\n\nThe report finds that economic restructuring and the adoption of AI adoption have moderated growth in demand for manpower, at the same time as admission schemes have supplemented parts of the labour force. Nevertheless, the manpower situation across most key industries – particularly innovation and technology, aviation, construction, everyday services and healthcare services – remains tight.\n\nAbout 60% percentage of the overall manpower shortage over the next three years is projected to be concentrated in two categories – skilled technical workers, and services and sales workers. This is due to workforce ageing and difficulties in attracting younger entrants.\n\nLooking ahead to 2028, the overall labour force, driven by continued population ageing, is projected to decrease gradually to approximately 3.4 million even after accounting for various new entrants.\n\nThe report includes analysis of the profound impact of AI on the labour market.\n\nResearch indicates that adoption of AI in applicable roles will boost individual productivity by 20% to 30%. Companies are currently managing the transition through natural attrition and the risk of large-scale layoffs in the short term remains relatively low. However, approximately 20% to 30% of positions, primarily clerical roles, will face restructuring.\n\nThe Government will continue to promote “AI for All” and support lifelong learning, ensuring that skills in the labour force remain aligned with Hong Kong's future economy.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260922/20260922_160618_499/images/20260922182515791.jpg",
-      "publishedAt": "2026-09-21T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260922/20260922_160618_499.html"
     }
   ]
 }
