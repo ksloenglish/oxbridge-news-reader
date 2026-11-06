@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T21:15:17.062Z",
-  "checkedAt": "2026-11-06T23:03:40.439Z",
+  "generatedAt": "2026-11-06T23:15:18.207Z",
+  "checkedAt": "2026-11-06T23:15:18.207Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "fffc32007a57b015",
+      "title": "Ferrari boss lays down law to Hamilton, Leclerc",
+      "excerpt": "Ferrari team chief Fred Vasseur on Friday said both of his quarrelling drivers had been reminded that the Italian team…",
+      "fullText": "Ferrari team chief Fred Vasseur on Friday said both of his quarrelling drivers had been reminded that the Italian team always comes first following a meeting at Interlagos.\n\nSpeaking to reporters at a scheduled news conference following opening practice at the Sao Paulo Grand Prix, Vasseur confirmed that he met seven-time champion Lewis Hamilton and Charles Leclerc to discuss their clash and performance in Mexico last Sunday.\n\n\"The guidelines are always the same,\" said Vasseur. \"They are two competitors with a fighting spirit for sure, but they need to have respect for each other.\n\n\"But mainly, and firstly, they need to respect the brand, the team, the people working at home, the people working on track. I think we are putting a lot of effort on this and the message was clear -- and will stay clear.\"\n\nHamilton, who started from his first pole for the team, had made clear after the Mexican race that he felt Leclerc had been over-aggressive on the opening lap when they tangled and ran off track, wrecking Ferrari's hopes of victory.\n\nThe British driver called for serious discussions and confirmed on Thursday that he remained frustrated and would not stop speaking his mind on the issues.\n\nThe drivers had not met since the Mexico event as Leclerc returned to Monaco for the birth of his first child.\n\nVasseur deflected claims, from Hamilton and others, that Leclerc races harder against his team-mates than others by citing his aggressive pass of four-time champion Max Verstappen of Red Bull in Texas.\n\n\"If you have a look at what Charles did in Austin in the first sector, everybody said it was magic,\" he said. \"The line is fine between the two, but he didn't crash into the other car.\"\n\nVasseur added: \"For sure, in this situation, we failed collectively because we were one and two and we didn't win the race at the end. That means that it's clear that we failed and we have to react.\n\n\"But the conclusion of the meeting yesterday (Thursday) evening was a clear reminder that the Ferrari is coming first, is coming first for the brand, for the employees, for the Tifosi, and this we have to keep it in mind.\"\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T23:07:53.000Z",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876904-20261107.htm"
+    },
+    {
+      "id": "f08b837f743cb3ea",
+      "title": "US markets close mixed as tech stocks push back",
+      "excerpt": "US technology stocks bounced back on Friday from their worst drubbing in more than a year, but the Nasdaq Composite…",
+      "fullText": "US technology stocks bounced back on Friday from their worst drubbing in more than a year, but the Nasdaq Composite Index posted a fourth consecutive weekly decline as investors sifted for clues about what comes next in the AI trade.\n\nGains within technology were broadly shared, with the semiconductor index rallying and Nvidia, Advanced Micro Devices and Sandisk rebounding.\n\nThe broad revival underscores investor faith in the AI buildout that has driven US stock indexes to dozens of record closes this year, despite a shakeout that began with a US long-term Treasury yield spike in August and the stock volatility of the past month.\n\n“We still think AI is the dominant theme in this bull market,” said Keith Lerner, chief investment officer at Trust Advisory Services in Atlanta. “We are still giving technology the benefit of the doubt.”\n\nThe S&P 500 climbed 24.70 points, or 0.34 percent to end the session at 7,378.43. The Nasdaq gained 264.42 points, or 1.09 percent, to 24,579.42, while the Dow Jones Industrial Average declined 237.33 points, or 0.46 percent, to 51,285.73.\n\nLerner said he views the selloff this week, which has taken the Nasdaq into correction territory denoting a 10 percent decline from its peak a month ago, as likely offering a longer-term buying opportunity for many investors.\n\n“AI has gone on trial several times in this cycle and come away with an innocent verdict,” said Adam Turnquist, chief cross-asset strategist for LPL Financial in Charlotte, North Carolina. Referring to the US midterm election results that spurred heavy selling in AI stocks, he said, “This week we saw a little bit of a knee-jerk reaction.”\n\nUS nonfarm payrolls increased more than expected in October and the unemployment rate fell to 4.1 percent, suggesting the labour market remained resilient. Traders added to bets that the Federal Reserve could hike rates as soon as next month, with a 78 percent chance of a December move compared with a 70 percent chance seen earlier, according to LSEG.\n\n\"Those are strong numbers,” said Joe Saluzzi, co-head of equity trading at Themis Trading in Chatham, New Jersey. But he asked, “Will the Fed want to raise interest rates in the face of a market which is teetering?\"\n\nTesla and SpaceX were among technology shares bouncing back from Thursday’s plunge. Among other stock movers, software firm Atlassian dropped after reporting first-quarter results. Airbnb climbed after the vacation rental platform raised its full-year 2026 revenue growth forecast.\n\nOil prices were slightly lower, adding to bullish sentiment for riskier assets, and were on track for sharp weekly declines. The S&P 500 energy index was on track for a double-digit weekly percentage drop. (Reuters)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T23:00:48.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876903-20261107.htm"
+    },
     {
       "id": "d3e278384f83e313",
       "title": "Markle's father arrested over child sex abuse images",
@@ -1151,17 +1173,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876469-20261104.htm"
     },
     {
-      "id": "9e542cb7a29c1166",
-      "title": "US stocks end mostly up as markets wait on midterms",
-      "excerpt": "Wall Street stocks finished mostly higher on Tuesday as oil prices continued to pull back, while markets awaited results from…",
-      "fullText": "Wall Street stocks finished mostly higher on Tuesday as oil prices continued to pull back, while markets awaited results from US midterm elections that could reshape US President Donald Trump's final two years in office.\n\nCrude prices, which fell sharply on Monday on revived talk of US-Iran peace prospects, fell modestly hours after Trump insisted that a deal with Tehran \"could happen,\" with traders also citing unconfirmed Middle East media reports saying progress on Iran's nuclear programme and frozen funds had been made.\n\nThe prospect of easing energy costs helped Wall Street steady after several sessions of losses, in particular on the tech-heavy Nasdaq, which enjoyed a positive session after three straight declines.\n\n\"Stocks are recovering from yesterday's bearish afternoon reversal even as the odds of a blue sweep have risen throughout the past few hours,\" said a note from Jose Torres of Interactive Brokers.\n\n\"The fact that equities are advancing in light of the Democrats being likely to win majority control across both chambers of Congress signals that a near-term bottom could be behind us, since an overall flip was the most feared outcome.\"\n\nAmericans voted on Tuesday with Democrats hoping to seize control of Congress and impose the first significant checks on Trump's tumultuous second term in the White House.\n\nThe election amounts to a nationwide judgement on his policies, with the mood turning sharply against Republicans amid anger over soaring living costs and the war against Iran.\n\nEarnings reports from titans including Amazon, Alphabet, Meta and Microsoft have shown they plan to keep pouring hundreds of billions of US dollars into data centres and chips even as investors grow impatient for returns.\n\nMonday saw Apple post forecast-topping sales and profits but it warned that increasing memory chip costs would hit its profit margins in the coming months.\n\nShares in Apple shed 1.9 percent.\n\nBut shares in AI chipmakers Nvidia and AMD both climbed, along with AI data centre operator CoreWeave.\n\nIn Europe most stock indices ended little changed, with London's FTSE falling under the weight of its oil and gas firms like BP and Shell.\n\n\"A sharp decline in crude oil prices – triggered by remarks from US President Donald Trump regarding potential adjustments to overseas financial support – put heavy pressure on index energy heavyweights,\" said Patrick Munnelly at Tickmill.\n\nThe Nasdaq rose 0.8 percent, to 25,372, the S&P 500 rose 0.4 percent, to 7,569, while the Dow fell 0.4 percent, to 51,787. (AFP)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T22:09:12.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876463-20261104.htm"
-    },
-    {
       "id": "e5c7d448dbef211a",
       "title": "Top Uni presidents forum opens",
       "excerpt": "The World Class University Presidents Forum 2026 opened today on the Hong Kong University of Science and Technology campus. The…",
@@ -1402,17 +1413,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876114-20261101.htm"
-    },
-    {
-      "id": "e7f208d778a86d20",
-      "title": "Fernandez to face off against Shnaider in Tokyo final",
-      "excerpt": "Leylah Fernandez hailed her \"mental fortitude\" on Saturday after setting up a Pan Pacific Open title clash against Russia's Diana…",
-      "fullText": "Leylah Fernandez hailed her \"mental fortitude\" on Saturday after setting up a Pan Pacific Open title clash against Russia's Diana Shnaider.\n\nThe World No. 23 from Canada defeated Uzbekistan's Kamilla Rakhimova 7-5, 6-3 in Tokyo to reach a second final in a row.\n\nFernandez won her first title of the season in Singapore in September and followed that up by reaching the decider last week in Ningbo, where she lost to world number one Elena Rybakina.\n\nFernandez will face 13th-ranked Shnaider after she beat Slovakian 18-year-old Mia Pohankova 6-4, 7-6 (9/7) in the other semi-final.\n\nFernandez put her success in this year's Asian swing down to a \"willingness to work\".\n\n\"I'm proud of my mental fortitude,\" said the 24-year-old, the US Open finalist in 2021.\n\n\"These aren't easy matches so I'm happy that I was able to find solutions and stay calm in tough moments.\"\n\nFernandez reached the semi-finals when Rybakina withdrew from their match with a neck injury, a day after securing the year-end world number one ranking.\n\nRybakina is one of several players who pulled out in Tokyo, which comes near the end of the tennis season.\n\nFernandez said she and her team decided to play as many matches as possible after the US Open in September, when she lost in the third round.\n\n\"We all agreed that what I needed the most was matches, to play in these tough matches, uncomfortable moments, and to be strong in those moments,\" she said.\n\n\"We could train all we want but we're not going to be able to replicate those difficult moments in training.\"\n\nShnaider is looking for her first title of the year after battling past former junior Wimbledon champion Pohankova.\n\n\"The work never stops,\" said Shnaider, 22, who beat Alexandra Eala in the quarter-finals.\n\n\"I had good preparation for the Asian swing from a fitness point of view.\n\n\"Yesterday was a very tough match and today I was happy that I managed to push myself again.\" (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T22:02:22.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876063-20261101.htm"
     },
     {
       "id": "f824b6e663078f8a",
