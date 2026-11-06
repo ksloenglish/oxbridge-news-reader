@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T07:45:21.571Z",
-  "checkedAt": "2026-11-06T08:00:30.035Z",
+  "generatedAt": "2026-11-06T08:15:19.176Z",
+  "checkedAt": "2026-11-06T08:15:19.176Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "862fb3a0d0db6204",
+      "title": "Record 400-plus HK firms join Shanghai import expo",
+      "excerpt": "A record high of more than 400 Hong Kong businesses are taking part in the China International Import Expo in…",
+      "fullText": "A record high of more than 400 Hong Kong businesses are taking part in the China International Import Expo in Shanghai hoping to use the event as a launchpad for entry into the mainland market.\n\nAmong the first-time exhibitors is a Hong Kong accounting firm, which has seen a 30-percent surge over the past year in mainland clients seeking to expand overseas.\n\nMan Law, CEO of the firm's greater China division, told RTHK that venturing abroad was no longer just a trend, but a practical necessity for managing risks and driving growth.\n\nThe expo, he said, is an ideal stage to highlight Hong Kong's role as a springboard for international growth, particularly through tax incentives.\n\n\"Suppose you have set up an office and hired staff in Hong Kong,\" Law said.\n\n\"When expanding into Southeast Asia or investing in other foreign markets, you can take advantage of the double taxation avoidance agreements signed between Hong Kong and many countries.\n\n\"At their peak, tax savings could exceed 50 percent.\"\n\nAnother first-time exhibitor is a craft brewery that is working up a thirst at the expo for its award-winning, Hong Kong-made beer.\n\nThe brewery's marketing director said the brand aims to tap the mainland market, confident that its craft beers will be competitive as many mainland consumers have a strong appetite for Hong Kong products.\n\nThe event has also drawn local academic institutions, including the Hong Kong Polytechnic University.\n\nPolyU vice-president Zheng Zijian said the university, which has established 12 research institutes on the mainland over the past three years for incubation programmes, has brought innovation projects such as robots and food technology to the expo.\n\nThe institution, he stressed, has benefited from the mainland's comprehensive domestic industrial chain and robust support from local governments.\n\n“Our practice over the past few years is to take the path of deep integration with the mainland and contribute to integration with the country's talent, science and technology, and education,” Zheng said.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T08:04:39.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876820-20261106.htm"
+    },
     {
       "id": "e0491166fc05e912",
       "title": "Police honour fallen officer Chu at memorial",
@@ -852,17 +863,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876542-20261104.htm"
-    },
-    {
-      "id": "2f585231917bced7",
-      "title": "ICAC charges former HKEX vice president",
-      "excerpt": "A former vice president of the Hong Kong Exchanges and Clearing (HKEX) was charged by the ICAC on Wednesday for…",
-      "fullText": "A former vice president of the Hong Kong Exchanges and Clearing (HKEX) was charged by the ICAC on Wednesday for allegedly obtaining dishonest access to the HKEX’s internal information system.\n\nThe system contained confidential information involving listed companies, according to the anti-graft agency.\n\nGeoffrey Tong, 39, and his mother, Leung Yiu-chun, 68, jointly face one count of obtaining access to computer with a view to dishonest gain for himself or another under the Crimes Ordinance.\n\nThe charge alleges that the two defendants obtained access to the HKEX’s internal information system with a view to dishonest gain between February 2018 and April 2023.\n\nThe ICAC investigation revealed that Tong allegedly accessed confidential information of listed companies unrelated to his duties on multiple occasions.\n\n“Subsequently, the investment account of his mother, Leung, engaged in share transactions of the relevant listed companies, yielding profits exceeding HK$500,000,” the ICAC said in a statement.\n\nThe case was brought to the Eastern Magistrates’ Courts for mention on Wednesday.\n\nThe ICAC said it would not rule out further prosecution as the investigation continues.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T08:21:49.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876537-20261104.htm"
     },
     {
       "id": "b1b184a18a5053e1",
