@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T04:15:16.174Z",
-  "checkedAt": "2026-11-06T06:00:28.034Z",
+  "generatedAt": "2026-11-06T06:15:16.075Z",
+  "checkedAt": "2026-11-06T06:15:16.075Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 17
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 12
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "c8e79eb6e902e512",
+      "title": "Exchange Fund makes HK$18.6bn as tough quarter looms",
+      "excerpt": "The Hong Kong Monetary Authority said on Friday it chalked up an income of HK$18.6 billion from Exchange Fund investments…",
+      "fullText": "The Hong Kong Monetary Authority said on Friday it chalked up an income of HK$18.6 billion from Exchange Fund investments in the third quarter as its chief executive warned of uncertainties in the fourth quarter.\n\nGains from investments in Hong Kong stocks came in at HK$9.1 billion while the return from bond investments only amounted to HK$300 million.\n\nInvestments in other equities contributed HK$1.5 billion while foreign exchange investment brought HK$7.7 billion.\n\nThe authority said total investment income in the first three quarters of this year amounted to HK$171.9 billion.\n\nSpeaking after attending a meeting of the Legislative Council’s financial affairs panel, authority chief executive Eddie Yue said the fund's performance would continue to fluctuate this quarter, describing it as a “difficult quarter with uncertainties”.\n\nThe uncertainties run the gamut from Middle East tensions, financial conditions in major markets, to developments on the artificial intelligence front.\n\n“The US midterm election results have drawn market attention to whether the AI build-out and data-centre construction will slow down, as many states appear to be resistant to it,” Yue pointed out.\n\n“This also contributed to the volatility in the stock market [on Thursday night].”\n\nHowever, Yue emphasised that the Exchange Fund is a long-term venture and that people should look at its long-term returns rather than focus on short-term results.\n\nThe authority, he also stressed, has been maintaining a diversified allocation of assets to make the portfolio more defensive.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T06:06:47.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876795-20261106.htm"
+    },
     {
       "id": "a5eb0b0a95f8ec02",
       "title": "Paraguay president resigns as bank mess sparks crisis",
@@ -882,8 +893,8 @@
       "fullText": "Chief Executive John Lee on Wednesday called for closer financial and innovative ties with the city of Beijing, as he continued his visit to the capital.\n\nSpeaking at a symposium on Beijing-Hong Kong cooperation, Lee said finance had been a key area for collaboration between the two cities over the years.\n\nHe called for promoting two-way financial opening-up to facilitate economic transformation.\n\n“Hong Kong, as an international financial centre, connects mainland markets and global capital,” he said.\n\n“It acts as the most convenient international financing platform for enterprises in Beijing.\n\n“Through cross-border fund management, wealth management and a network connecting global investors, it serves enterprises’ needs for business expansion.”\n\nLee said the two cities would continue to serve two-way financing for enterprises, and jointly expand green and sustainable finance, as well as offshore renminbi business.\n\nHe also expressed hope of deepening innovative cooperation between the SAR and Beijing, as the nation developed new quality productive forces and promoted technological revolution and industrial transformation.\n\nThe innovation sectors in the two cities would promote collaboration in life and health technology, artificial intelligence and robotics, he said.\n\nLee added that Hong Kong would continue to assist mainland enterprises in going global.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-04T03:29:10.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876501-20261104.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
-    },
-    {
-      "id": "940d79532a5b6d51",
-      "title": "Nursing workforce planning outlined",
-      "excerpt": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare…",
-      "fullText": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare professionals. The statement was issued in response to public discussions regarding nursing manpower planning in Hong Kong, adding that such discussions should be grounded objective facts and data to foster consensus.\n\nAlthough the nurse attrition rate within the Hospital Authority has dropped from a peak of 10.9% to 5.4%, approximately 3,200 vacancies remain unfilled with recruitment ongoing. In 2025, around 3,500 of the 4,000 prospective nursing graduates qualified as Registered Nurses (RNs) or Enrolled Nurses (ENs), with about 60% applying for positions within the authority.\n\nThese figures demonstrate that graduates diversify into various sectors, including private healthcare institutions, elderly services and rehabilitation, community nursing, insurance and health management. Notably, approximately 99% of applicants who completed the interview or assessment process for RN posts within the authority received an offer of appointment.\n\nAs of the end of 2025, over 30,000 of Hong Kong’s 75,000 RNs and ENs were employed within the public healthcare system, representing roughly 40% of the total workforce. Given that nursing practice spans hospitals, primary care, community and elderly services, rehabilitation and other health service sectors, the Government noted that manpower supply and demand must be assessed holistically across the entire market.\n\nFurthermore, approximately 99.8% of RNs serving in the authority are locally trained, confirming that local professionals remain the backbone of public healthcare. The Government affirmed it will continue to promote regional healthcare collaboration and professional exchanges while strictly safeguarding employment priority for locally trained professionals.\n\nPlans are also underway to strengthen manpower training for primary healthcare and advance professional systems to enhance service quality and maximise the professional functions of nurses. Addressing broader roles, the Government stressed that the Health & Care Practitioner (HCP) rank is a dedicated welfare-sector role that should not be confused with ENs due to distinct scopes of practice.\n\nAcknowledging broader recruitment pressures, the Health Bureau noted that private hospitals face similar shortages, with one facility reporting 40 vacancies but receiving only 25 applications over the past year. In response to an ageing population, the Government reiterated its commitment to driving cross-sectoral collaboration and manpower planning based on service needs and manpower data to ensure that healthcare and nursing services in Hong Kong can continue to meet the needs of society.\n\nThe Government hopes that all sectors of the community will exchange views on healthcare manpower development and professional training based on facts and data, and work together to foster the sustainable development of the city's healthcare system.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431/images/20260929142417086.jpg",
-      "publishedAt": "2026-09-28T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
     }
   ]
 }
