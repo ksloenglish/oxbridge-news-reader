@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T09:30:27.576Z",
-  "checkedAt": "2026-11-06T09:30:27.576Z",
+  "generatedAt": "2026-11-06T09:45:22.886Z",
+  "checkedAt": "2026-11-06T09:45:22.886Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -120,11 +120,11 @@
       "id": "241d274504cae706",
       "title": "Former Macao lawmaker jailed 12.5 years",
       "excerpt": "Former Macao lawmaker Au Kam-san was jailed for 12-and-a-half years on Friday in the territory's first national security case. That…",
-      "fullText": "Former Macao lawmaker Au Kam-san was jailed for 12-and-a-half years on Friday in the territory's first national security case.\n\nThat came after the court convicted him on one count of subverting state power, two counts of establishing links with organisations, groups or individuals outside the Macao SAR to endanger national security, and one count of breach of secrecy.\n\nThe Court of First Instance said the proceedings carefully assessed all the evidence and found most of the indictment facts proven.\n\nAu did not dispute most of the basic facts and admitted colluding and conspiring with overseas organisations, it said.\n\nThe court said he had long personally helped hostile overseas organisations collect, prepare and openly spread political advocacy aimed at subverting state power, as well as false and clearly distorted images and information.\n\nThat was done, it said, to stir hatred among Macao residents against the Central People's Government and seek to overthrow the fundamental system under China's Constitution.\n\nOn the secrecy charge, Au, a Legislative Assembly member in 2021, leaked secret contents from a closed-door committee meeting to an overseas organisation, risking very serious consequences.\n\nThe Hong Kong and Macao Affairs Office says national security is a red line that must not be crossed.\n\nIn an article, it criticised Au for long colluding with external forces under the banners of so-called \"democracy\" and \"freedom\" to engage in anti-China, destabilising activities in Macao, seriously endangering national security and harming Macao's prosperity and stability.\n\nIt says the judgment forcefully upholds the authority of the rule of law, adding that anyone or any organisation that dares to endanger national security will be severely punished by law.\n\nEdited by Aaron Tam",
+      "fullText": "Former Macao lawmaker Au Kam-san was jailed for 12-and-a-half years on Friday in the territory's first national security case.\n\nThat came after the court convicted him on one count of subverting state power, two counts of establishing links with organisations, groups or individuals outside the Macao SAR to endanger national security, and one count of breach of secrecy.\n\nThe Court of First Instance said the proceedings carefully assessed all the evidence and found most of the indictment facts proven.\n\nAu did not dispute most of the basic facts and admitted colluding and conspiring with overseas organisations, it said.\n\nThe court said he had long personally helped hostile overseas organisations collect, prepare and openly spread political advocacy aimed at subverting state power, as well as false and clearly distorted images and information.\n\nThat was done, it said, to stir hatred among Macao residents against the Central People's Government and seek to overthrow the fundamental system under China's Constitution.\n\nOn the secrecy charge, Au, a Legislative Assembly member in 2021, leaked secret contents from a closed-door committee meeting to an overseas organisation, risking very serious consequences.\n\nThe Hong Kong and Macao Affairs Office says national security is a red line that must not be crossed.\n\nIn an article, it criticised Au for long colluding with external forces under the banners of so-called \"democracy\" and \"freedom\" to engage in anti-China, destabilising activities in Macao, seriously endangering national security and harming Macao's prosperity and stability.\n\nIt says the judgement forcefully upholds the authority of the rule of law, adding that anyone or any organisation that dares to endanger national security will be severely punished by law.\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-11-06T08:53:30.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876831-20261106.htm"
     },
     {
@@ -849,8 +849,8 @@
       "fullText": "Radio Television Hong Kong (RTHK) has signed a Memorandum of Understanding (MoU) with Tianjin Haihe Media Group, in a bid to boost bilateral collaboration in areas such as talent exchange and events.\n\nThe MoU was signed during a four-day trip by Director of Broadcasting Angelina Kwan to the mainland, which ended on Wednesday.\n\nDuring the trip, Kwan, as well as participants of RTHK's national studies programme, called on the Hong Kong and Macao Affairs Office of the State Council, and met Deputy Director Zhang Dongmei.\n\nKwan also visited the National Radio and Television Administration and the Beijing Radio and Television Station to explore opportunities for strengthening exchange and co-operation.\n\nOn Tuesday, Kwan signed an MoU with Tianjin Haihe Media Group President Ma Bo. The two sides agreed to establish a framework for bilateral collaboration spanning programme resources, talent exchanges, co-operation on platform and copyright licensing, as well as on-ground events.\n\nRTHK said the the partnership will facilitate the distribution of its content to the Beijing-Tianjin-Hebei region, while enabling Tianjin Haihe Media Group's productions to reach international audiences through RTHK's platforms.\n\nRTHK has signed MoUs with eight mainland and overseas media organisations so far this year.\n\n\"By building a growing network of broadcaster partnerships and deepening collaboration on an ongoing basis, RTHK is giving concrete expression to its strategic commitment to leveraging Hong Kong's unique role as a connector between the Chinese mainland and the wider world, thereby enhancing Hong Kong's international communication capacity and sharing the stories of the nation and Hong Kong on the global stage,\" a statement read.\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-11-04T13:00:19.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876575-20261104.htm"
     },
     {
@@ -1426,17 +1426,6 @@
       "link": "https://www.news.gov.hk/eng/2026/10/20261030/20261030_155402_002.html"
     },
     {
-      "id": "4d05b7668e878b6e",
-      "title": "Alibaba's Qwen and Apple Intelligence team up",
-      "excerpt": "Chinese tech giant Alibaba Group announced a partnership with Apple on Saturday to integrate its Qwen AI model into Apple…",
-      "fullText": "Chinese tech giant Alibaba Group announced a partnership with Apple on Saturday to integrate its Qwen AI model into Apple Intelligence.\n\nThe Qwen-powered feature will be available for testing in the latest iOS developer beta starting November 4, and roll out to Chinese users with the official iOS 27.3 release in December, according to Alibaba.\n\nThe partnership brings Qwen's AI capabilities to multiple use cases within Apple's operating system. Through Siri, Writing Tools, and Visual Intelligence, Chinese users will be able to tap Qwen's capabilities for text and image understanding and content generation.\n\nNotably, users can choose whether to enable the Qwen integration and what information to share. Alibaba said it will not use user requests or generated responses for model training.\n\nThe feature will be available on iOS to users who purchase an Apple Intelligence-capable iPhone in China, or whose device location and Apple Account country or region are both set to China.\n\nEddie Wu, CEO of Alibaba Group, said Qwen drawing on Alibaba's AI expertise will integrate into Apple's ecosystem and work with Apple to deliver new AI-powered service experiences to Chinese users.\n\nWang Xiaojie, an AI expert at Beijing University of Posts and Telecommunications, said this is the first time a top global consumer hardware maker has used a Chinese large model as the primary system-level AI backbone in the Chinese market, a significant step in the commercial application of domestic large models.\n\nApple Intelligence is the AI system Apple first unveiled at its Worldwide Developers Conference in 2024. In a key regulatory move, China's cyberspace authority completed the filing of seven on-device generative AI services for smartphones in July, including Apple Intelligence. (Xinhua)\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T14:40:03.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876095-20261031.htm"
-    },
-    {
       "id": "2fdcb7758637d051",
       "title": "U.S. to China after demolition report: ‘End interference in Tibetan religious life’",
       "excerpt": "Demolition of monks’ quarters aimed at reducing their population and making assimilation easier, sources tell RFA.",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
+    },
+    {
+      "id": "9ae8a1e02c50d50c",
+      "title": "SED meets state leader in Beijing",
+      "excerpt": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in…",
+      "fullText": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in visiting a state leader and Ministry of Education officials in Beijing.\n\nMs Choi and the delegates were received by Vice-Chairperson of the National People's Congress Standing Committee Tie Ning at the Great Hall of the People this afternoon. They also met and exchanged views with officials from the ministry.\n\nMs Choi remarked that this year marks the 77th anniversary of the founding of the People's Republic of China, the 105th anniversary of the founding of the Communist Party of China, and the opening year of the National 15th Five-Year Plan.\n\nShe said it was highly significant for Hong Kong's education sector to visit Beijing ahead of National Day, on October 1, and to celebrate the motherland's birthday and experience a jubilant festive atmosphere with people in the capital.\n\nMs Choi highlighted that last week the Hong Kong Special Administrative Region Government announced its First Five-Year Plan, which aligns with the National 15th Five-Year Plan. She outlined that the Hong Kong's education sector faces multiple tasks, including digital education, talent cultivation and the integration of industry and education.\n\nShe said: “The delegation enabled teachers to gain insight into the latest education developments of the country and share experiences with Chinese Mainland teachers in areas such as operation models, curricula and teaching arrangements of schools at all levels.\n\n“It not only broadened their horizons but also fostered exchanges between the education sectors of both places, providing important references for the future development of Hong Kong's education and laying a foundation for deeper collaboration.”\n\nMs Choi and the delegation subsequently attended a banquet hosted by the Ministry of Education, where they engaged in in-depth discussions regarding professional connections and mutual learning between the education sectors of the two places.\n\nMs Choi and the delegation members will conclude their visit and return to Hong Kong tomorrow.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014/images/20260923195636768.jpg",
+      "publishedAt": "2026-09-22T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
     }
   ]
 }
