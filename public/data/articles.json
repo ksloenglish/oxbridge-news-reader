@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T09:00:31.409Z",
-  "checkedAt": "2026-11-06T09:00:31.409Z",
+  "generatedAt": "2026-11-06T09:15:18.553Z",
+  "checkedAt": "2026-11-06T09:15:18.553Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "241d274504cae706",
+      "title": "Former Macao lawmaker jailed 12.5 years",
+      "excerpt": "Former Macao lawmaker Au Kam-san was jailed for 12-and-a-half years on Friday in the territory's first national security case. That…",
+      "fullText": "Former Macao lawmaker Au Kam-san was jailed for 12-and-a-half years on Friday in the territory's first national security case.\n\nThat came after the court convicted him on one count of subverting state power, two counts of establishing links with organisations, groups or individuals outside the Macao SAR to endanger national security, and one count of breach of secrecy.\n\nThe Court of First Instance said the proceedings carefully assessed all the evidence and found most of the indictment facts proven.\n\nAu did not dispute most of the basic facts and admitted colluding and conspiring with overseas organisations, it said.\n\nThe court said he had long personally helped hostile overseas organisations collect, prepare and openly spread political advocacy aimed at subverting state power, as well as false and clearly distorted images and information.\n\nThat was done, it said, to stir hatred among Macao residents against the Central People's Government and seek to overthrow the fundamental system under China's Constitution.\n\nOn the secrecy charge, Au, a Legislative Assembly member in 2021, leaked secret contents from a closed-door committee meeting to an overseas organisation, risking very serious consequences.\n\nThe Hong Kong and Macao Affairs Office says national security is a red line that must not be crossed.\n\nIn an article, it criticised Au for long colluding with external forces under the banners of so-called \"democracy\" and \"freedom\" to engage in anti-China, destabilising activities in Macao, seriously endangering national security and harming Macao's prosperity and stability.\n\nIt says the judgment forcefully upholds the authority of the rule of law, adding that anyone or any organisation that dares to endanger national security will be severely punished by law.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T08:53:30.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876831-20261106.htm"
+    },
     {
       "id": "860abc02e1765018",
       "title": "Peruvian scholar hails Lima-Shanghai shipping link",
@@ -830,17 +841,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
-    },
-    {
-      "id": "3c0346d81a617ddf",
-      "title": "Evening News on TV32 - Nov 4",
-      "excerpt": "Top stories for Wednesday, Nov 4, 2026 - Americans reject Donald Trump's Republicans with Democrats taking control of Congress. -…",
-      "fullText": "Top stories for Wednesday, Nov 4, 2026\n\n- Americans reject Donald Trump's Republicans with Democrats taking control of Congress.\n\n- Eric Chan says it's not by chance that Hong Kong has done well in a ranking of Asian universities.\n\n- CE urges closer ties with the city of Beijing.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T12:47:44.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876576-20261104.htm"
     },
     {
       "id": "d96e0da8a27786b8",
