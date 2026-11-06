@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T22:30:22.086Z",
-  "checkedAt": "2026-11-06T00:00:29.378Z",
+  "generatedAt": "2026-11-06T00:15:17.497Z",
+  "checkedAt": "2026-11-06T00:15:17.497Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -126,6 +126,17 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/china/2026/11/05/joshua-wong-hong-kong-sentence/"
+    },
+    {
+      "id": "6cfaccc0821ecc5e",
+      "title": "Overseas university heads eye NM",
+      "excerpt": "The World Class University Presidents Forum was held at the Hong Kong University of Science & Technology on November 4…",
+      "fullText": "The World Class University Presidents Forum was held at the Hong Kong University of Science & Technology on November 4 and 5, drawing presidents and senior management from around 50 world-leading institutions.\n\nThe Hong Kong Special Administrative Region Government is dedicated to transforming the city into an international education hub, a vision that includes developing three university towns within the Northern Metropolis (NM).\n\nThis initiative has garnered significant attention from participating universities, with university presidents from the UK, Spain and South Africa expressing interest in exploring various models of participation.\n\nStuart Croft, University of Warwick Vice Chancellor & President, said the Hong Kong SAR Government is being very strategic, future-oriented and globally oriented.\n\n\"With the whole concept of economic growth being driven with universities, with industry, facilitated by government, the triple helix model, where else in the world is there something of this scale and ambition?\"\n\nProfessor Croft predicted that over the next decade, the world's top universities will transform their partnership model to embedding activities.\n\n\"That is what is going to make the difference, and of course the Northern Metropolis gives a fantastic opportunity for Hong Kong universities to build that embedding process, possibly earlier, possibly more deeply than elsewhere in the world, \" he said.\n\nIn the latest QS Asia University Rankings, Hong Kong has five universities in Asia’s top ten.\n\nMosa Moshabela, Vice Chancellor & Principal of the University of Cape Town in South Africa noted that Hong Kong’s high concentration of top-tier universities, paired with its convenient transport and lifestyle, promotes student and faculty mobility while bolstering the \"Study in Hong Kong\" initiative.\n\n\"I think it can really offer a good place for brain circulation. For my university, for example, it would be of interest for students and faculty to come in, especially for a relatively short stay of six months. A relatively short stay would be really good for exposure, in-depth exposure to what's happening in Hong Kong, especially if it is linked to industry.\"\n\nParticipating presidents also highlighted the flow of talent, which they said tends to gravitate toward places with strong innovation and research ecosystems.\n\nThey expressed hope that the Hong Kong SAR Government would proactively offer incentives to attract and retain talent and support the development of the university town project.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_124445_933/images/20261105182838364.jpg",
+      "publishedAt": "2026-11-05T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_124445_933.html"
     },
     {
       "id": "c1c0d8736a98fcc6",
@@ -1182,17 +1193,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876320-20261103.htm"
-    },
-    {
-      "id": "3156f31eb1c316e8",
-      "title": "One-stop transit service launched",
-      "excerpt": "Hong Kong International Airport (HKIA) today officially launched its \"Linking the Trunk and Branch, Connecting Urban and Remote\" facilitated transit…",
-      "fullText": "Hong Kong International Airport (HKIA) today officially launched its \"Linking the Trunk and Branch, Connecting Urban and Remote\" facilitated transit service. The first phase rolls out a new network connecting Hangzhou and Wuhan with global destinations via Hong Kong.\n\nOnce fully implemented, Mainland passengers transferring between flights operated by different airlines can enjoy a seamless one-stop service. This includes a single ticket, one-time check-in, and through-checked baggage to the final destination, allowing them to travel worldwide effortlessly.\n\nOverseas passengers will also benefit from reciprocal arrangements to travel easily to various Mainland cities via Hong Kong. Secretary for Transport & Logistics Mable Chan attended the launch ceremony alongside Civil Aviation Administration of China (CAAC) Deputy Administrator Han Jun and Deputy Director of the Third Bureau of the Hong Kong & Macao Work Office of the CPC Central Committee and the Hong Kong & Macao Affairs Office of State Council Wang Jinyu.\n\nIn her speech, Ms Chan described the service as a crucial step in implementing Hong Kong's First Five-Year Plan and integrating into national development. She expressed her gratitude to the CAAC for its support, stating that the initiative highlights Hong Kong's unique role as a global aviation hub that bridges strong Mainland backing with international connectivity.\n\nShe added that the \"Linking the Trunk and Branch, Connecting Urban and Remote\" service enables Hong Kong to align with national network development. By linking the Mainland's \"internal circulation\" network with Hong Kong's \"external circulation\" international network, Hong Kong upgrades from a \"super connector\" to a pivotal point in the country's dual circulation strategy.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_142642_559/images/20261103170859944.jpg",
-      "publishedAt": "2026-11-02T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_142642_559.html"
     },
     {
       "id": "d6d6e7bb7f93d89f",
