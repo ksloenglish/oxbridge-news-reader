@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T07:30:22.018Z",
-  "checkedAt": "2026-11-06T07:30:22.018Z",
+  "generatedAt": "2026-11-06T07:45:21.571Z",
+  "checkedAt": "2026-11-06T07:45:21.571Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "e0491166fc05e912",
+      "title": "Police honour fallen officer Chu at memorial",
+      "excerpt": "Police paid tribute to senior police constable Chu Chun-kwok, who died in September, at the Force Remembrance Day ceremony on…",
+      "fullText": "Police paid tribute to senior police constable Chu Chun-kwok, who died in September, at the Force Remembrance Day ceremony on Friday.\n\nChu was paralysed after he was attacked while on duty in 2005 and passed away this year at the age of 52.\n\nThe ceremony was led by police commissioner Joe Chow, who joined police representatives in honouring full-time and auxiliary officers killed in the line of duty.\n\nIn his address, Chow said the fallen officers had given their lives for Hong Kong’s safety and stability.\n\nTheir example, he added, places a responsibility on current officers to carry on the values and work they stood for.\n\nTurning to Chu, Chow said his death, along with the sacrifices of other fallen officers, showed a firm commitment to protecting the public and their property and to moving the force forward.\n\nHe described their dedication as a guide for the force as it seeks to improve and meet future challenges.\n\nChow also said the sacrifices of those who came before had created a strong foundation for both the force and society, and urged officers to remain united and committed to serving the community.\n\nThe ceremony included the sounding of the \"Last Post\" and a two-minute silence.\n\nWreaths were laid by Chow, police commandant Johnny Leung and representatives of police formations and associations before the Books of Remembrance, which list the names of fallen officers.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T07:29:44.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876826-20261106.htm"
+    },
     {
       "id": "ca345a46a3299d72",
       "title": "US judge blocks work from starting on Trump arch",
@@ -852,17 +863,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876537-20261104.htm"
-    },
-    {
-      "id": "329db77d7ca8ad22",
-      "title": "'Reservation effective in cutting Po Pin Chau visits'",
-      "excerpt": "Secretary for Environment and Ecology Tse Chin-wan on Wednesday said the government was reviewing the trial results of the real-name…",
-      "fullText": "Secretary for Environment and Ecology Tse Chin-wan on Wednesday said the government was reviewing the trial results of the real-name reservation system for the Po Pin Chau trail in Sai Kung East Country Park.\n\nSpeaking to lawmakers at the Legislative Council, Tse said authorities were looking at areas for further improvement and whether a fee could be imposed.\n\nTse noted that the reservation system had effectively controlled visitor numbers on peak days compared to the past.\n\nHe said the Po Pin Chau section received an average of 2,000 visitors per day during the Chinese New Year and Labour Day Golden Week holidays – before the reservation system was introduced, while the number was kept to around 950 during the National Day Golden Week with the reservation requirement.\n\nThe highest visitor flow recorded at the Po Pin Chau viewing platform was also cut by more than 30 percent compared to the past, he added.\n\n“Visitors mainly arrived in the morning. As the reservation system effectively kept the number of visitors within 500 per time slot, visitor flow on the trail was dispersed in an orderly manner, and visitors were able to tour in a more comfortable and safe environment without overcrowding,” he said.\n\n“Implementation experience shows that by effectively controlling the visitor numbers and diverting visitor flow, the reservation system not only reduced the wear and tear caused by visitors to the natural environment but also significantly improved the overall visitor experience.”\n\nHe added that the reservation system operated well, with most visitors satisfied with the arrangement.\n\nThe minister also said the government could collaborate with the tourism sector to launch eco-tours to further develop ecotourism products.\n\nHe said part of the 2,000 daily quota of Po Pin Chau trail could be reserved for tour groups.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T05:30:59.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876522-20261104.htm"
     },
     {
       "id": "b1b184a18a5053e1",
