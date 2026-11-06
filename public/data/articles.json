@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T03:00:31.342Z",
-  "checkedAt": "2026-11-06T03:15:17.308Z",
+  "generatedAt": "2026-11-06T03:30:25.481Z",
+  "checkedAt": "2026-11-06T03:30:25.481Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "cb32ee7c7d691dd4",
+      "title": "Second domestically built cruise ship set to sail",
+      "excerpt": "The nation's second domestically-built large cruise ship, Adora Flora City, was delivered in Shanghai on Friday. The cruise ship, which…",
+      "fullText": "The nation's second domestically-built large cruise ship, Adora Flora City, was delivered in Shanghai on Friday.\n\nThe cruise ship, which features distinctive Chinese-style characteristics, is scheduled to launch its inaugural season from the Nansha International Cruise Home Port in Guangzhou.\n\nAdora Flora City was built by Shanghai Waigaoqiao Shipbuilding, a subsidiary of China State Shipbuilding Corporation, with construction beginning in August 2022.\n\nCompared with China's first domestically-built large cruise ship, Adora Magic City, the overall construction efficiency improved by 20 percent, according to project figures.\n\nThe new ship is larger, with more advanced onboard equipment. Its gross tonnage has increased by 6,400 tonnes to 141,900 tonnes, and its total length has increased by 17.4 metres to 341 metres.\n\nIt has 2,130 guest cabins and can accommodate 5,232 passengers at full capacity.\n\nLarge cruise ships are among the most complex giant system engineering projects in the global industrial system, said Chen Gang, on-site chief commander and chief designer of the country's domestically built large cruise ship project.\n\nAdora Flora City has up to 25 million parts and drives the development of about 1,500 upstream and downstream supporting suppliers, reflecting the country's comprehensive industrial strength and advanced manufacturing level, he added.\n\nAfter delivery, Adora Flora City will conduct trial voyages and carry out various preparatory tasks before its scheduled maiden voyage. It is due to arrive at the Nansha International Cruise Home Port on November 12, with its inaugural season set to begin 10 days after that. (Xinhua)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T03:18:12.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876785-20261106.htm"
+    },
+    {
+      "id": "6b245385541255f2",
+      "title": "GBA offers limitless opportunities for laywers: Lam",
+      "excerpt": "Secretary for Justice Paul Lam has called on legal practitioners from the two SARs to obtain Greater Bay Area (GBA)…",
+      "fullText": "Secretary for Justice Paul Lam has called on legal practitioners from the two SARs to obtain Greater Bay Area (GBA) practice qualifications to tap into the area's limitless opportunities.\n\nThe GBA lawyers’ scheme – which allows those qualified to practice in nine mainland cities – was regularised in September after a six-year pilot run.\n\nSpeaking at the Second Guangdong-Hong Kong-Macao Greater Bay Area Lawyers Forum that was held during the Legal Week on Friday, Lam said more than 700 legal practitioners from Hong Kong and Macao have so far obtained the qualification.\n\n“The Greater Bay Area has the characteristic of ‘one country, two systems and three jurisdictions’,\" he said.\n\n\"Greater Bay Area lawyers with dual practice qualifications will serve as pioneers in transforming the legal systems’ differences among three places into institutional advantages.”\n\nLam noted that the GBA is among the areas with the highest degree of openness and strongest economic vitality in the country.\n\nHong Kong, he said, will step up the closer interface of rules and laws on the safeguards of the rule of law in the GBA, as laid out in its inaugural five-year plan.\n\nWith more than 900 participants attending the event at the Convention and Exhibition Centre in Wan Chai in-person or online, the minister urged them to take the chance to understand the latest GBA developments, grasp new opportunities and expand into new fields.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T03:11:43.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876784-20261106.htm"
+    },
     {
       "id": "8598ddf5493f2002",
       "title": "California governor to commute death sentences to life",
@@ -1030,17 +1052,6 @@
       "link": "https://www.news.gov.hk/eng/2026/11/20261104/20261104_122505_002.html"
     },
     {
-      "id": "f78f718bb35f1fa8",
-      "title": "Software update triggers HK parking meter outage",
-      "excerpt": "The Transport Department said a software update triggered a citywide malfunction of Hong Kong’s parking meter system on Tuesday. The…",
-      "fullText": "The Transport Department said a software update triggered a citywide malfunction of Hong Kong’s parking meter system on Tuesday.\n\nThe department said preliminary investigations found that a software update in the morning caused a back-end software fault, which prevented the system from making a normal connection with the parking meters.\n\nIt added that about 11,000 parking meters were affected across the city.\n\nThe department has instructed the operator to conduct a thorough investigation into the cause of the outage and submit a detailed report.\n\nThere is no evidence that the system was attacked at the moment, the department said, adding it has reported the matter to the Digital Policy Office.\n\nThe operator will arrange for full refunds for all meter transactions between 8am and 12.15pm to users, and will strive to complete the approval of the refunds within this week, it added.\n\nThe Transport Department received a report at around 8.20am from the operator that the parking meter system had malfunctioned, with payment functions suspended or meter displays not operating normally.\n\nThe system resumed normal operations at 12.15pm.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T14:11:53.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876437-20261103.htm"
-    },
-    {
       "id": "26a6ba9feaca2180",
       "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
       "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in…",
@@ -1402,17 +1413,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1875991-20261030.htm"
-    },
-    {
-      "id": "61971cdbb0b00a67",
-      "title": "'Huanggang port ready for increased traffic flows'",
-      "excerpt": "The Transport Department has warned that traffic around the Huanggang control point and San Tin Road will be very heavy…",
-      "fullText": "The Transport Department has warned that traffic around the Huanggang control point and San Tin Road will be very heavy on Friday night and over the next two nights, as Halloween celebrations and other events in Hong Kong and Kowloon are expected to end around midnight.\n\nIn a post on its social media page, the department said the Huanggang checkpoint provides dedicated public transport lanes, allowing franchised buses, cross-boundary coaches and green minibuses to travel via San Sham Road directly to the port.\n\nIt said road markings have been strengthened and the dedicated lanes extended to improve effectiveness.\n\nDuring peak traffic periods, four franchised bus routes heading to the Huanggang port via the San Tin Public Transport Interchange will enter the interchange directly from a junction of the San Tin section of Castle Peak Road helping to divert traffic away from the busy San Tin roundabout.\n\nThe department said it has instructed public transport operators to reserve sufficient vehicles and manpower, and to increase service frequency according to passenger flow.\n\nIts Emergency Transport Co-ordination Centre will monitor traffic conditions around the clock and take appropriate measures as needed, it said.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-10-30T08:01:06.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1875954-20261030.htm"
     },
     {
       "id": "2fdcb7758637d051",
