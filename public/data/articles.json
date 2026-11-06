@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T08:45:18.597Z",
-  "checkedAt": "2026-11-06T08:45:18.597Z",
+  "generatedAt": "2026-11-06T09:00:31.409Z",
+  "checkedAt": "2026-11-06T09:00:31.409Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rthk-world",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "860abc02e1765018",
+      "title": "Peruvian scholar hails Lima-Shanghai shipping link",
+      "excerpt": "A Peruvian expert on Asian affairs urged Apec member economies to take a page from China when formulating policies to…",
+      "fullText": "A Peruvian expert on Asian affairs urged Apec member economies to take a page from China when formulating policies to stimulate the economy, pointing to exports and foreign investment as two key drivers.\n\nWorld leaders are expected to gather in Shenzhen in the coming days, as the southern Chinese tech hub gets set to host the Apec Economic Leaders' Meeting.\n\nOn the eve of the summit, Shenzhen Media Group spoke with Carlos Aquino, an expert on China-Latin America ties who has been involved in Apec matters for years.\n\nThe director of the Centre for Asian Studies at Peru's National University of San Marcos also advises his government on Apec proceedings.\n\nIn an interview with Shenzhen TV, he explained how scholars like him contribute to the bloc.\n\n\"Within Apec, there is an Apec Study Centers Consortium. Every year scholars from Apec economies will meet. We give some ideas to officers, and the officers ... apply those policies to the economy,\" he said.\n\nHe said Apec could come in handy for nations looking to grow their economies but unsure about where to start.\n\n\"For example in Peru, we have industries, but we don't know how to sell ... to a market. So within the Apec framework, we can ask for help – economic help, economic cooperation to the whole economies.\n\n\"And we have already asked China, Japan, Korea. They sent an adviser, so they tell us how to produce something, or how to sell to those markets.\"\n\nLast year, Peru's exports reached a record US$90 billion, up 60 percent from 2021.\n\nMore than a third of its exports went to China, its largest trading partner, while the United States ranked second at 11 percent.\n\n\"The engine of growth of Asian economy has been trade and investment. And also in Peru, that is happening. So we are learning from Asia that to grow the economy, you have to export and also [bring in] investment.\"\n\nTies between China and Peru took a big step forward in 2024, when President Xi Jinping visited Lima and inaugurated the Chancay port, north of the capital.\n\nAquino said the port, built and owned by Chinese shipping giant Cosco, has cut shipping costs between the two countries by 20 percent.\n\nOther South American countries also stand to benefit, he believed.\n\n\"Colombia, Ecuador, Chile can bring the goods to Chancay Port and send [them] to China. So it's having a huge change not only for Peru, but also for the whole of Latin America,\" Aquino said.\n\n\"And you know, we are thinking of building a bi-oceanic railway between Chancay and Brazil. Perhaps if that is the case, Brazilian goods also will go cheaper to China.\"\n\nHe said that, as a result of Chancay, Peruvian exports to China jumped by 39 percent in the first seven months of this year.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T08:41:08.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876840-20261106.htm"
+    },
     {
       "id": "862fb3a0d0db6204",
       "title": "Record 400-plus HK firms join Shanghai import expo",
@@ -329,7 +340,7 @@
       "id": "2d26db98c68c8c62",
       "title": "CE meets Shanghai's mayor",
       "excerpt": "Chief Executive John Lee concluded his visit to Shanghai today by meeting Shanghai Mayor Zhu Zhongming. Executive Deputy Director of…",
-      "fullText": "Chief Executive John Lee concluded his visit to Shanghai today by meeting Shanghai Mayor Zhu Zhongming. Executive Deputy Director of the Hong Kong & Macao Work Office of the Communist Party of China Central Committee and the State Council's Hong Kong & Macao Affairs Office Xu Qifang joined the meeting.\n\nMr Lee remarked that Hong Kong and Shanghai have long maintained close co-operation. Since the establishment of the Hong Kong/Shanghai Co-operation Conference mechanism in 2003, he said, the two places have engaged in frequent exchanges and achieved fruitful results in areas including the economy and trade, finance, innovation and technology, education, culture and youth.\n\nHe highlighted that this year more than 400 Hong Kong enterprises took part in the ninth China International Import Expo, the highest number on record.\n\nMr Lee mentioned that the “Hong Kong Parallel Session”, held yesterday at the Hongqiao International Economic Forum, featured an in-depth discussion on Hong Kong's new opportunities during the 15th Five-Year Plan period, and drew Mainland enterprises’ attention to Hong Kong's unique advantage of connecting the Mainland and the world under the “one country, two systems” principle.\n\nThe Chief Executive thanked the Shanghai Municipal Government for its support, wished the expo great success, and expressed hope that the two places will continue to deepen co-operation and contribute to the country's high-quality development.\n\nMr Lee also remarked that Shanghai is the leading city in the Yangtze River Delta Economic City Group, while Hong Kong is one of the central cities in the Greater Bay Area, meaning both are engines driving regional economic prosperity.\n\nThe Hong Kong Special Administrative Region Government, he said, is now implementing Hong Kong's First Five-Year Plan and pressing ahead with the development of “four centres and one hub”, which aligns closely with Shanghai's “five centres” initiative, creating further complementarity between the two cities.\n\nMr Lee added that Hong Kong will continue to play its roles as a “super connector” and a “super value-adder”, further the work of the Task Force on Supporting Mainland Enterprises in Going Global, and provide comprehensive support for more Mainland enterprises, including those from Shanghai, to expand into new markets.\n\nHe also Lee thanked the Shanghai Gold Exchange for supporting Hong Kong’s development as an international gold trading centre.\n\nThe Chief Executive highlighted that the Hong Kong Precious Metals Central Clearing Company and the Shanghai Gold Exchange launched the initial phase of “Delivery Connect” this year, and that Hong Kong’s central clearing and settlement system for gold will be officially launched in the first quarter of next year.\n\nMr Lee concluded departed for Hong Kong in the afternoon.",
+      "fullText": "Chief Executive John Lee concluded his visit to Shanghai today by meeting Shanghai Mayor Zhu Zhongming. Executive Deputy Director of the Hong Kong & Macao Work Office of the Communist Party of China Central Committee and the State Council's Hong Kong & Macao Affairs Office Xu Qifang joined the meeting.\n\nMr Lee remarked that Hong Kong and Shanghai have long maintained close co-operation. Since the establishment of the Hong Kong/Shanghai Co-operation Conference mechanism in 2003, he said, the two places have engaged in frequent exchanges and achieved fruitful results in areas including the economy and trade, finance, innovation and technology, education, culture and youth.\n\nHe highlighted that this year more than 400 Hong Kong enterprises took part in the ninth China International Import Expo, the highest number on record.\n\nMr Lee mentioned that the “Hong Kong Parallel Session”, held yesterday at the Hongqiao International Economic Forum, featured an in-depth discussion on Hong Kong's new opportunities during the 15th Five-Year Plan period, and drew Mainland enterprises’ attention to Hong Kong's unique advantage of connecting the Mainland and the world under the “one country, two systems” principle.\n\nThe Chief Executive thanked the Shanghai Municipal Government for its support, wished the expo great success, and expressed hope that the two places will continue to deepen co-operation and contribute to the country's high-quality development.\n\nMr Lee also remarked that Shanghai is the leading city in the Yangtze River Delta Economic City Group, while Hong Kong is one of the central cities in the Greater Bay Area, meaning both are engines driving regional economic prosperity.\n\nThe Hong Kong Special Administrative Region Government, he said, is now implementing Hong Kong's First Five-Year Plan and pressing ahead with the development of “four centres and one hub”, which aligns closely with Shanghai's “five centres” initiative, creating further complementarity between the two cities.\n\nMr Lee added that Hong Kong will continue to play its roles as a “super connector” and a “super value-adder”, further the work of the Task Force on Supporting Mainland Enterprises in Going Global, and provide comprehensive support for more Mainland enterprises, including those from Shanghai, to expand into new markets.\n\nHe also thanked the Shanghai Gold Exchange for supporting Hong Kong’s development as an international gold trading centre.\n\nThe Chief Executive highlighted that the Hong Kong Precious Metals Central Clearing Company and the Shanghai Gold Exchange launched the initial phase of “Delivery Connect” this year, and that Hong Kong’s central clearing and settlement system for gold will be officially launched in the first quarter of next year.\n\nMr Lee concluded departed for Hong Kong in the afternoon.",
       "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261106/20261106_150138_198/images/20261106154849965.jpg",
       "publishedAt": "2026-11-05T16:00:00.000Z",
       "source": "news.gov.hk — Top Story",
@@ -975,17 +986,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876478-20261104.htm"
     },
     {
-      "id": "a05e04d4aa2bec40",
-      "title": "Bomb threats disrupt Europe flights",
-      "excerpt": "About 10 European flights were targeted by bomb threats on Tuesday, forcing the brief closure of a Warsaw airport and…",
-      "fullText": "About 10 European flights were targeted by bomb threats on Tuesday, forcing the brief closure of a Warsaw airport and the scrambling of air force planes in Rome, authorities said.\n\nNo explosives were found, despite extensive searches on the ground after the planes all took off and landed safely in different European cities just several hours apart.\n\nIrish budget carrier Ryanair appeared to be the worst hit, with four of its flights to different destinations being targeted.\n\nLondon's Metropolitan police confirmed it \"was made aware of threats... against four aircraft due to depart from or arrive at Heathrow Airport\" on Tuesday, one of Europe's busiest air hubs.\n\nIt gave no further details, but also said there was a further warning about a flight at Manchester Airport.\n\nFollowing checks \"no security issues were identified,\" the Met police added.\n\nTwo bomb warnings targeted planes heading to the Polish capital Warsaw, including an SAS Scandinavian Airlines flight from Copenhagen and one from Heathrow operated by Polish airline LOT, Polish airport authorities said.\n\nAena, the Spanish airport operator, confirmed an emergency protocol was activated \"due to a bomb alert\" on a Ryanair flight which landed at 10.30am (0930 GMT) from Manchester at Murcia in south-eastern Spain. The plane arrived without problems.\n\nOther Ryanair flights from Lisbon to Rome, Dublin to Rome, and Dublin to the Bulgarian capital of Sofia also received warnings.\n\nItalian air force jets were scrambled to escort Ryanair flight FR9611 from Dublin as it landed at Rome-Fiumicino at 10.45am (0945 GMT), Rome Airport said in a statement.\n\nAnti-bomb procedures were also put in place when an earlier Ryanair flight arrived at 9.40am (0840 GMT) at the airport. \"Checks on passengers, luggage and the plane were all negative and the alert was lifted,\" the statement added.\n\nA Wizz Air flight from Bergamo, Italy, was inspected after landing at 0910 GMT in the Bulgarian capital Sofia following an alert, a Bulgarian interior ministry spokesperson said.\n\nThe incidents all come after fighter jets were scrambled on Monday when a Wizz Air flight from London's Luton airport to Sofia was diverted following a bomb threat and forced to make an emergency stop in Budapest.\n\nScandinavian Airlines said it could \"confirm that a threat has been made against flight SK751 between Copenhagen and Warsaw\" but the plane landed on Tuesday without any problem.\n\nIt arrived at Warsaw's Chopin airport, which closed one runway as the plane underwent a security inspection, but no explosives were found.\n\nThe LOT flight, which had also been scheduled to arrive at Chopin, was diverted to the Polish capital's other airport, Warsaw Modlin.\n\nAuthorities closed that airport following the alert, but the Boeing 737 Max also landed safely. \"Nothing was found,\" said Modlin airport spokesman Adam Szablowski.\n\nHungarian Defence Minister Romulusz Ruszin-Szendi said on Facebook that on Monday Nato's air defence alert service had issued an alert for a Wizz Air flight from London's Luton.\n\n\"The Hungarian Defence Forces' Gripen fighter jets took to the air within minutes and ensured the safe landing of the passenger aircraft in Budapest,\" he said. (AFP)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T23:55:59.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876455-20261104.htm"
-    },
-    {
       "id": "2c42865fc18679bc",
       "title": "PSG crush Villarreal in Champions League; Barca cruise",
       "excerpt": "Reigning champions Paris Saint-Germain scored four times in the first 17 minutes on their way to a 6-0 demolition of…",
@@ -1182,17 +1182,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876396-20261103.htm"
-    },
-    {
-      "id": "4db1c82176ebe42b",
-      "title": "HK eager to help build 'enterprises of tomorrow'",
-      "excerpt": "Hong Kong is ambitious about helping create the \"enterprises of tomorrow\", Financial Secretary Paul Chan said on Tuesday in amplifying…",
-      "fullText": "Hong Kong is ambitious about helping create the \"enterprises of tomorrow\", Financial Secretary Paul Chan said on Tuesday in amplifying the pivotal role the Northern Metropolis would play in realising this vision.\n\nThat came as he told investors at the Global Financial Leaders' Investment Summit in Central about the dedication that investors can expect of Hong Kong to strengthening its contribution to innovation.\n\n“Our ambition is not only to finance businesses created elsewhere, but also to help create the enterprises of tomorrow,” Chan said.\n\n“The Northern Metropolis is central to this effort.\n\n\"It will bring universities, research facilities and technology enterprises closer together, linking education, technology and talent more closely with industry.”\n\nThe mega development project in the northern New Territories would, Chan said, serve as a base for closer ties with other Greater Bay Area cities, allowing Hong Kong to draw on their strengths in commercialisation, engineering and advanced manufacturing.\n\nHong Kong was eager to pair promising businesses with capital and partners, as well as give investors trusted pathways into unfamiliar sectors and economies, he added.\n\nHong Kong had, Chan pointed out, also taken steps to widen its connections with various economies and broaden asset classes in various regions.\n\n“In Southeast Asia, we are welcoming more enterprises from Indonesia, Thailand and Malaysia to list in Hong Kong,” he said.\n\n“In the Middle East, Hong Kong and Saudi Arabia have listed ETFs, tracking each other's markets, giving investors new routes to invest.”\n\n“In Central Asia, Kazakhstan has already tapped Hong Kong's equity and bond markets. We welcome more issuers to raise capital here through listings and bond issuances.”\n\nChan added that Hong Kong would also continue to expand the range of assets and financial services to give investors more options to diversify.\n\nThis, he said, included a central focus on developing a commodity and gold trading ecosystem.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T08:10:16.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876380-20261103.htm"
     },
     {
       "id": "0b6d746cf0046b6c",
@@ -1435,17 +1424,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876095-20261031.htm"
-    },
-    {
-      "id": "470c10beecba00c9",
-      "title": "Chinese factory activity slips amid strong tech show",
-      "excerpt": "China's manufacturing activity moderated in October, with the purchasing managers' index falling to 49.3 as the high-tech and equipment manufacturing…",
-      "fullText": "China's manufacturing activity moderated in October, with the purchasing managers' index falling to 49.3 as the high-tech and equipment manufacturing sectors maintained expansion, official data showed on Saturday.\n\nThe overall reading was down 0.8 percentage points from September, according to the National Bureau of Statistics.\n\nChief statistician Huo Lihui attributed the retreat to some demand being brought forward ahead of the National Day holiday this month and a complex international environment.\n\nThe production subindex stood at 49.8, down 1.9 points from September, while the new-orders subindex fell 1.1 points to 49.4, as both supply and demand moderated during the month.\n\nThe PMI for high-tech manufacturing stood at 51.3 while that for equipment manufacturing came in at 50.6, both remaining above the 50-point threshold that separates expansion from contraction.\n\nThe figures indicate that emerging industries continued to sustain growth momentum, supported by the ongoing development of new quality productive forces, Huo noted.\n\nManufacturing activity in several advanced industries remained robust.\n\nBoth the production and new-orders subindexes for railway, shipbuilding and aerospace equipment manufacturing, as well as computer, communications and electronic equipment manufacturing, stood at 53 or above, pointing to relatively strong supply and demand in these sectors.\n\nLarge manufacturers continued to report expansion, with their PMI standing at 50.2, despite a slight decline of 0.4 points from the previous month.\n\nThe PMI readings for medium-sized and small enterprises came in at 48.4 and 47.5, respectively.\n\nOn the price front, both major raw material purchasing prices and factory-gate prices remained in expansionary territory, although their growth moderated.\n\nThe purchasing price subindex stood at 56.8, down four points from September while the factory-gate price subindex eased 2.3 points to 51.7, partly reflecting recent declines in the prices of certain nonferrous metals and other commodities. (Xinhua)\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-10-31T08:06:29.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876053-20261031.htm"
     },
     {
       "id": "2fdcb7758637d051",
@@ -1743,6 +1721,28 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
+    },
+    {
+      "id": "940d79532a5b6d51",
+      "title": "Nursing workforce planning outlined",
+      "excerpt": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare…",
+      "fullText": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare professionals. The statement was issued in response to public discussions regarding nursing manpower planning in Hong Kong, adding that such discussions should be grounded objective facts and data to foster consensus.\n\nAlthough the nurse attrition rate within the Hospital Authority has dropped from a peak of 10.9% to 5.4%, approximately 3,200 vacancies remain unfilled with recruitment ongoing. In 2025, around 3,500 of the 4,000 prospective nursing graduates qualified as Registered Nurses (RNs) or Enrolled Nurses (ENs), with about 60% applying for positions within the authority.\n\nThese figures demonstrate that graduates diversify into various sectors, including private healthcare institutions, elderly services and rehabilitation, community nursing, insurance and health management. Notably, approximately 99% of applicants who completed the interview or assessment process for RN posts within the authority received an offer of appointment.\n\nAs of the end of 2025, over 30,000 of Hong Kong’s 75,000 RNs and ENs were employed within the public healthcare system, representing roughly 40% of the total workforce. Given that nursing practice spans hospitals, primary care, community and elderly services, rehabilitation and other health service sectors, the Government noted that manpower supply and demand must be assessed holistically across the entire market.\n\nFurthermore, approximately 99.8% of RNs serving in the authority are locally trained, confirming that local professionals remain the backbone of public healthcare. The Government affirmed it will continue to promote regional healthcare collaboration and professional exchanges while strictly safeguarding employment priority for locally trained professionals.\n\nPlans are also underway to strengthen manpower training for primary healthcare and advance professional systems to enhance service quality and maximise the professional functions of nurses. Addressing broader roles, the Government stressed that the Health & Care Practitioner (HCP) rank is a dedicated welfare-sector role that should not be confused with ENs due to distinct scopes of practice.\n\nAcknowledging broader recruitment pressures, the Health Bureau noted that private hospitals face similar shortages, with one facility reporting 40 vacancies but receiving only 25 applications over the past year. In response to an ageing population, the Government reiterated its commitment to driving cross-sectoral collaboration and manpower planning based on service needs and manpower data to ensure that healthcare and nursing services in Hong Kong can continue to meet the needs of society.\n\nThe Government hopes that all sectors of the community will exchange views on healthcare manpower development and professional training based on facts and data, and work together to foster the sustainable development of the city's healthcare system.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431/images/20260929142417086.jpg",
+      "publishedAt": "2026-09-28T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
+    },
+    {
+      "id": "9ae8a1e02c50d50c",
+      "title": "SED meets state leader in Beijing",
+      "excerpt": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in…",
+      "fullText": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in visiting a state leader and Ministry of Education officials in Beijing.\n\nMs Choi and the delegates were received by Vice-Chairperson of the National People's Congress Standing Committee Tie Ning at the Great Hall of the People this afternoon. They also met and exchanged views with officials from the ministry.\n\nMs Choi remarked that this year marks the 77th anniversary of the founding of the People's Republic of China, the 105th anniversary of the founding of the Communist Party of China, and the opening year of the National 15th Five-Year Plan.\n\nShe said it was highly significant for Hong Kong's education sector to visit Beijing ahead of National Day, on October 1, and to celebrate the motherland's birthday and experience a jubilant festive atmosphere with people in the capital.\n\nMs Choi highlighted that last week the Hong Kong Special Administrative Region Government announced its First Five-Year Plan, which aligns with the National 15th Five-Year Plan. She outlined that the Hong Kong's education sector faces multiple tasks, including digital education, talent cultivation and the integration of industry and education.\n\nShe said: “The delegation enabled teachers to gain insight into the latest education developments of the country and share experiences with Chinese Mainland teachers in areas such as operation models, curricula and teaching arrangements of schools at all levels.\n\n“It not only broadened their horizons but also fostered exchanges between the education sectors of both places, providing important references for the future development of Hong Kong's education and laying a foundation for deeper collaboration.”\n\nMs Choi and the delegation subsequently attended a banquet hosted by the Ministry of Education, where they engaged in in-depth discussions regarding professional connections and mutual learning between the education sectors of the two places.\n\nMs Choi and the delegation members will conclude their visit and return to Hong Kong tomorrow.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014/images/20260923195636768.jpg",
+      "publishedAt": "2026-09-22T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
     }
   ]
 }
