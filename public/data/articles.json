@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T00:15:17.497Z",
-  "checkedAt": "2026-11-06T00:15:17.497Z",
+  "generatedAt": "2026-11-06T00:30:25.832Z",
+  "checkedAt": "2026-11-06T00:30:25.832Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "c9ca56172ba666e6",
+      "title": "A brutal sell-off for AI stocks sends Wall St reeling",
+      "excerpt": "A brutal sell-off swept through Wall Street on Thursday, led by stocks tied to the buildout of AI data centres…",
+      "fullText": "A brutal sell-off swept through Wall Street on Thursday, led by stocks tied to the buildout of AI data centres. The wipeout more than erased the US stock market’s gain from the day before, which was its best in three months.\n\nThe S&P 500 fell 4.4 percent for its worst day since US President Donald Trump shook markets worldwide in April 2025 with his “Liberation Day” tariffs.\n\nThe Dow sank 3.4 percent, while the Nasdaq tumbled 5.5 percent.\n\nThe Nasdaq, which is full of AI-related and other tech stocks, sank 11.9 percent below its all-time high set last month. Stock geeks call a loss of more than 10 percent a “correction.”\n\nStock markets around the world felt pressure from continued drops for companies that had benefited from the boom in the artificial-intelligence technology industry, and South Korea’s Kospi index tumbled 5.3 percent.\n\nSuch stocks have been swinging for months on worries that the construction of further AI data centres may slow because of how expensive it’s become to borrow money. Critics also said AI stock prices had shot too high and were in a bubble.\n\nTuesday’s US midterm elections added another challenge. The nationwide victories for Democrats raised the possibility that governments could force pauses in construction of more data centres.\n\nVoters across political parties say they’re wary about AI and don’t like the increases to power bills caused by data centres.\n\nAny slowdown in construction of AI data centres would mean fewer purchases of AI chips, not to mention electricity and other products and services that are getting vacuumed up in the AI frenzy, which is driving much of the US economy’s growth .\n\nNvidia, the chip company that quickly became the face of the AI boom, fell 9.3 percent and was by far the heaviest weight on the S&P 500.\n\nIt’s now down 2.6 percent for the year so far following annual gains of roughly 39 percent, 171 percent and 239 percent in the last three years.\n\nAdvanced Micro Devices tumbled 17.3 percent. CoreWeave, a company that rents access to AI chips to customers over the cloud, fell 9.8 percent. GE Vernova, which has been helping to power data centers, sank 7.5 percent.\n\nThe Nasdaq fell 5.5 percent, to 24,315, the S&P 500 fell 4.4 percent, to 7,353, while the Dow fell 3.4 percent, to 51,523. (AP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-06T00:16:50.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876748-20261106.htm"
+    },
     {
       "id": "0bcb4ec9d18a2527",
       "title": "Liv Golf league to shut down after five years",
@@ -1160,17 +1171,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
-    },
-    {
-      "id": "b76c22c0429bdb6d",
-      "title": "HK blueprint 'gives investors the certainty they seek'",
-      "excerpt": "Hong Kong can offer certainty, clarity and confidence to global investors at a time when structural forces are rewriting the…",
-      "fullText": "Hong Kong can offer certainty, clarity and confidence to global investors at a time when structural forces are rewriting the rules of global finance, Chief Executive John Lee said on Tuesday.\n\nHe was speaking in Central at the Global Financial Leaders' Investment Summit, which gathered some 280 of the sector's leaders from around the world.\n\nWhile blockchain and tokenisation were rebuilding the world's financial infrastructure, and AI was reshaping productivity, labour markets and competition, Lee noted that Hong Kong’s first five-year blueprint had set out clear developmental directions.\n\n“The plan delivers what markets value most: certainty,” he said.\n\n“In an era of ever-shifting terrain, it lays out a transparent roadmap, showing where Hong Kong is heading and how we intend to get there. I invite you to consider that roadmap yours as well.\n\n“And to be clear, as we rethink the playbook, as we create strategic blueprints for Hong Kong's development, we ensure the value proposition of our city remains intact – that is our competitive edge under the ‘One Country, Two Systems’ principle.”\n\nLee added that he would be attending the Apec Economic Leaders’ Meeting in Shenzhen this month with the goal of advancing regional economic cooperation.\n\nMeanwhile, Vice Premier He Lifeng said Hong Kong’s development had always been in sync with the nation, adding that ensuring the sound development of the SAR had been a key strategic consideration of the central government.\n\nDelivering a speech to summit through video, he urged the SAR to leverage its advantages under \"One Country, Two Systems\".\n\n\"Further demonstrating its international characteristics, Hong Kong will continuously deepen and expand exchanges and cooperation with the world in areas such as the economy, technology, and culture,\" He said.\n\n\"It will provide greater convenience and better opportunities for more international capital, institutions, and talent to come to Hong Kong for entrepreneurship and development.\n\n\"We will, as always, fully support Hong Kong in maintaining its unique status and advantages over the long term, build a higher-level, more competitive free and open economic environment, and create broader space for future development.\"\n\nHe also expressed the central government’s confidence in the SAR’s five-year blueprint to develop Hong Kong.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T04:12:11.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876360-20261103.htm"
     },
     {
       "id": "4880a05b8fac0ab0",
