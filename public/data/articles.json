@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T05:15:19.140Z",
-  "checkedAt": "2026-11-07T06:45:17.523Z",
+  "generatedAt": "2026-11-07T07:00:26.070Z",
+  "checkedAt": "2026-11-07T07:00:26.070Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -203,6 +203,17 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876892-20261107.htm"
+    },
+    {
+      "id": "4ec0491a54bf0aaf",
+      "title": "HK rebutes 10-nation statement",
+      "excerpt": "The Hong Kong Special Administrative Region Government today expressed strong dissatisfaction with and firm opposition to a so-called joint statement…",
+      "fullText": "The Hong Kong Special Administrative Region Government today expressed strong dissatisfaction with and firm opposition to a so-called joint statement issued by ten countries, namely the United States, the United Kingdom, France, Germany, Japan, Italy, Australia, Canada, the Netherlands, and New Zealand in relation to the sentencing in the “conspiracy to commit collusion” case of Wong Chi-fung, which deliberately distorted facts and smeared the Hong Kong SAR.\n\nThe Government pointed out that the statement disregards facts, blatantly interferes with its judicial power and power of independent adjudication exercised in accordance with the law, and maliciously smears the Law of the People’s Republic of China on Safeguarding National Security in the city (the Hong Kong National Security Law (HKNSL)).\n\nIt strongly urges the countries concerned to immediately cease interfering in Hong Kong matters, which are purely China’s internal affairs.\n\nThe Government stated that Hong Kong is a society underpinned by the rule of law and has been consistently fulfilling its constitutional duty to safeguard national security in accordance with the law, upholding the principles that laws must be observed and strictly enforced to bring offenders to account.\n\nWong Chi-fung pleaded guilty to the charge of “conspiracy to commit collusion with foreign countries or with external elements to endanger national security” under the HKNSL. The court, acting in strict accordance with the law and judicial procedures, based on objective facts and sufficient evidence, has delivered a sentence independently and impartially, fully manifesting the spirit of the rule of law in Hong Kong.\n\nThe Government stressed that everyone is equal before the law. Regardless of their political stance, background or status, anyone who breaks the law must be held legally accountable. Attempting to distort criminal judgments handed down in accordance with the law into actions targeting “political expression” or “political participation” is purely political manipulation deliberately intended to confuse the public and distort right and wrong.\n\nIt pointed out that the rights and freedoms enjoyed by Hong Kong residents in accordance with the law are fully protected by the Constitution, the Basic Law, and the HKNSL, among others. However, all rights and freedoms must be exercised within the legal framework and cannot be used as a pretext for engaging in acts that endanger national security.\n\nIt is each and every sovereign state’s inherent right to enact laws safeguarding national security. Not only is this in accordance with international law and international relations based on the Charter of the United Nations, but is also an international practice. Many Western countries, including the UK and the US, maintain extensive and strict national security legal frameworks, and will absolutely not allow their citizens to collude with external forces to endanger their own national security.\n\nThere are numerous cases in the countries concerned where their own citizens as well as foreign nationals have been prosecuted on charges such as “foreign agent” and “foreign interference”, not to mention instances of arbitrary arrest and malicious prosecution. The groundless attacks by the countries concerned on Hong Kong’s rule of law and judicial system, or their attempts to interfere with the city's work in safeguarding national security in accordance with the law through political pressure, only demonstrate their hypocritical double standards, which are utterly ugly and despicable.\n\nThe Government urges the countries concerned to stop making irresponsible and misleading remarks, and to cease interfering in any form in the operation of judicial proceedings of the HKSAR and Hong Kong affairs, which are purely China’s internal affairs. Any attempt to shake the determination of the Hong Kong SAR Government to safeguard national security is bound to be in vain and will never succeed.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261107/20261107_104144_432/images/20261107134333105.jpg",
+      "publishedAt": "2026-11-06T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261107/20261107_104144_432.html"
     },
     {
       "id": "e5def24bd6159fe2",
@@ -992,8 +1003,8 @@
       "fullText": "The Hong Kong Examinations & Assessment Authority (HKEAA) has submitted the 2026 Territory-wide System Assessment (TSA) report to the Education Bureau, the Government announced today.\n\nThe report said that the performance of Primary 3 and Secondary 3 students in the three major subjects ­– Chinese Language, English Language and Mathematics – remained generally steady this year, aligning closely with results from previous assessments.\n\nThe Education Bureau welcomed the findings, noting that schools broadly agree that the TSA report provides practical data and analysis regarding student performance. Combined with internal assessment results, this information enables schools to tailor their curriculum plans and instructional strategies to enhance learning effectiveness, fully reflecting the \"Assessment for Learning\" ethos.\n\nExpressing its gratitude to the school sector, the bureau commended educators for continuously adopting diversified teaching strategies to cater to the varied needs of students and raise instructional effectiveness.\n\nThe HKEAA will soon distribute school-level data directly to primary and secondary schools for feedback on learning and teaching. Meanwhile, the bureau will host thematic seminars on \"Promoting Assessment for Learning\" next month to support schools in making effective use of assessment data to enhance outcomes.",
       "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_120342_663/images/20261105124150748.jpg",
       "publishedAt": "2026-11-04T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_120342_663.html"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
-    },
-    {
-      "id": "9ae8a1e02c50d50c",
-      "title": "SED meets state leader in Beijing",
-      "excerpt": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in…",
-      "fullText": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in visiting a state leader and Ministry of Education officials in Beijing.\n\nMs Choi and the delegates were received by Vice-Chairperson of the National People's Congress Standing Committee Tie Ning at the Great Hall of the People this afternoon. They also met and exchanged views with officials from the ministry.\n\nMs Choi remarked that this year marks the 77th anniversary of the founding of the People's Republic of China, the 105th anniversary of the founding of the Communist Party of China, and the opening year of the National 15th Five-Year Plan.\n\nShe said it was highly significant for Hong Kong's education sector to visit Beijing ahead of National Day, on October 1, and to celebrate the motherland's birthday and experience a jubilant festive atmosphere with people in the capital.\n\nMs Choi highlighted that last week the Hong Kong Special Administrative Region Government announced its First Five-Year Plan, which aligns with the National 15th Five-Year Plan. She outlined that the Hong Kong's education sector faces multiple tasks, including digital education, talent cultivation and the integration of industry and education.\n\nShe said: “The delegation enabled teachers to gain insight into the latest education developments of the country and share experiences with Chinese Mainland teachers in areas such as operation models, curricula and teaching arrangements of schools at all levels.\n\n“It not only broadened their horizons but also fostered exchanges between the education sectors of both places, providing important references for the future development of Hong Kong's education and laying a foundation for deeper collaboration.”\n\nMs Choi and the delegation subsequently attended a banquet hosted by the Ministry of Education, where they engaged in in-depth discussions regarding professional connections and mutual learning between the education sectors of the two places.\n\nMs Choi and the delegation members will conclude their visit and return to Hong Kong tomorrow.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014/images/20260923195636768.jpg",
-      "publishedAt": "2026-09-22T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
     }
   ]
 }
