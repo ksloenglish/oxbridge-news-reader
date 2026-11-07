@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T09:57:37.287Z",
-  "checkedAt": "2026-11-07T10:00:25.615Z",
+  "generatedAt": "2026-11-07T10:15:16.225Z",
+  "checkedAt": "2026-11-07T10:15:16.225Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -95,6 +95,17 @@
   ],
   "articles": [
     {
+      "id": "914a322eaab2f234",
+      "title": "Three arrested over HK$4m craft beer scam",
+      "excerpt": "Two men and a woman have been arrested on suspicion of conspiracy to defraud in connection with an alleged scheme…",
+      "fullText": "Two men and a woman have been arrested on suspicion of conspiracy to defraud in connection with an alleged scheme that induced people to invest in craft beer machines.\n\nThe suspects, aged between 46 and 54, were said to have held the roles of company director, office person-in-charge and investor recruiter, police said.\n\nAn investigation found that the alleged criminal syndicate began operating last November by luring people into investing in craft beer machines on the promise of high returns.\n\nThe syndicate are alleged to have claimed that the machines would be rented out on the mainland and that the annual return rate would reach 60 percent, according to police.\n\nOfficers said the syndicate held investment seminars and took prospective investors to its office to sample beer. It would initially pay returns to investors but later stopped.\n\nPolice said the syndicate had no operations in Hong Kong and that some of the invested funds were found to have been transferred to personal accounts.\n\nSo far, police have contacted six victims whose losses amounted to more than HK$4 million.\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-07T10:06:50.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876951-20261107.htm"
+    },
+    {
       "id": "102675d5b52a0de5",
       "title": "Govt rebuts ten-nation statement on Wong case",
       "excerpt": "The government on Saturday expressed strong dissatisfaction with and firm opposition to a joint statement by ten countries on the…",
@@ -120,7 +131,7 @@
       "id": "4c4038861eab3d48",
       "title": "Lawmakers call for cancel culture to hit bid-riggers",
       "excerpt": "Lawmakers on Saturday voiced hope that a newly established joint task force can change the culture of the building maintenance…",
-      "fullText": "Lawmakers on Saturday voiced hope that a newly established joint task force can change the culture of the building maintenance and renovation industry by actively weeding out bad apples.\n\nThey were speaking following an announcement on Friday that 28 people had been arrested in an operation against a suspected triad-linked bid-rigging syndicate in the sector.\n\nIt was the first operation by a joint task force – made up of police, the ICAC and the Competition Commission – that was set up following the release of the report by an independent committee probing last November's deadly fire at Wang Fuk Court in Tai Po.\n\nSpeaking on RTHK, DAB lawmaker Chan Hok-fung said the new joint task force should not be targeting bid-rigging on a case-by-case basis.\n\n“I think it’s only at the source that the problem can truly be solved,” he said.\n\n“If the government doesn’t get involved, doesn’t intervene heavily and doesn’t reverse this distorted way the market operates, the problem can’t be solved.\"\n\nLam Chun-sing, who chairs the Federation of Hong Kong and Kowloon Labour Unions, called for firms convicted of bribery or competition offences to be struck off contractors' lists.\n\n“What some contractors fear most isn’t a fine – it’s not being allowed to take on work in the future,” he said.\n\nEdited by Azam Khan",
+      "fullText": "Lawmakers on Saturday voiced hope that a newly established joint task force can change the culture of the building maintenance and renovation industry by actively weeding out bad apples.\n\nThey were speaking following an announcement on Friday that 28 people had been arrested in an operation against a suspected triad-linked bid-rigging syndicate in the sector.\n\nIt was the first operation by a joint task force – made up of police, the ICAC and the Competition Commission – that was set up following the release of the report by an independent committee probing last November's deadly fire at Wang Fuk Court in Tai Po.\n\nSpeaking on a radio programme, DAB lawmaker Chan Hok-fung said the new joint task force should not be targeting bid-rigging on a case-by-case basis.\n\n“I think it’s only at the source that the problem can truly be solved,” he said.\n\n“If the government doesn’t get involved, doesn’t intervene heavily and doesn’t reverse this distorted way the market operates, the problem can’t be solved.\"\n\nLam Chun-sing, who chairs the Federation of Hong Kong and Kowloon Labour Unions, called for firms convicted of bribery or competition offences to be struck off contractors' lists.\n\n“What some contractors fear most isn’t a fine – it’s not being allowed to take on work in the future,” he said.\n\nEdited by Azam Khan",
       "imageUrl": null,
       "publishedAt": "2026-11-07T08:23:30.000Z",
       "source": "RTHK English — Local",
@@ -753,17 +764,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
-    },
-    {
-      "id": "a1beb62f05c8629b",
-      "title": "Evening News on TV32 - Nov 5",
-      "excerpt": "Top stories for Thursday, Nov 5, 2026 - Chief Executive John Lee calls Joshua Wong a primary culprit in undermining…",
-      "fullText": "Top stories for Thursday, Nov 5, 2026\n\n- Chief Executive John Lee calls Joshua Wong a primary culprit in undermining Hong Kong's prosperity and stability, as the former activist gets a 10-year jail term for violating the National Security Law.\n\n- The China International Import Expo opens in Shanghai.\n\n- Americans react to the Republicans' crushing defeat in the midterms.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T12:40:02.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876709-20261105.htm"
     },
     {
       "id": "7addc014294997c2",
