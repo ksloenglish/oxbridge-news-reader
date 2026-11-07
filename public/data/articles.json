@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T10:38:09.834Z",
-  "checkedAt": "2026-11-07T11:30:20.597Z",
+  "generatedAt": "2026-11-07T11:45:16.997Z",
+  "checkedAt": "2026-11-07T11:45:16.997Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 19
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "f09708081952dd4c",
+      "title": "Health gear firms set to be not left to own devices",
+      "excerpt": "The Health Bureau said it is striving to introduce a medical devices bill next year to replace the current voluntary…",
+      "fullText": "The Health Bureau said it is striving to introduce a medical devices bill next year to replace the current voluntary administrative regulatory regime.\n\nIn a paper submitted to the Legislative Council, it said a dual-track regulatory model covering both pre-market and post-market risk management would be adopted for medical devices.\n\nThis includes the implementation of a registration system and a licensing system for traders to ensure that medical devices supplied in Hong Kong meet safety and quality standards.\n\nThe paper states that the proposed registration system would primarily involve classifying different types of medical devices by risk levels.\n\nSome general devices and in-vitro diagnostic medical devices must be registered with the Department of Health before they can be launched on the Hong Kong market.\n\nThese include hypodermic needles, vision-correction contact lenses, urine test strips and self-test blood glucose reagents.\n\nLocal manufacturers, importers and wholesalers of medical devices must obtain the relevant licences before supplying the products in Hong Kong.\n\nThe new mechanism will also require traders to report medical device-related incidents, such as incidents that pose a public health threat or may lead to death or a serious deterioration in health, and to take remedial measures that meet the department’s requirements.\n\nThe authorities stressed that the aim is to enhance regulatory oversight and mitigate the consequences of such incidents.\n\nThe legislative proposals will be discussed in a health services panel meeting on Friday.\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-07T11:07:53.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876945-20261107.htm"
+    },
     {
       "id": "519d7209b4fad660",
       "title": "France's Gehri, Russia's Isakova win HK triathlon leg",
@@ -541,8 +552,8 @@
       "fullText": "Secretary for Justice Paul Lam has called on legal practitioners from the two SARs to obtain Greater Bay Area (GBA) practice qualifications to tap into the area's limitless opportunities.\n\nThe GBA lawyers’ scheme – which allows those qualified to practise in nine mainland cities – was regularised in September after a six-year pilot run.\n\nSpeaking at the Second Guangdong-Hong Kong-Macao Greater Bay Area Lawyers Forum that was held during the Legal Week on Friday, Lam said more than 700 legal practitioners from Hong Kong and Macao have so far obtained the qualification.\n\n“The Greater Bay Area has the characteristic of ‘one country, two systems and three jurisdictions’,\" he said.\n\n\"Greater Bay Area lawyers with dual practice qualifications will serve as pioneers.\"\n\nLam noted that the GBA is among the areas with the highest degree of openness and strongest economic vitality in the country.\n\nHong Kong, he said, will step up the closer interface of rules and laws on the safeguards of the rule of law in the GBA, as laid out in its inaugural five-year plan.\n\nWith more than 900 participants attending the event at the Convention and Exhibition Centre in Wan Chai in-person or online, the minister urged them to take the chance to understand the latest GBA developments, grasp new opportunities and expand into new fields.\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-11-06T03:11:43.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876784-20261106.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
-    },
-    {
-      "id": "940d79532a5b6d51",
-      "title": "Nursing workforce planning outlined",
-      "excerpt": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare…",
-      "fullText": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare professionals. The statement was issued in response to public discussions regarding nursing manpower planning in Hong Kong, adding that such discussions should be grounded objective facts and data to foster consensus.\n\nAlthough the nurse attrition rate within the Hospital Authority has dropped from a peak of 10.9% to 5.4%, approximately 3,200 vacancies remain unfilled with recruitment ongoing. In 2025, around 3,500 of the 4,000 prospective nursing graduates qualified as Registered Nurses (RNs) or Enrolled Nurses (ENs), with about 60% applying for positions within the authority.\n\nThese figures demonstrate that graduates diversify into various sectors, including private healthcare institutions, elderly services and rehabilitation, community nursing, insurance and health management. Notably, approximately 99% of applicants who completed the interview or assessment process for RN posts within the authority received an offer of appointment.\n\nAs of the end of 2025, over 30,000 of Hong Kong’s 75,000 RNs and ENs were employed within the public healthcare system, representing roughly 40% of the total workforce. Given that nursing practice spans hospitals, primary care, community and elderly services, rehabilitation and other health service sectors, the Government noted that manpower supply and demand must be assessed holistically across the entire market.\n\nFurthermore, approximately 99.8% of RNs serving in the authority are locally trained, confirming that local professionals remain the backbone of public healthcare. The Government affirmed it will continue to promote regional healthcare collaboration and professional exchanges while strictly safeguarding employment priority for locally trained professionals.\n\nPlans are also underway to strengthen manpower training for primary healthcare and advance professional systems to enhance service quality and maximise the professional functions of nurses. Addressing broader roles, the Government stressed that the Health & Care Practitioner (HCP) rank is a dedicated welfare-sector role that should not be confused with ENs due to distinct scopes of practice.\n\nAcknowledging broader recruitment pressures, the Health Bureau noted that private hospitals face similar shortages, with one facility reporting 40 vacancies but receiving only 25 applications over the past year. In response to an ageing population, the Government reiterated its commitment to driving cross-sectoral collaboration and manpower planning based on service needs and manpower data to ensure that healthcare and nursing services in Hong Kong can continue to meet the needs of society.\n\nThe Government hopes that all sectors of the community will exchange views on healthcare manpower development and professional training based on facts and data, and work together to foster the sustainable development of the city's healthcare system.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431/images/20260929142417086.jpg",
-      "publishedAt": "2026-09-28T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
     }
   ]
 }
