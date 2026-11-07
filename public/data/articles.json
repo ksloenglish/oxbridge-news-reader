@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T02:56:33.633Z",
-  "checkedAt": "2026-11-07T04:30:20.330Z",
+  "generatedAt": "2026-11-07T04:45:17.722Z",
+  "checkedAt": "2026-11-07T04:45:17.722Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "c38163a592cc47d9",
+      "title": "Pakistani to be first foreign astronaut on Tiangong",
+      "excerpt": "A Pakistani astronaut will join the Shenzhou-24 crewed flight mission as a payload specialist, the China Manned Space Agency said…",
+      "fullText": "A Pakistani astronaut will join the Shenzhou-24 crewed flight mission as a payload specialist, the China Manned Space Agency said on Saturday.\n\nAfter completing a short on-orbit flight, the Pakistani astronaut will return to Earth aboard the Shenzhou-23 spacecraft.\n\nThe mission will mark the first joint flight involving Chinese and foreign astronauts in the history of China's manned space programme.\n\nThe Shenzhou-23 spacecraft carried the Hong Kong SAR's first astronaut, Lai Ka-ying, as part of a three-strong crew to the Tiangong space station in May. (With contributions from Xinhua)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-07T04:02:00.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876920-20261107.htm"
+    },
     {
       "id": "05e1d7a3b436ff62",
       "title": "North Korean orphans fast tracked into state care to stem declining birth rate",
@@ -1083,17 +1094,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876550-20261104.htm"
-    },
-    {
-      "id": "31183ca7b0420ffe",
-      "title": "Singapore to tighten law in fight against haze",
-      "excerpt": "Singapore's parliament moved on Wednesday to toughen its anti-haze law with arrest powers, bigger fines and potential restrictions on companies…",
-      "fullText": "Singapore's parliament moved on Wednesday to toughen its anti-haze law with arrest powers, bigger fines and potential restrictions on companies linked to transboundary air pollution from wildfires.\n\nThe proposed changes, which are expected to pass easily, come after weeks of air pollution from fires in neighbouring Indonesia angered Singaporeans and sparked calls for action.\n\n\"We need better ways to obtain and verify information, trace complex corporate relationships and impose meaningful consequences on errant entities,\" Minister for Sustainability and the Environment Grace Fu said.\n\n\"We also need to be able to intervene earlier before haze pollution reaches Singapore. We therefore have to strengthen our laws, and we must act quickly.\"\n\nSingapore enacted a Transboundary Haze Pollution Act in 2014, but enforcement has been stymied by jurisdictional barriers and challenges obtaining evidence from overseas.\n\nThe government came under pressure to toughen up existing measures after thick haze from fires burning in Indonesia's Sumatra and Borneo drifted across the region.\n\nThe proposed changes would make offences under the law arrestable, and allow courts to try defendants in their absence if they are overseas or unreachable.\n\nFines would increase tenfold to nearly US$800,000 a day for companies deemed non-compliant, with the ceiling on fines rising to over US$15.6 million.\n\nThe government would also have powers to force companies to appoint independent assessors at their expense to investigate fires, business operations and corporate relationships.\n\nAssessors would be approved by the government and submit findings to officials for potential further action.\n\nAppointing an assessor would not imply wrongdoing, but be a way to determine possible links to fires.\n\nThe changes would also allow authorities to impose restrictions on designated companies, including limiting financial services.\n\nCompanies blaming third parties for fires affecting their land would also have to demonstrate they took reasonable steps to prevent and fight the blazes.\n\nThe changes are certified as urgent, allowing them to be debated and voted on quickly, and they are expected to easily pass by the legislature dominated by the ruling People's Action Party.\n\nUnder existing legislation, Singapore has already issued warnings to 10 companies telling them to deploy firefighters, stop burning and submit action plans.\n\nFires in Indonesia burned through over 1.9 million hectares between January and the end of September, most of it in recent months, according to the Nusantara Atlas monitor.\n\nThe fires have been driven in part by drought linked to a strong El Niño phenomenon, but are also caused by longstanding deforestation and drying of peatland, experts say. (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T08:50:29.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876547-20261104.htm"
     },
     {
       "id": "8eae40ac30188951",
