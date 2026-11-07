@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T15:15:18.535Z",
-  "checkedAt": "2026-11-07T22:00:26.789Z",
+  "generatedAt": "2026-11-07T22:15:16.609Z",
+  "checkedAt": "2026-11-07T22:15:16.609Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "eacef0ec326fed15",
+      "title": "Delhi ranked most polluted city as Diwali begins",
+      "excerpt": "Delhi was the world's most polluted major city on Saturday morning, according to Swiss group IQAir's live ranking, as the…",
+      "fullText": "Delhi was the world's most polluted major city on Saturday morning, according to Swiss group IQAir's live ranking, as the Indian capital faced severe pollution forecasts a day before Diwali, the Hindu festival of lights.\n\nIndia has ordered schools in and around Delhi to offer online classes as well as encouraged people to work from home on Sunday ahead of Diwali, which is usually marked by the widespread use of firecrackers that further worsen the air quality.\n\nIQAir ranked Delhi first among the world's major cities at 10.35am, with a US air quality index reading of 581, double that of Lahore in neighbouring Pakistan, at 285.\n\nIQAir's reading, based on concentrations of air pollutants, is not directly comparable to India's official index, which uses a different scale and methodology.\n\nIndia's Central Pollution Control Board put Delhi's air quality index at 363 at 10am, in the \"very poor\" category.\n\nFriday's air quality in Delhi was the worst pre-Diwali air in eight years, local media said, citing official data.\n\nPollution is an annual problem in many parts of northern India from the onset of winter as ⁠cold, heavy air traps vehicle emissions, construction dust and smoke from crop-waste burning. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-07T22:03:15.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876940-20261108.htm"
+    },
     {
       "id": "c43fe3b4f36eb290",
       "title": "Mainland icebreakers set off for Antarctica",
@@ -962,17 +973,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876605-20261105.htm"
-    },
-    {
-      "id": "8f917a831444fcac",
-      "title": "Trump tries to brush off midterms rout and Vance split",
-      "excerpt": "US President Donald Trump on Wednesday attempted to brush off a stunning rebuke from voters in the US midterm elections…",
-      "fullText": "US President Donald Trump on Wednesday attempted to brush off a stunning rebuke from voters in the US midterm elections, delivering his first public remarks since the Democrats swept Congress in a bizarre appearance at his new White House ballroom.\n\nRepublican Trump faces a radically transformed and hostile political landscape after the Democrats seized both the House of Representatives and the Senate – and his own vice president JD Vance made a very public split from him over the Iran war.\n\nVance said the \"reason we lost is the war,\" distancing himself from the unpopular conflict ahead of a possible 2028 White House run and giving one of the first signs of what could turn into a major round of Republican infighting.\n\nThe midterms result was a personal humiliation for the 80-year-old Trump as a Democratic wave swept through the Republican heartland, leaving him as a lame duck president for the remaining two years of his term.\n\nThe Democratic flipping of Congress signals an end to Trump's stranglehold on US politics and gives Democrats the power to block legislation, probe his administration and thwart his appointments.\n\nBut in his first public appearance, Trump signalled that his priorities lay elsewhere. He took journalists to the site of the US$400 million ballroom and talked about marble and Corinthian columns without even mentioning the midterms for several minutes.\n\nTrump eventually took questions from reporters and conceded that what Vance had said about the Iran war was \"largely true because it drove the gasoline up\" – a key issue for voters angered by the rising cost of living.\n\n\"But at the same time, if I had it to do again, I'd have to do it again. Because long term, it's the only answer. You can't let Iran have a nuclear weapon,\" he added.\n\nTrump added that he would \"get along\" with Democrats, repeating the conciliatory tone he took as the results emerged on Tuesday night, but repeated his threat to veto legislation that he didn't like.\n\nAnd he warned that if his foes tried to impeach him for a third time it would \"destroy\" the Democratic Party.\n\nDemocrats flipped seven Senate seats that had been held by Republicans, scoring historic breakthroughs in South Carolina, North Carolina, Iowa, Kansas, Ohio, Texas and Maine – several of which had not changed hands for decades.\n\nTop Senate Democrat Chuck Schumer said on Wednesday that the Iran war \"must end\" and suggested his party's incoming majority in Congress could use their control over government funding to press for that goal.\n\nHakeem Jeffries, set to become the next speaker of a Democratic controlled House, hailed an \"American tsunami\" and predicted Democrats could end up with as many as 255 seats in the 435-member chamber when all the votes are counted.\n\n\"We're humbled by the outcome,\" Jeffries said, vowing to \"fight hard for every single American, wherever you may reside.\"\n\nTwo Senate races – in heavily Republican Mississippi and Alaska – remained too close to call on Wednesday.\n\nIn Texas, James Talarico, one of several young, charismatic politicians put up by the Democrats, won a Senate seat. Democrats also won the state governor's race, ending decades of Republican rule.\n\nIn Maine, former logger Troy Jackson defeated long-time Republican Senator Susan Collins.\n\nIn Kansas, Methodist minister Adam Hamilton became the first Democrat elected to the Senate from the reliably conservative state since 1932.\n\nIn Iowa, Josh Turek won an open seat, beating Republican Ashley Hinson. Iowa had not elected a Democratic senator since 2008.\n\nDemocrats protected key Senate seats of their own, including rising star Jon Ossoff in Georgia and an open seat in New Hampshire.\n\nIn Michigan, Abdul El-Sayed, who Trump derided as a \"jihadist,\" became the first Muslim elected to the upper chamber of Congress.\n\nDemocrats also won Georgia's governorship, electing former Atlanta mayor Keisha Lance Bottoms as the first black woman governor in US history.\n\nRepublican candidates survived in Florida, where Trump-backed Byron Donalds became the state's first black governor and Ashley Moody retained a Senate seat.\n\nBut the night was \"a big wipeout and a strong repudiation of Donald Trump and his policies,\" said George Washington University professor Todd Belt. (AFP)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T20:17:50.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876602-20261105.htm"
     },
     {
       "id": "4c156bd25dffe910",
