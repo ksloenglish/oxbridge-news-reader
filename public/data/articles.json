@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T23:15:18.207Z",
-  "checkedAt": "2026-11-07T01:15:15.993Z",
+  "generatedAt": "2026-11-07T01:30:22.235Z",
+  "checkedAt": "2026-11-07T01:30:22.235Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 15
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 14
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "9e1572740ab5154a",
+      "title": "Firefighters tackle blaze at paper offering warehouse",
+      "excerpt": "A Yuen Long warehouse storing paper funeral offerings caught fire on Friday night. The blaze in Pak Sha Tsuen began…",
+      "fullText": "A Yuen Long warehouse storing paper funeral offerings caught fire on Friday night.\n\nThe blaze in Pak Sha Tsuen began just before 11 pm.\n\nAbout half an hour later, the Fire Services Department upgraded it to a No. 3 Alarm, the third highest on a scale of five.\n\nFirefighters deployed three jets and three breathing apparatus teams.\n\nThey managed to put out the blaze before 3 am.\n\nPolice say 12 people were evacuated. No one was hurt.\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-07T01:15:38.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876912-20261107.htm"
+    },
     {
       "id": "fffc32007a57b015",
       "title": "Ferrari boss lays down law to Hamilton, Leclerc",
@@ -750,8 +761,8 @@
       "fullText": "Financial Secretary Paul Chan on Thursday said Hong Kong’s wealth management sector is growing strongly and is well positioned to capture a fair share of business emanating from shifting global affluence.\n\nIn a keynote speech at the Wealth Management Summit, he pointed to a survey in July by the Securities and Futures Commission that showed assets under management jumped 20 percent to more than HK$42 trillion.\n\nThe city, Chan said, is now the largest cross-boundary wealth management centre in the world.\n\nA survey by summit organiser Private Wealth Management Association offered a similarly encouraging picture, as it found 77 percent of member firms reported stronger demand to open accounts or book client assets in Hong Kong and that 94 percent were moderately or highly optimistic about the city's prospects over the next five years.\n\nChan said sentiment at this week’s Global Financial Leaders’ Investment Summit, which drew some 280 international leaders from the sector, including around 120 chairmen or chief executives, was \"decidedly positive\", with some planning to increase investment and headcount in the city.\n\nInternational capital was showing fresh confidence in Hong Kong, he said, with it being reinforced by policy measures to boost private wealth management.\n\n\"Our tax concession for family-owned investment vehicles is now well established and Hong Kong is home to over 3,300 single-family offices, up 25 percent in just two years,\" he said at the summit.\n\n\"The New Capital Investment Entrant Scheme has received some 4,300 applications, representing an expected investment of HK$150 billion, and we have introduced legislation to further enhance the preferential tax regimes for funds, single-family offices and carry interest, which we aim to pass by the end of this year.\"\n\nChan said higher rates and uncertainty were redrawing the map for capital flows, with cash earning a return again and investors diversifying across markets and currencies.\n\nHong Kong is a clear beneficiary, he said, noting that deposits rose 7.7 percent to HK$20.9 trillion in the first nine months of this year.\n\nInitial public offerings raised, Chan pointed out, a record HK$388 billion and capital is arriving from the United States and Europe, as well as the mainland, Southeast Asia, Central Asia and the Middle East.\n\nHe also pointed to technology and AI as a growing source of wealth: tech is now the largest source of wealth among the world's richest tycoons, and mainland billionaire fortunes rose over 20 percent to US$1.8 trillion last year.\n\nHong Kong is capturing it at source – 116 A- and H-share listings in the first three quarters accounted for about 70 percent of funds raised, over half of which were in AI, semiconductors and robotics, with some 500 applications in the pipeline.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-05T03:59:55.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876635-20261105.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
-    },
-    {
-      "id": "9ae8a1e02c50d50c",
-      "title": "SED meets state leader in Beijing",
-      "excerpt": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in…",
-      "fullText": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in visiting a state leader and Ministry of Education officials in Beijing.\n\nMs Choi and the delegates were received by Vice-Chairperson of the National People's Congress Standing Committee Tie Ning at the Great Hall of the People this afternoon. They also met and exchanged views with officials from the ministry.\n\nMs Choi remarked that this year marks the 77th anniversary of the founding of the People's Republic of China, the 105th anniversary of the founding of the Communist Party of China, and the opening year of the National 15th Five-Year Plan.\n\nShe said it was highly significant for Hong Kong's education sector to visit Beijing ahead of National Day, on October 1, and to celebrate the motherland's birthday and experience a jubilant festive atmosphere with people in the capital.\n\nMs Choi highlighted that last week the Hong Kong Special Administrative Region Government announced its First Five-Year Plan, which aligns with the National 15th Five-Year Plan. She outlined that the Hong Kong's education sector faces multiple tasks, including digital education, talent cultivation and the integration of industry and education.\n\nShe said: “The delegation enabled teachers to gain insight into the latest education developments of the country and share experiences with Chinese Mainland teachers in areas such as operation models, curricula and teaching arrangements of schools at all levels.\n\n“It not only broadened their horizons but also fostered exchanges between the education sectors of both places, providing important references for the future development of Hong Kong's education and laying a foundation for deeper collaboration.”\n\nMs Choi and the delegation subsequently attended a banquet hosted by the Ministry of Education, where they engaged in in-depth discussions regarding professional connections and mutual learning between the education sectors of the two places.\n\nMs Choi and the delegation members will conclude their visit and return to Hong Kong tomorrow.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014/images/20260923195636768.jpg",
-      "publishedAt": "2026-09-22T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
     }
   ]
 }
