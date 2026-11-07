@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T08:45:17.795Z",
-  "checkedAt": "2026-11-07T09:45:17.294Z",
+  "generatedAt": "2026-11-07T09:57:37.287Z",
+  "checkedAt": "2026-11-07T09:57:37.287Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "102675d5b52a0de5",
+      "title": "Govt rebuts ten-nation statement on Wong case",
+      "excerpt": "The government on Saturday expressed strong dissatisfaction with and firm opposition to a joint statement by ten countries on the…",
+      "fullText": "The government on Saturday expressed strong dissatisfaction with and firm opposition to a joint statement by ten countries on the sentencing of Joshua Wong for conspiracy to commit collusion, saying it distorted facts and smeared the SAR.\n\nA government spokesman said the statement by the United States, the United Kingdom, France, Germany, Japan, Italy, Australia, Canada, the Netherlands and New Zealand disregarded facts, interfered with the SAR's independent judicial power, and urged the countries to stop interfering in Hong Kong matters, which are purely China's internal affairs.\n\nWong pleaded guilty to conspiracy to collude with foreign countries or external elements to endanger national security, and the court sentenced him independently on the evidence, the spokesperson said.\n\n\"Attempting to distort criminal judgments handed down in accordance with the law into actions targeting 'political expression' or 'political participation' is purely political manipulation deliberately intended to confuse the public and distort right and wrong,\" the spokesman said.\n\n\"Hong Kong is a society underpinned by the rule of law. The HKSAR Government has been consistently fulfilling its constitutional duty to safeguard national security in accordance with the law, upholding the principles that laws must be observed and strictly enforced to bring offenders to account.\"\n\nEdited by Altis Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-07T09:49:51.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876959-20261107.htm"
+    },
     {
       "id": "728290b544755a45",
       "title": "Proxy votes loom large in building management law fix",
@@ -764,17 +775,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876702-20261105.htm"
-    },
-    {
-      "id": "43823a65e03bd26f",
-      "title": "Tang condemns external smearing over Wong sentence",
-      "excerpt": "Secretary for Security Chris Tang strongly condemned on Thursday attacks by external forces following the sentencing of former activist Joshua…",
-      "fullText": "Secretary for Security Chris Tang strongly condemned on Thursday attacks by external forces following the sentencing of former activist Joshua Wong, who was imprisoned for 10 years after pleading guilty to conspiring with foreign countries or external elements to endanger national security.\n\nTang said the court, in passing sentence on Wong, found that he, Nathan Law, who has absconded, and others had continued to collude with foreign officials and outlets in calling for sanctions and hostile measures against the nation, Hong Kong and their officials.\n\nHe reiterated that Wong was sentenced under fair and open judicial proceedings, showing that the SAR abides by the rule of law.\n\n\"Those launching attacks against us are exactly the same external forces that Wong and Law attempted to collude... They must be strongly condemned, and Hong Kong citizens must recognise and acknowledge that clearly,\" Tang said.\n\nSpeaking outside the High Court earlier on Thursday, Steve Li, chief superintendent of the police's national security department, said Wong had taken part in social movements from a young age and committed various offences in adulthood.\n\nLi said he hoped Wong would reflect on his wrongdoings.\n\n\"I sincerely hope that for the rest of his time in prison, apart from reflecting on the wrongdoings he has done to the country and to the Hong Kong SAR, he must seize the opportunity to learn how to respect the law and properly understand his own country,\" he said.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T10:13:43.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876686-20261105.htm"
     },
     {
       "id": "d16b86d0e8451b52",
