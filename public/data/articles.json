@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T07:15:16.879Z",
-  "checkedAt": "2026-11-07T07:15:16.879Z",
+  "generatedAt": "2026-11-07T07:30:22.396Z",
+  "checkedAt": "2026-11-07T07:30:22.396Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 17
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rfa-english",
@@ -1107,17 +1107,6 @@
       "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
     },
     {
-      "id": "d96e0da8a27786b8",
-      "title": "Climate adaptation aid must rise tenfold: UN",
-      "excerpt": "Developing countries will need US$305 billion a year by 2035 to adapt to a worsening climate crisis, nearly 10 times…",
-      "fullText": "Developing countries will need US$305 billion a year by 2035 to adapt to a worsening climate crisis, nearly 10 times what they currently receive from wealthy nations, a new UN report said on Wednesday.\n\nClimate finance is set to be a hot-button issue again when negotiators from nearly 200 countries gather at the UN's Cop31 climate summit in Antalya, Turkiye, from November 9 to 20.\n\nUnder UN climate agreements, developed countries, which are historically responsible for most greenhouse gas emissions, are expected to financially help developing nations adapt to climate impacts and transition to cleaner sources of energy.\n\nAdaptation finance is aimed at protecting countries from a changing climate, with measures ranging from building sea walls and levees to planting drought-resistant crops or making homes more resilient to natural disasters.\n\n\"The latest Adaptation Gap Report exposes a staggering shortfall. For every dollar developing countries need to adapt, they receive just 10 cents,\" UN Secretary-General Antonio Guterres said.\n\n\"We know who is most at risk. We know what works. What is missing is the money – and the political will. The choice is simple: invest in adaptation today – or pay for catastrophe tomorrow,\" he said.\n\nThe report – titled \"Ready? Not.\" – estimates the needs of developing countries for adaptation at US$305 billion per year by 2035.\n\nDeveloped countries provided between US$28.2 billion and US$31.7 billion in 2024, only a modest increase from the previous year.\n\nThe figures fell short of a commitment made at Cop26 in Glasgow in 2021 to double adaptation finance from 2019 levels by 2025, to reach US$40 billion annually.\n\nAt Cop30 in Brazil last year, countries adopted a final agreement that included a call for efforts to triple adaptation finance by 2035.\n\nBut UNEP's report said the tripling \"is less ambitious than it first appears\" as the funds would increase to somewhere between US$85 billion and US$120 billion per year, depending on how the Cop30 decision is interpreted.\n\nEven if the Cop30 aspiration is achieved, it would only cover 20 to 29 percent of what is needed to deal with intensifying climate impacts, UNEP said.\n\nThe report said 2026 provided \"stark reminders\" that climate change affects everyone, from extreme heat and wildfires in Europe to the catastrophic glacial flooding in Nepal.\n\nThe UNEP has also warned that global efforts have fallen short of preventing temperatures from exceeding 1.5 degrees Celsius above pre-industrial levels, the more ambitious limit set by the 2015 Paris Agreement to avert the worst impacts of climate change.\n\n\"The world is not ready to adapt to current climatic conditions, never mind what overshoot of 1.5C will bring,\" UNEP Executive Director Inger Andersen said in a statement.\n\nAndersen urged countries at Cop31 to focus on intensifying efforts to triple adaptation finance by 2035, \"while understanding that they will need to go even higher to save lives, avoid losses and damages and protect economies\". (AFP)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T12:32:40.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876574-20261104.htm"
-    },
-    {
       "id": "725fa321b5f08310",
       "title": "HK, mainland stocks post gains",
       "excerpt": "Stock markets mostly rose on Wednesday as investors assessed the impact of a Democratic sweep of the US Congress that…",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
+    },
+    {
+      "id": "9ae8a1e02c50d50c",
+      "title": "SED meets state leader in Beijing",
+      "excerpt": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in…",
+      "fullText": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in visiting a state leader and Ministry of Education officials in Beijing.\n\nMs Choi and the delegates were received by Vice-Chairperson of the National People's Congress Standing Committee Tie Ning at the Great Hall of the People this afternoon. They also met and exchanged views with officials from the ministry.\n\nMs Choi remarked that this year marks the 77th anniversary of the founding of the People's Republic of China, the 105th anniversary of the founding of the Communist Party of China, and the opening year of the National 15th Five-Year Plan.\n\nShe said it was highly significant for Hong Kong's education sector to visit Beijing ahead of National Day, on October 1, and to celebrate the motherland's birthday and experience a jubilant festive atmosphere with people in the capital.\n\nMs Choi highlighted that last week the Hong Kong Special Administrative Region Government announced its First Five-Year Plan, which aligns with the National 15th Five-Year Plan. She outlined that the Hong Kong's education sector faces multiple tasks, including digital education, talent cultivation and the integration of industry and education.\n\nShe said: “The delegation enabled teachers to gain insight into the latest education developments of the country and share experiences with Chinese Mainland teachers in areas such as operation models, curricula and teaching arrangements of schools at all levels.\n\n“It not only broadened their horizons but also fostered exchanges between the education sectors of both places, providing important references for the future development of Hong Kong's education and laying a foundation for deeper collaboration.”\n\nMs Choi and the delegation subsequently attended a banquet hosted by the Ministry of Education, where they engaged in in-depth discussions regarding professional connections and mutual learning between the education sectors of the two places.\n\nMs Choi and the delegation members will conclude their visit and return to Hong Kong tomorrow.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014/images/20260923195636768.jpg",
+      "publishedAt": "2026-09-22T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
     }
   ]
 }
