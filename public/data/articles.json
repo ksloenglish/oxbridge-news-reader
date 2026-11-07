@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T10:15:16.225Z",
-  "checkedAt": "2026-11-07T10:30:21.784Z",
+  "generatedAt": "2026-11-07T10:38:09.834Z",
+  "checkedAt": "2026-11-07T10:38:09.834Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -50,7 +50,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 20
+      "articleCount": 19
     },
     {
       "id": "news-gov-hk-top",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "519d7209b4fad660",
+      "title": "France's Gehri, Russia's Isakova win HK triathlon leg",
+      "excerpt": "France’s Nils Serre Gehri produced a dramatic late surge to win the men’s individual title at the World Triathlon Cup…",
+      "fullText": "France’s Nils Serre Gehri produced a dramatic late surge to win the men’s individual title at the World Triathlon Cup Hong Kong on Saturday, while Russia’s Diana Isakova continued her strong run of form by claiming the women’s race.\n\nGehri, who won the U23 title in Pontevedra, Spain, in September, clocked 50 minutes and 14 seconds.\n\nHe overtook Australia’s Callum McClusky right at the finish line to seal the victory, with Spain’s David Castro Fajardo rounding out the podium in third.\n\nHong Kong, China’s Nicholas Tsang finished 58th in 54 minutes and 44 seconds.\n\nIn the women’s race, Isakova arrived in Hong Kong fresh from a World Cup win in Rome and made it back-to-back victories, finishing in 55 minutes and 39 seconds.\n\nLuxembourg’s Jeanne Lehair took second, followed by Huang Anqi of the national team.\n\nHilda Choi was the top finisher among Hong Kong triathletes in 37th place, with Cade Wright 39th and Bailee Brown 50th.\n\nThe roughly 24-kilometre course began along the Central and Wan Chai waterfront, with athletes opening with a 750-metre swim in Victoria Harbour.\n\nThey then tackled an 18.5-kilometre bike leg past Expo Drive, the International Finance Centre and the Central Piers before closing with a five-kilometre run to the finish line on Lung Wo Road.\n\nThe mixed team relay is scheduled for Sunday.\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-07T10:22:25.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876947-20261107.htm"
+    },
     {
       "id": "914a322eaab2f234",
       "title": "Three arrested over HK$4m craft beer scam",
@@ -566,17 +577,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876763-20261106.htm"
-    },
-    {
-      "id": "398f05f4da598ed2",
-      "title": "Police to deploy facial recognition on CCTV networks",
-      "excerpt": "Police said facial recognition technology will be rolled out across its CCTV network this month to assist in criminal searches…",
-      "fullText": "Police said facial recognition technology will be rolled out across its CCTV network this month to assist in criminal searches and locate high-risk missing persons, with some of the captured data stored for up to 180 days.\n\nOfficers said they have so far installed around 10,000 cameras under the SmartView initiative, alongside connections to a further 10,000 from other government departments and public organisations.\n\nCovered locations include, among others, Kai Tak Sports Park, Hong Kong International Airport, cross-harbour tunnels, MTR stations and public housing estates.\n\nSuperintendent Raymond Cheng said the facial recognition feature can be activated anytime on all police cameras, as well as third-party feeds integrated into the SmartView system.\n\nHowever, he explained that the feature will only be triggered during active criminal searches or to locate high-risk missing persons, to save resources.\n\n\"For the 24 hours' analysis, not all of them can be used at the same time because of the resources,\" Cheng said.\n\n\"But if we need to use, we can spend the resources on particular CCTV, and of course it can be used around the clock.”\n\nIn separate pilot tests, police said the facial recognition technology has already helped them arrest a robbery suspect and locate an elderly man with dementia within 1.5 hours of being reported missing.\n\nOfficers said CCTV footage will only be kept for a maximum of 31 days. However, photos of individuals captured by the facial recognition technology, along with metadata such as location, date, time, and facial characteristics, will be retained for 180 days.\n\nMeanwhile, police revealed that at least four shopping malls have agreed to connect their CCTV feeds to the police network.\n\nRTHK understands these include Tuen Mun Town Plaza, Olympian City, Kwai Chung Shopping Centre, and Sierra Life in Fanling.\n\nCheng said malls that have installed CCTV cameras are required by law to display signs warning people that recording is in progress.\n\nHowever, the superindendent noted the Department of Justice (DOJ) advised that it should be voluntary for malls to disclose whether their CCTV feeds are connected to the police network.\n\n“We will follow the advice from the DOJ to encourage shopping malls or the organisations to post our notice to announce that our system is connected with their CCTV,” Cheng added.\n\nPolice have been installing cameras in public places with high crime rates and heavy pedestrian flow since 2024, aiming to reach a target of 60,000 cameras by 2028 to cover the entire city.\n\nAn additional 6,500 cameras will be installed in the developing Northern Metropolis after 2028, bringing the total number of public surveillance cameras to around 66,500 in 2031.\n\nSince the project began, the force said its CCTV network has helped solve nearly 2,200 criminal cases, including murder, robbery, and arson, leading to more than 2,800 arrests.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T00:51:52.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876757-20261106.htm"
     },
     {
       "id": "33f87479bebcf6b9",
@@ -1437,17 +1437,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876173-20261102.htm"
     },
     {
-      "id": "6bd78653e1f33c59",
-      "title": "Arsenal back in top spot after beating Liverpool 1-0",
-      "excerpt": "Champions Arsenal moved three points clear at the top of the Premier League with Kai Havertz's early goal securing a…",
-      "fullText": "Champions Arsenal moved three points clear at the top of the Premier League with Kai Havertz's early goal securing a statement 1-0 victory over Liverpool at Anfield on Sunday.\n\nGerman striker Havertz tapped in from Declan Rice's low cross in the 16th minute after the hosts were caught out trying to play the ball out of defence.\n\nLiverpool responded strongly as halftime approached with Florian Wirtz curling a free kick against the crossbar and Alexis Mac Allister heading a good chance over the bar.\n\nArsenal weathered the storm, and defended superbly to keep Liverpool at arm's length after the break and seal their first Premier League win at Anfield for 14 years.\n\nMikel Arteta's side replace Manchester City at the top with 24 points from nine games, with City on 21 after losing at home to Brighton and Hove Albion on Saturday.\n\nLiverpool's second league defeat of the season left them nine points behind Arsenal in fifth place. (Reuters)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T22:08:43.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876170-20261102.htm"
-    },
-    {
       "id": "f824b6e663078f8a",
       "title": "Telling infrastructure stories well",
       "excerpt": "Jointly launched by the Development Bureau and the Construction Industry Council, the “Hong Kong Infrastructure NO. 1” campaign seeks to…",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
+    },
+    {
+      "id": "940d79532a5b6d51",
+      "title": "Nursing workforce planning outlined",
+      "excerpt": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare…",
+      "fullText": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare professionals. The statement was issued in response to public discussions regarding nursing manpower planning in Hong Kong, adding that such discussions should be grounded objective facts and data to foster consensus.\n\nAlthough the nurse attrition rate within the Hospital Authority has dropped from a peak of 10.9% to 5.4%, approximately 3,200 vacancies remain unfilled with recruitment ongoing. In 2025, around 3,500 of the 4,000 prospective nursing graduates qualified as Registered Nurses (RNs) or Enrolled Nurses (ENs), with about 60% applying for positions within the authority.\n\nThese figures demonstrate that graduates diversify into various sectors, including private healthcare institutions, elderly services and rehabilitation, community nursing, insurance and health management. Notably, approximately 99% of applicants who completed the interview or assessment process for RN posts within the authority received an offer of appointment.\n\nAs of the end of 2025, over 30,000 of Hong Kong’s 75,000 RNs and ENs were employed within the public healthcare system, representing roughly 40% of the total workforce. Given that nursing practice spans hospitals, primary care, community and elderly services, rehabilitation and other health service sectors, the Government noted that manpower supply and demand must be assessed holistically across the entire market.\n\nFurthermore, approximately 99.8% of RNs serving in the authority are locally trained, confirming that local professionals remain the backbone of public healthcare. The Government affirmed it will continue to promote regional healthcare collaboration and professional exchanges while strictly safeguarding employment priority for locally trained professionals.\n\nPlans are also underway to strengthen manpower training for primary healthcare and advance professional systems to enhance service quality and maximise the professional functions of nurses. Addressing broader roles, the Government stressed that the Health & Care Practitioner (HCP) rank is a dedicated welfare-sector role that should not be confused with ENs due to distinct scopes of practice.\n\nAcknowledging broader recruitment pressures, the Health Bureau noted that private hospitals face similar shortages, with one facility reporting 40 vacancies but receiving only 25 applications over the past year. In response to an ageing population, the Government reiterated its commitment to driving cross-sectoral collaboration and manpower planning based on service needs and manpower data to ensure that healthcare and nursing services in Hong Kong can continue to meet the needs of society.\n\nThe Government hopes that all sectors of the community will exchange views on healthcare manpower development and professional training based on facts and data, and work together to foster the sustainable development of the city's healthcare system.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431/images/20260929142417086.jpg",
+      "publishedAt": "2026-09-28T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
     }
   ]
 }
