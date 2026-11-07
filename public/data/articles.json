@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T11:45:16.997Z",
-  "checkedAt": "2026-11-07T12:00:28.518Z",
+  "generatedAt": "2026-11-07T12:15:17.988Z",
+  "checkedAt": "2026-11-07T12:15:17.988Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "1d45a6c9d73b0415",
+      "title": "Houthis say 22 killed in Saudi strikes in Sanaa",
+      "excerpt": "Houthi media said on Saturday that Saudi strikes killed 22 people, including women and children, in Yemen's Sanaa province, following…",
+      "fullText": "Houthi media said on Saturday that Saudi strikes killed 22 people, including women and children, in Yemen's Sanaa province, following the return of the country's dormant civil war.\n\n\"Martyrdom of citizens, among them women and children, in Saudi enemy airstrikes\" on homes in the Al-Shariyah area of Sanaa province, the Houthis' Saba news agency said, adding that dozens more were wounded.\n\nIt said operations to recover victims from the rubble were ongoing and that \"aircraft targeted paramedics with two strikes\".\n\nSaudi authorities have not commented on the report.\n\nMeanwhile, Saudi Arabia said its air defenses shot down a Houthi cruise missile targeting the capital Riyadh.\n\nOn Friday, an attack on a market in Taiz province killed 30 people. The Houthis said Saudi airstrikes were to blame, while Yemen's government forces accused the Iran-allied group of having fired a ballistic missile at the site.\n\nYemen slipped back into war between the Houthis and the Saudi-backed government in July after years of relative calm, opening a new front in the conflict in the Middle East.\n\nSince then, Saudi Arabia has regularly bombed Houthi positions, while the group has multiplied its attacks against the oil-rich kingdom. (AFP/Reuters)\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-07T11:50:43.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876968-20261107.htm"
+    },
     {
       "id": "f09708081952dd4c",
       "title": "Health gear firms set to be not left to own devices",
@@ -1094,17 +1105,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876582-20261104.htm"
-    },
-    {
-      "id": "04c37f9b791c2386",
-      "title": "US midterm results a rejection of war: Tehran",
-      "excerpt": "Iran's supreme leader warned on Wednesday that the Middle East war would widen if America resumes its attacks, dismissing hopes…",
-      "fullText": "Iran's supreme leader warned on Wednesday that the Middle East war would widen if America resumes its attacks, dismissing hopes of a policy shift in Washington after midterm elections dealt a blow to US President Donald Trump.\n\nTrump has recently threatened to renew the war against Iran amid similar rhetoric from Israeli Prime Minister Benjamin Netanyahu, but on Tuesday he suffered a resounding defeat in polls that will strip his Republicans of control over Congress.\n\nThe results, which Tehran says is a repudiation of the war, could constrain Trump's ability to enact his agenda, though the president retains the power to order new strikes.\n\n\"Those who still harbour even the slightest hope that the behaviour of the hegemonic system might change through partisan or factional shifts, or who imagine that making concessions to the United States can dissuade it from hostility towards the Iranian nation, are seriously mistaken,\" Iranian supreme leader Mojtaba Khamenei said in a written statement on Wednesday.\n\nHe also warned that if the United States did choose further military action, the scope of the war would widen, without elaborating.\n\nKhamenei has yet to appear in public since he took power in March following the killing of his father and predecessor in US-Israeli strikes, and has communicated through written messages.\n\nEarlier, Mohammad Bagher Ghalibaf, Iran's chief negotiator in talks with the US, said Americans had voted against war in the midterms.\n\n\"Conscience or the cost of living, Americans said NO TO WAR, and we endorse this message,\" he posted on X.\n\n\"If the US govt betrays their public will to serve international paymasters and blackmailers, it will learn our NO comes with a Nightmare,\" Ghalibaf said.\n\nIran's judiciary chief Gholamhossein Mohseni Ejei also hailed the election results, saying Trump had been \"defeated both militarily and politically\".\n\nThe war has proved unpopular among the US public, who have seen the cost of living rise after a spike in energy prices caused by the war.\n\nTrump on Tuesday acknowledged the conflict may have played a part in the defeat of his Republican Party.\n\n\"I think a part of it was Iran, but at the same time, people understood the importance of what I've done,\" Trump told Fox News.\n\nOn Tuesday the US launched strikes on Qeshm Island in the Strait of Hormuz, with Iranian state media reporting five explosions in rapid succession.\n\n\"They built an anti-aircraft facility... As soon as it was completed, we hit it last night very nicely,\" Trump told US media, but he called it a \"minor attack\". (AFP)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T13:10:03.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876579-20261104.htm"
     },
     {
       "id": "b3728d332507b620",
