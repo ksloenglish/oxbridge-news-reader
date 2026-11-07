@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T13:30:21.345Z",
-  "checkedAt": "2026-11-07T15:00:32.059Z",
+  "generatedAt": "2026-11-07T15:15:18.535Z",
+  "checkedAt": "2026-11-07T15:15:18.535Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "c43fe3b4f36eb290",
+      "title": "Mainland icebreakers set off for Antarctica",
+      "excerpt": "China held a departure ceremony in Sanya, Hainan, on Saturday to mark the start of its 43rd Antarctic scientific expedition…",
+      "fullText": "China held a departure ceremony in Sanya, Hainan, on Saturday to mark the start of its 43rd Antarctic scientific expedition.\n\nOrganized by the Ministry of Natural Resources, the mission will upgrade China's polar research stations and logistics network and carry out comprehensive, multidisciplinary surveys and monitoring in Antarctica.\n\nIt will also pursue priority research at the frontiers of polar science, test and apply domestically developed equipment, and deepen bilateral and multilateral cooperation in science and logistics support.\n\nThe expedition is supported by the icebreakers Xuelong and Xuelong 2, along with another vessel.\n\nMore than 600 team members from over 100 domestic institutions are participating, and the team is expected to return home in April. (Xinhua)\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-07T15:02:14.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876942-20261107.htm"
+    },
     {
       "id": "93d6d4b5752675df",
       "title": "Evening News on TV32 - Nov 7",
@@ -1402,17 +1413,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876275-20261102.htm"
-    },
-    {
-      "id": "4c7e471051b3998f",
-      "title": "Beijing working to ease Middle East situation: Wang Yi",
-      "excerpt": "Wang Yi, the nation's top diplomat, met with Ali Bagheri Kani, deputy secretary of Iran's Supreme National Security Council in…",
-      "fullText": "Wang Yi, the nation's top diplomat, met with Ali Bagheri Kani, deputy secretary of Iran's Supreme National Security Council in Beijing on Monday.\n\nWang said that China will follow the initiatives and propositions put forward by President Xi Jinping on easing the situation in the Middle East.\n\nBeijing will also work together with all parties continuously to restore regional peace, he said.\n\n\"China supports Iran in safeguarding its own sovereignty and security,\" he told Bagheri Kani, according to a statement from Beijing.\n\n\"All parties should... in a spirit of reason and pragmatism, focus on a political solution rather than once again resorting to armed conflict,\" Wang added.\n\nChina is to send its Middle East envoy to Iran, Oman and Saudi Arabia as a part of \"shuttle diplomacy visits... aimed at promoting peace talks [and] easing tensions\", a Foreign Ministry spokesperson told a regular news briefing.\n\nEarlier, President Xi had said the Middle East and Gulf region should not become a battleground for great-power rivalry. (Xinhua/AFP)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T12:41:54.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876276-20261102.htm"
     },
     {
       "id": "fa73ead1a5bdcdd1",
