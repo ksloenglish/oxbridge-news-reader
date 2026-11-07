@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T04:45:17.722Z",
-  "checkedAt": "2026-11-07T04:45:17.722Z",
+  "generatedAt": "2026-11-07T05:00:28.251Z",
+  "checkedAt": "2026-11-07T05:00:28.251Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 18
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -95,14 +95,25 @@
   ],
   "articles": [
     {
+      "id": "fb849107f1240d1d",
+      "title": "Everton in fifth heaven in comeback win over Coventry",
+      "excerpt": "David Moyes said Thierno Barry had proved his point after the Everton striker's double inspired a 3-1 win against Coventry…",
+      "fullText": "David Moyes said Thierno Barry had proved his point after the Everton striker's double inspired a 3-1 win against Coventry on Friday.\n\nMoyes's side trailed to Yann Gboho's goal early in the second half at the Hill Dickinson Stadium.\n\nBut Barry proved too hot for Coventry to handle, netting twice in the space of just five minutes to turn the game in Everton's favour.\n\nBarry has already reached 10 goals this season, surpassing his total for the entire 2025-26 campaign.\n\nThat miserable first season with Everton following his move from Villarreal is quickly becoming a distant memory of the in-form 24-year-old, who has six goals in his last seven appearances in all competitions.\n\n\"We gave away a really poor goal but the reaction from there was really good. Important that Thierno Barry got another couple of goals tonight which was huge for us,\" Moyes said.\n\n\"He can smile at me now and say I told you so and that's good. We always liked him and we want him to keep scoring.\"\n\nBarry had been known for squandering chances that seemed impossible to miss last season, but he has been far more clinical this term.\n\n\"He's missed quite a few chances but tonight he got important goals for us,\" Moyes said after he equalled Harry Catterick's Everton record 592 games in charge.\n\n\"He's becoming an important piece for us and he's got 10 goals for us which is really good.\"\n\nAmong Premier League players, only Manchester City striker Erling Haaland has scored more goals than Barry in all competitions this season.\n\n\"I'm very happy because I'm a fan of him. I watch a lot of videos of him and try and do the things he does,\" Barry said.\n\n\"If I can stay with him until the end to get the Golden Boot I will try.\"\n\nEverton are up to fifth place following their third successive win in all competitions.\n\n\"We got a performance and we got a result but I have to say Coventry made it really difficult for us. In the end we got the goals which mattered,\" Moyes said.\n\nCoventry boss Frank Lampard was left frustrated with a pair of rejected penalty appeals that could have turned the match in his side's favour.\n\nLampard, who managed Everton from January 2022 to January 2023, said: \"Big decisions affected the game, clearly.\n\n\"VAR looked at them. The James Tarkowski hair pull on Caleb Yirenkyi, then Vitaliy Mykolenko on Taiwo Awoniyi, I think he gets contact on the edge of the box which is a penalty.\n\n\"The second goal for them comes off the player's hand. If you're going to check the angles, there is an angle where it flicks in off his hand. VAR looked at it and decided not.\n\n\"The last touch to score is off the hand, in my opinion. I've seen a conclusive angle so I can disagree.\" (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-07T04:14:58.000Z",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876924-20261107.htm"
+    },
+    {
       "id": "c38163a592cc47d9",
       "title": "Pakistani to be first foreign astronaut on Tiangong",
       "excerpt": "A Pakistani astronaut will join the Shenzhou-24 crewed flight mission as a payload specialist, the China Manned Space Agency said…",
       "fullText": "A Pakistani astronaut will join the Shenzhou-24 crewed flight mission as a payload specialist, the China Manned Space Agency said on Saturday.\n\nAfter completing a short on-orbit flight, the Pakistani astronaut will return to Earth aboard the Shenzhou-23 spacecraft.\n\nThe mission will mark the first joint flight involving Chinese and foreign astronauts in the history of China's manned space programme.\n\nThe Shenzhou-23 spacecraft carried the Hong Kong SAR's first astronaut, Lai Ka-ying, as part of a three-strong crew to the Tiangong space station in May. (With contributions from Xinhua)\n\nEdited by Robert Kemp",
       "imageUrl": null,
       "publishedAt": "2026-11-07T04:02:00.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876920-20261107.htm"
     },
     {
@@ -1371,17 +1382,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876248-20261102.htm"
     },
     {
-      "id": "89b9ddb66c14c35f",
-      "title": "NPC set to lay down law on cross-border corruption",
-      "excerpt": "The National People's Congress has begun deliberating on a draft law on combating cross-border corruption, including a provision on promoting…",
-      "fullText": "The National People's Congress has begun deliberating on a draft law on combating cross-border corruption, including a provision on promoting the building of a fair and equitable global anti-corruption governance system.\n\nThe draft was submitted for its second reading at an NPC Standing Committee session that runs through Friday.\n\nIt further elaborates on the legislative purpose and enriches the principles guiding efforts to combat cross-border corruption.\n\nIt also stipulates that such efforts must be conducted in strict accordance with the Constitution and laws, follow statutory procedures, and respect and protect human rights.\n\nThe draft law was first submitted for deliberation in late August. The formulation of the law is an important step by China to put in place a systematic and comprehensive foreign-related legal framework for anti-corruption, according to the NPC.\n\nStructured into six chapters and 47 articles, the draft sets out the principles, scope and key positions underpinning China's efforts to combat cross-border corruption.\n\nThe revised draft also sets out provisions on the use of information technology by authorities in combating cross-border corruption.\n\nIt requires relevant authorities and their staff to keep confidential any state secrets, work-related confidential information, trade secrets, personal privacy and personal information obtained during supervision and investigations.\n\nIt also requires Chinese companies operating across borders to set up integrity and compliance departments or appoint dedicated staff, based on their size, business scope, and risk prevention and control. (Xinhua)\n\nEdited by Raymond Yeung",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T07:43:50.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876229-20261102.htm"
-    },
-    {
       "id": "fa73ead1a5bdcdd1",
       "title": "Alcaraz crushes De Minaur for Vienna Open title",
       "excerpt": "Carlos Alcaraz completed an unbeaten season in ATP 500-level events when he cruised past Alex de Minaur 6-1, 6-4 in…",
@@ -1424,17 +1424,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876170-20261102.htm"
-    },
-    {
-      "id": "afce9a819a9d3a70",
-      "title": "Brighton beat City; United implode against Chelsea",
-      "excerpt": "Brighton inflicted a second straight Premier League defeat on Manchester City with a 1-0 win to close within two points…",
-      "fullText": "Brighton inflicted a second straight Premier League defeat on Manchester City with a 1-0 win to close within two points of the leaders on Saturday, while Manchester United slumped to another damaging defeat for Michael Carrick at Chelsea.\n\nThird-placed Brighton ended their wait for a first ever away win against City at the 18th attempt to bolster dreams of challenging for the title.\n\nThe Seagulls have never won a major trophy but have already beaten champions Arsenal convincingly this season to show their title credentials.\n\nFabian Hurzeler's men got revenge for defeat to City on penalties in the League Cup on Wednesday.\n\nHurzeler felt aggrieved at that result after his side twice led at the Etihad and this time held on after Yasin Ayari slotted them into an 11th-minute lead.\n\nBart Verbruggen was inspired in the Brighton goal to see off a City onslaught after half-time.\n\nBut the visitors were well worthy of a famous win and could also have added to their lead when Jack Hinshelwood hit the side-netting late on.\n\nCity won their opening seven league games as Enzo Maresca made a flawless start to the daunting task of succeeding Pep Guardiola.\n\nHowever, the 10-time English champions know their results on the field may count for little this season unless they can successfully overturn a guilty verdict on over 100 charges of breaking Premier League financial rules.\n\nCity have appealed, but if that ruling is upheld they are likely to face a severe points penalty and possible relegation from the English top-flight.\n\nDefeat for Maresca's men means Arsenal can go top of the table if they avoid losing at Liverpool on Sunday.\n\nManchester United's nine-game winless run is their longest without victory for 38 years after a 2-0 defeat at Chelsea.\n\nThe Red Devils were left to regret not taking advantage of a series of first half chances to take the lead before they imploded in the second period.\n\nMorgan Rogers was allowed to run straight through the heart of the United defence to open the scoring.\n\nLisandro Martinez then did his under-pressure manager no favours with two quickfire yellow cards, the second of which also conceded a penalty.\n\nCole Palmer converted from the spot to lift Chelsea into the top four.\n\n\"The two halves of football couldn't probably be further apart,\" said Carrick, who added he expects to be in charge for Tuesday's Champions League tie against Roma.\n\n\"We looked in a good place going into half-time and then found a way of unravelling it second half.\"\n\nOnly Nottingham Forest's 2-0 defeat at Brentford ensured United did not drop into the bottom three.\n\nNikola Milenkovic's own goal and Igor Thiago's strike took the Bees up to sixth.\n\nBournemouth extended their fine form with a 2-0 win over Leeds thanks to goals from Evanilson and Amine Adli.\n\nSunderland remain rooted to the foot of the table after a 3-1 defeat at Coventry.\n\nHull and Ipswich played out a 2-2 draw. (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T01:22:05.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876114-20261101.htm"
     },
     {
       "id": "f824b6e663078f8a",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
+    },
+    {
+      "id": "9ae8a1e02c50d50c",
+      "title": "SED meets state leader in Beijing",
+      "excerpt": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in…",
+      "fullText": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in visiting a state leader and Ministry of Education officials in Beijing.\n\nMs Choi and the delegates were received by Vice-Chairperson of the National People's Congress Standing Committee Tie Ning at the Great Hall of the People this afternoon. They also met and exchanged views with officials from the ministry.\n\nMs Choi remarked that this year marks the 77th anniversary of the founding of the People's Republic of China, the 105th anniversary of the founding of the Communist Party of China, and the opening year of the National 15th Five-Year Plan.\n\nShe said it was highly significant for Hong Kong's education sector to visit Beijing ahead of National Day, on October 1, and to celebrate the motherland's birthday and experience a jubilant festive atmosphere with people in the capital.\n\nMs Choi highlighted that last week the Hong Kong Special Administrative Region Government announced its First Five-Year Plan, which aligns with the National 15th Five-Year Plan. She outlined that the Hong Kong's education sector faces multiple tasks, including digital education, talent cultivation and the integration of industry and education.\n\nShe said: “The delegation enabled teachers to gain insight into the latest education developments of the country and share experiences with Chinese Mainland teachers in areas such as operation models, curricula and teaching arrangements of schools at all levels.\n\n“It not only broadened their horizons but also fostered exchanges between the education sectors of both places, providing important references for the future development of Hong Kong's education and laying a foundation for deeper collaboration.”\n\nMs Choi and the delegation subsequently attended a banquet hosted by the Ministry of Education, where they engaged in in-depth discussions regarding professional connections and mutual learning between the education sectors of the two places.\n\nMs Choi and the delegation members will conclude their visit and return to Hong Kong tomorrow.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014/images/20260923195636768.jpg",
+      "publishedAt": "2026-09-22T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
     }
   ]
 }
