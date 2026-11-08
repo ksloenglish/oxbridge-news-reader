@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T11:15:17.398Z",
-  "checkedAt": "2026-11-08T12:45:16.904Z",
+  "generatedAt": "2026-11-08T13:00:26.744Z",
+  "checkedAt": "2026-11-08T13:00:26.744Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 20
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 13
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "0fea7918b95cdfab",
+      "title": "Evening News on TV32 - Nov 8",
+      "excerpt": "Top stories for Sunday, Nov 8, 2026 - Paul Chan says the government will boost high-value tourism. - Officials demand…",
+      "fullText": "Top stories for Sunday, Nov 8, 2026\n\n- Paul Chan says the government will boost high-value tourism.\n\n- Officials demand answers over building defects found at a future MTR station.\n\n- Poland begins two days of mourning following a deadly mass shooting.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T12:30:13.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877034-20261108.htm"
+    },
     {
       "id": "abfd936d2a964144",
       "title": "Liu overpowers Eala for HK Open crown",
@@ -651,8 +662,8 @@
       "fullText": "A record high of more than 400 Hong Kong businesses are taking part in the China International Import Expo in Shanghai hoping to use the event as a launchpad for entry into the mainland market.\n\nAmong the first-time exhibitors is a Hong Kong accounting firm, which has seen a 30-percent surge over the past year in mainland clients seeking to expand overseas.\n\nMan Law, CEO of the firm's greater China division, told RTHK that venturing abroad was no longer just a trend, but a practical necessity for managing risks and driving growth.\n\nThe expo, he said, is an ideal stage to highlight Hong Kong's role as a springboard for international growth, particularly through tax incentives.\n\n\"Suppose you have set up an office and hired staff in Hong Kong,\" Law said.\n\n\"When expanding into Southeast Asia or investing in other foreign markets, you can take advantage of the double taxation avoidance agreements signed between Hong Kong and many countries.\n\n\"At their peak, tax savings could exceed 50 percent.\"\n\nAnother first-time exhibitor is a craft brewery that is working up a thirst at the expo for its award-winning, Hong Kong-made beer.\n\nThe brewery's marketing director said the brand aims to tap the mainland market, confident that its craft beers will be competitive as many mainland consumers have a strong appetite for Hong Kong products.\n\nThe event has also drawn local academic institutions, including the Hong Kong Polytechnic University.\n\nPolyU vice-president Zheng Zijian said the university, which has established 12 research institutes on the mainland over the past three years for incubation programmes, has brought innovation projects such as robots and food technology to the expo.\n\nThe institution, he stressed, has benefited from the mainland's comprehensive domestic industrial chain and robust support from local governments.\n\n“Our practice over the past few years is to take the path of deep integration with the mainland and contribute to integration with the country's talent, science and technology, and education,” Zheng said.\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-11-06T08:04:39.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876820-20261106.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746.html"
-    },
-    {
-      "id": "e514ab7fdff7dce2",
-      "title": "Domestic helper wage up 2.35%",
-      "excerpt": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased…",
-      "fullText": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased by 2.35%, from $5,100 to $5,220 per month.\n\nThe new minimum wage level will apply to all FDH contracts signed on or after tomorrow. FDH contracts signed today or earlier at the existing rate will still be processed by the Immigration Department, provided that the applications reach the department no later than October 30.\n\nThe Government explained that in reviewing the minimum wage, it had, in accordance with an established mechanism, considered factors including Hong Kong’s general economic performance and labour market conditions over the past year, the city's near-term economic outlook, employer affordability and the basic living needs of FDHs.\n\nThe Government also consulted employers and FDHs throughout the review process.\n\nIt stated that it decided to adjust the minimum wage level after carefully assessing and balancing the views of all parties, taking into account that this year's socio-economic factors are more favourable than those of last year's review.\n\nThe Government also reviewed the food allowance in lieu of free food, and decided that the level should remain unchanged, at no less than $1,236 per month.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265/images/20261002172046980.jpg",
-      "publishedAt": "2026-10-01T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
     }
   ]
 }
