@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T08:45:17.234Z",
-  "checkedAt": "2026-11-08T09:00:27.524Z",
+  "generatedAt": "2026-11-08T09:15:20.027Z",
+  "checkedAt": "2026-11-08T09:15:20.027Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "8a90360e015f0e73",
+      "title": "Dozens hurt in central Japan tremor",
+      "excerpt": "A strong 5.7-magnitude earthquake shook central Japan early on Sunday, injuring dozens of people, shattering windows and disrupting train services…",
+      "fullText": "A strong 5.7-magnitude earthquake shook central Japan early on Sunday, injuring dozens of people, shattering windows and disrupting train services, officials and local media said.\n\nThe quake struck at 1.04am in Shizuoka Prefecture, west of Tokyo, the Japan Meteorological Agency said.\n\nNo tsunami warning was issued.\n\nAuthorities reported no deaths, but the quake shattered storefront windows and knocked items off shelves and caused transport disruption in parts of the country.\n\nAn emergency official in Aichi told AFP authorities had received 16 reports of mostly minor injuries.\n\nAuthorities in neighbouring Shizuoka said at least three women sought emergency medical care, including a woman in her nineties who injured her shoulder after falling from her bed during the shaking.\n\nThe local Chunichi Shimbun newspaper and Tokai Television separately reported at least 24 were hurt across the two regions.\n\nIn Toyohashi city in the Aichi region, windows of a car dealership were found shattered after the quake.\n\nA large bookstore in Toyota city, also in Aichi, reported that its merchandise dropping from shelves.\n\nThe quake also forced temporary delays and suspensions of regional train services on Sunday morning, including the Shinkansen bullet trains.\n\nIt was felt as far west as Osaka, where a foreign resident was taken to hospital after falling from a second-floor apartment when the shaking startled them, local media reported.\n\nSeparately, a 4.3-magnitude quake struck the Kumamoto region at 10.53am on Sunday, the Meteorological Agency said.\n\nThere were no immediate reports of serious damage or injuries from the second quake.\n\nThe southwestern region is still trying to recover from a 7.1-magnitude tremor that killed 38 people, flattened homes and left tens of thousands without power in July. (AFP)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T08:58:39.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877021-20261108.htm"
+    },
     {
       "id": "a7402319e5cefa3a",
       "title": "New buildings body to recruit about 90 staff: Linn",
@@ -764,17 +775,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876736-20261106.htm"
-    },
-    {
-      "id": "498935d703372475",
-      "title": "Russell Brand guilty of rape, three sexual assaults",
-      "excerpt": "British comedian Russell Brand was on Thursday found guilty by a London jury of one rape and three sexual assaults…",
-      "fullText": "British comedian Russell Brand was on Thursday found guilty by a London jury of one rape and three sexual assaults, involving a total of four women.\n\nBrand, who closed his eyes but showed no emotion as the jury delivered the verdicts, was cleared of two rapes and one count of attempted indecent assault.\n\nJudge Joel Bennathan warned the 51-year-old actor turned conservative, religious online guru that he faced a \"significant custodial term.\"\n\nBrand's wife Laura watched from the public gallery as the jury at London's Southwark Crown Court delivered their four unanimous guilty verdicts.\n\nHe was remanded in custody and will be sentenced on Monday. The maximum sentence in the UK for rape is life imprisonment.\n\nBrand, who was briefly married to US popstar Katy Perry, reportedly also faces a further accusation of raping two more women, including a 16-year-old schoolgirl, and could face further criminal charges.\n\nThe allegations, which could not be reported earlier, were revealed at previous hearings of his four-week trial.\n\nAfter the verdicts, the Metropolitan Police paid tribute to the \"extraordinary courage, resilience and determination of the women who came forward and reported what happened to them.\"\n\n\"Brand used his influence, status and fame to exploit and sexually offend against women,\" the Met's Detective Superintendent Andy Furphy said in a statement.\n\n\"As his profile grew, so too did his sense of entitlement. I hope this conviction sends a clear message that no one is above the law, no matter how famous or powerful they may be,\" Furphy added.\n\nSenior prosecutor David Roberts said outside the court on Thursday that Brand was \"predatory and used his celebrity status to commit sexual crimes.\"\n\n\"He was a manipulator with an insatiable desire to get what he wanted regardless of whether consent was given or not,\" Roberts added.\n\nBrand was convicted of four sexual offences – one rape and three sexual assaults – involving four women between 2005 and 2009 in different locations, including a radio station, the set of a DVD recording and Brand's home address.\n\nHe had pleaded not guilty to all the charges saying that although he used to be promiscuous he had always had consensual sex.\n\nThe prosecution had earlier described him as a \"ruthless, calculated and manipulative\" sexual predator.\n\nFollowing the guilty verdicts, Brand's lawyer Ian Winter urged the judge to renew his bail over the weekend as \"an act of humanity.\"\n\nWinter said he was asking for bail so Brand could \"put his affairs in order and in particular to say goodbye to his three young children.\"\n\nJudge Bennathan said he regretted the \"hardship caused to the children.\"\n\nBut he said Brand had \"considerable resources\" and that whatever his good intentions were there were substantial grounds to \"fear he might in the end not feel able to come along and face his sentence.\"\n\nFrom the dock, Brand signalled to his defence team that he was okay, adding: \"I'm good, I'm good, I'm good\" before being led out of the dock. (AFP)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T20:23:19.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876731-20261106.htm"
     },
     {
       "id": "03968e731bd55771",
