@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T13:45:17.407Z",
-  "checkedAt": "2026-11-08T14:00:28.422Z",
+  "generatedAt": "2026-11-08T14:15:21.527Z",
+  "checkedAt": "2026-11-08T14:15:21.527Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "6e3acd1b78da6676",
+      "title": "Pope Leo wraps up Uruguay visit, Argentina next",
+      "excerpt": "Pope Leo XIV wrapped up his visit to Uruguay on Sunday by marking an important Catholic feast day that is…",
+      "fullText": "Pope Leo XIV wrapped up his visit to Uruguay on Sunday by marking an important Catholic feast day that is tied to the country’s independence, capping his effort to draw attention to the role the church played in the founding of Latin America’s most secular country.\n\nLeo travelled to the city of Florida, north of Montevideo, before heading to Argentina for the second leg of his three-nation tour of South America.\n\nIt's expected to be the most politically delicate, given the Catholic Church's sharp criticisms of the austerity programme of libertarian President Javier Milei.\n\nFor his final event in Uruguay, Leo was commemorating the feast of the Virgin of the Thirty-three. Every year, thousands of pilgrims flock to Florida on the second Sunday of every November to pray before the small wooden icon of the Virgin Mary housed there.\n\nAccording to tradition, 33 independence patriots acquired the Guaraní statue and had it with them when independence was declared from the Brazilian empire in Florida on August 25, 1825.\n\nLeo became the first pope in nearly four decades to visit Uruguay, in hopes of reminding its people that the Catholic Church is part of their very identity as a nation – even if in subsequent decades the country went on a deeply secular, and at times anticlerical, route.\n\nThousands of people poured into Florida's main square on Sunday ahead of the Mass under brilliant blue skies, some walking for several kilometres to reach the site.\n\nLeo was hoping to leave a parting message before opening the second leg of his South American trip, which he went ahead with despite having undergone surgery on October 13 to remove a cancerous tumour from his lung.\n\nThe final stop is in Peru, his second homeland.\n\nLeo, 71, has appeared in fine form at his events, singing loudly, bounding up stairs and gamely greeting the crowds in his popemobile. He has not cut any events short, including those that have kept him out until past midnight Rome time.\n\n“This visit will also serve to reinforce the image of Leo as a leader, not merely in a spiritual sense, but in a much broader capacity as a political leader and a widely recognised figure who, far from shying away from conflict or tension, offers a powerful perspective and commands a highly respected voice,” said Luis Bahamondes, a professor at the Center for Judaic Studies at the University of Chile.\n\nIn Buenos Aires, Milei is due to greet Leo at the airport and then the two will appear together for the traditional welcome ceremony and exchange of speeches. The encounter could be tense, given the Catholic Church's criticism of Milei’s austerity measures that have slashed social spending, and his embrace of artificial intelligence.\n\nMilei has staked his presidency on cutting social spending to overhaul Argentina’s troubled economy and deliver a long-elusive budget surplus. He has called social justice “an aberration” that amounts to stealing, and mocked as “huge stupidity” the increasingly common complaint in Argentina that families squeezed by his austerity programme can’t make it to the end of the month.\n\nLeo, who took his name from the 19th-century pope whose encyclical on labour laid the foundation of Catholic social teaching, has made the poor and vulnerable a focus of his papacy, carrying on the legacy of his Argentine predecessor, Pope Francis.\n\nIn Argentina, Leo is completing unfinished business left by his predecessor. The Argentine Jesuit, the former archbishop of Buenos Aires, never returned home during his 12-year pontificate, confounding friends and foes alike. (AP)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T13:53:14.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877039-20261108.htm"
+    },
     {
       "id": "e34d70eb5e53d067",
       "title": "'France to represent Europe at Russia-Ukraine talks'",
@@ -731,17 +742,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876784-20261106.htm"
-    },
-    {
-      "id": "8598ddf5493f2002",
-      "title": "California governor to commute death sentences to life",
-      "excerpt": "California Governor Gavin Newsom said he was commuting all death sentences across the state to life imprisonment, in a move…",
-      "fullText": "California Governor Gavin Newsom said he was commuting all death sentences across the state to life imprisonment, in a move that will affect almost 550 prisoners.\n\nNewsom, who is widely expected to make a run for the White House in 2028, said capital punishment was \"incompatible\" with the values of the most populous state in the US.\n\n\"Today I am acting on my long and deeply held conviction that individually and collectively we are stronger as a society when we reject state-sanctioned killing,\" he wrote in a letter addressed \"to all Californians\".\n\nWith 548 people awaiting execution in California, the state has one of the largest death row populations in the world.\n\nHowever, it has not carried out a death sentence for two decades, even as courts continue to impose the penalty on those convicted of murder and other serious crimes.\n\n\"Many Californians feel that those who commit brutal crimes deserve to die. But as governor, I have concluded the state cannot morally kill them,\" he said, calling the decision \"among the most difficult of my career\".\n\n\"I do, however, pray that this action will finally separate the memories of the victims of these crimes from the fate of those who harmed them. We can now let these offenders die in obscurity while we forever remember and honour their victims.\"\n\nThe announcement comes with a renewed spotlight on the death penalty in the United States, one of the few wealthy countries to retain capital punishment.\n\nThree other US states – Alabama, Florida and Indiana – each carried out executions on the same day as Newsom's announcement.\n\nIn September, the state of Tennessee failed twice to kill convicted murderer Christa Pike with a lethal injection before rushing her to hospital.\n\nLast month Defence Secretary Pete Hegseth announced that the firing squad execution of a man who went on a shooting rampage at a US Army base would be livestreamed. (AFP)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T02:41:30.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876776-20261106.htm"
     },
     {
       "id": "b4bc3f0265ff47b8",
