@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T23:11:34.521Z",
-  "checkedAt": "2026-11-08T23:11:34.521Z",
+  "generatedAt": "2026-11-08T23:15:16.404Z",
+  "checkedAt": "2026-11-08T23:15:16.404Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 18
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 12
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "e522f1519454533e",
+      "title": "Trump 'unlikely' to order fresh Iran attacks",
+      "excerpt": "US President Donald Trump on Sunday cast doubt on renewed fighting with Iran, telling CNN that it was \"highly unlikely\"…",
+      "fullText": "US President Donald Trump on Sunday cast doubt on renewed fighting with Iran, telling CNN that it was \"highly unlikely\" so long as talks progressed.\n\nIn recent weeks, Trump has threatened to renew strikes with US media reports suggesting that hostilities could resume after the US midterm elections this week.\n\n\"The answer is highly unlikely it's going to be necessary... I would if necessary, but we hit them really hard. I hit them so hard. You don't know how hard I hit them,\" Trump said, while warning that any decision to resume hostilities \"depends on whether or not they sign a very strong agreement.\"\n\nTrump previously acknowledged that the highly unpopular war with Iran was at least partially responsible for the stinging defeat that his Republican Party suffered in last week's vote.\n\nIn the CNN interview on Sunday, Trump once again suggested that the economic pressure Iran is under will force its leaders into accepting a peace deal on the United States' terms.\n\n\"They're a failing nation. It just came out, you saw this year, 301 percent inflation,\" Trump claimed. \"They're withering away financially. We've hit them militarily. We could finish them off.\"\n\nBut earlier on Sunday, Iranian Foreign Minister Abbas Araghchi suggested peace talks had been paused while the political fallout of the Democratic Party's landslide victory was being assessed.\n\n\"For the past few days, there has been no more travel (by mediators), and the reason for this is the shock that the election results in the United States have caused to everyone,\" Araghchi told state television. \"We now have to see how long it will take for them to digest these results, in order to determine how we are going to move forward.\"\n\nIran continues to at least partly block traffic through the strategic Strait of Hormuz, which has dented oil supplies out of the Gulf. That, in turn, has driven up gasoline prices in the United States, contributing to the unpopularity of the war. (AFP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T23:08:46.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877062-20261109.htm"
+    },
     {
       "id": "88f1b5feca3f854e",
       "title": "Seven killed, scores injured in Egypt train collision",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261005/20261005_212939_604.html"
-    },
-    {
-      "id": "ac963e18ff7c59e6",
-      "title": "Students share Beijing learnings",
-      "excerpt": "The Education Bureau held the learning outcomes sharing session of the \"Salute to the National Flag\" Beijing Visit Delegation at…",
-      "fullText": "The Education Bureau held the learning outcomes sharing session of the \"Salute to the National Flag\" Beijing Visit Delegation at Kowloon Technical School today, promoting the outcomes of the activity among more young people and various sectors of the society.\n\nAbout 250 student representatives of the delegation from tertiary institutions, secondary and primary schools shared their learning experiences during the five-day visit to Beijing.\n\nSpeaking at the session, Chief Secretary Chan Kwok-ki described the delegation as a high-level \"walking classroom\", which enabled students to feel for themselves the national dignity represented by the national flag and the national anthem through the solemn flag-raising ceremony at Tiananmen Square.\n\nHe said that this deepened their understanding of the symbolic meaning of the national flag, and strengthened their sense of national identity and patriotism.\n\nMr Chan said that students experienced at first hand our country's journey from arduous struggle to the great rejuvenation of the Chinese nation from the country's millennia-old cultural heritage to the development achievements of the new era.\n\nHe added that the delegation was received in person by Member of the Standing Committee of the Political Bureau of the CPC Central Committee and Vice Premier of the State Council Ding Xuexiang, and by the Director of the Hong Kong and Macao Work Office of the Communist Party of China Central Committee and the Hong Kong and Macao Affairs Office of the State Council Xia Baolong at the Great Hall of the People.\n\n“Mr Ding conveyed the cordial remarks and exhortations of President Xi and the Central Government to the young people from Hong Kong and Macao, enabling students to feel the care and expectations of the Central Authorities for Hong Kong and Macao young people, and to understand more deeply the important meaning carried by the national flag,” Mr Chan said.\n\nHe emphasised that patriotic education has all along been a top priority of the work of the Hong Kong Special Administrative Region Government. Hong Kong's First Five-Year Plan and the 2026 Policy Address also list the promotion of patriotic education as a key task.\n\nHe noted that today's learning outcomes sharing session aims to pass on more widely and further what the students learned in Beijing, so that more young people may gain a deeper understanding of the important meaning of the national flag and feel more deeply our country's care and concern for young people.\n\nHe said the Government will continue to join hands with various sectors of the society and, through rich and diverse means, enable young people to build a firm sense of national identity, national confidence and a sense of responsibility through first-hand experience.\n\nToday's sharing session began with a flag-raising ceremony. A joint team formed by flag-raising teams of the Association of Hong Kong Flag-guards and the Hong Kong Army Cadets Association, drawing on the experience of exchanges and interaction in Beijing with the People's Liberation Army Ceremonial Escort Battalion, conducted a solemn flag-raising ceremony. Booths were also set up at the session for members of the delegation to introduce their learning experience in Beijing.\n\nAround 1,200 flag-raising team representatives, teachers, students and youth group representatives from Hong Kong and Macao joined the delegation’s thematic activity in Beijing from September 18 to 22.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746/images/20261002231750275.JPG",
-      "publishedAt": "2026-10-01T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746.html"
     }
   ]
 }
