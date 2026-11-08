@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T23:45:16.632Z",
-  "checkedAt": "2026-11-08T00:31:15.152Z",
+  "generatedAt": "2026-11-08T00:45:19.000Z",
+  "checkedAt": "2026-11-08T00:45:19.000Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "ed88aa52e6178d8b",
+      "title": "Substandard columns found at MTR site in Tung Chung",
+      "excerpt": "The Buildings Department on Saturday said it had found dozens of substandard columns at the MTR station that is currently…",
+      "fullText": "The Buildings Department on Saturday said it had found dozens of substandard columns at the MTR station that is currently under construction in Tung Chung West.\n\nAround 30 such columns were identified by the registered structural engineers (RSE) working on the project.\n\nThe department asked that the RSE submit an investigation report and propose remedial measures by the middle of this month.\n\nThe department will review these submissions, continue to monitor the situation closely, and oversee the necessary corrective works to ensure that all construction meets the relevant safety and quality standards.\n\nIn response to media questions, the department indicated that it had identified the issues during a routine site inspection and quality audit on the 27th of last month.\n\nUpon confirming that two concrete columns were substandard, the department said it immediately instructed the RSE team and the Registered Contractor to conduct a comprehensive investigation and carry out corrective works as soon as possible.\n\nThe MTR Corporation has since ordered a suspension of relevant construction activities.\n\nAs part of standard procedures, the RSE’s supervision team carried out further inspections following the progressive removal of the concrete work, uncovering similar defects in additional concrete columns; these findings were reported to the department last Tuesday.\n\nThe department further stated that, as the temporary supports for the floor slab had not yet been removed, the identified concrete defects posed no risk to the structural integrity of the station.\n\nThese temporary supports may only be removed once a team of registered structural engineers was satisfied with the relevant works.\n\nThe department said all such procedures were carried out in accordance with the approved plans while its staff had conducting routine inspections of the site.\n\nA preliminary review by the department revealed no evidence of intentional deviation from the approved plans, nor had it found any instances where the follow-up actions taken by the personnel in charge violated relevant codes or regulations.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T00:35:18.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876986-20261108.htm"
+    },
     {
       "id": "f1f57a50a511f84b",
       "title": "Right royal row looms over Najib pardon for 1MDB sham",
@@ -577,17 +588,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876787-20261106.htm"
-    },
-    {
-      "id": "8711450f9ed9fd4a",
-      "title": "'FundHK' crowdfunding website not associated with RTHK",
-      "excerpt": "Radio Television Hong Kong (RTHK) said on Friday it has no ties with a crowdfunding website operating under the name…",
-      "fullText": "Radio Television Hong Kong (RTHK) said on Friday it has no ties with a crowdfunding website operating under the name “FundHK” that used the acronym “RTHK” in its promotional materials and claimed that “RTHK” is one of its “media and institutional partners”.\n\n\"RTHK hereby clarifies that it has no affiliation, partnership, collaboration, authorisation, endorsement, or any other form of relationship whatsoever with FundHK or its operating entity,\" an RTHK statement said.\n\nThe broadcaster said any representation suggesting otherwise is unauthorised and does not reflect the position of RTHK.\n\nIt said members of the public who suspect fraud or become aware of any potentially unlawful activities are advised to report the matter to police immediately and seek appropriate assistance.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T03:53:24.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876800-20261106.htm"
     },
     {
       "id": "cb32ee7c7d691dd4",
