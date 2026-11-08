@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T01:00:29.943Z",
-  "checkedAt": "2026-11-08T01:15:21.888Z",
+  "generatedAt": "2026-11-08T01:30:20.416Z",
+  "checkedAt": "2026-11-08T01:30:20.416Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "45378002f52f13ee",
+      "title": "Springboks carry out demolition of Azzurri",
+      "excerpt": "South Africa picked up where they left off in the Nations Championship by dismantling injury-hit Italy 66-7 in Turin on…",
+      "fullText": "South Africa picked up where they left off in the Nations Championship by dismantling injury-hit Italy 66-7 in Turin on Saturday to claim a fourth consecutive bonus-point victory.\n\nA Springboks squad boasting more than 1,000 caps ran in nine tries at the Allianz Stadium.\n\nThe victory put the world champions alone on top of the Southern Hemisphere standings with a perfect 20 points and +140 points difference following big home wins against England, Scotland and Wales in July.\n\nSouth Africa face France in Paris next Friday before a trip to Ireland as they look to claim a place in the inaugural Nations Championship final at Twickenham at the end of the month.\n\nThe Azzurri will hope to bounce back in their final two home games.\n\nThey face Argentina in Genoa next Saturday before welcoming Fiji to Udine on November 21.\n\nIn Cardiff, Wales beat Japan 28-21 on Saturday to claim their second win of the inaugural Nations Championship.\n\nWales entertain New Zealand next weekend eyeing an unlikely first victory over the All Blacks since 1953.\n\nEddie Jones's Japan have just one win from four fixtures in the tournament.\n\nMeanwhile, in Edinburgh, Scotland captain Sione Tuipulotu was left lamenting his side's ill-discipline following a 43-21 defeat by New Zealand at Murrayfield.\n\nEwan Ashman became the first Scotland player to score a hat-trick of tries against New Zealand, the hooker's treble coming before half-time to give the hosts hope of a first win in this fixture.\n\nThe All Blacks only led 24-21 at the break but Scotland failed to score a point in a second half where Tuipulotu was sent to the sin-bin. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T01:14:10.000Z",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876989-20261108.htm"
+    },
     {
       "id": "dd13f1db2cedd877",
       "title": "Arsenal extend lead as Forest topple Man City",
@@ -1435,17 +1446,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876176-20261102.htm"
-    },
-    {
-      "id": "f5509a5d650070b9",
-      "title": "Antonelli becomes youngest F1 world champion",
-      "excerpt": "Kimi Antonelli drove the perfect race to finish third in his Mercedes at the Mexico Grand Prix and seal his…",
-      "fullText": "Kimi Antonelli drove the perfect race to finish third in his Mercedes at the Mexico Grand Prix and seal his place in Formula One history as the youngest world champion.\n\nMax Verstappen took the chequered flag, but all eyes were on the young Italian who takes the crown at the age of 20 years and 68 days, more than three years younger than Sebastian Vettel in 2010.\n\nHe is the first Italian to win the title since Alberto Ascari in 1953.\n\n\"We did it. I wouldn't be here without Mercedes, without my family,\" said an emotional Antonelli who has won nine races so far this season.\n\n\"I am very grateful for this moment, it will be with me forever. I am speechless, just trying to process what happened.\n\n\"It's been an incredible season and to share this podium with Max and Lewis (Hamilton) is incredible. I am looking forward to some more battles in the future.\"\n\nThe race broke into two parts as it was suspended after 46 of the 71 laps following a crash involving Cadillac's Valtteri Bottas.\n\nThe Finn's suspension on the front left side had collapsed causing his wheel to buckle and making him a helpless passenger as his car flew backwards off the track and slammed into the barriers.\n\nThe 37-year-old Bottas was slow to emerge from his car but waved to the crowd as he walked away, with all the other cars returning to the pits to await a restart.\n\nAntonelli, who needed just to finish in the top nine to seal the title, was running third in his Mercedes when the race was stopped behind Red Bull's Verstappen and the Ferrari of Charles Leclerc.\n\nHis nearest challenger teammate George Russell was out of the running after suffering a poor start dropping from second on the grid to fifth and struggling with his power.\n\nRussell had to win to have any hope of prolonging the title race.\n\nLewis Hamilton, who started on pole and also needed to win to push Antonelli, was furious with his Ferrari teammate after an incident at the start that saw Leclerc leave the track and steal the lead.\n\nThe Monegasque was handed a five-second penalty, but he retained track superiority over Hamilton.\n\nThat changed on the restart when Hamilton powered past Antonelli and Leclerc and bumped wheels with Verstappen before settling into second.\n\nThere was a further yellow flag when the Racing Bull of Arvid Lindblad also crashed out 10 laps from the end after tangling with the McLaren of Oscar Piastri.\n\nAntonelli sat tight in third as Hamilton continued to press Verstappen.\n\nIt was entirely appropriate that the young Italian, in tears as he crossed the line, was led in by two of the all-time great drivers with 11 championships between them. (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-01T23:10:54.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876174-20261102.htm"
     },
     {
       "id": "f824b6e663078f8a",
