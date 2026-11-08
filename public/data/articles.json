@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T15:05:44.605Z",
-  "checkedAt": "2026-11-08T23:00:35.394Z",
+  "generatedAt": "2026-11-08T23:11:34.521Z",
+  "checkedAt": "2026-11-08T23:11:34.521Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "88f1b5feca3f854e",
+      "title": "Seven killed, scores injured in Egypt train collision",
+      "excerpt": "Two trains collided on Sunday south of the Egyptian capital Cairo, killing seven people and injuring at least 125, authorities…",
+      "fullText": "Two trains collided on Sunday south of the Egyptian capital Cairo, killing seven people and injuring at least 125, authorities said. The train’s conductor was among those killed.\n\nThe Health Ministry gave the casualty toll, saying in a statement that over 70 of the injured were discharged after receiving treatment.\n\nThe crash happened in al-Ayyat district in Giza province, about 52 kilometres south of Cairo, when a train travelling to southwestern Fayoum province crashed into the rear of a train heading to the southern province of Aswan, according to the Transportation Ministry.\n\nThe Chief Prosecutor's office said late on Sunday that its investigators had arrived at the site. An inspection indicated that the crash took place when the Giza-Fayyoum train collided with the last car of the Cairo-Aswan train, which was stationary on the same track and travelling in the same direction, officials said.\n\nTrain derailments and crashes are common in Egypt, where the railway system has a history of mismanagement and poor maintenance of equipment. In recent years, the government has announced modernisation initiatives.\n\nAyman Gamal, a resident of Kafr Girza in al-Ayyat where the crash happened, said people living nearby rushed to the scene, pulled out survivors and called ambulances.\n\nGamal said that he saw around 80 of the injured being taken by ambulances to nearby hospitals. Some passengers were trapped inside one of the cars of the stationary train and were dead when they were pulled out, he said.\n\nOutside al-Wasta Central Hospital in Beni Suef province, where some of the injured were taken for treatment, survivors said passengers were in shock and struggling to breathe because of all the dust that was kicked up. Nearby villagers eventually got them out, they said.\n\nFarha Gamal, a survivor who was inside the Fayyoum train, said she saw some of the passengers who appeared dead and others were struggling to find their way out of the car.\n\n“There were other cars that were completely mangled,\" she said in an interview.\n\nPresident Abdel Fattah al-Sisi said he was following the accident \"with great concern\", and had directed authorities to conduct an urgent investigation to \"hold accountable anyone found to have been negligent\".\n\nEmergency teams and cranes were dispatched to the scene to clear the wreckage and restore train services to their normal schedule as soon as possible, the Egyptian Railway Authority said.\n\nLast September, a train driver and his assistant were injured after two freight trains collided in the same district.\n\nEgypt’s deadliest train crash was in 2002, when more than 300 people were killed after a fire broke out on an overnight train journeying from Cairo to southern Egypt. (AP/AFP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T23:00:16.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877059-20261109.htm"
+    },
     {
       "id": "67bf76c85b42e080",
       "title": "'No signs US strikes trigger Iran blasts'",
@@ -698,17 +709,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876820-20261106.htm"
-    },
-    {
-      "id": "ca345a46a3299d72",
-      "title": "US judge blocks work from starting on Trump arch",
-      "excerpt": "A US judge has temporarily blocked construction from starting on President Donald Trump's proposed 76-metre triumphal arch in Washington, shortly…",
-      "fullText": "A US judge has temporarily blocked construction from starting on President Donald Trump's proposed 76-metre triumphal arch in Washington, shortly after it won a key approval.\n\nDistrict Judge Tanya Chutkan issued a 14-day restraining order late on Thursday following the National Capital Planning Commission voting by an eight-to-four margin to approve the project after it heard from about 100 opponents, including Democratic lawmakers.\n\nThe Trump administration contends Congress approved the arch more than 100 years ago when it also authorised construction of a bridge across the Potomac River.\n\n\"The sheer improbability that a 100-year-old statute would contain authority, unknown to every previous administration, to erect a 250-foot arch at a principal location in the nation’s capital indicates how far [the government] must stretch to justify this project,\" Chutkan wrote.\n\nShe said approval would result in construction for about three years \"that will disrupt traffic, create noise, result in large-scale excavation, and more.\"\n\nThe Justice Department had said earlier that if the project had been approved it expected an initial six to eight months of construction focused on excavation and foundation work could begin as soon as Thursday. Above-ground construction would start in May 2027 at the earliest, with the job expected to take 33 to 39 months total.\n\n\"It will snarl traffic for years, impact the nearby airport, and present even more serious threats to public safety that this commission has refused to acknowledge and grapple with,\" said Representative Don Beyer, a Democrat who represents northern Virginia.\n\nThe National Park Service also said late on Thursday it had approved the project.\n\nThe arch is among several costly projects Trump is pushing in Washington despite opposition from local officials and conservationists. They include rebuilding the Reflecting Pool at the Lincoln Memorial, constructing a massive White House ballroom and overhauling the Kennedy Center for the Performing Arts.\n\nThe arch has faced significant opposition in the courts. The state of Virginia and the District of Columbia sued the National Park Service and the Department of the Interior on Saturday, seeking to halt the start of construction, calling it \"legally indefensible\" and arguing that Congress has not approved it.\n\nThe arch would resemble the Arc de Triomphe in Paris but stand more than 24 metres taller. It would also be nearly as tall as the US Capitol, which at 87 metres, can be seen across much of Washington. The site is near airplanes' final approach to Ronald Reagan Washington National Airport.\n\nA rendering showed the flame would be held by a 18-metre-tall gold, winged female figure positioned atop the arch and flanked by gold flying eagles. (Reuters)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T07:10:16.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876814-20261106.htm"
     },
     {
       "id": "c8e79eb6e902e512",
