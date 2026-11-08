@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T03:00:28.702Z",
-  "checkedAt": "2026-11-08T04:00:26.853Z",
+  "generatedAt": "2026-11-08T04:15:17.010Z",
+  "checkedAt": "2026-11-08T04:15:17.010Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "d618a6c4695d07df",
+      "title": "DOJ eyes closer ties with legal sector for global push",
+      "excerpt": "Secretary for Justice Paul Lam on Sunday said the government hoped to work closely with the legal sector to help…",
+      "fullText": "Secretary for Justice Paul Lam on Sunday said the government hoped to work closely with the legal sector to help practitioners better navigate the changing international environment and strengthen external exchanges.\n\nSpeaking on a Commercial Radio programme, Lam stressed that collaboration was a central theme of this year’s Legal Week, which concluded on Friday, demonstrating the government's drive to take the initiative.\n\n\"The Department of Justice often plays a leading role. We hope that more of our local friends from the legal sector will participate, understand the latest environment, and make new connections — whether from the mainland or overseas. Internally, we must collaborate, but more importantly, we need to collaborate with partners outside Hong Kong,\" he said.\n\nFor Hong Kong to truly live up to its reputation as an international legal centre, the justice secretary stressed the SAR needs to strengthen relationships with external legal institutions and engage in more direct communication.\n\nDescribing it as “symbolic”, Lam noted that the International Institute for the Unification of Private Law held its centenary celebration in Hong Kong during Legal Week while concurrently hosting the opening ceremony for its Asia-Pacific Liaison Office.\n\nHe stressed that Hong Kong secured the institution's first office outside its seat in Rome in its 100-year history with the country's support.\n\nHe added that Hong Kong played an important role in helping the country promote a fairer, and rules-based international order.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T03:57:05.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876994-20261108.htm"
+    },
     {
       "id": "d34fddc7bf20be59",
       "title": "Impeached Paraguay leader charged over bank implosion",
@@ -643,17 +654,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876792-20261106.htm"
-    },
-    {
-      "id": "7eb1a31839b05960",
-      "title": "Privacy chief backs tighter land-search rules",
-      "excerpt": "Privacy commissioner Ada Chung expressed support on Friday for government moves to tighten land record search arrangements, while raising concerns…",
-      "fullText": "Privacy commissioner Ada Chung expressed support on Friday for government moves to tighten land record search arrangements, while raising concerns that misuse of land registry data may be getting worse.\n\nHer comments come as the government tabled eight pieces of subsidiary legislation in the Legislative Council for the changes.\n\nUnder the new arrangements, land searches must meet one of nine specified purposes.\n\nSpeaking on RTHK, Chung said the purposes – which could be part of property deals and valuations – had to be concrete and clear so searchers would stick to declarations of their intended use of the data and not stray into potentially misusing it.\n\nShe said her office had received 20 complaints in five years about alleged misuse of land registry data, which included instances where owners were doxxed on social media, and the sending of promotional mail.\n\nSix complaints came this year alone, Chung pointed out.\n\n\"We've seen cases where land registry data was used for ... other purposes such as cyberbullying and doxxing. Not a single case of that kind should happen, and we've already had six this year, so the trend is worsening,\" she said.\n\nChung said the new rules on land searches make the system clearer, better protect owners' privacy, and help people to avoid breaking the law.\n\nShe noted that the Personal Data (Privacy) Ordinance's exemption for journalistic activities also requires a public-interest basis, matching the purpose of the new arrangements.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T04:01:17.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876787-20261106.htm"
     },
     {
       "id": "cb32ee7c7d691dd4",
