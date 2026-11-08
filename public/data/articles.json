@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T01:45:17.475Z",
-  "checkedAt": "2026-11-08T01:45:17.475Z",
+  "generatedAt": "2026-11-08T02:00:32.665Z",
+  "checkedAt": "2026-11-08T02:00:32.665Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "cf46b6a7140fda16",
+      "title": "Trump accuses Democrats of 'extortion'",
+      "excerpt": "US President Donald Trump said on Saturday that Democrat threats to use their incoming majority in Congress to impeach members…",
+      "fullText": "US President Donald Trump said on Saturday that Democrat threats to use their incoming majority in Congress to impeach members of his administration amounted to \"extortion.\"\n\nTrump faces a radically transformed and hostile political landscape after Democrats seized both the House of Representatives and the Senate in Tuesday's midterms.\n\nDemocrats have vowed investigations into Trump and senior members of his administration, including Attorney General Todd Blanche and Secretary of Defence Pete Hegseth.\n\n\"The Democrats are going around threatening a lot of people,\" Trump said in a post on his Truth Social platform.\n\n\"This is extortion at the highest level, and they should be held accountable,\" he said, arguing that there had been \"no impeachable acts committed.\"\n\nWith control of committees in both chambers, Democrats can summon officials, demand documents and hold public hearings, potentially putting Trump and his senior aides under intense scrutiny.\n\nLikely subjects include the Trump family's business and cryptocurrency dealings, government contracts involving billionaire Elon Musk, cuts to federal agencies, immigration enforcement and the conduct of the Iran war.\n\nDemocrats have also signalled interest in the handling of files relating to notorious sex offender Jeffrey Epstein.\n\nThe administration could resist demands for testimony or documents, triggering court battles.\n\nDemocrats could pursue Trump's third impeachment, though party leaders have not committed to doing so.\n\nThe House needs only a simple majority to impeach, but removing a president requires a two-thirds vote in the Senate — far beyond the party's numbers. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T01:40:49.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1876992-20261108.htm"
+    },
     {
       "id": "ce14dabe8ce16a34",
       "title": "Israel president taps Eisenkot to form new government",
@@ -841,17 +852,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876725-20261105.htm"
-    },
-    {
-      "id": "e866d4d863137c8d",
-      "title": "Flights in Europe hit by more hoax threats",
-      "excerpt": "Multiple flights in Europe were targeted by bomb threats on Thursday, forcing emergency landings, searches and military escorts to airports…",
-      "fullText": "Multiple flights in Europe were targeted by bomb threats on Thursday, forcing emergency landings, searches and military escorts to airports in France, Italy and Bulgaria.\n\nA British official called them “malicious hoaxes\" that followed another rash of hoax threats earlier this week.\n\nMore than a dozen flights from cities including Copenhagen, Dublin, Helsinki, Madrid, Milan and Warsaw were confirmed to have been targeted with bomb threats, most diverted to other airports for emergency landings while others landed safely at their destinations.\n\nSo far inspections have not turned up hazardous or suspicious materials.\n\nBritain’s Transport Secretary Heidi Alexander told British broadcasters that flights across Europe have been hit by “malicious hoax threats”.\n\nThe European Union’s Transport Commissioner Apostolos Tzitzikostas said that “any threats against civilians are unacceptable,” and that the EU’s executive branch was in contact with affected member countries.\n\n“It is too early to draw conclusions on whether the reported incidents are linked,” Tzitzikostas told reporters in Dublin. “National investigations remain ongoing.”\n\nHe said that an EU level information-sharing mechanism on aviation security had been activated, and that “we don’t have information yet whether this is a cyberattack”.\n\nSuch threats are not new, but the latest incidents come at a time of increased geopolitical tensions and other disruptions, including attacks on supermarket refrigeration systems, drone incursions in Europe and mysterious triggers to alert apps. Authorities have warned that hybrid threats abound. (AP)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T13:43:38.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876717-20261105.htm"
     },
     {
       "id": "80bac2dc529dc24d",
