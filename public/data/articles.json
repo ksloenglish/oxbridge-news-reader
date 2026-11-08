@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T23:30:21.126Z",
-  "checkedAt": "2026-11-08T23:45:15.200Z",
+  "generatedAt": "2026-11-08T23:57:54.382Z",
+  "checkedAt": "2026-11-08T23:57:54.382Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "6b758059c3611d82",
+      "title": "Democrats eye Musk, Miller probes after midterm rout",
+      "excerpt": "Tech megabillionaire Elon Musk and President Donald Trump's newly appointed White House chief of staff, Stephen Miller, and some large…",
+      "fullText": "Tech megabillionaire Elon Musk and President Donald Trump's newly appointed White House chief of staff, Stephen Miller, and some large companies will likely be targets of congressional probes when Democrats take control of Congress in January, senior lawmakers said on Sunday.\n\nIn television appearances, US Representative Robert Garcia of California and US Senator Elizabeth Warren of Massachusetts, set to lead the House Oversight and Senate Banking committees, vowed aggressive oversight after their party's sweeping midterm election victory.\n\nMeanwhile, House Democratic leader Hakeem Jeffries indicated he and his fellow Democrats would back an impeachment of Defence Secretary Pete Hegseth.\n\nGarcia, who is the ranking Democrat on the House Oversight Committee, said investigations will focus on Musk's involvement in the Department of Government Efficiency's firing of federal workers last year, and Miller's role in Trump's hardline immigration crackdown.\n\n\"I think there's a lot of interest, not just from our committee, but from committees across the Congress to speak to Mr Musk,\" Garcia told CNN's \"State of the Union.\"\n\nWarren said some companies should be ready for congressional investigations. She did not name any of the companies.\n\n\"If you've been making your profits by cheating American families and scamming your investors, you'd better get ready for some investigations, serious ones,\" Warren told CBS's \"Face the Nation\" program.\n\nMiller – whom Garcia called the architect of a \"horrific, unjust\" immigration policy – has been promoted to White House chief of staff.\n\n\"Stephen Miller is at the centre of the major policy decisions that are happening in the administration, and so it does deserve oversight and investigation,\" Garcia told CNN.\n\nVoters delivered a historic rebuke to Republicans in last week’s midterm election, but with Miller as White House chief of staff, the Trump administration is expected to continue its aggressive approach to immigration enforcement, amplify cultural conflicts and give no ground to a Democratic-controlled Congress, say officials and experts who spoke to Reuters.\n\nThe crackdown on immigration, which included operations in which two people were fatally shot in Minnesota by federal agents, has proven widely unpopular. A Reuters/Ipsos poll in October found that only 37 percent approved of Trump's handling of immigration, down from 50 percent when he took office.\n\nJeffries, who will become speaker of the US House in January, said on Sunday that Democrats would support a measure to impeach Hegseth, a congressional process that could remove him from office.\n\nRepresentative Thomas Massie, a Kentucky Republican and Trump critic who leaves Congress in January after a Trump-backed primary defeat this year, has said he will reintroduce articles of impeachment against Hegseth soon. Jeffries said he is a \"hard yes\" on backing that measure.\n\n\"Pete Hegseth has got to go,\" Jeffries told ABC's \"This Week,\" citing the defence secretary's oversight of the unpopular Iran war launched by Trump in February, which has led to a spike in gas prices.\n\n\"I believe there will be incredibly strong support for that resolution,\" Jeffries added.\n\nAttorney General Todd Blanche signalled on Sunday that the Trump administration was prepared to battle the Democrats in Congress, calling threats by some Democrats to target administration officials and allies \"not something we can tolerate in this country.\"\n\n\"If that's what this new incoming leadership wants to do, we are ready,\" said Blanche, a former personal lawyer for Trump. \"If you work in this administration, you have a lawyer. It's me.\" (Reuters)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T23:48:48.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877064-20261109.htm"
+    },
     {
       "id": "95b02bba10ba5688",
       "title": "Lopez double fires Barcelona to top of La Liga",
@@ -698,17 +709,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
-    },
-    {
-      "id": "45c935f0ddec6041",
-      "title": "Fourth arrest as Prabowo wiretapping tensions mount",
-      "excerpt": "Indonesian police have named a fourth senior officer as a suspect in the alleged wiretapping of President Prabowo Subianto, as…",
-      "fullText": "Indonesian police have named a fourth senior officer as a suspect in the alleged wiretapping of President Prabowo Subianto, as authorities continue to investigate the motives behind a scandal that has exposed a deepening rift between the president and his predecessor, Joko Widodo.\n\nThe case has piled more pressure on Prabowo, with public discontent growing over his costly populist policies and weakening investor confidence in Indonesia's US$1.5 trillion economy.\n\nPolice named a senior law enforcement official with the initials SU as the new suspect late on Thursday and said he served as monitoring chief at Indonesia's Criminal Investigation Agency between 2010 and 2019. Local media later identified him as Slamet Uliandi.\n\nInvestigators alleged that SU, who was the head of the investigation agency's information and technology unit from 2021 to 2026, gave the go-ahead for the wiretapping, said cyber crime unit director Suhermanto at the press conference.\n\n\"When the other two suspects were about to wiretap, they got approval from SU. They also asked his approval before deleting interception records,\" Suhermanto said, adding that SU had not yet been detained due to a health condition.\n\nThree senior police officers had already been arrested on Tuesday, including the former national police chief and Prabowo's chief of staff, Listyo Sigit Prabowo, who is widely known as a Widodo loyalist.\n\nPolice are still investigating the motives behind the attempts to intercept Prabowo's communications, and have so far questioned 13 police officers and five criminal and IT experts.\n\nThe national police chief has also formed a special team to investigate the case.\n\nJakarta remained calm on Thursday and Friday despite the deployment of thousands of troops in the wake of the wiretapping revelations. Military tents and buses were seen in the capital, as well as a small number of soldiers.\n\nLawmakers are also considering a probe into the eligibility of Vice President Gibran Rakabuming Raka, Widoko's son, in what could be the first step towards removing him from office. (Reuters)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T09:29:02.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876804-20261106.htm"
     },
     {
       "id": "56294b5f4c2045be",
