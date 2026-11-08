@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T13:30:21.305Z",
-  "checkedAt": "2026-11-08T13:30:21.305Z",
+  "generatedAt": "2026-11-08T13:45:17.407Z",
+  "checkedAt": "2026-11-08T13:45:17.407Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "e34d70eb5e53d067",
+      "title": "'France to represent Europe at Russia-Ukraine talks'",
+      "excerpt": "Europe will be represented at upcoming US-mediated talks with Moscow and Kyiv in Abu Dhabi aimed at ending the Ukraine…",
+      "fullText": "Europe will be represented at upcoming US-mediated talks with Moscow and Kyiv in Abu Dhabi aimed at ending the Ukraine war, France said on Sunday.\n\n\"The Europeans will be represented and France will be in Abu Dhabi to participate in these talks,\" French Foreign Minister Jean-Noel Barrot told RTL radio.\n\nHis comment came after President Donald Trump stoked fears of a US pivot towards the Kremlin by predicting a \"very big\" deal with Russia involving not only the Ukraine war but \"all of Europe\".\n\nUp to now, the talks scheduled for Tuesday and Wednesday had been framed as a trilateral format at the level of officials, not leaders, from Ukraine, Russia and the United States.\n\nThe identities of who would take part have not been made public.\n\nAlthough Ukrainian President Volodymyr Zelensky has made it clear that he wants involvement from European allies in the process, Russia has suggested there would be no place for European representatives at the table.\n\nBarrot said that, in the past, \"there have been discussions, sometimes without the Europeans and sometimes with\" but \"this time they will participate\".\n\nHe said: \"France will be there and will ensure that Europe's voice is heard.\"\n\nOn Thursday, US, European, Ukrainian and Nato officials met in Brussels ahead of the Abu Dhabi talks.\n\nA Nato spokeswoman said they \"sought to advance a just and sustainable end to the war in Ukraine\".\n\nJared Kushner, the US president's envoy and son-in-law, participated in the Brussels meeting by videolink. He said the United States was working on \"a broader European security architecture that can help establish the conditions for lasting peace\".\n\nThe American approach is being treated warily by European allies, which have long rejected Moscow's desire to rewrite the European security architecture.\n\nBefore launching the war in Ukraine in 2022, the Kremlin delivered an ultimatum to Nato which included a demand that the alliance's troops be withdrawn from eastern Europe.\n\nThat was rejected by the Western military alliance.\n\nKushner on Thursday said that Washington will \"consult closely with our European partners on the sidelines\" of the Abu Dhabi talks and \"if progress is made, aim to move toward a broader multilateral format with their direct participation\". (AFP)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-08T13:27:44.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877037-20261108.htm"
+    },
     {
       "id": "0fea7918b95cdfab",
       "title": "Evening News on TV32 - Nov 8",
@@ -764,17 +775,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876749-20261106.htm"
-    },
-    {
-      "id": "7f4854dd56bc1ea0",
-      "title": "Israeli fire kills five in Gaza, including a child",
-      "excerpt": "Israeli strikes and gunfire on Thursday killed five people across Gaza, including a woman and a 12-year-old boy, rescue services…",
-      "fullText": "Israeli strikes and gunfire on Thursday killed five people across Gaza, including a woman and a 12-year-old boy, rescue services in the war-ravaged Palestinian territory said.\n\nIsrael and Hamas regularly accuse each other of violating the ceasefire that came into effect in October 2025, after two years of war triggered by the Palestinian Islamist movement's unprecedented attack on Israel on October 7, 2023.\n\nMahmoud Bassal, spokesman for Gaza's civil defence agency, said a 12-year-old boy was killed by Israeli gunfire east of the Al-Bureij refugee camp in central Gaza.\n\nA few kilometres away, near the town of Al-Zawayda, two people were killed in separate Israeli strikes, he added.\n\nThe nearby Al-Aqsa Martyrs Hospital confirmed that all three were dead on arrival.\n\nIn southern Gaza, a woman was killed by Israeli gunfire near the city of Khan Younis, Bassal said. Nasser Hospital in Khan Yunis confirmed her death.\n\nLater in the day, \"one person was killed and several others injured in an Israeli drone strike... west of Gaza City,\" Bassal said.\n\nThe Israeli military claimed it had struck \"terrorists\" in the Al-Zawayda area and west of Gaza City and was \"looking into\" reports concerning the Palestinian woman killed in Khan Younis.\n\nIsraeli forces have killed more than 1,600 people since the announcement of the ceasefire a year ago, according to Gaza's health ministry, which operates under Hamas authority and whose figures are considered reliable by the UN.\n\nThe Israeli army has identified seven deaths in its ranks over the same period, as well as the death of one civilian contractor. (AFP)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T00:42:41.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876738-20261106.htm"
     },
     {
       "id": "c9ca56172ba666e6",
