@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T14:45:18.046Z",
-  "checkedAt": "2026-11-09T15:15:18.035Z",
+  "generatedAt": "2026-11-09T15:30:23.935Z",
+  "checkedAt": "2026-11-09T15:30:23.935Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -456,6 +456,17 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877059-20261109.htm"
+    },
+    {
+      "id": "319925547ff14f71",
+      "title": "Fake recycling scheme alert issued",
+      "excerpt": "The Environmental Protection Department (EPD) today urged the public to stay alert against a fraudulent \"Renewable Resource Recovery Incentive Scheme\"…",
+      "fullText": "The Environmental Protection Department (EPD) today urged the public to stay alert against a fraudulent \"Renewable Resource Recovery Incentive Scheme\" which falsely claims to offer subsidies for recycling.\n\nThe department noted it has recently received public enquiries regarding a recycling subsidy scheme purportedly launched in partnership with a commercial enterprise. It advised citizens not to believe the circulating publicity poster or any related information.\n\nThe EPD clarified that it has never jointly launched any project named the \"Renewable Resource Recovery Incentive Scheme\" with any organisations. It has also never authorised any individual or entity to use its name or logo for such publicity.\n\nUpon review, the department confirmed that both the EPD and enterprise logos featured on the poster are fake. The EPD has reported the incident to Police.\n\nThe department reminded members of the public not to trust posters, links or messaging apps from unknown sources, and to avoid participating in suspicious recycling subsidy activities. Citizens should also refrain from disclosing personal data or financial information to unverified parties.\n\nAnyone who has provided personal information or conducted transactions in connection with the fraudulent scheme should contact Police as soon as possible.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261109/20261109_213632_000/images/20261109223046150.jpg",
+      "publishedAt": "2026-11-08T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261109/20261109_213632_000.html"
     },
     {
       "id": "742d3fa5171406d6",
@@ -1270,17 +1281,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_211010_158.html"
-    },
-    {
-      "id": "54fb4ca5159e7986",
-      "title": "CE attends import expo in Shanghai",
-      "excerpt": "The ninth China International Import Expo is being held from today until November 10 at the National Exhibition & Convention…",
-      "fullText": "The ninth China International Import Expo is being held from today until November 10 at the National Exhibition & Convention Center in Shanghai, with Chief Executive John Lee attending the expo today.\n\nA record high of over 400 Hong Kong enterprises are participating in this year's expo.\n\nIn the morning, Mr Lee attended the opening ceremony of the expo and the Hongqiao Forum. Later, he accompanied Vice Premier Ding Xuexiang in touring the Hong Kong exhibition area of the China Pavilion.\n\nUnder the theme “Connectivity & Enterprise”, the Hong Kong exhibition area showcases Hong Kong’s commitment to capitalising on its role as a bridge linking China and the world, and its multiple top rankings in global indexes.\n\nMr Lee attended the “Hong Kong Parallel Session” of the Hongqiao Forum in the afternoon. The session was jointly organised by the Hong Kong SAR Government and the Ministry of Commerce.\n\nMr Lee and Minister of Commerce Wang Wentao both delivered remarks at the session, while Vice Minister of Commerce Yan Dong also attended. Under the theme “Aligning with the National 15th Five-Year Plan, Serving the National Development, & Seizing New Opportunities for Hong Kong”, the session attracted around 400 participants.\n\nMr Lee remarked that this was the first large-scale briefing session held at an international forum since the Hong Kong SAR Government announced Hong Kong's First Five-Year Plan, which laid out the city's unique advantages of being strongly supported by its motherland and closely connected to the world under the “one country, two systems” principle.\n\nHe said Hong Kong will continue to play its role as a “super connector” and “super value-adder”, advance its development of “four centres and one hub”, and contribute its strengths towards building a great country.\n\nAfter the session, Mr Lee toured the Enterprise & Business Exhibition and showed support for Hong Kong enterprises at the Hong Kong Food Pavilion and Hong Kong Services Pavilion, both set up by the Trade Development Council.\n\nTogether, the two pavilions are hosting 71 Hong Kong enterprises, with over 60% of these exhibiting for the first time this year, showcasing quality Hong Kong products and services across sectors such as food, finance, professional services, logistics and transportation, and innovation and technology (I&T).\n\nInvest Hong Kong and the Tourism Board are also using the expo to promote Hong Kong’s advantages and its latest tourism offerings.\n\nIn the evening, Mr Lee hosted a networking dinner, where he exchanged views with political and business leaders from Hong Kong and the Mainland. He promoted Hong Kong's professional services and I&T sectors, and encouraged Mainland enterprises to make use of the city as a platform to “go global”.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_184938_619/images/20261105194321993.jpg",
-      "publishedAt": "2026-11-04T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_184938_619.html"
     },
     {
       "id": "7c859999599235dd",
