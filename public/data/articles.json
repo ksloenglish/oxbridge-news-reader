@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T10:30:23.243Z",
-  "checkedAt": "2026-11-09T10:45:17.153Z",
+  "generatedAt": "2026-11-09T11:00:34.688Z",
+  "checkedAt": "2026-11-09T11:00:34.688Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "f7ee9b41a75e6cdd",
+      "title": "TDC expects over 3k participants at annual IP forum",
+      "excerpt": "More than 3,000 participants are expected to join an annual forum held by the Trade Development Council to exchange ideas…",
+      "fullText": "More than 3,000 participants are expected to join an annual forum held by the Trade Development Council to exchange ideas on intellectual property (IP) development and hunt for business opportunities.\n\nThe Business of IP Asia Forum will be staged at the Convention and Exhibition Centre in Wan Chai on November 19 and 20.\n\nThemed “Powering Commercial Success Through IP and Innovation”, the council’s associate executive director Silas Chu said nearly 100 speakers will discuss how IP and innovation can be used to build competitive advantages and draw capital investments, among others.\n\nHe said that for the first time, the forum will include a new chapter centred on IP commercialisation that aims to better help enterprises manage their IP.\n\n“Previously in the BIP Asia forum, we may be focusing more on creative IP,” Chu said.\n\n“But as Hong Kong moves towards the goal of becoming an international I&T centre, we are increasingly seeing a lot of interesting development, especially in the area of AI, in the area of life science and all those deep tech. There will be surging demand as a result.”\n\nA startup from the Education University, which is pioneering their AI-enabled storytelling robot to help with students’ learning, is joining the forum.\n\nIts director Hades Ho said he hopes to talk to potential clients and experts on how to expand the use of their project.\n\n“Now our robot is mainly focused on the education aspect. But to be honest, this robot can [be] used in other aspects, for example, we have some further research on elderly, how to use this robot on elderly,” he said.\n\nThe Entrepreneur Day that features more than 370 startups and innovation projects across 14 countries and regions, will be held alongside the two-day forum, allowing companies that have just kick-started their operations to conduct business matching and to help them expand.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T10:43:51.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877148-20261109.htm"
+    },
     {
       "id": "514e8559e07248d0",
       "title": "40 stranded in mid-air as Ocean Park Tower ride stalls",
@@ -687,17 +698,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876934-20261107.htm"
-    },
-    {
-      "id": "4c4038861eab3d48",
-      "title": "Lawmakers call for cancel culture to hit bid-riggers",
-      "excerpt": "Lawmakers on Saturday voiced hope that a newly established joint task force can change the culture of the building maintenance…",
-      "fullText": "Lawmakers on Saturday voiced hope that a newly established joint task force can change the culture of the building maintenance and renovation industry by actively weeding out bad apples.\n\nThey were speaking following an announcement on Friday that 28 people had been arrested in an operation against a suspected triad-linked bid-rigging syndicate in the sector.\n\nIt was the first operation by a joint task force – made up of police, the ICAC and the Competition Commission – that was set up following the release of the report by an independent committee probing last November's deadly fire at Wang Fuk Court in Tai Po.\n\nSpeaking on a radio programme, DAB lawmaker Chan Hok-fung said the new joint task force should not be targeting bid-rigging on a case-by-case basis.\n\n“I think it’s only at the source that the problem can truly be solved,” he said.\n\n“If the government doesn’t get involved, doesn’t intervene heavily and doesn’t reverse this distorted way the market operates, the problem can’t be solved.\"\n\nLam Chun-sing, who chairs the Federation of Hong Kong and Kowloon Labour Unions, called for firms convicted of bribery or competition offences to be struck off contractors' lists.\n\n“What some contractors fear most isn’t a fine – it’s not being allowed to take on work in the future,” he said.\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-11-07T08:23:30.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876946-20261107.htm"
     },
     {
       "id": "34630b23363a4101",
