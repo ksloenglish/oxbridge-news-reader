@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T03:45:16.285Z",
-  "checkedAt": "2026-11-09T04:15:16.119Z",
+  "generatedAt": "2026-11-09T04:30:23.577Z",
+  "checkedAt": "2026-11-09T04:30:23.577Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "80b783d2c97a9aa1",
+      "title": "Death toll mounts to 14 in Shanxi fire",
+      "excerpt": "The death toll from a fire at a building in Taiyuan, capital of northern Shanxi province, has risen to 14…",
+      "fullText": "The death toll from a fire at a building in Taiyuan, capital of northern Shanxi province, has risen to 14, local authorities said on Monday.\n\nThe fire broke out at the building in the city's Yingze District at 4.59pm on Sunday, with the fire department saying the building is on Liuxiang South Road.\n\nThe death toll update followed an earlier report that 38 people had been sent to hospitals, with five of them being declared dead. (Xinhua)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T04:07:17.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877104-20261109.htm"
+    },
     {
       "id": "e6e2a678438b3ebe",
       "title": "Chinese inflation spikes at plants and cools in shops",
@@ -690,7 +701,7 @@
     },
     {
       "id": "4ec0491a54bf0aaf",
-      "title": "HK rebutes 10-nation statement",
+      "title": "HK rebuts 10-nation statement",
       "excerpt": "The Hong Kong Special Administrative Region Government today expressed strong dissatisfaction with and firm opposition to a so-called joint statement…",
       "fullText": "The Hong Kong Special Administrative Region Government today expressed strong dissatisfaction with and firm opposition to a so-called joint statement issued by ten countries, namely the United States, the United Kingdom, France, Germany, Japan, Italy, Australia, Canada, the Netherlands, and New Zealand in relation to the sentencing in the “conspiracy to commit collusion” case of Wong Chi-fung, which deliberately distorted facts and smeared the Hong Kong SAR.\n\nThe Government pointed out that the statement disregards facts, blatantly interferes with its judicial power and power of independent adjudication exercised in accordance with the law, and maliciously smears the Law of the People’s Republic of China on Safeguarding National Security in the city (the Hong Kong National Security Law (HKNSL)).\n\nIt strongly urges the countries concerned to immediately cease interfering in Hong Kong matters, which are purely China’s internal affairs.\n\nThe Government stated that Hong Kong is a society underpinned by the rule of law and has been consistently fulfilling its constitutional duty to safeguard national security in accordance with the law, upholding the principles that laws must be observed and strictly enforced to bring offenders to account.\n\nWong Chi-fung pleaded guilty to the charge of “conspiracy to commit collusion with foreign countries or with external elements to endanger national security” under the HKNSL. The court, acting in strict accordance with the law and judicial procedures, based on objective facts and sufficient evidence, has delivered a sentence independently and impartially, fully manifesting the spirit of the rule of law in Hong Kong.\n\nThe Government stressed that everyone is equal before the law. Regardless of their political stance, background or status, anyone who breaks the law must be held legally accountable. Attempting to distort criminal judgments handed down in accordance with the law into actions targeting “political expression” or “political participation” is purely political manipulation deliberately intended to confuse the public and distort right and wrong.\n\nIt pointed out that the rights and freedoms enjoyed by Hong Kong residents in accordance with the law are fully protected by the Constitution, the Basic Law, and the HKNSL, among others. However, all rights and freedoms must be exercised within the legal framework and cannot be used as a pretext for engaging in acts that endanger national security.\n\nIt is each and every sovereign state’s inherent right to enact laws safeguarding national security. Not only is this in accordance with international law and international relations based on the Charter of the United Nations, but is also an international practice. Many Western countries, including the UK and the US, maintain extensive and strict national security legal frameworks, and will absolutely not allow their citizens to collude with external forces to endanger their own national security.\n\nThere are numerous cases in the countries concerned where their own citizens as well as foreign nationals have been prosecuted on charges such as “foreign agent” and “foreign interference”, not to mention instances of arbitrary arrest and malicious prosecution. The groundless attacks by the countries concerned on Hong Kong’s rule of law and judicial system, or their attempts to interfere with the city's work in safeguarding national security in accordance with the law through political pressure, only demonstrate their hypocritical double standards, which are utterly ugly and despicable.\n\nThe Government urges the countries concerned to stop making irresponsible and misleading remarks, and to cease interfering in any form in the operation of judicial proceedings of the HKSAR and Hong Kong affairs, which are purely China’s internal affairs. Any attempt to shake the determination of the Hong Kong SAR Government to safeguard national security is bound to be in vain and will never succeed.",
       "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261107/20261107_104144_432/images/20261107134333105.jpg",
@@ -1468,17 +1479,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_202948_140.html"
-    },
-    {
-      "id": "047ce1f8035e1ef7",
-      "title": "Foreign firms debut in HK to access mainland market",
-      "excerpt": "A number of foreign companies have made their debut at the annual Hong Kong Fintech Week and StartmeupHK that commenced…",
-      "fullText": "A number of foreign companies have made their debut at the annual Hong Kong Fintech Week and StartmeupHK that commenced on Monday, hoping to use the SAR as a springboard to tap into the mainland market.\n\nThey include a Canadian company that produces renewable fuels.\n\nJag Singh from SBI BioEnergy noted that his firm can contribute to the SAR’s green aviation development, and hopes to also explore opportunities in the mainland market.\n\n“Everyone in the world has a shortage of sustainable aviation fuel and a target to blend sustainable aviation fuel,” he said.\n\n“So we are helping to achieve that and we can do it globally because it's our own process modular, and we have all the control of the technology because we have the hydrogen production as well as the conversion system in them.”\n\nSingh went on to say that the firm’s next goal is to expand even further in Asia through Hong Kong.\n\n\"We hear a lot about the great agreements and structures here and IP protection, and that's very important to us because these are our babies – these are our patented processes – we spent a lot of time and blood, sweat and tears to make this happen,\" he said.\n\n\"So I think it’s a perfect gateway or potential base as a springboard to the rest of Asia and China.\"\n\nCanadian firm Deep Sky, which specialises in carbon removal, is also taking part in the event.\n\n“What I’ve noticed is there's an incredible density of companies that are developing energy infrastructure in [the] mainland and internationally, financiers financing those projects and trading firms who are trading the products,” the firm's Charlie Renzoni said.\n\n“So I see an incredibly important connection between Hong Kong, [the] mainland and the rest of the world.”\n\nFor Korean firm MoneyStation, which focuses on AI-powered investment intelligence, they decided to make the SAR their first stop to go overseas.\n\n“Hong Kong is like a pioneer in adapting the new financial business models like cryptos or stock markets and asset management,” its founder James Lee said.\n\nHe added that the city’s annual event also offered them a chance to look for strategic business partners.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-02T14:04:06.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876281-20261102.htm"
     },
     {
       "id": "f824b6e663078f8a",
