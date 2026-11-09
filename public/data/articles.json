@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T07:15:17.039Z",
-  "checkedAt": "2026-11-09T08:30:24.304Z",
+  "generatedAt": "2026-11-09T08:45:17.514Z",
+  "checkedAt": "2026-11-09T08:45:17.514Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 18
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 13
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "c697afdda0a458c9",
+      "title": "China slams 'baseless' claims it spied on Nvidia boss",
+      "excerpt": "Beijing rejected on Monday claims that it had spied on Jensen Huang, chief executive of US chip giant Nvidia, calling…",
+      "fullText": "Beijing rejected on Monday claims that it had spied on Jensen Huang, chief executive of US chip giant Nvidia, calling the allegations \"baseless\".\n\n\"We have responded to this matter previously. The narrative of a so-called Chinese spy is entirely baseless vilification and smearing,\" Ministry of Foreign Affairs spokesman Guo Jiakun said at a regular briefing.\n\nHe was speaking after Nvidia's board announced it had opened a probe into media reports alleging \"a foreign intelligence effort\" and Huang's acknowledgement that he had an affair with a woman.\n\nLate last month, The New York Times reported that US intelligence officials concluded that Alice Huang, a Chinese executive linked to a Singapore-based data centre company called Megaspeed, had been funnelling information to Beijing.\n\nThe executive, also known as Huang Le, developed a close relationship with the 63-year-old Nvidia boss, the Times said.\n\nIn a message to company employees released on Sunday, the Nvidia chief acknowledged having an affair and apologised to his family and company staff.\n\n\"I was unfaithful to my wife,\" he said.\n\n\"My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.\"\n\nHuang is a huge figure in the artificial intelligence revolution and a close informal adviser to US President Donald Trump, who has repeatedly spoken out against regulating the industry so as not to let China gain the upper hand in the AI race.\n\nThe issue of AI is likely to arise during Trump's planned talks with President Xi Jinping this month at the Asia-Pacific Economic Cooperation (Apec) Economic Leaders' Meeting in Shenzhen.\n\nAsked whether the Nvidia chief would be joining his trip to Asia, which includes the Apec summit in Shenzhen next week, Trump said: \"I don't know but I'll certainly take him.\"\n\nTrump said Huang was \"a fine person, but you never know what's going on. I'm sure – I hope everything's fine. He's done such an incredible job.\" (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T08:21:25.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877131-20261109.htm"
+    },
     {
       "id": "4f802db5f8e5129f",
       "title": "Opportunity knocks for centrist NZ party to turn tide",
@@ -555,17 +566,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876972-20261107.htm"
-    },
-    {
-      "id": "1d45a6c9d73b0415",
-      "title": "Houthis say 33 killed in Saudi strikes in Sanaa",
-      "excerpt": "Houthi authorities said that Saudi strikes killed 33 people, many of them women and children, in Yemen's Sanaa province, as…",
-      "fullText": "Houthi authorities said that Saudi strikes killed 33 people, many of them women and children, in Yemen's Sanaa province, as deaths mount in the country's revived civil war.\n\n\"The number of victims of the Saudi enemy warplane massacre in the Al-Shariyah area has risen... most of them children and women, while the number of wounded has risen to 30,\" the Houthis' Saba news agency said.\n\nIt said operations to recover victims from the rubble were ongoing and that \"aircraft targeted paramedics with two strikes\".\n\nSaudi authorities have not commented on the report.\n\nMeanwhile, Saudi Arabia said its air defences shot down a Houthi cruise missile targeting the capital Riyadh.\n\nOn Friday, an attack on a market in Taiz province killed 30 people. The Houthis said Saudi airstrikes were to blame, while Yemen's government forces accused the Iran-allied group of having fired a ballistic missile at the site.\n\nYemen slipped back into war between the Houthis and the Saudi-backed government in July after years of relative calm, opening a new front in the conflict in the Middle East.\n\nSince then, Saudi Arabia has regularly bombed Houthi positions, while the group has multiplied its attacks against the oil-rich kingdom. (AFP/Reuters)\n_____________________________\nLast updated: 2026-11-08 HKT 09:32\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-11-07T11:50:43.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876968-20261107.htm"
     },
     {
       "id": "f09708081952dd4c",
@@ -1448,17 +1448,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876374-20261103.htm"
     },
     {
-      "id": "9479cf2f7b4a01ee",
-      "title": "Beijing approves removal of Winnie Ho as housing chief",
-      "excerpt": "The State Council has decided to remove Winnie Ho from the post of housing secretary of the Hong Kong government…",
-      "fullText": "The State Council has decided to remove Winnie Ho from the post of housing secretary of the Hong Kong government, Xinhua reported on Tuesday.\n\nIt said the decision, made on Tuesday, was in accordance with the Basic Law and based on the suggestion of Chief Executive John Lee.\n\nThat came after Lee said Ho had tendered her resignation on October 28 and indicated that she would shoulder political accountability for the Wang Fuk Court fire in Tai Po.\n\nA day after that, the government made public the investigation report by an independent committee into the deadly blaze and unveiled sweeping measures to prevent a recurrence.\n\nIn a statement, Lee recounted Ho's career from the time that she joined the government in 1992, becoming director of architectural services in 2020 to being appointed as secretary for housing in 2022.\n\nLee said Ho had been dedicated to implementing his directives, including constructing some 30,000 Light Public Housing units, shortening the composite waiting time for subsidised rental housing from 6.1 years to 4.8 years, effectively combating the abuse of public rental housing and enacting the Basic Housing Units Ordinance to eradicate substandard subdivided units.\n\n\"As she officially leaves her post today, I wish her all the best in her future endeavours and a healthy life,\" he said.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-03T05:17:21.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876371-20261103.htm"
-    },
-    {
       "id": "4880a05b8fac0ab0",
       "title": "Analysts: China could erode Taiwan’s hold on remote Pratas Island without invasion",
       "excerpt": "Restricting supplies could give Beijing leverage, but forcing a withdrawal would risk a wider crisis.",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261005/20261005_212939_604.html"
+    },
+    {
+      "id": "ac963e18ff7c59e6",
+      "title": "Students share Beijing learnings",
+      "excerpt": "The Education Bureau held the learning outcomes sharing session of the \"Salute to the National Flag\" Beijing Visit Delegation at…",
+      "fullText": "The Education Bureau held the learning outcomes sharing session of the \"Salute to the National Flag\" Beijing Visit Delegation at Kowloon Technical School today, promoting the outcomes of the activity among more young people and various sectors of the society.\n\nAbout 250 student representatives of the delegation from tertiary institutions, secondary and primary schools shared their learning experiences during the five-day visit to Beijing.\n\nSpeaking at the session, Chief Secretary Chan Kwok-ki described the delegation as a high-level \"walking classroom\", which enabled students to feel for themselves the national dignity represented by the national flag and the national anthem through the solemn flag-raising ceremony at Tiananmen Square.\n\nHe said that this deepened their understanding of the symbolic meaning of the national flag, and strengthened their sense of national identity and patriotism.\n\nMr Chan said that students experienced at first hand our country's journey from arduous struggle to the great rejuvenation of the Chinese nation from the country's millennia-old cultural heritage to the development achievements of the new era.\n\nHe added that the delegation was received in person by Member of the Standing Committee of the Political Bureau of the CPC Central Committee and Vice Premier of the State Council Ding Xuexiang, and by the Director of the Hong Kong and Macao Work Office of the Communist Party of China Central Committee and the Hong Kong and Macao Affairs Office of the State Council Xia Baolong at the Great Hall of the People.\n\n“Mr Ding conveyed the cordial remarks and exhortations of President Xi and the Central Government to the young people from Hong Kong and Macao, enabling students to feel the care and expectations of the Central Authorities for Hong Kong and Macao young people, and to understand more deeply the important meaning carried by the national flag,” Mr Chan said.\n\nHe emphasised that patriotic education has all along been a top priority of the work of the Hong Kong Special Administrative Region Government. Hong Kong's First Five-Year Plan and the 2026 Policy Address also list the promotion of patriotic education as a key task.\n\nHe noted that today's learning outcomes sharing session aims to pass on more widely and further what the students learned in Beijing, so that more young people may gain a deeper understanding of the important meaning of the national flag and feel more deeply our country's care and concern for young people.\n\nHe said the Government will continue to join hands with various sectors of the society and, through rich and diverse means, enable young people to build a firm sense of national identity, national confidence and a sense of responsibility through first-hand experience.\n\nToday's sharing session began with a flag-raising ceremony. A joint team formed by flag-raising teams of the Association of Hong Kong Flag-guards and the Hong Kong Army Cadets Association, drawing on the experience of exchanges and interaction in Beijing with the People's Liberation Army Ceremonial Escort Battalion, conducted a solemn flag-raising ceremony. Booths were also set up at the session for members of the delegation to introduce their learning experience in Beijing.\n\nAround 1,200 flag-raising team representatives, teachers, students and youth group representatives from Hong Kong and Macao joined the delegation’s thematic activity in Beijing from September 18 to 22.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746/images/20261002231750275.JPG",
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746.html"
     }
   ]
 }
