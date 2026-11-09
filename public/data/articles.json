@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T21:45:18.728Z",
-  "checkedAt": "2026-11-09T22:30:24.971Z",
+  "generatedAt": "2026-11-09T22:44:30.009Z",
+  "checkedAt": "2026-11-09T22:44:30.009Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "10864bdfa98270ad",
+      "title": "Nvidia plunges as tech shares rebound, oil slides",
+      "excerpt": "US stocks rallied on Monday, as a drop in oil prices tempered inflation fears and helped the S&P 500 rebound…",
+      "fullText": "US stocks rallied on Monday, as a drop in oil prices tempered inflation fears and helped the S&P 500 rebound from its biggest weekly drop since April 2025, and tech shares jumped even as AI heavyweight Nvidia slumped with controversy swirling around CEO Jensen Huang.\n\nLast week, stocks slumped after a sweeping victory by Democrats in the US midterm elections fed concerns that new regulations could dent the durability of the AI trade.\n\nMarkets were in rally mode even as Nvidia, the second-most valuable company in the world, tumbled over 4 percent and closed at its lowest level since April 7. Investors questioned CEO Huang's future at the AI chipmaker after an internal investigation was launched into whether a foreign intelligence effort had targeted him.\n\nChina has dismissed the spying allegation as a baseless smear.\n\n\"The AI story is not going away if people are worried about that, the Democrats are not going to destroy AI. They can't. It's got a life of its own. They can put regulation around it, but they're certainly not stopping it,\" said Ken Polcari, partner and chief market strategist at SlateStone Wealth in Jupiter, Florida.\n\nProviding further support was a sharp drop in crude oil prices that helped dampen concerns about price pressures, as US President Donald Trump downplayed the likelihood of renewed strikes on Iran.\n\n\"Oil prices for sure, if they're down, that's certainly adding fuel to the fire,\" said Polcari.\n\nThe Dow Jones Industrial Average rose 1,104 points, or 2.2 percent, to 52,389, the S&P 500 gained 173 points, or 2.4 percent, to 7,549 and the Nasdaq Composite gained 673 points, or 2.7 percent, to 25,253.\n\nThe S&P recorded its biggest daily percentage gain since April 8, while the Nasdaq marked its biggest daily advance since July 30.\n\nInflation readings are on the docket this week as the US Labour Department will release its Consumer Price Index report for October on Tuesday and Producer Price Index on Friday.\n\nSome analysts on Wall Street also viewed last week's decline as an overreaction. Morgan Stanley and UBS said last week's rout in AI stocks was overdone, and risks were low of extreme regulation of data centre developments, even with Democratic majorities in the US Congress.\n\nEven as oil prices have eased, expectations for a rate hike at the Federal Reserve's December policy meeting remain above 80 percent, according to CME FedWatch, as October's strong jobs report gave the central bank latitude to continue raising rates.\n\nChipmakers surged. The Philadelphia Semiconductor Index shot up 6.9 percent after plunging more than 12 percent last week, its biggest weekly drop since the week ended April 4, 2025. Nvidia was the sole decliner in the index on Monday, while Broadcom, up 8.8 percent, and Advanced Micro Devices, up 13.3 percent, were the two biggest boosts.\n\nShares of investment giant KKR advanced 1.7 percent after its quarterly profit hit a record high. Constellation Energy, an energy firm with exposure to the AI buildout, shot up more than 10 percent after its adjusted third-quarter profit surpassed expectations. (Reuters)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T22:29:48.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877192-20261110.htm"
+    },
     {
       "id": "f92181a049f02510",
       "title": "Republican launches impeachment against Pete Hegseth",
@@ -1248,17 +1259,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876616-20261105.htm"
-    },
-    {
-      "id": "6d971a83196a76d3",
-      "title": "Stocks surge, oil tumbles after Trump's election rout",
-      "excerpt": "Wall Street stocks surged on Wednesday as markets greeted the resolution of US midterm elections while oil prices tumbled on…",
-      "fullText": "Wall Street stocks surged on Wednesday as markets greeted the resolution of US midterm elections while oil prices tumbled on expectations the Democratic sweep could hasten a resolution to the US-Iran war.\n\nDemocrats seized control of both houses of Congress in a victory that gives them the power to block legislation, open investigations into Trump's administration and influence government budgets, including the Pentagon.\n\nHeading into Tuesday's vote, some investors had viewed a decisive Democratic win as representing trouble for stocks, citing the risk to the buildout of artificial intelligence data centres.\n\nBut stocks bounced on Wednesday as analysts said the election outcome resolved uncertainty and pointed to relief that Trump did not contest the results.\n\nOil prices were under pressure throughout the session, adding to losses after US Vice President JD Vance said in a social media post that the Republican defeat was due to the unpopularity of the Iran war, which has sent the prices of fuel and other staples soaring.\n\nCrude prices finished the day down more than eight percent with both major contracts under US$100 a barrel.\n\n\"I think that the election might be leading the market to conclude that Trump might now be inclined to make a deal,\" said Andy Lipow of Lipow Oil Associates. \"Also, with the Democrats in charge of the Senate and House, they may be inclined to restrict funding for the war, and that forces Trump into ending the conflict.\"\n\nThe drop in oil prices added momentum to Wall Street stocks, which opened higher following positive sessions on leading European exchanges.\n\nAll three major indices finished solidly higher, with the Dow ending up three percent, or more than 1,500 points at 53,356.\n\nOpposition to data centres fuelled campaigns in key states like Texas, Georgia and Ohio where Democrats won gubernatorial elections previously held by Republicans.\n\nBut Wednesday's gains by Microsoft, Amazon and other hyperscalers suggest markets may see an upside to constraints that deter overbuilding, said Steve Sosnick of Interactive Brokers.\n\n\"At some level, people are happy that the industry might be saved from its own worst instincts,\" said Sosnick, who noted that Nvidia and other chipmakers fell following the results.\n\nBoth of Elon Musk's publicly traded companies fell after the billionaire's huge political donations failed to stop the Democratic tide. SpaceX fell 3.8 percent and Tesla dropped 3.3 percent.\n\nLockheed Martin, which lost 6.9 percent, was among the defence companies that retreated, while First Solar jumped 4.6 as the election lifted the prospects for renewable energy.\n\nEarlier, Europe's main indices finished with gains of around two percent despite official data on Wednesday showing that eurozone inflation reached a three-year high of 4.0 percent in October.\n\nMarkets across Asia also performed strongly, though Tokyo ended lower as its tech sector struggled.\n\nThe S&P 500 rose 1.6 percent, to 7,689, the Dow rose 3 percent, to 53,356, while the Nasdaq rose 1.4 percent, to 25,737. (AFP)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T22:10:25.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876605-20261105.htm"
     },
     {
       "id": "4c156bd25dffe910",
