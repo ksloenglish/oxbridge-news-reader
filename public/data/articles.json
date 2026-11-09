@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T12:30:22.815Z",
-  "checkedAt": "2026-11-09T12:45:24.049Z",
+  "generatedAt": "2026-11-09T13:00:33.782Z",
+  "checkedAt": "2026-11-09T13:00:33.782Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "b342a566d459572a",
+      "title": "Evening News on TV32 - Nov 9",
+      "excerpt": "Top stories for Monday, Nov 9, 2026 - China denies spying on Nvidia chief Jensen Huang. - Dozens are trapped…",
+      "fullText": "Top stories for Monday, Nov 9, 2026\n\n- China denies spying on Nvidia chief Jensen Huang.\n\n- Dozens are trapped as Ocean Park's observation tower breaks down again.\n\n- Seven people die in a train collision in Egypt.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T12:32:14.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877161-20261109.htm"
+    },
     {
       "id": "f7ee9b41a75e6cdd",
       "title": "TDC expects over 3k participants at annual IP forum",
@@ -687,17 +698,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876959-20261107.htm"
-    },
-    {
-      "id": "728290b544755a45",
-      "title": "Proxy votes loom large in building management law fix",
-      "excerpt": "Secretary for Home and Youth Affairs Alice Mak said Hong Kong would strengthen provisions for proxy-vote checks and continue to…",
-      "fullText": "Secretary for Home and Youth Affairs Alice Mak said Hong Kong would strengthen provisions for proxy-vote checks and continue to study a cap on such votes following the end of a second round of consultations on Building Management Ordinance amendments.\n\nThe public consultation drew 500 responses, with more than half expressing reservations about a proposed cap on proxy votes, Mak said on Saturday.\n\n\"If we set a cap of 20, then when proxy votes are submitted to an owners’ corporation and it receives 22, how can it determine which is the 21st or 22nd? How should the verification be carried out at submission?\" she said.\n\n\"Should it be counted by the time of its submission to the management office or by the time the person signed the proxy form? So there are some practical difficulties, and we understand this.\"\n\nMak said the government would continue to study the cap and related issues, including who could be appointed as a proxy, and would explore electronic proxy appointments as a way to overcome operational difficulties.\n\n\"For the whole proxy-vote system, we must ensure, in the direction of our amendments, the system is not abused and that proxy votes cannot be forged,\" she said.\n\n\"We need to make sure the proxy appointment is genuine and that the operation is workable on the ground level. It has to operate practically without difficulties to avoid potential disputes.\"\n\nMak went on to say that a paper had already been submitted to the Legislative Council, and that the matter would be discussed next week.\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-11-07T08:29:16.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876934-20261107.htm"
     },
     {
       "id": "34630b23363a4101",
