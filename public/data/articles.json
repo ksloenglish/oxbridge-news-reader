@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T08:45:17.514Z",
-  "checkedAt": "2026-11-09T09:00:31.843Z",
+  "generatedAt": "2026-11-09T09:15:21.962Z",
+  "checkedAt": "2026-11-09T09:15:21.962Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "5f75d98a2287e89f",
+      "title": "Non-binding motions to come with research data: Legco",
+      "excerpt": "The Legislative Council on Monday said that from next year, members must submit their research findings and relevant suggestions when…",
+      "fullText": "The Legislative Council on Monday said that from next year, members must submit their research findings and relevant suggestions when they table a non-binding motion.\n\nSpeaking at a luncheon attended by Chief Executive John Lee, the Executive Council and government officials, Legco President Starry Lee said the move was to make public policy discussions more \"scientific\".\n\n\"This will help the government and public better understand the intent and rationale of the motions, as well as for the public to understand debates in the chamber,\" she said.\n\nAccording to Legco's website, members can move motions \"not intended to have legislative effect\" to express their views on issues of public concern, or call on the government to take certain actions.\n\nLee also pledged to continue supporting the administration in improving its governance efficacy by providing policy recommendations.\n\n\"The Legislative Council and its committees have so far conducted 21 local surveys on various topics. In the future, Legco will conduct more site inspections and strengthen policy advocacy capabilities,\" Lee said.\n\n\"I will work with the Legco Secretariat, and I also welcome the participation of members, to regularly select important issues for site visits, with the aim to come up with solid recommendations for the SAR Government, Legco committees and society to follow up.\"\n\nShe added that the Legco Secretariat has been using technology and big data to make the chamber more public-friendly.\n\nRecapping the legislature's work, Lee said more than HK$130 billion of funding requests had been approved so far this year, with approximately one third of those funds going to projects in the Northern Metropolis.\n\nShe said the Northern Metropolis Development Bill would resume its second reading on Wednesday, after a committee worked overtime to complete its deliberations.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T09:07:01.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877138-20261109.htm"
+    },
     {
       "id": "c697afdda0a458c9",
       "title": "China slams 'baseless' claims it spied on Nvidia boss",
@@ -665,17 +676,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876923-20261107.htm"
-    },
-    {
-      "id": "19fcaa9e0fa1d079",
-      "title": "Colder weather 'may worsen flu risks for children'",
-      "excerpt": "A paediatric infectious diseases expert warned on Saturday that colder weather could prolong the current flu season and lead to…",
-      "fullText": "A paediatric infectious diseases expert warned on Saturday that colder weather could prolong the current flu season and lead to more critical cases in children.\n\nMike Kwan, president of the Asian Society for Paediatric Infectious Diseases, said that if infection numbers stay high, critical cases will rise in tandem.\n\n\"Since the weather is going to get more cold, and also we are going into the winter season, I really worry that the current flu season will merge with the winter flu season,\" he said.\n\n\"So then you experience a very, very long period of the flu infection. And subsequently... [I am] really worried that there will be more paediatric critical cases or even mortality.\"\n\nKwan urged parents whose children had yet to receive this season's influenza vaccine to get them vaccinated as soon as possible.\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-07T05:01:21.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876919-20261107.htm"
     },
     {
       "id": "fb849107f1240d1d",
