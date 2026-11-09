@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T07:00:29.311Z",
-  "checkedAt": "2026-11-09T07:00:29.311Z",
+  "generatedAt": "2026-11-09T07:06:11.364Z",
+  "checkedAt": "2026-11-09T07:06:11.364Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 18
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 13
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "aaea237420232f7f",
+      "title": "Delhi chokes as Diwali celebrations fire up toxic smog",
+      "excerpt": "Toxic air in parts of India's capital New Delhi soared to more than 58 times the World Health Organisation's recommended…",
+      "fullText": "Toxic air in parts of India's capital New Delhi soared to more than 58 times the World Health Organisation's recommended daily limit on Monday, after fireworks for the Hindu festival of Diwali, air monitor data showed.\n\nMillions celebrate the annual festival of lights with fireworks in one of the world's most polluted capitals, worsening winter smog fuelled by vehicle emissions, farm fires and industry.\n\nThe Supreme Court this month allowed the limited use of so-called \"green\" firecrackers, designed to produce fewer emissions, during Diwali.\n\nBut restrictions are routinely flouted, with the city reverberating with explosions.\n\nOn early Monday morning, around eight hours after the peak of the bursting fireworks, levels of cancer-causing PM 2.5 microparticles hit 879 micrograms per cubic metre in the Mandir Marg locality, according to monitoring organisation IQAir, which cited data from a city government station.\n\nThat is nearly 59 times the WHO's recommended daily maximum.\n\nAuthorities have in recent weeks implemented restrictions on traffic and construction as they seek to curb smog in New Delhi, home to more than 30 million people.\n\nVehicles account for 23 percent of Delhi's winter pollution, while biomass burning, including farm stubble fires, contributes 20 percent, according to India's environment ministry.\n\nIndustry, including coal-fired power plants, contributes about nine percent.\n\nThe largest share, 27 percent, comes from secondary particles, formed when gases released by vehicles, industry, power plants and biomass burning react in the atmosphere.\n\nA 2024 study published in The Lancet Planetary Health, a peer-reviewed research journal, estimated that 3.8 million deaths in India between 2009 and 2019 were linked to air pollution. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T06:59:16.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877119-20261109.htm"
+    },
     {
       "id": "1b2f37aec0de9468",
       "title": "Trump says Shenzhen talks with Xi and Putin likely",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746.html"
-    },
-    {
-      "id": "e514ab7fdff7dce2",
-      "title": "Domestic helper wage up 2.35%",
-      "excerpt": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased…",
-      "fullText": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased by 2.35%, from $5,100 to $5,220 per month.\n\nThe new minimum wage level will apply to all FDH contracts signed on or after tomorrow. FDH contracts signed today or earlier at the existing rate will still be processed by the Immigration Department, provided that the applications reach the department no later than October 30.\n\nThe Government explained that in reviewing the minimum wage, it had, in accordance with an established mechanism, considered factors including Hong Kong’s general economic performance and labour market conditions over the past year, the city's near-term economic outlook, employer affordability and the basic living needs of FDHs.\n\nThe Government also consulted employers and FDHs throughout the review process.\n\nIt stated that it decided to adjust the minimum wage level after carefully assessing and balancing the views of all parties, taking into account that this year's socio-economic factors are more favourable than those of last year's review.\n\nThe Government also reviewed the food allowance in lieu of free food, and decided that the level should remain unchanged, at no less than $1,236 per month.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265/images/20261002172046980.jpg",
-      "publishedAt": "2026-10-01T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
     }
   ]
 }
