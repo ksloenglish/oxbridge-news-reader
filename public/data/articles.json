@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T21:30:22.302Z",
-  "checkedAt": "2026-11-09T21:30:22.302Z",
+  "generatedAt": "2026-11-09T21:45:18.728Z",
+  "checkedAt": "2026-11-09T21:45:18.728Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "f92181a049f02510",
+      "title": "Republican launches impeachment against Pete Hegseth",
+      "excerpt": "A Republican lawmaker moved on Monday to impeach US Defence Secretary Pete Hegseth over the war in Iran, setting up…",
+      "fullText": "A Republican lawmaker moved on Monday to impeach US Defence Secretary Pete Hegseth over the war in Iran, setting up a potentially explosive vote in Congress just days after US President Donald Trump's party suffered a crushing midterm defeat.\n\nKentucky congressman Thomas Massie introduced eight articles of impeachment accusing Hegseth of illegally waging war without congressional authorisation and abusing his powers as Pentagon chief.\n\nThe Republican-controlled House could vote as early as Wednesday, with some lawmakers from Trump's party signalling that they might join Democrats in supporting the charges.\n\nImpeachment would be a humiliating blow for Hegseth and the Trump administration, but would not automatically remove him from office.\n\nThat would require a trial and conviction by a two-thirds majority in the Senate – a far higher hurdle, even after Democrats take control of the chamber in January.\n\nThe impeachment push has gathered momentum since last Tuesday's midterm elections, when Democrats swept both chambers of Congress amid widespread anger over the Iran war and soaring fuel prices.\n\nRepublicans retain control of Congress until the newly elected lawmakers take office on January 3, but their overwhelming defeat has fuelled recriminations and weakened party discipline.\n\nSome Republican lawmakers who lost their seats could also skip votes, potentially making it easier for the impeachment measure to pass.\n\nMassie, an outspoken critic of Trump who lost his own primary to a candidate backed by the president, is using a special congressional procedure to force the House to consider his resolution within two legislative days.\n\nRepublican leaders could still seek to block the measure through a procedural vote.\n\nThe articles accuse Hegseth of violating the 1973 War Powers Resolution, which limits the president's ability to engage US forces in hostilities without congressional approval.\n\nThey also allege misconduct involving civilian casualties and military operations in Yemen and Venezuela.\n\nThe Pentagon has rejected the accusations.\n\nDemocratic House leader Hakeem Jeffries, who is expected to become speaker in January, threw his weight behind impeachment on Sunday.\n\n\"I'm a hard yes on the Hegseth resolution,\" Jeffries told ABC News.\n\n\"The so-called secretary of defence has abused his power, undermined our national security and engineered this reckless and costly war of choice in Iran,\" he said.\n\n\"Pete Hegseth has got to go.\"\n\nSeveral Republicans have expressed dissatisfaction with Hegseth's leadership without committing to impeaching him.\n\nArkansas congressman French Hill said on Sunday he wanted to hear the debate before deciding whether the accusations justified impeachment.\n\nUnder the US Constitution, the House can impeach a senior government official by a simple majority vote, effectively bringing formal charges of serious misconduct.\n\nThe Senate then decides whether to convict and remove the official from office, requiring support from two-thirds of senators present.\n\nEven with their enlarged majority next year, Democrats would need substantial Republican backing to reach that threshold. Only two Cabinet secretaries – almost 150 years apart – have been impeached in US history, and neither was removed by the Senate.\n\nHegseth has dismissed Massie's impeachment effort as a \"sham,\" calling the congressman \"disgruntled\" and accusing his opponents of pursuing political destruction.\n\nThe Pentagon announced a rare press briefing by Hegseth scheduled for Tuesday.\n\nTrump has publicly stood by his embattled defence chief, declaring last week: \"I have every intention to keep him.\"\n\nBut the president's weakened political position after the midterms has left Hegseth facing the prospect of an impeachment battle that could extend well beyond this week's House vote. (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T21:28:41.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877188-20261110.htm"
+    },
     {
       "id": "1e924f8639dbc396",
       "title": "Russell Brand jailed for 10 years for rape, assault",
@@ -654,17 +665,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876991-20261108.htm"
-    },
-    {
-      "id": "6fd3a2921db73e53",
-      "title": "Lone gunman kills six people in Krakow, police say",
-      "excerpt": "Six people were killed and at least 15 wounded on Saturday when a gunman opened fire in the landmark historic…",
-      "fullText": "Six people were killed and at least 15 wounded on Saturday when a gunman opened fire in the landmark historic centre of Poland's second city of Krakow, in the country's deadliest shooting in decades.\n\nA British national was among the dead, according to police. Among the 15 wounded were nationals from Austria, Britain, Germany, Portugal and Russia, authorities told the PAP news agency.\n\nThe gunman, a 24-year-old Polish national who authorities said was \"fascinated by far-right ideologies\", was wounded by police during the rampage and is in critical condition in hospital.\n\nPrime Minister Donald Tusk announced Poland would hold two days of mourning over the shooting that he called an act of \"terrorism\", but police did not give a possible motive.\n\nThree more bodies were later found at the suspect's home in Ostrowiec Swietokrzyski, around 150 kilometres northeast of Krakow. Police said they were his parents and a sister.\n\nThe suspect drove a car onto Krakow's Main Market Square and began shooting at random people, said police.\n\nTwo officers were wounded as they tried to stop the man, the police said, before shooting the suspect who was later detained and taken to a hospital.\n\nBritain's Prime Minister Andy Burnham said he was \"shocked and saddened by the appalling shooting\".\n\n\"My thoughts are with the families of those who have lost their lives, everyone injured and all those affected by this senseless violence,\" he wrote on X.\n\nAn AFP reporter at the scene saw ambulances and multiple police cars as personnel cordoned off the area, one of Poland's landmark tourist hotspots popular with locals and foreign visitors.\n\nAuthorities said the man was wearing military-style clothing at the time of the attack. (AFP)\n_____________________________\nLast updated: 2026-11-08 HKT 17:44\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T01:20:21.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876990-20261108.htm"
     },
     {
       "id": "45378002f52f13ee",
