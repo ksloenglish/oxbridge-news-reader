@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T04:30:23.577Z",
-  "checkedAt": "2026-11-09T04:30:23.577Z",
+  "generatedAt": "2026-11-09T04:45:16.307Z",
+  "checkedAt": "2026-11-09T04:45:16.307Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 13
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "a14caa42340e17e4",
+      "title": "Hong Kong must widen surgical robotics access: FS",
+      "excerpt": "Financial Secretary Paul Chan has urged the surgical robotics industry to move beyond proving technical precision and focus on widening…",
+      "fullText": "Financial Secretary Paul Chan has urged the surgical robotics industry to move beyond proving technical precision and focus on widening access to care, as Hong Kong seeks to become a global hub for medical-device innovation.\n\nSpeaking at the inaugural Surgical Futures Forum organised by Hong Kong-based surgical robotics company Cornerstone Robotics, Chan said the field had spent 25 years proving its technical capability.\n\nThe next task, he said, was to broaden access so more surgeons could use robotic systems and more patients could benefit.\n\n\"Design and cost remain major barriers. Today's mainstream systems are built for the best-resourced hospitals. Their price, their footprint and their training requirements limit where they can be installed and how widely they can be used,\" he said.\n\n\"That helps explain why global penetration remains below five percent. If we believe innovation should serve humanity, progress in surgical robotics must mean more than better technology — it must mean reaching more patients because behind these barriers are countless people still waiting to benefit.\"\n\nChan said the clearest sign of momentum came in September, when global medtech company Medtronic announced a strategic investment of about US$700 million in Cornerstone Robotics and secured distribution rights for Cornerstone’s surgical system in selected international markets.\n\nHe described the commitment from a global medical-technology leader as a powerful endorsement of Hong Kong’s innovation sector.\n\n\"This partnership shows that technology developed here can earn the confidence of industry leaders and, through collaboration, reach international markets,\" he said, calling it a milestone for both companies and another example of Hong Kong innovation going global.\n\nThe finance chief also cited a Hong Kong-developed robotic platform now installed at a leading surgical training centre in Strasbourg, France, as evidence that the city’s medtech sector is ready to train surgeons from around the world.\n\nBeyond individual companies, he pitched Hong Kong as an end-to-end support system for medical-device innovation, spanning long-term patient capital, biotech fundraising, regulation, clinical data and cross-boundary trials.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T04:32:48.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877107-20261109.htm"
+    },
     {
       "id": "80b783d2c97a9aa1",
       "title": "Death toll mounts to 14 in Shanxi fire",
@@ -744,17 +755,6 @@
       "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
     },
     {
-      "id": "271c1b18b94ae9fb",
-      "title": "Evening News on TV32 - Nov 6",
-      "excerpt": "Top stories for Friday, Nov 6, 2026 - The Exchange Fund records a third-quarter investment income of almost $19 billion…",
-      "fullText": "Top stories for Friday, Nov 6, 2026\n\n- The Exchange Fund records a third-quarter investment income of almost $19 billion.\n\n- Police say they will roll out facial recognition technology across their CCTV network this month.\n\n- Protests have erupted across Paraguay after one of the country's largest banks was shut down over a solvency crisis.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T12:33:18.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876862-20261106.htm"
-    },
-    {
       "id": "ecfeadb473d9a2de",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
       "excerpt": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of…",
@@ -1338,17 +1338,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876501-20261104.htm"
     },
     {
-      "id": "ca493bbd2322fd71",
-      "title": "Yau highlights benefits of RCEP accession for HK",
-      "excerpt": "Secretary for Commerce and Economic Development Algernon Yau said Hong Kong's entry into the Regional Comprehensive Economic Partnership could inject…",
-      "fullText": "Secretary for Commerce and Economic Development Algernon Yau said Hong Kong's entry into the Regional Comprehensive Economic Partnership could inject fresh impetus into advancing the Free Trade Area of the Asia-Pacific (FTAAP) agenda.\n\n\"We welcome the establishment of the Accession Working Group for Hong Kong in September this year, and hope that our accession could inject fresh impetus into advancing the FTAAP agenda,\" he said during a virtual meeting at the 37th Asia-Pacific Economic Cooperation (Apec) Ministerial Meeting held on Tuesday.\n\nYau said that enhancing economic integration has been the core objective of Apec, and that one of the directions is to continue to advance the FTAAP.\n\nHe called on member economies to continue to strengthen connectivity in various areas, enabling the efficient flow of goods, services, capital and people, while narrowing development gaps and creating opportunities for all sectors across the region.\n\nYau also stressed that the multilateral trading system must remain the foundation of regional integration and international trade, highlighting the importance of enhancing co-operation to deal with the seismic changes in the trade landscape.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T03:21:17.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876486-20261104.htm"
-    },
-    {
       "id": "1f35ef2009c33622",
       "title": "Myanmar opposition forces hopeful that U.S. strategy could bring about peace",
       "excerpt": "Washington’s framework includes peacemaking to increase regional influence and provide access to rare earths.",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261005/20261005_212939_604.html"
+    },
+    {
+      "id": "ac963e18ff7c59e6",
+      "title": "Students share Beijing learnings",
+      "excerpt": "The Education Bureau held the learning outcomes sharing session of the \"Salute to the National Flag\" Beijing Visit Delegation at…",
+      "fullText": "The Education Bureau held the learning outcomes sharing session of the \"Salute to the National Flag\" Beijing Visit Delegation at Kowloon Technical School today, promoting the outcomes of the activity among more young people and various sectors of the society.\n\nAbout 250 student representatives of the delegation from tertiary institutions, secondary and primary schools shared their learning experiences during the five-day visit to Beijing.\n\nSpeaking at the session, Chief Secretary Chan Kwok-ki described the delegation as a high-level \"walking classroom\", which enabled students to feel for themselves the national dignity represented by the national flag and the national anthem through the solemn flag-raising ceremony at Tiananmen Square.\n\nHe said that this deepened their understanding of the symbolic meaning of the national flag, and strengthened their sense of national identity and patriotism.\n\nMr Chan said that students experienced at first hand our country's journey from arduous struggle to the great rejuvenation of the Chinese nation from the country's millennia-old cultural heritage to the development achievements of the new era.\n\nHe added that the delegation was received in person by Member of the Standing Committee of the Political Bureau of the CPC Central Committee and Vice Premier of the State Council Ding Xuexiang, and by the Director of the Hong Kong and Macao Work Office of the Communist Party of China Central Committee and the Hong Kong and Macao Affairs Office of the State Council Xia Baolong at the Great Hall of the People.\n\n“Mr Ding conveyed the cordial remarks and exhortations of President Xi and the Central Government to the young people from Hong Kong and Macao, enabling students to feel the care and expectations of the Central Authorities for Hong Kong and Macao young people, and to understand more deeply the important meaning carried by the national flag,” Mr Chan said.\n\nHe emphasised that patriotic education has all along been a top priority of the work of the Hong Kong Special Administrative Region Government. Hong Kong's First Five-Year Plan and the 2026 Policy Address also list the promotion of patriotic education as a key task.\n\nHe noted that today's learning outcomes sharing session aims to pass on more widely and further what the students learned in Beijing, so that more young people may gain a deeper understanding of the important meaning of the national flag and feel more deeply our country's care and concern for young people.\n\nHe said the Government will continue to join hands with various sectors of the society and, through rich and diverse means, enable young people to build a firm sense of national identity, national confidence and a sense of responsibility through first-hand experience.\n\nToday's sharing session began with a flag-raising ceremony. A joint team formed by flag-raising teams of the Association of Hong Kong Flag-guards and the Hong Kong Army Cadets Association, drawing on the experience of exchanges and interaction in Beijing with the People's Liberation Army Ceremonial Escort Battalion, conducted a solemn flag-raising ceremony. Booths were also set up at the session for members of the delegation to introduce their learning experience in Beijing.\n\nAround 1,200 flag-raising team representatives, teachers, students and youth group representatives from Hong Kong and Macao joined the delegation’s thematic activity in Beijing from September 18 to 22.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746/images/20261002231750275.JPG",
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746.html"
     }
   ]
 }
