@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T02:15:16.062Z",
-  "checkedAt": "2026-11-09T02:30:23.034Z",
+  "generatedAt": "2026-11-09T02:45:18.389Z",
+  "checkedAt": "2026-11-09T02:45:18.389Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 17
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 11
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "8616d59a7f395e76",
+      "title": "At least 35 die after migrant boat sinks off Senegal",
+      "excerpt": "A small boat carrying migrants sank off northwestern Senegal, killing at least 35 people in the latest tragedy along the…",
+      "fullText": "A small boat carrying migrants sank off northwestern Senegal, killing at least 35 people in the latest tragedy along the dangerous Atlantic Ocean route from Africa to Europe, emergency services said on Sunday.\n\nAlong this route thousands of people have died in recent years trying to reach Spain's Canary Islands from west Africa.\n\nAn initial statement from the Senegalese interior ministry said 21 bodies and only one survivor had been recovered following the sinking, but that those numbers were provisional as the search continued.\n\nLater on Sunday however, the Senegalese Press Agency (APS) said the toll now stood at 34 at least, a figure confirmed by Action for Human Rights and Friendship (ADHA) in a statement to AFP.\n\nAn \"indeterminate number\" of people were reported missing, APS added.\n\nThe toll then rose further on Sunday night to at least 35 with one survivor, according to the emergency services.\n\n\"It's a provisional toll which has been changing since Friday.\"\n\nAn interior ministry source added: \"The toll will unfortunately rise.\"\n\nMedia reports said the pirogue-type, flat-bottom boat capsized on Saturday off the Loumpoul dunes in Kebemer department, between Dakar and the northern city of Saint-Louis.\n\nHowever, Saliou Diouf, founder of Senegal's main migrant aid association Boza Fii, told AFP that the sinking occurred on Friday.\n\nThe nationalities of all the victims had not been confirmed as the search continues, he said.\n\n\"But the bodies recovered yesterday (Saturday) are Senegalese,\" he added.\n\nSenegal's President Bassirou Diomaye Faye wrote on Facebook on Sunday: \"All state authorities and resources have been mobilised to locate those who have gone missing, provide care for the survivors and support families.\"\n\nThousands of people from West Africa try each year to reach Europe on the perilous Atlantic route.\n\nSenegalese authorities also said they had intercepted 142 migrants on Friday who were on a similar small boat aiming to reach Spain.\n\nThe group included 23 women, two babies and two other children, and were from Senegal, Gambia, Guinea-Bissau, Guinea and Nigeria, according to police.\n\nSince the start of November, El Hierro authorities in the Canary Islands said more than 3,300 people had arrived aboard around 30 boats. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T02:29:11.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877077-20261109.htm"
+    },
     {
       "id": "db01eac86c85ae1f",
       "title": "Police flag the use of AI by criminals",
@@ -673,8 +684,8 @@
       "fullText": "US nonfarm payrolls increased more than expected in October and the unemployment rate fell to 4.1 percent, suggesting the labour market remained resilient and giving the Federal Reserve more scope to focus on inflation stemming from the Middle East conflict.\n\nPayrolls jumped by 165,000 jobs last month after an upwardly revised 60,000 gain in September, the US Labor Department's Bureau of Labor Statistics said on Friday.\n\nEconomists polled by Reuters had forecast payrolls advancing 65,000 after a previously reported 29,000 increase in September.\n\nEstimates ranged from 35,000 to 125,000 jobs.\n\nEconomists estimated the economy needed to create at least 40,000 jobs per month to keep up with growth in the working-age population. The so-called breakeven rate has declined from roughly 150,000 in 2024 because of the smaller labour force.\n\nThe unemployment rate declined from 4.2 percent in September.\n\nHistorically low layoffs and a recent jump in job openings have raised the prospect of labour market tightening.\n\nBut economists and US central bank officials have maintained that the labour market poses no inflation risk. Some economists have argued that a shrinking supply of workers amid an immigration crackdown and retirements is the primary driver of the relatively low unemployment rate.\n\nMeanwhile, Canada's unemployment rate went up to a six-month high in October and the economy lost a few thousand jobs as the private sector and full-time employment saw declines, data showed on Friday.\n\nThe unemployment rate edged up to 6.7 percent in October from 6.5 percent in the prior month, Statistics Canada said. The last time it was higher than this level was 6.9 percent jobless rate in April.\n\nThe economy lost a net of 4,700 jobs in the month, taking the total size of the jobs the economy lost this year to 46,000 overall.\n\nThe October report highlights a continued weakness in the labour market in Canada that has failed to post any job gains on average this year as trade tensions between the US and Canada worsened and businesses hunkered down to save costs. (Reuters)\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-11-06T14:20:22.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876880-20261106.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261015/20261015_115228_879.html"
-    },
-    {
-      "id": "2a824a6a6872ea83",
-      "title": "Human resources meeting held",
-      "excerpt": "Chief Secretary Chan Kwok-ki today chaired the seventh meeting of the fourth-term Human Resources Planning Commission, with members acknowledging that…",
-      "fullText": "Chief Secretary Chan Kwok-ki today chaired the seventh meeting of the fourth-term Human Resources Planning Commission, with members acknowledging that the youth unemployment situation warrants attention.\n\nThe meeting heard that rising unemployment and the youth employment situation are structural challenges faced by most advanced economies worldwide, Hong Kong being no exception.\n\nMembers took note that the Government continues to invest heavily in education and skills training for the local workforce. This includes launching a two-year 30,000 Youth Employment & Internship Programme, as announced in the Policy Address, to facilitate youth employment and development.\n\nThe Labour Department will also launch the Youth Employment Link online service portal to facilitate young people's access to employment information and support services. Looking ahead, the continued expansion of the local economy is expected to underpin overall labour market conditions.\n\nThe Labour & Welfare Bureau also briefed the meeting on the \"Mid-term Update of Manpower Projection\" report. Members heard that the Government will continue to promote \"AI for All\" and support lifelong learning, ensuring that skills in the labour force remain aligned with Hong Kong's future economy.\n\nThe bureau will commence a new review of the Talent List soon.\n\nMembers said they supported the Government in continuing to closely monitor the labour market and in formulating and refining forward-looking policies on a rolling basis, with a view to maintaining manpower supply in support of economic development, whilst also safeguarding employment priority for local workers.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261005/20261005_212939_604/images/20261005225151967.jpg",
-      "publishedAt": "2026-10-04T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261005/20261005_212939_604.html"
     }
   ]
 }
