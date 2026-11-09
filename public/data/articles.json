@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T13:00:33.782Z",
-  "checkedAt": "2026-11-09T13:00:33.782Z",
+  "generatedAt": "2026-11-09T13:15:18.263Z",
+  "checkedAt": "2026-11-09T13:15:18.263Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "1041d0c56d06b40f",
+      "title": "Innovating with AI in the special chemicals industry",
+      "excerpt": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new…",
+      "fullText": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals manufacturer Lubrizol, digital transformation is all about giving researchers the tools to test ideas faster, make better-informed decisions, and develop more sustainable materials without compromising performance.\n\nGirish Rao, vice president of information technology at Lubrizol, says the company is building a digital foundation that connects business processes, modern data platforms, and cloud infrastructure to support its research and development (R&D) teams. Their goal is to combine decades of accumulated technical data with the deep expertise of chemists and engineers who understand customer needs as well as the physical constraints of their work. Data scientists can help identify patterns, test new hypotheses, and model possibilities before researchers conduct physical experiments. But, Rao emphasizes, “it’s not about replacing scientific judgment; it is about giving our scientists better tools.”\n\nScientists, data scientists, and IT teams approach problems from different perspectives, prioritizing experimental validity, model performance, and platform security and scalability, respectively. By bringing these groups together in “fusion teams,” Lubrizol aligns them around shared objectives, starting with small pilots to build trust.\n\n“Once the trust is built between the team members and they know what value they’re about to create,” Rao says, “things go a lot better.” Cloud infrastructure also gives the company flexibility to access computing resources and modern tools without making the substantial investments required to build and maintain its own data centers.\n\nThese capabilities could prove especially valuable in advancing sustainability. Digital modeling can help researchers evaluate more formulations, explore materials such as starch and corn-based alternatives, and assess trade-offs across a product’s life cycle. Promising a material in a laboratory is only the first step. Scaling production while meeting performance expectations, regulatory requirements, and financial constraints is still a tightrope walk, but AI’s ability to model multiple variables could help teams navigate those competing demands.\n\nLooking to the future, Rao expects AI, automation, advanced modeling, digital twins, and connected data to converge as laboratories become more intelligent and manufacturing plants more efficient. The opportunity, he suggests, lies in bringing these capabilities together responsibly and at scale. “It’s not just a single technology. I think it’s the combination of all of these, and it’ll be the ability to connect all these processes that are going to generate tremendous amounts of data.”\n\nThis webcast is produced in partnership with Infosys.\n\nThis content was produced by Insights, MIT Technology Review’s custom content arm, not its editorial staff. It was researched and written by humans, with any AI tools that may have been used limited to production processes under human oversight.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T13:00:00.000Z",
+      "source": "MIT Technology Review",
+      "sourceFeed": "mit-technology-review",
+      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
+    },
     {
       "id": "b342a566d459572a",
       "title": "Evening News on TV32 - Nov 9",
@@ -1336,17 +1347,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876575-20261104.htm"
-    },
-    {
-      "id": "0bb52c4b905431df",
-      "title": "Securing the agentic enterprise with data lineage",
-      "excerpt": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing…",
-      "fullText": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s discovered that the proposal includes unapproved, confidential, and sensitive information, no one can trace where the problematic data entered the workflow or how it spread across systems, files, and agents.\n\nDOWNLOAD THE REPORT\n\nThis scenario illustrates why AI governance needs to evolve, rapidly and dynamically. As more enterprises begin to use agentic AI in daily workflows, they’re realizing that they must manage more than static files; they must manage moving and fragmented data that is continuously ingested, copied, summarized, transformed, reused, and redistributed in new forms. In short, AI security isn’t a tool problem; it’s a data visibility problem.\n\nConsequently, traditional security approaches built solely around applications, systems, networks, or endpoints are no longer sufficient. Securing agentic AI at scale requires understanding how data moves. Teams, therefore, need to establish data lineage in order to effectively manage governance, accountability, and trust across human, agentic, and hybrid workflows.\n\nDownload the report\n\nThis content was produced by Insights, MIT Technology Review’s custom content arm, not its editorial staff. It was researched and written by humans, with any AI tools that may have been used limited to production processes under human oversight.",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR_Cyberhaven_V4_Cover.png?w=840",
-      "publishedAt": "2026-11-04T13:00:00.000Z",
-      "source": "MIT Technology Review",
-      "sourceFeed": "mit-technology-review",
-      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
     },
     {
       "id": "8eae40ac30188951",
