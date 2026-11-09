@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T10:15:23.824Z",
-  "checkedAt": "2026-11-09T10:15:23.824Z",
+  "generatedAt": "2026-11-09T10:30:23.243Z",
+  "checkedAt": "2026-11-09T10:30:23.243Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "514e8559e07248d0",
+      "title": "40 stranded in mid-air as Ocean Park Tower ride stalls",
+      "excerpt": "Dozens of visitors had to be rescued from Ocean Park's observation tower ride on Monday afternoon, after the cabin malfunctioned…",
+      "fullText": "Dozens of visitors had to be rescued from Ocean Park's observation tower ride on Monday afternoon, after the cabin malfunctioned and stopped mid-air.\n\nThe 72-metre-tall sightseeing tower is believed to have been brought to a halt by a breakdown, with the Fire Services Department saying it had been alerted to the incident at around 3.30pm.\n\nOcean Park staff used a backup stairwell to evacuate roughly 40 people trapped, while one person who reported feeling unwell was taken to the ground by a firefighter.\n\nThe director of Electrical and Mechanical Services, Poon Kwok-ying, said the department would investigate the incident to determine the cause.\n\nThis is the second incident involving the ride in slightly over a year, with the tower attraction also brought to a halt in May 2025, when its safety mechanism was triggered.\n\nPassengers were stranded for nearly two hours at that time.\n\nThe tower, located about 200 metres above sea level, sits on Nam Long Shan and offers panoramic views of Deep Water Bay.\n\nEdited by Raymond Yeung",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T10:13:43.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877141-20261109.htm"
+    },
     {
       "id": "d74910f5b9354c21",
       "title": "The climate case for AI has not been made",
@@ -687,17 +698,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876946-20261107.htm"
-    },
-    {
-      "id": "f83ad0320de6221b",
-      "title": "John Lee calls on youth to be curious and courageous",
-      "excerpt": "Chief Executive John Lee on Saturday urged young people to be curious and courageous as Hong Kong hosts the third…",
-      "fullText": "Chief Executive John Lee on Saturday urged young people to be curious and courageous as Hong Kong hosts the third Youth Development Summit.\n\nIn a video speech for the summit, themed \"Pioneering New Horizons, Venturing into the Future\", in Wan Chai, he said that when young people are empowered, communities are strengthened and the world moves forward.\n\nUnder the the territory's first five-year plan, Lee said, Hong Kong will enhance youth development opportunities, nurturing a new generation to cultivate affection for the country and Hong Kong, a global perspective, and an ambitious and positive mindset.\n\n\"We are expanding international exposure through exchanges, internships, and learning experiences,\" he said.\n\n\"Working with our schools, businesses and community partners, we are cultivating an environment where young people can unleash their potential, thrive and shine on the global stage.\"\n\nFor his part, Chief Secretary Eric Chan said he was confident government measures would help Hong Kong's young people serve the needs of the economy, the community and the country.\n\n\"That includes participating in the development of the Guangdong-Hong Kong-Macao Greater Bay Area, as well as the Belt and Road Initiative,\" he said. \"We will continue to deepen patriotic education for young people while helping them broaden their international horizons.\"\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-11-07T07:25:38.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876932-20261107.htm"
     },
     {
       "id": "34630b23363a4101",
