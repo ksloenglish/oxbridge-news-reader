@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T09:30:23.819Z",
-  "checkedAt": "2026-11-09T09:30:23.819Z",
+  "generatedAt": "2026-11-09T09:45:19.923Z",
+  "checkedAt": "2026-11-09T09:45:19.923Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "3b7c2f17cc29701a",
+      "title": "EMSD orders Taizoom to fix 720 non-compliant lifts",
+      "excerpt": "The Electrical and Mechanical Services Department (EMSD) has ordered Taizoom Elevator Company (HK) Limited to complete repairs at two Tenants…",
+      "fullText": "The Electrical and Mechanical Services Department (EMSD) has ordered Taizoom Elevator Company (HK) Limited to complete repairs at two Tenants Purchase Scheme estates by mid-November and to finish remedial work on the remaining private-building lifts within two to three months.\n\nEMSD Director Poon Kwok-ying said 720 lifts installed by Taizoom – about 90 percent of the total – had not been fitted with door-frame components required by law.\n\nThese include lifts in 11 blocks across two Tenants Purchase Scheme estates and in another 338 private buildings.\n\nPoon said about 900 lifts in 480 buildings installed by other registered lift contractors had been sampled and inspected, and all were confirmed to have the required door-frame components installed.\n\nHe said preliminary evidence showed that Taizoom was suspected of serious negligence and misconduct in lift works, and the EMSD will continue its investigation.\n\nPoon said a report was made to the police on October 16 because the incident is suspected to involve criminal acts of fraud and providing false statements. The police are conducting a criminal investigation.\n\nCiting a fire consultant’s assessment, Poon said the vast majority of the lifts lacking door-frame components were old-style lifts that had been in operation for more than 30 to 50 years, and the buildings concerned were completed before 1990.\n\n“At that time, the requirement for landing doors was 60 minutes of fire resistance, and there was no requirement for specific door-frame components,” he said.\n\n“The new door panels installed by Taizoom passed the fire-resistance test under BS 476, Part 22, to a rating of at least 120 minutes. So, even without the missing frame components, the overall level of fire safety after the new panels were installed is not lower than it was before.\n\n“Nevertheless, failing to install the required components is still unlawful. The EMSD has instructed Taizoom to carry out remedial work on the lifts in the affected buildings as soon as possible. Taizoom must pay all associated costs.”\n\nThe department has launched a comprehensive review and examination covering new lift installation and major alteration works, inspection and maintenance, and the registration regulation and approval system under the Lifts and Escalators Ordinance.\n\nIt will also strengthen inspections and sampling, use digital records for works, and apply technology to enhance the overall quality of lift works. The review is expected to be completed before the end of this year.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T09:39:47.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877144-20261109.htm"
+    },
     {
       "id": "fb4184a9967cf64c",
       "title": "COP31 climate talks off to troubled start – over money",
@@ -676,17 +687,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876928-20261107.htm"
-    },
-    {
-      "id": "995abeee82ec0812",
-      "title": "US enterprises 'surprise' in latest HK strategic batch",
-      "excerpt": "The United States is the largest source of overseas firms in Hong Kong’s latest batch of companies welcomed by the…",
-      "fullText": "The United States is the largest source of overseas firms in Hong Kong’s latest batch of companies welcomed by the Office for Attracting Strategic Enterprises (Oases).\n\nLast month, Oases welcomed 18 enterprise partners in its seventh batch, bringing the cumulative number of strategic enterprises attracted to Hong Kong to 142.\n\n\"In terms of overseas enterprises, you may be a bit surprised, but the United States has the largest number; of course there is also Europe,\" said Oases director-general Peter Yan on an RTHK radio programme on Saturday.\n\n\"This time I am also very happy that for the first time we have a Korean enterprise coming to Hong Kong and also a Japanese enterprise coming to Hong Kong as strategic enterprises.\"\n\nOn the mainland side, Yan said the enterprises came from various cities such as Beijing, Shanghai and Shenzhen.\n\n\"This time we also explored more other cities that are quite outstanding, especially in advanced manufacturing and new energy; we are also attracting them,\" he said.\n\n\"In medical technology, other cities are also developing quite well – for example, Hangzhou in AI, and Nanjing and Suzhou.\"\n\nYan said artificial intelligence and life and health technology are two relatively large sectors represented in the batch, with each accounting for about 30 percent of the total, while fintech and new energy each accounted for more than 10 percent.\n\nThe 142 strategic enterprises that have settled in Hong Kong, he enumerated, have committed to a total investment of HK$84 billion and will create about 26,700 high-end jobs.\n\nHis office has been monitoring and following up on the companies’ development, and both capital investment and job creation have now exceeded their targets.\n\nLooking at the first six batches of strategic enterprises, Yan said capital investment has exceeded pledged figures by about 30 percent.\n\nHe added that Oases carefully selects strategic enterprises, gaining an in-depth understanding of about 20 to 30 percent of the companies it contacts and helping them draw up development plans for Hong Kong.\n\nTypically, the office contacts companies several months before they settle in the city and follows up for more than a year, discussing their first concrete landing project and matching them with policies or stakeholders such as universities, investors and the business sector to help ensure a tangible industrial contribution.\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-07T05:08:13.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876923-20261107.htm"
     },
     {
       "id": "fb849107f1240d1d",
