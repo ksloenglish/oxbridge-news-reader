@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T13:45:17.872Z",
-  "checkedAt": "2026-11-09T14:15:21.640Z",
+  "generatedAt": "2026-11-09T14:30:24.993Z",
+  "checkedAt": "2026-11-09T14:30:24.993Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "38b9deb3af3d707e",
+      "title": "Contractors get non-compliance notice over MTR project",
+      "excerpt": "The MTR Corporation said on Monday that it had issued a non-compliance notice to the contractors in charge of the…",
+      "fullText": "The MTR Corporation said on Monday that it had issued a non-compliance notice to the contractors in charge of the Tung Chung West station construction.\n\nThis came after around 30 columns there were found to be substandard.\n\nThe railway operator said that it is strictly following up on the mistakes by the relevant contractors, the way they handled the matter and issues over responsibilities.\n\nThe company is now awaiting a comprehensive report from contractors, along with a remedial proposal.\n\nThe MTR said it attaches great importance towards railway projects’ supervision and work quality, and it will continue to carry out inspections as well as adopt other monitoring measures to ensure quality.\n\nThe firm will continue to maintain close contact with relevant government departments to ensure that the safety and quality of the works meet the contractual standards during construction and upon completion.\n\nIt added that it will fully cooperate with the government to probe the incident, and submit a report on time on the cause, remedial measures, as well as the follow-up actions with contractors.\n\nThe MTR reiterated that it will not tolerate any substandard engineering practices, and it will seriously follow up on the matter.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T14:20:35.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877167-20261109.htm"
+    },
     {
       "id": "72023db0fa01ec0a",
       "title": "The Download: empty AI climate claims, and an Nvidia investigation",
@@ -709,17 +720,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876951-20261107.htm"
-    },
-    {
-      "id": "102675d5b52a0de5",
-      "title": "Govt rebuts ten-nation statement on Wong case",
-      "excerpt": "The government on Saturday expressed strong dissatisfaction with and firm opposition to a joint statement by ten countries on the…",
-      "fullText": "The government on Saturday expressed strong dissatisfaction with and firm opposition to a joint statement by ten countries on the sentencing of Joshua Wong for conspiracy to commit collusion, saying it distorted facts and smeared the SAR.\n\nA government spokesman said the statement by the United States, the United Kingdom, France, Germany, Japan, Italy, Australia, Canada, the Netherlands and New Zealand disregarded facts, interfered with the SAR's independent judicial power, and urged the countries to stop interfering in Hong Kong matters, which are purely China's internal affairs.\n\nWong pleaded guilty to conspiracy to collude with foreign countries or external elements to endanger national security, and the court sentenced him independently on the evidence, the spokesperson said.\n\n\"Attempting to distort criminal judgments handed down in accordance with the law into actions targeting 'political expression' or 'political participation' is purely political manipulation deliberately intended to confuse the public and distort right and wrong,\" the spokesman said.\n\n\"Hong Kong is a society underpinned by the rule of law. The HKSAR Government has been consistently fulfilling its constitutional duty to safeguard national security in accordance with the law, upholding the principles that laws must be observed and strictly enforced to bring offenders to account.\"\n\nEdited by Altis Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-07T09:49:51.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876959-20261107.htm"
     },
     {
       "id": "34630b23363a4101",
