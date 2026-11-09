@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-11-09T20:00:30.649Z",
-  "checkedAt": "2026-11-09T20:30:24.818Z",
+  "checkedAt": "2026-11-09T20:45:22.952Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -88,8 +88,8 @@
       "url": "https://www.technologyreview.com/feed",
       "category": "international",
       "enabled": true,
-      "ok": false,
-      "error": "fetch failed",
+      "ok": true,
+      "error": null,
       "articleCount": 10
     }
   ],
