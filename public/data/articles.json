@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T09:45:19.923Z",
-  "checkedAt": "2026-11-09T09:45:19.923Z",
+  "generatedAt": "2026-11-09T10:00:28.944Z",
+  "checkedAt": "2026-11-09T10:00:28.944Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -368,6 +368,17 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877059-20261109.htm"
+    },
+    {
+      "id": "742d3fa5171406d6",
+      "title": "Robot loan applications open",
+      "excerpt": "The Digital Policy Office (DPO) today announced that applications are now open for the \"Robots in the Community\" Pilot Programme…",
+      "fullText": "The Digital Policy Office (DPO) today announced that applications are now open for the \"Robots in the Community\" Pilot Programme, allowing eligible organisations to borrow robots for demonstrations and performances at free community events. Applications are free of charge and will close on November 20.\n\nBy loaning a humanoid robot named \"Smart Bot\" at no cost for events hosted by community groups, the scheme enables the public to interact with it first-hand. This direct engagement aims to enhance public understanding of embodied artificial intelligence (AI).\n\nEligible applicants include Hong Kong companies, societies, district organisations, welfare agencies, and Legislative Council or District Council members' offices that serve the public or local residents. Proposed community events under this application round must take place between December 15, 2026, and February 28, 2027.\n\nAt these events, \"Smart Bot\" can perform dancing and kung fu. It can also act as a popular science ambassador to share knowledge of embodied AI and other digital technologies with participants.\n\nThe DPO has introduced various initiatives under the \"Smart Silver\" Digital Inclusion Programme to assist people in need, particularly the elderly, understand and use digital products and services. The \"Robots in the Community\" Pilot Programme will be the latest addition to this campaign.\n\nClick here for details.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261109/20261109_160220_633/images/20261109165541766.jpg",
+      "publishedAt": "2026-11-08T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261109/20261109_160220_633.html"
     },
     {
       "id": "67bf76c85b42e080",
@@ -1259,17 +1270,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_120342_663.html"
-    },
-    {
-      "id": "e92cfa7e283e8efb",
-      "title": "Judicial proceedings defended",
-      "excerpt": "(To watch the full media session with sign language interpretation, click here .) Secretary for Security Tang Ping-keung today issued…",
-      "fullText": "(To watch the full media session with sign language interpretation, click here .)\n\nSecretary for Security Tang Ping-keung today issued a condemnation of malicious attacks and smears launched by external forces in relation to the Wong Chi-fung case, stating that Wong was sentenced through fair and open judicial proceedings.\n\nThe High Court’s Court of First Instance this morning sentenced Wong to 10 years’ imprisonment for the offence of “conspiracy to commit collusion with foreign countries or with external elements to endanger national security”.\n\nMeeting the media this afternoon, Mr Tang said the court had ruled that the case fell within the category of \"an offence of a grave nature\" and warranted severe punishment.\n\n“I note that since the sentence of Wong, external forces have launched malicious attacks and smears regarding the present case,\" he said. “Those launching attacks against us are exactly the same external forces that Wong Chi-fung and Law Kwun-chung attempted to collude with. They must be strongly condemned, and Hong Kong citizens must recognise and acknowledge that clearly.\n\n“In fact, Wong pleaded guilty, and Wong was sentenced through fair and open judiciary proceedings that fully demonstrated the rule of law that the courts of the Hong Kong Special Administrative Region have consistently upheld.”\n\nThe security chief iterated that it is the constitutional duty of the Hong Kong SAR Government to safeguard national security, and that the Government will continue to resolutely combat actions that endanger national security.\n\n“We will discuss with the Department of Justice to see if there is any need for appeal of the sentence,” he added.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_172828_699/images/20261105195035641.jpg",
-      "publishedAt": "2026-11-04T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_172828_699.html"
     },
     {
       "id": "e9f40141ad7ac9df",
