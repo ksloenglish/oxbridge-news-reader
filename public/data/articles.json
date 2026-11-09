@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T07:06:11.364Z",
-  "checkedAt": "2026-11-09T07:06:11.364Z",
+  "generatedAt": "2026-11-09T07:15:17.039Z",
+  "checkedAt": "2026-11-09T07:15:17.039Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 19
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 12
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "4f802db5f8e5129f",
+      "title": "Opportunity knocks for centrist NZ party to turn tide",
+      "excerpt": "The leader of New Zealand's ascendant centrist movement on Monday said voters worldwide were turning against populism after her party…",
+      "fullText": "The leader of New Zealand's ascendant centrist movement on Monday said voters worldwide were turning against populism after her party secured a record result in last week's elections.\n\nQiulae Wong's Opportunity Party could play a kingmaker role in New Zealand's next government after a knife-edge vote in which neither of the country's main parties won enough seats to govern alone.\n\nSpeaking outside parliament, she said her win represented a sea change after a decade of rising populism and extremism worldwide.\n\n\"I think we are seeing a push globally for more pragmatic politics,\" she said.\n\n\"We've seen that populism doesn't deliver results. It is paper thin, it doesn't have substance around taking countries forward. Nearly 150,000 New Zealanders that have voted for Opportunity want to see that more pragmatic approach to politics.\"\n\nNew Zealand now faces weeks of political wrangling after results on Sunday showed no clear winner.\n\nPrime Minister Christopher Luxon has declared his right-wing coalition secured a mandate to form the next government – while conceding results remained too close to call definitively.\n\nPreliminary results have his National Party winning the most seats, giving them a slim majority if combined with their coalition partners, the populist NZ First and the libertarian ACT.\n\nLuxon will run a caretaker government until the final votes are announced on November 27.\n\nWong has said she will work with whichever party has the largest number of seats – but insisted that her party's \"bottom lines\" on climate change action, cost of living and cleaning up politics are non-negotiable.\n\n\"We are coming to that table constructively with pragmatism and some bold ideas,\" she said Monday.\n\n\"If they want to work with us and come to the table with the same kind of attitude, then that's great.\" (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T07:03:40.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877116-20261109.htm"
+    },
     {
       "id": "aaea237420232f7f",
       "title": "Delhi chokes as Diwali celebrations fire up toxic smog",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261005/20261005_212939_604.html"
-    },
-    {
-      "id": "ac963e18ff7c59e6",
-      "title": "Students share Beijing learnings",
-      "excerpt": "The Education Bureau held the learning outcomes sharing session of the \"Salute to the National Flag\" Beijing Visit Delegation at…",
-      "fullText": "The Education Bureau held the learning outcomes sharing session of the \"Salute to the National Flag\" Beijing Visit Delegation at Kowloon Technical School today, promoting the outcomes of the activity among more young people and various sectors of the society.\n\nAbout 250 student representatives of the delegation from tertiary institutions, secondary and primary schools shared their learning experiences during the five-day visit to Beijing.\n\nSpeaking at the session, Chief Secretary Chan Kwok-ki described the delegation as a high-level \"walking classroom\", which enabled students to feel for themselves the national dignity represented by the national flag and the national anthem through the solemn flag-raising ceremony at Tiananmen Square.\n\nHe said that this deepened their understanding of the symbolic meaning of the national flag, and strengthened their sense of national identity and patriotism.\n\nMr Chan said that students experienced at first hand our country's journey from arduous struggle to the great rejuvenation of the Chinese nation from the country's millennia-old cultural heritage to the development achievements of the new era.\n\nHe added that the delegation was received in person by Member of the Standing Committee of the Political Bureau of the CPC Central Committee and Vice Premier of the State Council Ding Xuexiang, and by the Director of the Hong Kong and Macao Work Office of the Communist Party of China Central Committee and the Hong Kong and Macao Affairs Office of the State Council Xia Baolong at the Great Hall of the People.\n\n“Mr Ding conveyed the cordial remarks and exhortations of President Xi and the Central Government to the young people from Hong Kong and Macao, enabling students to feel the care and expectations of the Central Authorities for Hong Kong and Macao young people, and to understand more deeply the important meaning carried by the national flag,” Mr Chan said.\n\nHe emphasised that patriotic education has all along been a top priority of the work of the Hong Kong Special Administrative Region Government. Hong Kong's First Five-Year Plan and the 2026 Policy Address also list the promotion of patriotic education as a key task.\n\nHe noted that today's learning outcomes sharing session aims to pass on more widely and further what the students learned in Beijing, so that more young people may gain a deeper understanding of the important meaning of the national flag and feel more deeply our country's care and concern for young people.\n\nHe said the Government will continue to join hands with various sectors of the society and, through rich and diverse means, enable young people to build a firm sense of national identity, national confidence and a sense of responsibility through first-hand experience.\n\nToday's sharing session began with a flag-raising ceremony. A joint team formed by flag-raising teams of the Association of Hong Kong Flag-guards and the Hong Kong Army Cadets Association, drawing on the experience of exchanges and interaction in Beijing with the People's Liberation Army Ceremonial Escort Battalion, conducted a solemn flag-raising ceremony. Booths were also set up at the session for members of the delegation to introduce their learning experience in Beijing.\n\nAround 1,200 flag-raising team representatives, teachers, students and youth group representatives from Hong Kong and Macao joined the delegation’s thematic activity in Beijing from September 18 to 22.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746/images/20261002231750275.JPG",
-      "publishedAt": "2026-10-01T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746.html"
     }
   ]
 }
