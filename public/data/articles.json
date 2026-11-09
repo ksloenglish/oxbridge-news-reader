@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T14:30:24.993Z",
-  "checkedAt": "2026-11-09T14:30:24.993Z",
+  "generatedAt": "2026-11-09T14:45:18.046Z",
+  "checkedAt": "2026-11-09T14:45:18.046Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -95,10 +95,21 @@
   ],
   "articles": [
     {
+      "id": "7c35d3455d208fd0",
+      "title": "Disney, Adobe strike deal to co-develop AI models",
+      "excerpt": "Disney and Adobe have struck a multi-year deal to co-develop custom generative AI models for the media giant with the…",
+      "fullText": "Disney and Adobe have struck a multi-year deal to co-develop custom generative AI models for the media giant with the goal of scaling AI tools across its theme parks, studio and sports media businesses.\n\nThe move, announced on Monday, will start with speeding up project development timelines at Disney's Experiences division, home to its global theme parks, resorts and cruise lines, and for concept exploration at StudioLAB, the innovation hub within Walt Disney Studios.\n\nAdobe will also work with Disney to use AI tools to boost engagement with sports fans at ESPN and bring more of ESPN's content archive to audiences.\n\nThrough Adobe's Firefly Foundry, which lets enterprises build and deploy custom AI models, the two companies will work on gen-AI models trained on Disney's intellectual properties that will generate production-ready outputs. The models will be private and proprietary to Disney.\n\nWalt Disney Imagineering, the creative, design, and research and development arm behind Disney Experiences, has deployed a custom image generation model and a sketch-to-image model that can turn hand-drawn sketches into fully-rendered concept art.\n\n\"We talk about the time frames in our projects in years – it's years' worth of development. And what Adobe Foundry has allowed us to do is compress the creative process that would have taken months to now being able to do that in hours and days,\" Kyle Laughlin, senior vice president of R&D technology and engineering at Disney, said in an interview.\n\n\"We're able to run through multiple iterations quickly with these tools. And that helps us reduce costly changes in the field once we get into the construction of these experiences,\" Laughlin said, adding that the tools will help accelerate creative development at Disney and are \"in no way meant to replace\" roles at Imagineering.\n\nEarlier this month, Bloomberg News reported that Disney was considering cutting thousands of jobs and has asked some managers to target 20 percent in annual cost savings. (Reuters)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T14:38:10.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877169-20261109.htm"
+    },
+    {
       "id": "38b9deb3af3d707e",
       "title": "Contractors get non-compliance notice over MTR project",
       "excerpt": "The MTR Corporation said on Monday that it had issued a non-compliance notice to the contractors in charge of the…",
-      "fullText": "The MTR Corporation said on Monday that it had issued a non-compliance notice to the contractors in charge of the Tung Chung West station construction.\n\nThis came after around 30 columns there were found to be substandard.\n\nThe railway operator said that it is strictly following up on the mistakes by the relevant contractors, the way they handled the matter and issues over responsibilities.\n\nThe company is now awaiting a comprehensive report from contractors, along with a remedial proposal.\n\nThe MTR said it attaches great importance towards railway projects’ supervision and work quality, and it will continue to carry out inspections as well as adopt other monitoring measures to ensure quality.\n\nThe firm will continue to maintain close contact with relevant government departments to ensure that the safety and quality of the works meet the contractual standards during construction and upon completion.\n\nIt added that it will fully cooperate with the government to probe the incident, and submit a report on time on the cause, remedial measures, as well as the follow-up actions with contractors.\n\nThe MTR reiterated that it will not tolerate any substandard engineering practices, and it will seriously follow up on the matter.\n\nEdited by Aaron Tam",
+      "fullText": "The MTR Corporation said on Monday that it had issued a non-compliance notice to the contractors in charge of the Tung Chung West station construction.\n\nThis came after around 30 columns there were found to be substandard.\n\nThe railway operator said that it is strictly following up on the mistakes by the relevant contractors, the way they handled the matter and issues over responsibilities.\n\nThe company is now awaiting a comprehensive report from contractors, along with a remedial proposal.\n\nThe MTR said it attaches great importance towards railway projects’ supervision and work quality, and it will continue to carry out inspections as well as adopt other monitoring measures to ensure quality.\n\nThe firm will continue to maintain close contact with relevant government departments to ensure that the safety and quality of the works meet the contractual standards during construction and upon completion.\n\nIt added that it will fully cooperate with the government to probe the incident, and submit a report on time on the cause, remedial plan, as well as the follow-up actions with contractors.\n\nThe MTR reiterated that it will not tolerate any substandard engineering practices, and it will seriously follow up on the matter.\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-11-09T14:20:35.000Z",
       "source": "RTHK English — Local",
@@ -1314,17 +1325,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_210135_081.html"
-    },
-    {
-      "id": "a01030ceb54ef2e2",
-      "title": "US trade deficit contracts slightly in September",
-      "excerpt": "The US trade deficit contracted slightly in September, government data there showed on Wednesday, hovering close to its widest since…",
-      "fullText": "The US trade deficit contracted slightly in September, government data there showed on Wednesday, hovering close to its widest since March 2025, driven by capital and consumer goods imports and strong exports.\n\nThe trade gap in the world's largest economy decreased by 0.6 percent to US$105 billion, according to data from the US Commerce Department.\n\nThis was below the US$107.7 billion projected in a consensus forecast released on Marketwatch.\n\nUS trade flows have swung significantly since US President Donald Trump returned to the White House in January 2025, as businesses rushed to get ahead of his sweeping and fast changing tariffs on trading partners.\n\nIn September, US imports rose by 1.2 percent to US$426.6 billion, driven by computers and their accessories. Crude oil imports decreased by US$1.3 billion.\n\nUS exports climbed by 1.8 percent to US$321.5 billion, with oil, food and overall capital goods contributing to the increase.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T14:18:10.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876585-20261104.htm"
     },
     {
       "id": "ca4a3949d40a58c1",
