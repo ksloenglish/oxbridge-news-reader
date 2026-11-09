@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T00:15:18.046Z",
-  "checkedAt": "2026-11-09T02:00:27.453Z",
+  "generatedAt": "2026-11-09T02:15:16.062Z",
+  "checkedAt": "2026-11-09T02:15:16.062Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "db01eac86c85ae1f",
+      "title": "Police flag the use of AI by criminals",
+      "excerpt": "Police are warning that more criminals are making use of artificial intelligence to carry out technology-related crimes, leading to a…",
+      "fullText": "Police are warning that more criminals are making use of artificial intelligence to carry out technology-related crimes, leading to a rise in ransomware cases in the first three quarters of this year.\n\nThe number of these kinds of cases rose by 18 percent year-on-year to 40 during the period.\n\nDespite this, there was an overall dip of 12 percent in the number of tech crimes to 21,573 cases, along with a 15 percent drop in total losses that stood at almost HK$3.9 billion.\n\nChief Superintendent Raymond Lam from the Cyber Security and Technology Crime Bureau noted that agentic AI – autonomous AI systems that execute tasks with minimal human supervision – was widely adopted by criminals to path the attack kill chains in order to carry out hack attacks.\n\n\"They may be used in that kind of cyberattack, like system scanning, vulnerability scanning, penetration, etc,\" he said.\n\n\"Indeed, we understand that the use of AI, they obviously increased the speed of attack, the volume, and the intrusiveness, so that the attack will be more effective.\"\n\nPolice officials believe criminals have scaled up their reconnaissance and phishing attacks before initiating ransomware attacks using AI.\n\nThe growing trend highlighted the importance of Hong Kong police collaborating with both mainland authorities and Interpol, as the rapid evolution of AI poses a challenge to law enforcement.\n\nTo meet the challenge, the SAR joined Interpol’s first year-long AI-powered cyber operation targeting potential phishing and fraudulent links.\n\nUsing an AI-analysis engine, created by Hong Kong police, which can analyse a website’s features, such as its domain and the technical infrastructure, officers can take down or block sites that are deemed risky, before the links reach more people.\n\nEnrique Hernandez-Gonzalez, Assistant Director of Cybercrime Operations at Interpol’s Cybercrime Directorate said such intelligence was shared with 47 jurisdictions.\n\nAs a result, among the roughly 57,000 links that were investigated in the campaign, about 90 percent of them have become inaccessible.\n\n“Hong Kong has information about malicious domains or victims that may be located in other countries,” he said.\n\n“Using Interpol’s channel, we put that information in the outlets of these countries, so they can take action.”\n\nThe second phase of the operation – featuring the involvement of more than 20 jurisdictions across five continents – was launched last month.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-09T01:55:38.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877084-20261109.htm"
+    },
     {
       "id": "b11e0cef50e6ca76",
       "title": "People must come first, Pope tells Argentina",
@@ -720,17 +731,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876843-20261106.htm"
-    },
-    {
-      "id": "455e38509200da94",
-      "title": "'Unlimited land searches raise privacy concerns'",
-      "excerpt": "A development official on Friday said a lack of restrictions for land record searches may lead to privacy concerns, prompting…",
-      "fullText": "A development official on Friday said a lack of restrictions for land record searches may lead to privacy concerns, prompting the authorities to adjust the mechanism.\n\nHer remarks came after the government proposed legislative amendments, saying land record searches must meet one of nine specified purposes.\n\nSpeaking to lawmakers, Permanent Secretary for Development of Planning and Lands Doris Ho said there should be room for the media to carry out investigative reporting by allowing the search in the public interest, including the reporting of large-scale unauthorised building works.\n\n“We believe that there should be a mechanism – a not too difficult one – for the media to carry out reporting that serves public interest,” she said.\n\n“We want to have this type of reporting. Therefore, although an application and some information will be required in the future… we believe the chance of approval is very high.”\n\nHo added that although there is no appeal mechanism, if an application is rejected, the applicant could submit grounds that were not previously provided for authorities to reconsider.\n\nAuthorities are also looking at the introduction of a mechanism to inform home owners whose properties are being searched, she said.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T09:07:06.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876833-20261106.htm"
     },
     {
       "id": "241d274504cae706",
