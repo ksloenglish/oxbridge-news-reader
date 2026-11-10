@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T06:00:30.543Z",
-  "checkedAt": "2026-11-10T06:45:17.730Z",
+  "generatedAt": "2026-11-10T07:00:27.690Z",
+  "checkedAt": "2026-11-10T07:00:27.690Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "35336d93746cdcf8",
+      "title": "Australia to be AI first-mover with safety regulator",
+      "excerpt": "Australia plans to create an artificial intelligence safety regulator in response to a breach of an Australian health department website…",
+      "fullText": "Australia plans to create an artificial intelligence safety regulator in response to a breach of an Australian health department website by a rogue OpenAI agent in June, Prime Minister Anthony Albanese said on Tuesday.\n\nThe regulator would enforce world-leading legislated AI standards that would apply to all frontier AI companies that want to operate in Australia, he said.\n\nFinancial penalties would apply, although the government has yet to detail those penalties.\n\n“When it comes to the generational opportunity that artificial intelligence offers Australia, I’ve been very clear: our task is to make sure we shape AI rather than AI shape us,” Albanese said.\n\n“Australia is the first mover in this space and we want to make sure that we continue to work so that we can reap the potential benefits from AI.”\n\nAI standards would mandate rapid incident notifications\n\nThe standards would include companies maintaining security controls across all stages of models’ development and deployment, as well as identifying and managing serious risks.\n\nThe standards also would mandate rapid notification to the government of incidents such as “misaligned behavior” conflicting with developers' intentions.\n\nAustralian government documents define frontier AI as the most sophisticated models at the cutting edge of current technological capability.\n\nAlbanese told OpenAI chief executive Sam Altman that the US company took too long to inform the government in September that a rogue agent had infiltrated government websites three months earlier, which was the first occurrence of such a breach with the technology.\n\nInformation taken without authorisation from the public-facing Medicare Statistics Reporting Service portal on June 18 has since been made public.\n\nIt is not clear whether the portal breach broke any Australian laws.\n\nOpenAI apologised in September for the breach and its slow response.\n\n“We are sorry and working to do better in the future,” OpenAI said in a statement.\n\n“We also should have handled our response better.”\n\nA government inquiry into the June breach made several recommendations including that the government consider changing the law.\n\nAlbanese said his government had accepted all the inquiry’s recommendations, including for potential criminal law reform.\n\n“The point is law needs to get ahead of and in some cases make sure that it catches up with what is a very fast-changing world. And to be clear, Australia is a first-mover in these areas,” Albanese said.\n\nThe proposed AI regulator would follow Australia appointing an eSafety Commissioner in 2015.\n\nThe office describes itself as the world’s first government agency dedicated to keeping people safer online.\n\nSince December, the commissioner has been enforcing a world-first ban on Australian children younger than 16 holding accounts on popular social media platforms. (AP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T06:45:23.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877246-20261110.htm"
+    },
     {
       "id": "b301748bac1f94d4",
       "title": "No internet, no advance warning: 11 killed in Myanmar military bombing in Sagaing",
@@ -643,17 +654,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877057-20261109.htm"
-    },
-    {
-      "id": "e522f1519454533e",
-      "title": "Trump 'unlikely' to order fresh Iran attacks",
-      "excerpt": "US President Donald Trump on Sunday cast doubt on renewed fighting with Iran, telling CNN that it was \"highly unlikely\"…",
-      "fullText": "US President Donald Trump on Sunday cast doubt on renewed fighting with Iran, telling CNN that it was \"highly unlikely\" so long as talks progressed.\n\nIn recent weeks, Trump has threatened to renew strikes with US media reports suggesting that hostilities could resume after the US midterm elections this week.\n\n\"The answer is highly unlikely it's going to be necessary... I would if necessary, but we hit them really hard. I hit them so hard. You don't know how hard I hit them,\" Trump said, while warning that any decision to resume hostilities \"depends on whether or not they sign a very strong agreement.\"\n\nTrump previously acknowledged that the highly unpopular war with Iran was at least partially responsible for the stinging defeat that his Republican Party suffered in last week's vote.\n\nIn the CNN interview on Sunday, Trump once again suggested that the economic pressure Iran is under will force its leaders into accepting a peace deal on the United States' terms.\n\n\"They're a failing nation. It just came out, you saw this year, 301 percent inflation,\" Trump claimed. \"They're withering away financially. We've hit them militarily. We could finish them off.\"\n\nBut earlier on Sunday, Iranian Foreign Minister Abbas Araghchi suggested peace talks had been paused while the political fallout of the Democratic Party's landslide victory was being assessed.\n\n\"For the past few days, there has been no more travel (by mediators), and the reason for this is the shock that the election results in the United States have caused to everyone,\" Araghchi told state television. \"We now have to see how long it will take for them to digest these results, in order to determine how we are going to move forward.\"\n\nIran continues to at least partly block traffic through the strategic Strait of Hormuz, which has dented oil supplies out of the Gulf. That, in turn, has driven up gasoline prices in the United States, contributing to the unpopularity of the war. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T23:08:46.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877062-20261109.htm"
     },
     {
       "id": "319925547ff14f71",
