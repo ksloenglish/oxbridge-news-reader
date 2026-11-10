@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T09:30:25.254Z",
-  "checkedAt": "2026-11-10T10:00:27.209Z",
+  "generatedAt": "2026-11-10T10:04:28.963Z",
+  "checkedAt": "2026-11-10T10:04:28.963Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "50f9f3678512090b",
+      "title": "'A Symphony of Lights' to go out with a bang next week",
+      "excerpt": "The Tourism Board said a multimedia light show that has been a nightly fixture across Victoria Harbour for more than…",
+      "fullText": "The Tourism Board said a multimedia light show that has been a nightly fixture across Victoria Harbour for more than two decades will be performed one last time on November 18.\n\nBoard chairman Peter Lam said on Tuesday it's time to bring the curtain down on \"A Symphony of Lights\", which has thrilled millions of locals and visitors alike since 2004.\n\n\"A Symphony of Lights, which has accompanied us in Hong Kong for 22 years, will perform its final show... with added pyrotechnic elements to commemorate this meaningful moment,\" he said.\n\n\"As for other light and projection shows, we will continue to roll them out gradually next year.\"\n\nFinancial Secretary Paul Chan, who announced a string of initiatives in this year's budget to enhance the city's tourism appeal, has said the long-running show will be replaced by \"light festivals across various locations at different times of the year\".\n\nMeanwhile, Lam said revellers can look forward to Hong Kong WinterFest, which will run from November 18 to January 5.\n\nHe said that the annual Christmas and New Year celebrations will be the biggest ever.\n\nUnder \"Winter Wonderland\", three festive installations will go up in Central, Tsim Sha Tsui and Causeway Bay, including a 22-metre Christmas tree at Statue Square Gardens.\n\nThe traditional New Year's Eve countdown will culminate in a fireworks display over Victoria Harbour.\n\nThere will also be shopping and dining discounts.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T09:41:33.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877270-20261110.htm"
+    },
     {
       "id": "fbb1b327c9497a63",
       "title": "Tech gains, oil price falls lift HK, mainland markets",
@@ -786,17 +797,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877013-20261108.htm"
-    },
-    {
-      "id": "6b097e1e136e7913",
-      "title": "Govt to boost high-value tourism and Mice",
-      "excerpt": "Financial Secretary Paul Chan on Sunday said the government would continue to support the growth of high-value tourism alongside the…",
-      "fullText": "Financial Secretary Paul Chan on Sunday said the government would continue to support the growth of high-value tourism alongside the Meetings, Incentives, Conferences, and Exhibitions (Mice) industry.\n\nWriting in his weekly blog, Chan noted that Hong Kong had been buzzing with major events over the past week, including financial summits and international exhibitions.\n\nHe highlighted the three-day inaugural \"Festival of Connoisseurs\", which showcased an array of luxury goods such as supercars, yachts and jewellery, noting that it drew over 3,000 visitors from around the world.\n\nCiting industry research, Chan said visitors attending international exhibitions spend an average of HK$9,300 per person, which is 70 percent higher than a typical overnight tourist.\n\nThe research, he said, also estimated that the exhibition industry contributed over HK$50 billion to Hong Kong’s economy in 2024 and created around 67,000 full-time jobs.\n\nChan said the government would continue to vigorously promote mega events across different fields and improve supporting facilities.\n\nThe Tourism Board, he added, would also continue to work with the industry to tailor more unique experiences and services for high-value visitors.\n\nLooking ahead, Chan noted that Hong Kong's capacity for large-scale Mice events would expand by more than 40 percent upon the completion of Phase 2 of AsiaWorld-Expo and the Wan Chai North redevelopment project.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T05:17:14.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877000-20261108.htm"
     },
     {
       "id": "45378002f52f13ee",
