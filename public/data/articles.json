@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T04:45:18.637Z",
-  "checkedAt": "2026-11-10T05:00:30.225Z",
+  "generatedAt": "2026-11-10T05:15:17.927Z",
+  "checkedAt": "2026-11-10T05:15:17.927Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -50,7 +50,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 20
     },
     {
       "id": "news-gov-hk-top",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "ffef71cb427c4d4b",
+      "title": "Balmy weather set to overtake cool spell later in week",
+      "excerpt": "The Observatory recorded a low of 17.5 degrees Celsius in urban areas on Tuesday morning – the lowest since autumn…",
+      "fullText": "The Observatory recorded a low of 17.5 degrees Celsius in urban areas on Tuesday morning – the lowest since autumn began this year.\n\nActing senior scientific officer Lam Hok-yin said the city was being affected by relatively strong northerly winds.\n\n\"When it's windy, body heat is easily blown away, so it feels colder,\" he said.\n\n\"Everyone's constitution is different – so when it's windy and cold, we urge people to put on an extra layer before heading out.\"\n\nLam said Wednesday morning would still be relatively cool, with urban temperatures around 18 degrees and the New Territories at least one or two degrees lower.\n\nBut with sunny and dry weather, daytime temperatures may rise to around 25 degrees and should climb further later in the week, he pointed out.\n\nLooking ahead to winter, he said under the influence of global warming and the super El Niño, Hong Kong's temperatures are very likely to be normal to above normal, with more rainfall than usual.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T04:45:12.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877233-20261110.htm"
+    },
     {
       "id": "57ab164101af9040",
       "title": "Safety expert urges new layer to lift system checks",
@@ -805,8 +816,8 @@
       "fullText": "France’s Nils Serre Gehri produced a dramatic late surge to win the men’s individual title at the World Triathlon Cup Hong Kong on Saturday, while Russia’s Diana Isakova continued her strong run of form by claiming the women’s race.\n\nGehri, who won the U23 title in Pontevedra, Spain, in September, clocked 50 minutes and 14 seconds.\n\nHe overtook Australia’s Callum McClusky right at the finish line to seal the victory, with Spain’s David Castro Fajardo rounding out the podium in third.\n\nHong Kong, China’s Nicholas Tsang finished 58th in 54 minutes and 44 seconds.\n\nIn the women’s race, Isakova arrived in Hong Kong fresh from a World Cup win in Rome and made it back-to-back victories, finishing in 55 minutes and 39 seconds.\n\nLuxembourg’s Jeanne Lehair took second, followed by Huang Anqi of the national team.\n\nHilda Choi was the top finisher among Hong Kong triathletes in 37th place, with Cade Wright 39th and Bailee Brown 50th.\n\nThe roughly 24-kilometre course began along the Central and Wan Chai waterfront, with athletes opening with a 750-metre swim in Victoria Harbour.\n\nThey then tackled an 18.5-kilometre bike leg past Expo Drive, the International Finance Centre and the Central Piers before closing with a five-kilometre run to the finish line on Lung Wo Road.\n\nThe mixed team relay is scheduled for Sunday.\n\nEdited by Azam Khan",
       "imageUrl": null,
       "publishedAt": "2026-11-07T10:22:25.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876947-20261107.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
-    },
-    {
-      "id": "940d79532a5b6d51",
-      "title": "Nursing workforce planning outlined",
-      "excerpt": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare…",
-      "fullText": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare professionals. The statement was issued in response to public discussions regarding nursing manpower planning in Hong Kong, adding that such discussions should be grounded objective facts and data to foster consensus.\n\nAlthough the nurse attrition rate within the Hospital Authority has dropped from a peak of 10.9% to 5.4%, approximately 3,200 vacancies remain unfilled with recruitment ongoing. In 2025, around 3,500 of the 4,000 prospective nursing graduates qualified as Registered Nurses (RNs) or Enrolled Nurses (ENs), with about 60% applying for positions within the authority.\n\nThese figures demonstrate that graduates diversify into various sectors, including private healthcare institutions, elderly services and rehabilitation, community nursing, insurance and health management. Notably, approximately 99% of applicants who completed the interview or assessment process for RN posts within the authority received an offer of appointment.\n\nAs of the end of 2025, over 30,000 of Hong Kong’s 75,000 RNs and ENs were employed within the public healthcare system, representing roughly 40% of the total workforce. Given that nursing practice spans hospitals, primary care, community and elderly services, rehabilitation and other health service sectors, the Government noted that manpower supply and demand must be assessed holistically across the entire market.\n\nFurthermore, approximately 99.8% of RNs serving in the authority are locally trained, confirming that local professionals remain the backbone of public healthcare. The Government affirmed it will continue to promote regional healthcare collaboration and professional exchanges while strictly safeguarding employment priority for locally trained professionals.\n\nPlans are also underway to strengthen manpower training for primary healthcare and advance professional systems to enhance service quality and maximise the professional functions of nurses. Addressing broader roles, the Government stressed that the Health & Care Practitioner (HCP) rank is a dedicated welfare-sector role that should not be confused with ENs due to distinct scopes of practice.\n\nAcknowledging broader recruitment pressures, the Health Bureau noted that private hospitals face similar shortages, with one facility reporting 40 vacancies but receiving only 25 applications over the past year. In response to an ageing population, the Government reiterated its commitment to driving cross-sectoral collaboration and manpower planning based on service needs and manpower data to ensure that healthcare and nursing services in Hong Kong can continue to meet the needs of society.\n\nThe Government hopes that all sectors of the community will exchange views on healthcare manpower development and professional training based on facts and data, and work together to foster the sustainable development of the city's healthcare system.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431/images/20260929142417086.jpg",
-      "publishedAt": "2026-09-28T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
     }
   ]
 }
