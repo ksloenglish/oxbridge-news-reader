@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T14:00:30.870Z",
-  "checkedAt": "2026-11-10T14:00:30.870Z",
+  "generatedAt": "2026-11-10T14:17:28.592Z",
+  "checkedAt": "2026-11-10T14:17:28.592Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "26b38ff0b146c345",
+      "title": "Exco green lights part two of the Northern Link",
+      "excerpt": "The government and the MTR Corporation on Tuesday signed the project agreement for the full Northern Link project, as the…",
+      "fullText": "The government and the MTR Corporation on Tuesday signed the project agreement for the full Northern Link project, as the Executive Council approved the financial arrangement for the second part of the plan.\n\nExco greenlit part one of the project in July last year.\n\nThis means that the main line and the spur line – expected to be commissioned simultaneously by 2034 – have fully entered the construction stage.\n\nThe cost is estimated to be about HK$54.8 billion for part two of the project, while the entire project is estimated to cost about HK$86.2 billion – 28 percent lower than the initial forecast, due to the shortened construction period and cost-saving benefits.\n\nExco agreed to grant a total of eight sites located in Ngau Tam Mei Area, San Tin Area, Kwu Tung North Area and the proposed Au Tau New Development Area to the railway operator for residential and commercial development.\n\nA fixed lump sum will be deducted from the land premium of the sites to help fund the MTR in carrying out part two of the project.\n\nThe railway operator, for its part, said the estimated capital cost for the Northern Link is the most expensive one among its works.\n\nIt emphasised that it had been financially sound in recent years, and that it increased cash flow by issuing bonds.\n\nThe MTR said it does not rule out the possibility of raising capital through ways other than bond issuance.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T14:08:12.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877299-20261110.htm"
+    },
     {
       "id": "304c8c2fa498a55d",
       "title": "Hegseth calls impeachment move 'political spectacle'",
@@ -742,17 +753,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877090-20261109.htm"
-    },
-    {
-      "id": "db01eac86c85ae1f",
-      "title": "Police flag the use of AI by criminals",
-      "excerpt": "Police are warning that more criminals are making use of artificial intelligence to carry out technology-related crimes, leading to a…",
-      "fullText": "Police are warning that more criminals are making use of artificial intelligence to carry out technology-related crimes, leading to a rise in ransomware cases in the first three quarters of this year.\n\nThe number of these kinds of cases rose by 18 percent year-on-year to 40 during the period.\n\nDespite this, there was an overall dip of 12 percent in the number of tech crimes to 21,573 cases, along with a 15 percent drop in total losses that stood at almost HK$3.9 billion.\n\nChief Superintendent Raymond Lam from the Cyber Security and Technology Crime Bureau noted that agentic AI – autonomous AI systems that execute tasks with minimal human supervision – was widely adopted by criminals to path the attack kill chains in order to carry out hack attacks.\n\n\"They may be used in that kind of cyberattack, like system scanning, vulnerability scanning, penetration, etc,\" he said.\n\n\"Indeed, we understand that the use of AI, they obviously increased the speed of attack, the volume, and the intrusiveness, so that the attack will be more effective.\"\n\nPolice officials believe criminals have scaled up their reconnaissance and phishing attacks before initiating ransomware attacks using AI.\n\nThe growing trend highlighted the importance of Hong Kong police collaborating with both mainland authorities and Interpol, as the rapid evolution of AI poses a challenge to law enforcement.\n\nTo meet the challenge, the SAR joined Interpol’s first year-long AI-powered cyber operation targeting potential phishing and fraudulent links.\n\nUsing an AI-analysis engine, created by Hong Kong police, which can analyse a website’s features, such as its domain and the technical infrastructure, officers can take down or block sites that are deemed risky, before the links reach more people.\n\nEnrique Hernandez-Gonzalez, Assistant Director of Cybercrime Operations at Interpol’s Cybercrime Directorate said such intelligence was shared with 47 jurisdictions.\n\nAs a result, among the roughly 57,000 links that were investigated in the campaign, about 90 percent of them have become inaccessible.\n\n“Hong Kong has information about malicious domains or victims that may be located in other countries,” he said.\n\n“Using Interpol’s channel, we put that information in the outlets of these countries, so they can take action.”\n\nThe second phase of the operation – featuring the involvement of more than 20 jurisdictions across five continents – was launched last month.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T01:55:38.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877084-20261109.htm"
     },
     {
       "id": "95b02bba10ba5688",
