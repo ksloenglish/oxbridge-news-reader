@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T23:13:18.537Z",
-  "checkedAt": "2026-11-10T23:13:18.537Z",
+  "generatedAt": "2026-11-10T23:15:16.381Z",
+  "checkedAt": "2026-11-10T23:15:16.381Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,39 @@
     }
   ],
   "articles": [
+    {
+      "id": "c0f4597ec996553b",
+      "title": "Bulgaria motorway pileup kills 11, injures dozens",
+      "excerpt": "Eleven people died and dozens were injured on Tuesday in a mass pileup in thick fog on a motorway in…",
+      "fullText": "Eleven people died and dozens were injured on Tuesday in a mass pileup in thick fog on a motorway in southeastern Bulgaria, whose roads rank as the most dangerous in the EU.\n\nCrashes snared around 50 cars and trucks heading in both directions of the highway linking the capital Sofia to the Black Sea city of Burgas, regional governor Georgi Chalakov told the BTA state news agency.\n\nImages showed overturned and smashed cars and trucks mangled together, as well as burnt-out vehicles, at the scene of the accident near the city of Yambol.\n\nInterior Minister Ivan Demerdzhiev said in a statement that a sudden change in weather conditions was the main reason for the pileup.\n\nVisibility was around 70-80 metres immediately before the incident, but dropped to approximately 10 metres within a short period, according to information available to the ministry.\n\n\"We are actively working on equipping the toll system gantries with display screens to warn drivers,\" he said.\n\nThe motorway section should have been closed early on Tuesday, Bogdan Milchev, chairman of the Road Safety Institute NGO, told public radio station BNR, blaming the government.\n\nTen people died at the scene, while another person died after being admitted to hospital, the health ministry said in a statement, revising an earlier statement that had said 11 people died at the scene.\n\nIn total, 51 people were admitted to hospitals in nearby cities, with 13 of them critically injured, it added.\n\nThe government dispatched two aircraft equipped with stretchers and medical teams, as government officials rushed to the scene, while Prime Minister Rumen Radev cancelled his appointments for later on Tuesday.\n\nThe government wants Wednesday to be a day of national mourning, while President Iliana Iotova, rushing back from abroad, also expressed her condolences.\n\nBulgaria saw 71 road fatalities per million inhabitants in 2025, the highest rate in the European Union, according to European Commission figures.\n\nVictims blame the Balkan nation's high number of traffic deaths on reckless driving, poorly maintained roads and an inefficient justice system.\n\nRomanian Foreign Minister Dan Neculaescu said one Romanian was among the injured and expressed \"deepest condolences\" to the victims and their families in a post on X.\n\nEuropean Council chief Antonio Costa also said on X he was \"deeply saddened to learn of the tragic traffic accident in Bulgaria this morning.\" (AFP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T23:07:29.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877313-20261111.htm"
+    },
+    {
+      "id": "8e939e781ece185a",
+      "title": "Ex-Malaysian PM Najib out of jail, starts house arrest",
+      "excerpt": "Former Malaysian prime minister Najib Razak arrived home on Tuesday to start serving the rest of his jail sentence for…",
+      "fullText": "Former Malaysian prime minister Najib Razak arrived home on Tuesday to start serving the rest of his jail sentence for corruption under house arrest.\n\nNajib, 73, was jailed for his role in one of the largest global plunders of a sovereign wealth fund, the now-defunct 1Malaysia Development Berhad (1MDB).\n\nHe arrived at his residence in an upmarket Kuala Lumpur residential enclave in a silver car that was part of a convoy of vehicles.\n\nThe Kuala Lumpur High Court cleared the way for Najib's transfer earlier on Tuesday and issued a fresh order after the attorney general disputed a previous directive.\n\nNajib was granted a conditional pardon by Malaysia's king in September, allowing him to serve out the rest of his sentence at home provided that he paid a US$12 million fine.\n\nHis political party, the United Malays National Organisation (UMNO), paid the fine on Friday, but the attorney-general blocked Najib's transfer on legal grounds.\n\n\"In accordance with the order of conditional pardon, the accused shall serve the remainder of the reduced sentence of six years' imprisonment under house arrest,\" Kuala Lumpur High Court judge Aslam Zainuddin said after meeting defence lawyers and public prosecutors.\n\nThe road leading to Najib's residence was cordoned off before his arrival, with yellow police tape and traffic cones blocking access to the area.\n\nMalaysia's king warned on Saturday that the attorney general risked denying a royal order by delaying Najib's transfer, adding that there was no ambiguity about the pardon he was granted.\n\nNajib was originally sentenced to 12 years in prison in July 2020 in a first trial over vast sums of money siphoned from a former 1MDB subsidiary.\n\nA pardons board later halved the term and reduced his fine. That sentence is due to be completed by August 2028.\n\nNajib was also sentenced to another 15 years in a separate trial linked to the 1MDB scandal, against which he has also lodged an appeal.\n\nAsked about Najib's reaction to his house arrest, defence lawyer Muhammad Shafee Abdullah said: \"It's a final relief, a great sigh to him because he's been waiting for this.\"\n\nHowever, he added that house arrest is \"still an imprisonment because he can't leave the house unless he gets special permission or for a special reason.\"\n\nTransport Minister Anthony Loke, leader of a political party that is part of the ruling coalition and who has opposed corruption and abuse of power, resigned in protest on Tuesday over the decision.\n\nBut Najib supporter Mohd Jamal Omar, 47, said he was happy and had driven four hours from another state.\n\n\"I feel so grateful and happy that I get to see Datuk Seri Najib arrive at his house, to be with his family,\" he said, one of a handful of supporters who waited for Najib's arrival.\n\nNajib, the son of one of Malaysia's founding fathers, was groomed for leadership from a young age but fell from power spectacularly as public anger mounted over the corruption scandal.\n\nInvestigations under successive governments have ensnared him and his wife, Rosmah Mansor, in graft allegations since his loss in 2018 elections.\n\nProsecutors said Najib abused his positions as prime minister, finance minister and 1MDB advisory board chairman to move vast sums from the fund into his personal accounts.\n\nProceeds from the fund were used to bankroll high-end real estate, a luxury yacht and precious artworks, including a Monet and a van Gogh, according to investigators. (AFP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T23:04:27.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877319-20261111.htm"
+    },
+    {
+      "id": "c330824d2ca2bafd",
+      "title": "US lawmakers urge new Epstein probe in damning report",
+      "excerpt": "US lawmakers called on Tuesday for further criminal investigations into associates of notorious sex offender Jeffrey Epstein, in a scathing…",
+      "fullText": "US lawmakers called on Tuesday for further criminal investigations into associates of notorious sex offender Jeffrey Epstein, in a scathing report blaming prosecutors, financial institutions and powerful connections for allowing his abuse to continue for years.\n\nThe Epstein saga has dogged US President Donald Trump, who was friends with the financier for years but has denied any knowledge of his crimes. Accusations that Trump covered up much of the investigation triggered the first major rift with the president's support base after he returned to the White House.\n\nThe Republican-led House Oversight Committee urged the Justice Department to interview or reinterview key witnesses and pursue allegations against two prominent men who associated with the disgraced financier.\n\nFormer Miami Beach mayor Philip Levine and French celebrity hairstylist Frederic Fekkai both deny allegations of sexual assault – referred to federal prosecutors by the committee in June – from Epstein's long-time assistant Sarah Kellen.\n\nThe report also called for further questioning of another long-time Epstein assistant, Lesley Groff, over her possible knowledge of his crimes.\n\nGroff maintained she had never suspected Epstein of sexually abusing women and girls – testimony the Republican investigators described as not credible.\n\nThe recommendations emerged from a 15-month congressional investigation involving testimony from prominent figures in Epstein's financial and social circle and an extensive examination of government and banking records.\n\n\"Epstein operated with impunity, shielded and enabled by powerful connections and a justice system that repeatedly failed his victims,\" committee chairman James Comer said.\n\nThe report concluded that Epstein's crimes after 2005 could have been prevented had federal investigators and prosecutors pursued the original allegations against him more aggressively.\n\nInstead, prosecutors in Florida reached a controversial agreement in 2007 allowing him to escape federal charges in exchange for pleading guilty to lesser state offences.\n\nEpstein received an 18-month jail sentence but served only 13 months, enjoying extensive work-release privileges during which he continued abusing women, according to the report.\n\nThe investigation also accused financial institutions of overlooking suspicious transactions and warning signs of human trafficking, singling out American Express.\n\nLawmakers urged the US Treasury Department to examine whether banks were properly reporting suspicious activity linked to trafficking and money laundering.\n\nThe report also criticised the US Justice Department for exposing survivors' private information during releases of Epstein files.\n\nThe Republican investigators said they had uncovered no evidence implicating Trump in Epstein's crimes and accused Democrats of politicising the inquiry.\n\nBut the committee's top Democrat, Robert Garcia, dismissed the findings as the product of an incomplete investigation that included no public hearings, accusing the Justice Department of illegally withholding \"over 2.5 million pages of documents.\"\n\nDemocrats, who seized control of Congress in last week's midterm elections, have vowed to continue investigating Epstein's network when they assume their new powers in January.\n\nEpstein died in a New York jail in 2019 while awaiting trial on federal sex trafficking charges. His accomplice Ghislaine Maxwell is serving a 20-year prison sentence. (AFP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T23:01:46.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877322-20261111.htm"
+    },
     {
       "id": "95175d27d15c212d",
       "title": "Anthropic targets valuation of up to US$1.4 trillion",
@@ -687,28 +720,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877131-20261109.htm"
-    },
-    {
-      "id": "4f802db5f8e5129f",
-      "title": "Opportunity knocks for centrist NZ party to turn tide",
-      "excerpt": "The leader of New Zealand's ascendant centrist movement on Monday said voters worldwide were turning against populism after her party…",
-      "fullText": "The leader of New Zealand's ascendant centrist movement on Monday said voters worldwide were turning against populism after her party secured a record result in last week's elections.\n\nQiulae Wong's Opportunity Party could play a kingmaker role in New Zealand's next government after a knife-edge vote in which neither of the country's main parties won enough seats to govern alone.\n\nSpeaking outside parliament, she said her win represented a sea change after a decade of rising populism and extremism worldwide.\n\n\"I think we are seeing a push globally for more pragmatic politics,\" she said.\n\n\"We've seen that populism doesn't deliver results. It is paper thin, it doesn't have substance around taking countries forward. Nearly 150,000 New Zealanders that have voted for Opportunity want to see that more pragmatic approach to politics.\"\n\nNew Zealand now faces weeks of political wrangling after results on Sunday showed no clear winner.\n\nPrime Minister Christopher Luxon has declared his right-wing coalition secured a mandate to form the next government – while conceding results remained too close to call definitively.\n\nPreliminary results have his National Party winning the most seats, giving them a slim majority if combined with their coalition partners, the populist NZ First and the libertarian ACT.\n\nLuxon will run a caretaker government until the final votes are announced on November 27.\n\nWong has said she will work with whichever party has the largest number of seats – but insisted that her party's \"bottom lines\" on climate change action, cost of living and cleaning up politics are non-negotiable.\n\n\"We are coming to that table constructively with pragmatism and some bold ideas,\" she said Monday.\n\n\"If they want to work with us and come to the table with the same kind of attitude, then that's great.\" (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T07:03:40.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877116-20261109.htm"
-    },
-    {
-      "id": "aaea237420232f7f",
-      "title": "Delhi chokes as Diwali celebrations fire up toxic smog",
-      "excerpt": "Toxic air in parts of India's capital New Delhi soared to more than 58 times the World Health Organisation's recommended…",
-      "fullText": "Toxic air in parts of India's capital New Delhi soared to more than 58 times the World Health Organisation's recommended daily limit on Monday, after fireworks for the Hindu festival of Diwali, air monitor data showed.\n\nMillions celebrate the annual festival of lights with fireworks in one of the world's most polluted capitals, worsening winter smog fuelled by vehicle emissions, farm fires and industry.\n\nThe Supreme Court this month allowed the limited use of so-called \"green\" firecrackers, designed to produce fewer emissions, during Diwali.\n\nBut restrictions are routinely flouted, with the city reverberating with explosions.\n\nOn early Monday morning, around eight hours after the peak of the bursting fireworks, levels of cancer-causing PM 2.5 microparticles hit 879 micrograms per cubic metre in the Mandir Marg locality, according to monitoring organisation IQAir, which cited data from a city government station.\n\nThat is nearly 59 times the WHO's recommended daily maximum.\n\nAuthorities have in recent weeks implemented restrictions on traffic and construction as they seek to curb smog in New Delhi, home to more than 30 million people.\n\nVehicles account for 23 percent of Delhi's winter pollution, while biomass burning, including farm stubble fires, contributes 20 percent, according to India's environment ministry.\n\nIndustry, including coal-fired power plants, contributes about nine percent.\n\nThe largest share, 27 percent, comes from secondary particles, formed when gases released by vehicles, industry, power plants and biomass burning react in the atmosphere.\n\nA 2024 study published in The Lancet Planetary Health, a peer-reviewed research journal, estimated that 3.8 million deaths in India between 2009 and 2019 were linked to air pollution. (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T06:59:16.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877119-20261109.htm"
     },
     {
       "id": "1b2f37aec0de9468",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
-    },
-    {
-      "id": "9ae8a1e02c50d50c",
-      "title": "SED meets state leader in Beijing",
-      "excerpt": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in…",
-      "fullText": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in visiting a state leader and Ministry of Education officials in Beijing.\n\nMs Choi and the delegates were received by Vice-Chairperson of the National People's Congress Standing Committee Tie Ning at the Great Hall of the People this afternoon. They also met and exchanged views with officials from the ministry.\n\nMs Choi remarked that this year marks the 77th anniversary of the founding of the People's Republic of China, the 105th anniversary of the founding of the Communist Party of China, and the opening year of the National 15th Five-Year Plan.\n\nShe said it was highly significant for Hong Kong's education sector to visit Beijing ahead of National Day, on October 1, and to celebrate the motherland's birthday and experience a jubilant festive atmosphere with people in the capital.\n\nMs Choi highlighted that last week the Hong Kong Special Administrative Region Government announced its First Five-Year Plan, which aligns with the National 15th Five-Year Plan. She outlined that the Hong Kong's education sector faces multiple tasks, including digital education, talent cultivation and the integration of industry and education.\n\nShe said: “The delegation enabled teachers to gain insight into the latest education developments of the country and share experiences with Chinese Mainland teachers in areas such as operation models, curricula and teaching arrangements of schools at all levels.\n\n“It not only broadened their horizons but also fostered exchanges between the education sectors of both places, providing important references for the future development of Hong Kong's education and laying a foundation for deeper collaboration.”\n\nMs Choi and the delegation subsequently attended a banquet hosted by the Ministry of Education, where they engaged in in-depth discussions regarding professional connections and mutual learning between the education sectors of the two places.\n\nMs Choi and the delegation members will conclude their visit and return to Hong Kong tomorrow.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014/images/20260923195636768.jpg",
-      "publishedAt": "2026-09-22T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
     }
   ]
 }
