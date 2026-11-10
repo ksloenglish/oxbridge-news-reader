@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T07:15:17.843Z",
-  "checkedAt": "2026-11-10T07:30:26.088Z",
+  "generatedAt": "2026-11-10T07:45:18.864Z",
+  "checkedAt": "2026-11-10T07:45:18.864Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -95,6 +95,17 @@
   ],
   "articles": [
     {
+      "id": "041900f59c9bda03",
+      "title": "'SZ, HK should join hands to grow external trade'",
+      "excerpt": "As Shenzhen's maritime logistics industry has taken off in recent years, a senior official at one of the world's busiest…",
+      "fullText": "As Shenzhen's maritime logistics industry has taken off in recent years, a senior official at one of the world's busiest container terminals said Hong Kong still had much to offer as the nation forges closer ties with the world.\n\nYantian Port, in eastern Shenzhen, is a vital gateway between the nation's manufacturing engine and global markets.\n\nIt handles more than one-third of Guangdong's foreign trade and a quarter of the country's container exports to the United States.\n\nAccording to the Shenzhen municipal government, the deep-water port handled 16.1 million TEUs, or twenty-foot equivalent units, in 2025, representing a 7.1 percent year-on-year increase.\n\nLawrence Shum, managing director of Yantian, a subsidiary of Hutchison Ports, said the terminal operates nearly 100 international routes on a weekly basis.\n\nFifty-three of those routes are linked to Apec economies.\n\n\"Since the start of this year, we have added 14 new routes to and from Apec economies, further expanding our international network and fostering regional trade,\" he said.\n\n\"According to the customs figures, Shenzhen continues to lead the country in both imports and exports to Apec economies. We even set a record in the first nine months of this year, with a trade value of 3.23 trillion yuan, a 40 percent jump.\"\n\nShum explained that Yantian had a unique advantage over other Shenzhen ports when handling shipments from inland regions.\n\n\"Yantian houses Shenzhen's only railway that reaches directly into the port area. Through sea‑rail intermodal transport, port services can be extended to inland regions such as the southwest and central areas, making it more convenient for enterprises in Chengdu and Chongqing and bringing them closer to international markets,\" he said.\n\nUnder Shenzhen's 15th Five-Year Plan, Yantian is to strengthen cooperation with Hong Kong's Kwai Tsing Container Terminals.\n\nShum said six daily vessel trips between the two ports mean cargo can arrive at its destination in about six to eight hours.\n\n\"For inland foreign trade enterprises, transportation time can be more stable, more efficient, and more environmentally friendly. Shenzhen and Hong Kong can further tap into inland cargo trade ... and achieve a win‑win for the three regions,\" Shum said.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T07:37:55.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877248-20261110.htm"
+    },
+    {
       "id": "0b431ce68aeaa2e9",
       "title": "US 'pulls warplanes from new UK base over Iran threat'",
       "excerpt": "The US military has evacuated aircraft from a second airbase in Britain after a threat from Iran, the Wall Street…",
@@ -120,7 +131,7 @@
       "id": "35336d93746cdcf8",
       "title": "Australia to be AI first-mover with safety regulator",
       "excerpt": "Australia plans to create an artificial intelligence safety regulator in response to a breach of an Australian health department website…",
-      "fullText": "Australia plans to create an artificial intelligence safety regulator in response to a breach of an Australian health department website by a rogue OpenAI agent in June, Prime Minister Anthony Albanese said on Tuesday.\n\nThe regulator would enforce world-leading legislated AI standards that would apply to all frontier AI companies that want to operate in Australia, he said.\n\nFinancial penalties would apply, although the government has yet to detail those penalties.\n\n“When it comes to the generational opportunity that artificial intelligence offers Australia, I’ve been very clear: our task is to make sure we shape AI rather than AI shape us,” Albanese said.\n\n“Australia is the first mover in this space and we want to make sure that we continue to work so that we can reap the potential benefits from AI.”\n\nAI standards would mandate rapid incident notifications\n\nThe standards would include companies maintaining security controls across all stages of models’ development and deployment, as well as identifying and managing serious risks.\n\nThe standards also would mandate rapid notification to the government of incidents such as “misaligned behaviour” conflicting with developers' intentions.\n\nAustralian government documents define frontier AI as the most sophisticated models at the cutting edge of current technological capability.\n\nAlbanese told OpenAI chief executive Sam Altman that the US company took too long to inform the government in September that a rogue agent had infiltrated government websites three months earlier, which was the first occurrence of such a breach with the technology.\n\nInformation taken without authorisation from the public-facing Medicare Statistics Reporting Service portal on June 18 has since been made public.\n\nIt is not clear whether the portal breach broke any Australian laws.\n\nOpenAI apologised in September for the breach and its slow response.\n\n“We are sorry and working to do better in the future,” OpenAI said in a statement.\n\n“We also should have handled our response better.”\n\nA government inquiry into the June breach made several recommendations including that the government consider changing the law.\n\nAlbanese said his government had accepted all the inquiry’s recommendations, including for potential criminal law reform.\n\n“The point is law needs to get ahead of and in some cases make sure that it catches up with what is a very fast-changing world. And to be clear, Australia is a first-mover in these areas,” Albanese said.\n\nThe proposed AI regulator would follow Australia appointing an eSafety Commissioner in 2015.\n\nThe office describes itself as the world’s first government agency dedicated to keeping people safer online.\n\nSince December, the commissioner has been enforcing a world-first ban on Australian children younger than 16 holding accounts on popular social media platforms. (AP)\n\nEdited by Tony Sabine",
+      "fullText": "Australia plans to create an artificial intelligence safety regulator in response to a breach of an Australian health department website by a rogue OpenAI agent in June, Prime Minister Anthony Albanese said on Tuesday.\n\nThe regulator would enforce world-leading legislated AI standards that would apply to all frontier AI companies that want to operate in Australia, he said.\n\nFinancial penalties would apply, although the government has yet to detail those penalties.\n\n“When it comes to the generational opportunity that artificial intelligence offers Australia, I’ve been very clear: our task is to make sure we shape AI rather than AI shape us,” Albanese said.\n\n“Australia is the first mover in this space and we want to make sure that we continue to work so that we can reap the potential benefits from AI.”\n\nAI standards would mandate rapid incident notifications.\n\nThe standards would include companies maintaining security controls across all stages of models’ development and deployment, as well as identifying and managing serious risks.\n\nThe standards also would mandate rapid notification to the government of incidents such as “misaligned behaviour” conflicting with developers' intentions.\n\nAustralian government documents define frontier AI as the most sophisticated models at the cutting edge of current technological capability.\n\nAlbanese told OpenAI chief executive Sam Altman that the US company took too long to inform the government in September that a rogue agent had infiltrated government websites three months earlier, which was the first occurrence of such a breach with the technology.\n\nInformation taken without authorisation from the public-facing Medicare Statistics Reporting Service portal on June 18 has since been made public.\n\nIt is not clear whether the portal breach broke any Australian laws.\n\nOpenAI apologised in September for the breach and its slow response.\n\n“We are sorry and working to do better in the future,” OpenAI said in a statement.\n\n“We also should have handled our response better.”\n\nA government inquiry into the June breach made several recommendations including that the government consider changing the law.\n\nAlbanese said his government had accepted all the inquiry’s recommendations, including for potential criminal law reform.\n\n“The point is law needs to get ahead of and in some cases make sure that it catches up with what is a very fast-changing world. And to be clear, Australia is a first-mover in these areas,” Albanese said.\n\nThe proposed AI regulator would follow Australia appointing an eSafety Commissioner in 2015.\n\nThe office describes itself as the world’s first government agency dedicated to keeping people safer online.\n\nSince December, the commissioner has been enforcing a world-first ban on Australian children younger than 16 holding accounts on popular social media platforms. (AP)\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-10T06:45:23.000Z",
       "source": "RTHK English — World",
@@ -808,17 +819,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876942-20261107.htm"
-    },
-    {
-      "id": "93d6d4b5752675df",
-      "title": "Evening News on TV32 - Nov 7",
-      "excerpt": "Top stories for Saturday, Nov 7, 2026 - Chief Executive John Lee calls on young people to be curious and…",
-      "fullText": "Top stories for Saturday, Nov 7, 2026\n\n- Chief Executive John Lee calls on young people to be curious and courageous, and shine on the global stage.\n\n- An infectious diseases expert says the cooler weather could extend the flu season and lead to more serious cases.\n\n- Pope Leo begins his tour of South America.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-07T12:33:10.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876972-20261107.htm"
     },
     {
       "id": "519d7209b4fad660",
