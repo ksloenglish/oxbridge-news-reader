@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T23:30:23.862Z",
-  "checkedAt": "2026-11-10T23:40:22.202Z",
+  "generatedAt": "2026-11-10T23:45:17.440Z",
+  "checkedAt": "2026-11-10T23:45:17.440Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "0d6923ae4ace9416",
+      "title": "US Republicans derail bid to impeach Hegseth",
+      "excerpt": "Republicans in the US House of Representatives on Tuesday blocked an effort to impeach Defence Secretary Pete Hegseth over the…",
+      "fullText": "Republicans in the US House of Representatives on Tuesday blocked an effort to impeach Defence Secretary Pete Hegseth over the Iran war, handing US President Donald Trump a victory days after his party's crushing midterm election defeat.\n\nThe House voted 211 to 204 to send the impeachment resolution to the Judiciary Committee, effectively derailing a planned vote Wednesday on whether to bring formal charges against the embattled Pentagon chief.\n\nThe resolution was introduced by Republican Thomas Massie, a Trump critic who was the only member of his party to oppose the procedural manoeuvre, according to US media.\n\nThe impeachment drive had threatened to deepen Trump's troubles after Democrats swept last week's midterms, with anger at the sputtering Iran war and soaring fuel prices helping drive voters to a historic rejection of Republicans.\n\nRepublicans still hold a narrow House majority until January, when Democrats take control of both chambers of Congress. And 11 Democrats missed the vote.\n\nPentagon spokesperson Sean Parnell, in a post on X, hailed the vote as a \"TOTAL VICTORY!\"\n\n\"We look forward to ending this sham impeachment in the committee room, where facts will continue to prevail and this distraction can be put to rest.\"\n\nHegseth earlier Tuesday dismissed the impeachment effort as a \"farce\" and defended his record leading the Iran war and other military operations under Trump.\n\n\"It's a farce, and it's a stunt, and everybody knows it,\" he said at a Pentagon press conference, branding the accusations \"slander\" and \"sabotage.\"\n\nMoments after Hegseth's televised appearance, Trump signalled his support.\n\n\"Pete Hegseth gets an 'A' PLUS, PLUS, PLUS,\" the 80-year-old president wrote on his Truth Social platform.\n\nVice President JD Vance also backed the defence secretary, saying he had \"obviously not\" committed impeachable offences.\n\nMassie's eight articles of impeachment accused Hegseth of illegally waging war without congressional authorisation and abusing his powers as Pentagon chief.\n\nSeveral related to the eight-month Iran war, accusing him of violating the War Powers Resolution, which places limits on US military interventions without congressional authorisation.\n\nOther allegations involved the 2025 conflict with Yemen's Iran-backed Houthis and strikes on alleged drug-smuggling boats in the Caribbean and eastern Pacific, which Massie branded \"extrajudicial killings.\"\n\nHe also accused Hegseth of suppressing free speech by trying to punish Democratic Senator Mark Kelly over a video urging military and intelligence personnel to refuse illegal orders.\n\nHegseth defended the operations in Yemen, Iran, Venezuela and against alleged drug smugglers, while seeking to equate the impeachment effort with an attack on US troops.\n\n\"I stand behind every one of these operations. I was proud to execute them, and I would do it again tomorrow,\" he said.\n\nThe decision to send the resolution to committee halts the immediate impeachment drive but does not prevent Democrats from reviving the effort after taking control of Congress in January.\n\nMassie, who lost his Republican primary to a Trump-backed challenger, will leave Congress at the end of his term. (AFP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T23:37:40.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877336-20261111.htm"
+    },
     {
       "id": "6bdfe3bfc38920ee",
       "title": "Iran rejects France cyberattack allegations",
@@ -687,17 +698,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877144-20261109.htm"
-    },
-    {
-      "id": "fb4184a9967cf64c",
-      "title": "COP31 climate talks off to troubled start – over money",
-      "excerpt": "The COP31 climate talks kicked off on Monday with an early fight over money as the UN's chief urged world…",
-      "fullText": "The COP31 climate talks kicked off on Monday with an early fight over money as the UN's chief urged world leaders to \"get serious\" about tackling the crisis after a year of devastating weather extremes.\n\nAntonio Guterres made his plea as thousands of participants descended on a sprawling expo centre in the Mediterranean city of Antalya in Turkiye for the UN's annual two-week climate conference.\n\nThe summit comes after a year of punishing heatwaves in Europe, major wildfires in Indonesia and catastrophic floods in Nepal, with an exceptionally strong El Nino weather phenomenon fuelling more climate chaos.\n\n\"We have entered a new age of climate extremes,\" Guterres said in a statement.\n\nHe urged leaders to \"get serious by cutting emissions faster, accelerating a just transition from fossil fuels and delivering the finance and protection vulnerable countries need\".\n\nBut the COP31 opening ceremony opened an hour-and-a-half late without explanation.\n\nNegotiators had been locked in discussions late on Sunday over demands by developing nations to include items on climate finance in the official agenda.\n\n\"This has already been a difficult start for COP31,\" said Jasper Inventor, head of Greenpeace's COP31 delegation.\n\nUnder UN climate agreements, developed countries, which are historically responsible for most greenhouse gas emissions, have provided financial support to help developing nations adapt to climate impacts and transition to cleaner energy.\n\nBut poorer countries say the sums remain insufficient.\n\nInventor said developed countries took a \"hard line\" over whether to include a platform, agreed at COP30 in Brazil last year, aimed at discussing how wealthy nations should provide funds to developing nations.\n\nA source familiar with the talks said the \"climate work programme\" would be included in the agenda.\n\nAfrican countries had also pushed for the agenda to include discussions on the tripling of adaptation finance, which aims to help poorer nations pay for measures such as building sea walls or planting drought-resistant crops.\n\nA senior European Union official warned last week that there would be \"no political will\" for extra funding pledges at COP31.\n\nObservers say few major breakthroughs are expected at COP31 as countries grapple with an oil price shock and geopolitical tensions fuelled by the US war with Iran and Russia's conflict in Ukraine.\n\nAs negotiators tussled in Antalya, the UN's World Meteorological Organisation released a report indicating that 2026 has continued a streak of exceptional global temperatures, melting ice and rising sea levels. (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T09:16:05.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877142-20261109.htm"
     },
     {
       "id": "afc081cf8bba63e2",
