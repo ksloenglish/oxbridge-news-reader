@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T07:45:18.864Z",
-  "checkedAt": "2026-11-10T07:45:18.864Z",
+  "generatedAt": "2026-11-10T08:00:30.304Z",
+  "checkedAt": "2026-11-10T08:00:30.304Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 20
+      "articleCount": 19
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "b8369c1430f758f6",
+      "title": "Man, 44, arrested for drug driving minibus on the job",
+      "excerpt": "A 44-year-old minibus driver was arrested on suspicion of drug driving on Tuesday after a rapid oral fluid test indicated…",
+      "fullText": "A 44-year-old minibus driver was arrested on suspicion of drug driving on Tuesday after a rapid oral fluid test indicated he had taken methamphetamine before operating the vehicle.\n\nActing on intelligence, officers from the Kowloon East traffic headquarters' enforcement and control division mounted a targeted operation, focusing on a driver operating a green minibus route between Yau Tong and the Anderson public transport terminus.\n\nPolice safely intercepted the target's minibus and escorted seven passengers off the vehicle before conducting an oral fluid screening test on the driver.\n\nPreliminary investigations found he had consumed meth before driving, resulting in his immediate arrest.\n\n\"This type of behaviour is not merely a violation, but poses a serious threat to the lives of passengers and other road users,\" senior inspector Poon Chun-ho said.\n\nHe said drivers who knowingly take drugs that impair judgement and reaction, but still operate public transport are placing the safety of every passenger at extreme risk, with potentially catastrophic consequences.\n\nThe driver has been denied bail and is due to appear at Kwun Tong Magistrates' Courts on Wednesday.\n\nThe operation followed the arrest of three other minibus and taxi drivers on suspicion of drug driving in June.\n\nHo said two of those drivers have since been convicted, receiving jail terms of two months and four months, as well as driving bans of two and five years.\n\nThe third driver has been released on bail pending trial.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T07:47:10.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877252-20261110.htm"
+    },
     {
       "id": "041900f59c9bda03",
       "title": "'SZ, HK should join hands to grow external trade'",
@@ -219,7 +230,7 @@
       "id": "38d4d3201a15b86d",
       "title": "Harris Ho wins HK's second gold at Youth Olympics",
       "excerpt": "Hong Kong, China fencer Harris Ho on Tuesday bagged the city's second gold medal of the Youth Olympics Games in…",
-      "fullText": "Hong Kong, China fencer Harris Ho on Tuesday bagged the city's second gold medal of the Youth Olympics Games in Senegal, winning the individual men's foil final in dominant fashion.\n\nHo, the reigning world junior foil champion, defeated Japan's Masashi Maeda 15-8 in the gold medal bout at the Dakar Expo Centre.\n\nThe 17-year-old's triumph marks the SAR's first-ever individual fencing gold in the history of the Youth Olympics, with the city having previously claimed two fencing silvers in the 2014 and 2018 editions of the quadrennial event.\n\nHo's win caps off a dominant run in the competition, going five and one in the group stage to enter the quarter-finals as the second seed.\n\nThe SAR star brushed aside the Czech Republic's Krystof Novak 15-2 in the quarter-finals, before beating Cyprus's Aris Kiayias 15-10 in the last four.\n\nThe landmark victory also builds on a phenomenal year for Ho, who won the Cadet World Championship title in April, and further cements him as a top contender ahead of the Los Angeles 2028 Olympic Games.\n\nHo's podium finish marks the SAR's fourth overall medal of this year's Youth Olympics, with podium finishes in wushu, table tennis and swimming.\n\nEdited by Cecil Wong",
+      "fullText": "Hong Kong, China fencer Harris Ho on Tuesday bagged the city's second gold medal of the Youth Olympics Games in Senegal, winning the individual men's foil final in dominant fashion.\n\nHo, the reigning world junior foil champion, defeated Japan's Masashi Maeda 15-8 in the gold medal bout at the Dakar Expo Centre.\n\nThe 17-year-old's triumph marks the SAR's first-ever individual fencing gold in the history of the Youth Olympics, with the city having previously claimed two fencing silvers in the 2014 and 2018 editions of the quadrennial event.\n\nHo's win caps off a dominant run in the competition, going five and one in the group stage to enter the quarter-finals as the second seed.\n\nThe SAR star brushed aside the Czech Republic's Krystof Novak 15-2 in the quarter-finals, before beating Cyprus's Aris Kiayias 15-10 in the last four.\n\nThe landmark victory also builds on a phenomenal year for Ho, who won the Cadet World Championship title in April, and further cements him as a top contender ahead of the Los Angeles 2028 Olympic Games.\n\nSecretary for Culture, Sports and Tourism Rosanna Law congratulated him on capturing gold in Senegal.\n\n\"With an outstanding performance at the Youth Olympic Games this year, he overcame his opponents to secure the gold medal and set a historic milestone for a young Hong Kong fencing athlete. All of the Hong Kong citizens take great pride in his remarkable achievement,\" she said.\n_____________________________\nLast updated: 2026-11-10 HKT 15:39\n\nEdited by Cecil Wong",
       "imageUrl": null,
       "publishedAt": "2026-11-10T00:05:04.000Z",
       "source": "RTHK English — Sport",
@@ -786,17 +797,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876988-20261108.htm"
-    },
-    {
-      "id": "ed88aa52e6178d8b",
-      "title": "Substandard columns found at MTR site in Tung Chung",
-      "excerpt": "The Buildings Department on Saturday said it had found dozens of substandard columns at the MTR station that is currently…",
-      "fullText": "The Buildings Department on Saturday said it had found dozens of substandard columns at the MTR station that is currently under construction in Tung Chung West.\n\nAround 30 such columns were identified by the registered structural engineers (RSE) working on the project.\n\nThe department asked that the RSE submit an investigation report and propose remedial measures by the middle of this month.\n\nThe department will review these submissions, continue to monitor the situation closely, and oversee the necessary corrective works to ensure that all construction meets the relevant safety and quality standards.\n\nIn response to media questions, the department indicated that it had identified the issues during a routine site inspection and quality audit on the 27th of last month.\n\nUpon confirming that two concrete columns were substandard, the department said it immediately instructed the RSE team and the Registered Contractor to conduct a comprehensive investigation and carry out corrective works as soon as possible.\n\nThe MTR Corporation has since ordered a suspension of relevant construction activities.\n\nAs part of standard procedures, the RSE’s supervision team carried out further inspections following the progressive removal of the concrete work, uncovering similar defects in additional concrete columns; these findings were reported to the department last Tuesday.\n\nThe department further stated that, as the temporary supports for the floor slab had not yet been removed, the identified concrete defects posed no risk to the structural integrity of the station.\n\nThese temporary supports may only be removed once a team of registered structural engineers was satisfied with the relevant works.\n\nThe department said all such procedures were carried out in accordance with the approved plans while its staff had conducted routine inspections of the site.\n\nA preliminary review by the department revealed no evidence of intentional deviation from the approved plans, nor had it found any instances where the follow-up actions taken by the personnel in charge violated relevant codes or regulations.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T00:35:18.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876986-20261108.htm"
     },
     {
       "id": "d1c1bc8119316e2d",
@@ -1393,17 +1393,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876542-20261104.htm"
     },
     {
-      "id": "9fa00f0ca47ffa81",
-      "title": "CE calls for closer cooperation with nation's capital",
-      "excerpt": "Chief Executive John Lee on Wednesday called for closer financial and innovative ties with the city of Beijing, as he…",
-      "fullText": "Chief Executive John Lee on Wednesday called for closer financial and innovative ties with the city of Beijing, as he continued his visit to the capital.\n\nSpeaking at a symposium on Beijing-Hong Kong cooperation, Lee said finance had been a key area for collaboration between the two cities over the years.\n\nHe called for promoting two-way financial opening-up to facilitate economic transformation.\n\n“Hong Kong, as an international financial centre, connects mainland markets and global capital,” he said.\n\n“It acts as the most convenient international financing platform for enterprises in Beijing.\n\n“Through cross-border fund management, wealth management and a network connecting global investors, it serves enterprises’ needs for business expansion.”\n\nLee said the two cities would continue to serve two-way financing for enterprises, and jointly expand green and sustainable finance, as well as offshore renminbi business.\n\nHe also expressed hope of deepening innovative cooperation between the SAR and Beijing, as the nation developed new quality productive forces and promoted technological revolution and industrial transformation.\n\nThe innovation sectors in the two cities would promote collaboration in life and health technology, artificial intelligence and robotics, he said.\n\nLee added that Hong Kong would continue to assist mainland enterprises in going global.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T03:29:10.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876501-20261104.htm"
-    },
-    {
       "id": "1f35ef2009c33622",
       "title": "Myanmar opposition forces hopeful that U.S. strategy could bring about peace",
       "excerpt": "Washington’s framework includes peacemaking to increase regional influence and provide access to rare earths.",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
+    },
+    {
+      "id": "940d79532a5b6d51",
+      "title": "Nursing workforce planning outlined",
+      "excerpt": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare…",
+      "fullText": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare professionals. The statement was issued in response to public discussions regarding nursing manpower planning in Hong Kong, adding that such discussions should be grounded objective facts and data to foster consensus.\n\nAlthough the nurse attrition rate within the Hospital Authority has dropped from a peak of 10.9% to 5.4%, approximately 3,200 vacancies remain unfilled with recruitment ongoing. In 2025, around 3,500 of the 4,000 prospective nursing graduates qualified as Registered Nurses (RNs) or Enrolled Nurses (ENs), with about 60% applying for positions within the authority.\n\nThese figures demonstrate that graduates diversify into various sectors, including private healthcare institutions, elderly services and rehabilitation, community nursing, insurance and health management. Notably, approximately 99% of applicants who completed the interview or assessment process for RN posts within the authority received an offer of appointment.\n\nAs of the end of 2025, over 30,000 of Hong Kong’s 75,000 RNs and ENs were employed within the public healthcare system, representing roughly 40% of the total workforce. Given that nursing practice spans hospitals, primary care, community and elderly services, rehabilitation and other health service sectors, the Government noted that manpower supply and demand must be assessed holistically across the entire market.\n\nFurthermore, approximately 99.8% of RNs serving in the authority are locally trained, confirming that local professionals remain the backbone of public healthcare. The Government affirmed it will continue to promote regional healthcare collaboration and professional exchanges while strictly safeguarding employment priority for locally trained professionals.\n\nPlans are also underway to strengthen manpower training for primary healthcare and advance professional systems to enhance service quality and maximise the professional functions of nurses. Addressing broader roles, the Government stressed that the Health & Care Practitioner (HCP) rank is a dedicated welfare-sector role that should not be confused with ENs due to distinct scopes of practice.\n\nAcknowledging broader recruitment pressures, the Health Bureau noted that private hospitals face similar shortages, with one facility reporting 40 vacancies but receiving only 25 applications over the past year. In response to an ageing population, the Government reiterated its commitment to driving cross-sectoral collaboration and manpower planning based on service needs and manpower data to ensure that healthcare and nursing services in Hong Kong can continue to meet the needs of society.\n\nThe Government hopes that all sectors of the community will exchange views on healthcare manpower development and professional training based on facts and data, and work together to foster the sustainable development of the city's healthcare system.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431/images/20260929142417086.jpg",
+      "publishedAt": "2026-09-28T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
     }
   ]
 }
