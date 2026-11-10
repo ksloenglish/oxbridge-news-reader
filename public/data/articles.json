@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T10:04:28.963Z",
-  "checkedAt": "2026-11-10T10:30:23.410Z",
+  "generatedAt": "2026-11-10T10:45:16.326Z",
+  "checkedAt": "2026-11-10T10:45:16.326Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 18
     },
     {
       "id": "rthk-world",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 17
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "83dcb9221859f975",
+      "title": "Sino-US forum held in HK ahead of Apec summit",
+      "excerpt": "Global leaders across various fields will gather in Hong Kong ahead of the Apec leaders' summit in Shenzhen to discuss…",
+      "fullText": "Global leaders across various fields will gather in Hong Kong ahead of the Apec leaders' summit in Shenzhen to discuss how Sino-US relations can be reshaped in search of long-term stability and cooperation.\n\nThe annual US-China Hong Kong Forum will be held between November 15 and 17.\n\nJames Chau, president of the organisers China-United States Exchange Foundation, said dozens of speakers would be joining the event, including former vice foreign minister Cui Tiankai, members of the Nixon and Bush families from the US, and former Thailand prime minister Abhisit Vejjajiva.\n\n“Through this forum we also bring regional perspectives into the discussion,\" Chau said.\n\n\"So we've got Asean, for example, represented by Thailand, but also by Singapore. The [Sino-US] relationship affects more than two countries, so there's always that temptation to look at our work simply through the bilateral lens of China and the United States.\n\n“I wish it was like that because it seems very tidy, neat and easy to follow. But, in fact, everything that these two countries do and don't do, what they think and what they consider, is going to impact over eight billion people all around the world.”\n\nMore than 300 participants will take part in the open forum on the second day, among them a group of university students from around the world.\n\n“Having young people in the room who are 18 to 25 years old who come from phenomenal schools of public policy and who would have spent part of the private sessions with us and then into the public sessions, we want them to ask the very first question during the audience Q&A to keep those leaders on the stage very sharp,” Chau said.\n\nThe Apec summit will be held on November 18-19 in Shenzhen.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T10:26:03.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877268-20261110.htm"
+    },
     {
       "id": "50f9f3678512090b",
       "title": "'A Symphony of Lights' to go out with a bang next week",
@@ -678,17 +689,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877084-20261109.htm"
     },
     {
-      "id": "b11e0cef50e6ca76",
-      "title": "People must come first, Pope tells Argentina",
-      "excerpt": "Pope Leo XIV delivered a diplomatic but subtly strong critique of Argentine President Javier Milei’s austerity measures and libertarian agenda…",
-      "fullText": "Pope Leo XIV delivered a diplomatic but subtly strong critique of Argentine President Javier Milei’s austerity measures and libertarian agenda as he arrived in Argentina on Sunday, insisting that political leaders must put people, not the economy, first.\n\nLeo used his first public speech in Argentina to lay out a vision of governance, democracy and society sharply at odds with Milei’s, exposing differences over spending cuts, social justice and artificial intelligence that the government had sought to play down ahead of the visit.\n\n“The economy must serve the person, not the person the economy,” Leo told officials, diplomats and civic leaders upon his arrival in Buenos Aires from Uruguay.\n\nLeo’s visit to Argentina is by far the most politically delicate of his three-nation South American tour, and a place where Leo will also confront the complicated legacy of Argentine Pope Francis, who never returned home during his 12-year pontificate.\n\nMilei, a self-described anarcho-capitalist, has staked his presidency on slashing public spending to tame inflation, while describing the notion of social justice as “a horror,” a “moral aberration” and “theft” in recent speeches.\n\nMilei’s government has portrayed the cuts as part of a necessary reform process to remake Argentina’s troubled economy and eliminate fraud and waste in the federal bureaucracy.\n\nAhead of Leo’s arrival in Argentina, the first by a pope in nearly 40 years, Milei’s officials had dismissed the prospect of a political clash.\n\n“There’s no way the pope is coming here to comment on local politics,” Human Capital Minister Sandra Pettovello said in an interview with a Buenos Aires radio station last week. In a message welcoming Leo, Milei said he hoped the trip would “strengthen the faith, renew hope and bring a message of peace to all Argentines.”\n\nLeo took up that message of peace, opening with a call for gentler politics in deeply polarised Argentina. Democracy depends on “careful use of words” and “the ability to see those who think differently as fellow citizens with whom we share a common future,” he said.\n\nMilei’s style is far more combative, costing him allies in Congress and public support. He posts dozens of times a day on social media, branding critics “traitors” and “human trash” and tagging posts #NOLSALP, a Spanish acronym for “We don’t hate journalists enough.”\n\nMilei, who once called Francis the “representative of evil on Earth,” paid homage to the late pope in welcoming Leo on Sunday. Interrupted by applause, he called Francis an “exceptional figure” and “undoubtedly the most important Argentine in history” whose teachings continue to resonate.\n\nOn the economy, Leo nodded to Milei’s free-market instincts, urging Argentina to encourage “whatever creates opportunities” and “stimulates private initiative.” But growth must also benefit “those who are disadvantaged,” he said, including the unemployed, retirees and “all those who, despite hard work, nonetheless struggle to meet their household’s needs.”\n\nMilei’s austerity drive has produced a rare budget surplus and slashed annual inflation from 200 percent to about 32 percent. But real wages remain below where they were when he took office in late 2023, and roughly 300,000 formal jobs have vanished.\n\nA missionary priest in Peru for two decades, Leo has embraced a pastoral style reminiscent of Francis, who as archbishop of Buenos Aires expanded the ranks of priests serving in the city’s crime-ridden informal settlements.\n\nLeo laid out a Christian vision of democracy, authority and economic progress that ran counter to Milei’s. But he couched the implicit rebuke by referencing the church's social doctrine and papal pronouncements spanning more than six decades, invoking St John Paul II, the last pope to visit Argentina, in 1987, among others.\n\nArgentina’s bishops, many of them appointed by Francis, have become some of Milei’s most persistent critics. Of the 44 documents on public policy published by the country’s bishops’ conference between January 2024 and September 2026, 42 criticised Milei’s administration, on issues from poverty to migration, according to an analysis by sociologist Sol Prieto from Argentina’s national research council. (AP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T00:03:58.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877065-20261109.htm"
-    },
-    {
       "id": "95b02bba10ba5688",
       "title": "Lopez double fires Barcelona to top of La Liga",
       "excerpt": "Fermin Lopez struck twice to help Barcelona come from behind to beat Atletico Madrid 2-1 and move three points clear…",
@@ -786,17 +786,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877003-20261108.htm"
-    },
-    {
-      "id": "062983d86d917f02",
-      "title": "Three hurt after hit by landing paraglider",
-      "excerpt": "Three people were injured on Sunday after being struck by a paraglider that was trying to land at the Ngong…",
-      "fullText": "Three people were injured on Sunday after being struck by a paraglider that was trying to land at the Ngong Ping campsite at Ma On Shan Country Park.\n\nPolice said they received a report shortly after 12.30pm from a 42-year-old woman, who said she had been knocked down by a paraglider piloted by a man.\n\nHer son and another youngster, aged 14 and 15 respectively, were also hit.\n\nOfficers said the trio sustained head and back injuries and were airlifted by the Government Flying Service to hospital for treatment.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T07:29:43.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877013-20261108.htm"
     },
     {
       "id": "45378002f52f13ee",
@@ -1393,17 +1382,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876575-20261104.htm"
     },
     {
-      "id": "8eae40ac30188951",
-      "title": "China 'will continue working with US' after midterms",
-      "excerpt": "The Foreign Ministry on Wednesday said China was \"willing to continue working\" with the United States following midterm elections that…",
-      "fullText": "The Foreign Ministry on Wednesday said China was \"willing to continue working\" with the United States following midterm elections that saw US President Donald Trump's Republicans lose control of both chambers of Congress.\n\n\"The midterm elections are an internal affair of the United States,\" Foreign Ministry spokeswoman Mao Ning told a regular news briefing in Beijing.\n\n\"China is willing to continue working with the US to uphold and implement the important consensus reached by the two heads of state, strengthen communication, properly manage differences, expand cooperation, and build a constructive, strategically stable China-US relationship based on the principles of respect, fairness, and reciprocity.\"\n\nIn Europe, French Finance Minister Roland Lescure said Trump remained in charge on foreign policy issues despite the GOP's defeats in the midterms, adding that the American leader was unpredictable.\n\n\"Either he decides to rise above the fray — acknowledging that changes are necessary, particularly regarding gasoline prices, which directly affect people — and, I might add, he tones down his international involvement; or he does not,\" Lescure said in an interview on French TV channel BFM.\n\n\"Frankly, this is something we will need to keep an eye on in the coming days,\" he added.\n\nSpanish Prime Minister Pedro Sanchez said on Wednesday that voters in the United States had rejected policies that \"only impoverish\", as well as hate, sexism and climate change denialism following Republican defeats.\n\nSanchez said the far-right wave that had buoyed conservative movements on both sides of the Atlantic was \"collapsing\" rather than growing.\n\nIn Africa, South African President Cyril Ramaphosa said that the results from the midterms would \"introduce a new era in world relations\".\n\n\"We have seen that the Democrats have taken control of the Senate and of the House, and the people of America have spoken,\" Ramaphosa told reporters. (Agencies)\n\n_____________________________\nLast updated: 2026-11-04 HKT 17:17\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T08:25:45.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876542-20261104.htm"
-    },
-    {
       "id": "1f35ef2009c33622",
       "title": "Myanmar opposition forces hopeful that U.S. strategy could bring about peace",
       "excerpt": "Washington’s framework includes peacemaking to increase regional influence and provide access to rare earths.",
@@ -1743,6 +1721,28 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
+    },
+    {
+      "id": "940d79532a5b6d51",
+      "title": "Nursing workforce planning outlined",
+      "excerpt": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare…",
+      "fullText": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare professionals. The statement was issued in response to public discussions regarding nursing manpower planning in Hong Kong, adding that such discussions should be grounded objective facts and data to foster consensus.\n\nAlthough the nurse attrition rate within the Hospital Authority has dropped from a peak of 10.9% to 5.4%, approximately 3,200 vacancies remain unfilled with recruitment ongoing. In 2025, around 3,500 of the 4,000 prospective nursing graduates qualified as Registered Nurses (RNs) or Enrolled Nurses (ENs), with about 60% applying for positions within the authority.\n\nThese figures demonstrate that graduates diversify into various sectors, including private healthcare institutions, elderly services and rehabilitation, community nursing, insurance and health management. Notably, approximately 99% of applicants who completed the interview or assessment process for RN posts within the authority received an offer of appointment.\n\nAs of the end of 2025, over 30,000 of Hong Kong’s 75,000 RNs and ENs were employed within the public healthcare system, representing roughly 40% of the total workforce. Given that nursing practice spans hospitals, primary care, community and elderly services, rehabilitation and other health service sectors, the Government noted that manpower supply and demand must be assessed holistically across the entire market.\n\nFurthermore, approximately 99.8% of RNs serving in the authority are locally trained, confirming that local professionals remain the backbone of public healthcare. The Government affirmed it will continue to promote regional healthcare collaboration and professional exchanges while strictly safeguarding employment priority for locally trained professionals.\n\nPlans are also underway to strengthen manpower training for primary healthcare and advance professional systems to enhance service quality and maximise the professional functions of nurses. Addressing broader roles, the Government stressed that the Health & Care Practitioner (HCP) rank is a dedicated welfare-sector role that should not be confused with ENs due to distinct scopes of practice.\n\nAcknowledging broader recruitment pressures, the Health Bureau noted that private hospitals face similar shortages, with one facility reporting 40 vacancies but receiving only 25 applications over the past year. In response to an ageing population, the Government reiterated its commitment to driving cross-sectoral collaboration and manpower planning based on service needs and manpower data to ensure that healthcare and nursing services in Hong Kong can continue to meet the needs of society.\n\nThe Government hopes that all sectors of the community will exchange views on healthcare manpower development and professional training based on facts and data, and work together to foster the sustainable development of the city's healthcare system.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431/images/20260929142417086.jpg",
+      "publishedAt": "2026-09-28T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
+    },
+    {
+      "id": "9ae8a1e02c50d50c",
+      "title": "SED meets state leader in Beijing",
+      "excerpt": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in…",
+      "fullText": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in visiting a state leader and Ministry of Education officials in Beijing.\n\nMs Choi and the delegates were received by Vice-Chairperson of the National People's Congress Standing Committee Tie Ning at the Great Hall of the People this afternoon. They also met and exchanged views with officials from the ministry.\n\nMs Choi remarked that this year marks the 77th anniversary of the founding of the People's Republic of China, the 105th anniversary of the founding of the Communist Party of China, and the opening year of the National 15th Five-Year Plan.\n\nShe said it was highly significant for Hong Kong's education sector to visit Beijing ahead of National Day, on October 1, and to celebrate the motherland's birthday and experience a jubilant festive atmosphere with people in the capital.\n\nMs Choi highlighted that last week the Hong Kong Special Administrative Region Government announced its First Five-Year Plan, which aligns with the National 15th Five-Year Plan. She outlined that the Hong Kong's education sector faces multiple tasks, including digital education, talent cultivation and the integration of industry and education.\n\nShe said: “The delegation enabled teachers to gain insight into the latest education developments of the country and share experiences with Chinese Mainland teachers in areas such as operation models, curricula and teaching arrangements of schools at all levels.\n\n“It not only broadened their horizons but also fostered exchanges between the education sectors of both places, providing important references for the future development of Hong Kong's education and laying a foundation for deeper collaboration.”\n\nMs Choi and the delegation subsequently attended a banquet hosted by the Ministry of Education, where they engaged in in-depth discussions regarding professional connections and mutual learning between the education sectors of the two places.\n\nMs Choi and the delegation members will conclude their visit and return to Hong Kong tomorrow.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014/images/20260923195636768.jpg",
+      "publishedAt": "2026-09-22T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
     }
   ]
 }
