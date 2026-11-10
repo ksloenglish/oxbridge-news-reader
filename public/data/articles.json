@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T09:15:21.642Z",
-  "checkedAt": "2026-11-10T09:15:21.642Z",
+  "generatedAt": "2026-11-10T09:30:25.254Z",
+  "checkedAt": "2026-11-10T09:30:25.254Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 15
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "fbb1b327c9497a63",
+      "title": "Tech gains, oil price falls lift HK, mainland markets",
+      "excerpt": "Hong Kong and mainland stocks closed higher on Tuesday, led by AI supply chain shares, as an overnight rally on…",
+      "fullText": "Hong Kong and mainland stocks closed higher on Tuesday, led by AI supply chain shares, as an overnight rally on Wall Street and sliding oil prices lifted risk sentiment across Asia.\n\nThe benchmark Hang Seng Index closed 108 points, or 0.4 percent, higher at 24,557 on turnover of HK$178.17 billion.\n\nThe tech index rose 43 points, or 1.1 percent, to 4,084 while the China enterprises index crept five points, or 0.1 percent, up to 8,265.\n\nOptical communication giant Zhongji Innolight jumped nine percent while Wuxi AppTec rose up to five percent before paring gains after the Pentagon removed the biotechnology company from its list of Chinese military companies.\n\nMainland chip firms Suzhou Denglin Technology and Jiangsu Xinde Semiconductor Technology made mixed trading debuts after raising a combined HK$2.36 billion in initial public offerings.\n\nAI chip designer Suzhou Denglin ended HK$18, or 7.79 percent, down at HK$213 while semiconductor packager and tester Jiangsu Xinde was HK$2.52, or 28 percent, up at HK$11.40.\n\nOn the mainland, the benchmark Shanghai Composite Index inched up just under three points, or 0.08 percent, to end at 3,663.\n\nThe Shenzhen Component Index was 96 points, or 0.86 percent, higher at 11,241 while the ChiNext Index was 35 points, or 1.46 percent, up at 2,494.\n\nChip supply chain shares across Asia climbed, tracking an overnight rally on Wall Street that saw the Nasdaq jump 2.7 percent.\n\nThe 5G Communication Index rose 2.6 percent, leading gains onshore, while the tech-focused Star50 Index was up nearly one percent.\n\nNon-ferrous metal shares edged up 0.1 percent as gold prices rebounded this month on falling oil prices.\n\nThe CSI Energy Index fell 2.6 percent, with PetroChina down 6.3 percent.\n\nChina's trade surplus surged past US$1 trillion in the first 10 months as a global race to build AI infrastructure buoyed sales of high-tech products and helped offset weak domestic demand, a dynamic likely to sharpen tensions with major trading partners.\n\nIn Tokyo, the Nikkei climbed up by 1,684 points, or 2.87 percent, to end at 60,459, extending its rebound from a tech-led selloff on Friday as AI-related stocks surged.\n\nThe broader Topix was up 75 points, or 1.98 percent, at 3,893.\n\nIn Seoul, the Kospi closed up 220 points, or 4.39 percent, at 5,239 in a sharp rebound from nine-month lows as chipmakers tracked overnight gains in US tech stocks. (Agencies)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T09:10:16.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877260-20261110.htm"
+    },
     {
       "id": "8ff110635c3ef0f3",
       "title": "HK five-year plan offers UK long-term prospects: CE",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
-    },
-    {
-      "id": "940d79532a5b6d51",
-      "title": "Nursing workforce planning outlined",
-      "excerpt": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare…",
-      "fullText": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare professionals. The statement was issued in response to public discussions regarding nursing manpower planning in Hong Kong, adding that such discussions should be grounded objective facts and data to foster consensus.\n\nAlthough the nurse attrition rate within the Hospital Authority has dropped from a peak of 10.9% to 5.4%, approximately 3,200 vacancies remain unfilled with recruitment ongoing. In 2025, around 3,500 of the 4,000 prospective nursing graduates qualified as Registered Nurses (RNs) or Enrolled Nurses (ENs), with about 60% applying for positions within the authority.\n\nThese figures demonstrate that graduates diversify into various sectors, including private healthcare institutions, elderly services and rehabilitation, community nursing, insurance and health management. Notably, approximately 99% of applicants who completed the interview or assessment process for RN posts within the authority received an offer of appointment.\n\nAs of the end of 2025, over 30,000 of Hong Kong’s 75,000 RNs and ENs were employed within the public healthcare system, representing roughly 40% of the total workforce. Given that nursing practice spans hospitals, primary care, community and elderly services, rehabilitation and other health service sectors, the Government noted that manpower supply and demand must be assessed holistically across the entire market.\n\nFurthermore, approximately 99.8% of RNs serving in the authority are locally trained, confirming that local professionals remain the backbone of public healthcare. The Government affirmed it will continue to promote regional healthcare collaboration and professional exchanges while strictly safeguarding employment priority for locally trained professionals.\n\nPlans are also underway to strengthen manpower training for primary healthcare and advance professional systems to enhance service quality and maximise the professional functions of nurses. Addressing broader roles, the Government stressed that the Health & Care Practitioner (HCP) rank is a dedicated welfare-sector role that should not be confused with ENs due to distinct scopes of practice.\n\nAcknowledging broader recruitment pressures, the Health Bureau noted that private hospitals face similar shortages, with one facility reporting 40 vacancies but receiving only 25 applications over the past year. In response to an ageing population, the Government reiterated its commitment to driving cross-sectoral collaboration and manpower planning based on service needs and manpower data to ensure that healthcare and nursing services in Hong Kong can continue to meet the needs of society.\n\nThe Government hopes that all sectors of the community will exchange views on healthcare manpower development and professional training based on facts and data, and work together to foster the sustainable development of the city's healthcare system.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431/images/20260929142417086.jpg",
-      "publishedAt": "2026-09-28T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
     }
   ]
 }
