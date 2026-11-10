@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T12:00:30.109Z",
-  "checkedAt": "2026-11-10T12:00:30.109Z",
+  "generatedAt": "2026-11-10T12:15:16.958Z",
+  "checkedAt": "2026-11-10T12:15:16.958Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -423,6 +423,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261110/20261110_183753_971.html"
+    },
+    {
+      "id": "d204dc157b7ac21e",
+      "title": "Northern Link Project pact signed",
+      "excerpt": "With the Chief Executive in Council approving the financial arrangement for Part 2 of the Northern Link (NOL) Project today…",
+      "fullText": "With the Chief Executive in Council approving the financial arrangement for Part 2 of the Northern Link (NOL) Project today, the Government and the MTR Corporation (MTRC) have executed the agreement for the full NOL Project.\n\nSecretary for Transport & Logistics Mable Chan and the MTRC Chairman Jacob Kim witnessed the representatives of the Transport & Logistics Bureau and the MTRC signing the agreement.\n\nThe milestone indicates that the NOL Main Line and Spur Line have fully entered the construction stage, targeting a simultaneous commissioning by 2034 or sooner.\n\nMs Chan noted that the venture is a strategic railway project under Hong Kong's First Five-Year Plan, actively aligning with the strategies set out in the National 15th Five-Year Plan Outline.\n\nProviding local commuting alongside cross-boundary railway services, the project will open up new transport corridors for both domestic and cross-boundary transit upon its full rollout.\n\nMs Chan said the project features three highlights - serving the Northern Metropolis, joining two lines, and linking the Greater Bay Area.\n\n“First, the project will serve as the main public transport backbone for several new development areas in the Northern Metropolis including the innovation and technology clusters in the San Tin Technopole and the Loop, driving the expedited development of the Northern Metropolis.\n\n“Secondly, the project will link the Tuen Ma Line and the East Rail Line to form a railway loop, significantly enhancing the coverage and resilience of the railway network.\n\n“Thirdly, the project will connect to the Huanggang Port, thereby integrating the metro networks of Hong Kong and Shenzhen and strengthening infrastructure interconnectivity in the Greater Bay Area.”\n\nTo enhance the speed and efficiency of railway development, over the past year the Government and the MTRC teams have taken forward a series of key initiatives to reduce cost and expedite construction.\n\nMs Chan highlighted that the time for handling building plans has been reduced by 30 to 50%. By implementing the NOL Main Line in combination with the Spur Line as one project, it will also advance the timetable of the Spur Line by two years to commission simultaneously with the Main Line by 2034 or earlier.\n\nThe estimated capital cost is verified to be about $54.8 billion. Together with the estimated capital cost for Part 1, the estimated capital cost of the entire NOL Project is about $86.2 billion, which is lower than the original estimate by 28%.\n\nThe Chief Executive in Council also approved the grant of sites at Ngau Tam Mei Area 3A, 3D and 4A; San Tin Area 2A and 2G; Kwu Tung North Area 23 and 26 (East); as well as part of the site for residential use in the proposed Au Tau New Development Area, to the MTRC for residential and commercial development under the \"Rail-plus-Property\" model.\n\nThe NOL Main Line involves the construction of a 10.7-kilometre-long underground railway and five stations. There will be two interchange stations at Kam Sheung Road Station and Kwu Tung Station connecting with the Tuen Ma Line and the East Rail Line respectively, as well as three intermediate stations at San Tin, Ngau Tam Mei and Au Tau.\n\nUpon commissioning, the travelling time between Kam Sheung Road and Kwu Tung during peak hours will be significantly reduced from the current 60 minutes to 12 minutes.\n\nThe Spur Line involves the construction of an underground railway of about 6 kilometres in length branching off from San Tin Station on the NOL Main Line, of which the Shenzhen section is approximately 1.1 kilometres long.\n\nThere will be three new stations, including intermediate stations at Chau Tau and the Loop, as well as the terminal at the Huanggang Port in Shenzhen. The travelling time between San Tin and the Huanggang Port is expected to be only about 11 minutes upon commissioning.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261110/20261110_173848_316/images/20261110193756421.jpg",
+      "publishedAt": "2026-11-09T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261110/20261110_173848_316.html"
     },
     {
       "id": "7c35d3455d208fd0",
@@ -1325,17 +1336,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
-    },
-    {
-      "id": "7c859999599235dd",
-      "title": "Man arrested under security law",
-      "excerpt": "The Police Force's National Security Department today arrested a 34-year-old local man in Mong Kok on suspicion of committing seditious…",
-      "fullText": "The Police Force's National Security Department today arrested a 34-year-old local man in Mong Kok on suspicion of committing seditious acts.\n\nThe man was arrested for the offence of “importing a publication that has a seditious intention”, contravening the Safeguarding National Security Ordinance.\n\nFollowing Police investigations, the man, a local company director, is suspected of importing seditious books into local bookstores with the intent to bring hatred, contempt or disaffection against the Central People’s Government and Hong Kong Special Administrative Region.\n\nUnder the authorisation of court warrants, Police searched the arrested man's residence and company. Seditious books, digital devices used to purchase seditious books, and documents were seized. The man is being detained for further enquiries.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_223247_817/images/20261105230045201.jpg",
-      "publishedAt": "2026-11-04T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_223247_817.html"
     },
     {
       "id": "bbc2fa366fb47ee7",
