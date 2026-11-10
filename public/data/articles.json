@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T20:30:23.935Z",
-  "checkedAt": "2026-11-10T23:00:30.884Z",
+  "generatedAt": "2026-11-10T23:13:18.537Z",
+  "checkedAt": "2026-11-10T23:13:18.537Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "95175d27d15c212d",
+      "title": "Anthropic targets valuation of up to US$1.4 trillion",
+      "excerpt": "Anthropic plans to raise up to US$64 billion in its upcoming initial public offering, the artificial intelligence giant said in…",
+      "fullText": "Anthropic plans to raise up to US$64 billion in its upcoming initial public offering, the artificial intelligence giant said in a filing on Tuesday, putting the company's total valuation at up to $1.4 trillion.\n\nThe maker of AI agent Claude said in a filing with the US Securities and Exchange Commission that it aims to sell 825 million shares of Class A common stock at a Wall Street debut price estimate of \"between US$70.00 and US$78.00\" per share, amounting to US$64.3 billion.\n\nAnthropic had been expected to raise up to US$100 billion in its IPO, which would have made it the largest IPO on record.\n\nThe stock market debut is being seen as a gauge of how long the AI spending boom lifting the US economy can last.\n\nAnd it comes as Wall Street is busy digesting the impact of the US midterm elections, in which Democrats won majority control of both chambers of Congress and are vowing to put the brakes on US President Donald Trump's agenda.\n\nAnthropic has been aiming to hold its initial public offering the week of November 16.\n\nOn Monday the company announced it would release updated versions of two of its most powerful AI models, Fable 5.2 and Mythos 5.2, which it said can perform 30 percent faster than previous versions.\n\nGrowth has been staggering at the company. Anthropic's revenue reached US$17 billion in the third quarter, up from just US$1.4 billion a year earlier, a securities filing showed earlier this month.\n\nOn Tuesday, the company said its annualised projection, known as the run-rate revenue, \"was approximately US$81 billion as of October 31, 2026, up US$10 billion from September 30.\"\n\nEstimates in recent months had forecast Anthropic's valuation at up to a staggering US$2 trillion, but the estimates have slipped along with a slide in AI stock prices on Wall Street.\n\nSeveral US media outlets including The Wall Street Journal and The New York Times on Tuesday estimated the valuation of the company at between US$1.3 trillion and US$1.4 trillion. (AFP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T22:52:17.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877308-20261111.htm"
+    },
+    {
+      "id": "566297f3b5824429",
+      "title": "US stocks fall on hot inflation report",
+      "excerpt": "US stocks closed lower on Tuesday, as a hotter-than-expected inflation reading hardened expectations for a rate hike from the Federal…",
+      "fullText": "US stocks closed lower on Tuesday, as a hotter-than-expected inflation reading hardened expectations for a rate hike from the Federal Reserve next month and fuelled concerns the US central bank may be more aggressive in raising rates.\n\nThe US Labour Department said the Consumer Price Index increased 0.4 percent last month, its third straight gain of 0.4 percent or more and above the 0.3 percent estimate of economists polled by Reuters, after advancing 0.6 percent in September.\n\nThe data came after Fed Governor Christopher Waller said the central bank should raise short-term borrowing costs in December even if data showed inflation cooled last month, and should consider an upsized half-point rate hike if the inflation picture worsens.\n\nMarkets are now completely pricing in a rate hike of at least 25 basis points at the Fed's December meeting, according to CME FedWatch, up from 84 percent on Monday, while expectations for a 50 basis point increase climbed to 11.8 percent after garnering no consideration at all in the prior session.\n\nThe 2-year US Treasury yield, which typically moves in step with interest rate expectations for the Fed, surged nearly 18.9 basis points to 4.736 percent and was poised for its biggest daily gain since April 9, 2025, after US President Donald Trump launched sweeping global tariffs.\n\nThe jump in yields has come even as oil prices have eased to two-month lows as US officials have downplayed any imminent military actions against Iran.\n\n\"What kind of has the market spooked a little bit is this idea of, 'Well, we were already pricing in a December hike... but maybe it's not 25, maybe it's 50, and maybe the Fed's more worried about inflation than I am, so let's sell some stocks,'\" said Jason Ware, chief investment officer at Albion Financial Group in Salt Lake City, Utah.\n\n\"From our perch, that is irrational. The thing that has pushed CPI up over the last six months and has the Fed a little bit more concerned and therefore has restarted hiking rates is because we've seen oil, energy and diesel push through in terms of inflation. If we have oil now going the other way ... this is all going to settle down.\"\n\nThe Dow Jones Industrial Average fell 157 points, or 0.3 percent, to 52,231, the S&P 500 lost 29 points, or 0.4 percent, to 7,520 and the Nasdaq Composite lost 187 points, or 0.7 percent, to 25,065.\n\nThe S&P 500 and Nasdaq had risen for two straight days, bouncing back from sharp losses last week sparked by concerns about the potential for government regulations slowing the AI buildout.\n\nBut the S&P 500 technology sector dropped 1.4 percent on Tuesday as the worst-performing of the 11 major sectors, weighed down by another drop in Nvidia, which fell 5.4 percent and has tumbled 9.6 percent over the past two sessions. The company's stock reflects mounting concerns over CEO Jensen Huang's future at the chip company after it initiated an internal probe into spy claims involving Chinese businesswoman Alice Huang. China has dismissed the spying allegations as a smear campaign.\n\nInvestors are also bracing for Anthropic's expected public listing later this month. The AI lab revealed that its initial public offering is expected to raise as much as US$64.4 billion, giving the company a fully diluted valuation of up to US$1.4 trillion.\n\nA listing by Anthropic could also force other AI heavyweights to compete harder for investor dollars and cause portfolio repositioning by investors.\n\nNeocloud firm CoreWeave shares closed down 0.5 percent but were up about 2 percent in extended trade after it topped Wall Street's revenue estimates on strong demand for its cloud services, easing some recent concerns about the sustainability of the AI boom and the company's debt burden. The stock is down 32 percent on the year. (Reuters)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T22:43:13.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877328-20261111.htm"
+    },
     {
       "id": "db177c0758430af1",
       "title": "Zelensky upbeat over first day of Russia-Ukraine talks",
@@ -1239,17 +1261,6 @@
       "link": "https://www.news.gov.hk/eng/2026/11/20261106/20261106_213352_837.html"
     },
     {
-      "id": "80bac2dc529dc24d",
-      "title": "First Bank of England rate hike in 3 years",
-      "excerpt": "The Bank of England raised its benchmark interest rate to 4 percent on Thursday, the first increase in more than…",
-      "fullText": "The Bank of England raised its benchmark interest rate to 4 percent on Thursday, the first increase in more than three years, as soaring energy costs push up global inflation.\n\nThe central bank tightened borrowing costs by a quarter point, catching up with the US Federal Reserve and the European Central Bank in lifting rates since the start of the Middle East conflict.\n\nAlong with Ukraine's strikes on Russian refineries, disruptions to Gulf energy supplies owing to the US-Iran war have caused record-high diesel prices around the world.\n\n\"There is now enough inflationary pressure in the pipeline caused by the rise in energy prices, that an increase in Bank Rate is warranted,\" BoE governor Andrew Bailey said in a statement.\n\n\"Today's increase shouldn't be seen as the first in an inevitable long sequence of hikes.\n\n\"But, unless the conflict in the Middle East is resolved, neither does it seem likely to be the last increase.\"\n\nDespite surging inflation, the bank upgraded its forecasts for UK economic growth in 2026 and 2027.\n\nThe central bank now estimates gross domestic product to hit 1.6 percent this year and 1.3 percent next year.\n\nIn July, it had forecast GDP output of 1.1 percent in both years.\n\nThe BoE last raised its key interest rate in August 2023, and has kept the cost of borrowing at 3.75 percent since December.\n\nBritain's annual inflation rate accelerated by more than expected in September, rising to 3.5 percent – well above the bank's target of 2 percent.\n\nThe BoE on Thursday said its central forecast saw UK inflation peaking at 4.9 percent in the second quarter of next year.\n\nMillions of Britons face a jump in energy bills from the start of next year, even after the government offered some assistance in its annual budget announcement last week. (AFP)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T13:11:07.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876713-20261105.htm"
-    },
-    {
       "id": "e83299b5fb7485d8",
       "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
       "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in…",
@@ -1281,17 +1292,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876681-20261105.htm"
-    },
-    {
-      "id": "14586f55973e8161",
-      "title": "HK cheer as Trump thumping may spell woe for AI boom",
-      "excerpt": "Tech firms tumbled Thursday as investors contemplated the outlook for the AI boom after Democrats swept the US midterms, partly…",
-      "fullText": "Tech firms tumbled Thursday as investors contemplated the outlook for the AI boom after Democrats swept the US midterms, partly on the back of growing anger over the rapid building of data centres across the country.\n\nIn Hong Kong, the benchmark Hang Seng Index soared 877 points, or 3.7 percent, to end at 24,796 on comparatively high turnover of HK$356.67 billion.\n\nThe tech index rose 218 points, or 5.5 percent, to 4,154 while the China enterprises index gained 311 points, or 3.9 percent, to 8,369.\n\nOn the mainland, the Shanghai Composite Index closed up three points, or 0.1 percent, at 3,689 on turnover of 979.71 billion yuan.\n\nThe Shenzhen Component Index was 135 points, or 1.2 percent, higher at 11,471 on turnover of nearly 1.14 trillion yuan while the ChiNext Index was up 22 points, or 0.87 percent at 2,566 on turnover of 576.11 billion yuan.\n\nThe tech losses, which happened mostly in tech-heavy benchmarks like the Nikkei and Kospi, came after US President Donald Trump's Republicans were dealt an historic defeat that was blamed on high prices, tariffs and the Iran war.\n\nThe result stoked hopes he will look to wind down the Middle East conflict, which would help temper inflation and even soften his stance on trade.\n\nBut AI-linked firms came under the cosh amid fears for planned data centre construction projects as well as renewed scrutiny from newly installed Democrats on Capitol Hill.\n\nThe sector had already been in the crosshairs of investors owing to questions about the vast sums pumped into new facilities, R&D and chip development, and when any companies would see a profit.\n\nCharu Chanana at Saxo Markets said the vote was accelerating a reassessment of AI that was already under way.\n\n\"A Democratic Congress introduces another layer of uncertainty: regulatory scrutiny,\" she wrote, adding that the three main risks were more oversight, data centre restrictions and capital spending uncertainty.\n\n\"The congressional scrutiny could accelerate demands for AI safety standards, independent model evaluations and greater accountability for data centre developers.\"\n\nHowever, Chanana also said: \"This is not the same as an outright anti-AI policy agenda. AI is strategically important for US competitiveness, particularly against China, and there remains considerable bipartisan interest in maintaining American leadership.\"\n\nIn Tokyo, the Nikkei ended 1,110 points, or 1.79 percent, in the red at 61,077, dragged lower by a sharp selloff in AI and chip shares even as the vast majority of stocks on the index rose.\n\nThe broader Topix index gained 45 points, or 1.2 percent, to 3,940.\n\nIn Seoul, the Kospi closed down 300 points, or 5.28 percent, at 5,383 to a seven-month closing low, as chipmakers tracked overnight losses in US tech stocks on worries about a slowdown in AI investment following a Democratic win in the midterm elections. (Agencies)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T09:14:05.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876679-20261105.htm"
     },
     {
       "id": "ee671010baaed742",
