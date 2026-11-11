@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T05:00:26.893Z",
-  "checkedAt": "2026-11-11T05:15:22.879Z",
+  "generatedAt": "2026-11-11T05:30:21.752Z",
+  "checkedAt": "2026-11-11T05:30:21.752Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -291,6 +291,17 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/korea/2026/11/10/north-korea-affordability-crisis-inflation/"
+    },
+    {
+      "id": "a926c300712abec9",
+      "title": "HK 11th on digital competitiveness",
+      "excerpt": "Hong Kong has been ranked 11th globally and fourth in Asia in the World Digital & AI Ranking (WDAIR) 2026…",
+      "fullText": "Hong Kong has been ranked 11th globally and fourth in Asia in the World Digital & AI Ranking (WDAIR) 2026 index, published by the International Institute for Management Development (IMD).\n\nAmong the five factors under consideration, Hong Kong ranks inside the top 10 for workforce development, efficiency, and technology and infrastructure.\n\nIn terms of sub-factors, Hong Kong ranks top on technological framework (under technology and infrastructure), practices (under efficiency), and education and training (under workforce development). It also ranks inside the top 10 on talent (under workforce development), societal attitudes (under values) and regulatory framework (under governance).\n\nThe Government said that WDAIR 2026 recognises Hong Kong as one of the world’s most competitive economies for digital and AI development. It highlighted that Hong Kong’s First Five-Year Plan sets out a vision for the city’s development as an international centre for innovation and technology, one that has the full backing of the central authorities.\n\nIt iterated that Hong Kong will foster new industrialisation with regard for local circumstances, advance the Artificial Intelligence+ Initiative on all fronts, enhance computing infrastructure, support small-and-medium-sized enterprises in their adoption of AI, and empower different sectors of the economy through AI technology.\n\nIn terms of upstream research, the Government will build on the “dual base” advantages of the city’s InnoHK Research Clusters and State Key Laboratories, and advance the development of the Hong Kong Microelectronics Research & Development Institute, the Hong Kong Artificial Intelligence Research & Development Institute and the Life & Health Technology Research Institute.\n\nMeanwhile, the Government will accelerate the development of national strategic emerging industries and foster new quality productive forces, including through establishing Hong Kong’s first national manufacturing innovation centre.\n\nIt will also enhance the artificial intelligence (AI) ecosystem on multiple dimensions, including computing power, funding and risk management. Construction of the Sandy Ridge Data Facility Cluster is underway and the cluster is expected to be fully operational by 2032 or earlier, providing computing power of 180,000 peta-floating point operations per second, equivalent to 36 times Hong Kong’s current computing power.\n\nThe Government has also launched an AI Subsidy Scheme to support the industry in using high-performance computing power for frontier research, and is optimising the Digital Transformation Support Pilot Programme to provide matching subsidies to support more small and medium enterprises in applying AI and cybersecurity solutions.\n\nIn addition, the Government will continue to build digitally-led public services. The “iAM Smart” platform has achieved the goal of a single portal for online government services, with daily usage exceeding 220,000 interactions. The platform provides access to more than 1,400 online services.\n\nMeanwhile, the AI Efficacy Enhancement Team is driving government departments to apply AI technology. It has so far facilitated 30 projects involving 13 departments.\n\nGoing forward, the Government will aim to promote closer collaboration with the industrial, academic, research and investment sectors, consolidate and enhance Hong Kong’s competitive edge in the global market, and provide more convenient, efficient and reliable public services.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261111/20261111_111825_939/images/20261111123657034.jpg",
+      "publishedAt": "2026-11-10T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261111/20261111_111825_939.html"
     },
     {
       "id": "26b38ff0b146c345",
@@ -1256,8 +1267,8 @@
       "fullText": "The World Class University Presidents Forum was held at the Hong Kong University of Science & Technology on November 4 and 5, drawing presidents and senior management from around 50 world-leading institutions.\n\nThe Hong Kong Special Administrative Region Government is dedicated to transforming the city into an international education hub, a vision that includes developing three university towns within the Northern Metropolis (NM).\n\nThis initiative has garnered significant attention from participating universities, with university presidents from the UK, Spain and South Africa expressing interest in exploring various models of participation.\n\nStuart Croft, University of Warwick Vice Chancellor & President, said the Hong Kong SAR Government is being very strategic, future-oriented and globally oriented.\n\n\"With the whole concept of economic growth being driven with universities, with industry, facilitated by government, the triple helix model, where else in the world is there something of this scale and ambition?\"\n\nProfessor Croft predicted that over the next decade, the world's top universities will transform their partnership model to embedding activities.\n\n\"That is what is going to make the difference, and of course the Northern Metropolis gives a fantastic opportunity for Hong Kong universities to build that embedding process, possibly earlier, possibly more deeply than elsewhere in the world, \" he said.\n\nIn the latest QS Asia University Rankings, Hong Kong has five universities in Asia’s top ten.\n\nMosa Moshabela, Vice Chancellor & Principal of the University of Cape Town in South Africa noted that Hong Kong’s high concentration of top-tier universities, paired with its convenient transport and lifestyle, promotes student and faculty mobility while bolstering the \"Study in Hong Kong\" initiative.\n\n\"I think it can really offer a good place for brain circulation. For my university, for example, it would be of interest for students and faculty to come in, especially for a relatively short stay of six months. A relatively short stay would be really good for exposure, in-depth exposure to what's happening in Hong Kong, especially if it is linked to industry.\"\n\nParticipating presidents also highlighted the flow of talent, which they said tends to gravitate toward places with strong innovation and research ecosystems.\n\nThey expressed hope that the Hong Kong SAR Government would proactively offer incentives to attract and retain talent and support the development of the university town project.",
       "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_124445_933/images/20261105182838364.jpg",
       "publishedAt": "2026-11-05T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_124445_933.html"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746.html"
-    },
-    {
-      "id": "e514ab7fdff7dce2",
-      "title": "Domestic helper wage up 2.35%",
-      "excerpt": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased…",
-      "fullText": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased by 2.35%, from $5,100 to $5,220 per month.\n\nThe new minimum wage level will apply to all FDH contracts signed on or after tomorrow. FDH contracts signed today or earlier at the existing rate will still be processed by the Immigration Department, provided that the applications reach the department no later than October 30.\n\nThe Government explained that in reviewing the minimum wage, it had, in accordance with an established mechanism, considered factors including Hong Kong’s general economic performance and labour market conditions over the past year, the city's near-term economic outlook, employer affordability and the basic living needs of FDHs.\n\nThe Government also consulted employers and FDHs throughout the review process.\n\nIt stated that it decided to adjust the minimum wage level after carefully assessing and balancing the views of all parties, taking into account that this year's socio-economic factors are more favourable than those of last year's review.\n\nThe Government also reviewed the food allowance in lieu of free food, and decided that the level should remain unchanged, at no less than $1,236 per month.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265/images/20261002172046980.jpg",
-      "publishedAt": "2026-10-01T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
     }
   ]
 }
