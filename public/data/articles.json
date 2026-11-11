@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T21:00:34.727Z",
-  "checkedAt": "2026-11-11T21:53:03.989Z",
+  "generatedAt": "2026-11-11T22:00:27.447Z",
+  "checkedAt": "2026-11-11T22:00:27.447Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 18
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "835d97f8ba49b406",
+      "title": "Millions of Spaniards strike to protest housing crisis",
+      "excerpt": "Four million Spanish workers took part in a general strike on Wednesday, unions said, enduring stormy weather to set up…",
+      "fullText": "Four million Spanish workers took part in a general strike on Wednesday, unions said, enduring stormy weather to set up picket lines in a protest against the country's housing affordability crisis, less than three weeks before a snap general election.\n\nIt is the first general strike since workers downed tools in 2012 against austerity measures during the euro zone debt crisis. The walkout is backed by Spain's two largest unions, UGT and CCOO, representing more than a million workers, as well as tenants' associations angry about rising rents and evictions.\n\nPrime Minister Pedro Sanchez hopes to harness voter resentment over housing in the November 29 election to shift the political narrative away from corruption cases involving his inner circle and a deadly train crash last month. So far, his Socialist Party still trails in opinion polls.\n\nUnions described the strike as a success even though participation was uneven across Spain, with the strongest support in coastal regions where housing pressures have been particularly acute.\n\nSpain has a deficit of about 750,000 homes, which is set to grow to more than a million by 2028, according to the central bank.\n\nWith fewer people able to afford a home, renting has increased sharply, putting pressure on that market. The average rental price of €1,176 is equivalent to about 98.7 percent of a young person's average monthly salary in Spain, according to the Youth Council of Spain.\n\nAngela de Miguel, vice president of Spain's main business lobby CEOE, said the strike was counterproductive because small businesses were also affected by the housing crisis, since shortages of homes made recruitment more challenging.\n\nSpeaking on state broadcaster TVE, she said the solution was to build more homes and to lower taxes in construction and the home-buying process.\n\nThe tenants' union said it expected participation in the strike to reach 5 million people by the end of the day. Spain has around 23 million workers, according to the national statistics institute.\n\nAccording to UGT and CCOO, participation in the strike reached 90 percent at ports and in the automotive sector, with \"total stoppages\" reported at factories including Volkswagen's in Navarre and SEAT's in Barcelona.\n\nBarcelona's metro said no trains would run outside peak commuting hours, while Madrid's metro said peak-hour usage was down 42 percent compared to the same period last week.\n\nHowever, with more people able to work remotely and the increasing weight of services in Spain’s economy, the impact of the strike is likely to be less pronounced than in previous years, according to Miguel Cardoso, chief economist at BBVA Research.\n\nSpain's fast-growing hospitality and finance industries are less unionised than the public and industrial sectors.\n\nPolice had reported 40 arrests by midday from 476 incidents linked to the general strike, including blockades of offices and industrial estates and the burning of rubbish containers.\n\nUnions said they would file a criminal complaint against what they described as a “disproportionate” response during a police operation involving tear gas and batons that left 20 protesters injured.\n\nThe strike follows weeks of demonstrations provoked by the eviction and subsequent death of an 87-year-old woman in Madrid.\n\nThose protests, along with parliament's rejection last month of government decrees aimed at curbing evictions and limiting rent pressures, prompted Sanchez to call the snap election. (Reuters)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T21:47:27.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877453-20261112.htm"
+    },
     {
       "id": "a82045f86d300a33",
       "title": "US envoys to see Putin, Zelensky after Abu Dhabi talks",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
-    },
-    {
-      "id": "655dea3537ed986c",
-      "title": "Five HK universities rank in top 100",
-      "excerpt": "Hong Kong has five universities among the top 100 in the World University Rankings 2027, published by Times Higher Education…",
-      "fullText": "Hong Kong has five universities among the top 100 in the World University Rankings 2027, published by Times Higher Education (THE).\n\nCommenting today, the Education Bureau highlighted that two of the city’s ranked institutions had gained higher positions in the latest rankings.\n\nIt said the results demonstrate the robust strengths of Hong Kong’s higher education system and its world-class standing in terms of teaching, research, and international outlook.\n\nIt added that the rankings reflect the Government’s investment of resources and its policy support over the years, both of which have laid a solid foundation for the city’s higher education institutions.\n\nIn the latest rankings, the University of Hong Kong ranks 33rd globally; the Chinese University ranks 42nd; and the University of Science & Technology ranks 58th. City University and Polytechnic University have risen to 70th and 79th respectively.\n\nThe bureau said the consistent high international rankings of Hong Kong’s universities not only reflect the local higher education sector's excellence, but also bear witness to the Government’s proactive leadership in policy measures aimed at driving innovation and change, as well as expanding capacity while enhancing quality.\n\nIt added that the Government will continue to spare no effort in promoting the sector's comprehensive integration into overall national development, contributing to China’s development as a leading country in education.\n\nLooking ahead, the bureau said that with the advent of Hong Kong’s First Five-Year Plan, the city’s higher education is ushering in a golden period of development full of promising potential.\n\n“We will continue to promote the all-round connectivity in areas such as talent training, frontier scientific research, and industry-academia-research collaboration, optimise resource allocation, support various institutions in consolidating their existing advantages while pioneering innovation, and nurture more outstanding talent equipped with both international perspective and exceptional capabilities, thereby making greater contributions to the long-term prosperity and stability of Hong Kong and the country.”",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409/images/20260930122638517.jpg",
-      "publishedAt": "2026-09-29T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
     }
   ]
 }
