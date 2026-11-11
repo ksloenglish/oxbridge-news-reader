@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T23:00:27.580Z",
-  "checkedAt": "2026-11-11T23:00:27.580Z",
+  "generatedAt": "2026-11-11T23:07:20.581Z",
+  "checkedAt": "2026-11-11T23:07:20.581Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 18
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -95,14 +95,25 @@
   ],
   "articles": [
     {
+      "id": "f290d69ad696e96d",
+      "title": "CoreWeave results lift tech stocks as dollar gains",
+      "excerpt": "Stock markets rose on Wednesday on renewed optimism over AI following strong results from data centre operator CoreWeave, while the…",
+      "fullText": "Stock markets rose on Wednesday on renewed optimism over AI following strong results from data centre operator CoreWeave, while the dollar extended a rally on expectations for at least one more Federal Reserve interest rate hike.\n\nWall Street's main indices enjoyed a buoyant session led by the tech-heavy Nasdaq, which finished up 1.6 percent.\n\n\"The primary catalyst for the upside action is, ironically, one of the primary catalysts for the downside action that had been seen in the AI trade,\" said Briefing.com analyst Patrick O'Hare.\n\n\"That would be CoreWeave, which posted better-than-feared third-quarter results and issued a reassuring outlook that has quieted some of the debt financing concerns surrounding its AI buildout plans,\" he added.\n\nCoreWeave said sales would come in at US$13-US$13.3 billion this year, beating estimates and soothing worries about its ability to finance its heavy debt burden, which fuelled a sharp sell-off last month.\n\nShares in CoreWeave surged nearly 25 percent.\n\n\"This relief trade is carrying across the AI trade complex to include hardware, software, and semiconductor stocks,\" said O'Hare.\n\nThe gains in US equities came despite signalling from US central bankers that the Fed will lift interest rates in December to address persistent inflation. The US dollar rose to its highest level since May 2025 after one top Fed official floated the idea of a 0.5 percentage point interest rate increase next month.\n\nAfter last week's rout fuelled by fears that Democrats would ramp up regulation of AI, tech stocks have bounced this week on bargain-buying and hopes that fears may have been overdone.\n\n\"Overall, the market is putting AI doubts to one side and is focusing on revenue potential and mega cap IPO as we move through this week,\" said Kathleen Brooks, research director at XTB.\n\nSemiconductor companies advanced, including scandal-plagued Nvidia, which bounced 3 percent after a two-day rout following the bombshell revelation of an affair between CEO Jensen Huang and a woman suspected of being a spy. The firm is now the subject of an FBI investigation.\n\nThe Dow Jones Industrial Average rose 254 points, or 0.5 percent, to 52,486, the S&P 500 gained 98 points, or 1.3 percent, to 7,619 and the Nasdaq Composite gained 400 points, or 1.6percent, to 25,466.\n\nOil prices advanced after sinking on Tuesday on hopes for a US-Iran agreement to end their war and reopen the crucial Strait of Hormuz. (AFP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T23:00:28.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877464-20261112.htm"
+    },
+    {
       "id": "7011e1b71de489e2",
       "title": "Wang Yi holds 'positive, constructive' call with Rubio",
       "excerpt": "Foreign Minister Wang Yi held a \"positive and constructive\" call with US Secretary of State Marco Rubio on Wednesday, Xinhua…",
       "fullText": "Foreign Minister Wang Yi held a \"positive and constructive\" call with US Secretary of State Marco Rubio on Wednesday, Xinhua news agency reported, with Beijing expressing willingness to strengthen communication and cooperation with Washington.\n\nThe talks come roughly a week ahead of the Apec Economic Leaders' Meeting in Shenzhen, where Presidents Xi Jinping and Donald Trump are expected to meet.\n\nThe current stability in China-US relations has not come easily, Wang said, calling it \"a rational choice made by the two major countries based on respective and shared interests,\" the Xinhua report said.\n\nThe Xinhua report quoted Wang as saying that China, having maintained a stable and consistent policy towards the United States, is willing to strengthen communication and cooperation with Washington, properly handle differences and sensitive issues, support each other in hosting the 2026 Apec Economic Leaders' Meeting and the G20 Summit, and work to bring a constructive China-US relationship of strategic stability into effect and deliver results.\n\nXi and Trump have met twice already this year and Rubio told reporters on Tuesday there was work underway to arrange a trilateral meeting on the Apec sidelines involving Xi, Trump and Russian President Vladimir Putin.\n\nRubio said Trump wants that meeting to happen and added: \"We think it should be possible.\"\n\nTrump said on Sunday he thought he would meet Xi and Putin in Shenzhen and discuss ending the war in Iran and denuclearisation.\n\nHe said in October that he was open to three-way arms control talks with Xi and Putin, which he said would focus on nuclear weapons.\n\nChina's foreign ministry said last month that its \"nuclear strength is by no means at the same level with that of the US and Russia\" and that it would be \"neither fair, reasonable nor realistic to ask China to join the so-called trilateral nuclear disarmament negotiations at this stage.\"\n\nThe Wall Street Journal has reported that Putin has pitched using a trilateral meeting to discuss an end to Russia's long-running war in Ukraine. (Xinhua/Reuters)\n\nEdited by Cecil Wong",
       "imageUrl": null,
       "publishedAt": "2026-11-11T22:46:41.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877472-20261112.htm"
     },
     {
@@ -118,9 +129,9 @@
     },
     {
       "id": "a82045f86d300a33",
-      "title": "US envoys to see Putin, Zelensky after Abu Dhabi talks",
-      "excerpt": "US envoys will separately meet Russia's Vladimir Putin and Ukraine's Volodymyr Zelensky on Thursday as they seek to seize \"openings\"…",
-      "fullText": "US envoys will separately meet Russia's Vladimir Putin and Ukraine's Volodymyr Zelensky on Thursday as they seek to seize \"openings\" from two days of talks in Abu Dhabi on ending the Ukraine war.\n\nSteve Witkoff and Jared Kushner will travel first to Moscow to meet the Russian president, before flying to Dublin – where Zelensky will attend European meetings – to debrief the Ukrainian leader.\n\nThe countries agreed in Abu Dhabi to a major prisoner exchange – the \"biggest\" ever, according to Kushner – though no side gave any figures.\n\nBut the talks – the first since February, when the US war in Iran halted diplomacy – also revealed deep splits over the role Europe should play in future talks.\n\nAll sides talked up progress and said talks would continue, though Ukraine's top negotiator Rustem Umerov said \"significant differences remain.\"\n\nKushner said the meeting with Putin would \"go over what was discussed today and try to make more progress on some of the issues that we discussed because we see some openings and some opportunities.\"\n\nWith Zelensky, the pair will \"further explore some of the ideas that we came up with here today.\"\n\nUmerov said that there was \"still a lot of difficult work ahead, but there are opportunities to continue the negotiation process.\"\n\nRussia's delegation chief Vladimir Medinsky told reporters the \"discussion will certainly continue.\"\n\nBut he questioned including Europe in the talks.\n\n\"We don't really understand what there is to talk about with them. We have not received a single peace initiative, not one concrete proposal from the European countries,\" he said.\n\nMedinsky later told Russian TV that Moscow's aim is a \"new, modern Yalta and Potsdam\" – referring to the 1945 conferences that saw Western leaders divide Europe with the USSR's Joseph Stalin.\n\nUkraine has warned against just that and has called for more involvement from its key European backers.\n\nKushner said seeking ways to \"get the Europeans added to the format\" would be on the agenda with Putin.\n\nOfficials from Britain, France, Germany and Italy, as well as Nato and the European Union travelled to Abu Dhabi for meetings on the sidelines.\n\nHundreds of thousands of people have been killed since Russia attacked in February 2022, in what has become Europe's worst conflict since World War II.\n\nMillions more have fled the fighting in eastern and southern Ukraine, large swathes of which have been destroyed by relentless aerial bombardments.\n\nRussia is demanding Ukraine withdraw from parts of eastern Ukraine it still controls and wants a sweeping deal on \"Europe's security architecture\" as part of any agreement to halt the war.\n\nThat is widely seen as a reference to Moscow's long-standing demands to push back the Nato military alliance in eastern Europe and end Western military support to Kyiv.\n\nKyiv says a ceasefire must come before any discussions on territory and has called for a direct meeting between Zelensky and Putin to discuss the biggest issues.\n\nPutin has ruled that out. The Kremlin has invited Zelensky to Moscow if he wants to meet the ex-KGB spy.\n\nZelensky's aide Kyrylo Budanov, who took part in the Abu Dhabi talks, said negotiations were \"not easy\" and that Ukraine's main goal was to \"achieve a just and lasting peace as soon as possible.\"\n\nKushner said the talks had helped, but declined to say on what issues the two sides might be able to agree.\n\n\"Some areas we see places where we can find compromises, others we need to have more discussions, but I think this was a good first step,\" he told reporters.\n\nHe also urged Europe to \"identify one person to speak on their behalf\" in the negotiations.\n\nEurope has been rattled by US President Donald Trump's proposal for a deal with Russia on rewriting European post-war security, worrying that Washington will force Kyiv to accept a peace that heavily rewards Moscow.\n\nKushner on Tuesday said the United States hoped to \"create a new framework\" of security between Ukraine, Russia and Europe that will secure \"decades, if not centuries, of peace.\"\n\nUkraine has insisted Russia end hostilities before any discussion on a future security arrangement for Europe, and warned against a \"Yalta 2.0\" carving up of the continent.\n\nGermany said on Wednesday that Russia must halt the war before there could be any talks on European security. (AFP)\n\nEdited by Robert Kemp",
+      "title": "Russia, Ukraine reach deal on prisoner swap",
+      "excerpt": "Russian and Ukrainian negotiators agreed to a major prisoner exchange at two days of peace talks in Abu Dhabi that…",
+      "fullText": "Russian and Ukrainian negotiators agreed to a major prisoner exchange at two days of peace talks in Abu Dhabi that ended on Wednesday, but US mediators said differences remained on major issues, including territory.\n\nAt their first negotiations in nine months, the two countries agreed in principle to exchange prisoners of war and to determine the numbers on Thursday.\n\nUS envoy Jared Kushner said the new swap would be the \"biggest humanitarian release of prisoners\" in the ongoing conflict, while Ukrainian President Volodymyr Zelensky said its scope would be \"significant.\"\n\nBoth Russia and Ukraine said that progress had been made in the Abu Dhabi talks and negotiations would continue. But there was little else in the way of concrete breakthroughs announced after the US-brokered meetings.\n\nKushner, US President Donald Trump's son-in-law, said mediators were appealing to each side's interests to end Europe's biggest conflict since World War Two and he expressed confidence they would find a pathway to peace.\n\nKyiv has strongly rejected Russian President Vladimir Putin's demands to surrender the whole of the eastern region of Donbas in return for peace. With talks deadlocked on land, US mediators have tried to steer discussions towards postwar security guarantees and reconstruction.\n\n\"The reality is there is no trust right now between the sides and that is to be expected after a conflict like this,\" Kushner said, adding that the talks had touched on territorial issues and that these would be the hardest to resolve.\n\n\"I think this was a good first step,\" he said.\n\nKushner said he and fellow US envoy Steve Witkoff will travel to Moscow on Thursday for talks with Putin, where they will raise the question of adding European partners to the talks, who Kushner said must be at the table.\n\nThe US negotiators then plan to fly to Ireland to meet with Zelensky, who is due to attend a meeting of European leaders there.\n\nZelensky told reporters in Dublin on Wednesday that Ukraine was focused on achieving progress on an accord this year.\n\n\"A lot will depend today on the format of the dialogue of the American and Russian sides tomorrow... I believe it is also very important for the Americans...to achieve a result this year, in my view, given what we are seeing happening,\" he said.\n\n\"And it seems to me that they really do want this very much.\"\n\nRussia and Ukraine accused each other of launching attacks overnight, despite the Abu Dhabi peace talks.\n\nRussia hit six electricity substations in central Ukraine, Ukrainian officials said, and an attack on a market in the Odesa region killed three people. A Ukrainian drone attack killed one person in Russia's Belgorod region, local officials said.\n\nUkrainian negotiator David Arakhamia said the talks had been tough, with Russia's delegation arriving with \"strict directives\", but the conversations provided \"good momentum\" towards reaching a solution by the end of the year.\n\nAlthough European officials and Nato representatives met US and Ukrainian envoys in Abu Dhabi, Russia's delegation refused to meet them. Arakhamia said future peace talks must be multilateral and include Europe at the table.\n\nRussia's chief negotiator, Vladimir Medinsky, told Russian state TV he thought a peace deal was closer after the talks but \"a great deal depends on Ukraine, on the US stance, and on whether Europe comes to its senses\".\n\nRussia has repeatedly criticised European military support for Ukraine. As the Trump administration has scaled back its direct aid to Ukraine, Europe has become the leading provider of finance and military support to Kyiv.\n\nReaffirming Moscow's long-standing demands, Medinsky told Russian state news agency TASS that \"every inch\" of Russian land would be returned to Russia – an apparent reference to Putin's insistence that Ukraine surrender all of the Donbas. (Reuters)\n\nEdited by Cecil Wong",
       "imageUrl": null,
       "publishedAt": "2026-11-11T20:24:14.000Z",
       "source": "RTHK English — World",
@@ -1239,17 +1250,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876820-20261106.htm"
     },
     {
-      "id": "c8e79eb6e902e512",
-      "title": "Exchange Fund makes HK$18.6bn as tough quarter looms",
-      "excerpt": "The Hong Kong Monetary Authority said on Friday it chalked up an income of HK$18.6 billion from Exchange Fund investments…",
-      "fullText": "The Hong Kong Monetary Authority said on Friday it chalked up an income of HK$18.6 billion from Exchange Fund investments in the third quarter as its chief executive warned of uncertainties in the fourth quarter.\n\nGains from investments in Hong Kong stocks came in at HK$9.1 billion while the return from bond investments only amounted to HK$300 million.\n\nInvestments in other equities contributed HK$1.5 billion while foreign exchange investment brought HK$7.7 billion.\n\nThe authority said total investment income in the first three quarters of this year amounted to HK$171.9 billion.\n\nSpeaking after attending a meeting of the Legislative Council’s financial affairs panel, authority chief executive Eddie Yue said the fund's performance would continue to fluctuate this quarter, describing it as a “difficult quarter with uncertainties”.\n\nThe uncertainties run the gamut from Middle East tensions, financial conditions in major markets, to developments on the artificial intelligence front.\n\n“The US midterm election results have drawn market attention to whether the AI build-out and data-centre construction will slow down, as many states appear to be resistant to it,” Yue pointed out.\n\n“This also contributed to the volatility in the stock market [on Thursday night].”\n\nHowever, Yue emphasised that the Exchange Fund is a long-term venture and that people should look at its long-term returns rather than focus on short-term results.\n\nThe authority, he also stressed, has been maintaining a diversified allocation of assets to make the portfolio more defensive.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T06:06:47.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876795-20261106.htm"
-    },
-    {
       "id": "cb32ee7c7d691dd4",
       "title": "Second domestically built cruise ship set to sail",
       "excerpt": "The nation's second domestically-built large cruise ship, Adora Flora City, was delivered in Shanghai on Friday. The cruise ship, which…",
@@ -1380,17 +1380,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876668-20261105.htm"
-    },
-    {
-      "id": "e1418f4d138e257a",
-      "title": "Top import expo opens in Shanghai",
-      "excerpt": "The ninth edition of the China International Import Expo opened in Shanghai on Thursday amid fanfare. It's the country's largest…",
-      "fullText": "The ninth edition of the China International Import Expo opened in Shanghai on Thursday amid fanfare.\n\nIt's the country's largest import expo and the world's first national-level exhibition dedicated to imports.\n\nVice Premier Ding Xuexiang delivered a keynote speech at the opening ceremony.\n\n\"China's continuous hosting of the China International Import Expo is not only a concrete measure to proactively expand imports, but more importantly, a practical action to advocate for an open world economy, promote a proactive, dynamic and upward trade balance, and drive global development towards becoming more balanced, coordinated and inclusive,\" he said.\n\n“Everyone is concerned about trade market issues, the key is how to realise trade balance.”\n\nThis year's event, which runs through November 10, has attracted 4,142 overseas exhibitors from more than 160 countries, regions and international organisations.\n\nMore than 480 exhibits are making their global, Asian or China debuts at the 2026 event, the highest number ever.\n\nThis year's expo retains its six major exhibition areas and an innovation incubation section, covering areas such as intelligent industry and information technology, consumer goods, food and agricultural products, automobiles and smart mobility, medical devices and healthcare products, and trade in services. (Xinhua and agencies)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T07:38:34.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876667-20261105.htm"
     },
     {
       "id": "26d717e09772e917",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746.html"
+    },
+    {
+      "id": "e514ab7fdff7dce2",
+      "title": "Domestic helper wage up 2.35%",
+      "excerpt": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased…",
+      "fullText": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased by 2.35%, from $5,100 to $5,220 per month.\n\nThe new minimum wage level will apply to all FDH contracts signed on or after tomorrow. FDH contracts signed today or earlier at the existing rate will still be processed by the Immigration Department, provided that the applications reach the department no later than October 30.\n\nThe Government explained that in reviewing the minimum wage, it had, in accordance with an established mechanism, considered factors including Hong Kong’s general economic performance and labour market conditions over the past year, the city's near-term economic outlook, employer affordability and the basic living needs of FDHs.\n\nThe Government also consulted employers and FDHs throughout the review process.\n\nIt stated that it decided to adjust the minimum wage level after carefully assessing and balancing the views of all parties, taking into account that this year's socio-economic factors are more favourable than those of last year's review.\n\nThe Government also reviewed the food allowance in lieu of free food, and decided that the level should remain unchanged, at no less than $1,236 per month.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265/images/20261002172046980.jpg",
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
     }
   ]
 }
