@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T05:45:16.570Z",
-  "checkedAt": "2026-11-11T06:30:22.603Z",
+  "generatedAt": "2026-11-11T06:45:17.900Z",
+  "checkedAt": "2026-11-11T06:45:17.900Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "040dc0304eb69ee1",
+      "title": "HK urged to chase long-term 'patient capital'",
+      "excerpt": "Hong Kong should go after money that stays put, not cash that flees at the first wobble, the Financial Services…",
+      "fullText": "Hong Kong should go after money that stays put, not cash that flees at the first wobble, the Financial Services Development Council said on Wednesday, in a push to tighten the city's hold as Asia's wealth-management hub.\n\nThe council has set out ways in a new report to attract this “patient capital” from pension funds and insurers at home, on the mainland and overseas.\n\nThe council's Vice-Chairman, Ding Chen, said the report aims to turn Hong Kong into a long-term capital hub.\n\n\"The central objective of this report is to make Hong Kong not only a place where capital is raised, and traded, but also place where capital is managed, invested, and reinvested over a longer period of time,\" she said.\n\nThe report says there should be more products investors can buy, including bonds and a wider range of stocks, with tighter risk controls.\n\nIt also calls for more cross-border channels, especially for pensions and insurance.\n\nRocky Tung, the council's executive director, said this stickier money could be the \"the stabilising force\" amid market swings, which supports new financial products and backs growth that lasts.\n\n\"There is a lot of investment coming in and out of a market or an economy, and they are here only for the short run,\" he said.\n\n\"And with that in mind, if there is anything less than ideal, they would pull the money out of the market and subsequently the economy. So that will create a lot of turbulence and it will exaggerate the economic cycle.\n\n\"With patient capital, they have the mindset of a long term vision, they are going to be the stabilising force.\"\n\nThe report noted that mainland insurers held 41.3 trillion yuan in assets at the end of last year, but only 5.4 percent of that is invested outside the mainland — well below the 15 percent they are allowed.\n\nMainland pension savings stood at 15.66 trillion yuan in 2024.\n\nThe report said that as populations age, demand for more diversified cross-border investment and a better match between assets and long-term liabilities would bring unprecedented growth opportunities for Hong Kong's patient capital.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T06:36:47.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877384-20261111.htm"
+    },
     {
       "id": "6b3e6602bcd36c96",
       "title": "Bus hits dozens of vehicles near Seoul",
@@ -1195,17 +1206,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876774-20261106.htm"
     },
     {
-      "id": "600f4c9de3beb011",
-      "title": "US tech sell-off hits stocks in Seoul and Tokyo",
-      "excerpt": "South Korea's benchmark Kospi stock index plunged more than 8 percent in early trading on Friday, triggering a circuit breaker…",
-      "fullText": "South Korea's benchmark Kospi stock index plunged more than 8 percent in early trading on Friday, triggering a circuit breaker as a sell-off led by chip and technology stocks pushed the index below the 5,000-point mark for the first time in nine months.\n\nThe Korea Exchange (KRX) activated a 20-minute circuit breaker at 9.03am (0003 GMT), temporarily halting all stock and derivatives trading.\n\nThe benchmark Kospi was down around 500 points, or 8.6 percent, at 4,923.47 as of 0026 GMT.\n\n\"It is time for correction, but we feel that there may be some overreaction to the outcome of the midterm election,\" said Jun Kwang-woo, chairman of the Institute for Global Economics, a financial think tank in Seoul,\n\n\"Hopefully we will stabilise very soon because after all, we understand that the speed of building AI infrastructure, especially data centres may slow down a bit because of the number of concerns in many states including Texas,\" said Jun, who is a former chairman of South Korea's National Pension Service.\n\nUS stock markets suffered their worst single-day session in more than a year on Thursday, led by a sharp unwind in high-flying technology and semiconductor shares.\n\nFresh uncertainly over policies on AI and data centres following the sweeping gains for the Democratic Party in the US midterm elections sent shockwaves across hardware and chip suppliers.\n\nShares in South Korean chipmaker Samsung Electronics fell 10 percent, while peer SK Hynix lost 13 percent.\n\nAmong other index heavyweights, battery maker LG Energy Solution slid 4 percent, while Hyundai Motor fell 6.9 percent and sister automaker Kia Corp declined 4 percent.\n\nJapan’s stock benchmark Nikkei tumbled more than 6 percent after trading opened on Friday. (Reuters)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T01:17:41.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876763-20261106.htm"
-    },
-    {
       "id": "33f87479bebcf6b9",
       "title": "Bournemouth stay perfect in Europa League",
       "excerpt": "Bournemouth extended their perfect Europa League record on Thursday as they came from behind to win 3-1 at 10-man Sparta…",
@@ -1435,17 +1435,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876582-20261104.htm"
-    },
-    {
-      "id": "29441f967b9f45af",
-      "title": "RTHK signs MoU with Tianjin Haihe Media Group",
-      "excerpt": "Radio Television Hong Kong (RTHK) has signed a Memorandum of Understanding (MoU) with Tianjin Haihe Media Group, in a bid…",
-      "fullText": "Radio Television Hong Kong (RTHK) has signed a Memorandum of Understanding (MoU) with Tianjin Haihe Media Group, in a bid to boost bilateral collaboration in areas such as talent exchange and events.\n\nThe MoU was signed during a four-day trip by Director of Broadcasting Angelina Kwan to the mainland, which ended on Wednesday.\n\nDuring the trip, Kwan, as well as participants of RTHK's national studies programme, called on the Hong Kong and Macao Affairs Office of the State Council, and met Deputy Director Zhang Dongmei.\n\nKwan also visited the National Radio and Television Administration and the Beijing Radio and Television Station to explore opportunities for strengthening exchange and co-operation.\n\nOn Tuesday, Kwan signed an MoU with Tianjin Haihe Media Group President Ma Bo. The two sides agreed to establish a framework for bilateral collaboration spanning programme resources, talent exchanges, co-operation on platform and copyright licensing, as well as on-ground events.\n\nRTHK said the the partnership will facilitate the distribution of its content to the Beijing-Tianjin-Hebei region, while enabling Tianjin Haihe Media Group's productions to reach international audiences through RTHK's platforms.\n\nRTHK has signed MoUs with eight mainland and overseas media organisations so far this year.\n\n\"By building a growing network of broadcaster partnerships and deepening collaboration on an ongoing basis, RTHK is giving concrete expression to its strategic commitment to leveraging Hong Kong's unique role as a connector between the Chinese mainland and the wider world, thereby enhancing Hong Kong's international communication capacity and sharing the stories of the nation and Hong Kong on the global stage,\" a statement read.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-04T13:00:19.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876575-20261104.htm"
     },
     {
       "id": "1f35ef2009c33622",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746.html"
+    },
+    {
+      "id": "e514ab7fdff7dce2",
+      "title": "Domestic helper wage up 2.35%",
+      "excerpt": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased…",
+      "fullText": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased by 2.35%, from $5,100 to $5,220 per month.\n\nThe new minimum wage level will apply to all FDH contracts signed on or after tomorrow. FDH contracts signed today or earlier at the existing rate will still be processed by the Immigration Department, provided that the applications reach the department no later than October 30.\n\nThe Government explained that in reviewing the minimum wage, it had, in accordance with an established mechanism, considered factors including Hong Kong’s general economic performance and labour market conditions over the past year, the city's near-term economic outlook, employer affordability and the basic living needs of FDHs.\n\nThe Government also consulted employers and FDHs throughout the review process.\n\nIt stated that it decided to adjust the minimum wage level after carefully assessing and balancing the views of all parties, taking into account that this year's socio-economic factors are more favourable than those of last year's review.\n\nThe Government also reviewed the food allowance in lieu of free food, and decided that the level should remain unchanged, at no less than $1,236 per month.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265/images/20261002172046980.jpg",
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
     }
   ]
 }
