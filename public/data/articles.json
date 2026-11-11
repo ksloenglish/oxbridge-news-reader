@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T10:30:21.734Z",
-  "checkedAt": "2026-11-11T10:45:16.455Z",
+  "generatedAt": "2026-11-11T11:00:35.260Z",
+  "checkedAt": "2026-11-11T11:00:35.260Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "bb7dd0632bfded07",
+      "title": "Abby Choi killed by ex-husband, court heard",
+      "excerpt": "The former brother-in-law of celebrity Abby Choi told the High Court on Wednesday that his brother – her ex-husband –…",
+      "fullText": "The former brother-in-law of celebrity Abby Choi told the High Court on Wednesday that his brother – her ex-husband – killed her.\n\nOn the 35th day of the trial, Kwong Kong-kit was asked by his counsel who killed Choi.\n\nKwong, who did not respond at first, said it was his brother after the Deputy High Court Judge Brian Keith said he noted Kwong had nodded, telling him to answer the defence’s question.\n\nKwong also said he did not know that Choi would be killed or hurt on the day of the incident.\n\nThe former brother-in-law told the court that he attended a gathering with Choi and her husband a week prior to the incident, saying it was the last time that he had a meal with Choi.\n\nKwong Kong-kit, Choi’s ex-husband Kwong Kong-chi, and her former father-in-law Kwong Kau, were charged with murdering Choi on February 21, 2023 at Lung Mei Village in Tai Po, and with preventing the lawful burial of her body.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T10:43:38.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877419-20261111.htm"
+    },
     {
       "id": "d89ed33bf629d41d",
       "title": "'Climate crisis puts world on path to destruction'",
@@ -599,17 +610,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877233-20261110.htm"
-    },
-    {
-      "id": "57ab164101af9040",
-      "title": "Safety expert urges new layer to lift system checks",
-      "excerpt": "An elevator-safety adviser has urged improvements to the city's three-tier inspection process after 720 lifts were found to be missing…",
-      "fullText": "An elevator-safety adviser has urged improvements to the city's three-tier inspection process after 720 lifts were found to be missing fire-resistant door frame components.\n\nMaxine Yao, a member of the Electrical and Mechanical Services Department’s lifts and escalators safety advisory committee, made the call after Taizoom Elevator was ordered to complete remedial works by the middle of November for two public housing estates and within two to three months for the private buildings.\n\nThe department's order followed the discovery that about 90 percent of lifts installed by Taizoom lacked the required door frame parts.\n\nSpeaking on an RTHK radio programme on Tuesday, Yao called the number of lifts involved shocking and said the current process for issuing use or resumption permits could be improved in light of the findings.\n\nUnder the existing three-tier system, a registered lift contractor carries out a self-inspection, a registered engineer performs an independent thorough examination and the department's engineers then conduct an on-site re-inspection and functional testing.\n\nThe city has long relied on an integrity-based system, Yao said, arguing that the mechanism could be strengthened with an additional step.\n\n\"This system has indeed been effective all along, except that in the whole industry this time two engineers of Taizoom had problems. If you ask whether we need to do better, I agree,\" she said.\n\n\"I have said I hope the department can introduce independent third-party inspection to add one more step in the middle tier to ensure public safety.\"\n\nYao also welcomed the department’s proposal to expand the digital video and photographic log-book system – currently used to record work details for lifts and escalators – to cover lift upgrades and replacements.\n\n\"The department has found that since we already have such a good system and platform, why not update it to include upgrading and replacing lifts too in response to public demand,\" she said.\n\n\"I think that is a very proactive plan.\"\n\nYao noted the system was still awaiting updates and said she hoped the department would complete the upgrade before the end of the year to prevent similar incidents from happening again.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T04:29:01.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877227-20261110.htm"
     },
     {
       "id": "05310c9edb0e0ecf",
