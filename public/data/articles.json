@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T14:45:18.911Z",
-  "checkedAt": "2026-11-11T15:00:41.444Z",
+  "generatedAt": "2026-11-11T15:15:18.387Z",
+  "checkedAt": "2026-11-11T15:15:18.387Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "1dccc8d07ba8d766",
+      "title": "School told to step up values education in vaping case",
+      "excerpt": "The Education Bureau on Tuesday said it reached out to a secondary school in Tsuen Wan, after a video, purportedly…",
+      "fullText": "The Education Bureau on Tuesday said it reached out to a secondary school in Tsuen Wan, after a video, purportedly showing a female student vaping inside a toilet with her schoolmates, went viral online.\n\nThe video, which was posted on social media, showed several female students in school uniform taking a selfie inside a cubicle. One of them could be seen holding an e-cigarette.\n\nPo Leung Kuk Yao Ling Sun College later confirmed they were its students. The school said it was \"very concerned\" about the case, and had already set up meetings with their parents.\n\n\"We are committed to nurturing students’ good character, and there are disciplinary and counselling mechanisms to provide students with appropriate support and guidance,\" a statement read.\n\nResponding to media enquiries, the Education Bureau said it was aware that the school had activated its crisis management mechanism.\n\nIt reminded the school to strengthen efforts to cultivate correct values and behaviour among students.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T14:50:29.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877443-20261111.htm"
+    },
     {
       "id": "9881c4d84f0a1a9f",
       "title": "Schools evacuated across Italy after bomb threats",
@@ -469,6 +480,17 @@
       "link": "https://www.news.gov.hk/eng/2026/11/20261111/20261111_111825_939.html"
     },
     {
+      "id": "c8d03f9a0623f128",
+      "title": "New COVID-19 vaccines to arrive",
+      "excerpt": "The Centre for Health Protection (CHP) of the Department of Health stated today that the first shipment of the new…",
+      "fullText": "The Centre for Health Protection (CHP) of the Department of Health stated today that the first shipment of the new batch of Spikevax XFG vaccine for individuals aged 12 or above is expected to arrive in Hong Kong in December.\n\nIn a statement in response to comments from a medical organisation regarding a lack of stock of COVID-19 vaccines and concerns about low COVID-19 vaccination rates, the CHP clarified that market supply will resume and private doctors will be able to order from pharmaceutical companies as usual.\n\nIt added that the temporary absence of COVID-19 vaccinations for adults is normal during this transitional period while awaiting new vaccine production and delivery.\n\nThe CHP had earlier announced that the shelf life of the LP.8.1 vaccine for children and adults would expire in mid-July and early September respectively, noting that producing and shipping vaccines with updated ingredients takes time.\n\nStarting October 29, the CHP has been providing the Spikevax XFG mRNA vaccine to children aged 6 months to 11 years.\n\nThe Government has set up a total of 75 COVID-19 vaccination venues across Hong Kong, including Specialist Out-patient Clinics and Family Medicine Clinics in public hospitals, private clinics, Maternal and Child Health Centres.\n\nSince patients co-infected with seasonal influenza and COVID-19 are at a higher risk of severe complications and death, the CHP has consistently recommended that priority groups receive both seasonal influenza vaccination and COVID-19 vaccination booster to reduce the risk of serious illness and death.\n\nEligible individuals can receive both COVID-19 and influenza vaccinations at all current vaccination venues, leading the CHP to conclude that there is currently no need to expand the number of sites.\n\nFurthermore, according to a survey conducted by the medical organisation concerned, nearly 40% of the doctors surveyed do not proactively remind patients to receive COVID-19 vaccination.\n\nThe CHP expressed concern about this and urged healthcare professionals to proactively remind patients of the importance of receiving COVID-19 vaccination in a timely manner.\n\nEven if their clinics do not provide vaccination services, healthcare professionals can still provide patients with information about the Government's COVID-19 Vaccination Programme, the CHP said.\n\nThe CHP added that it will continue to strengthen publicity and education to encourage priority groups to receive COVID-19 vaccination as soon as possible once the COVID-19 vaccines are available.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261111/20261111_211612_437/images/20261111224102747.jpg",
+      "publishedAt": "2026-11-10T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261111/20261111_211612_437.html"
+    },
+    {
       "id": "ee1c42ef621f53cd",
       "title": "International police academy opens",
       "excerpt": "The Hong Kong Police Force held the opening ceremony of the Hong Kong International Academy of Policing today, with over…",
@@ -621,17 +643,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877244-20261110.htm"
-    },
-    {
-      "id": "af4fbdd8d0dfb4cd",
-      "title": "Covid booster uptake stalls among high-risk groups",
-      "excerpt": "The Hong Kong Doctors Union warned that the city’s Covid-19 booster programme is losing momentum, citing low uptake among older…",
-      "fullText": "The Hong Kong Doctors Union warned that the city’s Covid-19 booster programme is losing momentum, citing low uptake among older adults and high-risk groups and limited access to vaccines in the community.\n\nAccording to the latest statistics from the Centre for Health Protection, only 717 Covid-19 booster doses were administered last month.\n\nOver the past 12 months, a total of 47,828 Covid-19 vaccines were administered in Hong Kong, said Ivan Hung, chair of infectious diseases and vaccinology in the department of medicine at the University of Hong Kong.\n\nOf these, 46,119 went to people aged 50 or above.\n\nBased on a population of about 3.62 million in that age range, the doses equate to only about 1.27 percent – reflecting a low vaccination rate among older adults.\n\nA questionnaire by the union found that 79 percent of the 300 doctors surveyed considered vaccination among older adults unsatisfactory.\n\nNearly 40 percent said they did not proactively remind patients about Covid-19 jabs, while almost 60 percent of these doctors cited not having vaccines on hand.\n\nHung warned that Hong Kong has annual Covid-19 seasonality and that the disease should not be taken lightly.\n\n\"We expect the next surge to happen in probably a year's time, and when the antibodies drop to a low level, then there will be another surge of Covid,\" he said.\n\nHung pointed to data from the centre showing that there had been more than 170 severe cases or deaths in the recent period, describing the figure as large for high-risk individuals.\n\nHe said access is a key barrier.\n\nOnly 58 public vaccination points, the union noted, remain at present and just 18 private clinics are designated Covid-19 vaccination stations, compared with the more than 1,000 private clinics offering flu jabs under the Vaccination Subsidy Scheme.\n\nMany people think Covid-19 is a relatively mild disease, Hung said, but high-risk groups do need boosters every six months.\n\nThe union called for routine Covid-19 vaccine supplies under the Vaccination Subsidy Scheme, one-stop flu and Covid-19 jabs at family doctor clinics, and stronger public education.\n\nHung stressed the importance of making the process simple, especially for older adults.\n\n\"The current vaccination programme could be similar to that of the flu vaccination; that means that if you want to get a Covid-19 booster, then you don't need to get registered online,\" he said.\n\n\"We just simply walk into a general practice and get vaccinated, similar to that of the flu shot, and the criteria for getting a Covid-19 shot should be similar to that of the flu shot, then that makes things easier for both the doctors and the older adults.\"\n\nMedical professionals urged priority groups to receive updated vaccines on time to maintain immune protection, with such groups including the elderly, those with chronic diseases, those who are expecting and healthcare workers.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T06:55:57.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877247-20261110.htm"
     },
     {
       "id": "35336d93746cdcf8",
@@ -1270,17 +1281,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/china/2026/11/05/joshua-wong-hong-kong-sentence/"
-    },
-    {
-      "id": "3971d5c85a43eb5b",
-      "title": "Govt condemns foreign smears",
-      "excerpt": "The Hong Kong Special Administrative Region Government today expressed strong dissatisfaction with and resolute opposition to various countries, led by…",
-      "fullText": "The Hong Kong Special Administrative Region Government today expressed strong dissatisfaction with and resolute opposition to various countries, led by the United States and other Western nations, and to anti-China media, overseas organisations, politicians and others in relation to their malicious attacks, smears and slanders following the sentence handed down by the The High Court’s Court of First Instance on Wong Chi-fung.\n\nThe court sentenced Wong Chi-fung to 10 years’ imprisonment over the offence of “conspiracy to commit collusion with foreign countries or with external elements to endanger national security”.\n\nIn a statement , the Hong Kong SAR Government emphasised that Wong Chi-fung chose to plead guilty after being given sufficient time to consider the prosecution’s evidence and having obtained legal advice, including from Senior Counsel.\n\nIt said that the entire case, including investigations, prosecution, mitigation hearings and sentencing, were conducted fairly and justly in accordance with the principles of the rule of law consistently adhered to under the common law system of Hong Kong. Wong Chi-fung also enjoys the right to appeal against his sentence in accordance with the law.\n\nThe statement highlighted that the court had stressed that the Hong Kong National Security Law (HKNSL) does not have retrospective effect and that Wong Chi-fung was not punished for his pre-HKNSL acts or activities, nor for his political ideology. It said Wong Chi-fung was convicted solely on the basis that he had persisted, after the promulgation of the HKNSL, in his conspiracy with others to commit wrongful acts endangering national security.\n\nIt added that the court found that Wong Chi-fung and absconder Law Kwun-chung adapted their roles because they were fully aware that after the HKNSL’s enactment it was unlawful to collude with foreign countries or external elements to endanger national security.\n\nThe statement said it was manifest that Wong Chi-fung knowingly breached the law, and again highlighted that he pleaded guilty to the charge and the substance of the offence, including that he conspired with absconder Law Kwun-chung and others to solicit foreign countries or external elements, including the US, to impose sanctions against, blockade or engage in other hostile activities against the People's Republic of China and the HKSAR, and their officials. This included urging the US to revoke the special treatment enjoyed by Hong Kong as a Special Administrative Region under the US law.\n\nThe Government said these acts constituted extremely serious offences which not only severely undermined national sovereignty, security, and development interests, but also directly prejudiced the well-being of the general public and the stability of society.\n\nIt added that, beyond the present case, Wong Chi-fung repeatedly broke the law, which included taking part in unlawful assemblies and contempt of court, thereby demonstrating his utter disregard for the law. The statement underlined that the punishments that he has received across all these criminal cases are fully justified, and that he has only himself to blame.\n\nThe Government reiterated that the continued smears and slanders against the HKSAR's work in safeguarding national security reflect that interference and threats from external forces still exist.\n\nEmphasising that it will continue to uphold its constitutional duty and steadfastly safeguard national sovereignty, security, and development interests, the Government said it will continue to fulfil its duties and obligations to safeguard national security, combat and pursue anti-China and destabilising elements, as well as the agents of external forces, while simultaneously protecting the lawful rights and freedoms enjoyed by Hong Kong residents and others in the city in accordance with the law.\n\nIt urged all sides to recognise the objective facts and cease making baseless and malicious attacks and interferences.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261106/20261106_164754_966/images/20261106193646897.jpg",
-      "publishedAt": "2026-11-05T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261106/20261106_164754_966.html"
     },
     {
       "id": "6cfaccc0821ecc5e",
