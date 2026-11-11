@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T08:15:16.528Z",
-  "checkedAt": "2026-11-11T08:45:16.516Z",
+  "generatedAt": "2026-11-11T09:00:30.338Z",
+  "checkedAt": "2026-11-11T09:00:30.338Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "91ea0777b8094a8c",
+      "title": "Five plead not guilty in renovation-bribery case",
+      "excerpt": "The District Court on Wednesday heard that five men allegedly conspired to offer bribes in a bid to secure a…",
+      "fullText": "The District Court on Wednesday heard that five men allegedly conspired to offer bribes in a bid to secure a major renovation project of a residential building in Kwun Tong.\n\nThe five defendants, charged with conspiracy to offer advantages to an agent between September 2022 and January 2023, all pleaded not guilty.\n\nIn the opening submissions, the prosecution said three of the defendants – Chong Chun-to, Lam Suet-pin and To Hon-sum – were believed to be key members of a syndicate.\n\nThe other two are then chairman of the owners' corporation of Hing Tat Mansion, Cheung Kin-wah, and then member Zhan Qingbo.\n\nThe prosecution alleged that Chong, Lam and To sought to offer bribes worth HK$2 million to Cheung, Zhan and other members of the owners' corporation in trying to win the HK$20 million contract.\n\nIn exchange, the chairman and member of the owners' corporation were asked to use their positions to have designated firms appointed as the building’s property management company and building works consultant – crucial steps in securing the contract.\n\nThe court also heard Chong, Lam and To asked Cheung and Zhan to praise companies linked to them within the owners’ corporation while belittling other contractors that offered lower prices.\n\nThe prosecution said the defendants had carefully planned to manipulate the tender process.\n\nIt said corruption and big-rigging activities in building renovation works would not only harm homeowners’ interests but also pose a threat to public safety.\n\nThe trial continues on Thursday.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T08:43:30.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877393-20261111.htm"
+    },
     {
       "id": "5b8c03adedddea48",
       "title": "Lawmakers support NM bill as second reading resumes",
@@ -764,17 +775,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877161-20261109.htm"
-    },
-    {
-      "id": "f7ee9b41a75e6cdd",
-      "title": "TDC expects over 3k participants at annual IP forum",
-      "excerpt": "More than 3,000 participants are expected to join an annual forum held by the Trade Development Council to exchange ideas…",
-      "fullText": "More than 3,000 participants are expected to join an annual forum held by the Trade Development Council to exchange ideas on intellectual property (IP) development and hunt for business opportunities.\n\nThe Business of IP Asia Forum will be staged at the Convention and Exhibition Centre in Wan Chai on November 19 and 20.\n\nThemed “Powering Commercial Success Through IP and Innovation”, the council’s associate executive director Silas Chu said nearly 100 speakers will discuss how IP and innovation can be used to build competitive advantages and draw capital investments, among others.\n\nHe said that for the first time, the forum will include a new chapter centred on IP commercialisation that aims to better help enterprises manage their IP.\n\n“Previously in the BIP Asia forum, we may be focusing more on creative IP,” Chu said.\n\n“But as Hong Kong moves towards the goal of becoming an international I&T centre, we are increasingly seeing a lot of interesting development, especially in the area of AI, in the area of life science and all those deep tech. There will be surging demand as a result.”\n\nA startup from the Education University, which is pioneering their AI-enabled storytelling robot to help with students’ learning, is joining the forum.\n\nIts director Hades Ho said he hopes to talk to potential clients and experts on how to expand the use of their project.\n\n“Now our robot is mainly focused on the education aspect. But to be honest, this robot can [be] used in other aspects, for example, we have some further research on elderly, how to use this robot on elderly,” he said.\n\nThe Entrepreneur Day that features more than 370 startups and innovation projects across 14 countries and regions will be held alongside the two-day forum, allowing companies that have just kick-started their operations to conduct business matching and to help them expand.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T10:43:51.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877148-20261109.htm"
     },
     {
       "id": "d74910f5b9354c21",
