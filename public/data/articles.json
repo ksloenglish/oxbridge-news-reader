@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T22:00:27.447Z",
-  "checkedAt": "2026-11-11T22:50:54.181Z",
+  "generatedAt": "2026-11-11T23:00:27.580Z",
+  "checkedAt": "2026-11-11T23:00:27.580Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 19
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 14
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "7011e1b71de489e2",
+      "title": "Wang Yi holds 'positive, constructive' call with Rubio",
+      "excerpt": "Foreign Minister Wang Yi held a \"positive and constructive\" call with US Secretary of State Marco Rubio on Wednesday, Xinhua…",
+      "fullText": "Foreign Minister Wang Yi held a \"positive and constructive\" call with US Secretary of State Marco Rubio on Wednesday, Xinhua news agency reported, with Beijing expressing willingness to strengthen communication and cooperation with Washington.\n\nThe talks come roughly a week ahead of the Apec Economic Leaders' Meeting in Shenzhen, where Presidents Xi Jinping and Donald Trump are expected to meet.\n\nThe current stability in China-US relations has not come easily, Wang said, calling it \"a rational choice made by the two major countries based on respective and shared interests,\" the Xinhua report said.\n\nThe Xinhua report quoted Wang as saying that China, having maintained a stable and consistent policy towards the United States, is willing to strengthen communication and cooperation with Washington, properly handle differences and sensitive issues, support each other in hosting the 2026 Apec Economic Leaders' Meeting and the G20 Summit, and work to bring a constructive China-US relationship of strategic stability into effect and deliver results.\n\nXi and Trump have met twice already this year and Rubio told reporters on Tuesday there was work underway to arrange a trilateral meeting on the Apec sidelines involving Xi, Trump and Russian President Vladimir Putin.\n\nRubio said Trump wants that meeting to happen and added: \"We think it should be possible.\"\n\nTrump said on Sunday he thought he would meet Xi and Putin in Shenzhen and discuss ending the war in Iran and denuclearisation.\n\nHe said in October that he was open to three-way arms control talks with Xi and Putin, which he said would focus on nuclear weapons.\n\nChina's foreign ministry said last month that its \"nuclear strength is by no means at the same level with that of the US and Russia\" and that it would be \"neither fair, reasonable nor realistic to ask China to join the so-called trilateral nuclear disarmament negotiations at this stage.\"\n\nThe Wall Street Journal has reported that Putin has pitched using a trilateral meeting to discuss an end to Russia's long-running war in Ukraine. (Xinhua/Reuters)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T22:46:41.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877472-20261112.htm"
+    },
     {
       "id": "835d97f8ba49b406",
       "title": "Millions of Spaniards strike to protest housing crisis",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746.html"
-    },
-    {
-      "id": "e514ab7fdff7dce2",
-      "title": "Domestic helper wage up 2.35%",
-      "excerpt": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased…",
-      "fullText": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased by 2.35%, from $5,100 to $5,220 per month.\n\nThe new minimum wage level will apply to all FDH contracts signed on or after tomorrow. FDH contracts signed today or earlier at the existing rate will still be processed by the Immigration Department, provided that the applications reach the department no later than October 30.\n\nThe Government explained that in reviewing the minimum wage, it had, in accordance with an established mechanism, considered factors including Hong Kong’s general economic performance and labour market conditions over the past year, the city's near-term economic outlook, employer affordability and the basic living needs of FDHs.\n\nThe Government also consulted employers and FDHs throughout the review process.\n\nIt stated that it decided to adjust the minimum wage level after carefully assessing and balancing the views of all parties, taking into account that this year's socio-economic factors are more favourable than those of last year's review.\n\nThe Government also reviewed the food allowance in lieu of free food, and decided that the level should remain unchanged, at no less than $1,236 per month.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265/images/20261002172046980.jpg",
-      "publishedAt": "2026-10-01T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
     }
   ]
 }
