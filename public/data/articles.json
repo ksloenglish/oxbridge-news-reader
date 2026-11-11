@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T06:45:17.900Z",
-  "checkedAt": "2026-11-11T06:48:57.079Z",
+  "generatedAt": "2026-11-11T07:00:14.215Z",
+  "checkedAt": "2026-11-11T07:00:14.215Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 17
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rfa-english",
@@ -101,8 +101,8 @@
       "fullText": "Hong Kong should go after money that stays put, not cash that flees at the first wobble, the Financial Services Development Council said on Wednesday, in a push to tighten the city's hold as Asia's wealth-management hub.\n\nThe council has set out ways in a new report to attract this “patient capital” from pension funds and insurers at home, on the mainland and overseas.\n\nThe council's Vice-Chairman, Ding Chen, said the report aims to turn Hong Kong into a long-term capital hub.\n\n\"The central objective of this report is to make Hong Kong not only a place where capital is raised, and traded, but also place where capital is managed, invested, and reinvested over a longer period of time,\" she said.\n\nThe report says there should be more products investors can buy, including bonds and a wider range of stocks, with tighter risk controls.\n\nIt also calls for more cross-border channels, especially for pensions and insurance.\n\nRocky Tung, the council's executive director, said this stickier money could be the \"the stabilising force\" amid market swings, which supports new financial products and backs growth that lasts.\n\n\"There is a lot of investment coming in and out of a market or an economy, and they are here only for the short run,\" he said.\n\n\"And with that in mind, if there is anything less than ideal, they would pull the money out of the market and subsequently the economy. So that will create a lot of turbulence and it will exaggerate the economic cycle.\n\n\"With patient capital, they have the mindset of a long term vision, they are going to be the stabilising force.\"\n\nThe report noted that mainland insurers held 41.3 trillion yuan in assets at the end of last year, but only 5.4 percent of that is invested outside the mainland — well below the 15 percent they are allowed.\n\nMainland pension savings stood at 15.66 trillion yuan in 2024.\n\nThe report said that as populations age, demand for more diversified cross-border investment and a better match between assets and long-term liabilities would bring unprecedented growth opportunities for Hong Kong's patient capital.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-11T06:36:47.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877384-20261111.htm"
     },
     {
@@ -775,17 +775,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/"
-    },
-    {
-      "id": "3b7c2f17cc29701a",
-      "title": "EMSD orders Taizoom to fix 720 non-compliant lifts",
-      "excerpt": "The Electrical and Mechanical Services Department (EMSD) has ordered Taizoom Elevator Company (HK) Limited to complete repairs at two Tenants…",
-      "fullText": "The Electrical and Mechanical Services Department (EMSD) has ordered Taizoom Elevator Company (HK) Limited to complete repairs at two Tenants Purchase Scheme estates by mid-November and to finish remedial work on the remaining private-building lifts within two to three months.\n\nEMSD Director Poon Kwok-ying said 720 lifts installed by Taizoom – about 90 percent of the total – had not been fitted with door-frame components required by law.\n\nThese include lifts in 11 blocks across two Tenants Purchase Scheme estates and in another 338 private buildings.\n\nPoon said about 900 lifts in 480 buildings installed by other registered lift contractors had been sampled and inspected, and all were confirmed to have the required door-frame components installed.\n\nHe said preliminary evidence showed that Taizoom was suspected of serious negligence and misconduct in lift works, and the EMSD will continue its investigation.\n\nPoon said a report was made to the police on October 16 because the incident is suspected to involve criminal acts of fraud and providing false statements. The police are conducting a criminal investigation.\n\nCiting a fire consultant’s assessment, Poon said the vast majority of the lifts lacking door-frame components were old-style lifts that had been in operation for more than 30 to 50 years, and the buildings concerned were completed before 1990.\n\n“At that time, the requirement for landing doors was 60 minutes of fire resistance, and there was no requirement for specific door-frame components,” he said.\n\n“The new door panels installed by Taizoom passed the fire-resistance test under BS 476, Part 22, to a rating of at least 120 minutes. So, even without the missing frame components, the overall level of fire safety after the new panels were installed is not lower than it was before.\n\n“Nevertheless, failing to install the required components is still unlawful. The EMSD has instructed Taizoom to carry out remedial work on the lifts in the affected buildings as soon as possible. Taizoom must pay all associated costs.”\n\nThe department has launched a comprehensive review and examination covering new lift installation and major alteration works, inspection and maintenance, and the registration regulation and approval system under the Lifts and Escalators Ordinance.\n\nIt will also strengthen inspections and sampling, use digital records for works, and apply technology to enhance the overall quality of lift works. The review is expected to be completed before the end of this year.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T09:39:47.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877144-20261109.htm"
     },
     {
       "id": "afc081cf8bba63e2",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
+    },
+    {
+      "id": "655dea3537ed986c",
+      "title": "Five HK universities rank in top 100",
+      "excerpt": "Hong Kong has five universities among the top 100 in the World University Rankings 2027, published by Times Higher Education…",
+      "fullText": "Hong Kong has five universities among the top 100 in the World University Rankings 2027, published by Times Higher Education (THE).\n\nCommenting today, the Education Bureau highlighted that two of the city’s ranked institutions had gained higher positions in the latest rankings.\n\nIt said the results demonstrate the robust strengths of Hong Kong’s higher education system and its world-class standing in terms of teaching, research, and international outlook.\n\nIt added that the rankings reflect the Government’s investment of resources and its policy support over the years, both of which have laid a solid foundation for the city’s higher education institutions.\n\nIn the latest rankings, the University of Hong Kong ranks 33rd globally; the Chinese University ranks 42nd; and the University of Science & Technology ranks 58th. City University and Polytechnic University have risen to 70th and 79th respectively.\n\nThe bureau said the consistent high international rankings of Hong Kong’s universities not only reflect the local higher education sector's excellence, but also bear witness to the Government’s proactive leadership in policy measures aimed at driving innovation and change, as well as expanding capacity while enhancing quality.\n\nIt added that the Government will continue to spare no effort in promoting the sector's comprehensive integration into overall national development, contributing to China’s development as a leading country in education.\n\nLooking ahead, the bureau said that with the advent of Hong Kong’s First Five-Year Plan, the city’s higher education is ushering in a golden period of development full of promising potential.\n\n“We will continue to promote the all-round connectivity in areas such as talent training, frontier scientific research, and industry-academia-research collaboration, optimise resource allocation, support various institutions in consolidating their existing advantages while pioneering innovation, and nurture more outstanding talent equipped with both international perspective and exceptional capabilities, thereby making greater contributions to the long-term prosperity and stability of Hong Kong and the country.”",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409/images/20260930122638517.jpg",
+      "publishedAt": "2026-09-29T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
     }
   ]
 }
