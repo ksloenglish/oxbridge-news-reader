@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T12:15:15.920Z",
-  "checkedAt": "2026-11-11T13:00:29.369Z",
+  "generatedAt": "2026-11-11T13:15:17.493Z",
+  "checkedAt": "2026-11-11T13:15:17.493Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "fc20305aafa7ac56",
+      "title": "Evening News on TV32 - Nov 11",
+      "excerpt": "Top stories for Wednesday, Nov 11, 2026 - Officials say a lower cost estimate for the Northern Link does not…",
+      "fullText": "Top stories for Wednesday, Nov 11, 2026\n\n- Officials say a lower cost estimate for the Northern Link does not mean that safety or quality will be compromised.\n\n- More checks will be carried out at a luxury residential development in Stanley after the discovery of flaws at one house.\n\n- A new international police academy has opened in Hong Kong.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T12:54:05.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877437-20261111.htm"
+    },
     {
       "id": "bb7dd0632bfded07",
       "title": "Abby Choi killed by ex-husband, court heard",
@@ -610,17 +621,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/myanmar/2026/11/10/starlink-burma-civil-war-scam-center/"
-    },
-    {
-      "id": "ffef71cb427c4d4b",
-      "title": "Balmy weather set to overtake cool spell later in week",
-      "excerpt": "The Observatory recorded a low of 17.5 degrees Celsius in urban areas on Tuesday morning – the lowest since autumn…",
-      "fullText": "The Observatory recorded a low of 17.5 degrees Celsius in urban areas on Tuesday morning – the lowest since autumn began this year.\n\nActing senior scientific officer Lam Hok-yin said the city was being affected by relatively strong northerly winds.\n\n\"When it's windy, body heat is easily blown away, so it feels colder,\" he said.\n\n\"Everyone's constitution is different – so when it's windy and cold, we urge people to put on an extra layer before heading out.\"\n\nLam said Wednesday morning would still be relatively cool, with urban temperatures around 18 degrees and the New Territories at least one or two degrees lower.\n\nBut with sunny and dry weather, daytime temperatures may rise to around 25 degrees and should climb further later in the week, he pointed out.\n\nLooking ahead to winter, he said under the influence of global warming and the super El Niño, Hong Kong's temperatures are very likely to be normal to above normal, with more rainfall than usual.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T04:45:12.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877233-20261110.htm"
     },
     {
       "id": "05310c9edb0e0ecf",
