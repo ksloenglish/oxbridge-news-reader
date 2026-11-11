@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T11:00:35.260Z",
-  "checkedAt": "2026-11-11T12:00:29.828Z",
+  "generatedAt": "2026-11-11T12:15:15.920Z",
+  "checkedAt": "2026-11-11T12:15:15.920Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -423,6 +423,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261111/20261111_111825_939.html"
+    },
+    {
+      "id": "ee1c42ef621f53cd",
+      "title": "International police academy opens",
+      "excerpt": "The Hong Kong Police Force held the opening ceremony of the Hong Kong International Academy of Policing today, with over…",
+      "fullText": "The Hong Kong Police Force held the opening ceremony of the Hong Kong International Academy of Policing today, with over 400 local and overseas representatives attending the milestone event.\n\nSpeaking at the ceremony, Chief Executive John Lee noted that security challenges are increasingly complex and borderless, making strong international connectivity vital to global security and prosperity. He stated that the academy will deepen international police exchanges.\n\n“It will do so through training programmes, police leadership forums and other outreach initiatives. The target is to train some 1,000 officers each year, including about 200 overseas law enforcement personnel.”\n\n“By bringing law enforcement leaders together, it will strengthen Hong Kong's international partnerships. Stronger partnerships will, in turn, reinforce Hong Kong's role as a \"super connector\" and \"super value-adder\" – a place that links people and expertise across jurisdictions,” he added.\n\nCommissioner of Police Chow Yat-ming pointed out that the academy is committed to formalising long-term ties with leading institutions worldwide. Uniting their expertise modernises police training and bolsters the collective capability to stay ahead of complex global challenges, he noted.\n\nThe initiative aligns with the National 15th Five-Year Plan to participate in the high-quality joint construction of the Belt & Road initiative. It also ties in with the Hong Kong Special Administrative Region Government's policy direction to promote high-level external co-operation.\n\nThe academy provides training programmes for overseas law enforcement agencies, particularly those from the Association of Southeast Asian Nations, countries along the Belt & Road and the Middle East region. Its ultimate goal is to become a world-class training base and exchange platform for policing talent.\n\nThe academy will co-ordinate more than 20 hallmark programmes spanning two major categories. This includes hallmark training programmes focusing on key professional fields such as strategic command and leadership for policing, control tactics application, counter-terrorism and crisis management, criminal investigation, and protection and security.\n\nThese programmes aim to build a professional exchange platform for overseas law enforcement agencies and partners. This will promote mutual learning through shared experiences, knowledge-sharing and pragmatic collaboration in the field of public security.\n\nThere are also police leadership forums which focus on issues including emerging crime trends, smart policing, cross-border law enforcement co-operation and corporate governance. The forums will invite global police leaders, experts and scholars to Hong Kong to build a police dialogue platform with a national perspective, Hong Kong characteristics and international influence.\n\nThis platform will serve to deepen strategic mutual trust and expand co-operation networks.\n\nAt the opening ceremony, a representative from the Hong Kong Police Force signed Memoranda of Understanding with representatives from the police academies of Cambodia and Saudi Arabia. The agreements aim to deepen bilateral police training exchanges and lay a solid foundation for jointly addressing future transnational law enforcement challenges.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261111/20261111_172810_262/images/20261111191646658.jpg",
+      "publishedAt": "2026-11-10T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261111/20261111_172810_262.html"
     },
     {
       "id": "26b38ff0b146c345",
@@ -1281,17 +1292,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261106/20261106_181148_193.html"
-    },
-    {
-      "id": "80ae170c416c69dc",
-      "title": "New child assessment unit to open",
-      "excerpt": "The Department of Health (DH) today announced that the Siu Sai Wan Child Assessment Centre (SWCAC) will open on December…",
-      "fullText": "The Department of Health (DH) today announced that the Siu Sai Wan Child Assessment Centre (SWCAC) will open on December 21. It will replace the Ngau Tau Kok Child Assessment Centre (NKCAC), which is scheduled to close on December 19.\n\nLocated on the 7/F and 8/F of the Siu Sai Wan Health Integrated Building at 11 Harmony Road, the new centre features a floor area more than double that of the NKCAC. It is equipped with updated assessment tools and facilities to provide more comprehensive, quality services for children in need.\n\nArrangements will be made for children currently receiving services at the NKCAC to continue their care at either the SWCAC or another centre serving their residential districts. The DH will notify affected parents or guardians of these arrangements via SMS.\n\nIn the future, children residing on Hong Kong Island will be referred to the SWCAC. Those living in Ngau Tau Kok will be referred to the Pamela Youde Child Assessment Centre in Kwun Tong.\n\nAdditionally, the Child Assessment Service (CAS) currently provided by the DH’s seven centres will be integrated into the Hospital Authority (HA) from May 31 next year. These centres are located in Kowloon City, Kwun Tong, Kwai Chung, Sha Tin, Fanling, Tuen Mun and Siu Sai Wan.\n\nFollowing the integration, the CAS will operate under the HA’s Department of Paediatrics & Adolescent Medicine at the Hong Kong Children’s Hospital. This move aims to strengthen multidisciplinary collaboration, optimise healthcare manpower, and enhance service processes and referral mechanisms.\n\nChildren suspected of having developmental or behavioural problems will receive necessary multidisciplinary assessment, treatment and rehabilitation services. They will also benefit from improved service continuity and co-ordination.\n\nTo ensure seamless care, the DH will transfer existing case information and medical records to the HA for future follow-up. The HA will send subsequent appointment notifications to parents or guardians by post or through the HA Go mobile application.\n\nFor parents or guardians who choose not to continue services under the HA, their children’s case information and medical records will not be transferred. They must contact the DH at 2246 6659 during office hours to arrange and sign the required documents, which must be returned by December 31.\n\nThe DH will dispose of and destroy those records in accordance with the Personal Data (Privacy) Ordinance and its internal management policies. Any appointments scheduled for or after May 31 next year will also be cancelled.\n\nShould these children wish to consult the HA’s service at a later date, a fresh referral from a professional will be required. Appointments will then be processed in accordance with the HA’s procedures for new cases.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261106/20261106_172024_817/images/20261106183844279.jpg",
-      "publishedAt": "2026-11-05T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261106/20261106_172024_817.html"
     },
     {
       "id": "a59d03e64f96d85f",
