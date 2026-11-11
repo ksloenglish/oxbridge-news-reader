@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T09:15:17.861Z",
-  "checkedAt": "2026-11-11T09:15:17.861Z",
+  "generatedAt": "2026-11-11T09:30:25.361Z",
+  "checkedAt": "2026-11-11T09:30:25.361Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -95,6 +95,17 @@
   ],
   "articles": [
     {
+      "id": "833d7709d3697039",
+      "title": "China stocks edge higher, HK shares end down",
+      "excerpt": "Hong Kong's stock market ended lower on Wednesday, with the Hang Seng Index down 0.98 percent to close at 24,315…",
+      "fullText": "Hong Kong's stock market ended lower on Wednesday, with the Hang Seng Index down 0.98 percent to close at 24,315 points.\n\nThe Hang Seng China Enterprises Index dropped 1.14 percent to 8,171, and the Hang Seng Tech Index slid 1.41 percent.\n\nOn the mainland, the Shanghai Composite Index reversed earlier losses and closed up 0.5 percent while the blue-chip CSI300 index added 0.4 percent.\n\nThe Shenzhen Component Index closed 1.32 percent higher.\n\nTech shares led the gains.\n\nThe start-up board ChiNext Composite index rose 3.1 percent and Shanghai's tech-focused STAR50 index climbed 2.8 percent.\n\nAround the region, equity markets were stuck in a narrow range with traders caught between rate hike expectations and oil-market tensions.\n\nA hotter-than-expected consumer inflation reading in the US and hawkish policymakers drove up bets of a quicker pace of rate hikes.\n\n\"The resulting rise in global bond yields and strengthening dollar put pressure on A-share valuations,\" analysts at Nanhua Futures said in a note.\n\n\"This round of recent market recovery has been driven mainly by domestic measures to support markets and a temporary easing of overseas uncertainties.\n\n\"However, both the strength and durability of these factors appear limited. While market sentiment has improved somewhat, investors remain broadly cautious, and stock indexes are expected to trade in a range in the near term.\"\n\nElsewhere, oil prices rose on Wednesday after falling to two-month lows in the previous session, as the market swung between hopes of de-escalation in the Iran war and concerns over continued attacks on shipping in the Strait of Hormuz. (Xinhua/Reuters)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-11T09:17:36.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877410-20261111.htm"
+    },
+    {
       "id": "b6bb9cf01ce26be8",
       "title": "HK ranks 11th in digital and AI competitiveness",
       "excerpt": "Hong Kong is 11th in the world and fourth in Asia for digital and artificial intelligence competitiveness, according to a…",
@@ -129,7 +140,7 @@
     },
     {
       "id": "91ea0777b8094a8c",
-      "title": "Five plead not guilty in renovation-bribery case",
+      "title": "Five plead not guilty in renovation-bribery trial",
       "excerpt": "The District Court on Wednesday heard that five men allegedly conspired to offer bribes in a bid to secure a…",
       "fullText": "The District Court on Wednesday heard that five men allegedly conspired to offer bribes in a bid to secure a major renovation project of a residential building in Kwun Tong.\n\nThe five defendants, charged with conspiracy to offer advantages to an agent between September 2022 and January 2023, all pleaded not guilty.\n\nIn the opening submissions, the prosecution said three of the defendants – Chong Chun-to, Lam Suet-pin and To Hon-sum – were believed to be key members of a syndicate.\n\nThe other two are then chairman of the owners' corporation of Hing Tat Mansion, Cheung Kin-wah, and then member Zhan Qingbo.\n\nThe prosecution alleged that Chong, Lam and To sought to offer bribes worth HK$2 million to Cheung, Zhan and other members of the owners' corporation in trying to win the HK$20 million contract.\n\nIn exchange, the chairman and member of the owners' corporation were asked to use their positions to have designated firms appointed as the building’s property management company and building works consultant – crucial steps in securing the contract.\n\nThe court also heard Chong, Lam and To asked Cheung and Zhan to praise companies linked to them within the owners’ corporation while belittling other contractors that offered lower prices.\n\nThe prosecution said the defendants had carefully planned to manipulate the tender process.\n\nIt said corruption and big-rigging activities in building renovation works would not only harm homeowners’ interests but also pose a threat to public safety.\n\nThe trial continues on Thursday.\n\nEdited by Edmond Fong",
       "imageUrl": null,
@@ -1204,17 +1215,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876784-20261106.htm"
-    },
-    {
-      "id": "b4bc3f0265ff47b8",
-      "title": "HK, mainland markets feel rumble of Dem AI jitters",
-      "excerpt": "Mainland and Hong Kong stocks tumbled in early trade on Friday, tracking a global tech rout as fears of tighter…",
-      "fullText": "Mainland and Hong Kong stocks tumbled in early trade on Friday, tracking a global tech rout as fears of tighter AI regulation and a slowdown in the sector rattled investors.\n\nThe benchmark Hang Seng Index fell 392 points, or 1.58 percent, to 24,404 while the artificial intelligence index was down some 7 percent.\n\nThe China enterprises index was down 120 points, or 1.44 percent, at 8,248 while the tech index fell 129 points, or 3.11 percent, to 4,025.\n\nOn the mainland, the Shanghai Composite Index opened down 77 points, or 2.11 percent, at 3,612 while the blue-chip CSI300 Index slipped 1.5 percent.\n\nThe Shenzhen Component Index opened down 426 points, or 3.72 percent, at 11,044 while the ChiNext Index opened down 128 points, or 4.99 percent, at 2,438.\n\nTech led the drop, with startup board Star 50 Index and AI Index both down more than five percent at the open before narrowing some of the losses.\n\nOvernight in the US market, the tech-led Nasdaq notched its deepest one-day drop since \"Liberation Day\" in April 2025, when US President Donald Trump announced sweeping tariffs.\n\nThe drop wiped out trillions of dollars in market value on fears of more AI scrutiny after Democrats won big in US midterm elections. (Agencies)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T02:32:52.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876774-20261106.htm"
     },
     {
       "id": "33f87479bebcf6b9",
