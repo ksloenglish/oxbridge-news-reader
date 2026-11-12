@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T14:30:23.890Z",
-  "checkedAt": "2026-11-12T14:30:23.890Z",
+  "generatedAt": "2026-11-12T14:45:20.250Z",
+  "checkedAt": "2026-11-12T14:45:20.250Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "797501db02d09629",
+      "title": "Contractor, govt depts blamed over QMH faulty lifts",
+      "excerpt": "The Development Bureau has identified deficiencies and shortcomings by the contractor, professionals and government departments in the installation of faulty…",
+      "fullText": "The Development Bureau has identified deficiencies and shortcomings by the contractor, professionals and government departments in the installation of faulty lifts at Queen Mary Hospital's new clinical block.\n\nChief Executive John Lee ordered an investigation in September after most of the lifts in the 34-storey tower were sealed off.\n\nIn a report submitted to the Legislative Council on Thursday, the Development Bureau said all 28 lifts in the building experienced problems to varying degrees.\n\nIt said \"verticality deviations\" in the lift shaft walls and guide rails across different floors meant the lift cars could not travel smoothly. The centre of gravity for the lift cars was also imbalanced, and the overall workmanship quality was poor.\n\n\"A lift operating normally will experience a certain degree of minor displacement depending on the load conditions. However, if the clearance between the shaft wall and the lift car is insufficient, it can easily trigger the lift's safety devices, thereby causing the lift to stop operation,\" the report read.\n\nAs of Tuesday, rectification work had been completed on 18 lifts, seven of which were already in operation after passing inspections.\n\nRepairs for the remaining lifts were expected to finish within this year.\n\nThe bureau added that ATAL Engineering Group, as the contractor, \"bears overall responsibility\" in ensuring the project is completed in accordance with requirements.\n\nThe report alleged that the firm was aware of dimension and verticality problems in the shaft, but \"followed up sloppily\" so the problems could not be addressed in a timely manner.\n\nThe Development Bureau will take disciplinary action against the contractor, as well as the subcontractor and consultancy firms.\n\nThis may include the suspension of tendering rights, downgrading or delisting.\n\n\"As the investigation discovered that the incident may involve other illegal activities, we have referred the matter to the relevant law enforcement authorities for further investigation,\" the report said.\n\nIt also said the Architectural Services Department failed to strictly adhere to internal guidelines when issuing the certificate of completion in January 2025.\n\n\"We have requested the director of architectural services to deal with the involved personnel appropriately in accordance with the Civil Service Regulations. The director of architectural services is currently liaising with the Civil Service Bureau to discuss the arrangements for initiating disciplinary proceedings,\" according to the document.\n\nThe Electrical and Mechanical Services Department was found to have complied with procedures in processing the applications for the lifts' operation permits, but \"some personnel\" did not conduct thorough investigations, and the department was urged to issue advisory letters to them, pointing out areas for improvement.\n\nOfficials will brief lawmakers at a Legco development panel meeting on Friday.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T14:37:13.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877595-20261112.htm"
+    },
     {
       "id": "b002b130d298be19",
       "title": "Jensen Huang steps down as Nvidia CEO",
@@ -687,17 +698,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877365-20261111.htm"
-    },
-    {
-      "id": "77b8861d4c2c926b",
-      "title": "'New light festivals must boost night economy'",
-      "excerpt": "Tourism representatives have welcomed the replacement of the city’s decades-old multimedia light show, but say the new light festivals taking…",
-      "fullText": "Tourism representatives have welcomed the replacement of the city’s decades-old multimedia light show, but say the new light festivals taking its place must deliver a genuine boost to the night economy.\n\nA Symphony of Lights, a nightly fixture over Victoria Harbour for 22 years, will hold its final performance next Wednesday.\n\nIt will be replaced by light festivals staged at various locations at different times of the year.\n\nSpeaking on an RTHK radio programme on Wednesday, Sara Leung, a consultant with the Federation of Hong Kong Trade Unions in Tourism, said the long-running show may have grown stale for some residents and visitors.\n\nShe said change could be positive, noting that the tourism ecosystem is constantly evolving.\n\n\"I think the new show is a good concept because it will be hosted in different districts, which lets visitors get to know Hong Kong better,\" she said.\n\n\"But the most important thing is that whatever fireworks show or event you organise, it can drive business for the local districts and shops. I think that is the most meaningful thing.\"\n\nLeung added the harbour itself was a draw for visitors and suggested authorities consider incorporating more local elements, such as restoring retired fishing boats, to give it a new character.\n\nMeanwhile, lawmaker Perry Yiu, who previously represented the tourism functional constituency, said the show had helped draw attention to Victoria Harbour over the years, but a major overhaul would be costly and logistically difficult because it would involve dozens of buildings.\n\nHe said different offerings, such as fireworks and drone shows, could help make the harbour’s night scene unique and in turn boost catering, retail and the economy.\n\n\"The most important thing is to spend little and get good results, have sustainability, be more distinctive, and incorporate different festivals and seasons with different themes, so people feel fresh each time. That is most important,\" he said.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T04:08:30.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877360-20261111.htm"
     },
     {
       "id": "63cbbaa47e04433a",
