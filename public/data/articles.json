@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T05:30:20.626Z",
-  "checkedAt": "2026-11-12T05:30:20.626Z",
+  "generatedAt": "2026-11-12T05:45:16.367Z",
+  "checkedAt": "2026-11-12T05:45:16.367Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 19
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 12
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "62bfd4e7fa44ce80",
+      "title": "Teachers face cert, security rules in new schools bill",
+      "excerpt": "School teachers in Hong Kong will be required to hold practising certificates and barred from classrooms upon conviction of national…",
+      "fullText": "School teachers in Hong Kong will be required to hold practising certificates and barred from classrooms upon conviction of national security offences under an education amendment bill to be gazetted on Friday.\n\nThe Education (Amendment) Bill 2026 will apply to all teachers, including principals, in publicly funded, private and international schools as well as kindergartens.\n\nThey will need to be registered and hold a practising certificate that is valid for no more than three school years.\n\nTeachers applying for a practising certificate will also have to meet continuing professional development requirements.\n\nThe Education Bureau said this would help teachers keep up with changing local and global education policies and ensure their knowledge and teaching methods meet students’ and society’s needs.\n\nA bureau spokesman said the bill could boost public regard for the profession and lift teachers’ standing in society.\n\n\"As role models and key persons for nurturing students, the words and deeds, conduct and values of teachers have a profound impact on students,\" he said.\n\n\"Amid the complex and rapidly changing development of our society, the public and parents have increasingly high expectations of teachers' professionalism.\n\n\"The bill meets schools' actual operational needs, encourages teachers to keep pace with the times and strengthens teacher management, with the ultimate goal of safeguarding the well-being of students.\"\n\nThe bill also includes safeguards to prevent people convicted of offences endangering national security from teaching in schools.\n\nThe bureau has consulted the sector since September last year and the Legislative Council's education panel on February 6.\n\nThe bill will be introduced to the Legislative Council for a first and second reading on November 25.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T05:27:04.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877518-20261112.htm"
+    },
+    {
+      "id": "7372103b78e50ff2",
+      "title": "Union says 12-hour family care leave is 'good start'",
+      "excerpt": "Civil Servants General Union chairman Fung Chuen-chung welcomed on Thursday a plan to give government employees up to 12 hours…",
+      "fullText": "Civil Servants General Union chairman Fung Chuen-chung welcomed on Thursday a plan to give government employees up to 12 hours of family care leave a year, calling it a very desirable step forward in letting staff look after their families while also helping attract talent and raise morale.\n\nAsked on an RTHK programme whether 12 hours was enough, he said that was “hard to say” but that the cap could be reviewed after the scheme had been running for some time.\n\n“Every employee faces different problems at different stages of life,\" Fung said.\n\n\"Some may have just gotten married and had a child while some older colleagues may need to look after elderly or sick parents – it really depends on individual needs.\n\n\"But overall we feel that going from having no family care leave to having some is a very desirable step forward.”\n\nFung said he hoped the business sector would follow suit so that other employees can also have such leave.\n\nPotential abuse of family care leave provisions do not worry him, he said, as supervisors can always ask for proof if they have doubts.\n\nThe leave can be taken in blocks of one to four hour and is expected to start in January.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T05:17:35.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877510-20261112.htm"
+    },
     {
       "id": "5426b74ac0b07d5a",
       "title": "Two dead, several injured in NYC building collapse",
@@ -761,20 +783,9 @@
       "fullText": "Global leaders across various fields will gather in Hong Kong ahead of the Apec leaders' summit in Shenzhen to discuss how Sino-US relations can be reshaped in search of long-term stability and cooperation.\n\nThe annual US-China Hong Kong Forum will be held between November 15 and 17.\n\nJames Chau, president of the organisers China-United States Exchange Foundation, said dozens of speakers would be joining the event, including former vice foreign minister Cui Tiankai, members of the Nixon and Bush families from the US, and former Thailand prime minister Abhisit Vejjajiva.\n\n“Through this forum we also bring regional perspectives into the discussion,\" Chau said.\n\n\"So we've got Asean, for example, represented by Thailand, but also by Singapore. The [Sino-US] relationship affects more than two countries, so there's always that temptation to look at our work simply through the bilateral lens of China and the United States.\n\n“I wish it was like that because it seems very tidy, neat and easy to follow. But, in fact, everything that these two countries do and don't do, what they think and what they consider, is going to impact over eight billion people all around the world.”\n\nMore than 300 participants will take part in the open forum on the second day, among them a group of university students from around the world.\n\n“Having young people in the room who are 18 to 25 years old who come from phenomenal schools of public policy and who would have spent part of the private sessions with us and then into the public sessions, we want them to ask the very first question during the audience Q&A to keep those leaders on the stage very sharp,” Chau said.\n\nThe Apec summit will be held on November 18-19 in Shenzhen.\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-11-10T10:26:03.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877268-20261110.htm"
-    },
-    {
-      "id": "50f9f3678512090b",
-      "title": "'A Symphony of Lights' to go out with a bang next week",
-      "excerpt": "The Tourism Board said a multimedia light show that has been a nightly fixture across Victoria Harbour for more than…",
-      "fullText": "The Tourism Board said a multimedia light show that has been a nightly fixture across Victoria Harbour for more than two decades will be performed one last time on November 18.\n\nBoard chairman Peter Lam said on Tuesday it's time to bring the curtain down on \"A Symphony of Lights\", which has thrilled millions of locals and visitors alike since 2004.\n\n\"A Symphony of Lights, which has accompanied us in Hong Kong for 22 years, will perform its final show... with added pyrotechnic elements to commemorate this meaningful moment,\" he said.\n\n\"As for other light and projection shows, we will continue to roll them out gradually next year.\"\n\nFinancial Secretary Paul Chan, who announced a string of initiatives in this year's budget to enhance the city's tourism appeal, has said the long-running show will be replaced by \"light festivals across various locations at different times of the year\".\n\nMeanwhile, Lam said revellers can look forward to Hong Kong WinterFest, which will run from November 18 to January 5.\n\nHe said that the annual Christmas and New Year celebrations will be the biggest ever.\n\nUnder \"Winter Wonderland\", three festive installations will go up in Central, Tsim Sha Tsui and Causeway Bay, including a 22-metre Christmas tree at Statue Square Gardens.\n\nThe traditional New Year's Eve countdown will culminate in a fireworks display over Victoria Harbour.\n\nThere will also be shopping and dining discounts.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T09:41:33.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877270-20261110.htm"
     },
     {
       "id": "fbb1b327c9497a63",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261015/20261015_115228_879.html"
-    },
-    {
-      "id": "2a824a6a6872ea83",
-      "title": "Human resources meeting held",
-      "excerpt": "Chief Secretary Chan Kwok-ki today chaired the seventh meeting of the fourth-term Human Resources Planning Commission, with members acknowledging that…",
-      "fullText": "Chief Secretary Chan Kwok-ki today chaired the seventh meeting of the fourth-term Human Resources Planning Commission, with members acknowledging that the youth unemployment situation warrants attention.\n\nThe meeting heard that rising unemployment and the youth employment situation are structural challenges faced by most advanced economies worldwide, Hong Kong being no exception.\n\nMembers took note that the Government continues to invest heavily in education and skills training for the local workforce. This includes launching a two-year 30,000 Youth Employment & Internship Programme, as announced in the Policy Address, to facilitate youth employment and development.\n\nThe Labour Department will also launch the Youth Employment Link online service portal to facilitate young people's access to employment information and support services. Looking ahead, the continued expansion of the local economy is expected to underpin overall labour market conditions.\n\nThe Labour & Welfare Bureau also briefed the meeting on the \"Mid-term Update of Manpower Projection\" report. Members heard that the Government will continue to promote \"AI for All\" and support lifelong learning, ensuring that skills in the labour force remain aligned with Hong Kong's future economy.\n\nThe bureau will commence a new review of the Talent List soon.\n\nMembers said they supported the Government in continuing to closely monitor the labour market and in formulating and refining forward-looking policies on a rolling basis, with a view to maintaining manpower supply in support of economic development, whilst also safeguarding employment priority for local workers.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261005/20261005_212939_604/images/20261005225151967.jpg",
-      "publishedAt": "2026-10-04T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261005/20261005_212939_604.html"
     }
   ]
 }
