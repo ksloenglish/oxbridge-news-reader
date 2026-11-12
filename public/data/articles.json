@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T11:46:08.849Z",
-  "checkedAt": "2026-11-12T13:00:27.755Z",
+  "generatedAt": "2026-11-12T13:15:17.169Z",
+  "checkedAt": "2026-11-12T13:15:17.169Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "0035c109f7524f46",
+      "title": "Evening News on TV32 - Nov 12",
+      "excerpt": "Top stories for Thursday, Nov 12, 2026 - President Xi urges the nation to carry forward the legacy of Sun…",
+      "fullText": "Top stories for Thursday, Nov 12, 2026\n\n- President Xi urges the nation to carry forward the legacy of Sun Yat-sen.\n\n- Legco passes a bill to accelerate development of the Northern Metropolis.\n\n- Two are killed and more than a dozen injured as a New York building comes crashing down.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T12:54:38.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877585-20261112.htm"
+    },
     {
       "id": "cb85ff9b761b1fe9",
       "title": "Michael Carrick sacked as Man U manager",
@@ -654,17 +665,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877360-20261111.htm"
-    },
-    {
-      "id": "784ab048b8c733de",
-      "title": "'Northern Link savings won't compromise quality'",
-      "excerpt": "The Northern Link’s lower cost estimate will not come at the expense of construction quality or safety, according to the…",
-      "fullText": "The Northern Link’s lower cost estimate will not come at the expense of construction quality or safety, according to the Commissioner for Northern Metropolis Railways Raymond Ip.\n\nThe government and the MTR on Tuesday signed the full Northern Link project agreement, and the Executive Council approved the financial arrangements for the second part of the plan.\n\nWith both the main line and spur line now in construction, the project is estimated at HK$86.2 billion – 28 percent below the original forecast – and is set to launch by 2034.\n\nSpeaking on an RTHK radio programme on Wednesday, Ip said the lower price tag came from changes to design, approval and construction methods.\n\nHe said merging the main line and spur line into one project produced a \"double reduction\" effect: the spur line’s construction period was brought forward by two years, and overall costs fell by 28 percent.\n\nIp also spoke about what he described as a well-established monitoring mechanism.\n\n\"For example, over the past few years, we have optimised the project monitoring and communication platform. Between us and MTR Corporation, we have also strengthened monitoring and auditing,\" he said.\n\n\"In addition, there are proactive reporting and early warning mechanisms. Furthermore, before commissioning, the relevant departments will also carry out what we call safe and sound testing and acceptance procedures.\"\n\nIp added that a one-stop Railway Checking Unit and an electronic central approval platform cut the approval time of construction plans by 30 to 50 percent, while the Northern Metropolis Development Bill would further simplify procedures such as construction noise permit applications.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T04:06:23.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877367-20261111.htm"
     },
     {
       "id": "63cbbaa47e04433a",
