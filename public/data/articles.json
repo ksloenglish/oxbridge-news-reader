@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T08:00:29.645Z",
-  "checkedAt": "2026-11-12T09:00:27.410Z",
+  "generatedAt": "2026-11-12T09:15:19.114Z",
+  "checkedAt": "2026-11-12T09:15:19.114Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "e45909a448074d45",
+      "title": "10 arrested in fake concert ticket crackdown",
+      "excerpt": "Police on Thursday said they had arrested 10 people in a two-day operation against the sale of fake concert tickets…",
+      "fullText": "Police on Thursday said they had arrested 10 people in a two-day operation against the sale of fake concert tickets and related money laundering, after mule accounts linked to the cases were found to have handled more than HK$81 million in suspected crime proceeds.\n\nThe group, aged 18 to 46, were arrested on suspicion of conspiracy to defraud, obtaining property by deception and money laundering.\n\nChief Inspector Chung Man-ning said the syndicate was organised and systematic.\n\nA day or two before an event, members would advertise tickets on social media at half price, with no deposit required and a face-to-face handover, to lower buyers’ guard.\n\nCouriers then met victims at MTR stations on the day, even pretending to demonstrate how to check a ticket, before taking cash or transferring the funds to a mule account and then disappearing.\n\nThe online posts were deleted at once.\n\n“Most of the victims set off for the venue immediately after the transaction. They go to the event excited and full of anticipation, but when they reached the gate and had their tickets checked, staff told them the tickets are fake and they cannot get in,\" she said.\n\n\"This type of scam usually happens at the very last moment before the show starts, leaving the victims caught off guard and making it hard to chase the fraudsters right away.\"\n\nSenior Inspector Yiu Kong-kuen said the fake tickets seized were highly realistic and hard to spot with the naked eye during a brief handover, but the paper was rougher, the colours darker, and they had no security watermark.\n\nGenuine tickets, he said, have smooth paper, clear printing, a reflective laser sticker at the top right, and invisible fluorescent ink on the back that appears under ultraviolet light.\n\nPolice urged the public to buy tickets only through official channels, not to trust social-media resale posts or scalpers.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T08:53:34.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877545-20261112.htm"
+    },
     {
       "id": "930eddf78991a00a",
       "title": "Jokowi backs Indonesian president as son resigns",
@@ -786,17 +797,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/"
-    },
-    {
-      "id": "3eb80de7e21297ed",
-      "title": "Operation Santa Claus unlocks HK's spirit of giving",
-      "excerpt": "Operation Santa Claus (OSC), a long-running annual fundraising campaign, officially launched on Tuesday to offer care and support for those…",
-      "fullText": "Operation Santa Claus (OSC), a long-running annual fundraising campaign, officially launched on Tuesday to offer care and support for those in need across the city.\n\nCo-organised by RTHK and the South China Morning Post (SCMP),\nthe fundraising event themed “Unlock the City’s Spirit of Giving” this year will support 13 local organisations that focus on serving children, the youth, elderly, people with disabilities, and mental health challenges in the community.\n\nAt the launch ceremony, Director of Broadcasting Angelina Kwan noted the campaign has been helping people in need since 1988.\n\n“Through good times and difficult times, this campaign has continued. Year after year, people across our city have given their time, their energy and their support,” she said.\n\n“That consistency is what gives Operation Santa Claus its strong reputation in town.”\n\n“This city’s generosity has grown with each passing year, reaching hundreds of charitable projects and tens of thousands of lives,” Tammy Tam, SCMP's publisher said, noting that the generosity reached new heights last year when the deadly inferno at Wang Fuk Court occurred.\n\n“My deepest gratitude also goes to every donor. Whether you gave a little or a lot, you made this campaign what it is.”\n\nThe launch ceremony featured a musical performance by singer Miriam Ma, along with young talents Yuet Ng and Yat Ng, to showcase how the smallest acts of courage and kindness can inspire the community.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T12:57:10.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877290-20261110.htm"
     },
     {
       "id": "83dcb9221859f975",
