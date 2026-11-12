@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T10:15:17.729Z",
-  "checkedAt": "2026-11-12T10:30:29.729Z",
+  "generatedAt": "2026-11-12T10:45:17.799Z",
+  "checkedAt": "2026-11-12T10:45:17.799Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 18
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -95,10 +95,21 @@
   ],
   "articles": [
     {
+      "id": "344d568773163d25",
+      "title": "'US uses spying claims as pretext for tech blockade'",
+      "excerpt": "China accused the United States on Thursday of using spurious spying claims as a pretext to impose a technological \"blockade\"…",
+      "fullText": "China accused the United States on Thursday of using spurious spying claims as a pretext to impose a technological \"blockade\" on Beijing, following claims that Nvidia boss Jensen Huang was the victim of a Chinese espionage plot.\n\n\"China's technological progress is driven by independent innovation and open cooperation. The US side should stop fabricating such 'spy' narratives as a pretext for imposing a technological blockade,\" Foreign Ministry spokeswoman Mao Ning told a regular briefing.\n\nHuang, who co-founded Nvidia and turned it into the world's leading supplier of the chips that power AI, has admitted to having an extramarital affair.\n\nChina has dismissed the claims about spying on Huang as \"groundless speculation\" and \"an attempt to smear China\".\n\nThe furore comes ahead of a meeting next week between President Xi Jinping and his US counterpart Donald Trump at the Apec summit in Shenzhen. (AFP)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T10:14:28.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877562-20261112.htm"
+    },
+    {
       "id": "a7a8d9915a685cd3",
       "title": "Ex-in-law 'followed dad's orders after Choi killing'",
       "excerpt": "The former brother-in-law of celebrity Abby Choi told the High Court on Thursday that he should have called the police…",
-      "fullText": "The former brother-in-law of celebrity Abby Choi told the High Court on Thursday that he should have called the police or an ambulance on the day of her killing.\n\nThis came a day after he told the court that it was his brother – Choi’s ex-husband – who killed her.\n\nOn the 36th day of the trial, Kwong Kong-kit said he should have been braver and more rational.\n\nHe told the court that after he drove the car to the Tai Mei Tuk carpark in Tai Po, he saw Choi lying on the floor of the car with no sound or movement coming from her.\n\nKwong said he followed instructions given by his father, Kwong Kau, in a subsequent call to drive the car to the Lung Mei Village.\n\nHe parked it next to his father’s car when he got there.\n\nKwong said it was about 20 minutes between when Choi was attacked by his brother and when they arrived at the village house, saying his mind went blank during the period.\n\nKwong also said he believed Choi might already have been dead as she was unresponsive\n\nHe said his father put Choi into a plastic box after wrapping her body in a blanket.\n\nHis father then instructed him to carry the box into the house before telling him and his brother to leave, Kwong said.\n\nKwong Kong-kit, Kwong Kong-chi and her former father-in-law Kwong Kau, were charged with murdering Choi on February 21, 2023, at Lung Mei Village in Tai Po and preventing the lawful burial of her body.\n\nEdited by Tony Sabine",
+      "fullText": "The former brother-in-law of celebrity Abby Choi told the High Court on Thursday that he should have called the police or an ambulance on the day of her killing.\n\nThis came a day after he told the court that it was his brother – Choi’s ex-husband – who killed her.\n\nOn the 36th day of the trial, Kwong Kong-kit said he should have been braver and more rational.\n\nHe told the court that after he drove the car to the Tai Mei Tuk carpark in Tai Po, he saw Choi lying on the floor of the car with no sound or movement coming from her.\n\nKwong said he followed instructions given by his father, Kwong Kau, in a subsequent call to drive the car to the Lung Mei Village.\n\nHe parked it next to his father’s car when he got there.\n\nKwong said it was about 20 minutes between when Choi was attacked by his brother and when they arrived at the village house, saying his mind went blank during the period.\n\nKwong also said he believed Choi might already have been dead as she was unresponsive.\n\nHe said his father put Choi into a plastic box after wrapping her body in a blanket.\n\nHis father then instructed him to carry the box into the house before telling him and his brother to leave, Kwong said.\n\nKwong Kong-kit, Kwong Kong-chi and her former father-in-law Kwong Kau, were charged with murdering Choi on February 21, 2023, at Lung Mei Village in Tai Po and preventing the lawful burial of her body.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-12T10:00:15.000Z",
       "source": "RTHK English — Local",
@@ -698,17 +709,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877336-20261111.htm"
-    },
-    {
-      "id": "6bdfe3bfc38920ee",
-      "title": "Iran rejects France cyberattack allegations",
-      "excerpt": "Iran on Tuesday said French accusations that it was responsible for cyberattacks on supermarket fridges last month were \"baseless\". \"Iran's…",
-      "fullText": "Iran on Tuesday said French accusations that it was responsible for cyberattacks on supermarket fridges last month were \"baseless\".\n\n\"Iran's foreign ministry categorically rejects the French government's baseless and one-sided accusations against Iran regarding alleged cyber activities in France,\" the ministry said in a statement.\n\nIt added that it \"strongly condemns this hackneyed policy of levelling accusations against the Islamic republic\".\n\nHundreds of French supermarkets were hit in the October 11 and 12 cyberattacks, which raised the temperatures in their refrigerators and freezers, forcing many to throw away entire inventories of perishable food.\n\nSimilar incidents were then reported in at least 11 other European countries in early November.\n\nAlong with summoning Iran's ambassador and seeking European-level sanctions, French Foreign Minister Jean-Noel Barrot said on Tuesday that Paris would \"rule nothing out and will take all measures – including those we may not disclose publicly – that we deem proportionate and necessary to deter any further attacks\".\n\nTehran meanwhile said it would \"not hesitate to take necessary and appropriate measures to safeguard its national interests and security in the face of unlawful foreign activities\".\n\nIt added that France \"is merely projecting its own governance failures\" with these accusations.\n\nLater in the day, Iran's Foreign Minister Abbas Araghchi blamed the French government for the incident.\n\n\"Unable to manage fridges let alone addressing grievances of its people, French government is shifting blame for its failures onto others,\" the top diplomat said on X.\n\nAlso on Tuesday, the European Union said it would look to provide a \"swift and united response\" pending discussion with member states after France's announcement. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T23:15:02.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877334-20261111.htm"
     },
     {
       "id": "95175d27d15c212d",
@@ -1338,17 +1338,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876840-20261106.htm"
     },
     {
-      "id": "862fb3a0d0db6204",
-      "title": "Record 400-plus HK firms join Shanghai import expo",
-      "excerpt": "A record high of more than 400 Hong Kong businesses are taking part in the China International Import Expo in…",
-      "fullText": "A record high of more than 400 Hong Kong businesses are taking part in the China International Import Expo in Shanghai hoping to use the event as a launchpad for entry into the mainland market.\n\nAmong the first-time exhibitors is a Hong Kong accounting firm, which has seen a 30-percent surge over the past year in mainland clients seeking to expand overseas.\n\nMan Law, CEO of the firm's greater China division, told RTHK that venturing abroad was no longer just a trend, but a practical necessity for managing risks and driving growth.\n\nThe expo, he said, is an ideal stage to highlight Hong Kong's role as a springboard for international growth, particularly through tax incentives.\n\n\"Suppose you have set up an office and hired staff in Hong Kong,\" Law said.\n\n\"When expanding into Southeast Asia or investing in other foreign markets, you can take advantage of the double taxation avoidance agreements signed between Hong Kong and many countries.\n\n\"At their peak, tax savings could exceed 50 percent.\"\n\nAnother first-time exhibitor is a craft brewery that is working up a thirst at the expo for its award-winning, Hong Kong-made beer.\n\nThe brewery's marketing director said the brand aims to tap the mainland market, confident that its craft beers will be competitive as many mainland consumers have a strong appetite for Hong Kong products.\n\nThe event has also drawn local academic institutions, including the Hong Kong Polytechnic University.\n\nPolyU vice-president Zheng Zijian said the university, which has established 12 research institutes on the mainland over the past three years for incubation programmes, has brought innovation projects such as robots and food technology to the expo.\n\nThe institution, he stressed, has benefited from the mainland's comprehensive domestic industrial chain and robust support from local governments.\n\n“Our practice over the past few years is to take the path of deep integration with the mainland and contribute to integration with the country's talent, science and technology, and education,” Zheng said.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T08:04:39.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876820-20261106.htm"
-    },
-    {
       "id": "33f87479bebcf6b9",
       "title": "Bournemouth stay perfect in Europa League",
       "excerpt": "Bournemouth extended their perfect Europa League record on Thursday as they came from behind to win 3-1 at 10-man Sparta…",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746.html"
+    },
+    {
+      "id": "e514ab7fdff7dce2",
+      "title": "Domestic helper wage up 2.35%",
+      "excerpt": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased…",
+      "fullText": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased by 2.35%, from $5,100 to $5,220 per month.\n\nThe new minimum wage level will apply to all FDH contracts signed on or after tomorrow. FDH contracts signed today or earlier at the existing rate will still be processed by the Immigration Department, provided that the applications reach the department no later than October 30.\n\nThe Government explained that in reviewing the minimum wage, it had, in accordance with an established mechanism, considered factors including Hong Kong’s general economic performance and labour market conditions over the past year, the city's near-term economic outlook, employer affordability and the basic living needs of FDHs.\n\nThe Government also consulted employers and FDHs throughout the review process.\n\nIt stated that it decided to adjust the minimum wage level after carefully assessing and balancing the views of all parties, taking into account that this year's socio-economic factors are more favourable than those of last year's review.\n\nThe Government also reviewed the food allowance in lieu of free food, and decided that the level should remain unchanged, at no less than $1,236 per month.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265/images/20261002172046980.jpg",
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
     }
   ]
 }
