@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T11:15:17.120Z",
-  "checkedAt": "2026-11-12T11:30:24.848Z",
+  "generatedAt": "2026-11-12T11:45:16.577Z",
+  "checkedAt": "2026-11-12T11:45:16.577Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "cb85ff9b761b1fe9",
+      "title": "Michael Carrick sacked as Man U manager",
+      "excerpt": "Manchester United have dismissed manager Michael Carrick, the club said on Thursday, after a prolonged winless Premier League run culminated…",
+      "fullText": "Manchester United have dismissed manager Michael Carrick, the club said on Thursday, after a prolonged winless Premier League run culminated in a 4-4 draw at home to Aston Villa last weekend, leaving the team mired in the relegation zone.\n\nUnited have won only three of their 15 matches in all competitions under Carrick this season – including one league victory – leaving them 18th in the table on eight points after 10 games, one point from the bottom.\n\n\"After a disappointing start to the season, the club has come to the extremely difficult conclusion that a change is necessary in order to achieve our ambitions,\" United said in a statement on their website.\n\nCarrick came under mounting pressure after a 3-0 home loss to Bournemouth and the former United midfielder carried the air of someone awaiting the inevitable after the defeat when fans chanted his name but booed the players off the pitch.\n\nHe had dropped captain Bruno Fernandes to the bench against Bournemouth and did not bring him on even when United were desperate for inspiration in midfield, but the struggling club gave Carrick another chance to revive their season.\n\nAlthough he restored the playmaker to the starting lineup against Chelsea following clear-the-air talks and spoke of the team's determination to put things right, little changed as they were comprehensively outplayed in a 2-0 loss at Stamford Bridge.\n\nA 3-2 comeback win over AS Roma in the Champions League briefly eased the pressure on Carrick, but United's familiar defensive frailties were exposed again in the 4-4 draw with Aston Villa, despite two injury-time goals salvaging a point.\n\nCarrick is likely to be replaced by Mauricio Pochettino, the US men's national team coach, who has agreed to take over the newly-vacant post, according to reports in British media.\n\nThe former Southampton, Tottenham Hotspur and Chelsea manager is one of the Premier League's most highly regarded former coaches. (Reuters)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T11:05:24.000Z",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877569-20261112.htm"
+    },
     {
       "id": "344d568773163d25",
       "title": "'US uses spying claims as pretext for tech blockade'",
@@ -1413,17 +1424,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876681-20261105.htm"
-    },
-    {
-      "id": "26d717e09772e917",
-      "title": "Djokovic to miss ATP Finals after early Paris exit",
-      "excerpt": "Novak Djokovic crashed out of the Paris Masters on Wednesday after the 24-time Grand Slam champion lost 2-6, 6-3, 6-3…",
-      "fullText": "Novak Djokovic crashed out of the Paris Masters on Wednesday after the 24-time Grand Slam champion lost 2-6, 6-3, 6-3 to Australian qualifier Rinky Hijikata in the second round.\n\nThe shock defeat by the world number 83 ended the 39-year-old Serb's hopes of qualifying for the ATP Finals later this month.\n\nSpeaking in the mixed zone after the loss, Djokovic told reporters his plan for the next few weeks was \"just rest\".\n\n\"I'm looking forward to it,\" the 39-year-old added.\n\nAfter sailing through the first set, Djokovic soon found himself in a battle with the Australian qualifier.\n\nHijikata broke Djokovic in the eighth game of the second frame before serving out to force a decider.\n\nThe third set ground on until the Serb cracked serving at 3-3 to hand his unfancied opponent a chance at victory, which he duly took with a second break to seal the match in style.\n\nDjokovic, a seven-time champion in Paris, said he felt \"disappointment obviously, losing a match that I felt like I was dominating for the first set\".\n\nBut he heaped praise on Hijikata for the way he responded.\n\n\"He was switched on, I wasn't serving as well and he was just playing out of his mind honestly. He was not missing and keeping the ball low and just a terrific performance,\" Djokovic said. (AFP)\n\nEdited by Nazvi Careem",
-      "imageUrl": null,
-      "publishedAt": "2026-11-05T01:10:49.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876615-20261105.htm"
     },
     {
       "id": "bbc2fa366fb47ee7",
