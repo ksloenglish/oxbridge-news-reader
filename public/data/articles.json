@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T01:45:18.383Z",
-  "checkedAt": "2026-11-12T02:45:17.092Z",
+  "generatedAt": "2026-11-12T02:54:55.695Z",
+  "checkedAt": "2026-11-12T02:54:55.695Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "39071788454f42bf",
+      "title": "HK, region slip as Nvidia faces crunch on Huang sack",
+      "excerpt": "Asian stocks wobbled at the start of regional trading on Thursday, while Nvidia shares plunged in after-hours trading on news…",
+      "fullText": "Asian stocks wobbled at the start of regional trading on Thursday, while Nvidia shares plunged in after-hours trading on news that its board may oust longtime chief executive Jensen Huang.\n\nIn Hong Kong, the benchmark Hang Seng Index opened down 194 points, or 0.8 percent, at 24,121.\n\nThe tech index fell 32 points, or 0.8 percent, to 3,995 while the China Enterprises Index slipped 66 points, or 0.81 percent, to 8,105.\n\nOn the mainland, the Shanghai Composite Index inched down seven points, or 0.21 percent, to open at 3,673.\n\nThe Shenzhen Component Index was 28 points, or 0.25 percent, lower at 11,361 while the ChiNext Index was down 0.5 percent at 2,559.\n\nNvidia's board is meeting late on Wednesday to decide whether to oust Huang, a source said, as the world's dominant supplier of AI processors grapples with the fallout of allegations that he had an affair with a suspected spy for China.\n\nThe New York Times has also reported that Huang had had an affair with a company executive who reported to him.\n\n\"It looks bad from every single angle,\" said Jake Dollarhide, chief executive at Longbow Asset Management in Tulsa, Oklahoma.\n\n\"I believe the board won't oust him until they have an all-star, a known entity in the tech sector, to replace him. At the end of the day, let's not forget that the Nvidia chip is the centrepiece of the AI story.\"\n\nShares in Nvidia slid more than eight percent after the bell, weighing on S&P 500 e-mini futures, which slipped 0.4 percent.\n\nIn Tokyo, the Nikkei opened 226 points, or 0.37 percent, higher at 61,475 and was 390 points higher still at one stage before noon.\n\nIn Seoul, the Kospi opened 10 points, or 0.2 percent, at 5,385 and, like the Nikkei, tracked up cautiously by 38 points at one stage before lunch.\n\n\"Renewed optimism around AI drove US equities higher overnight, with positive developments around CoreWeave and Anthropic adding to enthusiasm around the sector and helping the S&P 500 and Nasdaq rally,\" Westpac analysts wrote in a note. (Agencies)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T02:42:55.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877491-20261112.htm"
+    },
     {
       "id": "1d09aa9a8b18f244",
       "title": "Andreeva stuns Sabalenka to reach WTA Finals last four",
@@ -1248,17 +1259,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
-    },
-    {
-      "id": "56294b5f4c2045be",
-      "title": "HK stocks slip as tech rout spreads to Asian markets",
-      "excerpt": "Mainland and Hong Kong stocks fell on Friday as a Nasdaq-led tech rout rippled across Asia and fuelled fears the…",
-      "fullText": "Mainland and Hong Kong stocks fell on Friday as a Nasdaq-led tech rout rippled across Asia and fuelled fears the AI boom is losing steam, although bargain hunting helped pare losses in markets across the border buoyed by Beijing's market-supporting measures.\n\nIn Hong Kong, the benchmark Hang Seng Index ended 315 points, or 1.3 percent, in the red at 24,481 on turnover of HK$247.43 billion but registered a 5.1 percent weekly gain, its best since March 2025.\n\nThe tech index fell 76 points, or 1.8 percent, to 4,078 but posted its best weekly gain since February 2025, advancing 8.6 percent, while the China Enterprises Index was 94 points, or 1.1 percent, lower at 8,274.\n\nUp north, the blue-chip CSI 300 Index dropped 1.4 percent but notched up a 1.7 percent gain for the week to snap a 12-week-long losing streak.\n\nThe Shanghai Composite Index ended down 40 points, or 1.1 percent, at 3,649 on turnover of 772.63 billion yuan but broke a six-week losing streak to end the week 1.4 percent higher.\n\nThe Shenzhen Component Index fell 295 points, or 2.57 percent, to 11,175 on turnover of 885.16 billion yuan while the ChiNext Index dived 101 points, or 3.96 percent, to 2,465 on turnover of 441 billion yuan.\n\nTech sectors across Asia took a heavy blow after a steep selloff overnight in the United States wiped trillions of dollars off market value, as investors fretted that a Democratic sweep in the US midterm elections could bring tighter scrutiny of the AI sector.\n\nChina's tech-focused Star 50 index and the AI index slumped up to 5.2 percent before paring some losses.\n\nDong Baozhen, chairman of asset manager Lingtong Shengtai, said the overnight slump in US tech stocks meant the logic behind the AI-driven rally had crumbled.\n\n\"The US stock market has been the standard-bearer and backbone of the global AI bull run. Now that backbone has snapped. Can AI bull markets elsewhere hold up on their own?\" he said.\n\nChinese AI hardware stocks with significant exposure to the US market were among the hardest hit. Zhongji Innolight, which makes optical transceivers for data centres and generates most of its revenue in America, slumped 9.2 percent to a one-year low. Rival Eoptolink Technology tanked 7.3 percent.\n\nJason Hsu, founder and chairman of Rayliant Global Advisors, said China's sentiment-driven stock market was heavily influenced by AI stock performance in the United States.\n\nTechnology stocks carry significant weight in China's stock market and \"what people are really watching closely is whether AI in the United States is a bubble,\" he said, adding that any signs of a bubble bursting in the US \"obviously will affect the Chinese market\".\n\nStill, early panic selling drew in bargain hunters, helping trim losses after Beijing rolled out support measures and reiterated its commitment to preventing systemic risks.\n\n\"The series of domestic support measures introduced recently should provide a degree of support within a trading range and help reduce the risk of a systemic downturn,\" said Ailsa Liao, senior analyst at Forthright Securities.\n\nSome analysts, however, cautioned that the measures might not be enough to insulate the market from external shocks.\n\n\"I don't think China can completely escape the fallout from Wall Street, especially with selling this aggressive,\" said Pepperstone strategist Dilin Wu.\n\nIn Tokyo, the Nikkei ended down 3,643 points, or 5.96 percent, at 57,434 for the day and 9.3 percent for the week, its worst in more than six years amid worries new political equations forming in the wake of the US midterms could weigh on AI development. The broader Topix lost 232 points, or 5.9 percent, with all 33 industry sectors sliding.\n\nIn Seoul, the Kospi plunged 324 points, or 6.02 percent, to 5,059, a day after dropping 5.3 percent. The South Korean benchmark, down 11.7 percent for the week, has dropped 44 percent from its June peak but is still up 20 percent so far this year. (Agencies)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T09:16:57.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876843-20261106.htm"
     },
     {
       "id": "241d274504cae706",
