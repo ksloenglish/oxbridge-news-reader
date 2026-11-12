@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T06:45:15.842Z",
-  "checkedAt": "2026-11-12T06:45:15.842Z",
+  "generatedAt": "2026-11-12T07:00:26.444Z",
+  "checkedAt": "2026-11-12T07:00:26.444Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -335,6 +335,17 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
+    },
+    {
+      "id": "813c3334f80b0c85",
+      "title": "Teacher certificate bill proposed",
+      "excerpt": "The Education Bureau has proposed amending the law to enhance the teacher registration mechanism by introducing practising certificate requirements, thereby…",
+      "fullText": "The Education Bureau has proposed amending the law to enhance the teacher registration mechanism by introducing practising certificate requirements, thereby upholding the professionalism of the teaching force. The Government will publish the Education (Amendment) Bill 2026 in the Gazette tomorrow and introduce it to the Legislative Council for first and second readings on November 25.\n\nThe bureau noted that it has referenced teacher registration systems in various jurisdictions alongside the registration and practising certificate requirements of other Hong Kong professions. It stated that making a practising certificate a prerequisite for teaching, in addition to the existing statutory registration, could elevate public recognition of the sector and raise the social status of teachers.\n\nThe bill will establish statutory rules requiring all teachers and principals of publicly funded schools, private schools, international schools and kindergartens to hold both teacher registration and practising certificates. Each practising certificate will remain valid for a maximum of three school years.\n\nTo ensure educators keep abreast of the latest global and local educational policies, teachers must meet a mandatory continuing professional development requirement to obtain a practising certificate. This measure aims to align their knowledge and pedagogy with the evolving needs of students and society.\n\nThe bureau pointed out that as role models and key figures in nurturing young people, teachers have a profound impact on students through their conduct, values, words and deeds. Amid rapid societal changes, parents and the wider public hold increasingly high expectations for teacher professionalism.\n\nThe bureau highlighted that the bill addresses the practical operational needs of schools, encourages educators to keep pace with the times and strengthens staff management to safeguard student well-being. It also establishes safeguards to bar individuals convicted of offences endangering national security from teaching, protecting students while upholding professional integrity and public confidence.\n\nClick here for details.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261112/20261112_120723_089/images/20261112140415574.jpg",
+      "publishedAt": "2026-11-11T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261112/20261112_120723_089.html"
     },
     {
       "id": "cbf3fb5797712000",
@@ -1402,17 +1413,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_124445_933.html"
-    },
-    {
-      "id": "a59d03e64f96d85f",
-      "title": "FinTech Week concludes",
-      "excerpt": "Hong Kong FinTech Week x StartmeupHK 2026 concluded today, capping a week of discussions, business exchanges, startup showcases and ecosystem…",
-      "fullText": "Hong Kong FinTech Week x StartmeupHK 2026 concluded today, capping a week of discussions, business exchanges, startup showcases and ecosystem activities that brought together policymakers, regulators, entrepreneurs, investors and innovators from around the world.\n\nThe week-long programme attracted more than 48,000 visitors from over 120 economies, featured over 1,100 speakers and 800 exhibitors, and welcomed more than 30 Chinese Mainland and international delegations.\n\nThe programme was organised by the Financial Services & the Treasury Bureau, the Commerce & Economic Development Bureau and Invest Hong Kong.\n\nThroughout the week, speakers explored how financial and technological innovation are reshaping industries, business models and global markets. Artificial intelligence (AI) discussions highlighted both the expanding potential of the technology and the foundations needed to support wider adoption.\n\nA key highlight of the week was the finale of Global Fast Track 2026, connecting startups and scale-ups with corporate leaders, investors and potential business partners. Following over 700 applications from more than 120 economies, selected finalists presented their solutions at the main conference.\n\nMore than 30 delegations from the Chinese Mainland, including those from Beijing, Jiangsu, Shanghai, Shenzhen and Zhuhai, as well as delegations from North America, Europe, the Gulf Cooperation Council regions, the Association of Southeast Asian Nations, Central Asia, and other emerging markets, participated in conference sessions, ecosystem exchanges and business engagement activities throughout the week.\n\nBeyond the main conference, participants took part in a series of community and partner events across the city, including investor meetings, startup showcases, networking sessions and ecosystem exchanges.\n\nDuring the two-day Guangdong-Hong Kong-Macao Greater Bay Area Immersive Executive Tour to Shenzhen, participants visited leading technology enterprises covering AI, electric vehicles, fintech and robotics, gaining first-hand insights into one of the world's most dynamic innovation ecosystems.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261106/20261106_193011_356/images/20261106214932293.jpg",
-      "publishedAt": "2026-11-05T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261106/20261106_193011_356.html"
     },
     {
       "id": "ca951d33beb9794a",
