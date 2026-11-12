@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T21:30:22.348Z",
-  "checkedAt": "2026-11-12T22:30:24.592Z",
+  "generatedAt": "2026-11-12T22:45:19.727Z",
+  "checkedAt": "2026-11-12T22:45:19.727Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 14
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "d664a4dc3ecf0c09",
+      "title": "Wall St down as Nvidia drop outweighs energy gains",
+      "excerpt": "US stocks closed lower on Thursday, as a drop in Nvidia shares after CEO Jensen Huang's exit outweighed gains in…",
+      "fullText": "US stocks closed lower on Thursday, as a drop in Nvidia shares after CEO Jensen Huang's exit outweighed gains in energy shares.\n\nThe chip company's shares fell 4.3 percent but were well off the day's lowest level after earlier dropping nearly 12 percent. Retail investors bought Nvidia shares worth about US$111 million in the first half hour of trading, the biggest opening bid on record for the stock, according to data from Vanda Analytics.\n\nThe S&P 500 energy index rose 1.5 percent, its fourth straight session of gains, as the best-performing of the 11 major S&P sectors. Crude prices climbed after US President Donald Trump wrote on social media that the US did not need a deal with Iran.\n\nGlobal AI-linked stocks fell and AI cloud firm Nebius tumbled 16.8 percent, its biggest daily percentage drop since July 1, after reporting its quarterly earnings and outlook. But Nvidia competitors such as Broadcom, Advanced Micro Devices and Alphabet each moved higher and were among the biggest boosts to the S&P 500.\n\nEquities have been volatile in recent days. Sweeping Democratic victories in the US midterm elections have sparked investor concern about more AI regulation. Worries about Nvidia's leadership have also pressured one of the foundations of the current bull market. Nvidia tabbed Chief Financial Officer Colette Kress as interim CEO.\n\n\"Right now, the market is selling AI stocks and tech stocks and buying safe stuff, just like it did in the first halo trade in January and February of this year, but it will flip back,\" said Jed Ellerbroek, portfolio manager at Argent Capital Management in St Louis.\n\n\"That's the tug of war the market is doing right now. It's concerns about deceleration versus just pointing out that the absolute valuation and growth rates are still pretty compelling.\"\n\nThe Dow Jones Industrial Average fell 189 points, or 0.4 percent, to 52,297, the S&P 500 lost 26 points, or 0.4 percent, to 7,592 and the Nasdaq Composite lost 100 points, or 0.4 percent, to 25,366.\n\nEven with Huang's departure, some investors expect questions to persist about the future of AI companies with strong ties to Nvidia.\n\nThe company has backed several firms, including its own customers, through financing arrangements that face greater scrutiny after Huang's departure.\n\n\"Nvidia is the circular-funder-in-chief; they're the biggest by far at this point, and I assume that activity will moderate,\" said Ellerbroek.\n\nThe Philadelphia Semiconductor index declined 0.5 percent after surging 17.2 percent over the prior four sessions.\n\nAlong with Nebius, peer CoreWeave dropped 6.9 percent. Shares of data centre-related firms IREN and Applied Digital slumped 6.5 percent and 5.4 percent, respectively.\n\nInvestors are awaiting the release of the Producer Price Index on Friday, which will follow a hotter-than-expected consumer price reading earlier this week.\n\nMarkets are completely pricing in a December rate hike of at least 25 basis points by the Federal Reserve, with a 15 percent chance of a 50-basis-point increase, according to CME FedWatch.\n\nComments from multiple Fed officials earlier this week suggested the US central bank was open to a more aggressive path of rate hikes as price pressures worsen.\n\nCleveland Fed President Beth Hammack said on Thursday she does not believe the central bank needs to shift to more aggressive rate hikes to combat inflation, while San Francisco Federal Reserve President Mary Daly said she thinks the central bank will likely need to raise interest rates further to deal with elevated inflation, but did not suggest any urgency. (Reuters)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T22:26:24.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877623-20261113.htm"
+    },
     {
       "id": "4c2c3618c083607f",
       "title": "Hegseth decorates soldier who rebuked him at Arlington",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
-    },
-    {
-      "id": "655dea3537ed986c",
-      "title": "Five HK universities rank in top 100",
-      "excerpt": "Hong Kong has five universities among the top 100 in the World University Rankings 2027, published by Times Higher Education…",
-      "fullText": "Hong Kong has five universities among the top 100 in the World University Rankings 2027, published by Times Higher Education (THE).\n\nCommenting today, the Education Bureau highlighted that two of the city’s ranked institutions had gained higher positions in the latest rankings.\n\nIt said the results demonstrate the robust strengths of Hong Kong’s higher education system and its world-class standing in terms of teaching, research, and international outlook.\n\nIt added that the rankings reflect the Government’s investment of resources and its policy support over the years, both of which have laid a solid foundation for the city’s higher education institutions.\n\nIn the latest rankings, the University of Hong Kong ranks 33rd globally; the Chinese University ranks 42nd; and the University of Science & Technology ranks 58th. City University and Polytechnic University have risen to 70th and 79th respectively.\n\nThe bureau said the consistent high international rankings of Hong Kong’s universities not only reflect the local higher education sector's excellence, but also bear witness to the Government’s proactive leadership in policy measures aimed at driving innovation and change, as well as expanding capacity while enhancing quality.\n\nIt added that the Government will continue to spare no effort in promoting the sector's comprehensive integration into overall national development, contributing to China’s development as a leading country in education.\n\nLooking ahead, the bureau said that with the advent of Hong Kong’s First Five-Year Plan, the city’s higher education is ushering in a golden period of development full of promising potential.\n\n“We will continue to promote the all-round connectivity in areas such as talent training, frontier scientific research, and industry-academia-research collaboration, optimise resource allocation, support various institutions in consolidating their existing advantages while pioneering innovation, and nurture more outstanding talent equipped with both international perspective and exceptional capabilities, thereby making greater contributions to the long-term prosperity and stability of Hong Kong and the country.”",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409/images/20260930122638517.jpg",
-      "publishedAt": "2026-09-29T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
     }
   ]
 }
