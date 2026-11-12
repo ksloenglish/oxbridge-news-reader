@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T13:15:17.169Z",
-  "checkedAt": "2026-11-12T13:19:24.390Z",
+  "generatedAt": "2026-11-12T13:30:39.110Z",
+  "checkedAt": "2026-11-12T13:30:39.110Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "5d883c070187d10e",
+      "title": "Toll climbs in New York City building collapse",
+      "excerpt": "At least eight people have died after a three-storey building in Brooklyn collapsed at the edge of a construction site…",
+      "fullText": "At least eight people have died after a three-storey building in Brooklyn collapsed at the edge of a construction site, New York City’s mayor said on Thursday, as firefighters kept digging through the rubble to find others who may be trapped beneath the wreckage.\n\nThe building came down on Wednesday afternoon.\n\nAt least 17 people have been injured, including three firefighters, Mayor Zohran Mamdani said.\n\n“There are no words for a loss of this magnitude,” Mamdani posted on X. “My heart is with the families and loved ones of those we have lost, those who are injured and everyone grieving today.”\n\nScores of firefighters and police officers wielding pickaxes and power saws clambered over the rubble pile overnight, punching holes through the ruins to pull dust-covered people from beneath piles of twisted wood and brick.\n\nRescuers used dogs to sniff for survivors. Firefighters used orange buckets as they removed debris from the rubble piles trying to reach people who may be trapped.\n\nHeavy rain was forecast for the city on Thursday afternoon. It wasn't immediately known how that would affect search efforts.\n\nThe cause of the collapse was under investigation, but New York City’s buildings commissioner, Ahmed Tigani, noted that when the building fell, construction workers were excavating an empty lot next door for a new building.\n\nMuch of the rubble from the collapsed building – a mixed-use structure with apartments sitting atop ground-floor commercial space – wound up in a huge pile inside the construction pit. Another building that shared a wall with the collapsed structure remained standing, but its wall was shorn off, exposing the rooms inside, including a bedroom and closets filled with clothing.\n\nAbout 250 firefighters were working the scene, Mamdani said. Two deaths were announced on Wednesday and the others were confirmed on Thursday.\n\nOn Wednesday night, firefighters pulled a woman – still alive and moving – out of a hole they had dug into the rubble pile, hoisting her up on a stretcher and rushing to a waiting ambulance. Additional people were pulled from beneath the pile as the night went on. (AP)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T13:17:17.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877586-20261112.htm"
+    },
     {
       "id": "0035c109f7524f46",
       "title": "Evening News on TV32 - Nov 12",
@@ -720,17 +731,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877312-20261111.htm"
-    },
-    {
-      "id": "0d6923ae4ace9416",
-      "title": "US Republicans derail bid to impeach Hegseth",
-      "excerpt": "Republicans in the US House of Representatives on Tuesday blocked an effort to impeach Defence Secretary Pete Hegseth over the…",
-      "fullText": "Republicans in the US House of Representatives on Tuesday blocked an effort to impeach Defence Secretary Pete Hegseth over the Iran war, handing US President Donald Trump a victory days after his party's crushing midterm election defeat.\n\nThe House voted 211 to 204 to send the impeachment resolution to the Judiciary Committee, effectively derailing a planned vote on Wednesday on whether to bring formal charges against the embattled Pentagon chief.\n\nThe resolution was introduced by Republican Thomas Massie, a Trump critic who was the only member of his party to oppose the procedural manoeuvre, according to US media.\n\nThe impeachment drive had threatened to deepen Trump's troubles after Democrats swept last week's midterms, with anger at the sputtering Iran war and soaring fuel prices helping drive voters to a historic rejection of Republicans.\n\nRepublicans still hold a narrow House majority until January, when Democrats take control of both chambers of Congress. And 11 Democrats missed the vote.\n\nPentagon spokesperson Sean Parnell, in a post on X, hailed the vote as a \"TOTAL VICTORY!\"\n\n\"We look forward to ending this sham impeachment in the committee room, where facts will continue to prevail and this distraction can be put to rest.\"\n\nHegseth earlier on Tuesday dismissed the impeachment effort as a \"farce\" and defended his record leading the Iran war and other military operations under Trump.\n\n\"It's a farce, and it's a stunt, and everybody knows it,\" he said at a Pentagon press conference, branding the accusations \"slander\" and \"sabotage.\"\n\nMoments after Hegseth's televised appearance, Trump signalled his support.\n\n\"Pete Hegseth gets an 'A' PLUS, PLUS, PLUS,\" the 80-year-old president wrote on his Truth Social platform.\n\nVice President JD Vance also backed the defence secretary, saying he had \"obviously not\" committed impeachable offences.\n\nMassie's eight articles of impeachment accused Hegseth of illegally waging war without congressional authorisation and abusing his powers as Pentagon chief.\n\nSeveral related to the eight-month Iran war, accusing him of violating the War Powers Resolution, which places limits on US military interventions without congressional authorisation.\n\nOther allegations involved the 2025 conflict with Yemen's Iran-backed Houthis and strikes on alleged drug-smuggling boats in the Caribbean and eastern Pacific, which Massie branded \"extrajudicial killings.\"\n\nHe also accused Hegseth of suppressing free speech by trying to punish Democratic Senator Mark Kelly over a video urging military and intelligence personnel to refuse illegal orders.\n\nHegseth defended the operations in Yemen, Iran, Venezuela and against alleged drug smugglers, while seeking to equate the impeachment effort with an attack on US troops.\n\n\"I stand behind every one of these operations. I was proud to execute them, and I would do it again tomorrow,\" he said.\n\nThe decision to send the resolution to committee halts the immediate impeachment drive but does not prevent Democrats from reviving the effort after taking control of Congress in January.\n\nMassie, who lost his Republican primary to a Trump-backed challenger, will leave Congress at the end of his term. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T23:37:40.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877336-20261111.htm"
     },
     {
       "id": "95175d27d15c212d",
