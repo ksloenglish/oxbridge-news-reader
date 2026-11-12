@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T09:45:16.716Z",
-  "checkedAt": "2026-11-12T10:00:31.241Z",
+  "generatedAt": "2026-11-12T10:15:17.729Z",
+  "checkedAt": "2026-11-12T10:15:17.729Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "a7a8d9915a685cd3",
+      "title": "Ex-in-law 'followed dad's orders after Choi killing'",
+      "excerpt": "The former brother-in-law of celebrity Abby Choi told the High Court on Thursday that he should have called the police…",
+      "fullText": "The former brother-in-law of celebrity Abby Choi told the High Court on Thursday that he should have called the police or an ambulance on the day of her killing.\n\nThis came a day after he told the court that it was his brother – Choi’s ex-husband – who killed her.\n\nOn the 36th day of the trial, Kwong Kong-kit said he should have been braver and more rational.\n\nHe told the court that after he drove the car to the Tai Mei Tuk carpark in Tai Po, he saw Choi lying on the floor of the car with no sound or movement coming from her.\n\nKwong said he followed instructions given by his father, Kwong Kau, in a subsequent call to drive the car to the Lung Mei Village.\n\nHe parked it next to his father’s car when he got there.\n\nKwong said it was about 20 minutes between when Choi was attacked by his brother and when they arrived at the village house, saying his mind went blank during the period.\n\nKwong also said he believed Choi might already have been dead as she was unresponsive\n\nHe said his father put Choi into a plastic box after wrapping her body in a blanket.\n\nHis father then instructed him to carry the box into the house before telling him and his brother to leave, Kwong said.\n\nKwong Kong-kit, Kwong Kong-chi and her former father-in-law Kwong Kau, were charged with murdering Choi on February 21, 2023, at Lung Mei Village in Tai Po and preventing the lawful burial of her body.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T10:00:15.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877548-20261112.htm"
+    },
     {
       "id": "337443edb4f327b6",
       "title": "HK, region take toll as Nvidia fate hangs in balance",
@@ -775,17 +786,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261111/20261111_172810_262.html"
-    },
-    {
-      "id": "26b38ff0b146c345",
-      "title": "Exco green lights part two of the Northern Link",
-      "excerpt": "The government and the MTR Corporation on Tuesday signed the project agreement for the full Northern Link project, as the…",
-      "fullText": "The government and the MTR Corporation on Tuesday signed the project agreement for the full Northern Link project, as the Executive Council approved the financial arrangement for the second part of the plan.\n\nExco greenlit part one of the project in July last year.\n\nThis means that the main line and the spur line – expected to be commissioned simultaneously by 2034 – have fully entered the construction stage.\n\nThe cost is estimated to be about HK$54.8 billion for part two of the project, while the entire project is estimated to cost about HK$86.2 billion – 28 percent lower than the initial forecast, due to the shortened construction period and cost-saving benefits.\n\nExco agreed to grant a total of eight sites located in Ngau Tam Mei Area, San Tin Area, Kwu Tung North Area and the proposed Au Tau New Development Area to the railway operator for residential and commercial development.\n\nA fixed lump sum will be deducted from the land premium of the sites to help fund the MTR in carrying out part two of the project.\n\nThe railway operator, for its part, said the estimated capital cost for the Northern Link is the most expensive one among its works.\n\nIt emphasised that it had been financially sound in recent years, and that it increased cash flow by issuing bonds.\n\nThe MTR said it does not rule out the possibility of raising capital through ways other than bond issuance.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T14:08:12.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877299-20261110.htm"
     },
     {
       "id": "b67b84591d2fcf14",
