@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T09:15:19.114Z",
-  "checkedAt": "2026-11-12T09:30:23.854Z",
+  "generatedAt": "2026-11-12T09:45:16.716Z",
+  "checkedAt": "2026-11-12T09:45:16.716Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "337443edb4f327b6",
+      "title": "HK, region take toll as Nvidia fate hangs in balance",
+      "excerpt": "Asian shares and US futures declined on Thursday as concerns over leadership at chipmaker Nvidia weighed on artificial intelligence-related stocks…",
+      "fullText": "Asian shares and US futures declined on Thursday as concerns over leadership at chipmaker Nvidia weighed on artificial intelligence-related stocks.\n\nIn Hong Kong, the benchmark Hang Seng Index closed down 307 points, or 1.3 percent, to 24,008 on turnover of HK$202.65 billion.\n\nThe tech index plunged 95 points, or 2.4 percent, to 3,931 while the China enterprises index fell 114 points, or 1.4 percent, to 8,056.\n\nUp north, the benchmark Shanghai Composite Index ended down 24 points, or 0.67 percent, at 3,655.\n\nThe Shenzhen Component Index fell 191 points, or 1.68 percent, to 11,197 while the ChiNext Index dived 62 points, or 2.44 percent, to 2,509\n\nIn after-hours trading, Nvidia’s shares fell 8.6 percent after reports said Nvidia’s board was meeting late on Wednesday to discuss the situation surrounding its chief executive, Jensen Huang and his extramarital affairs.\n\nNvidia's shares climbed 2.9 percent on Wednesday.\n\nIts shares have fallen after the company said it was investigating Huang, who has admitted to a relationship with a businesswoman.\n\nTraders' nerves are being tested by the crisis at Nvidia, with co-founder Huang facing the boot after he admitted a relationship with Alice Huang, a senior executive at Singapore-based data centre company Megaspeed.\n\nThe New York Times reported on Wednesday that Huang was also involved in a second extramarital affair, with the company's vice president of health care, Kimberly Powell.\n\nThe tech company's board was preparing to meet as soon as Wednesday to determine Huang's future, according to the Wall Street Journal, which quoted people familiar with the matter.\n\nHuang has built Nvidia to be one of the world's biggest and most important companies, designing advanced chips crucial to the AI buildout that has helped drive stock markets to record highs and boosted economies around the world.\n\n\"Nvidia has spent years convincing investors that it is one of the most important companies in the AI revolution,\" wrote Charu Chanana at Saxo Markets.\n\n\"Now, the biggest question surrounding the company is not about its chips, competitors or earnings. It is about its founder.\"\n\nShe said Huang was key to the firm's future, including dealings with governments.\n\n\"Nvidia's technological advantage would not disappear with his departure,\" she added.\n\n\"Its CUDA software ecosystem, product capabilities and customer relationships remain formidable strengths.\n\n\"But an abrupt exit without a credible succession plan could force investors to reassess how much of Nvidia's future depends on Huang personally.\"\n\nIn Tokyo, the Nikkei reversed early gains to end 429 points, or 0.7 percent, lower at 60,819 amid reports that a potential sacking was in the offing at Nvidia for its founder, Jensen Huang.\n\nThe broader Topix edged up almost eight points, or 0.2 percent, at 3,937.\n\nIn Seoul, the Nvidia reports also took its toll on the Kospi, sending it down 32 points, or 0.61 percent, to 5,342. (Agencies)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-12T09:20:56.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877553-20261112.htm"
+    },
     {
       "id": "e45909a448074d45",
       "title": "10 arrested in fake concert ticket crackdown",
@@ -1270,17 +1281,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876904-20261107.htm"
-    },
-    {
-      "id": "f08b837f743cb3ea",
-      "title": "US markets close mixed as tech stocks push back",
-      "excerpt": "US technology stocks bounced back on Friday from their worst drubbing in more than a year, but the Nasdaq Composite…",
-      "fullText": "US technology stocks bounced back on Friday from their worst drubbing in more than a year, but the Nasdaq Composite Index posted a fourth consecutive weekly decline as investors sifted for clues about what comes next in the AI trade.\n\nGains within technology were broadly shared, with the semiconductor index rallying and Nvidia, Advanced Micro Devices and Sandisk rebounding.\n\nThe broad revival underscores investor faith in the AI buildout that has driven US stock indexes to dozens of record closes this year, despite a shakeout that began with a US long-term Treasury yield spike in August and the stock volatility of the past month.\n\n“We still think AI is the dominant theme in this bull market,” said Keith Lerner, chief investment officer at Trust Advisory Services in Atlanta. “We are still giving technology the benefit of the doubt.”\n\nThe S&P 500 climbed 24.70 points, or 0.34 percent to end the session at 7,378.43. The Nasdaq gained 264.42 points, or 1.09 percent, to 24,579.42, while the Dow Jones Industrial Average declined 237.33 points, or 0.46 percent, to 51,285.73.\n\nLerner said he views the selloff this week, which has taken the Nasdaq into correction territory denoting a 10 percent decline from its peak a month ago, as likely offering a longer-term buying opportunity for many investors.\n\n“AI has gone on trial several times in this cycle and come away with an innocent verdict,” said Adam Turnquist, chief cross-asset strategist for LPL Financial in Charlotte, North Carolina. Referring to the US midterm election results that spurred heavy selling in AI stocks, he said, “This week we saw a little bit of a knee-jerk reaction.”\n\nUS nonfarm payrolls increased more than expected in October and the unemployment rate fell to 4.1 percent, suggesting the labour market remained resilient. Traders added to bets that the Federal Reserve could hike rates as soon as next month, with a 78 percent chance of a December move compared with a 70 percent chance seen earlier, according to LSEG.\n\n\"Those are strong numbers,” said Joe Saluzzi, co-head of equity trading at Themis Trading in Chatham, New Jersey. But he asked, “Will the Fed want to raise interest rates in the face of a market which is teetering?\"\n\nTesla and SpaceX were among technology shares bouncing back from Thursday’s plunge. Among other stock movers, software firm Atlassian dropped after reporting first-quarter results. Airbnb climbed after the vacation rental platform raised its full-year 2026 revenue growth forecast.\n\nOil prices were slightly lower, adding to bullish sentiment for riskier assets, and were on track for sharp weekly declines. The S&P 500 energy index was on track for a double-digit weekly percentage drop. (Reuters)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T23:00:48.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876903-20261107.htm"
     },
     {
       "id": "4ec0491a54bf0aaf",
