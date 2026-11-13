@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T07:00:27.286Z",
-  "checkedAt": "2026-11-13T07:00:27.286Z",
+  "generatedAt": "2026-11-13T07:15:20.625Z",
+  "checkedAt": "2026-11-13T07:15:20.625Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "a3abd5132d1cfc5d",
+      "title": "Housing Authority eases way for families, resales",
+      "excerpt": "The Housing Authority approved two measures to assist people in purchasing subsidised sale flats on Friday. This included a government…",
+      "fullText": "The Housing Authority approved two measures to assist people in purchasing subsidised sale flats on Friday.\n\nThis included a government proposal aimed at further facilitating families with newborns to buy their own homes.\n\nStarting with the next Home Ownership Scheme sale exercise, the maximum mortgage loan-to-value ratio for white form family applicants with newborns will be raised from 90 to 95 percent.\n\nThe authority said all families with children aged three or below by the application deadline could benefit from the new arrangement.\n\nIt would also relax the resale restriction period on subsidised flats that were first put up for sale between 2022 and 2025 from 15 years to 10 years.\n\n“These two new measures will help more families move up the housing ladder while also promoting the turnover of subsidised sale flats, providing comprehensive assistance to members of the public to achieve home ownership,” a spokesman for the authority said.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T07:04:32.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877687-20261113.htm"
+    },
     {
       "id": "f11d62e23712ab14",
       "title": "Bitter pill for rivals as Eli Lilly scores China first",
@@ -885,17 +896,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877396-20261111.htm"
-    },
-    {
-      "id": "91ea0777b8094a8c",
-      "title": "Five plead not guilty in renovation-bribery trial",
-      "excerpt": "The District Court on Wednesday heard that five men allegedly conspired to offer bribes in a bid to secure a…",
-      "fullText": "The District Court on Wednesday heard that five men allegedly conspired to offer bribes in a bid to secure a major renovation project of a residential building in Kwun Tong.\n\nThe five defendants, charged with conspiracy to offer advantages to an agent between September 2022 and January 2023, all pleaded not guilty.\n\nIn the opening submissions, the prosecution said three of the defendants – Chong Chun-to, Lam Suet-pin and To Hon-sum – were believed to be key members of a syndicate.\n\nThe other two are then chairman of the owners' corporation of Hing Tat Mansion, Cheung Kin-wah, and then member Zhan Qingbo.\n\nThe prosecution alleged that Chong, Lam and To sought to offer bribes worth HK$2 million to Cheung, Zhan and other members of the owners' corporation in trying to win the HK$20 million contract.\n\nIn exchange, the chairman and member of the owners' corporation were asked to use their positions to have designated firms appointed as the building’s property management company and building works consultant – crucial steps in securing the contract.\n\nThe court also heard Chong, Lam and To asked Cheung and Zhan to praise companies linked to them within the owners’ corporation while belittling other contractors that offered lower prices.\n\nThe prosecution said the defendants had carefully planned to manipulate the tender process.\n\nIt said corruption and big-rigging activities in building renovation works would not only harm homeowners’ interests but also pose a threat to public safety.\n\nThe trial continues on Thursday.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T08:43:30.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877393-20261111.htm"
     },
     {
       "id": "040dc0304eb69ee1",
