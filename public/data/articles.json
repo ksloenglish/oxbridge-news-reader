@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T12:00:28.882Z",
-  "checkedAt": "2026-11-13T12:30:23.344Z",
+  "generatedAt": "2026-11-13T12:45:18.745Z",
+  "checkedAt": "2026-11-13T12:45:18.745Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -423,6 +423,17 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/pacific/2026/11/12/wine-bottle-shell-papua-new-guinea-png/"
+    },
+    {
+      "id": "5a100e1875ee1f99",
+      "title": "Maritime Week to open on Sunday",
+      "excerpt": "Hong Kong Maritime Week (HKMW) 2026 - a flagship annual maritime event anticipated worldwide - will be held for seven…",
+      "fullText": "Hong Kong Maritime Week (HKMW) 2026 - a flagship annual maritime event anticipated worldwide - will be held for seven consecutive days from Sunday, expected to attract over 18,000 participants to join its online and offline events.\n\nThe Transport & Logistics Bureau will also announce several important maritime-related deliverables during the week.\n\nThe HKMW is co-ordinated by the Hong Kong Special Administrative Region Government, organised by the Hong Kong Maritime & Port Development Board, and co-organised by the Hong Kong Shipowners Association and the Hong Kong Maritime Museum, with the Hong Kong Trade Development Council and Invest Hong Kong as partners.\n\nJointly hosted by more than 80 local, Chinese Mainland and overseas maritime organisations, there will be more than 60 events covering flagship forums, high-level seminars, industry exhibitions and business networking.\n\nPolicymakers, leaders of major international shipping organisations, business decision-makers, experts and industry elites from around the globe, including high-ranking government officials from Belt & Road countries will explore the latest development opportunities in the global maritime industry during the HKMW.\n\nThe National 15th Five-Year Plan Outline indicates clear support for Hong Kong in consolidating and enhancing its dual-hub status as an international maritime centre and an international aviation hub.\n\nFirst held in 2016, HKMW has evolved over the years into a premier international event for the maritime, port and logistics sectors. The Government will announce the new batch of partner ports, and will sign a number of maritime-related memoranda of understanding at its 10th anniversary.\n\nTo heighten public awareness of Hong Kong's thriving maritime development, the bureau has partnered with Television Broadcasts (TVB) to produce a 10-episode promotional drama series Navigating to the Future. The series will be broadcast from next Monday to November 27, every Monday to Friday, across channels 81, 82 and 83.\n\nAn array of community and youth engagement programmes will also be rolled out, including a maritime-themed carnival set on November 21 and 22.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_161937_701/images/20261113201411762.jpg",
+      "publishedAt": "2026-11-12T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_161937_701.html"
     },
     {
       "id": "8211ab9b38919004",
@@ -1061,17 +1072,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261111/20261111_134303_117.html"
-    },
-    {
-      "id": "a926c300712abec9",
-      "title": "HK 11th on digital competitiveness",
-      "excerpt": "Hong Kong has been ranked 11th globally and fourth in Asia in the World Digital & AI Ranking (WDAIR) 2026…",
-      "fullText": "Hong Kong has been ranked 11th globally and fourth in Asia in the World Digital & AI Ranking (WDAIR) 2026 index, published by the International Institute for Management Development (IMD).\n\nAmong the five factors under consideration, Hong Kong ranks inside the top 10 for workforce development, efficiency, and technology and infrastructure.\n\nIn terms of sub-factors, Hong Kong ranks top on technological framework (under technology and infrastructure), practices (under efficiency), and education and training (under workforce development). It also ranks inside the top 10 on talent (under workforce development), societal attitudes (under values) and regulatory framework (under governance).\n\nThe Government said that WDAIR 2026 recognises Hong Kong as one of the world’s most competitive economies for digital and AI development. It highlighted that Hong Kong’s First Five-Year Plan sets out a vision for the city’s development as an international centre for innovation and technology, one that has the full backing of the central authorities.\n\nIt iterated that Hong Kong will foster new industrialisation with regard for local circumstances, advance the Artificial Intelligence+ Initiative on all fronts, enhance computing infrastructure, support small-and-medium-sized enterprises in their adoption of AI, and empower different sectors of the economy through AI technology.\n\nIn terms of upstream research, the Government will build on the “dual base” advantages of the city’s InnoHK Research Clusters and State Key Laboratories, and advance the development of the Hong Kong Microelectronics Research & Development Institute, the Hong Kong Artificial Intelligence Research & Development Institute and the Life & Health Technology Research Institute.\n\nMeanwhile, the Government will accelerate the development of national strategic emerging industries and foster new quality productive forces, including through establishing Hong Kong’s first national manufacturing innovation centre.\n\nIt will also enhance the artificial intelligence (AI) ecosystem on multiple dimensions, including computing power, funding and risk management. Construction of the Sandy Ridge Data Facility Cluster is underway and the cluster is expected to be fully operational by 2032 or earlier, providing computing power of 180,000 peta-floating point operations per second, equivalent to 36 times Hong Kong’s current computing power.\n\nThe Government has also launched an AI Subsidy Scheme to support the industry in using high-performance computing power for frontier research, and is optimising the Digital Transformation Support Pilot Programme to provide matching subsidies to support more small and medium enterprises in applying AI and cybersecurity solutions.\n\nIn addition, the Government will continue to build digitally-led public services. The “iAM Smart” platform has achieved the goal of a single portal for online government services, with daily usage exceeding 220,000 interactions. The platform provides access to more than 1,400 online services.\n\nMeanwhile, the AI Efficacy Enhancement Team is driving government departments to apply AI technology. It has so far facilitated 30 projects involving 13 departments.\n\nGoing forward, the Government will aim to promote closer collaboration with the industrial, academic, research and investment sectors, consolidate and enhance Hong Kong’s competitive edge in the global market, and provide more convenient, efficient and reliable public services.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261111/20261111_111825_939/images/20261111123657034.jpg",
-      "publishedAt": "2026-11-10T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261111/20261111_111825_939.html"
     },
     {
       "id": "c8d03f9a0623f128",
