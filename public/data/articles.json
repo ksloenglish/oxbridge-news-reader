@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T09:00:26.779Z",
-  "checkedAt": "2026-11-13T09:15:18.442Z",
+  "generatedAt": "2026-11-13T09:30:22.614Z",
+  "checkedAt": "2026-11-13T09:30:22.614Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "5f61e6ba9d2aeed5",
+      "title": "Tech fallout weighs on HK, mainland markets",
+      "excerpt": "Regional stocks ended mostly lower after a turbulent week dominated by revelations of extramarital affairs involving Nvidia cofounder Jensen Huang…",
+      "fullText": "Regional stocks ended mostly lower after a turbulent week dominated by revelations of extramarital affairs involving Nvidia cofounder Jensen Huang that culminated in his resignation, in a blow to the global AI boom he helped advance.\n\nIn Hong Kong and the mainland, AI model stocks Z.AI and MiniMax Group fell sharply on worries of reduced access to advanced AI chips, while data centre suppliers Zhongji Innolight and Eoptolink Technology, whose businesses are heavily reliant on US markets, slumped.\n\nJon Zauderer, Citi's head of specialist sales and a TMT specialist, said competitors such as AMD, Arista and Broadcom could benefit from the Nvidia fallout.\n\nIn Hong Kong, the benchmark Hang Seng Index ended 370 points, or 1.5 percent, at 23,637 on turnover of HK$195.86 billion.\n\nThe tech index dived 118 points, or three percent, to 3,813 while the China Enterprises Index fell 119 points, or 1.5 percent, to 7,937.\n\nUp north, the Shanghai Composite Index fell 21 points, or 0.59 percent, to close at 3,634, on turnover of 770.6 billion yuan.\n\nThe Shenzhen Component Index was 229 points, or 2.05 percent, lower at 10,968 on turnover of 885 billion yuan while the ChiNext Index dived 83 points, or 3.32 percent, to close at 2,426 on turnover of 435.33 billion yuan.\n\nIn Tokyo, the Nikkei ended 322 points, or 0.53 percent, higher at 61,142 for the day to log its biggest weekly gain, 6.46 percent, in five months, as upbeat earnings and renewed AI optimism helped the market recover from the previous week's sharp selloff despite concerns surrounding Nvidia.\n\nThe broader Topix inched up four points, or 0.11 percent, to 3,941 for a weekly gain of 6.3 percent.\n\nIn Seoul, the Kospi closed 52 points, or 0,98 percent, lower for the day but posted a strong weekly gain of 4.56 percent, recovering from a 12 percent plunge the previous week. (Agencies)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T09:16:36.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877702-20261113.htm"
+    },
     {
       "id": "b766ed8bb3be16e0",
       "title": "Aussie captain denies claims of 2018 'sandpaper' plot",
@@ -401,6 +412,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_112504_613.html"
+    },
+    {
+      "id": "bfcd63d43f9cda42",
+      "title": "CE lauds HK’s Para Games athletes",
+      "excerpt": "Chief Executive John Lee today officiated at a Commendation Ceremony for the Hong Kong, China delegation to the 5th Asian…",
+      "fullText": "Chief Executive John Lee today officiated at a Commendation Ceremony for the Hong Kong, China delegation to the 5th Asian Para Games.\n\nHe presented certificates of commendation to the Hong Kong athletes in recognition of their outstanding performance in the games.\n\nSpeaking at the ceremony, Mr Lee said the delegation had demonstrated Hong Kong's \"persevering and never-give-up\" spirit on at the games. He added that the athletes’ outstanding achievements were supported by the dedication and hard work of the coaching team and medical support staff.\n\nThe Chief Executive iterated that the Hong Kong Special Administrative Region Government is fully committed to supporting para sports and elite athletes. Since April 2025, the Government has raised direct financial support for all elite athletes, including para-athletes, by 8.3% across the board. A Senior Squad category has been introduced into the elite tier for para-athletes, improving their training pathway.\n\nThe Hong Kong, China delegation of 80 athletes participated in 10 events at the games, which were held from October 18 to 24.\n\nThe delegation won 41 medals – three gold, 14 silver and 24 bronze – and achieved Hong Kong's best-ever haul in boccia of two gold, three silver and three bronze medals.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_133412_539/images/20261113170237054.jpg",
+      "publishedAt": "2026-11-12T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_133412_539.html"
     },
     {
       "id": "ee91da1c9f7591e0",
@@ -1239,17 +1261,6 @@
       "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/"
     },
     {
-      "id": "afc081cf8bba63e2",
-      "title": "HK stocks slip as mainland steadies on policy pledge",
-      "excerpt": "Mainland stocks ended higher on Monday, tracking gains in regional peers, while Beijing called for more efforts to stabilise the…",
-      "fullText": "Mainland stocks ended higher on Monday, tracking gains in regional peers, while Beijing called for more efforts to stabilise the market.\n\nIn Hong Kong, the benchmark Hang Seng Index inched down 32 points, or 0.1 percent, to end the day at 24,448 on turnover of HK$173.71 billion.\n\nThe tech index dropped 37 points, or 0.9 percent, to 4,040 while the China enterprises index fell 13 points, or 0.2 percent, to 8,260.\n\nOn the mainland, the Shanghai Composite Index rose 11 points, or 0.32 percent, to close at 3,660 on turnover of 682.53 billion yuan while the blue-chip CSI300 index inched up 0.1 percent.\n\nThe Shenzhen Component Index fell 30 points, or 0.27 percent, to 11,145, on turnover of 800 billion yuan while the ChiNext Index inched down six points, or 0.27 percent, to close at 2,458 on turnover of 402 billion yuan.\n\nShanghai's tech-focused Star50 index gained 0.3 percent.\n\nShanghai's gains followed a pledge by the State Council on Friday to improve mechanisms to stabilise the capital market and enhance the stock market's inherent stability, state television CCTV reported.\n\n\"China's economic data and equity performance have again breached policymakers' pain threshold, prompting fresh equity market support measures,\" analysts at Societe Generale said in a note.\n\n\"These may put a floor under sentiment, but sustained upside requires stronger corporate profits, hence better domestic demand and reflation – still elusive without more forceful fiscal support.\"\n\nChina's producer inflation accelerated to its fastest rate in nearly four-and-a-half years in October as higher global oil prices raised manufacturing costs, even as consumer inflation cooled amid weak domestic demand, data showed on Monday.\n\nChina's goods exports are expected to have surged by a third in October, a poll showed, a helpful offset to weak domestic demand even as a year-to-date trade surplus of more than US$1 trillion risks further antagonising trading partners.\n\nIn Tokyo, the Nikkei advanced 1,340 points, or 2.33 percent, to close at 58,775, recouping part of Friday's six percent slump.\n\nThe broader Topix climbed 110 points, or 2.97 percent, to 3,818.\n\nIn Seoul, the Kospi closed down 40 points, or 0.81 percent, at 5,018, the benchmark's lowest level in nine months, in a choppy trading session led by a slump in battery makers while a rebound in chipmakers capped losses.\n\nThe Kospi's losses came amid news that Nvidia chief Jensen Huang's daughter, Madison, cancelled a planned visit to Seoul for an Nvidia conference that was set to begin on Monday, according to companies she had been scheduled to meet.\n\nHer cancellation came as her father admitted on Sunday to having had an affair.\n\nNvidia's shares tumbled more than six percent in Frankfurt trading, extending last week's selloff and pushing the stock to fresh multi-month lows.\n\nAt those levels, the chipmaker stood to lose about US$270 billion from its closing price on Friday, according to LSEG Datastream.\n\n\"The market's probably telling you now this does no favours to the stock whatsoever in a time when there's a lot of conjecture as to the build-out of data centres,\" said Chris Weston, head of research at brokerage Pepperstone in Melbourne.\n\nBut Weston said he did not think Huang, whom he described as the \"godfather of AI\", would be replaced.\n\n\"If we genuinely thought he was going to step down ... the stock would be down – it would be an absolute bloodbath, to be honest,” he said. (Agencies)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T09:13:44.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877136-20261109.htm"
-    },
-    {
       "id": "c697afdda0a458c9",
       "title": "China slams 'baseless' claims it spied on Nvidia boss",
       "excerpt": "Beijing rejected on Monday claims that it had spied on Jensen Huang, chief executive of US chip giant Nvidia, calling…",
@@ -1336,17 +1347,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877057-20261109.htm"
-    },
-    {
-      "id": "319925547ff14f71",
-      "title": "Fake recycling scheme alert issued",
-      "excerpt": "The Environmental Protection Department (EPD) today urged the public to stay alert against a fraudulent \"Renewable Resource Recovery Incentive Scheme\"…",
-      "fullText": "The Environmental Protection Department (EPD) today urged the public to stay alert against a fraudulent \"Renewable Resource Recovery Incentive Scheme\" which falsely claims to offer subsidies for recycling.\n\nThe department noted it has recently received public enquiries regarding a recycling subsidy scheme purportedly launched in partnership with a commercial enterprise. It advised citizens not to believe the circulating publicity poster or any related information.\n\nThe EPD clarified that it has never jointly launched any project named the \"Renewable Resource Recovery Incentive Scheme\" with any organisations. It has also never authorised any individual or entity to use its name or logo for such publicity.\n\nUpon review, the department confirmed that both the EPD and enterprise logos featured on the poster are fake. The EPD has reported the incident to Police.\n\nThe department reminded members of the public not to trust posters, links or messaging apps from unknown sources, and to avoid participating in suspicious recycling subsidy activities. Citizens should also refrain from disclosing personal data or financial information to unverified parties.\n\nAnyone who has provided personal information or conducted transactions in connection with the fraudulent scheme should contact Police as soon as possible.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261109/20261109_213632_000/images/20261109223046150.jpg",
-      "publishedAt": "2026-11-08T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261109/20261109_213632_000.html"
     },
     {
       "id": "abfd936d2a964144",
