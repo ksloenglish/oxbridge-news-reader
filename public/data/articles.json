@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T05:00:27.800Z",
-  "checkedAt": "2026-11-13T05:00:27.800Z",
+  "generatedAt": "2026-11-13T05:15:22.613Z",
+  "checkedAt": "2026-11-13T05:15:22.613Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -95,10 +95,21 @@
   ],
   "articles": [
     {
+      "id": "da156aead8ef9779",
+      "title": "W Kowloon losses a time-lag problem: Bernard Chan",
+      "excerpt": "Heavy losses incurred by the West Kowloon Cultural District Authority are the result of a \"time-lag problem\" that ensues when…",
+      "fullText": "Heavy losses incurred by the West Kowloon Cultural District Authority are the result of a \"time-lag problem\" that ensues when cultural venues have opened but the commercial developments meant to support them have not yet been built, its chairman said.\n\nSpeaking on RTHK's On Broadcast Drive programme, Bernard Chan said the district already has two museums and two performance venues up and running but the revenue flowing in from the box office and venue hirings is far from enough to break even.\n\n\"No cultural facility anywhere in the world can balance its books solely on tickets, venue hire or dining,\" he said, pointing out that other cities are backed by all manner of subsidies.\n\n\"Some have very high taxes, so many funds and companies are very willing to donate because it reduces their tax bill. In places like Europe, most of it is government subsidies.\"\n\nThe commercial part of the development is only just getting under way, he said, with some projects due to open next year and others several years later, while spending on them has already begun – which is why the losses look so daunting.\n\nChan said he was determined to turn West Kowloon into both a cultural and a commercial centre as artistic undertakings need financial support to be sustainable, and the two have to coexist.\n\nHe noted that the national 15th Five-Year Plan supports Hong Kong deepening its development as a centre for cultural and artistic exchanges between the nation and the world.\n\nIn this regard, Chan said, the city's prolonged contact with the West lets it present Chinese culture in a way that audiences, including overseas visitors, can understand, making it a unique strength of the city.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T04:55:06.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877675-20261113.htm"
+    },
+    {
       "id": "2b5154725a22bcb2",
       "title": "Microsoft service disruption hits businesses, govts",
       "excerpt": "Microsoft services such as Outlook and Teams were disrupted for about 10 hours on Thursday as the tech giant struggled…",
-      "fullText": "Microsoft services such as Outlook and Teams were disrupted for about 10 hours on Thursday as the tech giant struggled to fix issues with some servers, hitting businesses and government agencies globally that use the popular platforms.\n\nIn its latest update, Microsoft said efforts to improve serviceability were not progressing as expected.\n\n\"We’re identifying alternate workstreams that can be applied to increase capacity in the face of sustained traffic management imbalances,\" it said.\n\nDowndetector, which tracks outages by collating status reports from a number of sources, showed more than 25,000 reports of Outlook problems in the US at 9.30 pm EST, or 10.30pm local time. It also showed outages for several Microsoft services in the Asia-Pacific region, including India, Australia and Japan.\n\nAt its peak, Downdetector showed more than 130,000 reports of Outlook problems in the US around 1pm EST on Thursday.\n\nIn a service health notice, Microsoft said features of Microsoft 365 services that depended on Exchange Online and email were affected, while elements that did not rely on Exchange Online remained functional. Exchange Online is the company's cloud-based messaging platform that delivers email, calendar, contacts, and tasks. (Reuters)\n\nEdited by Aaron Tam",
+      "fullText": "Microsoft services such as Outlook and Teams were disrupted for about 10 hours on Thursday as the tech giant struggled to fix issues with some servers, hitting businesses and government agencies globally that use the popular platforms.\n\nIn its latest update, Microsoft said efforts to improve serviceability were not progressing as expected.\n\n\"We’re identifying alternate workstreams that can be applied to increase capacity in the face of sustained traffic management imbalances,\" it said.\n\nDowndetector, which tracks outages by collating status reports from a number of sources, showed more than 25,000 reports of Outlook problems in the US at 9.30 pm EST, or 10.30am local time. It also showed outages for several Microsoft services in the Asia-Pacific region, including India, Australia and Japan.\n\nAt its peak, Downdetector showed more than 130,000 reports of Outlook problems in the US around 1pm EST on Thursday.\n\nIn a service health notice, Microsoft said features of Microsoft 365 services that depended on Exchange Online and email were affected, while elements that did not rely on Exchange Online remained functional. Exchange Online is the company's cloud-based messaging platform that delivers email, calendar, contacts, and tasks. (Reuters)\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-11-13T04:49:21.000Z",
       "source": "RTHK English — World",
@@ -863,17 +874,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877393-20261111.htm"
-    },
-    {
-      "id": "5b8c03adedddea48",
-      "title": "Lawmakers support NM bill as second reading resumes",
-      "excerpt": "Lawmakers have voiced their support for a bill that aims to fast track the development of the Northern Metropolis, as…",
-      "fullText": "Lawmakers have voiced their support for a bill that aims to fast track the development of the Northern Metropolis, as the second reading for the dedicated legislation resumed on Wednesday.\n\nAndrew Lam from the Election Committee noted that society had a strong consensus towards accelerating the mega project development in terms of speed, quality and efficiency.\n\n“The government, with the determination to break the shackles of the traditional systems, through special handling and the mindset of removing barriers and easing restrictions, established a brand new legal framework for the Northern Metropolis’ land development, infrastructure works, noise regulation, as well as cross-boundary flow of elements,\" he said.\n\nThe DAB’s Yiu Ming suggested the government step up the public’s right to know and oversight by reporting to lawmakers of the latest developments more frequently.\n\n“I think that the government, after the legislation is implemented, should regularly publish quantitative indicators, such as the average handling time for different types of projects,\" he said.\n\n\"At the same time, as the scale of the Northern Metropolis is enormous and involves large-scale land disposal, I suggest the government increase the frequency of reporting to the Legislative Council from once per year to once every six months.”\n\nTam Chun-kwok said the mega hub served as the new engine of the city’s future development, carrying important functions such as innovation and technology industries, higher education, modern logistics and high-quality living environment.\n\nThe project would be the main platform for the integrated development of education, technology and talent, he said, as well as for the SAR to integrate into and serve the nation's development.\n\nThe Bills Committee finished scrutinising the legislation in 12 meetings that took nearly 30 hours before the bill was tabled for the second reading debate.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T07:52:58.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877394-20261111.htm"
     },
     {
       "id": "040dc0304eb69ee1",
