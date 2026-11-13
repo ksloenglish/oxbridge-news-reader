@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T14:00:30.416Z",
-  "checkedAt": "2026-11-13T15:00:49.059Z",
+  "generatedAt": "2026-11-13T15:15:18.002Z",
+  "checkedAt": "2026-11-13T15:15:18.002Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 17
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 17
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "7d2f032003001fdb",
+      "title": "In Peru, Pope Leo makes emotional homecoming",
+      "excerpt": "Pope Leo XIV returned on Friday to his beloved former diocese of Chiclayo, an emotional homecoming that underscored his love…",
+      "fullText": "Pope Leo XIV returned on Friday to his beloved former diocese of Chiclayo, an emotional homecoming that underscored his love for his Peruvian flock and their pride that their shepherd now runs the Catholic Church.\n\nThe pope's Latam charter touched down at Chiclayo’s airport on the Pacific coast. On the side of the aircraft was the message that has followed Leo wherever he has gone in Peru: #LeonXIVvuelaaCasa (Leon XIV flies home).\n\nChiclayo, population 700,000, is the commercial hub of Peru’s northern Pacific coast. But much of the world heard about it on the night of Leo’s election, May 8, 2025, when he gave Chiclayo a shoutout, in Spanish, from the loggia of St. Peter’s Basilica.\n\nAnd on Friday, Chiclayo was welcoming its former shepherd home.\n\n“I’m so glad he’s returning,” said Rolando Antonio Mendoza, who was selling posters bearing the pope's image in front of the cathedral where Leo used to celebrate Mass.\n\n“Even though he’s now Pope Leo XIV, he hasn’t forgotten about his homeland.”\n\nChurch organisers say as many as a million people could turn out for Leo’s first big Mass in Peru, being held on Friday morning on a massive field outside Chiclayo.\n\nThe former Robert Prevost spent two decades as a missionary priest and bishop in Peru and credits the place and its people with teaching him how to be a shepherd. Pope Francis sent the Chicago-born Augustinian to take over as bishop of Chiclayo in 2014 and he stayed until Francis summoned him to Rome in 2023 to run the Vatican's bishops' office.\n\nIn hindsight, the 2023 transfer to Rome signalled that Francis saw in Prevost a potential successor, since the job is one of the most important in the church and would give Prevost the Vatican experience that many consider necessary to be a viable contender for the papacy.\n\nBut Prevost's heart is in Chiclayo, where he remains beloved for championing social justice issues and for his closeness to the people, especially poor people, during times of crisis. And he had quite a few during his tenure: Covid-19, devastating floods and a surge of Venezuelan migrants as the humanitarian situation worsened there in 2018.\n\n“Chiclayo is a party,” said Rocio Zena, who remembered how Prevost helped her when she lost her family home in the 2023 floods. “We’re overjoyed to welcome the Holy Father with so much faith. He arrives, no longer as Prevost but as Leo XIV. And he’s coming home.”\n\nIn town, the El Trebol restaurant proudly calls itself the restaurant of the pope and his image is displayed in framed photos of Prevost riding a horse, wading through the mud in rubber boots and celebrating his birthday with a cake.\n\nA sign on his favorite table – No. 3 – with a view of the cathedral, reads: “mesa bendita” – Spanish for blessed table. Like many other places around the city, the restaurant sells “Papaletas” or “Pop(e)sicles\" with Leo's image in white chocolate.\n\nEver since Leo touched down on Peruvian soil on Wednesday, the world has seen a very different pope.\n\nNormally reserved and placid, the 71-year-old Leo has seemed at turns positively giddy and overwhelmed with emotion to the point of tears.\n\nThat was certainly the case on Thursday night when some 60,000 young Peruvians sang for him in the Lima stadium. It was also the case when he sang the national anthem at the presidential palace upon his arrival on Wednesday.\n\nLeo has also sung along with popular songs and hymns, tapping his fingers to the beat on an armchair.\n\nOn other occasions, he has shown himself so relaxed and comfortable as to joke about his health. Speaking to Peruvian bishops, he joked about how some “doubting Thomases” didn’t think he’d make it because of his recent lung cancer surgery.\n\nAfter the Mass, Leo's other main events of the day include a meeting with Chiclayo clergy and seminarians and a speech to the Catholic university where he served as chancellor during his years as bishop.\n\nThe university is named for the 16th-century first archbishop of Lima, St. Turibius de Mogrovejo. (AP)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T15:01:12.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877749-20261113.htm"
+    },
     {
       "id": "821033aa25b3385e",
       "title": "Pochettino named Man United manager",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
-    },
-    {
-      "id": "9ae8a1e02c50d50c",
-      "title": "SED meets state leader in Beijing",
-      "excerpt": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in…",
-      "fullText": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in visiting a state leader and Ministry of Education officials in Beijing.\n\nMs Choi and the delegates were received by Vice-Chairperson of the National People's Congress Standing Committee Tie Ning at the Great Hall of the People this afternoon. They also met and exchanged views with officials from the ministry.\n\nMs Choi remarked that this year marks the 77th anniversary of the founding of the People's Republic of China, the 105th anniversary of the founding of the Communist Party of China, and the opening year of the National 15th Five-Year Plan.\n\nShe said it was highly significant for Hong Kong's education sector to visit Beijing ahead of National Day, on October 1, and to celebrate the motherland's birthday and experience a jubilant festive atmosphere with people in the capital.\n\nMs Choi highlighted that last week the Hong Kong Special Administrative Region Government announced its First Five-Year Plan, which aligns with the National 15th Five-Year Plan. She outlined that the Hong Kong's education sector faces multiple tasks, including digital education, talent cultivation and the integration of industry and education.\n\nShe said: “The delegation enabled teachers to gain insight into the latest education developments of the country and share experiences with Chinese Mainland teachers in areas such as operation models, curricula and teaching arrangements of schools at all levels.\n\n“It not only broadened their horizons but also fostered exchanges between the education sectors of both places, providing important references for the future development of Hong Kong's education and laying a foundation for deeper collaboration.”\n\nMs Choi and the delegation subsequently attended a banquet hosted by the Ministry of Education, where they engaged in in-depth discussions regarding professional connections and mutual learning between the education sectors of the two places.\n\nMs Choi and the delegation members will conclude their visit and return to Hong Kong tomorrow.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014/images/20260923195636768.jpg",
-      "publishedAt": "2026-09-22T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
     }
   ]
 }
