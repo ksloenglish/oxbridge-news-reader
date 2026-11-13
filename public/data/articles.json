@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T10:45:25.153Z",
-  "checkedAt": "2026-11-13T11:00:28.230Z",
+  "generatedAt": "2026-11-13T11:15:18.317Z",
+  "checkedAt": "2026-11-13T11:15:18.317Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -445,6 +445,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_112504_613.html"
+    },
+    {
+      "id": "b1a1090e169c9649",
+      "title": "Industry keen on HSK logistics",
+      "excerpt": "The invitation for expressions of interest (EOI) in the development of selected land parcels at the modern logistics cluster in…",
+      "fullText": "The invitation for expressions of interest (EOI) in the development of selected land parcels at the modern logistics cluster in the Hung Shui Kiu/Ha Tsuen New Development Area (HSK Logistics Cluster) closed today, with 16 submissions received from developers, logistics operators, logistics industry associations and professional services providers.\n\nThe Government has reserved approximately 32 hectares of land at the Hung Shui Kiu/Ha Tsuen New Development Area of the Northern Metropolis for the development of a modern logistics cluster to meet long-term demand for logistics land.\n\nJointly issued by the Transport & Logistics Bureau and the Civil Engineering & Development Department on August 13, the invitation for EOI covers the first batch of five selected sites within the HSK Logistics Cluster. The initiative aims to gauge market interest, collect industry feedback on development requirements, and refine land disposal arrangements ahead of upcoming tender exercises.\n\nThe bureau will now analyse the submissions to help finalise the tender requirements and land disposal terms. Tenders for the first available sites are expected to be invited towards the end of 2027 at the earliest, with the relevant tender to be awarded in 2028.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_165419_725/images/20261113183718765.jpg",
+      "publishedAt": "2026-11-12T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_165419_725.html"
     },
     {
       "id": "bfcd63d43f9cda42",
@@ -1215,17 +1226,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
-    },
-    {
-      "id": "44fbc769224efe91",
-      "title": "Harris Ho wins 2nd gold for HK, China",
-      "excerpt": "Secretary for Culture, Sports & Tourism Rosanna Law today congratulated fencer Harris Ho on winning a gold medal in the…",
-      "fullText": "Secretary for Culture, Sports & Tourism Rosanna Law today congratulated fencer Harris Ho on winning a gold medal in the Men's Foil Individual at the 4th Youth Olympic Games in Dakar, Senegal.\n\nThe victory marks the first gold medal ever won by the Hong Kong, China fencing team at the Games and the second gold medal won by the Hong Kong, China Delegation this year.\n\nMiss Law noted that the triumph adds to Mr Ho's recent string of major successes. Earlier this year, he won a gold medal in the Cadet Boys' Foil Individual (U17) at the 2026 World Junior & Cadet Fencing Championships in April and a silver medal as part of the Men's Foil Team at the Asian Games in September.\n\n“With an outstanding performance at the Youth Olympic Games this year, he overcame his opponents to secure the gold medal and set a historic milestone for a young Hong Kong fencing athlete.\n\n“All Hong Kong citizens take great pride in his remarkable achievement,” Miss Law added.\n\n​The 4th Youth Olympic Games are taking place from October 31 to November 13. Hong Kong sent a total of 15 athletes to compete in 12 sports and has so far won two gold, one silver and three bronze medals.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261110/20261110_131056_447/images/20261110153328673.jpg",
-      "publishedAt": "2026-11-09T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261110/20261110_131056_447.html"
     },
     {
       "id": "61fb78eb7bfdd288",
