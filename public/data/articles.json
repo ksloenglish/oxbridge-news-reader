@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T11:15:18.317Z",
-  "checkedAt": "2026-11-13T11:30:26.326Z",
+  "generatedAt": "2026-11-13T11:45:18.362Z",
+  "checkedAt": "2026-11-13T11:45:18.362Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -425,6 +425,17 @@
       "link": "https://rfa.org/english/pacific/2026/11/12/wine-bottle-shell-papua-new-guinea-png/"
     },
     {
+      "id": "8211ab9b38919004",
+      "title": "Sha Tin site to be sold",
+      "excerpt": "The Lands Department today announced that Sha Tin Town Lot No. 626, at the junction of Tai Chung Kiu Road…",
+      "fullText": "The Lands Department today announced that Sha Tin Town Lot No. 626, at the junction of Tai Chung Kiu Road and On Sum Street, in Shek Mun, will be sold by public tender.\n\nThe tender invitation for it, in the 2026-27 Land Sale List, will begin next Friday and close on December 18.\n\nThe lot is designated for non-industrial purposes, \"excluding godown, hotel and petrol filling station\".\n\nIt has a site area of about 8,015 sq m and its gross floor area will be between 29,816 sq m and 49,693 sq m.\n\nLand sale documents will be available on the Lands Department’s website from next Friday.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_181923_440/images/20261113191433859.jpg",
+      "publishedAt": "2026-11-12T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_181923_440.html"
+    },
+    {
       "id": "9a2e5cf6f633f87d",
       "title": "Subsidised flat measures enhanced",
       "excerpt": "The Housing Authority’s Subsidised Housing Committee today approved two enhancement measures in relation to subsidised sale flats (SSFs), to help…",
@@ -478,6 +489,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_110614_719.html"
+    },
+    {
+      "id": "f63bf36b5b6112b0",
+      "title": "Economy rises 5.2% in Q3",
+      "excerpt": "Underpinned by a further pick-up in external trade growth and solid domestic demand, Hong Kong's economy expanded strongly in the…",
+      "fullText": "Underpinned by a further pick-up in external trade growth and solid domestic demand, Hong Kong's economy expanded strongly in the third quarter of 2026, with real gross domestic product (GDP) rising 5.2% year on year.\n\nPresenting the Third Quarter Economic Report 2026 at a press conference today, Government Economist Irina Fan said that in the first three quarters, real GDP grew by 5.1% over a year earlier, which is the fastest pace in five years for the corresponding period.\n\nTotal goods exports surged 30.3% year on year in the third quarter, fueled by strong global demand for artificial intelligence-related electronics.\n\nDomestically, private consumption rose 2.9% for its sixth consecutive quarter of growth.\n\nFactoring in the results from the first three quarters and expectations of continued solid growth in the fourth, the full-year GDP growth forecast for 2026 has been revised up to 4.8%.\n\nLooking ahead, Ms Fan said that, supported by robust global AI investment and related trade, Hong Kong's economy is poised for a strong full-year performance.\n\n“Incoming data for entering the fourth quarter also points to sustained growth momentum. Domestic demand should stay resilient. However, uncertainty in the external environment persists, including those from geopolitical tensions, US monetary policy, and trade protectionist measures. So, all of these are worth closer monitoring.”\n\nShe noted that the overall inflation rate should remain moderate.\n\nTaking into account inflation in the first three quarters, the forecasts for the underlying and headline consumer price inflation rates for 2026 have been revised down to 1.9% and 2.0% respectively.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_174802_390/images/20261113190448119.jpg",
+      "publishedAt": "2026-11-12T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_174802_390.html"
     },
     {
       "id": "797501db02d09629",
@@ -1226,28 +1248,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/"
-    },
-    {
-      "id": "61fb78eb7bfdd288",
-      "title": "SME business receipts rise slightly",
-      "excerpt": "The current diffusion index (DI) on business receipts amongst small and medium-sized enterprises (SMEs) increased slightly from 43.7 in the…",
-      "fullText": "The current diffusion index (DI) on business receipts amongst small and medium-sized enterprises (SMEs) increased slightly from 43.7 in the contractionary zone in September to 43.8 in October, the Census & Statistics Department announced today. Meanwhile, the outlook DI on business receipts for November stood at 46.8.\n\nAnalysed by sector, current DIs on business receipts for several surveyed sectors rose in October compared with the previous month, most notably in the import and export trades, which climbed from 43.3 to 44.9. Over the same period, the current DI on new orders for the import and export trades increased from 44.3 in September to 44.6 in October, with the outlook DI for November projected at 47.4.\n\nThe Government noted that SME business sentiment remained broadly stable in October, while the overall DI on employment improved for the second consecutive month.\n\nLooking ahead, the Hong Kong economy has performed strongly so far this year and is expected to maintain solid growth, providing continued support for business confidence. However, persistent external uncertainties may continue to affect near-term sentiment, and the Government stated it will monitor the situation closely.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261110/20261110_183753_971/images/20261110193448361.jpg",
-      "publishedAt": "2026-11-09T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261110/20261110_183753_971.html"
-    },
-    {
-      "id": "d204dc157b7ac21e",
-      "title": "Northern Link Project pact signed",
-      "excerpt": "With the Chief Executive in Council approving the financial arrangement for Part 2 of the Northern Link (NOL) Project today…",
-      "fullText": "With the Chief Executive in Council approving the financial arrangement for Part 2 of the Northern Link (NOL) Project today, the Government and the MTR Corporation (MTRC) have executed the agreement for the full NOL Project.\n\nSecretary for Transport & Logistics Mable Chan and the MTRC Chairman Jacob Kim witnessed the representatives of the Transport & Logistics Bureau and the MTRC signing the agreement.\n\nThe milestone indicates that the NOL Main Line and Spur Line have fully entered the construction stage, targeting a simultaneous commissioning by 2034 or sooner.\n\nMs Chan noted that the venture is a strategic railway project under Hong Kong's First Five-Year Plan, actively aligning with the strategies set out in the National 15th Five-Year Plan Outline.\n\nProviding local commuting alongside cross-boundary railway services, the project will open up new transport corridors for both domestic and cross-boundary transit upon its full rollout.\n\nMs Chan said the project features three highlights - serving the Northern Metropolis, joining two lines, and linking the Greater Bay Area.\n\n“First, the project will serve as the main public transport backbone for several new development areas in the Northern Metropolis including the innovation and technology clusters in the San Tin Technopole and the Loop, driving the expedited development of the Northern Metropolis.\n\n“Secondly, the project will link the Tuen Ma Line and the East Rail Line to form a railway loop, significantly enhancing the coverage and resilience of the railway network.\n\n“Thirdly, the project will connect to the Huanggang Port, thereby integrating the metro networks of Hong Kong and Shenzhen and strengthening infrastructure interconnectivity in the Greater Bay Area.”\n\nTo enhance the speed and efficiency of railway development, over the past year the Government and the MTRC teams have taken forward a series of key initiatives to reduce cost and expedite construction.\n\nMs Chan highlighted that the time for handling building plans has been reduced by 30 to 50%. By implementing the NOL Main Line in combination with the Spur Line as one project, it will also advance the timetable of the Spur Line by two years to commission simultaneously with the Main Line by 2034 or earlier.\n\nThe estimated capital cost is verified to be about $54.8 billion. Together with the estimated capital cost for Part 1, the estimated capital cost of the entire NOL Project is about $86.2 billion, which is lower than the original estimate by 28%.\n\nThe Chief Executive in Council also approved the grant of sites at Ngau Tam Mei Area 3A, 3D and 4A; San Tin Area 2A and 2G; Kwu Tung North Area 23 and 26 (East); as well as part of the site for residential use in the proposed Au Tau New Development Area, to the MTRC for residential and commercial development under the \"Rail-plus-Property\" model.\n\nThe NOL Main Line involves the construction of a 10.7-kilometre-long underground railway and five stations. There will be two interchange stations at Kam Sheung Road Station and Kwu Tung Station connecting with the Tuen Ma Line and the East Rail Line respectively, as well as three intermediate stations at San Tin, Ngau Tam Mei and Au Tau.\n\nUpon commissioning, the travelling time between Kam Sheung Road and Kwu Tung during peak hours will be significantly reduced from the current 60 minutes to 12 minutes.\n\nThe Spur Line involves the construction of an underground railway of about 6 kilometres in length branching off from San Tin Station on the NOL Main Line, of which the Shenzhen section is approximately 1.1 kilometres long.\n\nThere will be three new stations, including intermediate stations at Chau Tau and the Loop, as well as the terminal at the Huanggang Port in Shenzhen. The travelling time between San Tin and the Huanggang Port is expected to be only about 11 minutes upon commissioning.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261110/20261110_173848_316/images/20261110193756421.jpg",
-      "publishedAt": "2026-11-09T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261110/20261110_173848_316.html"
     },
     {
       "id": "c697afdda0a458c9",
