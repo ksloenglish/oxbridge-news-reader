@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T15:15:18.002Z",
-  "checkedAt": "2026-11-13T20:30:37.827Z",
+  "generatedAt": "2026-11-13T20:45:17.566Z",
+  "checkedAt": "2026-11-13T20:45:17.566Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "6b1725db96d33b0c",
+      "title": "UN head urges climate summit to act now",
+      "excerpt": "UN Secretary-General Antonio Guterres on Friday called for an \"immediate and drastic reduction\" in greenhouse gas emissions, as divisions over…",
+      "fullText": "UN Secretary-General Antonio Guterres on Friday called for an \"immediate and drastic reduction\" in greenhouse gas emissions, as divisions over fossil fuels dominated the first week of COP31 climate talks in Turkey.\n\nBig fossil fuel producers and consumers at the talks are resisting any deal that would specify firm new targets or a shift away from oil, gas and coal, observers said as the first week of talks drew to a close.\n\nThat poses a challenge for summit host Turkey and lead negotiator Australia, which have another week to land the kind of ambitious agreement climate advocates such as Guterres say is needed.\n\n\"The central question is in the hands of member states, particularly the big emitters. They must recognise the need for an immediate and drastic reduction in emissions to keep the 1.5 goal still possible by the end of the century,\" he said, referring to the warming limit countries had agreed to pursue under the 2015 Paris Agreement.\n\nA UN report last month found the world is on course to exceed the 1.5 degrees Celsius (2.7 degrees Fahrenheit) warming threshold, a limit scientists say should prevent the worst effects of climate change.\n\nAs temperatures have risen, this year has been marked by extreme heatwaves across Western Europe and a glacier collapse in Nepal that triggered a flood that killed more than 1,450 people. Thousands more are still missing.\n\nMajor oil producers such as Saudi Arabia and Russia have traditionally resisted language constraining fossil fuels, while large developing economies such as India have opposed measures they say could limit their development and energy choices, a dynamic that has compromised the outcomes of past deals.\n\nThe world’s biggest oil consumer, the United States, meanwhile, has skipped the talks for the second year in a row under US President Donald Trump, who has called global warming a hoax and promoted continued use of fossil fuels.\n\n\"We must confront the disproportionate influence of the fossil fuel lobby. The future of our planet cannot be negotiated on the terms of those profiting from its destruction,\" said Guterres, who is leaving his job at the end of December after two five-year terms.\n\n\"But I remain hopeful. I've also seen something extraordinary over these 10 years. Renewable energy has moved from the margins to the mainstream. The economics have changed. The technology has advanced. A cleaner, safer, and more secure energy future is in our hands. The question is whether we have the courage and speed to reach for it.\"\n\nCop31 host Turkey is striving to place a proposal to expand global electrification at the centre of an eventual deal, saying the plan will lead to emissions cuts by speeding the shift away from fossil fuel-powered cars, boilers and other equipment.\n\nThe proposal does not require the increased electricity use to come from renewable sources, although some countries, including last year’s Cop host Brazil, are advocating for progress on a plan to require countries to more clearly map out their transition away from fossil fuels.\n\nKatrine Petersen, an observer for the non-governmental organisation E3G, said whether those measures survive the talks depends on conversations in the days to come.\n\n\"We've also heard quite clearly from countries like India, the G77, that they don't want any firm targets. They don't want any kind of technology or fuel-specific language,\" she said. \"(These are) the kind of consistent and ongoing divides that we've seen from those different parties before.\"\n\nRepresentatives from India, Saudi Arabia and Russia did not immediately comment.\n\nDiana Acconcia, head of the EU delegation, said Europe backed the electrification goal.\n\n\"Electrification is, in a way, an inclusive agenda because it is non-prescriptive in a way on how the electrification is achieved,\" she said. \"Of course, for the European Union electrification is to be achieved by clean sources of energy.\"\n\nThe Australian team, which is leading negotiations under a split presidency arrangement, spent the first few days of the summit gathering views on what should be included in a political text agreed by consensus that will be followed by all the negotiated technical points.\n\nAustralia is taking further submissions from countries until Saturday night, with a view to formulating a draft text early next week. (Reuters)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T20:28:42.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877765-20261114.htm"
+    },
     {
       "id": "7d2f032003001fdb",
       "title": "In Peru, Pope Leo makes emotional homecoming",
@@ -874,17 +885,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877454-20261112.htm"
-    },
-    {
-      "id": "fe2bfe64fe5e7202",
-      "title": "US Treasury chief relocates to base after Iran threat",
-      "excerpt": "US Treasury Secretary Scott Bessent has relocated from his home in the Washington area to a military base \"for his…",
-      "fullText": "US Treasury Secretary Scott Bessent has relocated from his home in the Washington area to a military base \"for his safety,\" an official source familiar with the situation confirmed on Wednesday – amid threats linked to Iran.\n\nBessent is the third senior official in US President Donald Trump's cabinet reported to have moved into military housing, following US Secretary of State Marco Rubio and US Defence Secretary Pete Hegseth.\n\nBessent has spearheaded a US push to cripple Iran's economy since the start of the Middle East war through a web of sanctions.\n\nBessent \"will not be deterred by the Iranian regime's threats\" and will continue implementing actions which are \"collapsing Iran's economy,\" a Treasury spokesperson said.\n\nUS national intelligence chief Jay Clayton warned last month that Tehran has \"substantially increased\" its efforts to target Americans in the Middle East and beyond.\n\nBessent's relocation came after officials determined the Treasury chief's Washington home could be geolocated following publication of a photo of the property.\n\n\"Security concerns began to increase which have now forced the Secretary to relocate to a military base for his safety,\" the source said. \"The news media has an obligation to act responsibly amid growing threats against public officials.\"\n\nWashington ordered non-essential US embassy staff and their families to leave Saudi Arabia last month, following increasing attacks from Tehran-backed Houthi fighters.\n\nThe US military has also removed some aircraft from two British bases in recent weeks following reported threats from Iran.\n\nDiplomatic efforts to end the war appear to be gathering steam, with Rubio saying on Tuesday that the US squeeze of Iran's economy made further attacks unnecessary. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T23:17:22.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877457-20261112.htm"
     },
     {
       "id": "a6408fac189bd906",
