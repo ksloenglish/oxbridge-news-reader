@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T04:45:26.915Z",
-  "checkedAt": "2026-11-13T04:45:26.915Z",
+  "generatedAt": "2026-11-13T05:00:27.800Z",
+  "checkedAt": "2026-11-13T05:00:27.800Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 19
     },
     {
       "id": "rthk-world",
@@ -50,7 +50,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 20
+      "articleCount": 19
     },
     {
       "id": "news-gov-hk-top",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "2b5154725a22bcb2",
+      "title": "Microsoft service disruption hits businesses, govts",
+      "excerpt": "Microsoft services such as Outlook and Teams were disrupted for about 10 hours on Thursday as the tech giant struggled…",
+      "fullText": "Microsoft services such as Outlook and Teams were disrupted for about 10 hours on Thursday as the tech giant struggled to fix issues with some servers, hitting businesses and government agencies globally that use the popular platforms.\n\nIn its latest update, Microsoft said efforts to improve serviceability were not progressing as expected.\n\n\"We’re identifying alternate workstreams that can be applied to increase capacity in the face of sustained traffic management imbalances,\" it said.\n\nDowndetector, which tracks outages by collating status reports from a number of sources, showed more than 25,000 reports of Outlook problems in the US at 9.30 pm EST, or 10.30pm local time. It also showed outages for several Microsoft services in the Asia-Pacific region, including India, Australia and Japan.\n\nAt its peak, Downdetector showed more than 130,000 reports of Outlook problems in the US around 1pm EST on Thursday.\n\nIn a service health notice, Microsoft said features of Microsoft 365 services that depended on Exchange Online and email were affected, while elements that did not rely on Exchange Online remained functional. Exchange Online is the company's cloud-based messaging platform that delivers email, calendar, contacts, and tasks. (Reuters)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T04:49:21.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877681-20261113.htm"
+    },
+    {
+      "id": "072b37d1c5de0961",
+      "title": "CE hails the SAR's 41 medals at Asian Para Games",
+      "excerpt": "Chief Executive John Lee on Friday praised Hong Kong athletes at a homecoming ceremony for the Hong Kong, China delegation…",
+      "fullText": "Chief Executive John Lee on Friday praised Hong Kong athletes at a homecoming ceremony for the Hong Kong, China delegation, after they won 41 medals at the fifth Asian Para Games.\n\nThe team won three gold, 14 silver and 24 bronze medals. More than 150 people were sent, including 80 elite athletes and more than 70 support staff, to compete in 10 sports.\n\nLee said the boccia team recorded its best-ever result, taking two gold, three silver and three bronze medals, while swimmers took one gold, three silvers and five bronzes. The table tennis team also collected 15 medals.\n\n\"You have proven through your actions that true strength lies in persistence and the courage to break through,\" he said.\n\n\"On the competitive stage of the Asian Para Games, you have shown the resilient Hong Kong spirit. Through your actions, you have told Hong Kong's story well and added glory to the nation's sporting development.\"\n\nThe government is providing about HK$71 million in 2026-27 for the Hong Kong Sports Institute to train elite athletes with disabilities, more than 50 percent higher than five years ago, Lee said.\n\nHe added that the government will continue to provide systematic training and all-round support for elite athletes with disabilities through the institute – including training venues, professional coaches, and sports science and sports medicine services, with the aim to help them keep improving and win more honours for Hong Kong, China on the international stage.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T04:44:37.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877678-20261113.htm"
+    },
     {
       "id": "225bf61ea291bef8",
       "title": "'Govt to check more items during lift inspections'",
@@ -689,17 +711,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877453-20261112.htm"
     },
     {
-      "id": "a82045f86d300a33",
-      "title": "Russia, Ukraine reach deal on prisoner swap",
-      "excerpt": "Russian and Ukrainian negotiators agreed to a major prisoner exchange at two days of peace talks in Abu Dhabi that…",
-      "fullText": "Russian and Ukrainian negotiators agreed to a major prisoner exchange at two days of peace talks in Abu Dhabi that ended on Wednesday, but US mediators said differences remained on major issues, including territory.\n\nAt their first negotiations in nine months, the two countries agreed in principle to exchange prisoners of war and to determine the numbers on Thursday.\n\nUS envoy Jared Kushner said the new swap would be the \"biggest humanitarian release of prisoners\" in the ongoing conflict, while Ukrainian President Volodymyr Zelensky said its scope would be \"significant.\"\n\nBoth Russia and Ukraine said that progress had been made in the Abu Dhabi talks and negotiations would continue. But there was little else in the way of concrete breakthroughs announced after the US-brokered meetings.\n\nKushner, US President Donald Trump's son-in-law, said mediators were appealing to each side's interests to end Europe's biggest conflict since World War Two and he expressed confidence they would find a pathway to peace.\n\nKyiv has strongly rejected Russian President Vladimir Putin's demands to surrender the whole of the eastern region of Donbas in return for peace. With talks deadlocked on land, US mediators have tried to steer discussions towards postwar security guarantees and reconstruction.\n\n\"The reality is there is no trust right now between the sides and that is to be expected after a conflict like this,\" Kushner said, adding that the talks had touched on territorial issues and that these would be the hardest to resolve.\n\n\"I think this was a good first step,\" he said.\n\nKushner said he and fellow US envoy Steve Witkoff will travel to Moscow on Thursday for talks with Putin, where they will raise the question of adding European partners to the talks, who Kushner said must be at the table.\n\nThe US negotiators then plan to fly to Ireland to meet with Zelensky, who is due to attend a meeting of European leaders there.\n\nZelensky told reporters in Dublin on Wednesday that Ukraine was focused on achieving progress on an accord this year.\n\n\"A lot will depend today on the format of the dialogue of the American and Russian sides tomorrow... I believe it is also very important for the Americans...to achieve a result this year, in my view, given what we are seeing happening,\" he said.\n\n\"And it seems to me that they really do want this very much.\"\n\nRussia and Ukraine accused each other of launching attacks overnight, despite the Abu Dhabi peace talks.\n\nRussia hit six electricity substations in central Ukraine, Ukrainian officials said, and an attack on a market in the Odesa region killed three people. A Ukrainian drone attack killed one person in Russia's Belgorod region, local officials said.\n\nUkrainian negotiator David Arakhamia said the talks had been tough, with Russia's delegation arriving with \"strict directives\", but the conversations provided \"good momentum\" towards reaching a solution by the end of the year.\n\nAlthough European officials and Nato representatives met US and Ukrainian envoys in Abu Dhabi, Russia's delegation refused to meet them. Arakhamia said future peace talks must be multilateral and include Europe at the table.\n\nRussia's chief negotiator, Vladimir Medinsky, told Russian state TV he thought a peace deal was closer after the talks but \"a great deal depends on Ukraine, on the US stance, and on whether Europe comes to its senses\".\n\nRussia has repeatedly criticised European military support for Ukraine. As the Trump administration has scaled back its direct aid to Ukraine, Europe has become the leading provider of finance and military support to Kyiv.\n\nReaffirming Moscow's long-standing demands, Medinsky told Russian state news agency TASS that \"every inch\" of Russian land would be returned to Russia – an apparent reference to Putin's insistence that Ukraine surrender all of the Donbas. (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T20:24:14.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877450-20261112.htm"
-    },
-    {
       "id": "f40e189e0b86ca8c",
       "title": "What to know about this year’s UN climate talks",
       "excerpt": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks…",
@@ -871,8 +882,8 @@
       "fullText": "Hong Kong should go after money that stays put, not cash that flees at the first wobble, the Financial Services Development Council said on Wednesday, in a push to tighten the city's hold as Asia's wealth-management hub.\n\nThe council has set out ways in a new report to attract this “patient capital” from pension funds and insurers at home, on the mainland and overseas.\n\nThe council's Vice-Chairman, Ding Chen, said the report aims to turn Hong Kong into a long-term capital hub.\n\n\"The central objective of this report is to make Hong Kong not only a place where capital is raised, and traded, but also place where capital is managed, invested, and reinvested over a longer period of time,\" she said.\n\nThe report says there should be more products investors can buy, including bonds and a wider range of stocks, with tighter risk controls.\n\nIt also calls for more cross-border channels, especially for pensions and insurance.\n\nRocky Tung, the council's executive director, said this stickier money could be \"the stabilising force\" amid market swings, which supports new financial products and backs growth that lasts.\n\n\"There is a lot of investment coming in and out of a market or an economy, and they are here only for the short run,\" he said.\n\n\"And with that in mind, if there is anything less than ideal, they would pull the money out of the market and subsequently the economy. So that will create a lot of turbulence and it will exaggerate the economic cycle.\n\n\"With patient capital, they have the mindset of a long-term vision, they are going to be the stabilising force.\"\n\nThe report noted that mainland insurers held 41.3 trillion yuan in assets at the end of last year, but only 5.4 percent of that is invested outside the mainland — well below the 15 percent they are allowed.\n\nMainland pension savings stood at 15.66 trillion yuan in 2024.\n\nThe report said that as populations age, demand for more diversified cross-border investment and a better match between assets and long-term liabilities would bring unprecedented growth opportunities for Hong Kong's patient capital.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-11T06:36:47.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877384-20261111.htm"
     },
     {
@@ -1391,17 +1402,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876928-20261107.htm"
-    },
-    {
-      "id": "fb849107f1240d1d",
-      "title": "Everton in fifth heaven in comeback win over Coventry",
-      "excerpt": "David Moyes said Thierno Barry had proved his point after the Everton striker's double inspired a 3-1 win against Coventry…",
-      "fullText": "David Moyes said Thierno Barry had proved his point after the Everton striker's double inspired a 3-1 win against Coventry on Friday.\n\nMoyes's side trailed to Yann Gboho's goal early in the second half at the Hill Dickinson Stadium.\n\nBut Barry proved too hot for Coventry to handle, netting twice in the space of just five minutes to turn the game in Everton's favour.\n\nBarry has already reached 10 goals this season, surpassing his total for the entire 2025-26 campaign.\n\nThat miserable first season with Everton following his move from Villarreal is quickly becoming a distant memory of the in-form 24-year-old, who has six goals in his last seven appearances in all competitions.\n\n\"We gave away a really poor goal but the reaction from there was really good. Important that Thierno Barry got another couple of goals tonight which was huge for us,\" Moyes said.\n\n\"He can smile at me now and say I told you so and that's good. We always liked him and we want him to keep scoring.\"\n\nBarry had been known for squandering chances that seemed impossible to miss last season, but he has been far more clinical this term.\n\n\"He's missed quite a few chances but tonight he got important goals for us,\" Moyes said after he equalled Harry Catterick's Everton record 592 games in charge.\n\n\"He's becoming an important piece for us and he's got 10 goals for us which is really good.\"\n\nAmong Premier League players, only Manchester City striker Erling Haaland has scored more goals than Barry in all competitions this season.\n\n\"I'm very happy because I'm a fan of him. I watch a lot of videos of him and try and do the things he does,\" Barry said.\n\n\"If I can stay with him until the end to get the Golden Boot I will try.\"\n\nEverton are up to fifth place following their third successive win in all competitions.\n\n\"We got a performance and we got a result but I have to say Coventry made it really difficult for us. In the end we got the goals which mattered,\" Moyes said.\n\nCoventry boss Frank Lampard was left frustrated with a pair of rejected penalty appeals that could have turned the match in his side's favour.\n\nLampard, who managed Everton from January 2022 to January 2023, said: \"Big decisions affected the game, clearly.\n\n\"VAR looked at them. The James Tarkowski hair pull on Caleb Yirenkyi, then Vitaliy Mykolenko on Taiwo Awoniyi, I think he gets contact on the edge of the box which is a penalty.\n\n\"The second goal for them comes off the player's hand. If you're going to check the angles, there is an angle where it flicks in off his hand. VAR looked at it and decided not.\n\n\"The last touch to score is off the hand, in my opinion. I've seen a conclusive angle so I can disagree.\" (AFP)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-07T04:14:58.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876924-20261107.htm"
     },
     {
       "id": "c38163a592cc47d9",
