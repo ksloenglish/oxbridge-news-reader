@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T12:45:18.745Z",
-  "checkedAt": "2026-11-13T13:00:30.380Z",
+  "generatedAt": "2026-11-13T13:15:21.628Z",
+  "checkedAt": "2026-11-13T13:15:21.628Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "8e68b92bb8efbe62",
+      "title": "14-month-old baby girl dies from flu",
+      "excerpt": "Health authorities said on Friday that a 14-month-old baby girl with severe influenza has died, the third child flu death…",
+      "fullText": "Health authorities said on Friday that a 14-month-old baby girl with severe influenza has died, the third child flu death in Hong Kong this year.\n\nThe toddler, who had been in good health, developed a fever and cough in late October and was taken to Tseung Kwan O Hospital after suffering a convulsion.\n\nHer condition deteriorated and she was transferred to the paediatric intensive care unit of United Christian Hospital before passing away on Friday.\n\nIn a statement, the Centre for Health Protection said the latest surveillance data showed overall influenza activity has declined but remains above baseline levels.\n\nThe centre noted that a cumulative total of 29 severe paediatric influenza cases have been recorded since the start of the current flu season in June.\n\nApart from the three fatalities, 22 have recovered and been discharged, two are in stable condition and two in critical condition.\n\nHealth authorities urged members of the public to promptly receive the seasonal influenza vaccine if they have not yet done so.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T13:05:20.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877739-20261113.htm"
+    },
+    {
+      "id": "b0229af3e0e24768",
+      "title": "Evening News on TV32 - Nov 13",
+      "excerpt": "Top stories for Friday, Nov 13, 2026 - Lawmakers raise concerns over the faulty lifts saga at Queen Mary Hospital…",
+      "fullText": "Top stories for Friday, Nov 13, 2026\n\n- Lawmakers raise concerns over the faulty lifts saga at Queen Mary Hospital.\n\n- The Housing Authority makes it easier for young families to buy a home.\n\n- A major Microsoft outage causes disruption across the world.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T12:43:45.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877729-20261113.htm"
+    },
     {
       "id": "9e2d96a4c89a853a",
       "title": "Govt raises full-year GDP growth forecast to 4.8pc",
@@ -953,17 +975,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877437-20261111.htm"
     },
     {
-      "id": "bb7dd0632bfded07",
-      "title": "Abby Choi killed by ex-husband, court heard",
-      "excerpt": "The former brother-in-law of celebrity Abby Choi told the High Court on Wednesday that his brother – her ex-husband –…",
-      "fullText": "The former brother-in-law of celebrity Abby Choi told the High Court on Wednesday that his brother – her ex-husband – killed her.\n\nOn the 35th day of the trial, Kwong Kong-kit was asked by his counsel who killed Choi.\n\nKwong, who did not respond at first, said it was his brother after the Deputy High Court Judge Brian Keith said he noted Kwong had nodded, telling him to answer the defence’s question.\n\nKwong also said he did not know that Choi would be killed or hurt on the day of the incident.\n\nThe former brother-in-law told the court that he attended a gathering with Choi and her husband a week prior to the incident, saying it was the last time that he had a meal with Choi.\n\nKwong Kong-kit, Choi’s ex-husband Kwong Kong-chi, and her former father-in-law Kwong Kau, were charged with murdering Choi on February 21, 2023 at Lung Mei Village in Tai Po, and with preventing the lawful burial of her body.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T10:43:38.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877419-20261111.htm"
-    },
-    {
       "id": "833d7709d3697039",
       "title": "Mainland stocks edge higher, HK shares end down",
       "excerpt": "Hong Kong's stock market ended lower on Wednesday, with the Hang Seng Index down 0.98 percent to close at 24,315…",
@@ -973,17 +984,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877410-20261111.htm"
-    },
-    {
-      "id": "b6bb9cf01ce26be8",
-      "title": "HK ranks 11th in digital and AI competitiveness",
-      "excerpt": "Hong Kong is 11th in the world and fourth in Asia for digital and artificial intelligence competitiveness, according to a…",
-      "fullText": "Hong Kong is 11th in the world and fourth in Asia for digital and artificial intelligence competitiveness, according to a ranking unveiled on Wednesday.\n\nThe International Institute for Management Development's World Digital and AI Ranking 2026 covered 70 economies.\n\nHong Kong ranked second for workforce development, fifth for efficiency and 10th for technology and infrastructure.\n\nIt came first worldwide in technological framework, practices, and education and training at the sub-factor levels.\n\nThe government said the result recognised Hong Kong as one of the world's most competitive economies in digital and AI development.\n\n\"Following the directions set out in the First Five-Year Plan for Economic and Social Development of the Hong Kong Special Administrative Region, the Hong Kong Special Administrative Region Government is fully committed to developing Hong Kong into an international I&T centre,\" a spokesman said in a statement.\n\n\"Among other things, Hong Kong will enhance the institutional framework for I&T development, expedite the alignment with key national strategies in technology, and develop the new 'three major I&T parks and five key research and development (R&D) institutions' paradigm.\"\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T08:55:59.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877397-20261111.htm"
     },
     {
       "id": "5662d19356e8b337",
