@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T04:00:29.373Z",
-  "checkedAt": "2026-11-13T04:00:29.373Z",
+  "generatedAt": "2026-11-13T04:15:18.162Z",
+  "checkedAt": "2026-11-13T04:15:18.162Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "3a348ef89f92096f",
+      "title": "Lawmakers concerned over QMH lift faults",
+      "excerpt": "Lawmakers voiced concern on Friday over the seriousness of the lift faults at Queen Mary Hospital's new clinical block, after…",
+      "fullText": "Lawmakers voiced concern on Friday over the seriousness of the lift faults at Queen Mary Hospital's new clinical block, after Secretary for Development Bernadette Linn reported the investigation findings to a special meeting of the Legislative Council.\n\nLinn told the development panel meeting the main contractor and subcontractor bear the main responsibility for the lift faults, while those responsible for monitoring, including government staff, also had failings in management and supervision.\n\n\"First, the main contractor and the lift subcontractor carried out inaccurate works, the workmanship was poor, and follow-up was sloppy,\" she said.\n\n\"Second, the inspection, testing and approval plan drawn up by the main contractor for the lift installation had omissions, and neither the professionals it hired nor Architectural Services Department staff followed them up.\"\n\nShe said the problem was not systemic as the works-supervision system itself is in place, but the project team did not carry it out properly, so the shortcoming was in execution.\n\nDAB's vice chairman Chan Hok-fung described the case as a \"perfect storm\".\n\n\"Every link fell a little short, and these shortcomings came together, leading to such a big incident,\" he said.\n\n\"You can say it is the system or you can say it is the people, but after reading the report the system is actually sound – there are three layers of approval, three layers of structure, and many people were watching throughout the process. So why could it not be done? I agree that the problem with people is very serious, and that is the most critical point in this case.\"\n\nLiberal Party's vice chairman Lee Chun-keung called some aspects of the incidents unbelievable.\n\n\"It now looks very much like a deliberate, chain-by-chain cover-up – but in the end, they couldn't wrap fire in paper. By the time it reached the Hospital Authority, the whole thing had gone wrong,\" he said.\n\n\"Why the Hospital Authority was still allowed to use the lifts? Some of these things are truly unbelievable and baffling.\"\n\nLinn said the investigation found that staff from the Architectural Services Department were negligent when issuing the completion certificate, while there were also shortcomings in how the Electrical and Mechanical Services Department issues lift use permits.\n\nFaults among the 28 lifts have delayed the building's full opening.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T04:04:27.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877667-20261113.htm"
+    },
     {
       "id": "d657eec2cf318316",
       "title": "Xi Jinping to chair Apec summit in Shenzhen",
@@ -852,17 +863,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877370-20261111.htm"
-    },
-    {
-      "id": "e32879780e0a6488",
-      "title": "Govt staff to get 12 hours of family care leave",
-      "excerpt": "Government employees will be able to leave work for a few hours at a time to look after family, under…",
-      "fullText": "Government employees will be able to leave work for a few hours at a time to look after family, under a new leave arrangement of up to 12 hours a year expected to start in January.\n\nStaff can use it to take a relative to a medical appointment, care for someone who is ill, attend a child's school activity, or deal with a sudden matter at home.\n\nIn a paper submitted to a Legislative Council panel, the government said the leave would be taken in blocks of one to four hours, and unused hours cannot be carried over.\n\nIn most cases, staff would only need to file a form with a reason beforehand, with no supporting documents required.\n\nIf something crops up suddenly, they can get verbal approval first and submit the form afterwards.\n\nApproving officers could still ask for proof if they suspect abuse.\n\nThe scheme was announced in this year's Policy Address and would be the fourth type of family-related leave for government employees.\n\nThe Civil Service Bureau is still settling the details and will consult staff sides before it is rolled out.\n\nSince April 2024, more than 7,500 marriage-leave and 23,000 compassionate-leave applications have been approved.\n\nAbout 15,600 parental-leave applications have been approved since that leave began in April last year.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T04:27:49.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877365-20261111.htm"
     },
     {
       "id": "9df60de7a02b967a",
