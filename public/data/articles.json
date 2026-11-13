@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T03:15:16.402Z",
-  "checkedAt": "2026-11-13T03:30:33.237Z",
+  "generatedAt": "2026-11-13T03:45:18.341Z",
+  "checkedAt": "2026-11-13T03:45:18.341Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "9c14a7b3edc01fc6",
+      "title": "Japanese PM to attend Shenzhen Apec meeting",
+      "excerpt": "Tokyo on Friday said Japanese Prime Minister Sanae Takaichi will visit China next week for the first time since she…",
+      "fullText": "Tokyo on Friday said Japanese Prime Minister Sanae Takaichi will visit China next week for the first time since she took office, attending an Asia-Pacific summit in Shenzhen.\n\n\"Prime Minister Takaichi is scheduled to visit the Philippines and China from November 16 to 19 to attend Asean-related summit meetings and the Apec summit,\" said deputy chief cabinet secretary Masanao Ozaki.\n\nAt Apec, Ozaki said Takaichi – who became Japan's leader last October – would discuss issues such as \"trade and investment, regional economic integration, economic and energy resilience, the digital economy ... and present Japan's position on these matters\".\n\nBefore the Shenzhen trip she will head to Manila for a meeting of the 11-nation Association of Southeast Asian Nations.\n\nOzaki said a Quad meeting – which would include the leaders of Australia, India, Japan and the United States – is being arranged on the sidelines of the Asean meeting.\n\nIn a policy address last month, Takaichi called China an \"important neighbour\" and pledged to build a stable relationship. (AFP)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T03:32:35.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877662-20261113.htm"
+    },
     {
       "id": "dd7b8569299e772b",
       "title": "HK stocks slip as region finds feet after Nvidia shock",
@@ -709,17 +720,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877443-20261111.htm"
-    },
-    {
-      "id": "9881c4d84f0a1a9f",
-      "title": "Schools evacuated across Italy after bomb threats",
-      "excerpt": "Schools were evacuated across Italy on Wednesday following a series of hoax bomb threats, but Italian Prime Minister Giorgia Meloni…",
-      "fullText": "Schools were evacuated across Italy on Wednesday following a series of hoax bomb threats, but Italian Prime Minister Giorgia Meloni said there was no \"concrete danger\".\n\nSimilar hoax threats were reported in schools in Britain and Ireland, which reportedly prompted some evacuations in Scotland.\n\nMeloni said she had called a government meeting with security and intelligence chiefs for Wednesday to discuss the threats.\n\nEducation Minister Giuseppe Valditara said 312 schools had received the threats but urged people not to panic, according to Italian media.\n\nCrowds of evacuated schoolchildren could be seen outside their schools in different parts of the country.\n\nSome said they had to evacuated quickly and left belongings inside that they could not recover before police checks.\n\n\"The principal came out into the courtyard and told us that an email had come in, a bomb threat, and right after that the building was evacuated,\" Sofia De Ponte, a 19-year-old student at Rome's Virgilio high school, said.\n\nDe Ponte said the police had still not arrived because \"there's a long waiting list with all the schools\".\n\n\"We're still here waiting,\" said her fellow pupil Elena Sicignano, 19.\n\nVioletta Uboldi, an art teacher at Brera school in Milan, said children appeared happy at being evacuated.\n\n\"I think there was a cry of joy because school was over. That was the reaction,\" she said.\n\nBut Angelica, 16, a student at the school, said she was told by a teacher that it was not a drill \"so we panicked a bit\".\n\nItalian media reports said the bomb threat was in an email purportedly from a \"Mikhail Andropov, leader of the Vilayat of Misoginistan\".\n\n\"I have just left in your building, inside a plastic bag, a powerful explosive with remote detonation,\" the email said.\n\nThe government sought to play down the incident.\n\n\"At present, based on the checks carried out, no element has emerged that would suggest there is a concrete danger,\" Meloni said in a Facebook post.\n\n\"The reports instead appear to be linked to a strategy aimed at generating alarm and concern, which is currently the subject of all the necessary in-depth investigations,\" Meloni said. (AFP)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T14:17:15.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877441-20261111.htm"
     },
     {
       "id": "7dcaa30178c3f369",
