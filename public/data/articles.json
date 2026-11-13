@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T04:15:18.162Z",
-  "checkedAt": "2026-11-13T04:15:18.162Z",
+  "generatedAt": "2026-11-13T04:30:22.015Z",
+  "checkedAt": "2026-11-13T04:30:22.015Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "225bf61ea291bef8",
+      "title": "'Govt to check more items during lift inspections'",
+      "excerpt": "Secretary for Development Bernadette Linn on Friday said the government would improve its acceptance-inspection regime for lifts. Her remarks came…",
+      "fullText": "Secretary for Development Bernadette Linn on Friday said the government would improve its acceptance-inspection regime for lifts.\n\nHer remarks came after authorities found that 720 lifts installed by Taizoom Elevator were missing mandatory fire resisting door frame components.\n\nSpeaking at a special meeting of the Legislative Council’s Panel on Development, Linn said the Electrical and Mechanical Services Department’s on-site inspections only focused on safe-related components, which should be further expanded to cover other parts.\n\n“For other areas, such as the lift’s smoothness and its door frame, we have to admit that under the current mechanism, we mainly relied on registered lift engineers to carry out inspection without checking on-site,” she said.\n\n“We think this is a point that must be adjusted in the acceptance-inspection regime in the future.”\n\nLinn said she hoped the department could finish reviewing its mechanism by the end of the year.\n\n“We don’t want to bring in an independent third party every time a problem arises in the regulatory authorities, because it would only result in layer upon layer of regulation while increasing the costs,” she said.\n\n“Also, don’t forget that even a third party itself might fail to comply with the rules.”\n\nLinn said the authorities would conduct spot checks when non-governmental personnel are involved in building works and impose punishments that carry a deterrent effect.\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T04:14:40.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877671-20261113.htm"
+    },
     {
       "id": "3a348ef89f92096f",
       "title": "Lawmakers concerned over QMH lift faults",
@@ -852,17 +863,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877384-20261111.htm"
-    },
-    {
-      "id": "93e2b97f350ccc84",
-      "title": "'One Stanley steel work different from approved plans'",
-      "excerpt": "Development minister Bernadette Linn said on Wednesday that the Buildings Department has found that steel reinforcement work at a house…",
-      "fullText": "Development minister Bernadette Linn said on Wednesday that the Buildings Department has found that steel reinforcement work at a house in a luxury residential development in Stanley did not match the approved plans.\n\nThe investigation was carried out after the residence at One Stanley was alleged to be built with fewer steel bars than approved.\n\n“The Buildings Department has largely completed its investigation, and found that some wire mesh and steel configurations were inconsistent with the approved plans,” Linn said during a Legco meeting.\n\n“The discrepancies were never reported to the authorities.”\n\nShe said the department will consult the Department of Justice on possible prosecution.\n\nLinn also said checks would be carried out elsewhere at the luxury development.\n\n“The Buildings Department has ordered random inspections for 15 other houses and 12 units at six residential blocks in the same housing estate, requiring the developer to appoint independent, accredited laboratories, and under the supervision of authorities, to carry out relevant tests.”\n\nShe said enforcement actions will be taken if violations are found.\n\nIn light of the case at One Stanley, the secretary for development said contractors will have to take photos or videos of steel reinforcement work prior to concrete pouring at projects, and submit the record to the authorities.\n\nShe expects relevant measures to be implemented in phases by January, adding that discussions with the industry are currently under way.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T04:44:48.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877370-20261111.htm"
     },
     {
       "id": "9df60de7a02b967a",
