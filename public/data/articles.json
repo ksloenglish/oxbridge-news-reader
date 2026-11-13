@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T06:00:26.445Z",
-  "checkedAt": "2026-11-13T06:45:19.022Z",
+  "generatedAt": "2026-11-13T07:00:27.286Z",
+  "checkedAt": "2026-11-13T07:00:27.286Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -95,6 +95,17 @@
   ],
   "articles": [
     {
+      "id": "f11d62e23712ab14",
+      "title": "Bitter pill for rivals as Eli Lilly scores China first",
+      "excerpt": "China has approved its first orally administered GLP-1 weight-loss drug, permitting Eli Lilly to sell its orforglipron pill in a…",
+      "fullText": "China has approved its first orally administered GLP-1 weight-loss drug, permitting Eli Lilly to sell its orforglipron pill in a market where 630 million adults could be overweight or obese by 2050.\n\nGLP-1 drugs aid weight loss by mimicking a natural gut hormone that suppresses appetite and regulates blood sugar levels.\n\nThe medication has soared in popularity in recent years, with drugmakers now competing to release pills as an alternative to existing injection treatments.\n\nThe National Medical Products Administration said on Thursday it had approved US-based pharmaceutical giant Eli Lilly's pills, marketed as \"Muyouda\", to treat obese or overweight adults with at least one weight-related condition.\n\nThe American company's once-daily pills were approved in the United States in April.\n\nIt has beaten competitors such as Danish firm Novo Nordisk – which makes Wegovy – to be the first to gain approval for an oral version of the medicine in China.\n\nGLP-1 injections from Eli Lilly, Novo Nordisk, and domestic firm Innovent are already widely available in the country.\n\nThe Chinese market for weight-loss treatments is growing rapidly.\n\nThe number of obese or overweight adults in China could reach 630 million by 2050, according to a 2025 study published in The Lancet.\n\nThe National Health Commission has warned that 65 percent of China's population will be obese or overweight by 2030. (AFP)\n\nEdited by Aaron Tam",
+      "imageUrl": null,
+      "publishedAt": "2026-11-13T06:48:10.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877688-20261113.htm"
+    },
+    {
       "id": "da156aead8ef9779",
       "title": "W Kowloon losses a time-lag problem: Bernard Chan",
       "excerpt": "Heavy losses incurred by the West Kowloon Cultural District Authority are the result of a \"time-lag problem\" that ensues when…",
@@ -109,7 +120,7 @@
       "id": "2b5154725a22bcb2",
       "title": "Microsoft service disruption hits businesses, govts",
       "excerpt": "Microsoft services such as Outlook and Teams were disrupted for about 10 hours on Thursday as the tech giant struggled…",
-      "fullText": "Microsoft services such as Outlook and Teams were disrupted for about 10 hours on Thursday as the tech giant struggled to fix issues with some servers, hitting businesses and government agencies globally that use the popular platforms.\n\nIn its latest update, Microsoft said efforts to improve serviceability were not progressing as expected.\n\n\"We’re identifying alternate workstreams that can be applied to increase capacity in the face of sustained traffic management imbalances,\" it said.\n\nDowndetector, which tracks outages by collating status reports from a number of sources, showed more than 25,000 reports of Outlook problems in the US at 9.30 pm EST, or 10.30am local time. It also showed outages for several Microsoft services in the Asia-Pacific region, including India, Australia and Japan.\n\nAt its peak, Downdetector showed more than 130,000 reports of Outlook problems in the US around 1pm EST on Thursday.\n\nIn a service health notice, Microsoft said features of Microsoft 365 services that depended on Exchange Online and email were affected, while elements that did not rely on Exchange Online remained functional. Exchange Online is the company's cloud-based messaging platform that delivers email, calendar, contacts, and tasks. (Reuters)\n\nEdited by Aaron Tam",
+      "fullText": "Microsoft services such as Outlook and Teams were disrupted for about 10 hours on Thursday as the tech giant struggled to fix issues with some servers, hitting businesses and government agencies globally that use the popular platforms.\n\nIn its latest update, Microsoft said efforts to improve serviceability were not progressing as expected.\n\n\"We’re identifying alternate workstreams that can be applied to increase capacity in the face of sustained traffic management imbalances,\" it said.\n\nDowndetector, which tracks outages by collating status reports from a number of sources, showed more than 25,000 reports of Outlook problems in the US at 9.30pm EST, or 10.30am local time. It also showed outages for several Microsoft services in the Asia-Pacific region, including India, Australia and Japan.\n\nAt its peak, Downdetector showed more than 130,000 reports of Outlook problems in the US around 1pm EST on Thursday.\n\nIn a service health notice, Microsoft said features of Microsoft 365 services that depended on Exchange Online and email were affected, while elements that did not rely on Exchange Online remained functional. Exchange Online is the company's cloud-based messaging platform that delivers email, calendar, contacts, and tasks. (Reuters)\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-11-13T04:49:21.000Z",
       "source": "RTHK English — World",
@@ -1424,17 +1435,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/korea/2026/11/07/north-korea-orphanage-birth-rate/"
-    },
-    {
-      "id": "241d274504cae706",
-      "title": "Former Macao lawmaker jailed 12.5 years",
-      "excerpt": "Former Macao lawmaker Au Kam-san was jailed for 12-and-a-half years on Friday in the territory's first national security case. That…",
-      "fullText": "Former Macao lawmaker Au Kam-san was jailed for 12-and-a-half years on Friday in the territory's first national security case.\n\nThat came after the court convicted him on one count of subverting state power, two counts of establishing links with organisations, groups or individuals outside the Macao SAR to endanger national security, and one count of breach of secrecy.\n\nThe Court of First Instance said the proceedings carefully assessed all the evidence and found most of the indictment facts proven.\n\nAu did not dispute most of the basic facts and admitted colluding and conspiring with overseas organisations, it said.\n\nThe court said he had long personally helped hostile overseas organisations collect, prepare and openly spread political advocacy aimed at subverting state power, as well as false and clearly distorted images and information.\n\nThat was done, it said, to stir hatred among Macao residents against the Central People's Government and seek to overthrow the fundamental system under China's Constitution.\n\nOn the secrecy charge, Au, as a Legislative Assembly member, leaked secret contents from a closed-door committee meeting in 2021 to an overseas organisation, risking very serious consequences.\n\nThe Hong Kong and Macao Affairs Office said national security is a red line that must not be crossed.\n\nIn an article, it criticised Au for long colluding with external forces under the banners of so-called \"democracy\" and \"freedom\" to engage in anti-China, destabilising activities in Macao, seriously endangering national security and harming Macao's prosperity and stability.\n\nIt says the judgement forcefully upholds the authority of the rule of law, adding that anyone or any organisation that dares to endanger national security will be severely punished by law.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-06T08:53:30.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876831-20261106.htm"
     },
     {
       "id": "03968e731bd55771",
