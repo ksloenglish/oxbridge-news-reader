@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T05:15:22.613Z",
-  "checkedAt": "2026-11-13T05:45:20.645Z",
+  "generatedAt": "2026-11-13T06:00:26.445Z",
+  "checkedAt": "2026-11-13T06:00:26.445Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -346,6 +346,17 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/pacific/2026/11/12/wine-bottle-shell-papua-new-guinea-png/"
+    },
+    {
+      "id": "a6886e63cc447cdc",
+      "title": "HK to set up new drug regulator",
+      "excerpt": "The Centre for Medical Products Regulation Bill was published today in the Government Gazette, establish statutory status for the Centre…",
+      "fullText": "The Centre for Medical Products Regulation Bill was published today in the Government Gazette, establish statutory status for the Centre for Medical Products Regulation (CMPR) and to allow the regulatory framework for Chinese and Western medicines and medical devices to be unified in the future.\n\nThe bill will be introduced into the Legislative Council for first reading on November 25.\n\nThe bill includes three major proposals. First, to establish the CMPR as a body corporate to represent Hong Kong, China in international regulatory affairs concerning medical products and establish formal, long-term working relationships with leading regulatory authorities worldwide.\n\nSecond, to unify the regulatory framework, the bill proposes to build on existing legislation to transfer the relevant regulatory powers and functions concerning Chinese and Western medicine, currently vested in the Pharmacy and Poisons Board of Hong Kong, the Chinese Medicines Board of the Chinese Medicine Council of Hong Kong and their committees, as well as those relating to medical devices, after legislation in the future, to the Director of Health.\n\nThird, to enhance the relevant supporting mechanisms and make necessary technical amendments.\n\nSecretary for Health Prof Lo Chung-mau said the establishment of the CMPR marks a significant milestone in Hong Kong's regulatory reform of medical products.\n\nHe added that the Government will comprehensively and proactively align with the National 15th Five-Year Plan, fully leveraging Hong Kong's distinctive advantages of enjoying strong support nationally and being connected to the world under the “one country, two systems” principle.\n\n“We will establish a proactive mechanism for the evaluation and approval of medical products, enabling advanced products to be introduced into Hong Kong more quickly for the benefit of patients and developing Hong Kong into an international health and medical innovation hub,” he said.\n\nThe health chief added that the Government will deepen collaboration with regulatory authorities around the world and pursue recognition from international authorities.\n\n“Our long-term goal is to develop the CMPR into an internationally recognised regulatory authority for medical products.\"\n\nProf Lo emphasised that the Government is committed to providing a world-class and modern regulatory environment to accelerate the clinical application of innovative medical products while ensuring their safety, quality and efficacy, making good drugs and medical devices available for use in Hong Kong.\n\nThe Government will also support the emerging biomedicine industry in its research and development regarding innovative medical products, facilitating their introduction into Hong Kong and expansion into international markets, he said.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_112504_613/images/20261113132007632.jpg",
+      "publishedAt": "2026-11-12T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_112504_613.html"
     },
     {
       "id": "ee91da1c9f7591e0",
@@ -1358,17 +1369,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876988-20261108.htm"
-    },
-    {
-      "id": "d1c1bc8119316e2d",
-      "title": "$10 meals fight social isolation",
-      "excerpt": "For many elderly residents and caregivers navigating the daily challenges of isolation and limited mobility, preparing a hot, nutritious meal…",
-      "fullText": "For many elderly residents and caregivers navigating the daily challenges of isolation and limited mobility, preparing a hot, nutritious meal can feel like an insurmountable hurdle.\n\nBut at Shek Pai Wan Estate in Southern District, a novel community dining initiative is providing a vital lifeline, transforming a local children and youth services centre into a hub of warmth, nutrition and connection.\n\nRun by the Aberdeen Kai-fong Welfare Association since March, the Community Dining Hall offers meals for just $10, enticing caregivers and vulnerable residents to make the trip to the centre.\n\n“Everyone gets a good meal. That is wonderful,” said resident Leung Wah-fuk, adding that the no-MSG dishes are both delicious and healthy, which is vital for the elderly.\n\nFellow resident Leung Wai-chun echoed that sentiment, noting that the support is a genuine blessing for those who find it difficult to walk to the market or manage cooking alone.\n\nReal impact\nWhile filling daily nutritional needs is crucial, the programme’s true impact lies in its power to forge connections and spot individuals who might otherwise slip through the cracks.\n\nAberdeen Kai-fong Welfare Association Chief Executive Nora Ng emphasised that the target users are high-risk or hidden groups, including elderly residents living alone, caregivers, and families looking after children with special needs.\n\n“Providing hot meals is not our main focus,” Miss Ng said. “Reaching out to high-risk or hidden groups is our main objective.”\n\nSmart resources\nThis outreach-first philosophy is underpinned by smart resource allocation. Principal Assistant Secretary for Labour & Welfare (Children) Kevin Li explained that the project optimises the use of integrated children and youth services centres during their non-peak hours.\n\n“We leverage the rich social welfare experience and manpower resources of social welfare organisations,\" Mr Li said.\n\nHe added that since these non-governmental organisations historically provide a wide spectrum of services - from rehabilitation to family assistance - they can quickly redeploy their resources to provide appropriate follow-up support for those identified through the dining initiative, embodying the policy goals of early identification, early intervention and sustained support.\n\nCitywide vision\nSince its launch, the pilot scheme has yielded positive results, having served more than 4,000 meals, reached nearly 400 hidden or high-risk individuals, and completed close to 350 case assessments.\n\nMr Li said that the programme serves as a model that effectively reduces social isolation while seamlessly catching those with hidden welfare needs.\n\nWhat began as a local pilot is now blossoming into a citywide vision, newly backed by the Policy Address. Moving forward, the Government will reach out to integrated children and youth services centres across Hong Kong to invite them to join the initiative, ensuring that more isolated households feel valued, supported and truly seen.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261106/20261106_143702_886/images/20261106180938370.JPG",
-      "publishedAt": "2026-11-07T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261106/20261106_143702_886.html"
     },
     {
       "id": "c43fe3b4f36eb290",
