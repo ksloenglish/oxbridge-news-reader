@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T05:45:16.081Z",
-  "checkedAt": "2026-11-14T07:00:26.148Z",
+  "generatedAt": "2026-11-14T07:05:04.083Z",
+  "checkedAt": "2026-11-14T07:05:04.083Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "ebbe8aed7aba7a1b",
+      "title": "White House says trilateral meeting on for Shenzhen",
+      "excerpt": "The White House says US President Donald Trump, President Xi Jinping, and Russia's Vladimir Putin will hold a three-way meeting…",
+      "fullText": "The White House says US President Donald Trump, President Xi Jinping, and Russia's Vladimir Putin will hold a three-way meeting next week on the sidelines of the Apec summit in Shenzhen.\n\nWhite House spokeswoman Olivia Wales said Trump wanted to discuss reducing the number of nuclear weapons, and other topics. (AFP)\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T06:54:16.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877806-20261114.htm"
+    },
     {
       "id": "6d9043013e99af97",
       "title": "12 held in crackdown on illegal cross-border car hires",
@@ -920,17 +931,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877483-20261112.htm"
     },
     {
-      "id": "0ea9598e7af928f9",
-      "title": "Pope Leo lands in Lima for Peru homecoming",
-      "excerpt": "Pope Leo XIV arrived in Peru on Wednesday, a nostalgic return to the nation where he spent two decades as…",
-      "fullText": "Pope Leo XIV arrived in Peru on Wednesday, a nostalgic return to the nation where he spent two decades as a missionary before being tapped to lead the world's 1.4 billion Catholics.\n\nThe 71-year-old pontiff landed in Lima on the final leg of an arduous 12-day Latin American tour, just weeks after undergoing surgery for lung cancer.\n\n\"He is coming home,\" said 32-year-old street vendor Alexander Torres in the Peruvian capital. \"He will be welcomed as if he never left the country.\"\n\n\"The pope is Peruvian!\" cried some of the faithful, who lined the streets dozens-deep along the route from the airport, as phalanxes of soldiers in red and green berets stood guard.\n\nThe pope began the day in Lujan, Argentina, drawing more than three million people for a mass that was part farewell, part homage to his late Argentine predecessor, Pope Francis.\n\n\"Thank you, Argentina, for welcoming me with open arms,\" he said, addressing the largest crowd of his 18-month papacy.\n\nThe faithful climbed fences, barriers, trees and lampposts to catch a glimpse of their spiritual guide.\n\n\"It was a unique, unforgettable experience,\" Daiana Rivero, 36, told AFP.\n\n\"The pope's visit leaves a very powerful emotion and I feel this is going to be a turning point for our country,\" she said.\n\nBorn in Chicago, Leo's return to Peru will take him from the deep Amazon to 3,400 meters up in the Andes.\n\nHe will also make what is sure to be an emotional return to Chiclayo, the northern city where he was bishop for a decade.\n\nThroughout his trip to Uruguay and Argentina, the pope has not shied away from tackling sensitive political and social topics.\n\nIn Argentina, he pointedly demanded a more inclusive economy and better protections for the vulnerable – comments widely interpreted as criticism of aid-slashing President Javier Milei.\n\n\"There is room for everyone, especially the neediest: the poor and hungry, migrants, the sick and prisoners,\" he said, sporting a white-and-sky-blue robe – the colors of the Argentine flag – associated with the Virgin of Lujan.\n\nIn Peru he will find a deeply divided nation, still coming to terms with its violent past under Alberto Fujimori, the father of the current president, Keiko Fujimori. The late Fujimori was found guilty and imprisoned over human rights violations in his fight against Shining Path leftist rebels.\n\nThe pope will also find a society reckoning with high crime rates, deep inequalities and a rising cost of living.\n\n\"It's like when mom or dad shows up while we're fighting with a sibling – pulling each other's hair – and they step in and say, 'take it easy, calm down, give each other a hug,'\" said Jessibel Quispe, a 39-year-old mother and homemaker.\n\n\"The pope coming is a message of hope and peace, that will help our politics a lot,\" she said. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T00:07:23.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877478-20261112.htm"
-    },
-    {
       "id": "29fab9a3f5737a0f",
       "title": "Nvidia preparing to oust CEO Jensen Huang: WSJ",
       "excerpt": "Nvidia's board is preparing to oust CEO Jensen Huang after he had two extramarital affairs, the Wall Street Journal reported…",
@@ -1415,17 +1415,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1876942-20261107.htm"
     },
     {
-      "id": "34630b23363a4101",
-      "title": "He Lifeng in video talk with Bessent amid Cuba row",
-      "excerpt": "Vice-Premier He Lifeng, who is leading China's economic and trade affair talks with the United States, held a video call…",
-      "fullText": "Vice-Premier He Lifeng, who is leading China's economic and trade affair talks with the United States, held a video call on Friday with Treasury Secretary Scott Bessent and Trade Representative Jamieson Greer.\n\nThe two sides held candid, in-depth and constructive exchanges on implementing the important consensus reached between the two heads of state at their meetings in Beijing and Washington and the outcomes of economic and trade consultations, and on key economic and trade issues of mutual concern.\n\nThe Chinese side expressed serious concern over recent US economic and trade restrictions against China.\n\nBoth sides agreed that under the strategic guidance of the two heads of state, they would further leverage the China-US economic and trade consultation mechanism, continuously strengthen cooperation and properly manage differences so as to promote the stable and positive development of bilateral economic and trade relations, and contribute to building a constructive relationship of strategic stability based on respect, fairness and reciprocity.\n\nNews of the video call came as the Ministry of Commerce said on Saturday that China firmly opposes US unilateral sanctions on Chinese enterprises as the move violates international law and the basic norms of international relations.\n\nA spokesperson for the ministry made the remarks in response to a media query that the US Department of State had announced sanctions on two Chinese enterprises and that this was reportedly the first time the United States has imposed sanctions on Chinese companies over so-called Cuba-related reasons.\n\nIn recent days, the ministry official said, the US side has escalated sanctions and suppression against China and introduced multiple discriminatory restrictions, which have seriously harmed the rights and interests of Chinese enterprises, deviated from the important consensus reached by the two heads of state, and undermined the stability of China-US economic and trade relations.\n\nChina urges the US side to correct its wrongdoings as soon as possible, the official said, noting that China reserves the right to take necessary measures to safeguard its legitimate rights and interests. (Xinhua)\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-11-07T07:05:13.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876928-20261107.htm"
-    },
-    {
       "id": "05e1d7a3b436ff62",
       "title": "North Korean orphans fast tracked into state care to stem declining birth rate",
       "excerpt": "Orphanages are now supplied more regularly after shift toward birth-friendly policies.",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
+    },
+    {
+      "id": "655dea3537ed986c",
+      "title": "Five HK universities rank in top 100",
+      "excerpt": "Hong Kong has five universities among the top 100 in the World University Rankings 2027, published by Times Higher Education…",
+      "fullText": "Hong Kong has five universities among the top 100 in the World University Rankings 2027, published by Times Higher Education (THE).\n\nCommenting today, the Education Bureau highlighted that two of the city’s ranked institutions had gained higher positions in the latest rankings.\n\nIt said the results demonstrate the robust strengths of Hong Kong’s higher education system and its world-class standing in terms of teaching, research, and international outlook.\n\nIt added that the rankings reflect the Government’s investment of resources and its policy support over the years, both of which have laid a solid foundation for the city’s higher education institutions.\n\nIn the latest rankings, the University of Hong Kong ranks 33rd globally; the Chinese University ranks 42nd; and the University of Science & Technology ranks 58th. City University and Polytechnic University have risen to 70th and 79th respectively.\n\nThe bureau said the consistent high international rankings of Hong Kong’s universities not only reflect the local higher education sector's excellence, but also bear witness to the Government’s proactive leadership in policy measures aimed at driving innovation and change, as well as expanding capacity while enhancing quality.\n\nIt added that the Government will continue to spare no effort in promoting the sector's comprehensive integration into overall national development, contributing to China’s development as a leading country in education.\n\nLooking ahead, the bureau said that with the advent of Hong Kong’s First Five-Year Plan, the city’s higher education is ushering in a golden period of development full of promising potential.\n\n“We will continue to promote the all-round connectivity in areas such as talent training, frontier scientific research, and industry-academia-research collaboration, optimise resource allocation, support various institutions in consolidating their existing advantages while pioneering innovation, and nurture more outstanding talent equipped with both international perspective and exceptional capabilities, thereby making greater contributions to the long-term prosperity and stability of Hong Kong and the country.”",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409/images/20260930122638517.jpg",
+      "publishedAt": "2026-09-29T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
     }
   ]
 }
