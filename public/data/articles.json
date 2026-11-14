@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T08:15:16.027Z",
-  "checkedAt": "2026-11-14T08:30:21.602Z",
+  "generatedAt": "2026-11-14T08:45:16.576Z",
+  "checkedAt": "2026-11-14T08:45:16.576Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -95,10 +95,21 @@
   ],
   "articles": [
     {
+      "id": "a1802d223022642e",
+      "title": "HK 'needs to step up act on AI laws on porn and scams'",
+      "excerpt": "Lawmakers have called on the government to tighten artificial intelligence regulations after the city ranked just 50th out of 70…",
+      "fullText": "Lawmakers have called on the government to tighten artificial intelligence regulations after the city ranked just 50th out of 70 economies for AI governance in a new global index.\n\nIn terms of competitiveness, the Switzerland-based International Institute for Management Development's first-ever World Digital and AI Ranking report also ranked the SAR as 11th overall and fourth in Asia, behind Singapore and the Chinese mainland with the United States topping the list.\n\nSpeaking on a radio show on Saturday, lawmaker Johnny Ng said while the city had performed well in talent and infrastructure, it lagged behind on governance.\n\n\"It's not that we don't have laws. We have guidelines,\" he said.\n\n\"But when it comes to certain areas, for example, how we protect young people from pornography or scams, we need to do a little more.\"\n\nSpeaking on the same show, fellow lawmaker Simon Lee said current regulations were not enough.\n\nHe said the city should consider rolling out AI legislation in phases, with priority placed on monitoring of deepfakes and high-risk AI systems.\n\nIn his September 2026 Policy Address, Chief Executive John Lee said the city was looking at instituting legislation to regulate deepfakes and combat AI-enabled crime.\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T08:33:09.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877814-20261114.htm"
+    },
+    {
       "id": "7f4a729a3173997c",
       "title": "US planes taking off as full resumption 'to take time'",
       "excerpt": "Flights in the United States have been resuming on Saturday after being grounded for several hours due to a major…",
-      "fullText": "Flights in the United States have been resuming on Saturday after being grounded for several hours due to a major communications outage, though authorities said returning to normal operations would take time.\n\nThe nationwide stop on Friday sparked widespread chaos and left hundreds of thousands of passengers in limbo, with some pulled off planes moments before departure by airline staff who appeared in the dark about unfolding events.\n\nThe incident marked only the second time such an alert had been issued in US airspace – among the busiest in the world – since the 9/11 attacks.\n\nThe ground stop lasted around four hours and was lifted at 8.15pm Eastern Time, or 9.15am on Saturday Hong Kong time.\n\nFederal Aviation Administration officials reopened the airspace on Friday night \"after restoring full functionality\" at air traffic control facilities, according to Secretary of Transportation Sean Duffy.\n\n\"It will take us time [to] resume normal operations... Our top priority is the safety of you and your family when you fly,\" he said.\n\nAdministration officials blamed the incident on telecommunications issues with decades-old equipment, adding there was no evidence of foul play.\n\n\"This is a legacy system problem,\" Duffy said. \"We have old, old switches, old routers.\n\n\"We use 1980s little copper lines. It's an old system that went down, and went down everywhere. It got overloaded.\"\n\nDuffy had formally asked Congress on Thursday for US$30.1 billion in funds to upgrade and modernise the air traffic control system.\n\nAs the ground stop was lifted, he repeated his plea.\n\n\"I'm going to say it a million times: the Congress has to give the resources to the president so he can finish this bill,\" he said.\n\nThere were almost 6,000 flights canceled, including some international routes, according to FlightAware, a tracking platform.\n\nHomeland Security Secretary Markwayne Mullin stressed there was no evidence of any hostile action on Friday.\n\n\"We've seen zero evidence that this was a cyberattack or [AI] attack,\" he said.\n\nHe also ruled out any connection with the outage that affected Microsoft this week, knocking email systems offline for millions of users, public services and businesses worldwide. (AFP)\n\nEdited by Azam Khan",
+      "fullText": "Flights in the United States have been resuming on Saturday after being grounded for several hours due to a major communications outage, though authorities said returning to normal operations would take time.\n\nThe Trump administration boosted its request for air traffic control funding to US$50 billion late on Friday after the communications issue forced a nationwide groundstop that halted thousands of flights.\n\nTransportation Secretary Sean Duffy and the White House had earlier asked for US$30.1 billion to upgrade the United States' aging airports and air traffic control system.\n\nThe outage sparked widespread chaos and left hundreds of thousands of passengers in limbo, with some pulled off planes moments before departure by airline staff who appeared in the dark about unfolding events.\n\nThe incident marked only the second time such an alert had been issued in US airspace – among the busiest in the world – since the 9/11 attacks.\n\nThe ground stop lasted around four hours and was lifted at 8.15pm Eastern Time, or 9.15am on Saturday Hong Kong time.\n\nFederal Aviation Administration officials reopened the airspace on Friday night \"after restoring full functionality\" at air traffic control facilities, according to Secretary of Transportation Sean Duffy.\n\n\"It will take us time [to] resume normal operations... Our top priority is the safety of you and your family when you fly,\" he said.\n\nAdministration officials blamed the incident on telecommunications issues with decades-old equipment, adding there was no evidence of foul play.\n\n\"This is a legacy system problem,\" Duffy said. \"We have old, old switches, old routers.\n\n\"We use 1980s little copper lines. It's an old system that went down, and went down everywhere. It got overloaded.\"\n\nAs the ground stop was lifted, he repeated his plea.\n\n\"I'm going to say it a million times: the Congress has to give the resources to the president so he can finish this bill,\" he said.\n\nThere were almost 6,000 flights canceled, including some international routes, according to FlightAware, a tracking platform.\n\nHomeland Security Secretary Markwayne Mullin stressed there was no evidence of any hostile action on Friday.\n\n\"We've seen zero evidence that this was a cyberattack or [AI] attack,\" he said.\n\nHe also ruled out any connection with the outage that affected Microsoft this week, knocking email systems offline for millions of users, public services and businesses worldwide. (AFP)\n\nEdited by Azam Khan",
       "imageUrl": null,
       "publishedAt": "2026-11-14T08:03:15.000Z",
       "source": "RTHK English — World",
@@ -885,17 +896,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877502-20261112.htm"
-    },
-    {
-      "id": "945b442ccd271149",
-      "title": "Kai Tak site leader charged over bribes",
-      "excerpt": "The ICAC has charged a site team leader on the Kai Tak Hospital project with taking HK$75,100 in bribes from…",
-      "fullText": "The ICAC has charged a site team leader on the Kai Tak Hospital project with taking HK$75,100 in bribes from five imported electrical workers.\n\nZeng Chusong, 52, of subcontractor Billion Best (E&M) Engineering, faces 10 counts of an agent accepting an advantage.\n\nHe appeared at Tuen Mun Magistrates’ Courts for mention on Thursday morning.\n\nThe ICAC alleges that between September and November he accepted 10 bribes from the five workers, in return for helping them get jobs on the project.\n\nTheir daily pay was HK$1,300.\n\nFearing they would lose their jobs, they paid Zeng between HK$9,000 and HK$23,600.\n\nChina State Construction Engineering (Hong Kong), the main contractor, had applied under the Labour Importation Scheme for quotas used by its subcontractors, including the defendant and the five workers he referred to the site.\n\nThe ICAC said it maintains a zero-tolerance policy towards corruption and will continue to collaborate with the Development Bureau and other stakeholders to prevent the recurrence of crimes similar to this case.\n\n\"Construction workers who are solicited for bribes in exchange for employment should refuse immediately and report it to the ICAC,\" a spokesman said in a statement.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T03:49:04.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877501-20261112.htm"
     },
     {
       "id": "fce484263e03e7d2",
