@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T22:15:25.020Z",
-  "checkedAt": "2026-11-14T02:00:28.563Z",
+  "generatedAt": "2026-11-14T02:15:16.031Z",
+  "checkedAt": "2026-11-14T02:15:16.031Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 14
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "84f37d8173f69424",
+      "title": "US ends nationwide grounding of flights",
+      "excerpt": "The US Federal Aviation Administration says airplane departures can resume after the agency lifted a nationwide ground stop caused by…",
+      "fullText": "The US Federal Aviation Administration says airplane departures can resume after the agency lifted a nationwide ground stop caused by communications problems.\n\nThe green light for resumption came after the FAA had grounded all flights nationwide on Friday afternoon, causing hundreds of flights to be diverted. Officials cited “extraordinary circumstances” caused by communications problems at regional air traffic control centres.\n\nThe nationwide ground stop was the first since January 2023, when a key FAA computer system malfunctioned, and the second since the aftermath of the September 11, 2001, attacks.\n\nHomeland Security Secretary Markwayne Mullin attributed the problem to a telecommunications outage and said there was no indication yet of a nefarious act. The consequences were profound, disrupting thousands of planned flights through at least late Friday night and upending travel plans for passengers.\n\n“It’s frustrating. This certainly sounds like it’s going to be more than the usual run-of-the-mill delay. I look forward to finding out why,” said Jeff Dubner, a Washington attorney whose Alaska Airlines flight home from Los Angeles was already half an hour late and taxiing to the runway when the plane came to a halt.\n\nThe FAA was investigating a communication issue affecting the 22 regional air traffic control centres that direct planes en route between airports nationwide, said Transportation Secretary Sean Duffy.\n\nInternational flights were being handled on a case-by-case basis, according to Mullin, with some seen taking off Friday evening. Meanwhile, some flights within Alaska and Hawaii were not impacted, Alaska Airlines said.\n\nMullin said at the White House that there was no indication yet that “this was a nefarious attack against us. It's just a telecommunications outage as of right now.”\n\n“Everybody's safe. There's no reason to be concerned about your loved ones if they're flying,” he said.\n\nAt least 827 flights have been diverted so far as a result. As of 7.05pm EST, 8.05am on Saturday Hong Kong time, 670 flights were sent back to the airport from where they originally took off, while 157 were redirected to a different airport, according to Cirium, an aviation analytics company.\n\nThe airports where many of the flights ended up being diverted included Washington Dulles International, Los Angeles International, Cincinnati/Northern Kentucky International and Nashville International.\n\nSome 11,000 flights carrying more than 1.5 million passengers were scheduled to take off from airports in the United States after 4pm EST, raising the likelihood of more cancellations and flight diversions.\n\nUnited Airlines and American Airlines said flights already in the air will continue.\n\n“It will be all hands on deck across American to get customers on their way as soon as possible when the FAA lifts this nationwide ground stop,” American said in a statement on the social platform X.\n\nNBA, NHL and college teams were left stranded as they tried to reach their destinations. Meanwhile, NFL teams were left to wonder whether the issue would be resolved in time to travel to their games this weekend.\n\nCargo flights were also delayed by the ground stop.\n\nFedEx, the world’s largest cargo airline, said it is prepared to activate contingency plans to keep any possible disruptions at a minimum.\n\nUS airlines move about 61,000 tonnes of goods – from letters to packages – to and from more than 220 countries daily, according to the industry trade group Airlines for America.\n\nThe government has been working to overhaul outdated technology\n\nThere is no timeline for restarting flights. Mullin said investigators will look at whether there is any link to the FAA's nationwide rollout of a new artificial intelligence system to help identify problems and reroute planes. But that system operates out of one location near Washington, DC, and just sends recommendations to the air traffic control centres.\n\nThe government has been working to overhaul the outdated technology that air traffic controllers rely on since Congress approved US$12.5 billion for the project last year. Miles of old copper wires have been replaced with fibre optic lines and old radio systems are gradually being replaced at airports across the country.\n\nBut much work remains. Duffy has said that another US$30 billion will be needed to complete the work, and the White House has begun lobbying Congress to approve it.\n\nThe problem appeared similar to a regional air traffic control communication outage in September that snarled hundreds of flights across the Northeast, aviation safety expert Steve Arroyo said, except this time on a nationwide scale. It may be linked to the outdated technology used by air traffic controllers.\n\n“If you don’t have that ability, whether it’s because the old wires that they have are just run down or for whatever reason, you’ve got to stop airplanes on the ground,” said Arroyo, who is a former United Airlines pilot. “And not put them in the air where you’re going to risk not being able to communicate with them.” (AP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T02:03:30.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877784-20261114.htm"
+    },
     {
       "id": "7b08a19eb2535ae0",
       "title": "US markets end lower as Nvidia casts a pall",
@@ -882,8 +893,8 @@
       "fullText": "Nvidia's board is preparing to oust CEO Jensen Huang after he had two extramarital affairs, the Wall Street Journal reported on Wednesday, citing people familiar with the matter.\n\nThe board is preparing to meet as soon as Wednesday to determine his future, the report added.\n\nHuang's potential departure would leave a leadership vacuum at the roughly US$4 trillion chipmaker he co-founded and built over more than three decades to become the dominant supplier of AI chips at the centre of the global artificial-intelligence boom.\n\nThe company's shares slid about 8 percent in after-hours trading. Including Wednesday's after-hours selloff, Nvidia has lost about US$600 billion in stock market value this week since the board announced its investigation.\n\n\"Huang being removed immediately could be challenging for Nvidia since it does not have a succession plan in place... If Mr Huang broke the law or violated company policies, the board is likely to act as soon as they have proof,\" Gil Luria, head of technology research at DA Davidson, said.\n\nEarlier in the day, the New York Times reported that Huang had an extramarital affair with a company executive who reported to him.\n\nThe relationship was with Kimberly Powell, Nvidia's vice president of healthcare, the New York Times said, citing five people who worked at the company.\n\nWhen reached by phone on Wednesday and asked about his relationship with Powell, Huang said, \"I don't think you should be talking to me directly.\" He then hung up, the New York Times reported.\n\nNvidia and Powell did not immediately respond to requests for comment. Reuters could not immediately verify the reports.\n\nThe reports mark a sharp escalation in a controversy that began with revelations about Huang's relationship with Alice Huang, a woman US intelligence has said was involved in facilitating shipments of Nvidia chips to Chinese firms.\n\nBeijing has dismissed allegations that Alice Huang was a spy for China as \"groundless speculation\".\n\nIn a memo to employees on Sunday, Huang acknowledged being unfaithful to his wife and took \"full responsibility,\" but gave no details about the relationship.\n\nThe same day, Nvidia's board launched an investigation into whether Huang had been targeted by a foreign intelligence operation. The probe is being overseen by independent directors with outside legal counsel. At the time, the board expressed confidence in Huang.\n\nUS President Donald Trump has said he had not discussed the allegations with Huang but voiced support for the Nvidia chief, calling him \"an honourable guy\" who had \"done an amazing job for our country.\"\n\nHuang faces a potential congressional subpoena if he doesn't respond to a request to provide a closed-door briefing about the allegations that he had a close relationship with the Chinese businesswoman.\n\nHuang co-founded Nvidia in 1993 with Curtis Priem and Chris Malachowsky. Its early hits were graphics chips for computer games, before its CUDA software opened the processors to general computing and, later, AI. (Reuters)\n\nEdited by Cecil Wong",
       "imageUrl": null,
       "publishedAt": "2026-11-11T23:53:21.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877476-20261112.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
-    },
-    {
-      "id": "940d79532a5b6d51",
-      "title": "Nursing workforce planning outlined",
-      "excerpt": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare…",
-      "fullText": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare professionals. The statement was issued in response to public discussions regarding nursing manpower planning in Hong Kong, adding that such discussions should be grounded objective facts and data to foster consensus.\n\nAlthough the nurse attrition rate within the Hospital Authority has dropped from a peak of 10.9% to 5.4%, approximately 3,200 vacancies remain unfilled with recruitment ongoing. In 2025, around 3,500 of the 4,000 prospective nursing graduates qualified as Registered Nurses (RNs) or Enrolled Nurses (ENs), with about 60% applying for positions within the authority.\n\nThese figures demonstrate that graduates diversify into various sectors, including private healthcare institutions, elderly services and rehabilitation, community nursing, insurance and health management. Notably, approximately 99% of applicants who completed the interview or assessment process for RN posts within the authority received an offer of appointment.\n\nAs of the end of 2025, over 30,000 of Hong Kong’s 75,000 RNs and ENs were employed within the public healthcare system, representing roughly 40% of the total workforce. Given that nursing practice spans hospitals, primary care, community and elderly services, rehabilitation and other health service sectors, the Government noted that manpower supply and demand must be assessed holistically across the entire market.\n\nFurthermore, approximately 99.8% of RNs serving in the authority are locally trained, confirming that local professionals remain the backbone of public healthcare. The Government affirmed it will continue to promote regional healthcare collaboration and professional exchanges while strictly safeguarding employment priority for locally trained professionals.\n\nPlans are also underway to strengthen manpower training for primary healthcare and advance professional systems to enhance service quality and maximise the professional functions of nurses. Addressing broader roles, the Government stressed that the Health & Care Practitioner (HCP) rank is a dedicated welfare-sector role that should not be confused with ENs due to distinct scopes of practice.\n\nAcknowledging broader recruitment pressures, the Health Bureau noted that private hospitals face similar shortages, with one facility reporting 40 vacancies but receiving only 25 applications over the past year. In response to an ageing population, the Government reiterated its commitment to driving cross-sectoral collaboration and manpower planning based on service needs and manpower data to ensure that healthcare and nursing services in Hong Kong can continue to meet the needs of society.\n\nThe Government hopes that all sectors of the community will exchange views on healthcare manpower development and professional training based on facts and data, and work together to foster the sustainable development of the city's healthcare system.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431/images/20260929142417086.jpg",
-      "publishedAt": "2026-09-28T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
     }
   ]
 }
