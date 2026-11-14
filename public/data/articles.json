@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T14:15:16.014Z",
-  "checkedAt": "2026-11-14T14:20:04.250Z",
+  "generatedAt": "2026-11-14T14:30:21.093Z",
+  "checkedAt": "2026-11-14T14:30:21.093Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "1185acf0a8593739",
+      "title": "French protesters chant against inflation and police",
+      "excerpt": "Protesters waved the French flag from the top of a Paris statue on Saturday, as demonstrators across France vented a…",
+      "fullText": "Protesters waved the French flag from the top of a Paris statue on Saturday, as demonstrators across France vented a broad range of frustrations from the rising cost of living to opposition to a new police bill.\n\nThe European Union's second largest economy has been gripped by high-school blockades and demonstrations demanding better wages for more than a month, before presidential elections next year to replace Emmanuel Macron.\n\nSome of the largely peaceful rallies have seen fringe violence, as well as accusations of police brutality, including against young teenagers.\n\n\"No justice, no peace,\" a protester shouted into a megaphone on the capital's Republique square on Saturday afternoon, as people took to the streets for the fifth Saturday in a row.\n\nYellow Vest movement member Benjamin Ball was among several thousands of protesters in Paris, who also included students, unions and rights activists.\n\n\"The government has only given us crumbs, and we want the whole bakery,\" he said.\n\nAdrien, a 20-year-old cello player who came as part of a volunteer orchestra, said the focus of the day was a new bill in parliament to give police who use their weapons a presumption of legitimate self-defence.\n\n\"We're scared when we come to a protest, and this will only make us even more afraid if their impunity is strengthened,\" he said, after tear gas fell on a similar group of protesting musicians last month.\n\nBackers of the new police bill -- including the far-right party of leading presidential hopeful Marine Le Pen -- say a new law is necessary to avoid law enforcement officers being automatically suspected of using disproportionate force.\n\nActivists argue it would amount to a \"licence to kill\".\n\nThey say it would make holding security forces accountable even harder in a country where cases of alleged police brutality rarely reach a criminal court.\n\nLawyers last week said police violence at recent protests that led to \"mutilations\" including hand, foot and eye injuries.\n\nAround 146,000 people took part in demonstrations across France on Saturday last week, according to authorities, far lower numbers than on previous weekends.\n\nThe largest protests in recent weeks occurred during a union-led strike on Thursday last week, when more than half a million people took to the streets nationwide, according to official figures.\n\nUnions have called for a new day of strikes on Tuesday, after rejecting a government promise to increase the minimum wage by 0.6 percent as \"crumbs\".\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T14:20:11.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877843-20261114.htm"
+    },
     {
       "id": "5ad9fe7cca184c15",
       "title": "China and US hold first trade council meeting",
@@ -896,17 +907,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877553-20261112.htm"
-    },
-    {
-      "id": "930eddf78991a00a",
-      "title": "Jokowi backs Indonesian president as son resigns",
-      "excerpt": "Indonesia's vice president handed in his resignation to parliament's upper house on Thursday, ending days of speculation on his political…",
-      "fullText": "Indonesia's vice president handed in his resignation to parliament's upper house on Thursday, ending days of speculation on his political future, while his father, former President Joko Widodo, voiced support for current leader Prabowo Subianto.\n\nThe expression of support following the departure of Gibran Rakabuming Raka could soothe signs of strain emerging in the political alliance between Prabowo and the highly popular Widodo, known as Jokowi.\n\n\"We will continue to support President Prabowo's administration, especially programmes that serve the interests of the broader public,\" Jokowi said outside his home in the central Java city of Solo.\n\nThe rift between Prabowo and Jokowi, who twice defeated the powerful former general for the presidency before throwing him support in the face of term limits, had looked set to further destabilise the government, analysts said.\n\nPrabowo's government is battling scandals over signature political programmes and doubts about its prowess to manage Southeast Asia's biggest economy, where the political turmoil has weakened investor sentiment.\n\nScrutiny is growing over the government's fiscal plans and broader policy direction, while downgrade risks still linger for the stock market, with the rupiah weakening as much as 0.6 percent to plumb a fresh record low of 18,248 against the US dollar.\n\nMinutes before Jokowi's remarks, Gibran arrived at parliament in Jakarta to meet its leaders for 20 minutes, handing in his resignation and asking parliament to process it, said Ahmad Muzani, the speaker of its upper house.\n\nGibran had also submitted a resignation letter to Prabowo, said Muzani, adding that he did not explain why he resigned.\n\nThe 39-year-old was elected alongside Prabowo in a 2024 election, during which Jokowi was accused of meddling in the process by influencing a court decision that changed the election rules, enabling Gibran to stand.\n\nHis resignation followed a push by lawmakers for Gibran's impeachment on grounds of inadequate educational credentials.\n\nIt also followed rulings by the Constitutional Court and the Supreme Court that his overseas high school qualifications fell short of legal requirements for vice presidential candidates, and had been wrongly accepted by election authorities.\n\nParliamentary leaders will now gather to discuss the next steps, Muzani said.\n\nThe upper house will have to hold a session to declare a vacancy after Gibran's resignation, while sending the president a letter seeking the names of two replacement candidates, senior law minister Yusril Ihza Mahendra said on Wednesday.\n\nAn upper house election will follow within 60 days.\n\nAnalysts said another sign of the gulf between Prabowo and Jokowi was last week's revelation of an inquiry into illegal wiretapping by senior police officials, including former police chief Listyo Sigit Prabowo, widely seen as a Jokowi loyalist.\n\nOn Thursday, police said they had enough initial evidence to pursue treason charges against four suspects for wiretapping Prabowo, other politicians, activists and journalists. (Reuters)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T07:04:53.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877531-20261112.htm"
     },
     {
       "id": "04c693206a480198",
