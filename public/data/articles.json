@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T12:00:29.760Z",
-  "checkedAt": "2026-11-14T13:45:18.457Z",
+  "generatedAt": "2026-11-14T14:00:26.168Z",
+  "checkedAt": "2026-11-14T14:00:26.168Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "5ad9fe7cca184c15",
+      "title": "China and US hold first trade council meeting",
+      "excerpt": "China and the United States held the first meeting of the trade council under the China-U.S. economic and trade consultation…",
+      "fullText": "China and the United States held the first meeting of the trade council under the China-U.S. economic and trade consultation mechanism via video link on Friday, China's Ministry of Commerce said on Saturday.\n\nGuided by the important consensus reached by the two heads of state, the meeting focused on implementing the outcomes of previous rounds of bilateral economic and trade consultations.\n\nThe two sides had a candid, in-depth and constructive exchange on tariffs, the reciprocal tariff reduction arrangement covering about US$30 billion worth of each other's goods, agricultural trade and other issues of mutual concern.\n\nBoth sides will continue to strengthen communication through the trade council, work to resolve their respective economic and trade concerns, further expand cooperation and shorten the list of issues, so as to help build a constructive China-US relationship of strategic stability based on respect, fairness and reciprocity, the ministry noted.\n\nIn May, China and the United States agreed to establish a trade council to address their respective concerns in trade cooperation.\n\nThe two sides held the eighth round of their economic and trade consultations in New York and Washington DC from September 20 to 23. During the consultations, they agreed to reduce tariffs on about US$30 billion worth of goods imported from each other on a reciprocal basis, with tariffs on around 90 percent of the covered products to be lowered to most-favored-nation rates. (Xinhua)\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T13:43:25.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877841-20261114.htm"
+    },
+    {
+      "id": "a16da129102435a8",
+      "title": "Evening News on TV32 - Nov 14",
+      "excerpt": "Top stories for Saturday, Nov 14, 2026 - Flights in the US are resuming following a nationwide ground stop. -…",
+      "fullText": "Top stories for Saturday, Nov 14, 2026\n\n- Flights in the US are resuming following a nationwide ground stop.\n\n- Police arrest 12 drivers suspected of providing illegal cross-border car-hire.\n\n- US President Donald Trump, President Xi Jinping, and Russia's Vladimir Putin will reportedly hold a three-way meeting on the sidelines of the Apec summit next week.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T13:26:16.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877838-20261114.htm"
+    },
     {
       "id": "fd23d89efa932188",
       "title": "Svitolina makes WTA Finals semis by beating Sabalenka",
@@ -876,17 +898,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877553-20261112.htm"
     },
     {
-      "id": "e45909a448074d45",
-      "title": "10 arrested in fake concert ticket crackdown",
-      "excerpt": "Police on Thursday said they had arrested 10 people in a two-day operation against the sale of fake concert tickets…",
-      "fullText": "Police on Thursday said they had arrested 10 people in a two-day operation against the sale of fake concert tickets and related money laundering, after mule accounts linked to the cases were found to have handled more than HK$81 million in suspected crime proceeds.\n\nThe group, aged 18 to 46, were arrested on suspicion of conspiracy to defraud, obtaining property by deception and money laundering.\n\nChief Inspector Chung Man-ning said the syndicate was organised and systematic.\n\nA day or two before an event, members would advertise tickets on social media at half price, with no deposit required and a face-to-face handover, to lower buyers’ guard.\n\nCouriers then met victims at MTR stations on the day, even pretending to demonstrate how to check a ticket, before taking cash or transferring the funds to a mule account and then disappearing.\n\nThe online posts were deleted at once.\n\n“Most of the victims set off for the venue immediately after the transaction. They go to the event excited and full of anticipation, but when they reached the gate and had their tickets checked, staff told them the tickets are fake and they cannot get in,\" she said.\n\n\"This type of scam usually happens at the very last moment before the show starts, leaving the victims caught off guard and making it hard to chase the fraudsters right away.\"\n\nSenior Inspector Yiu Kong-kuen said the fake tickets seized were highly realistic and hard to spot with the naked eye during a brief handover, but the paper was rougher, the colours darker, and they had no security watermark.\n\nGenuine tickets, he said, have smooth paper, clear printing, a reflective laser sticker at the top right, and invisible fluorescent ink on the back that appears under ultraviolet light.\n\nPolice urged the public to buy tickets only through official channels, not to trust social-media resale posts or scalpers.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T08:53:34.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877545-20261112.htm"
-    },
-    {
       "id": "930eddf78991a00a",
       "title": "Jokowi backs Indonesian president as son resigns",
       "excerpt": "Indonesia's vice president handed in his resignation to parliament's upper house on Thursday, ending days of speculation on his political…",
@@ -1402,17 +1413,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877057-20261109.htm"
-    },
-    {
-      "id": "c43fe3b4f36eb290",
-      "title": "China icebreakers set off for Antarctica",
-      "excerpt": "China held a departure ceremony in Sanya, Hainan, on Saturday to mark the start of its 43rd Antarctic scientific expedition…",
-      "fullText": "China held a departure ceremony in Sanya, Hainan, on Saturday to mark the start of its 43rd Antarctic scientific expedition.\n\nOrganized by the Ministry of Natural Resources, the mission will upgrade China's polar research stations and logistics network and carry out comprehensive, multidisciplinary surveys and monitoring in Antarctica.\n\nIt will also pursue priority research at the frontiers of polar science, test and apply domestically developed equipment, and deepen bilateral and multilateral cooperation in science and logistics support.\n\nThe expedition is supported by the icebreakers Xuelong and Xuelong 2, along with another vessel.\n\nMore than 600 team members from over 100 domestic institutions are participating, and the team is expected to return home in April. (Xinhua)\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-11-07T15:02:14.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1876942-20261107.htm"
     },
     {
       "id": "05e1d7a3b436ff62",
