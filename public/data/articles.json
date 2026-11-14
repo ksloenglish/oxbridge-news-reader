@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T10:15:18.298Z",
-  "checkedAt": "2026-11-14T11:00:29.062Z",
+  "generatedAt": "2026-11-14T11:15:15.916Z",
+  "checkedAt": "2026-11-14T11:15:15.916Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "d09eeb24b46436a9",
+      "title": "Over a dozen HK flights affected by US groundstop",
+      "excerpt": "Two Hong Kong-bound flights from the US were cancelled and seven others were delayed, according to the Airport Authority Hong…",
+      "fullText": "Two Hong Kong-bound flights from the US were cancelled and seven others were delayed, according to the Airport Authority Hong Kong, after US aviation officials issued a temporary nationwide ground stop.\n\nFor flights from Hong Kong to the US, two were cancelled, and six were delayed.\n\nThe ground stop lasted around four hours and was lifted at 8.15pm Eastern Time, or 9.15am on Saturday Hong Kong time.\n\nFlight delays between the US and Hong Kong are expected to last till Sunday, with the Airport Authority urging passengers to pay attention to the latest announcements from airlines.\n\nThe incident marked only the second time such an alert had been issued in US airspace - which is among the busiest in the world - since the 9/11 attacks.\n\nUS officials have dismissed reports of a potential cyberattack.\n\nInstead, they are blaming the air traffic communication glitch on the ageing equipment used for air traffic control.\n\nA total of 33 flights were scheduled between Hong Kong and the United States for the day.\n\nThe city's flagship carrier said it has arranged accommodation for affected passengers and will continue to closely monitor the situation.\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T10:57:51.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877828-20261114.htm"
+    },
     {
       "id": "fa3169e46a864fda",
       "title": "Few smooth operators for rock hall of fame's big night",
@@ -874,17 +885,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877531-20261112.htm"
-    },
-    {
-      "id": "0a1c4de08c5675c1",
-      "title": "N Metropolis on fast track as dedicated bill passes",
-      "excerpt": "The Legislative Council passed a bill on Thursday dedicated to accelerating Northern Metropolis development by further easing barriers on planning…",
-      "fullText": "The Legislative Council passed a bill on Thursday dedicated to accelerating Northern Metropolis development by further easing barriers on planning and land procedures.\n\nThe bill was introduced to lawmakers for its first reading in July.\n\nSecretary for Development Bernadette Linn said the passage of the bill – which she said is crucial to the mega project as well as the city’s future development – came ahead of the government’s initial schedule by one and a half months.\n\n“The Northern Metropolis brings unlimited opportunities for Hong Kong, as well as many challenges,\" she said.\n\n\"I believe there are many possibilities that we might not be foreseeing at the moment.\n\n\"So at this stage we do not need to pursue a new legislation that encompasses everything and addresses unlimited imagined scenarios.\n\n\"But rather, we should be pragmatically realistic – so as to be enterprising and realistic.”\n\nLinn went on to say that the government would introduce new legislation when necessary when the mega project’s construction enters different phases and amend the newly-passed bill to meet the needs of its future development.\n\nAuthorities would strive to submit the subsidiary legislation in January so as to implement facilitation measures for the project in the first quarter of next year, she added.\n\nThe legislation marks the city's first to be dedicated to a single area.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T06:58:18.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877527-20261112.htm"
     },
     {
       "id": "04c693206a480198",
