@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T14:30:21.093Z",
-  "checkedAt": "2026-11-14T22:45:16.130Z",
+  "generatedAt": "2026-11-14T23:00:32.093Z",
+  "checkedAt": "2026-11-14T23:00:32.093Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 17
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "8677b8bdcb8b7b78",
+      "title": "Canada closes on free-trade deal with Philippines",
+      "excerpt": "Canadian Prime Minister Mark Carney on Saturday said Ottawa had successfully concluded negotiations for a sweeping free-trade pact with the…",
+      "fullText": "Canadian Prime Minister Mark Carney on Saturday said Ottawa had successfully concluded negotiations for a sweeping free-trade pact with the Philippines, as it seeks ways to reduce its reliance on the United States.\n\nThe US-Canada trade war has ruptured what was once one of the world's closest economic partnerships.\n\nWhile Canada's trade surplus edged up in September, driven by higher oil exports, US President Donald Trump's tariffs also pinched multiple sectors, data showed.\n\nThe deal with the Philippines was about six months away from being signed, Carney said on the sidelines of a regional summit in Manila, where Trump is expected to arrive on Tuesday.\n\nHe added a broader agreement was also in the works with the entirety of the 11-strong Asean bloc, with those talks \"substantially concluded\".\n\nThe pacts were \"part of a strategy of developing a dense web of reliable partners to create more opportunities ... and reducing our relative reliance on the United States,\" Carney said.\n\nCalling the deal with Manila the \"most comprehensive ... accord that the Philippines has signed,\" Carney said he expected trade between the countries to triple in the next decade.\n\nTotal trade between the two countries stood at about US$2.4 billion in 2025.\n\nThe deal will drop over 90 percent of tariff lines and cover areas ranging from agriculture to aerospace to artificial intelligence, Carney said without revealing specifics.\n\nThe deal with Asean, meanwhile, would be the \"first trade agreement ... outside of Asia\" for the bloc, Carney said, noting \"more than US$50 billion a year in two-way trade, up nearly 25 percent in the past year\".\n\nIn a separate statement, Manila said it expected the trade pact to be completed in the coming year.\n\nThe Canadian prime minister is on a multi-nation trip that will next take him to the Cambodian capital Phnom Penh for a biennial Francophonie summit before he heads north for the annual Asia-Pacific Economic Cooperation (APEC) meetings in Shenzhen.\n\nThere, Carney said, he will meet President Xi Jinping to discuss Canada's trade commitments with Beijing. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T22:46:51.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877822-20261115.htm"
+    },
     {
       "id": "1185acf0a8593739",
       "title": "French protesters chant against inflation and police",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
-    },
-    {
-      "id": "655dea3537ed986c",
-      "title": "Five HK universities rank in top 100",
-      "excerpt": "Hong Kong has five universities among the top 100 in the World University Rankings 2027, published by Times Higher Education…",
-      "fullText": "Hong Kong has five universities among the top 100 in the World University Rankings 2027, published by Times Higher Education (THE).\n\nCommenting today, the Education Bureau highlighted that two of the city’s ranked institutions had gained higher positions in the latest rankings.\n\nIt said the results demonstrate the robust strengths of Hong Kong’s higher education system and its world-class standing in terms of teaching, research, and international outlook.\n\nIt added that the rankings reflect the Government’s investment of resources and its policy support over the years, both of which have laid a solid foundation for the city’s higher education institutions.\n\nIn the latest rankings, the University of Hong Kong ranks 33rd globally; the Chinese University ranks 42nd; and the University of Science & Technology ranks 58th. City University and Polytechnic University have risen to 70th and 79th respectively.\n\nThe bureau said the consistent high international rankings of Hong Kong’s universities not only reflect the local higher education sector's excellence, but also bear witness to the Government’s proactive leadership in policy measures aimed at driving innovation and change, as well as expanding capacity while enhancing quality.\n\nIt added that the Government will continue to spare no effort in promoting the sector's comprehensive integration into overall national development, contributing to China’s development as a leading country in education.\n\nLooking ahead, the bureau said that with the advent of Hong Kong’s First Five-Year Plan, the city’s higher education is ushering in a golden period of development full of promising potential.\n\n“We will continue to promote the all-round connectivity in areas such as talent training, frontier scientific research, and industry-academia-research collaboration, optimise resource allocation, support various institutions in consolidating their existing advantages while pioneering innovation, and nurture more outstanding talent equipped with both international perspective and exceptional capabilities, thereby making greater contributions to the long-term prosperity and stability of Hong Kong and the country.”",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409/images/20260930122638517.jpg",
-      "publishedAt": "2026-09-29T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
     }
   ]
 }
