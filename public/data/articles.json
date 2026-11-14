@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T05:15:18.756Z",
-  "checkedAt": "2026-11-14T05:15:18.756Z",
+  "generatedAt": "2026-11-14T05:30:20.477Z",
+  "checkedAt": "2026-11-14T05:30:20.477Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "63a22d41670c7598",
+      "title": "Three teens arrested over alleged assault in school",
+      "excerpt": "Three teenagers have been arrested on suspicion of common assault after a 13-year-old student was allegedly attacked at his school…",
+      "fullText": "Three teenagers have been arrested on suspicion of common assault after a 13-year-old student was allegedly attacked at his school on Wednesday.\n\nPolice said the student at Lingnan Secondary School in Heng Fa Chuen was allegedly assaulted on campus.\n\nFollowing an investigation, officers arrested the three suspects, aged between 13 and 15, in Eastern and Sham Shui Po on Friday.\n\nThey have been released on bail and must report back to police in mid-December.\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T05:11:48.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877792-20261114.htm"
+    },
     {
       "id": "2b009c35a3aa2e77",
       "title": "Stiffer proxy checks set for flat owners' votes",
@@ -1017,17 +1028,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261112/20261112_111208_109.html"
-    },
-    {
-      "id": "1dccc8d07ba8d766",
-      "title": "School told to step up values education in vaping case",
-      "excerpt": "The Education Bureau on Tuesday said it reached out to a secondary school in Tsuen Wan, after a video, purportedly…",
-      "fullText": "The Education Bureau on Tuesday said it reached out to a secondary school in Tsuen Wan, after a video, purportedly showing a female student vaping inside a toilet with her schoolmates, went viral online.\n\nThe video, which was posted on social media, showed several female students in school uniform taking a selfie inside a cubicle. One of them could be seen holding an e-cigarette.\n\nPo Leung Kuk Yao Ling Sun College later confirmed they were its students. The school said it was \"very concerned\" about the case, and had already set up meetings with their parents.\n\n\"We are committed to nurturing students’ good character, and there are disciplinary and counselling mechanisms to provide students with appropriate support and guidance,\" a statement read.\n\nResponding to media enquiries, the Education Bureau said it was aware that the school had activated its crisis management mechanism.\n\nIt reminded the school to strengthen efforts to cultivate correct values and behaviour among students.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T14:50:29.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877443-20261111.htm"
     },
     {
       "id": "7dcaa30178c3f369",
