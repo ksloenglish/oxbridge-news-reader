@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T07:45:24.459Z",
-  "checkedAt": "2026-11-14T08:00:27.195Z",
+  "generatedAt": "2026-11-14T08:15:16.027Z",
+  "checkedAt": "2026-11-14T08:15:16.027Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "7f4a729a3173997c",
+      "title": "US planes taking off as full resumption 'to take time'",
+      "excerpt": "Flights in the United States have been resuming on Saturday after being grounded for several hours due to a major…",
+      "fullText": "Flights in the United States have been resuming on Saturday after being grounded for several hours due to a major communications outage, though authorities said returning to normal operations would take time.\n\nThe nationwide stop on Friday sparked widespread chaos and left hundreds of thousands of passengers in limbo, with some pulled off planes moments before departure by airline staff who appeared in the dark about unfolding events.\n\nThe incident marked only the second time such an alert had been issued in US airspace – among the busiest in the world – since the 9/11 attacks.\n\nThe ground stop lasted around four hours and was lifted at 8.15pm Eastern Time, or 9.15am on Saturday Hong Kong time.\n\nFederal Aviation Administration officials reopened the airspace on Friday night \"after restoring full functionality\" at air traffic control facilities, according to Secretary of Transportation Sean Duffy.\n\n\"It will take us time [to] resume normal operations... Our top priority is the safety of you and your family when you fly,\" he said.\n\nAdministration officials blamed the incident on telecommunications issues with decades-old equipment, adding there was no evidence of foul play.\n\n\"This is a legacy system problem,\" Duffy said. \"We have old, old switches, old routers.\n\n\"We use 1980s little copper lines. It's an old system that went down, and went down everywhere. It got overloaded.\"\n\nDuffy had formally asked Congress on Thursday for US$30.1 billion in funds to upgrade and modernise the air traffic control system.\n\nAs the ground stop was lifted, he repeated his plea.\n\n\"I'm going to say it a million times: the Congress has to give the resources to the president so he can finish this bill,\" he said.\n\nThere were almost 6,000 flights canceled, including some international routes, according to FlightAware, a tracking platform.\n\nHomeland Security Secretary Markwayne Mullin stressed there was no evidence of any hostile action on Friday.\n\n\"We've seen zero evidence that this was a cyberattack or [AI] attack,\" he said.\n\nHe also ruled out any connection with the outage that affected Microsoft this week, knocking email systems offline for millions of users, public services and businesses worldwide. (AFP)\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T08:03:15.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877813-20261114.htm"
+    },
     {
       "id": "ecf2ed2134ca758d",
       "title": "MTR pledges no compromise on Northern Link safety",
@@ -863,17 +874,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877510-20261112.htm"
-    },
-    {
-      "id": "5426b74ac0b07d5a",
-      "title": "Two dead, several injured in NYC building collapse",
-      "excerpt": "Two people were killed on Wednesday and at least 17 others injured, including children, after a three-story building collapsed near…",
-      "fullText": "Two people were killed on Wednesday and at least 17 others injured, including children, after a three-story building collapsed near a construction site in New York, city authorities said.\n\nImages from the scene showed firefighters sifting through a pile of rubble in front of what appeared to be a residential property with its walls torn down, exposing a bedroom and a clothing wardrobe.\n\nThe building fell into a neighbouring excavation site, trapping several people who firefighters worked to free over several hours using drones, search dogs and chainsaws.\n\n\"We do not know how many people are still in the collapse zone, and this will be a prolonged operation,\" FDNY Commissioner Lillian Bonsignore told reporters at the scene in Flatbush, Brooklyn late Wednesday.\n\nShe said two people had died, without disclosing their ages, and said 17 others were hurt, including seven children.\n\nFour people were critically injured.\n\nMore than 250 firefighters and paramedics responded to the scene, the Fire Department of the City of New York wrote on X, adding that the cause of the collapse was under investigation.\n\nNew York Mayor Zohran Mamdani praised the emergency services for their work, saying the site involved \"precarious wreckage to navigate and dangerous voids beneath the surface.\"\n\n\"I want to ask New Yorkers to please take a moment to pray for those who passed away today and all of those who are mourning their loss,\" he added at a news conference.\n\nOne witness, named only as Anthony, told PIX11 News that he heard people screaming and a \"bomb\"-like noise as the building collapsed.\n\nAnother witness, Melissa Orna, told The New York Times: \"The whole building started shaking, and then it just fell.\"\n\nThe city's Department of Buildings said its inspectors were on the scene \"assisting with recovery operations and conducting structural stability inspections of nearby buildings.\"\n\nAhmed Tigani, commissioner of the department, said construction workers were performing excavation at the time of the collapse.\n\nHe added that developers had plans approved for a three-storey building at the site and were pursuing permission for a nine-storey building. (AP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T04:35:36.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877509-20261112.htm"
     },
     {
       "id": "00a02044bda0132d",
