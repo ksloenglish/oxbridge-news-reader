@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T09:30:21.889Z",
-  "checkedAt": "2026-11-14T09:30:21.889Z",
+  "generatedAt": "2026-11-14T09:45:18.137Z",
+  "checkedAt": "2026-11-14T09:45:18.137Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "2304e50f2fafe8ef",
+      "title": "No government systems hit by Microsoft outage",
+      "excerpt": "Hong Kong has so far received no reports of government systems being affected by Friday’s disruption to Microsoft services. In…",
+      "fullText": "Hong Kong has so far received no reports of government systems being affected by Friday’s disruption to Microsoft services.\n\nIn response to enquiries, the Digital Policy Office said it was highly concerned about the software system failure, which disrupted services including Outlook and Teams for more than 24 hours.\n\nThe office said it had not yet received reports of government department systems being affected and would continue to monitor the situation closely while providing support and advice to departments.\n\nOn whether Hong Kong’s critical infrastructure had been affected, the Security Bureau said the government had drawn on the experience of the mainland and other jurisdictions.\n\nTaking into account Hong Kong’s relevant legal requirements and carefully considering appropriate arrangements for information disclosure, the government – for security reasons – will not publicly disclose the list of critical infrastructure operators or related details.\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T09:32:16.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877816-20261114.htm"
+    },
     {
       "id": "efd58bf3c3d9d70a",
       "title": "Woman injured in Ngau Tau Kok traffic incident",
@@ -885,17 +896,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877511-20261112.htm"
-    },
-    {
-      "id": "62bfd4e7fa44ce80",
-      "title": "Teachers face cert, security rules in new schools bill",
-      "excerpt": "School teachers in Hong Kong will be required to hold practising certificates and barred from classrooms upon conviction of national…",
-      "fullText": "School teachers in Hong Kong will be required to hold practising certificates and barred from classrooms upon conviction of national security offences under an education amendment bill to be gazetted on Friday.\n\nThe Education (Amendment) Bill 2026 will apply to all teachers, including principals, in publicly funded, private and international schools as well as kindergartens.\n\nThey will need to be registered and hold a practising certificate that is valid for no more than three school years.\n\nTeachers applying for a practising certificate will also have to meet continuing professional development requirements.\n\nThe Education Bureau said this would help teachers keep up with changing local and global education policies and ensure their knowledge and teaching methods meet students’ and society’s needs.\n\nA bureau spokesman said the bill could boost public regard for the profession and lift teachers’ standing in society.\n\n\"As role models and key persons for nurturing students, the words and deeds, conduct and values of teachers have a profound impact on students,\" he said.\n\n\"Amid the complex and rapidly changing development of our society, the public and parents have increasingly high expectations of teachers' professionalism.\n\n\"The bill meets schools' actual operational needs, encourages teachers to keep pace with the times and strengthens teacher management, with the ultimate goal of safeguarding the well-being of students.\"\n\nThe bill also includes safeguards to prevent people convicted of offences endangering national security from teaching in schools.\n\nThe bureau has consulted the sector since September last year and the Legislative Council's education panel on February 6.\n\nThe bill will be introduced to the Legislative Council for a first and second reading on November 25.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T05:27:04.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877518-20261112.htm"
     },
     {
       "id": "00a02044bda0132d",
