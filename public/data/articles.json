@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T02:15:16.031Z",
-  "checkedAt": "2026-11-14T02:45:16.149Z",
+  "generatedAt": "2026-11-14T03:00:29.073Z",
+  "checkedAt": "2026-11-14T03:00:29.073Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "8d0d575fc64be5b7",
+      "title": "SpaceX faces Starship first as booster catch fails",
+      "excerpt": "Elon Musk's SpaceX has aborted the recovery of the booster for the latest flight of the world's biggest and most…",
+      "fullText": "Elon Musk's SpaceX has aborted the recovery of the booster for the latest flight of the world's biggest and most powerful rocket, the Starship, but insisted it could yet \"catch\" the spaceship, which would be a first.\n\nThe 124-metre rocket roared into the sky from Starbase in southern Texas for its 15th test flight on Friday, but minutes later, the planned landmark nature of the mission went awry.\n\nAfter lift-off and the mid-air separation of the two stages, a technical problem forced the company to abandon plans to recover the booster, dubbed Super Heavy, allowing it to instead splash down in the Gulf of Mexico.\n\nThe spacecraft itself entered its orbit of the Earth, and SpaceX will attempt to recover it on Saturday after 22 hours of spaceflight.\n\nSuccessful recoveries of both Starship components would have marked a significant milestone in the space industry's decades-long pursuit of fully reusable rocket systems that can drastically reduce mission costs and make frequent launches possible.\n\nThe company had caught the booster on three previous occasions, with the first stage descending vertically back to the launch site shortly after blastoff and nestling into mechanical \"chopstick\" arms.\n\nIf SpaceX can capture the spacecraft that gives the rocket system its name, it will be a groundbreaking moment in the development of the vessel, some versions of which are designed to launch internet satellites and data centres into orbit.\n\nOther iterations will be made to ferry people to the Moon and Mars.\n\nA spacecraft that can be fully reused is the \"Holy Grail\" of the space industry, said Clayton Swope, an aerospace expert at the Center for Strategic and International Studies.\n\n\"No one's really been able to do that so far,\" he said. \"People have been trying to do that since the [Nasa] space shuttle. But the space shuttle ended up being kind of a compromise because a lot of the vehicle wasn't reusable.\"\n\nRecovering an upper stage involves an extraordinary amount of precision, said Kathleen Curlee, a senior analyst at Georgetown University's Center for Security and Emerging Technology.\n\n\"Getting Starship off the ground is an engineering achievement in and of itself; catching the upper stage involves millions of moving parts that all have to go right for a successful capture,\" she said.\n\nThe spaceship will be falling much faster and from a much higher altitude than the booster, with the vessel forced to withstand the extreme heat of reentering Earth's atmosphere.\n\nThe Starship project has been plagued by years-long delays as SpaceX grapples with novel engineering challenges – even as Nasa is counting on the spaceship to serve as a lunar lander for its Artemis program.\n\nOther technical challenges include transferring fuel to Starship in orbit – a requirement for any journey to the Moon or Mars.\n\nFollowing SpaceX's high-profile stock market debut in June that raised about US$85.7 billion, the company carried out the first orbital flight of Starship in September, though the mission was cut short due to an engine issue.\n\nStarship has deployed 26 satellites into Musk's Starlink satellite internet constellation that has become a major revenue stream for SpaceX.\n\nIt is in the process of attempting to circle the planet 14 times, before returning 22 hours later and – SpaceX hopes – descending safely into the chopstick arms.\n\nSpaceX has said it would proceed with these manoeuvres only if conditions are optimal, and in the past has made last-minute changes to test flights under Musk's \"fail fast\" strategy of learning through crashes, explosions and other mishaps. (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T02:43:30.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877786-20261114.htm"
+    },
     {
       "id": "84f37d8173f69424",
       "title": "US ends nationwide grounding of flights",
@@ -874,17 +885,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877478-20261112.htm"
-    },
-    {
-      "id": "7121fe3e7df4581a",
-      "title": "Trump defends Iran war in Veterans Day address",
-      "excerpt": "US President Donald Trump has defended the war against Iran at a US Veterans Day commemoration that saw his defence…",
-      "fullText": "US President Donald Trump has defended the war against Iran at a US Veterans Day commemoration that saw his defence secretary publicly admonished for a lack of decorum.\n\n\"The bravery and skill of our amazing American warriors has absolutely been incredible,\" Trump said in an address at Arlington National Cemetery just outside Washington.\n\n\"When this conflict is over, and it will be soon, the entire world will be a much safer and better place, more peaceful place, and a place without the kind of danger that we had to suffer.\"\n\nThe war, which began on February 28 with US and Israeli strikes against Iran, has so far cost the lives of 23 US service members and wounded several hundred more, according to the latest Pentagon figures.\n\nTrump said in his remarks that the conflict was started not by Washington but by Tehran, which \"has been waging war on America since 1979.\" He stressed that US forces were acting in order to halt Iran's capacity to build a nuclear weapon.\n\nTrump, 80, attended a wreath-laying ceremony at the cemetery's Tomb of the Unknown Soldier, a sacred symbol for America's lost service members.\n\nDuring his speech before troops, veterans and top officials in his administration, Trump namechecked Defence Secretary Pete Hegseth, who was in attendance, saying he had \"done a fantastic job.\"\n\nRepublicans in the US House of Representatives on Tuesday blocked an effort – launched by an outgoing Republican lawmaker – to impeach Hegseth for allegedly waging war without congressional authorisation and abusing his powers as Pentagon chief.\n\nHegseth stirred even more controversy at the ceremony: an army sentinel watching over the Tomb of the Unknown Soldier reprimanded a small group of people that included Hegseth, his wife and several aides, when some of them laughed after posing for a picture in front of the sacred site.\n\n\"All visitors will maintain an atmosphere of silence and respect at all times,\" the sentinel called out, halting his patrol to face the group as they walked up some stairs to leave. Hegseth turned around to look at the guard.\n\nDuring his remarks, Trump brought up the issue of the 250-foot-tall triumphal arch he hopes to build just outside the cemetery, saying it would be dedicated \"soon.\"\n\nOn Tuesday, the family of John F Kennedy asked a court to prevent its construction, arguing the massive structure would block views and cast shadows over the gravesites of the slain president and other Kennedy relatives buried at Arlington National Cemetery.\n\nThe project also faces lawsuits from a group of veterans, the city of Washington and the state of Virginia. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T00:02:33.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877477-20261112.htm"
     },
     {
       "id": "29fab9a3f5737a0f",
