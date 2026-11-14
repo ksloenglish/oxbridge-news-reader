@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T05:30:20.477Z",
-  "checkedAt": "2026-11-14T05:30:20.477Z",
+  "generatedAt": "2026-11-14T05:45:16.081Z",
+  "checkedAt": "2026-11-14T05:45:16.081Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 20
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "6d9043013e99af97",
+      "title": "12 held in crackdown on illegal cross-border car hires",
+      "excerpt": "Police have arrested 12 drivers suspected of providing illegal cross-border hire cars over the past two weeks, Police Commissioner Joe…",
+      "fullText": "Police have arrested 12 drivers suspected of providing illegal cross-border hire cars over the past two weeks, Police Commissioner Joe Chow said.\n\nSpeaking after a police passing-out parade, he said the arrests were part of a series of operations targeting unlicensed cross-border hire cars, commonly known as \"white licence\" cars, including one near Kai Tak, where a large concert was being held.\n\nChow said officers made no arrests on Friday night but towed away a modified seven-seater vehicle.\n\nPolice, he said, had also published short promotional videos on social media urging tourists and locals not to use cross-border white licence cars.\n\nHe said the force would continue similar operations in the coming nights and around other large events.\n\nAsked whether the police would work with mainland departments to tighten licensing criteria, Chow said police had long maintained close contact with different departments across the border.\n\n\"We will continue to maintain coordination and contact with them in all aspects in the hope of further improving the situation,\" he said.\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T05:26:41.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877799-20261114.htm"
+    },
     {
       "id": "63a22d41670c7598",
       "title": "Three teens arrested over alleged assault in school",
@@ -882,8 +893,8 @@
       "fullText": "Chief Executive John Lee on Thursday said the SAR government was working to enrich resources for patriotic education, providing a broader platform for the younger generation to learn about national affairs.\n\nSpeaking at a ceremony to commemorate the 160th anniversary of the birthday of Sun Yat-sen, Lee said the national hero had deep ties with Hong Kong – the birthplace of his revolutionary ideas.\n\nThe best way to commemorate Sun is to carry forward his spirit of revitalising the nation, he said, adding that the city’s first five-year plan had proposed to step up patriotic education.\n\n“The SAR government attaches great importance to patriotic education, and is making continuous efforts to promote mainstream values centred on the affection for our country and Hong Kong and in conformity with the ‘One Country, Two Systems’ principle to strengthen people’s sense of identity with the country and Chinese culture, enhance national confidence and pride, and foster a conscious commitment to upholding national unity and solidarity,” Lee said.\n\nThe CE went on to say that the SAR government would continue to host mainland study tours for students while supporting non-governmental organisations in hosting youth exchange programmes, so that youngsters in the city could experience firsthand the nation’s history, culture, and latest developments.\n\nHe urged people to make contributions to the country’s development and the great rejuvenation of the Chinese nation.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-12T03:35:58.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877499-20261112.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
-    },
-    {
-      "id": "655dea3537ed986c",
-      "title": "Five HK universities rank in top 100",
-      "excerpt": "Hong Kong has five universities among the top 100 in the World University Rankings 2027, published by Times Higher Education…",
-      "fullText": "Hong Kong has five universities among the top 100 in the World University Rankings 2027, published by Times Higher Education (THE).\n\nCommenting today, the Education Bureau highlighted that two of the city’s ranked institutions had gained higher positions in the latest rankings.\n\nIt said the results demonstrate the robust strengths of Hong Kong’s higher education system and its world-class standing in terms of teaching, research, and international outlook.\n\nIt added that the rankings reflect the Government’s investment of resources and its policy support over the years, both of which have laid a solid foundation for the city’s higher education institutions.\n\nIn the latest rankings, the University of Hong Kong ranks 33rd globally; the Chinese University ranks 42nd; and the University of Science & Technology ranks 58th. City University and Polytechnic University have risen to 70th and 79th respectively.\n\nThe bureau said the consistent high international rankings of Hong Kong’s universities not only reflect the local higher education sector's excellence, but also bear witness to the Government’s proactive leadership in policy measures aimed at driving innovation and change, as well as expanding capacity while enhancing quality.\n\nIt added that the Government will continue to spare no effort in promoting the sector's comprehensive integration into overall national development, contributing to China’s development as a leading country in education.\n\nLooking ahead, the bureau said that with the advent of Hong Kong’s First Five-Year Plan, the city’s higher education is ushering in a golden period of development full of promising potential.\n\n“We will continue to promote the all-round connectivity in areas such as talent training, frontier scientific research, and industry-academia-research collaboration, optimise resource allocation, support various institutions in consolidating their existing advantages while pioneering innovation, and nurture more outstanding talent equipped with both international perspective and exceptional capabilities, thereby making greater contributions to the long-term prosperity and stability of Hong Kong and the country.”",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409/images/20260930122638517.jpg",
-      "publishedAt": "2026-09-29T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
     }
   ]
 }
