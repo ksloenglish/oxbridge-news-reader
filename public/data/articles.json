@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T07:05:04.083Z",
-  "checkedAt": "2026-11-14T07:30:19.937Z",
+  "generatedAt": "2026-11-14T07:45:24.459Z",
+  "checkedAt": "2026-11-14T07:45:24.459Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "ecf2ed2134ca758d",
+      "title": "MTR pledges no compromise on Northern Link safety",
+      "excerpt": "MTR Corporation chief executive Jeny Yeung said the quality and safety standards of the Northern Link line that it is…",
+      "fullText": "MTR Corporation chief executive Jeny Yeung said the quality and safety standards of the Northern Link line that it is building will not be compromised despite a significantly reduced cost forecast.\n\nHer remarks came after the government gave the green light to the second phase of the project this week, revealing that the entire railway link is expected to cost about HK$86.2 billion - around 28 percent lower than initial estimates as a result of a shortened construction period and cost-saving measures.\n\nSpeaking on a television programme aired on Saturday, Yeung also said the rail operator was not concerned about the project going over budget.\n\n\"We shall work very hard to control costs when working on the project,\" she said.\n\n\"In addition, we will also utilise more technology and, in the process, use as much innovative thinking as possible.\n\n\"Like I just said, we shall jointly build part one and part two of the railway link, and the approach will also benefit from innovative thinking.\"\n\nYeung added that the Northern Link would likely adopt equipment aligned with mainland railway standards to enable greater procurement flexibility, following the promulgation of the Hong Kong Railway Standards in February, which for the first time systematically integrate mainland standards alongside international frameworks.\n\nUnder the project agreement signed on Tuesday, the government also granted eight sites along the Northern Link to the rail operator for residential and commercial development.\n\nYeung said not all of the sites are expected to be put out for market tender by 2034, when both the main line and the spur line are scheduled to be commissioned simultaneously. Sites close to nearly completed stations, such as Kwu Tung, will be prioritised for development, she added.\n\nOverall, the corporation is currently working on seven separate projects, she said, predicting that the three-year period starting from 2029 will mark its peak construction phase.\n\nRegarding a recent incident in which around 30 pillars at the platform level of the under-construction Tung Chung West Station were found to be substandard, Yeung said the company was still aiming to meet the original commissioning timeline of December 2029.\n\nAsked why there was a one-month gap between the MTR's discovery of the issue and its public announcement in November, she stressed that staff had ordered the contractor to suspend work immediately after spotting suspected irregularities during routine inspections.\n\nStaff subsequently spent time inspecting other columns and uncovered further issues, she explained.\n\nYeung went on to say that the MTR was taking the irregularities seriously and pledged to update the public as more details came to light.\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T07:38:49.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877801-20261114.htm"
+    },
     {
       "id": "ebbe8aed7aba7a1b",
       "title": "White House says trilateral meeting on for Shenzhen",
@@ -885,17 +896,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877501-20261112.htm"
-    },
-    {
-      "id": "2150a9ff76dad04b",
-      "title": "Higher standards set for arts groups' funding overhaul",
-      "excerpt": "The Hong Kong Arts Development Council said on Thursday that the government’s move to tie the funding mechanism for major…",
-      "fullText": "The Hong Kong Arts Development Council said on Thursday that the government’s move to tie the funding mechanism for major performing arts groups to performance and artistic merits will encourage the industry to deliver higher performance standards.\n\nUnder the new mechanism, a baseline subvention and a performance-based grant will each occupy half of the annual allocation.\n\nThe performance-based subvention will be calculated based on major performing arts groups’ non-government revenue, along with key performance indicators, such as their audience sizes and governance.\n\nMedium-sized arts groups could be promoted to become major ones if they continuously deliver an outstanding performance in those areas.\n\nBetter performing groups can receive more funding, while underperforming ones could lose their status.\n\nThe reform will be launched gradually starting 2027-28, before it is fully implemented in 2032-33.\n\nSpeaking on RTHK, the council's vice-chairman Chris Ip said that the move would help to cultivate arts groups.\n\n“First, I believe after the reform, it will allow major performing arts groups, no matter the pursuit of artistic merits, administration and talents, they will have a goal to do better. This will contribute to the healthy development for arts groups and the ecosystem of the whole cultural and arts sector,\" he said.\n\n\"Second, I have also noticed that there is a promotion ladder for medium and small-sized arts groups to have a goal to be able to do better.”\n\nHe said that the five-year transitional period offers enough time for arts groups to plan ahead and make changes, adding that they often come up with a blueprint for the next year or two.\n\nThe overhaul comes as the government’s annual funding to nine major performing arts groups rose more than 104 percent to about HK$450 million over the past two decades, but audience sizes and attendance rates have dropped.\n\nExecutive director Celina Chin from the Hong Kong Chinese Orchestra – one of the city’s major performing arts groups – told RTHK that she believed the decrease was also observed among smaller arts groups.\n\nShe believes this was partially due to a lower birth rate, saying that families used to watch performances together, and that the sector has to look for other audience groups now.\n\nThe sector has also been adapting to changes in people’s lifestyle, she said.\n\n\"People prefer to stay home (during the day) and go out in the evening,\" she said.\n\n\"We can see that a lot of arts groups have adjusted their admission time or the performance time of their concerts to respond to that.”\n\nChin added that while arts groups will face pressure under the new mechanism, it is not a bad thing, saying that they will have to change direction or make sacrifices to maintain their positions.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T03:44:46.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877489-20261112.htm"
     },
     {
       "id": "fce484263e03e7d2",
