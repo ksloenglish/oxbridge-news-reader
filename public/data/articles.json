@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T07:45:15.948Z",
-  "checkedAt": "2026-11-15T08:00:28.199Z",
+  "generatedAt": "2026-11-15T08:15:18.036Z",
+  "checkedAt": "2026-11-15T08:15:18.036Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "f6b61e73d196e884",
+      "title": "One dead, 300 evacuated in Wong Tai Sin fire",
+      "excerpt": "A fire at a public housing unit in Wong Tai Sin on Sunday claimed the life of an elderly resident…",
+      "fullText": "A fire at a public housing unit in Wong Tai Sin on Sunday claimed the life of an elderly resident and forced the evacuation of about 300 people.\n\nFirefighters were notified of the blaze at Lung Kwong House of Lower Wong Tai Sin Estate at 8.45am, and it took them about half an hour to put it out.\n\nA charred body was found inside the flat afterwards.\n\nThe deceased was an 80-year-old woman who lived alone.\n\n“We found a lot of clutter inside the unit where the fire broke out. The department’s preliminary investigation indicated the fire was not suspicious,” senior station officer Chan Chun-wai said in a media briefing.\n\n“We will carry out the investigation with other relevant departments through the direction of whether the clutter was accidentally set alight by a cigarette butt or by burning of incense and joss paper.”\n\nChan added that a woman felt unwell due to smoke inhalation and was sent to Queen Elizabeth Hospital for treatment.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:00:14.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877883-20261115.htm"
+    },
     {
       "id": "42e8ff91a88fc661",
       "title": "Hong Kong sees rising value in finance, trade: FS",
@@ -621,17 +632,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877678-20261113.htm"
-    },
-    {
-      "id": "225bf61ea291bef8",
-      "title": "'Govt to check more items during lift inspections'",
-      "excerpt": "Secretary for Development Bernadette Linn on Friday said the government would improve its acceptance-inspection regime for lifts. Her remarks came…",
-      "fullText": "Secretary for Development Bernadette Linn on Friday said the government would improve its acceptance-inspection regime for lifts.\n\nHer remarks came after authorities found that 720 lifts installed by Taizoom Elevator were missing mandatory fire resisting door frame components.\n\nSpeaking at a special meeting of the Legislative Council’s Panel on Development, Linn said the Electrical and Mechanical Services Department’s on-site inspections only focused on safety-related components, which should be further expanded to cover other parts.\n\n“For other areas, such as the lift’s smoothness and its door frame, we have to admit that under the current mechanism, we mainly relied on registered lift engineers to carry out inspection without checking on-site,” she said.\n\n“We think this is a point that must be adjusted in the acceptance-inspection regime in the future.”\n\nLinn said she hoped the department could finish reviewing its mechanism by the end of the year.\n\n“We don’t want to bring in an independent third party every time a problem arises in the regulatory authorities, because it would only result in layer upon layer of regulation while increasing the costs,” she said.\n\n“Also, don’t forget that even a third party itself might fail to comply with the rules.”\n\nLinn said the authorities would conduct spot checks when non-governmental personnel are involved in building works and impose punishments that carry a deterrent effect.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T04:14:40.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877671-20261113.htm"
     },
     {
       "id": "d657eec2cf318316",
