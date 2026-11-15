@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T22:30:21.249Z",
-  "checkedAt": "2026-11-15T23:00:27.134Z",
+  "generatedAt": "2026-11-15T23:11:51.705Z",
+  "checkedAt": "2026-11-15T23:11:51.705Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "4e09c43ba56b72e0",
+      "title": "US air travel disruptions continue for third day",
+      "excerpt": "The Trump administration on Sunday said the air travel havoc triggered by a no-takeoff order could drag on for another…",
+      "fullText": "The Trump administration on Sunday said the air travel havoc triggered by a no-takeoff order could drag on for another day, pushing back its timetable for a return to normal.\n\nNearly 2,000 more flights were cancelled and questions remained over how such chaos could unfold in the world's largest economy.\n\nOfficials blame Friday's huge snafu on faulty work to upgrade air traffic control communication cables.\n\nUS President Donald Trump on Sunday ended uncharacteristic days of silence on the ground stop, but only to blame his predecessor Joe Biden for the debacle.\n\nTrump insisted he inherited a mess from the Biden administration and said Congress, which his party has controlled for two years, must approve funds to upgrade America's outdated air traffic control system.\n\n\"The Biden Administration was an FAA disaster,\" Trump said, referring to the Federal Aviation Administration.\n\n\"Everything they touched turned bad. Big money spent unwisely, making an old and broken system worse than when they began,\" Trump asserted.\n\nFAA chief Bryan Bedford had said on Saturday that air travel for millions of Americans stranded at airports would return to normal by the close of business on Sunday.\n\nBut Transportation Secretary Sean Duffy said on Sunday morning it will actually take longer to get planes, crews and travellers to where they need to be.\n\n\"So, in the airspace, we're going to see things come back to normal today, but probably fully normal tomorrow,\" Duffy said on ABC News.\n\n\"We had airplanes and crews out of position because of Friday, so it takes a little bit of time to do that.\"\n\nDuffy also flatly rejected calls for his resignation over the travel chaos, insisting he inherited woefully outdated air traffic control infrastructure, such as, he said, radar equipment that dates back to the 1960s.\n\n\"So when we do work and things go wrong, of course I'm the secretary. But I also have to acknowledge what was delivered to me,\" Duffy said in an interview on CNN.\n\nAs of Sunday afternoon more than 1,880 flights within, into or out of the United States had been cancelled, according to the travel monitor site FlightAware.\n\nThe Trump administration has blamed Friday's ground stoppage – meaning no planes can take off – on a botched replacement of old copper wire communication lines.\n\nFriday's disruption was only the second time such a ground stop had been issued in US airspace, which is among the busiest in the world, since the 9/11 attacks.\n\nThe ground stop not only plunged US air travel into chaos, it also raised serious concerns about the country's ageing infrastructure.\n\nDuffy has appealed for US$50 billion in funds to upgrade and modernise the air traffic control system, and called for Congress, which controls the purse strings of the US government, to \"meet this moment.\"\n\nBut Democrats quickly pounced to say Congress under Trump's Republicans could already have done this. (AFP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T23:00:12.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877916-20261116.htm"
+    },
     {
       "id": "e74966f782ffe886",
       "title": "Starshield restrictions hinder Ukraine: Zelensky",
@@ -808,17 +819,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877628-20261113.htm"
-    },
-    {
-      "id": "f50a2a96b9174324",
-      "title": "Israeli strike on Gaza hospital deadliest since poll",
-      "excerpt": "Israeli fire killed 10 people in Gaza on Thursday, six of whom died in the bombing of Nasser hospital in…",
-      "fullText": "Israeli fire killed 10 people in Gaza on Thursday, six of whom died in the bombing of Nasser hospital in south Gaza early in the day, health officials said, the deadliest single strike since Israel's elections last month.\n\nThe Israeli military confirmed the attack on the medical complex, saying they targeted \"a senior Hamas terrorist and additional terrorists from Hamas's military wing\" who it said were operating from the hospital, which it has long accused the Palestinian Islamist movement of using to shelter militants.\n\nHamas has denied this, and both parties frequently accuse each other of violating the terms of a US-backed ceasefire agreement that took effect in October 2025.\n\nNasser Hospital, located in Khan Younis, confirmed the six deaths in a statement, while a doctor there said that nearly 30 were wounded.\n\nGoher Rahbour, a British surgeon volunteering at the Hospital, said that Palestinian doctor Rizeq Abu Sheikh, with whom he had conducted a surgery on Wednesday evening, was among those killed in the strike on Thursday.\n\n\"I was on my phone just doing a bit of reading and the strike occurred just after midnight. It was very loud, very quick. The building shook, there was a lot of smoke that came up,\" Rahbour said.\n\nGaza's civil defence agency said the bodies from the strike had been recovered from the targeted building, which a medical source said was the surgery ward of Nasser Hospital, a sprawling medical complex in the southern city of Khan Younis.\n\nThe rescue agency reported four more deaths on Thursday. One person was killed by \"Israeli gunfire\" near the al-Bureij camp and another in an \"Israeli drone strike\" targeting a vehicle near Deir al-Balah, both in central Gaza.\n\nTwo more people were killed in an Israeli strike on a vehicle near Gaza City's al-Shifa hospital, bringing Thursday's total death toll to 10.\n\nIsrael's military said it struck a militant in Deir al-Balah and another in Gaza City, but denied that the second strike took place near al-Shifa Hospital.\n\nIsrael is currently led by a caretaker government under Benjamin Netanyahu following an inconclusive election, with opposition bloc head Gadi Eisenkot officially tasked with forming a new administration.\n\nNetanyahu, who has held power on-and-off for nearly 20 years and has led Israel throughout the war in Gaza, has played up security threats to the country throughout the election period and called for a unity government.\n\nMore than 1,600 Palestinians have been killed since the start of the ceasefire, according to the Gaza Ministry of Health, which operates under Hamas authority and whose figures are considered reliable by the United Nations.\n\nDuring the same period, the Israeli military has reported the loss of seven soldiers, as well as one civilian contractor. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T23:39:57.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877600-20261113.htm"
     },
     {
       "id": "d664a4dc3ecf0c09",
