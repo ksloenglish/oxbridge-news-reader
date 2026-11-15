@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T13:15:18.307Z",
-  "checkedAt": "2026-11-15T13:30:23.322Z",
+  "generatedAt": "2026-11-15T13:45:17.328Z",
+  "checkedAt": "2026-11-15T13:45:17.328Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "89e06d70f6cad437",
+      "title": "Australia down NZ to clinch Rugby League World Cup",
+      "excerpt": "Slick Australia overpowered New Zealand 32-12 in a pulsating battle on Sunday to lift a fourth consecutive Rugby League World…",
+      "fullText": "Slick Australia overpowered New Zealand 32-12 in a pulsating battle on Sunday to lift a fourth consecutive Rugby League World Cup crown and reinforce their status as the sport's global powerhouse.\n\nThe home team took a 24-6 advantage into the break on a muggy evening at a sold-out Suncorp Stadium in Brisbane and never relented to inflict more pain on their arch-rivals.\n\nLiam Martin and Jack Bostock bagged two tries each with Bradman Best and Tom Trbojevic also crossing in a fast and furious clash where Australia's fitness in draining conditions proved decisive.\n\nThe masterclass denied New Zealand their first title since 2008.\n\nThat upset – also in Brisbane – was the last time a team other than Australia lifted the silverware.\n\nSince then the Kangaroos have won 23 games in a row at the tournament with Sunday's victory their 13th title from 17 World Cups played since its inception in 1954.\n\nSo dominant are they that they have lost just one of 20 Tests in the 2020s.\n\nNew Zealand performed an emotive haka, eager for revenge after going down 24-22 to Australia in an epic tournament opener over a month ago.\n\nBut they were immediately on the back foot, conceding after just 84 seconds.\n\nHarry Grant threw a dummy and found big back-rower Martin who charged over with Cameron Munster adding the extras for a dream start.\n\nAfter their shaky opening, the Kiwis knuckled down and after a sustained period of pressure centre Casey McLean stepped inside two Australian players to dot down and get them back in the contest.\n\nJamayne Isaako booted the conversion to move to 227 points, surpassing Shaun Johnson to become New Zealand's most prolific points scorer.\n\nBut Australia quickly restored order, with a beautiful offload from Best to Bostock in space who crossed in the corner.\n\nMunster fluffed the conversion but made amends minutes later with a successful penalty to move Australia into a 12-6 lead.\n\nThe hosts were well on top and pierced a battered Kiwi defence again as Best finished under the posts before Martin collected his second just before the break with New Zealand tiring.\n\nThe second-half started where the first left off, with Australia's Trbojevic over after just four minutes, courtesy of Reece Walsh beating three defenders before the offload.\n\nNew Zealand were on the ropes with nothing going their way, including a try given by the referee then denied on review for a knock on.\n\nBut New Zealand persisted and Isaiah Papali'i split the defence for a converted try to leave them trailing 28-10 with 13 minutes remaining, only for Australia to hold firm with Bostock grabbing his second as the clock ticked down. (AFP)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T13:33:22.000Z",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877903-20261115.htm"
+    },
     {
       "id": "9e97e189dbaac558",
       "title": "New World Development unveils plan to raise HK$24.9b",
@@ -1402,17 +1413,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877112-20261109.htm"
-    },
-    {
-      "id": "95b02bba10ba5688",
-      "title": "Lopez double fires Barcelona to top of La Liga",
-      "excerpt": "Fermin Lopez struck twice to help Barcelona come from behind to beat Atletico Madrid 2-1 and move three points clear…",
-      "fullText": "Fermin Lopez struck twice to help Barcelona come from behind to beat Atletico Madrid 2-1 and move three points clear at the top of La Liga.\n\nThe Spanish champions lead second place Real Madrid, who beat Valencia 3-0 on Saturday, with Atletico third, now five points behind.\n\nGiuliano Simeone fired Atletico ahead in a high-octane start, before Lopez pulled Barca level shortly before the interval at the Metropolitano stadium.\n\nThe 23-year-old Spain international netted the winner after 66 minutes when Lamine Yamal slipped him in, helped Barca triumph despute not being at their best.\n\nLast season Atletico defeated Barcelona in the Champions League quarter-finals and also in the Copa del Rey, but the Catalans earned some measure of revenge here.\n\n\"Coming off last season, when they beat us... we knew what they were going to offer – a very difficult game,\" Lopez told Movistar.\n\n\"It got tricky for us in the first half with their goal, but I think we knew how to come back and we had a great match.\"\n\nAtletico captain Koke said his team would not let the defeat, their first in La Liga since September 5, upset them.\n\n\"I think the team had a really great first half. We had chances to kill off the game and we didn't take, them,\" said Koke.\n\n\"That's football – it's about being clinical, and they were more clinical than we were.\n\n\"But there's nothing to criticise the team for, we have to keep going like this because there's still a long way to go in La Liga.\"\n\nEarlier on, fourth-place Real Betis earned a 2-0 win at Elche, while Real Sociedad, fifth, defeated Rayo Vallecano 1-0.\n\nVillarreal beat Getafe 2-0 to move eighth and Celta Vigo and Levante shared a goalless draw. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T23:20:37.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877063-20261109.htm"
     },
     {
       "id": "05e1d7a3b436ff62",
