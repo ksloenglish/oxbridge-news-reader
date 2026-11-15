@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T12:00:26.443Z",
-  "checkedAt": "2026-11-15T12:30:26.819Z",
+  "generatedAt": "2026-11-15T12:45:19.541Z",
+  "checkedAt": "2026-11-15T12:45:19.541Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "bb24d7b2b7378ea3",
+      "title": "Evening News on TV32 - Nov 15",
+      "excerpt": "Top stories for Sunday, Nov 15, 2026 - Strong currents prevent hundreds from joining the Victoria Harbour Race. - An…",
+      "fullText": "Top stories for Sunday, Nov 15, 2026\n\n- Strong currents prevent hundreds from joining the Victoria Harbour Race.\n\n- An elderly woman is killed in a flat fire in Wong Tai Sin.\n\n- Shenzhen residents prepare to welcome world leaders for an Apec meeting.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T12:25:58.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877896-20261115.htm"
+    },
     {
       "id": "1926781eb8f78f90",
       "title": "Xi, 11 regional leaders to attend Apec CEO Summit",
@@ -610,17 +621,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877650-20261113.htm"
-    },
-    {
-      "id": "a3abd5132d1cfc5d",
-      "title": "Housing Authority eases way for families, resales",
-      "excerpt": "The Housing Authority approved two measures to assist people in purchasing subsidised sale flats on Friday. This included a government…",
-      "fullText": "The Housing Authority approved two measures to assist people in purchasing subsidised sale flats on Friday.\n\nThis included a government proposal aimed at further facilitating families with newborns to buy their own homes.\n\nStarting with the next Home Ownership Scheme sale exercise, the maximum mortgage loan-to-value ratio for white form family applicants with newborns will be raised from 90 to 95 percent.\n\nThe authority said all families with children aged three or below by the application deadline could benefit from the new arrangement.\n\nIt would also relax the resale restriction period on subsidised flats that were first put up for sale between 2022 and 2025 from 15 years to 10 years.\n\n“These two new measures will help more families move up the housing ladder while also promoting the turnover of subsidised sale flats, providing comprehensive assistance to members of the public to achieve home ownership,” a spokesman for the authority said.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T07:04:32.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877687-20261113.htm"
     },
     {
       "id": "f11d62e23712ab14",
