@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T00:15:24.180Z",
-  "checkedAt": "2026-11-15T01:30:20.648Z",
+  "generatedAt": "2026-11-15T01:45:17.808Z",
+  "checkedAt": "2026-11-15T01:45:17.808Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "351e16b59ba5d215",
+      "title": "Italy hits Meta with heavy fine over unauthorised use",
+      "excerpt": "Italian regulators fined Facebook parent company Meta 805 million euros (HK6.96 billion) for accessing users' photos without their \"specific\" consent…",
+      "fullText": "Italian regulators fined Facebook parent company Meta 805 million euros (HK6.96 billion) for accessing users' photos without their \"specific\" consent, the country's data protection authority said on Saturday.\n\nThrough the Facebook application for Android devices, Meta accessed photographs, videos and related metadata belonging to Italian users \"without obtaining specific consent and without properly informing them\", the authority said in a statement.\n\nIn late October, authorities in the US state of New Mexico ordered Meta to pay US$25 billion for having misled the state's residents for more than a decade over use of their data — a record fine for the company, which slammed it as a \"tax\" on freedom of expression.\n\nSaturday's latest fine is among the largest an Italian authority has ever imposed on a tech giant.\n\nIn 2021, Amazon received a more than 1.1 billion euros fine for breaching competition law.\n\nThat sum was subsequently reduced to 752 million euros on appeal.\n\nMeta may also appeal the latest fine.\n\nWhen contacted, the US group had not responded by Saturday afternoon.\n\nThe penalty imposed on Facebook relates to its gallery suggestions feature, available since 2023, which suggests photos and videos from a user's phone gallery as ideas for posts as they are browsing.\n\nAccording to Italy's regulator, Facebook requested access to the gallery via a single authorisation valid for the entire app, preceded by a generic notice requesting enabling of other features, which did not allow users to understand that they were also authorising suggestions from their gallery.\n\nMeta will now notably have to seek consent by means of a separate and specific request for the feature concerned and clearly signpost what it is used for, namely that it involves access to a user's photo gallery, as well as how to disable it.\n\nIn determining the size of the fine, the authority said it took into account \"the high number of people affected\" — around 20 million Android users in Italy — and the duration of the infringement, \"which is still ongoing for those who have not updated the app and for those who have already given their consent to the system\".\n\nThe authority also cited \"Meta's lack of cooperation during the investigation\".\n\nIt imposed a fine amounting to roughly 0.4 per cent of the group's annual turnover, which hit US$201 billion in 2025, for a net profit of US$60.5 billion. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T01:36:54.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877862-20261115.htm"
+    },
+    {
+      "id": "17179d6c89b1c673",
+      "title": "Wales beat New Zealand for first time since 1953",
+      "excerpt": "Wales edged New Zealand 35-28 in the Nations Championship in Cardiff on Saturday to claim their first victory over the…",
+      "fullText": "Wales edged New Zealand 35-28 in the Nations Championship in Cardiff on Saturday to claim their first victory over the All Blacks since 1953.\n\nScrum-half Tomos Williams scored one of five Welsh tries in a superb individual performance as the home side ended a 34-match losing run against the three-time Rugby World Cup winners.\n\nWales's heroic defence held out the visitors in the final 25 minutes after the All Blacks had made it a seven-point game thanks to Peter Lakai's try.\n\nThe victory is even more remarkable with Welsh rugby in dire straights after a poor run of results since the 2023 World Cup, and a long line of off-field issues overshadowing the sport in the country.\n\nMeanwhile, Will Joseph marked his first Test start with a record-equalling five tries as England thrashed Japan 78-15 in their Nations Championship clash at Twickenham on Sunday.\n\nThe recalled Gloucester wing, winning just his second cap, seized his chance to stake a claim for a place in England coach Steve Borthwick's squad for next year's Rugby World Cup in Australia in style.\n\nThe younger brother of former England international Jonathan Joseph, Will struck as early as the opening minute.\n\nEngland crossed Japan's line eight times in a first half that finished with Borthwick's men out of sight at 49-10 and Joseph having run in four of England's eventual 13 tries.\n\nAn utterly lopsided encounter saw England post both their highest score and record-winning margin against Japan, surpassing a 60-7 success at the 1987 Rugby World Cup in Australia.\n\nJoseph had a hat-trick inside an opening quarter when England scored five tries as they capitalised on a man advantage after Japan lock Harry Hockings was given a 20-minute red card for a high tackle on Ellis Genge.\n\nAnd when Joseph went over in the 57th minute off an intercept, he became just the fifth player to score five tries in a Test for England after Douglas Lambert, Rory Underwood, Josh Lewsey and Henry Arundell.\n\nEarlier, Argentina survived late nerves to beat winless Italy 19-14 in a scrappy Nations Championship in Genoa on Saturday.\n\nItaly had lost all four of their games in the first year of the inter-hemisphere tournament without even collecting a bonus point but took a fourth minute lead.\n\nThe result left Italy doomed to finish last in the Northern Hemisphere pool.\n\nThey face Fiji in their last match in Udine on November 21 and could face the same opponent again the following weekend in the wooden-spoon match at the finals at Twickenham.\n\nArgentina, whose only previous win in the competition was at home to Wales in July, overtook Australia to climb to third in the Southern Hemisphere pool.\n\nThey face Northern leaders France next weekend in Paris. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T01:30:16.000Z",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877861-20261115.htm"
+    },
     {
       "id": "858efba652c548df",
       "title": "Tech problems that caused outage resolved: Microsoft",
@@ -742,17 +764,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877623-20261113.htm"
-    },
-    {
-      "id": "4c2c3618c083607f",
-      "title": "Hegseth decorates soldier who rebuked him at Arlington",
-      "excerpt": "Pete Hegseth on Thursday awarded a medal to a US soldier who reprimanded the US defence chief and his entourage…",
-      "fullText": "Pete Hegseth on Thursday awarded a medal to a US soldier who reprimanded the US defence chief and his entourage for laughing and talking near the Tomb of the Unknown Soldier the day before.\n\nHegseth \"proudly awarded Specialist Thomas Iglesias the Joint Service Commendation Medal for the execution of his duties at the Tomb of the Unknown Soldier on November 11, 2026,\" a Pentagon official said.\n\nA post on Hegseth's official X account included photos showing him pinning the medal on the soldier's uniform and shaking his hand.\n\n\"We love soldiers. We love standards. Well done, Specialist,\" text accompanying the photos said.\n\nThe tomb, at Arlington National Cemetery near Washington, is a sacred burial place of American military personnel killed during World War I, World War II and the Korean War. It also includes an empty site for a Vietnam War soldier in honour of missing troops from that conflict.\n\nVideo on US networks and social media showed Hegseth and his entourage gathering to take photos on Wednesday at the tomb after a Veterans Day ceremony.\n\n\"All visitors will maintain an atmosphere of silence and respect at all times!\" a US Army sentinel yelled loudly in response to audible laughter and chatter.\n\nCNN identified the group taking photos on the steps near the tomb with Hegseth as his wife Jennifer, chief of staff Ricky Buria, deputy chief of staff Patrick Weaver and senior advisor Tami Radabaugh.\n\nThe tomb is patrolled at all times by soldiers who volunteer for the job and undergo \"a strict selection process and intensive training,\" according to the cemetery's website. (AFP)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T20:21:39.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877610-20261113.htm"
     },
     {
       "id": "0b5401a8842f0b62",
@@ -1435,17 +1446,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877058-20261109.htm"
-    },
-    {
-      "id": "5df8b4c208098466",
-      "title": "Man Utd fight back to draw with Villa; Chelsea stunned",
-      "excerpt": "Manchester United rescued an incredible 4-4 draw against Aston Villa as two stoppage-time goals gave Michael Carrick renewed hope of…",
-      "fullText": "Manchester United rescued an incredible 4-4 draw against Aston Villa as two stoppage-time goals gave Michael Carrick renewed hope of avoiding the sack, while Chelsea suffered a shock 1-0 loss at Sunderland on Sunday.\n\nUnited boss Carrick was seconds away from heading into the international break on the back of another devastating defeat that would surely have led to his dismissal.\n\nBut Carrick's side struck twice in the six minutes of additional time through Joshua Zirkzee and Patrick Dorgu to leave their manager's future still uncertain.\n\nUnited are in the relegation zone and have not won in their last eight Premier League matches, so it is far from sure that Carrick will survive the axe.\n\nHe had earned a stay of execution when United's hierarchy allowed him to remain in charge despite last weekend's loss at Chelsea.\n\nUnited responded by ending a nine-match winless run in all competitions as they came from two goals down to beat Roma 3-2 in the Champions League on Tuesday.\n\nBut United, who have only three wins in 15 games this season, were back in turmoil when they fell 2-0 down against Villa in the first four minutes at Old Trafford.\n\nAlysson struck in the first minute with a shot that squirmed under United keeper Senne Lammens.\n\nNicolas Jackson slotted in the second three minutes later after a weak save from Lammens pushed the ball into his path.\n\nBruno Fernandes got one back with a 16th-minute penalty after Boubacar Kamara fouled Matheus Cunha before former Villa midfielder Youri Tielemans slammed in United's 44th-minute equaliser.\n\nVilla's John McGinn converted a 48th-minute penalty following Diogo Dalot's clumsy challenge on Alysson.\n\nLeon Goretzka poked in Villa's fourth from close-range after United's Leny Yoro headed against his own crossbar in the 53rd minute.\n\nYet Zirkzee's stoppage-time finish gave United hope and Dorgu headed their dramatic equaliser in the final seconds after a weak punch from Villa keeper Zion Suzuki.\n\nCarrick wore a bewildered look on his face as he walked down the tunnel towards an uncertain future, with United next in action at Liverpool on November 22.\n\n\"Making it hard for ourselves. The goals are coming from individual mistakes. We need to tighten up,\" Carrick said.\n\n\"But I thought we were the better team. If we get one, then anything can happen. We never gave up and never stopped believing.\"\n\nChelsea arrived at the Stadium of Light hoping to bolster their bid to qualify for the Champions League via a top-four finish.\n\nInstead, they departed red-faced after an embarrassing loss to third-bottom Sunderland, who celebrated a league victory for only the second time this season.\n\nFifth-placed Chelsea have already been beaten four times in 10 league matches under former Real Madrid boss Xabi Alonso.\n\nChelsea were rocked in the 36th minute when Enzo Le Fee converted a penalty after Brian Brobbey was up-ended by Levi Colwill.\n\n\"We were not creating enough chances in the final third against the low block. We were not controlling and sustaining the attack there,\" Alonso said.\n\nLiverpool got back on track with a 3-1 win at lowly Crystal Palace.\n\nThe Reds had been beaten by Arsenal and Fenerbahce before arriving in south London, sparking pointed questions about Andoni Iraola in the former Bournemouth manager's first season in charge.\n\nBut Alexis Mac Allister headed Liverpool in front from Dominik Szoboszlai's cross after 40 minutes.\n\nFlorian Wirtz bagged Liverpool's second with a composed finish from Bradley Barcola's cross in the 54th minute.\n\nAlexander Isak finished off Wirtz's pass in the 89th minute to wrap up fourth-placed Liverpool's much-needed victory after a two-game losing streak.\n\nEddie Nketiah's stoppage-time penalty after a foul by Milos Kerkez was no consolation for bottom of the table Palace.\n\nBrighton extended their superb start to the season, climbing to second place with a 2-0 win against Brentford at the Amex Stadium.\n\nDiego Gomez put Brighton ahead early on before Brentford striker Igor Thiago was sent off.\n\nPascal Gross doubled Brighton's advantage with a 42nd minute penalty.\n\nThe Seagulls' sixth win in their last seven league games lifted them within five points of champions Arsenal, who beat Hull on Saturday.\n\nBournemouth striker Evanilson maintained his hot streak with a goal in a 2-1 win at Ipswich. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-08T23:15:50.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877057-20261109.htm"
     },
     {
       "id": "05e1d7a3b436ff62",
