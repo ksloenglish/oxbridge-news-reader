@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T10:15:18.345Z",
-  "checkedAt": "2026-11-15T10:30:22.147Z",
+  "generatedAt": "2026-11-15T10:45:15.996Z",
+  "checkedAt": "2026-11-15T10:45:15.996Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 17
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "1926781eb8f78f90",
+      "title": "Xi, 11 regional leaders to attend Apec CEO Summit",
+      "excerpt": "Twelve leaders of Asia-Pacific Economic Cooperation economies will attend the Apec CEO Summit held in Shenzhen on Tuesday and Wednesday…",
+      "fullText": "Twelve leaders of Asia-Pacific Economic Cooperation economies will attend the Apec CEO Summit held in Shenzhen on Tuesday and Wednesday.\n\nAmong them is President Xi Jinping, who will attend the summit and deliver speeches or remarks, or participate in panel discussions, said Li Qingshuang, vice chairperson of the China Council for the Promotion of International Trade (CCPIT), at a press conference on Sunday.\n\nLi said the leaders of Australia, Canada, Chile, Indonesia, the Republic of Korea, Malaysia, Mexico, Russia, Thailand, Vietnam, along with Hong Kong, China, will also be on hand for the summit.\n\nRepresentatives from 115 Fortune Global 500 companies will too attend the Apec CEO Summit 2026.\n\nLi added that the heads of several international organisations, as well as leaders of business associations from the United States, Russia, Japan and other economies, will be present.\n\nThe Apec leaders' summit is set for Wednesday and Thursday. (Reporting by Xinhua)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T10:32:41.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877892-20261115.htm"
+    },
     {
       "id": "c88898d0de8d5b51",
       "title": "Police chief pledges cautious use of CCTV network",
@@ -788,17 +799,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877606-20261113.htm"
     },
     {
-      "id": "e6a35fd322b582b1",
-      "title": "Tenant kills manager, shoots four in Washington",
-      "excerpt": "A disgruntled tenant shot dead his building manager and wounded four other people in an upscale neighbourhood of Washington on…",
-      "fullText": "A disgruntled tenant shot dead his building manager and wounded four other people in an upscale neighbourhood of Washington on Thursday before killing himself, police said.\n\nThe shooting, which occurred about a mile north of the White House, sparked a massive police response in the nation's capital with dozens of law enforcement vehicles racing to the scene and police helicopters hovering overhead.\n\nJeffery Carroll, Washington's interim police chief, told reporters that the gunman, identified as Matt Lambert, 55, had been involved in an ongoing dispute over maintenance with the condominium association for the building where he owned an apartment.\n\nLambert, an emergency medicine physician, fatally shot the building manager in a gym attached to the complex, located in the Logan Circle neighbourhood, and then barricaded himself in his seventh-floor unit, Carroll said.\n\nHe then opened fire from his balcony on people below, wounding four. One of the wounded was in critical condition while the others did not have life-threatening injuries.\n\nLambert fired at least twice at police through his apartment door before shooting himself, Carroll said. He was pronounced dead at the scene.\n\nCarroll said Lambert had taken legal action against the homeowners association of the condominium complex where he lived over what he considered to be a lack of maintenance of the building.\n\nAn X feed reportedly linked to Lambert titled @OfMiceandMold is a litany of complaints about mould and water damage. The final post, described as a \"manifesto,\" is an engineering report detailing problems with his apartment.\n\nWashington Mayor Muriel Bowser denounced what she described as a \"senseless act of gun violence.\"\n\nThe shooting occurred during the busy morning rush hour, snarling traffic as police closed off streets around the area and evacuated residents.\n\nThe Washington Sun quoted a member of the VIDA Fitness gym as saying that he was on a treadmill at the workout facility when the shooting began.\n\nMichael Carney said he heard a \"pop\" and then saw someone on the gym floor who had been shot in the head.\n\n\"Everyone was kind of just hiding behind planters and stuff,\" Carney told The Sun.\n\nThe Logan Circle neighbourhood is one of the most expensive in Washington and is known for chic restaurants and nightlife spots. It also sits a short distance from a heavy concentration of foreign embassies. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T22:47:45.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877608-20261113.htm"
-    },
-    {
       "id": "d664a4dc3ecf0c09",
       "title": "Wall St down as Nvidia drop outweighs energy gains",
       "excerpt": "US stocks closed lower on Thursday, as a drop in Nvidia shares after CEO Jensen Huang's exit outweighed gains in…",
@@ -1393,17 +1393,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877112-20261109.htm"
     },
     {
-      "id": "80b783d2c97a9aa1",
-      "title": "Death toll mounts to 14 in Shanxi fire",
-      "excerpt": "The death toll from a fire at a building in Taiyuan, capital of northern Shanxi province, has risen to 14…",
-      "fullText": "The death toll from a fire at a building in Taiyuan, capital of northern Shanxi province, has risen to 14, local authorities said on Monday.\n\nThe fire broke out at the building in the city's Yingze District at 4.59pm on Sunday, with the fire department saying the building is on Liuxiang South Road.\n\nThe death toll update followed an earlier report that 38 people had been sent to hospitals, with five of them being declared dead. (Xinhua)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T04:07:17.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877104-20261109.htm"
-    },
-    {
       "id": "95b02bba10ba5688",
       "title": "Lopez double fires Barcelona to top of La Liga",
       "excerpt": "Fermin Lopez struck twice to help Barcelona come from behind to beat Atletico Madrid 2-1 and move three points clear…",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
+    },
+    {
+      "id": "940d79532a5b6d51",
+      "title": "Nursing workforce planning outlined",
+      "excerpt": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare…",
+      "fullText": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare professionals. The statement was issued in response to public discussions regarding nursing manpower planning in Hong Kong, adding that such discussions should be grounded objective facts and data to foster consensus.\n\nAlthough the nurse attrition rate within the Hospital Authority has dropped from a peak of 10.9% to 5.4%, approximately 3,200 vacancies remain unfilled with recruitment ongoing. In 2025, around 3,500 of the 4,000 prospective nursing graduates qualified as Registered Nurses (RNs) or Enrolled Nurses (ENs), with about 60% applying for positions within the authority.\n\nThese figures demonstrate that graduates diversify into various sectors, including private healthcare institutions, elderly services and rehabilitation, community nursing, insurance and health management. Notably, approximately 99% of applicants who completed the interview or assessment process for RN posts within the authority received an offer of appointment.\n\nAs of the end of 2025, over 30,000 of Hong Kong’s 75,000 RNs and ENs were employed within the public healthcare system, representing roughly 40% of the total workforce. Given that nursing practice spans hospitals, primary care, community and elderly services, rehabilitation and other health service sectors, the Government noted that manpower supply and demand must be assessed holistically across the entire market.\n\nFurthermore, approximately 99.8% of RNs serving in the authority are locally trained, confirming that local professionals remain the backbone of public healthcare. The Government affirmed it will continue to promote regional healthcare collaboration and professional exchanges while strictly safeguarding employment priority for locally trained professionals.\n\nPlans are also underway to strengthen manpower training for primary healthcare and advance professional systems to enhance service quality and maximise the professional functions of nurses. Addressing broader roles, the Government stressed that the Health & Care Practitioner (HCP) rank is a dedicated welfare-sector role that should not be confused with ENs due to distinct scopes of practice.\n\nAcknowledging broader recruitment pressures, the Health Bureau noted that private hospitals face similar shortages, with one facility reporting 40 vacancies but receiving only 25 applications over the past year. In response to an ageing population, the Government reiterated its commitment to driving cross-sectoral collaboration and manpower planning based on service needs and manpower data to ensure that healthcare and nursing services in Hong Kong can continue to meet the needs of society.\n\nThe Government hopes that all sectors of the community will exchange views on healthcare manpower development and professional training based on facts and data, and work together to foster the sustainable development of the city's healthcare system.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431/images/20260929142417086.jpg",
+      "publishedAt": "2026-09-28T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
     }
   ]
 }
