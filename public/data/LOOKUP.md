@@ -4,7 +4,7 @@ File: `oxford-cefr-a1-c2.enriched.json`
 
 ## Structure
 
-- `words`: lemma entries keyed by lookup key (usually lowercase; acronyms `CD`/`DVD`/`IT`/`ID`/`DNA` keep uppercase; `it` and `IT` are distinct keys).
+- `words`: lemma entries keyed by lookup key (usually lowercase; acronyms `CD`/`DVD`/`IT`/`ID`/`DNA`/`TV` keep uppercase; `it` and `IT` are distinct keys).
 - `inflection_map` (`imap`): surface form → lemma key, or **array of lemma keys** when a form collides with another lemma.
 
 ## Lookup algorithm
@@ -21,7 +21,7 @@ File: `oxford-cefr-a1-c2.enriched.json`
 
 ## Acronyms
 
-`CD`, `DVD`, `IT`, `ID`, `DNA` are stored under uppercase keys in `words`. Imap includes **both** `cd`→`CD` and `CD`→`CD` (same for the others) so lowercase-then-map still resolves.
+`CD`, `DVD`, `IT`, `ID`, `DNA`, `TV` are stored under uppercase keys in `words`. Imap includes **both** `cd`→`CD` and `CD`→`CD` (same for the others, including `tv`→`TV` and `TV`→`TV`) so lowercase-then-map still resolves.
 
 ## Core additions
 
