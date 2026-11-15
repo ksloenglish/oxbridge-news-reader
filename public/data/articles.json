@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T09:16:02.813Z",
-  "checkedAt": "2026-11-15T10:00:35.558Z",
+  "generatedAt": "2026-11-15T10:15:18.345Z",
+  "checkedAt": "2026-11-15T10:15:18.345Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "c88898d0de8d5b51",
+      "title": "Police chief pledges cautious use of CCTV network",
+      "excerpt": "Police Commissioner Joe Chow on Sunday said the force’s surveillance camera system would not be abused. This came as facial…",
+      "fullText": "Police Commissioner Joe Chow on Sunday said the force’s surveillance camera system would not be abused.\n\nThis came as facial recognition technology will be rolled out across its CCTV network on Monday under the police SmartView initiative.\n\n“All of our investigation tools have the requirement of check and balance, so that they won’t be abused,” Chow told a TVB programme.\n\n“We understand that many people may be concerned about this, so it’s our routine practice.\n\n“The system will not be used casually – I believe this is not what the public expects.”\n\nChow added that the system would mainly be used to deal with criminal cases and locate missing persons because of the urgency in solving these cases.\n\nHe also said the CCTV system has helped solve robbery cases and could have prevented such crimes from happening.\n\nThe police chief also noted that the Interpol general assembly, to be hosted by the SAR from November 30 to December 3, would allow participants to feel Hong Kong’s vitality.\n\nThe city had been preparing for the event for nearly three years, he said, expressing confidence that it would be held successfully.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T09:59:36.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877887-20261115.htm"
+    },
     {
       "id": "bddda14b77075200",
       "title": "HZMB Half Marathon draws thousands of runners",
@@ -610,17 +621,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877688-20261113.htm"
-    },
-    {
-      "id": "da156aead8ef9779",
-      "title": "W Kowloon losses a time-lag problem: Bernard Chan",
-      "excerpt": "Heavy losses incurred by the West Kowloon Cultural District Authority are the result of a \"time-lag problem\" that ensues when…",
-      "fullText": "Heavy losses incurred by the West Kowloon Cultural District Authority are the result of a \"time-lag problem\" that ensues when cultural venues have opened but the commercial developments meant to support them have not yet been built, its chairman said.\n\nSpeaking on RTHK's \"On Broadcast Drive\" programme, Bernard Chan said the district already has two museums and two performance venues up and running but the revenue flowing in from the box office and venue hirings is far from enough to break even.\n\n\"No cultural facility anywhere in the world can balance its books solely on tickets, venue hire or dining,\" he said, pointing out that other cities are backed by all manner of subsidies.\n\n\"Some have very high taxes, so many funds and companies are very willing to donate because it reduces their tax bill. In places like Europe, most of it is government subsidies.\"\n\nThe commercial part of the development is only just getting under way, he said, with some projects due to open next year and others several years later, while spending on them has already begun – which is why the losses look so daunting.\n\nChan said he was determined to turn West Kowloon into both a cultural and a commercial centre as artistic undertakings need financial support to be sustainable, and the two have to coexist.\n\nHe noted that the national 15th Five-Year Plan supports Hong Kong deepening its development as a centre for cultural and artistic exchanges between the nation and the world.\n\nIn this regard, Chan said, the city's prolonged contact with the West lets it present Chinese culture in a way that audiences, including overseas visitors, can understand, making it a unique strength of the city.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T04:55:06.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877675-20261113.htm"
     },
     {
       "id": "2b5154725a22bcb2",
