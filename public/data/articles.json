@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T08:15:18.036Z",
-  "checkedAt": "2026-11-15T08:15:18.036Z",
+  "generatedAt": "2026-11-15T08:30:20.510Z",
+  "checkedAt": "2026-11-15T08:30:20.510Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 20
+      "articleCount": 19
     },
     {
       "id": "rthk-world",
@@ -50,7 +50,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 19
     },
     {
       "id": "news-gov-hk-top",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "bddda14b77075200",
+      "title": "HZMB Half Marathon draws thousands of runners",
+      "excerpt": "Tens of thousands of runners – from professionals to enthusiastic amateurs – took part in the Hong Kong-Zhuhai-Macao Bridge Half…",
+      "fullText": "Tens of thousands of runners – from professionals to enthusiastic amateurs – took part in the Hong Kong-Zhuhai-Macao Bridge Half Marathon on Sunday morning.\n\nThe event featured three groups: the 10-kilometre challenge, along with the half-marathon and open categories.\n\nSecretary for Justice Paul Lam, who participated in the 2km Honorary Cup, said Hong Kong should host more major sporting events in future.\n\n\"[I am] very glad to have had the opportunity to run on the Hong Kong-Zhuhai-Macao Bridge this time. The weather was fantastic and the atmosphere was wonderful,” he said.\n\n“This year's participation also set a new record, so I hope Hong Kong can host more large-scale sports events to showcase our strength, and I hope more members of the general public can take part in these activities.\"\n\nThis year’s event was upgraded to a World Athletics Platinum Label Road Race, marking the first time the city has hosted this level of competition.\n\nHong Kong, China's top female distance runner, Virginia Lo, said she was honoured to have competed with other world-class athletes.\n\n“Having represented the city in various competitions over the past few years, I’ve actually seen first-hand how incredible they are, I hope I can keep improving and have even more chances to compete alongside them,” she said.\n\nShe also noted that the course was scenic and she was able to enjoy the sunrise at the start. But she also said it was quite sunny and windy, making it less than ideal for runners to perform at their best.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T08:15:54.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877880-20261115.htm"
+    },
     {
       "id": "f6b61e73d196e884",
       "title": "One dead, 300 evacuated in Wong Tai Sin fire",
@@ -629,8 +640,8 @@
       "fullText": "Chief Executive John Lee on Friday praised SAR athletes at a homecoming ceremony for the Hong Kong, China delegation, after they won 41 medals at the fifth Asian Para Games.\n\nThe team won three gold, 14 silver and 24 bronze medals. More than 150 people were sent, including 80 elite athletes and more than 70 support staff, to compete in 10 sports.\n\nLee said the boccia team recorded its best-ever result, taking two gold, three silver and three bronze medals, while swimmers took one gold, three silvers and five bronzes. The table tennis team also collected 15 medals.\n\n\"You have proven through your actions that true strength lies in persistence and the courage to break through,\" he said.\n\n\"On the competitive stage of the Asian Para Games, you have shown the resilient Hong Kong spirit. Through your actions, you have told Hong Kong's story well and added glory to the nation's sporting development.\"\n\nThe government is providing about HK$71 million in 2026-27 for the Hong Kong Sports Institute to train elite athletes with disabilities, more than 50 percent higher than five years ago, Lee said.\n\nHe added that the government will continue to provide systematic training and all-round support for elite athletes with disabilities through the institute – including training venues, professional coaches, and sports science and sports medicine services, with the aim to help them keep improving and win more honours for Hong Kong, China on the international stage.\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-11-13T04:44:37.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877678-20261113.htm"
     },
     {
@@ -1391,17 +1402,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877104-20261109.htm"
-    },
-    {
-      "id": "e6e2a678438b3ebe",
-      "title": "Chinese inflation spikes at plants and cools in shops",
-      "excerpt": "China's producer inflation accelerated to its fastest pace in nearly four-and-a-half years while consumer inflation cooled in October, data showed…",
-      "fullText": "China's producer inflation accelerated to its fastest pace in nearly four-and-a-half years while consumer inflation cooled in October, data showed on Monday, reflecting persistent cost pressures from higher oil prices despite weak domestic demand.\n\nGlobal oil prices remained elevated during much of last month, raising costs for coal mining, oil and natural gas extraction processing, chemicals and other energy-intensive sectors, a key driver of producer-price inflation.\n\nThose upstream price pressures have yet to fully feed through to consumers amid soft demand conditions.\n\nThe producer price index climbed by 5.7 percent from a year earlier, compared with a five percent increase in September, beating economists' forecasts for a 5.3 percent gain in a poll, data from the National Bureau of Statistics showed.\n\nThe consumer price index rose by 0.7 percent year on year, after a 0.9 percent rise in September, to come in just below economists' expectations for a 0.8 percent increase.\n\nOn a monthly basis, the CPI matched forecasts for an unchanged outcome after edging up 0.2 percent in September.\n\nWhile the world's second-largest economy grew faster than expected in the third quarter, buoyed by resilient exports, weak household demand has continued to constrain consumer spending.\n\nOngoing trade tensions and an increasingly uncertain global outlook are also clouding the outlook for exports.\n\nExternal shocks are having a greater impact, while the imbalance between robust supply and weak domestic demand remains pronounced, said an official at China's state planner last month.\n\nChina's struggling stock market, where AI-related stocks have tumbled from lofty valuations on concerns about AI demand and export restrictions targeting China, could further weigh on consumer spending.\n\nCore inflation, which excludes volatile food and energy prices, eased to 0.8 percent in October from one percent in September, offering a gauge of underlying price pressures in the economy. (Reuters)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T03:27:46.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877097-20261109.htm"
     },
     {
       "id": "95b02bba10ba5688",
