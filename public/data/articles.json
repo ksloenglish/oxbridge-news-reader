@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T00:00:29.869Z",
-  "checkedAt": "2026-11-15T00:00:29.869Z",
+  "generatedAt": "2026-11-15T00:15:24.180Z",
+  "checkedAt": "2026-11-15T00:15:24.180Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 15
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 14
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "858efba652c548df",
+      "title": "Tech problems that caused outage resolved: Microsoft",
+      "excerpt": "Tech giant Microsoft on Saturday said it had \"restored service\" to customers, effectively drawing a close to a massive outage…",
+      "fullText": "Tech giant Microsoft on Saturday said it had \"restored service\" to customers, effectively drawing a close to a massive outage that caused chaos and disrupted public services and business around the world.\n\n\"We have completed our efforts to address the underlying issue of the incident and restored service to the remaining impacted customers and regions,\" the US-based company said in an X post.\n\nMicrosoft had already reported a \"broad recovery\" for Outlook email and other services the day before, stating the major disruption was due to a technical issue and \"not related to cyber or AI/agents.\"\n\nThe outage swept the globe on Thursday, taking the company's products offline in at least 74 countries and territories across the Americas, Europe, Asia and Africa, according to the monitoring site Downdetector.\n\nMicrosoft had attributed the disruption to \"elevated load\" on its infrastructure.\n\nIt said the stoppage affected its Outlook email service, as well as Microsoft's Teams communication platform and the company's Copilot AI assistant.\n\nMicrosoft warned on Saturday of an \"active phishing campaign\" to exploit the disruption, with fake emails imitating its service notifications.\n\nThe emails, detected on Friday, instructed users that messages blocked during the outage would be deleted if the recipient does not click to restore them. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-14T23:51:05.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877855-20261115.htm"
+    },
     {
       "id": "c2949fce2a1a6926",
       "title": "Exclusive: Internal ledgers show how Pyongyang steals wages from its workers in China",
@@ -871,8 +882,8 @@
       "fullText": "Nvidia CEO Jensen Huang is stepping down, leaving the AI industry without its biggest champion and clouding the future of the chipmaker he built into an AI powerhouse.\n\nChief Financial Officer Colette Kress will take over as interim CEO as Nvidia looks for a permanent successor, the company said on Thursday.\n\nIt named former Synopsys CEO and board member Harvey Jones as its first-ever board chairman.\n\nHuang, who co-founded Nvidia and is its fourth-largest investor with a stake of about 3.61 percent, will exit the board as well.\n\nNvidia shares fell more than 10 percent in premarket trading, and weighed on the broader market.\n\nPressure had been mounting on Huang in recent days after reports said the 63-year-old, who is married, had an affair with a Chinese businesswoman who US authorities suspect of spying for Beijing.\n\nChina has dismissed the spying allegations, calling them \"baseless\".\n\nNvidia's board met on Wednesday to consider his ouster, a person familiar with the matter said, after reports earlier in the day that Huang also had an extramarital affair with a senior company executive who reported to him.\n\nHuang's exit plunges the US$4 trillion company into uncertainty and threatens to disrupt an AI ecosystem that he helped bankroll by pouring Nvidia's swelling cash pile back into cloud providers, suppliers and the industry's biggest labs.\n\n\"The risk is not that Nvidia suddenly loses its technology roadmap... that roadmap is largely visible for the next several years. The risk is execution. Jensen has been the chief conductor of an extraordinarily complex system,\" said Michael Feldman, portfolio manager at ClearBridge Investments.\n\n\"In a world with real bottlenecks, that coordination is a competitive advantage in itself.\"\n\nInvestor sentiment toward AI stocks has already been shaky as soaring cash burn and rising debt at traditionally cash-rich tech giants fuel doubts over whether the AI boom will pay off. (Reuters)\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-11-12T14:08:22.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877594-20261112.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746.html"
-    },
-    {
-      "id": "e514ab7fdff7dce2",
-      "title": "Domestic helper wage up 2.35%",
-      "excerpt": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased…",
-      "fullText": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased by 2.35%, from $5,100 to $5,220 per month.\n\nThe new minimum wage level will apply to all FDH contracts signed on or after tomorrow. FDH contracts signed today or earlier at the existing rate will still be processed by the Immigration Department, provided that the applications reach the department no later than October 30.\n\nThe Government explained that in reviewing the minimum wage, it had, in accordance with an established mechanism, considered factors including Hong Kong’s general economic performance and labour market conditions over the past year, the city's near-term economic outlook, employer affordability and the basic living needs of FDHs.\n\nThe Government also consulted employers and FDHs throughout the review process.\n\nIt stated that it decided to adjust the minimum wage level after carefully assessing and balancing the views of all parties, taking into account that this year's socio-economic factors are more favourable than those of last year's review.\n\nThe Government also reviewed the food allowance in lieu of free food, and decided that the level should remain unchanged, at no less than $1,236 per month.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265/images/20261002172046980.jpg",
-      "publishedAt": "2026-10-01T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
     }
   ]
 }
