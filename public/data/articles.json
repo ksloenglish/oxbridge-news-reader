@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T14:00:27.499Z",
-  "checkedAt": "2026-11-15T14:00:27.499Z",
+  "generatedAt": "2026-11-15T14:15:22.796Z",
+  "checkedAt": "2026-11-15T14:15:22.796Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "03d0865c61904e65",
+      "title": "Megaspeed says Alice Huang left firm last year",
+      "excerpt": "Megaspeed said on Sunday Chinese businesswoman Alice Huang officially left the company on August 30, 2025, and has no current…",
+      "fullText": "Megaspeed said on Sunday Chinese businesswoman Alice Huang officially left the company on August 30, 2025, and has no current role there.\n\nThe Singapore-based cloud-computing company is an Nvidia business partner in the Asia-Pacific region and has been in the spotlight after reports that Jensen Huang, who stepped down as Nvidia CEO last week, had an affair with the former Megaspeed executive Alice Huang, whom US authorities suspect of being a Chinese spy.\n\nChina has dismissed the spying allegations, calling them \"groundless\".\n\n\"Megaspeed does not comment on Ms Huang’s personal and private matters,\" the company's statement said.\n\n\"Megaspeed is aware of recent media reports containing assertions about our business, supply chain and global operations that are not supported by verifiable evidence.\"\n\nThe company said it conducted \"legitimate and lawful business\" and had retained external legal counsel to conduct a thorough internal investigation. It added that its operations and supply chain controls were designed to comply with applicable laws and regulations, including US export-control requirements. (Reuters)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T14:08:31.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877904-20261115.htm"
+    },
     {
       "id": "89e06d70f6cad437",
       "title": "Australia down NZ to clinch Rugby League World Cup",
@@ -808,17 +819,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877631-20261113.htm"
-    },
-    {
-      "id": "e60640aad194ab8f",
-      "title": "Europe to join Ukraine peace talks",
-      "excerpt": "Ukraine President Volodymyr Zelenskiy on Thursday welcomed news that Europeans would be present at the next round of US-brokered peace…",
-      "fullText": "Ukraine President Volodymyr Zelenskiy on Thursday welcomed news that Europeans would be present at the next round of US-brokered peace talks with Russia, and expressed hope that the agenda would include steps towards ceasefires and de-escalating the conflict.\n\nZelenskiy, speaking after talks with US envoys Steve Witkoff and Jared Kushner, said it was important that the peace process had restarted, following the first talks in nine months earlier this week in Abu Dhabi.\n\n\"It's important that everything is unblocked,\" Zelenskiy said, after meeting the US envoys whilst in Dublin to attend a European summit.\n\n\"We decided that we will work on an agenda about any kind of de-escalation, some kind of ceasefires... I hope that we will have such agenda. Yes, this is important.\"\n\nEarlier on Thursday, Witkoff had announced a new round of talks would take place soon involving European officials, after he and Kushner met with Russian leader Vladimir Putin in Moscow.\n\n\"The Europeans will join at the next meeting, which we consider to be a very important moment because they are our partners and it's important to us that they take part,\" Witkoff told Russian state TV.\n\nPutin said Moscow had always been open to talking to the EU about Ukraine, but signalled serious outstanding differences.\n\n\"As far as the Europeans are concerned, we have never been opposed to engaging in dialogue with Europe, and we have never broken off that dialogue. It was they who broke off the dialogue with the Russian Federation,\" he said.\n\nHe then warned that the European idea of sending Western troops into Ukraine once a peace deal was concluded would trigger a resumption of the war because Russia would see that as a threat to its own security.\n\n\"We would very much like you, gentlemen, and the US administration as a whole, to work with your European allies so that they can finally make up their minds as to what they want: peace or war in Ukraine,\" said Putin.\n\nPutin has shown no signs of being ready to moderate his territorial demands, which include a buffer zone in parts of Ukraine which Russia has not formally claimed as its own.\n\nHe said on Thursday that what Russia considers as its state border should be the only meaningful demarcation point with Ukraine. (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T23:04:01.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877606-20261113.htm"
     },
     {
       "id": "d664a4dc3ecf0c09",
