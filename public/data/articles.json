@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T01:45:17.808Z",
-  "checkedAt": "2026-11-15T02:00:27.324Z",
+  "generatedAt": "2026-11-15T02:05:39.024Z",
+  "checkedAt": "2026-11-15T02:05:39.024Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "8eec6510f6b85769",
+      "title": "'Runway painting robots save time, money'",
+      "excerpt": "Deploying robots to repaint airfield markings that guide pilots during take-off, landing and taxiing has more than halved the time…",
+      "fullText": "Deploying robots to repaint airfield markings that guide pilots during take-off, landing and taxiing has more than halved the time needed for the job and cut cost, airport authorities said.\n\nDuring a media briefing, Airport Authority chief operating officer Steven Yiu said Hong Kong International Airport is the first in the world to use robots for the task.\n\nThe machines came into use in September after a year of testing.\n\nYiu explained that markings across the airport's three runways, spanning more than 11 kilometres, must be repainted regularly to ensure pilot visibility.\n\nHe added that markings that come into frequent contact with planes even require maintenance on a weekly basis.\n\nYiu said more than half of the painting work can be assigned to the machines.\n\n\"It is a job of huge physical labour and precision. Also, the job is at nighttime and requires precision when everyone is tired. In terms of accuracy and safety, we hope that machines can assist humans,\" he said.\n\n“As for how much time is reduced, for example, usually it might take us three hours to finish painting centrelines. Now it only takes one hour.\n\n\"Also, the amount of paint sprayed is very precise. Just in paint spray, we save HK$400,000 each year. We also cut working hours by roughly two-thirds.\"\n\nYiu noted that the robots are being used to paint simple, standard lines, while human staff continue to handle curves and more complex markings.\n\nThe robots, he said, were originally used to paint lines in sports stadiums and were repurposed through a joint development project with a Shenzhen technology firm.\n\nLooking ahead, Yiu said the airport plans to deploy a total of six robots.\n\nHe also expressed hope that robotic runway painting will eventually become a civil aviation standard.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-15T01:51:33.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877865-20261115.htm"
+    },
     {
       "id": "351e16b59ba5d215",
       "title": "Italy hits Meta with heavy fine over unauthorised use",
@@ -940,17 +951,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877562-20261112.htm"
-    },
-    {
-      "id": "a7a8d9915a685cd3",
-      "title": "Ex-in-law 'followed dad's orders after Choi killing'",
-      "excerpt": "The former brother-in-law of celebrity Abby Choi told the High Court on Thursday that he should have called the police…",
-      "fullText": "The former brother-in-law of celebrity Abby Choi told the High Court on Thursday that he should have called the police or an ambulance on the day of her killing.\n\nThis came a day after he told the court that it was his brother – Choi’s ex-husband – who killed her.\n\nOn the 36th day of the trial, Kwong Kong-kit said he should have been braver and more rational.\n\nHe told the court that after he drove the car to the Tai Mei Tuk carpark in Tai Po, he saw Choi lying on the floor of the car with no sound or movement coming from her.\n\nKwong said he followed instructions given by his father, Kwong Kau, in a subsequent call to drive the car to the Lung Mei Village.\n\nHe parked it next to his father’s car when he got there.\n\nKwong said it was about 20 minutes between when Choi was attacked by his brother and when they arrived at the village house, saying his mind went blank during the period.\n\nKwong also said he believed Choi might already have been dead as she was unresponsive.\n\nHe said his father put Choi into a plastic box after wrapping her body in a blanket.\n\nHis father then instructed him to carry the box into the house before telling him and his brother to leave, Kwong said.\n\nKwong Kong-kit, Choi's former husband Kwong Kong-chi and former father-in-law Kwong Kau were charged with murdering her on February 21, 2023, at Lung Mei Village in Tai Po and preventing the lawful burial of her body.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T10:00:15.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877548-20261112.htm"
     },
     {
       "id": "337443edb4f327b6",
