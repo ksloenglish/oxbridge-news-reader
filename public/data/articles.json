@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T00:15:17.969Z",
-  "checkedAt": "2026-11-16T01:30:20.716Z",
+  "generatedAt": "2026-11-16T01:45:20.036Z",
+  "checkedAt": "2026-11-16T01:45:20.036Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "6347313ac6df91e3",
+      "title": "Japan's economy contracts an annualised 0.1pc in Q3",
+      "excerpt": "Japan's economy unexpectedly contracted an annualised 0.1 percent in the July-September quarter, government data showed on Monday, reflecting weak consumer…",
+      "fullText": "Japan's economy unexpectedly contracted an annualised 0.1 percent in the July-September quarter, government data showed on Monday, reflecting weak consumer spending as households grappled with higher living costs.\n\nThe first contraction in four quarters underscores the uneven nature of Japan's economic recovery, with households remaining vulnerable to persistent inflation despite rising wages.\n\nStill, policymakers are unlikely to view the weakness as a brake on Japan's moderate recovery, with resilient corporate activity, rising real wages and robust demand for artificial intelligence-related investment underpinning growth.\n\n\"While growth was indeed negative this time, there is no need to be overly pessimistic about the result,\" said Kento Minami, senior economist at Daiwa Securities.\n\n\"My impression is that moderate growth is probably continuing.\"\n\nMinami also said the results are unlikely to derail the Bank of Japan's tightening path, as the central bank remains focused on inflation risks, adding that firm domestic price pressures and a global backdrop of higher interest rates leave little room for a doveish policy shift.\n\nThe gross domestic product data compared with a median market forecast of 0.3 percent annualised growth in a Reuters poll, and followed a revised 1.7 percent expansion in the previous quarter.\n\nThe reading translated into a quarterly fall of 0.02 percent, compared with the median estimate of a 0.1 percent increase.\n\nPrivate consumption, which accounts for more than half of economic output, fell 0.3 percent, compared with a market estimate of a 0.2 percent decline.\n\nHousehold spending was hurt by persistent price pressures and poor weather, including heavy rain and typhoons during the quarter.\n\nDemand for automobiles and air conditioners retreated following the temporary boost in the previous quarter from tax and regulatory changes.\n\nCapital spending, a key driver of private demand, rose 1.6 percent, versus a market forecast for a 1.5 percent increase, backed by investment in labour-saving technologies and AI-related projects.\n\nWith stubbornly high energy costs and rising import prices from a weak yen adding to inflationary pressures, the BOJ has stepped up its policy tightening this year, delivering interest rate hikes in June and September. (Reuters)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T01:34:32.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877937-20261116.htm"
+    },
     {
       "id": "fcaacfc4355bc670",
       "title": "Amazon loses 40 satellites in failed rocket launch",
@@ -1336,17 +1347,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877268-20261110.htm"
-    },
-    {
-      "id": "fbb1b327c9497a63",
-      "title": "Tech gains, oil price falls lift HK, mainland markets",
-      "excerpt": "Hong Kong and mainland stocks closed higher on Tuesday, led by AI supply chain shares, as an overnight rally on…",
-      "fullText": "Hong Kong and mainland stocks closed higher on Tuesday, led by AI supply chain shares, as an overnight rally on Wall Street and sliding oil prices lifted risk sentiment across Asia.\n\nThe benchmark Hang Seng Index closed 108 points, or 0.4 percent, higher at 24,557 on turnover of HK$178.17 billion.\n\nThe tech index rose 43 points, or 1.1 percent, to 4,084 while the China enterprises index crept five points, or 0.1 percent, up to 8,265.\n\nOptical communication giant Zhongji Innolight jumped nine percent while Wuxi AppTec rose up to five percent before paring gains after the Pentagon removed the biotechnology company from its list of Chinese military companies.\n\nMainland chip firms Suzhou Denglin Technology and Jiangsu Xinde Semiconductor Technology made mixed trading debuts after raising a combined HK$2.36 billion in initial public offerings.\n\nAI chip designer Suzhou Denglin ended HK$18, or 7.79 percent, down at HK$213 while semiconductor packager and tester Jiangsu Xinde was HK$2.52, or 28 percent, up at HK$11.40.\n\nOn the mainland, the benchmark Shanghai Composite Index inched up just under three points, or 0.08 percent, to end at 3,663.\n\nThe Shenzhen Component Index was 96 points, or 0.86 percent, higher at 11,241 while the ChiNext Index was 35 points, or 1.46 percent, up at 2,494.\n\nChip supply chain shares across Asia climbed, tracking an overnight rally on Wall Street that saw the Nasdaq jump 2.7 percent.\n\nThe 5G Communication Index rose 2.6 percent, leading gains onshore, while the tech-focused Star50 Index was up nearly one percent.\n\nNon-ferrous metal shares edged up 0.1 percent as gold prices rebounded this month on falling oil prices.\n\nThe CSI Energy Index fell 2.6 percent, with PetroChina down 6.3 percent.\n\nChina's trade surplus surged past US$1 trillion in the first 10 months as a global race to build AI infrastructure buoyed sales of high-tech products and helped offset weak domestic demand, a dynamic likely to sharpen tensions with major trading partners.\n\nIn Tokyo, the Nikkei climbed up by 1,684 points, or 2.87 percent, to end at 60,459, extending its rebound from a tech-led selloff on Friday as AI-related stocks surged.\n\nThe broader Topix was up 75 points, or 1.98 percent, at 3,893.\n\nIn Seoul, the Kospi closed up 220 points, or 4.39 percent, at 5,239 in a sharp rebound from nine-month lows as chipmakers tracked overnight gains in US tech stocks. (Agencies)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T09:10:16.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877260-20261110.htm"
     },
     {
       "id": "041900f59c9bda03",
