@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T01:56:48.096Z",
-  "checkedAt": "2026-11-16T02:00:27.382Z",
+  "generatedAt": "2026-11-16T02:15:18.605Z",
+  "checkedAt": "2026-11-16T02:15:18.605Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 17
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 15
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "bfa71c9d3928d538",
+      "title": "Shenzhen ready for Apec, live broadcast launched",
+      "excerpt": "Shenzhen Media Group, together with Beijing Radio and Television and Shanghai Media Group, has launched a 100-hour all-media live broadcast…",
+      "fullText": "Shenzhen Media Group, together with Beijing Radio and Television and Shanghai Media Group, has launched a 100-hour all-media live broadcast programme titled \"Apec China Year,\" highlighting the host city's meticulous preparations and all-around readiness ranging from immigration to cityscape and food to welcome the grand event.\n\nCustoms and border authorities on Monday said they had streamlined clearance procedures and enhanced multilingual services to welcome delegates and visitors this week.\n\nAt Shenzhen Bao'an International Airport, Lai Xinfeng, a senior enforcement officer with the customs passenger inspection section, said luggage screening is completed before passengers arrive.\n\nFor ordinary travellers with no abnormalities, inbound clearance can be compressed to within 15 minutes, improving overall efficiency by more than 60 percent while balancing convenience and security.\n\nLi Shuai, deputy head of a duty team at the Huanggang checkpoint under the Shenzhen General Station of Exit and Entry Frontier Inspection, said authorities have conducted a comprehensive assessment of clearance requirements for delegations, business travellers and major events.\n\nMultilingual and volunteer service teams have been strengthened, with classified waiting, zoned inspection and tiered diversion measures to ensure smooth clearance.\n\nIn the business sector, Lin Xiaoli, human resources director of a Shenzhen technology company, said artificial intelligence is being used to support remote collaboration through AI research workflows, system monitoring and intelligent services, helping reduce commuting pressure for employees, maintain business operations and ease pressure on city traffic.\n\nZhong Hongyun, deputy general manager of the operations management department at ICBC's Shenzhen branch, said cash payment services would be convenient, with ATMs supporting cash withdrawals from major foreign cards and regular provision of change purses for immediate exchange.\n\nZhang Yonghong, general manager of a Crowne Plaza hotel in Shenzhen, said dedicated staff conduct daily inspections and maintenance of guest rooms, bilingual signage had been upgraded, and foreign-related reception facilities improved.\n\nHe said menus featuring cuisines from various countries have been customised, and staff have undergone targeted English service training with multiple rounds of internal drills covering the entire guest journey from arrival to departure.\n\nHu Shiyang, founder of a Shenzhen design company, said the city hopes all its flower beds and green sculptures will present a warm atmosphere, allowing people to feel Shenzhen's pride as the host city and its open embrace of guests and tourists from around the world.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T02:08:16.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877940-20261116.htm"
+    },
     {
       "id": "3bd729d3a8d5e6a4",
       "title": "Scotland fend off late fightback to beat Wallabies",
@@ -632,17 +643,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877773-20261114.htm"
-    },
-    {
-      "id": "6b1725db96d33b0c",
-      "title": "UN head urges climate summit to act now",
-      "excerpt": "UN Secretary-General Antonio Guterres on Friday called for an \"immediate and drastic reduction\" in greenhouse gas emissions, as divisions over…",
-      "fullText": "UN Secretary-General Antonio Guterres on Friday called for an \"immediate and drastic reduction\" in greenhouse gas emissions, as divisions over fossil fuels dominated the first week of COP31 climate talks in Türkiye.\n\nBig fossil fuel producers and consumers at the talks are resisting any deal that would specify firm new targets or a shift away from oil, gas and coal, observers said as the first week of talks drew to a close.\n\nThat poses a challenge for summit host Türkiye and lead negotiator Australia, which have another week to land the kind of ambitious agreement climate advocates such as Guterres say is needed.\n\n\"The central question is in the hands of member states, particularly the big emitters. They must recognise the need for an immediate and drastic reduction in emissions to keep the 1.5 goal still possible by the end of the century,\" he said, referring to the warming limit countries had agreed to pursue under the 2015 Paris Agreement.\n\nA UN report last month found the world is on course to exceed the 1.5 degrees Celsius (2.7 degrees Fahrenheit) warming threshold, a limit scientists say should prevent the worst effects of climate change.\n\nAs temperatures have risen, this year has been marked by extreme heatwaves across Western Europe and a glacier collapse in Nepal that triggered a flood that killed more than 1,450 people. Thousands more are still missing.\n\nMajor oil producers such as Saudi Arabia and Russia have traditionally resisted language constraining fossil fuels, while large developing economies such as India have opposed measures they say could limit their development and energy choices, a dynamic that has compromised the outcomes of past deals.\n\nThe world’s biggest oil consumer, the United States, meanwhile, has skipped the talks for the second year in a row under US President Donald Trump, who has called global warming a hoax and promoted continued use of fossil fuels.\n\n\"We must confront the disproportionate influence of the fossil fuel lobby. The future of our planet cannot be negotiated on the terms of those profiting from its destruction,\" said Guterres, who is leaving his job at the end of December after two five-year terms.\n\n\"But I remain hopeful. I've also seen something extraordinary over these 10 years. Renewable energy has moved from the margins to the mainstream. The economics have changed. The technology has advanced. A cleaner, safer, and more secure energy future is in our hands. The question is whether we have the courage and speed to reach for it.\"\n\nTürkiye is striving to place a proposal to expand global electrification at the centre of an eventual deal, saying the plan will lead to emissions cuts by speeding the shift away from fossil fuel-powered cars, boilers and other equipment.\n\nThe proposal does not require the increased electricity use to come from renewable sources, although some countries, including last year’s COP host Brazil, are advocating for progress on a plan to require countries to more clearly map out their transition away from fossil fuels.\n\nKatrine Petersen, an observer for the non-governmental organisation E3G, said whether those measures survive the talks depends on conversations in the days to come.\n\n\"We've also heard quite clearly from countries like India, the G77, that they don't want any firm targets. They don't want any kind of technology or fuel-specific language,\" she said. \"(These are) the kind of consistent and ongoing divides that we've seen from those different parties before.\"\n\nRepresentatives from India, Saudi Arabia and Russia did not immediately comment.\n\nDiana Acconcia, head of the EU delegation, said Europe backed the electrification goal.\n\n\"Electrification is, in a way, an inclusive agenda because it is non-prescriptive in a way on how the electrification is achieved,\" she said. \"Of course, for the European Union electrification is to be achieved by clean sources of energy.\"\n\nThe Australian team, which is leading negotiations under a split presidency arrangement, spent the first few days of the summit gathering views on what should be included in a political text agreed by consensus that will be followed by all the negotiated technical points.\n\nAustralia is taking further submissions from countries until Saturday night, with a view to formulating a draft text early next week. (Reuters)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T20:28:42.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877765-20261114.htm"
     },
     {
       "id": "a0d13a419b4aa38e",
@@ -1437,17 +1437,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877131-20261109.htm"
     },
     {
-      "id": "1b2f37aec0de9468",
-      "title": "Trump says Shenzhen talks with Xi and Putin likely",
-      "excerpt": "US President Donald Trump on Sunday said he expects to meet with President Xi Jinping and Russian leader Vladimir Putin…",
-      "fullText": "US President Donald Trump on Sunday said he expects to meet with President Xi Jinping and Russian leader Vladimir Putin on the sidelines of the Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen scheduled for November 18-19.\n\n\"Well, I'm going to be going to China,\" he said, \"and one of the meetings I think will be with President Putin and President Xi, and that'll be interesting.\"\n\nHe added: \"We'll talk a lot of things, including denuclearisation, but we'll be talking a lot of things. We're trying to end the war in Iran.\"\n\nThe Kremlin said on October 21 that this first of its kind trilateral meeting is \"being prepared\".\n\nThis followed a Wall Street Journal report that Putin wanted the three-way talks to broker a peace deal to end the conflict between Russia and Ukraine. (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T05:05:32.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877112-20261109.htm"
-    },
-    {
       "id": "05e1d7a3b436ff62",
       "title": "North Korean orphans fast tracked into state care to stem declining birth rate",
       "excerpt": "Orphanages are now supplied more regularly after shift toward birth-friendly policies.",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746.html"
+    },
+    {
+      "id": "e514ab7fdff7dce2",
+      "title": "Domestic helper wage up 2.35%",
+      "excerpt": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased…",
+      "fullText": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased by 2.35%, from $5,100 to $5,220 per month.\n\nThe new minimum wage level will apply to all FDH contracts signed on or after tomorrow. FDH contracts signed today or earlier at the existing rate will still be processed by the Immigration Department, provided that the applications reach the department no later than October 30.\n\nThe Government explained that in reviewing the minimum wage, it had, in accordance with an established mechanism, considered factors including Hong Kong’s general economic performance and labour market conditions over the past year, the city's near-term economic outlook, employer affordability and the basic living needs of FDHs.\n\nThe Government also consulted employers and FDHs throughout the review process.\n\nIt stated that it decided to adjust the minimum wage level after carefully assessing and balancing the views of all parties, taking into account that this year's socio-economic factors are more favourable than those of last year's review.\n\nThe Government also reviewed the food allowance in lieu of free food, and decided that the level should remain unchanged, at no less than $1,236 per month.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265/images/20261002172046980.jpg",
+      "publishedAt": "2026-10-01T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
     }
   ]
 }
