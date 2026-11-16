@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T02:15:18.605Z",
-  "checkedAt": "2026-11-16T03:00:33.174Z",
+  "generatedAt": "2026-11-16T03:14:21.870Z",
+  "checkedAt": "2026-11-16T03:14:21.870Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,39 @@
     }
   ],
   "articles": [
+    {
+      "id": "53e5df9e4a9a24f6",
+      "title": "China confirms Xi to hold summit with Trump, Putin",
+      "excerpt": "The Foreign Ministry in Beijing on Monday said President Xi Jinping would hold a China-Russia-US summit with his Russian counterpart…",
+      "fullText": "The Foreign Ministry in Beijing on Monday said President Xi Jinping would hold a China-Russia-US summit with his Russian counterpart Vladimir Putin and US leader Donald Trump in Shenzhen on November 19th.\n\nPlans for the three-way summit were earlier confirmed by the White House on Friday and the Kremlin on Saturday.\n\nThe Trump administration has said that such a meeting would provide an opportunity for the three leaders to discuss international issues of pressing concern.\n\nTrump does plan on discussing the Iran war with Xi and Putin, but will steer away from bringing up the topic of Ukraine, according to a senior US official who briefed reporters on the condition of anonymity. (Xinhua/AP)\n\nEdited by Altis Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T03:05:57.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877948-20261116.htm"
+    },
+    {
+      "id": "cc655003a7f6b7a5",
+      "title": "HK stocks up amid regional jitters over US tech crunch",
+      "excerpt": "Asian shares fell on Monday after a whiplash week capped by the shock exit of Jensen Huang as Nvidia chief…",
+      "fullText": "Asian shares fell on Monday after a whiplash week capped by the shock exit of Jensen Huang as Nvidia chief executive, with the chipmaker's earnings and Anthropic's initial public offering this week set to test whether the artificial intelligence-fuelled bull market still has further to run.\n\nIn Hong Kong, the benchmark Hang Seng Index opened up 71 points, or 0.3 percent, at 23,708.\n\nThe China enterprises index rose 27 points, or 0.35 percent, to 7,965 while the tech index climbed 15 points, or 0.41 percent, to 3,828.\n\nThe minutes of the US Federal Reserve's October policy meeting are also due on Wednesday, while a parade of Fed speakers will also be on the bill this week.\n\nMarkets will be alert for any hint of policymakers being receptive to the idea of an outsized 50-basis-point interest rate hike next month.\n\nUp north, the Shanghai Composite Index opened down 22 points, or 0.63 percent, at 3,611.\n\nThe Shenzhen Component Index was 86 points, or 0.79 percent, lower at 10,881 while the ChiNext Index fell 30 points, or 1.26 percent, to 2,395.\n\nIn Tokyo, the Nikkei opened 205 points, or 0.34 percent, higher at 61,348 before going the other way to be 893 points lower at one stage before lunch amid jitters over Nvidia earnings.\n\nIn Seoul, the Kospi inched up 15 points, or 0.28 percent, at 5,305 before, like the Nikkei and for the same reasons, plunging to be 122 points lower at one stage before noon.\n\nThe losses on the tech-heavy Japanese and South Korean benchmarks came as Nvidia, the poster child of a four-year US bull market, has seen its market value tumble from about US$5.8 trillion in early October to US$3.9 trillion as of Friday, LSEG data showed, as investors rushed for the exit after Huang's departure.\n\nAnalysts expect earnings growth of 90 percent on revenue of US$109 billion in Nvidia's fiscal third quarter when its earnings are due on Tuesday, LSEG data showed, with all eyes on whether the chipmaker will stick to its bullish outlook for next year under new management.\n\n\"Options markets imply an earnings-day move of approximately +/-7 percent, yet I question whether the quarterly numbers will carry their usual significance,\" said Chris Weston, head of research at foreign exchange brokerage Pepperstone.\n\n\"Nvidia may well deliver another exceptional beat and raise at tomorrow's earnings, but investors are increasingly trying to value a business in FY2028 and FY2029 potentially without the individual who architected its competitive advantage.\"\n\nThe Financial Times reported Huang had discussed with confidants the possibility of returning as chief executive.\n\nUS Treasury Secretary Scott Bessent said Nvidia needs to \"go outside the company\" for a new CEO.\n\nJust two days after Nvidia's earnings, trading in Claude chatbot creator Anthropic is scheduled to begin, setting up a real-time barometer for sentiment on the AI trade.\n\nThe firm's IPO has drawn more institutional interest than SpaceX, insiders said. (Agencies)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T03:05:06.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877950-20261116.htm"
+    },
+    {
+      "id": "1480d3d939a91b2b",
+      "title": "New World shares slump amid rights issue plan",
+      "excerpt": "Shares of New World Development tumbled more than 45 percent at the open of trade on Monday after the property…",
+      "fullText": "Shares of New World Development tumbled more than 45 percent at the open of trade on Monday after the property developer proposed a HK$24.9 billion rights issue plan.\n\nThe plan offers shareholders 11 rights shares for every existing share at HK$0.90 each, representing an 81.5 percent discount to the last closing price of HK$4.87.\n\nNew World Development, the most indebted among its peers in the city, has been trying to cut debt, dispose of assets and bolster liquidity amid tight credit conditions and a weak property market.\n\nShares of New World slumped to HK$2.655 at open, an all-time low since its listing in 1980.\n\nAfter the share fall on Monday, New World's market value shrank to less than HK$8 billion, three times less than the rights issue size.\n\nControlling shareholder, Chow Tai Fook Enterprises (CTFE), which owns about 45.3 percent of the company, has committed to taking up its full entitlement and fully underwriting the remaining shares.\n\nThe maximum CTFE commitment is about HK$18.7 billion.\n\nThe shares resumed trading on Monday after being suspended on Friday pending the announcement. (Reuters)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T02:52:17.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877953-20261116.htm"
+    },
     {
       "id": "bfa71c9d3928d538",
       "title": "Shenzhen ready for Apec, live broadcast launched",
@@ -634,17 +667,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877774-20261114.htm"
     },
     {
-      "id": "3a08eadf27cda0b7",
-      "title": "All US flights halted by national ground stop order",
-      "excerpt": "The Federal Aviation Administration grounded all flights nationwide on Friday afternoon because of communications problems at regional air traffic control…",
-      "fullText": "The Federal Aviation Administration grounded all flights nationwide on Friday afternoon because of communications problems at regional air traffic control centres.\n\nThe FAA notice said the ground stop was being imposed “due to extraordinary circumstances and for reasons of safety.”\n\nTransportation Secretary Sean Duffy said there is a communications issue affecting the 22 regional air traffic control centres that direct planes en route between airports nationwide. He said FAA technicians are investigating. This is the first nationwide ground stop since January 2023 , when a key FAA computer system malfunctioned. Before that the last time had been after the Sept. 11, 2001, attacks.\n\nThe government has been working to overhaul the outdated technology that air traffic controllers rely on since Congress approved US$12.5 billion for the project last year. Miles of old copper wires have been replaced with fibre optic lines and old radio systems are gradually being replaced at airports across the country.\n\nBut much work remains. Duffy has said that another US$30 billion will be needed to complete the work, and the White House has begun lobbying Congress to approve it.\n\nThe problem appeared similar to a regional air traffic control communication outage in September that snarled hundreds of flights across the Northeast, aviation safety expert Steve Arroyo said, except this time on a nationwide scale. It may be linked to the outdated technology used by air traffic controllers.\n\n“If you don’t have that ability, whether it’s because the old wires that they have are just run down or for whatever reason, you’ve got to stop airplanes on the ground,” said Arroyo, who is a former United Airlines pilot. “And not put them in the air where you’re going to risk not being able to communicate with them.”\n\nFriday’s ground stop was different than the one after Sept. 11 because planes were not being told to land immediately and pilots likely were able to communicate with ground controllers at airports, Arroyo said.\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T21:52:02.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877773-20261114.htm"
-    },
-    {
       "id": "a0d13a419b4aa38e",
       "title": "Alert over fake recall messages",
       "excerpt": "The Transport Department today alerted the public to fraudulent vehicle airbag safety recall messages purporting to be from the department…",
@@ -706,8 +728,8 @@
       "fullText": "The government on Friday raised Hong Kong’s economic growth forecast for 2026 to 4.8 percent from the previous forecast of 3.5 to 4.5 percent.\n\nThe rise in the full-year GDP forecast came as the SAR saw strong economic expansion in the third quarter while expecting solid growth in the final three months of the year.\n\nSpeaking at a press conference, Government Economist Irina Fan said the economy grew by 5.2 percent year-on-year in the third quarter, up from the 4.2 percent growth in the preceding quarter.\n\nShe said economic growth in the first nine months of this year reached 5.1 percent over a year earlier – the fastest pace in five years.\n\n“The Hong Kong economy is poised for a strong full-year performance, supported by robust global AI investment and related trade,” Fan said.\n\n“Incoming data on entering the fourth quarter also pointed to sustained growth momentum. Domestic demand should stay resilient.”\n\nShe said three drivers of the economy – exports, investment and consumption – continued to grow.\n\nThe labour market also stayed broadly stable in the third quarter, with growth in employment earnings over a year earlier, she said.\n\nOn inflation, Fan said consumer price inflation has so far been lower than expected.\n\nShe noted that while the pass-through of higher oil prices earlier was likely to continue in the coming months, price pressures on other fronts were expected to remain largely contained, so overall inflation should stay moderate.\n\nFan said the forecast for underlying consumer price inflation rate for 2026 was revised down to 1.9 percent from the previous forecast of 2.5 percent.\n\nThe official also said the government will continue to monitor external risks.\n\n“Uncertainties in the external environment persist, including those from geopolitical tensions, US monetary policy, trade protectionist measures, so all these warrant closer monitoring,” she said.\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-11-13T10:23:24.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877720-20261113.htm"
     },
     {
@@ -1283,17 +1305,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877308-20261111.htm"
     },
     {
-      "id": "566297f3b5824429",
-      "title": "US stocks fall on hot inflation report",
-      "excerpt": "US stocks closed lower on Tuesday, as a hotter-than-expected inflation reading hardened expectations for a rate hike from the Federal…",
-      "fullText": "US stocks closed lower on Tuesday, as a hotter-than-expected inflation reading hardened expectations for a rate hike from the Federal Reserve next month and fuelled concerns the US central bank may be more aggressive in raising rates.\n\nThe US Labour Department said the Consumer Price Index increased 0.4 percent last month, its third straight gain of 0.4 percent or more and above the 0.3 percent estimate of economists polled by Reuters, after advancing 0.6 percent in September.\n\nThe data came after Fed Governor Christopher Waller said the central bank should raise short-term borrowing costs in December even if data showed inflation cooled last month, and should consider an upsized half-point rate hike if the inflation picture worsens.\n\nMarkets are now completely pricing in a rate hike of at least 25 basis points at the Fed's December meeting, according to CME FedWatch, up from 84 percent on Monday, while expectations for a 50 basis point increase climbed to 11.8 percent after garnering no consideration at all in the prior session.\n\nThe 2-year US Treasury yield, which typically moves in step with interest rate expectations for the Fed, surged nearly 18.9 basis points to 4.736 percent and was poised for its biggest daily gain since April 9, 2025, after US President Donald Trump launched sweeping global tariffs.\n\nThe jump in yields has come even as oil prices have eased to two-month lows as US officials have downplayed any imminent military actions against Iran.\n\n\"What kind of has the market spooked a little bit is this idea of, 'Well, we were already pricing in a December hike... but maybe it's not 25, maybe it's 50, and maybe the Fed's more worried about inflation than I am, so let's sell some stocks,'\" said Jason Ware, chief investment officer at Albion Financial Group in Salt Lake City, Utah.\n\n\"From our perch, that is irrational. The thing that has pushed CPI up over the last six months and has the Fed a little bit more concerned and therefore has restarted hiking rates is because we've seen oil, energy and diesel push through in terms of inflation. If we have oil now going the other way ... this is all going to settle down.\"\n\nThe Dow Jones Industrial Average fell 157 points, or 0.3 percent, to 52,231, the S&P 500 lost 29 points, or 0.4 percent, to 7,520 and the Nasdaq Composite lost 187 points, or 0.7 percent, to 25,065.\n\nThe S&P 500 and Nasdaq had risen for two straight days, bouncing back from sharp losses last week sparked by concerns about the potential for government regulations slowing the AI buildout.\n\nBut the S&P 500 technology sector dropped 1.4 percent on Tuesday as the worst-performing of the 11 major sectors, weighed down by another drop in Nvidia, which fell 5.4 percent and has tumbled 9.6 percent over the past two sessions. The company's stock reflects mounting concerns over CEO Jensen Huang's future at the chip company after it initiated an internal probe into spy claims involving Chinese businesswoman Alice Huang. China has dismissed the spying allegations as a smear campaign.\n\nInvestors are also bracing for Anthropic's expected public listing later this month. The AI lab revealed that its initial public offering is expected to raise as much as US$64.4 billion, giving the company a fully diluted valuation of up to US$1.4 trillion.\n\nA listing by Anthropic could also force other AI heavyweights to compete harder for investor dollars and cause portfolio repositioning by investors.\n\nNeocloud firm CoreWeave shares closed down 0.5 percent but were up about 2 percent in extended trade after it topped Wall Street's revenue estimates on strong demand for its cloud services, easing some recent concerns about the sustainability of the AI boom and the company's debt burden. The stock is down 32 percent on the year. (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T22:43:13.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877328-20261111.htm"
-    },
-    {
       "id": "ad58b5e90d4ee4a9",
       "title": "North Korean affordability crisis: monthly salary can’t buy even a bag of rice",
       "excerpt": "Workers start every month deep in the red as inflation guts official wages and forces reliance on side hustles.",
@@ -1347,17 +1358,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877268-20261110.htm"
-    },
-    {
-      "id": "fbb1b327c9497a63",
-      "title": "Tech gains, oil price falls lift HK, mainland markets",
-      "excerpt": "Hong Kong and mainland stocks closed higher on Tuesday, led by AI supply chain shares, as an overnight rally on…",
-      "fullText": "Hong Kong and mainland stocks closed higher on Tuesday, led by AI supply chain shares, as an overnight rally on Wall Street and sliding oil prices lifted risk sentiment across Asia.\n\nThe benchmark Hang Seng Index closed 108 points, or 0.4 percent, higher at 24,557 on turnover of HK$178.17 billion.\n\nThe tech index rose 43 points, or 1.1 percent, to 4,084 while the China enterprises index crept five points, or 0.1 percent, up to 8,265.\n\nOptical communication giant Zhongji Innolight jumped nine percent while Wuxi AppTec rose up to five percent before paring gains after the Pentagon removed the biotechnology company from its list of Chinese military companies.\n\nMainland chip firms Suzhou Denglin Technology and Jiangsu Xinde Semiconductor Technology made mixed trading debuts after raising a combined HK$2.36 billion in initial public offerings.\n\nAI chip designer Suzhou Denglin ended HK$18, or 7.79 percent, down at HK$213 while semiconductor packager and tester Jiangsu Xinde was HK$2.52, or 28 percent, up at HK$11.40.\n\nOn the mainland, the benchmark Shanghai Composite Index inched up just under three points, or 0.08 percent, to end at 3,663.\n\nThe Shenzhen Component Index was 96 points, or 0.86 percent, higher at 11,241 while the ChiNext Index was 35 points, or 1.46 percent, up at 2,494.\n\nChip supply chain shares across Asia climbed, tracking an overnight rally on Wall Street that saw the Nasdaq jump 2.7 percent.\n\nThe 5G Communication Index rose 2.6 percent, leading gains onshore, while the tech-focused Star50 Index was up nearly one percent.\n\nNon-ferrous metal shares edged up 0.1 percent as gold prices rebounded this month on falling oil prices.\n\nThe CSI Energy Index fell 2.6 percent, with PetroChina down 6.3 percent.\n\nChina's trade surplus surged past US$1 trillion in the first 10 months as a global race to build AI infrastructure buoyed sales of high-tech products and helped offset weak domestic demand, a dynamic likely to sharpen tensions with major trading partners.\n\nIn Tokyo, the Nikkei climbed up by 1,684 points, or 2.87 percent, to end at 60,459, extending its rebound from a tech-led selloff on Friday as AI-related stocks surged.\n\nThe broader Topix was up 75 points, or 1.98 percent, at 3,893.\n\nIn Seoul, the Kospi closed up 220 points, or 4.39 percent, at 5,239 in a sharp rebound from nine-month lows as chipmakers tracked overnight gains in US tech stocks. (Agencies)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T09:10:16.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877260-20261110.htm"
     },
     {
       "id": "041900f59c9bda03",
@@ -1424,17 +1424,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
-    },
-    {
-      "id": "c697afdda0a458c9",
-      "title": "China slams 'baseless' claims it spied on Nvidia boss",
-      "excerpt": "Beijing rejected on Monday claims that it had spied on Jensen Huang, chief executive of US chip giant Nvidia, calling…",
-      "fullText": "Beijing rejected on Monday claims that it had spied on Jensen Huang, chief executive of US chip giant Nvidia, calling the allegations \"baseless\".\n\n\"We have responded to this matter previously. The narrative of a so-called Chinese spy is entirely baseless vilification and smearing,\" Ministry of Foreign Affairs spokesman Guo Jiakun said at a regular briefing.\n\nHe was speaking after Nvidia's board announced it had opened a probe into media reports alleging \"a foreign intelligence effort\" and Huang's acknowledgement that he had an affair with a woman.\n\nLate last month, The New York Times reported that US intelligence officials concluded that Alice Huang, a Chinese executive linked to a Singapore-based data centre company called Megaspeed, had been funnelling information to Beijing.\n\nThe executive, also known as Huang Le, developed a close relationship with the 63-year-old Nvidia boss, the Times said.\n\nIn a message to company employees released on Sunday, the Nvidia chief acknowledged having an affair and apologised to his family and company staff.\n\n\"I was unfaithful to my wife,\" he said.\n\n\"My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry.\"\n\nJensen Huang is a huge figure in the artificial intelligence revolution and a close informal adviser to US President Donald Trump, who has repeatedly spoken out against regulating the industry so as not to let China gain the upper hand in the AI race.\n\nThe issue of AI is likely to arise during Trump's planned talks with President Xi Jinping this month at the Asia-Pacific Economic Cooperation (Apec) Economic Leaders' Meeting in Shenzhen.\n\nAsked whether the Nvidia chief would be joining his trip to Asia, which includes the Apec summit in Shenzhen next week, Trump said: \"I don't know but I'll certainly take him.\"\n\nTrump said Huang was \"a fine person, but you never know what's going on. I'm sure – I hope everything's fine. He's done such an incredible job.\" (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-09T08:21:25.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877131-20261109.htm"
     },
     {
       "id": "05e1d7a3b436ff62",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
+    },
+    {
+      "id": "655dea3537ed986c",
+      "title": "Five HK universities rank in top 100",
+      "excerpt": "Hong Kong has five universities among the top 100 in the World University Rankings 2027, published by Times Higher Education…",
+      "fullText": "Hong Kong has five universities among the top 100 in the World University Rankings 2027, published by Times Higher Education (THE).\n\nCommenting today, the Education Bureau highlighted that two of the city’s ranked institutions had gained higher positions in the latest rankings.\n\nIt said the results demonstrate the robust strengths of Hong Kong’s higher education system and its world-class standing in terms of teaching, research, and international outlook.\n\nIt added that the rankings reflect the Government’s investment of resources and its policy support over the years, both of which have laid a solid foundation for the city’s higher education institutions.\n\nIn the latest rankings, the University of Hong Kong ranks 33rd globally; the Chinese University ranks 42nd; and the University of Science & Technology ranks 58th. City University and Polytechnic University have risen to 70th and 79th respectively.\n\nThe bureau said the consistent high international rankings of Hong Kong’s universities not only reflect the local higher education sector's excellence, but also bear witness to the Government’s proactive leadership in policy measures aimed at driving innovation and change, as well as expanding capacity while enhancing quality.\n\nIt added that the Government will continue to spare no effort in promoting the sector's comprehensive integration into overall national development, contributing to China’s development as a leading country in education.\n\nLooking ahead, the bureau said that with the advent of Hong Kong’s First Five-Year Plan, the city’s higher education is ushering in a golden period of development full of promising potential.\n\n“We will continue to promote the all-round connectivity in areas such as talent training, frontier scientific research, and industry-academia-research collaboration, optimise resource allocation, support various institutions in consolidating their existing advantages while pioneering innovation, and nurture more outstanding talent equipped with both international perspective and exceptional capabilities, thereby making greater contributions to the long-term prosperity and stability of Hong Kong and the country.”",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409/images/20260930122638517.jpg",
+      "publishedAt": "2026-09-29T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
     }
   ]
 }
