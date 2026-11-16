@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T04:45:18.573Z",
-  "checkedAt": "2026-11-16T04:45:18.573Z",
+  "generatedAt": "2026-11-16T05:00:28.190Z",
+  "checkedAt": "2026-11-16T05:00:28.190Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -50,7 +50,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 17
     },
     {
       "id": "news-gov-hk-top",
@@ -1171,17 +1171,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877476-20261112.htm"
-    },
-    {
-      "id": "ef15bb4d02e8d46a",
-      "title": "Kane says England record a 'testament to dedication'",
-      "excerpt": "England captain Harry Kane said breaking the Three Lions' appearance record in Thursday's Nations League clash with Croatia will represent…",
-      "fullText": "England captain Harry Kane said breaking the Three Lions' appearance record in Thursday's Nations League clash with Croatia will represent a \"testament to all the dedication\" that has gone into his career.\n\nWhen Kane leads England out at Wembley to win his 126th cap, he will surpass the previous record held since 1990 by former goalkeeper Peter Shilton.\n\nIt will be the latest landmark in an incredible 12 months for the Bayern Munich striker, who in October became the first English player in 25 years to win the Ballon d'Or.\n\nThe 33-year-old Kane is also England's record scorer with 91 goals.\n\n\"It's definitely up there as the biggest (achievement),\" Kane told reporters on Wednesday.\n\n\"I think it showcases consistency at the highest level. Testament to all the dedication, the time people don't see that keeps me fit and healthy. This is one of the biggest milestones in my career.\"\n\nSince leaving Tottenham to join Bayern in 2023, Kane has taken his game to another level.\n\nAside from scoring 156 goals for the German club, he has also finally laid a ghost to rest in winning the first silverware of his career, including Bundesliga titles in 2025 and 2026.\n\nHowever, England have not won a major tournament since winning the 1966 World Cup on home soil.\n\nKane suffered fresh frustration in July as he lost in a World Cup semi-final for the second time when Argentina came from behind to beat England.\n\nKane said he hoped there was enough left in his legs for another tilt at the World Cup in 2030.\n\n\"In terms of what's next, I don't like to put limits – 100 goals (for England) is a milestone to reach as soon as possible,\" said Kane.\n\n\"We've done extremely well in tournaments, going into latter stages.\n\n\"I'm feeling really good and hopefully there will be many more years to see what I can achieve.\"\n\nOther near-misses with Kane for England include two losses in European Championship finals, in 2021 on penalties to Italy and then in 2024 to Spain.\n\nBut he went on to win his first trophy with Bayern the following season.\n\nKane said, despite the perpetual disappointments, he kept believing one day his luck would change in terms of silverware.\n\n\"Obviously after any big loss, especially a final, you look into everything, you try and analyse it,\" he said.\n\n\"I don't think I ever doubted that it would come.\" (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T23:22:51.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877454-20261112.htm"
     },
     {
       "id": "f290d69ad696e96d",
