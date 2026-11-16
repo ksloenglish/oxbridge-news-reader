@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T19:00:31.004Z",
-  "checkedAt": "2026-11-16T22:33:40.469Z",
+  "generatedAt": "2026-11-16T22:45:16.198Z",
+  "checkedAt": "2026-11-16T22:45:16.198Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "6998f547f183e0f9",
+      "title": "Wall St down ahead of Nvidia results, Anthropic IPO",
+      "excerpt": "A broad selloff dragged US stocks lower on Monday as fallout from Jensen Huang's resignation as Nvidia CEO soured enthusiasm…",
+      "fullText": "A broad selloff dragged US stocks lower on Monday as fallout from Jensen Huang's resignation as Nvidia CEO soured enthusiasm for AI stocks, raising the stakes for the chipmaker's earnings report on Tuesday and Anthropic's initial public offering later in the week.\n\nThe risk-off sentiment gathered momentum as the session progressed, with the S&P 500 dropping nearly 2 percent and the Dow falling more than 1.4 percent. The Nasdaq suffered the steepest percentage loss, tumbling 2.5 percent.\n\n\"It's the back-and-forth in this market of the AI-related stocks catching a bid versus this rotation trade,\" said Ross Mayfield, investment strategy analyst at Baird in Louisville, Kentucky.\n\n\"Over the last couple of weeks, it's like a day-to-day thing where, you know, some days the AI names absolutely rip and then the very next day, you know, they're in a freefall.\"\n\n\"There are signs underneath the surface that investors aren't panic-selling and running away from the asset class altogether, but are probing other corners of the equity market,\" Mayfield added.\n\nNvidia slid 4.1 percent, extending its losses after Huang's resignation, adding to concerns over the emerging technology's rapid expansion and potential risks.\n\nHuang's departure prompted the Trump administration to issue a new rule restricting China's access to the best AI chips from companies like Nvidia ahead of an expected meeting between President Xi Jinping and his US counterpart Donald Trump.\n\nAnalysts expect Nvidia to post a 90.4 percent year-on-year earnings jump on revenue of US$109.10 billion.\n\nThe Dow Jones Industrial Average fell 739 points, or 1.4 percent, to 51,608, the S&P 500 lost 145 points, or 1.9 percent, to 7,416 and the Nasdaq Composite lost 626 points, or 2.5 percent, to 24,509.\n\nUS Federal Reserve Chair Kevin Warsh said on Monday that technologies will have a significant impact on the economy, but the possible scenarios range from rising growth with broadly shared gains to higher unemployment and a potential slowdown if anticipated investment returns prove disappointing.\n\nMinutes from the Federal Open Market Committee's latest meeting, due for release on Wednesday, could offer clues on the policy outlook ahead of next month's interest-rate decision.\n\nMarkets are pricing in a near-certain 95.7 percent likelihood of a 25-basis-point rate hike in December, according to CME FedWatch.\n\nAmong individual stocks, chipmakers Intel and Micron both dropped more than 7 percent.\n\nNeocloud provider CoreWeave dipped 6.1 percent and rival Nebius dropped 7.6 percent.\n\nHyperscalers Alphabet, Amazon and Meta slid between 2.4 percent and 4.1 percent.\n\nServer maker Dell dropped 7.0 percent, while Super Micro Computer fell 6.9 percent. (Reuters)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T22:37:51.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878060-20261117.htm"
+    },
     {
       "id": "078c70bccadd2823",
       "title": "The open-source movement wants Jensen Huang back",
@@ -1336,17 +1347,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261112/20261112_120723_089.html"
-    },
-    {
-      "id": "833d7709d3697039",
-      "title": "Mainland stocks edge higher, HK shares end down",
-      "excerpt": "Hong Kong's stock market ended lower on Wednesday, with the Hang Seng Index down 0.98 percent to close at 24,315…",
-      "fullText": "Hong Kong's stock market ended lower on Wednesday, with the Hang Seng Index down 0.98 percent to close at 24,315 points.\n\nThe Hang Seng China Enterprises Index dropped 1.14 percent to 8,171, and the Hang Seng Tech Index slid 1.41 percent.\n\nOn the mainland, the Shanghai Composite Index reversed earlier losses and closed up 0.5 percent while the blue-chip CSI300 index added 0.4 percent.\n\nThe Shenzhen Component Index closed 1.32 percent higher.\n\nTech shares led the gains.\n\nThe start-up board ChiNext Composite index rose 3.1 percent and Shanghai's tech-focused STAR50 index climbed 2.8 percent.\n\nAround the region, equity markets were stuck in a narrow range with traders caught between rate hike expectations and oil-market tensions.\n\nA hotter-than-expected consumer inflation reading in the US and hawkish policymakers drove up bets of a quicker pace of rate hikes.\n\n\"The resulting rise in global bond yields and strengthening dollar put pressure on A-share valuations,\" analysts at Nanhua Futures said in a note.\n\n\"This round of recent market recovery has been driven mainly by domestic measures to support markets and a temporary easing of overseas uncertainties.\n\n\"However, both the strength and durability of these factors appear limited. While market sentiment has improved somewhat, investors remain broadly cautious, and stock indexes are expected to trade in a range in the near term.\"\n\nElsewhere, oil prices rose on Wednesday after falling to two-month lows in the previous session, as the market swung between hopes of de-escalation in the Iran war and concerns over continued attacks on shipping in the Strait of Hormuz. (Xinhua/Reuters)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T09:17:36.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877410-20261111.htm"
     },
     {
       "id": "ad58b5e90d4ee4a9",
