@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T09:45:18.668Z",
-  "checkedAt": "2026-11-16T10:30:23.318Z",
+  "generatedAt": "2026-11-16T10:45:18.081Z",
+  "checkedAt": "2026-11-16T10:45:18.081Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "rthk-world",
@@ -1193,17 +1193,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877502-20261112.htm"
-    },
-    {
-      "id": "fce484263e03e7d2",
-      "title": "CE hails spirits of national rejuvenation",
-      "excerpt": "Chief Executive John Lee on Thursday said the SAR government was working to enrich resources for patriotic education, providing a…",
-      "fullText": "Chief Executive John Lee on Thursday said the SAR government was working to enrich resources for patriotic education, providing a broader platform for the younger generation to learn about national affairs.\n\nSpeaking at a ceremony to commemorate the 160th anniversary of the birthday of Sun Yat-sen, Lee said the national hero had deep ties with Hong Kong – the birthplace of his revolutionary ideas.\n\nThe best way to commemorate Sun is to carry forward his spirit of revitalising the nation, he said, adding that the city’s first five-year plan had proposed to step up patriotic education.\n\n“The SAR government attaches great importance to patriotic education, and is making continuous efforts to promote mainstream values centred on the affection for our country and Hong Kong and in conformity with the ‘One Country, Two Systems’ principle to strengthen people’s sense of identity with the country and Chinese culture, enhance national confidence and pride, and foster a conscious commitment to upholding national unity and solidarity,” Lee said.\n\nThe CE went on to say that the SAR government would continue to host mainland study tours for students while supporting non-governmental organisations in hosting youth exchange programmes, so that youngsters in the city could experience firsthand the nation’s history, culture, and latest developments.\n\nHe urged people to make contributions to the country’s development and the great rejuvenation of the Chinese nation.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T03:35:58.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877499-20261112.htm"
     },
     {
       "id": "39071788454f42bf",
