@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T06:45:19.777Z",
-  "checkedAt": "2026-11-16T07:17:45.755Z",
+  "generatedAt": "2026-11-16T07:30:23.567Z",
+  "checkedAt": "2026-11-16T07:30:23.567Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 15
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "2a4e9d195c6d6201",
+      "title": "Shenzhen security ramped up for Apec",
+      "excerpt": "Shenzhen has tightened security ahead of this week's Apec forum, where President Xi Jinping is due to hold talks with…",
+      "fullText": "Shenzhen has tightened security ahead of this week's Apec forum, where President Xi Jinping is due to hold talks with US leader Donald Trump and his Russian counterpart Vladimir Putin later this week.\n\nThe city began restricting the use of drones and other low-flying objects, including balloons, kites, and sky lanterns, across Futian and Nanshan districts on November 7, before extending the ban citywide from November 11 until November 21.\n\nAt subway stations, commuters must go through bag scanners before entering the platforms.\n\nMail and parcels are also subject to heightened scrutiny, with all items destined for Shenzhen now undergoing X-ray screening and necessary inspections.\n\nMeanwhile, authorities have introduced stricter traffic controls.\n\nPassenger cars with licence plates registered outside Shenzhen are banned from six core districts between 6am and 10pm daily from Tuesday until Friday.\n\nGoods vehicles face varying restrictions when entering designated zones and roads over the same period, while dangerous goods transportation within the city is completely banned all day until Friday.\n\nRegistered vehicles from Hong Kong and Macao, however, are exempt.\n\nA Shenzhen resident said he felt proud to see the city host the Apec summit, adding that the heightened security measures were not a hindrance at all.\n\n\"I feel very honoured. Shenzhen is a young, developing city, so being able to host such a global event is a real honour,\" he said.\n\n“Security checks on our subway have been strict for many years. We are simply cautious that troublemakers might try to carry knives or other dangerous items.\"\n\nAnother resident, Berry, was also excited about the summit.\n\n\"We are very excited because Trump and Putin will come to Shenzhen,\" he said.\n\n\"Shenzhen is becoming more and more open, and we welcome them here. You know, with the high buildings, the technology, and the AI in Shenzhen, we are very proud of Shenzhen.\"\n\nMeanwhile, Ian, who was travelling from Hong Kong, said morning immigration clearance at the Huanggang Port felt as smooth and convenient as usual.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T07:15:36.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877990-20261116.htm"
+    },
     {
       "id": "53205b0440c7c478",
       "title": "Chamber chief urges Apec visitors to see real China",
@@ -1311,8 +1322,8 @@
       "fullText": "Hong Kong should go after money that stays put, not cash that flees at the first wobble, the Financial Services Development Council said on Wednesday, in a push to tighten the city's hold as Asia's wealth-management hub.\n\nThe council has set out ways in a new report to attract this “patient capital” from pension funds and insurers at home, on the mainland and overseas.\n\nThe council's Vice-Chairman, Ding Chen, said the report aims to turn Hong Kong into a long-term capital hub.\n\n\"The central objective of this report is to make Hong Kong not only a place where capital is raised, and traded, but also place where capital is managed, invested, and reinvested over a longer period of time,\" she said.\n\nThe report says there should be more products investors can buy, including bonds and a wider range of stocks, with tighter risk controls.\n\nIt also calls for more cross-border channels, especially for pensions and insurance.\n\nRocky Tung, the council's executive director, said this stickier money could be \"the stabilising force\" amid market swings, which supports new financial products and backs growth that lasts.\n\n\"There is a lot of investment coming in and out of a market or an economy, and they are here only for the short run,\" he said.\n\n\"And with that in mind, if there is anything less than ideal, they would pull the money out of the market and subsequently the economy. So that will create a lot of turbulence and it will exaggerate the economic cycle.\n\n\"With patient capital, they have the mindset of a long-term vision, they are going to be the stabilising force.\"\n\nThe report noted that mainland insurers held 41.3 trillion yuan in assets at the end of last year, but only 5.4 percent of that is invested outside the mainland — well below the 15 percent they are allowed.\n\nMainland pension savings stood at 15.66 trillion yuan in 2024.\n\nThe report said that as populations age, demand for more diversified cross-border investment and a better match between assets and long-term liabilities would bring unprecedented growth opportunities for Hong Kong's patient capital.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-11T06:36:47.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877384-20261111.htm"
     },
     {
