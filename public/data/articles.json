@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T04:15:18.887Z",
-  "checkedAt": "2026-11-16T04:30:20.792Z",
+  "generatedAt": "2026-11-16T04:45:18.573Z",
+  "checkedAt": "2026-11-16T04:45:18.573Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 18
     },
     {
       "id": "rthk-world",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 14
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 19
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "4d352436bdd926b5",
+      "title": "Lawmaker supports decision to cut short harbour swim",
+      "excerpt": "Legislator Vincent Cheng, who took part in Sunday's cross-harbour swim, on Monday said it was appropriate for the organiser to…",
+      "fullText": "Legislator Vincent Cheng, who took part in Sunday's cross-harbour swim, on Monday said it was appropriate for the organiser to call off the last race on safety grounds.\n\nAbout 4,000 swimmers signed up to this year's annual race from Wan Chai to Tsim Sha Tsui.\n\nCheng said safety was the top priority and the conditions at the time posed a certain risk and the last-minute cancellation was a responsible decision of the organiser.\n\nHe said the currents were very strong during the final 300 meters to the finish, describing the situation as somewhat dangerous and chaotic.\n\n\"Normally a usual swim is probably maybe about 45 minutes, half an hour, but yesterday I swam for one hour 20 minutes, and I was still at the Avenue of Stars there, so there is also a certain risk there,\" Cheng told an RTHK programme on Monday.\n\nHe suggested that organisers should give participants earlier psychological preparation if they know the currents are strong, and consider extending the overall race time next time.\n\nHe also proposed refunding registration fees to those affected or giving them the opportunity to rejoin next year, as well as reviewing the race procedures and arrangements for better forecasting.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T04:32:50.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877963-20261116.htm"
+    },
+    {
+      "id": "a6eacf804f595497",
+      "title": "HKEX launches first offshore RMB bond index",
+      "excerpt": "Hong Kong Exchanges and Clearing (HKEX) launched its first index tracking offshore yuan bonds on Monday, providing investors with a…",
+      "fullText": "Hong Kong Exchanges and Clearing (HKEX) launched its first index tracking offshore yuan bonds on Monday, providing investors with a new benchmark in a market that is central to Beijing's drive to promote the global use of the renminbi.\n\nFinancial Secretary Paul Chan described the launch as a milestone for Hong Kong's RMB market, giving investors a clear benchmark for measuring market performance and lays the foundation for index-linked products that will make these bonds easier to invest in.\n\n\"Like a landmark on a city's skyline, a good index gives a market a recognisable point of reference,\" Chan said.\n\n\"It shows at a glance where the market stands and how it is moving.\"\n\nThe index, developed by HKEX in collaboration with Bloomberg, tracks more than 300 offshore Renminbi bonds listed in the city.\n\nChan said the new index could set in motion a virtuous cycle, with funds and exchange-traded funds tracking it offering global investors convenient exposure to a diversified basket of RMB bonds.\n\nBroader participation would lift secondary market trading, lower transaction costs, sharpen price discovery and ultimately reduce funding costs for issuers, he said.\n\nChan said the launch comes as RMB internationalisation enters a new phase, citing the launch of offshore Chinese government bond futures in August and this month began accepting China government bonds as eligible non-cash collateral.\n\nHe pointed to growing participation from overseas governments, corporates and multilateral development banks choosing Hong Kong to raise RMB funding, citing recent issuers from Indonesia and Kazakhstan.\n\nHe said this adds a new dimension to RMB internationalisation, with the currency becoming a funding currency for global issuers as well as an asset for international investors.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T04:21:33.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877961-20261116.htm"
+    },
     {
       "id": "39621adfdcc222fa",
       "title": "Chinese output up 5.3pc on intelligent manufacturing",
@@ -247,6 +269,17 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877916-20261116.htm"
+    },
+    {
+      "id": "6b232e029d603c04",
+      "title": "CE to attend APEC meeting in SZ",
+      "excerpt": "Chief Executive John Lee will depart for Shenzhen tomorrow to attend the Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting and…",
+      "fullText": "Chief Executive John Lee will depart for Shenzhen tomorrow to attend the Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting and related events, returning to Hong Kong on Thursday.\n\nThis year marks APEC China, representing the third time the country has hosted the summit. Under the theme \"Building an Asia-Pacific Community to Prosper Together\", the gathering will focus on three priority areas, namely openness, innovation and co-operation.\n\nMr Lee will attend the APEC Economic Leaders' Meeting on Thursday, and the APEC CEO Summit running from tomorrow to Wednesday, including the discussion session and the opening ceremony.\n\nAdditionally, Mr Lee will participate in the welcome banquet for attendees and representatives, while also holding bilateral talks with counterparts from other economies to exchange views on issues of mutual interest and to deepen co-operation.\n\n​Mr Lee noted that APEC member economies are Hong Kong's important trading partners, accounting for as much as 87% of the city's external trade.\n\nHe added that Hong Kong, as one of the world's most competitive economies, has firmly supported free trade and multilateralism and has actively leveraged the APEC platform to deepen international exchanges and co-operation.\n\nThe Chief Executive also remarked that the APEC Finance Ministers' Meeting was successfully hosted in Hong Kong for the first time last month, fully demonstrating the city's unique advantage of connecting the Mainland and the world under the \"one country, two systems\" principle, and contributing the city's strength to the financial co-operation of APEC China.\n\n“The Hong Kong Special Administrative Region Government will continue to strengthen connectivity with various APEC economies, further play Hong Kong's roles as a ‘super connector’ and ‘super value-adder’, and contribute to regional prosperity and development,” he added.\n\n​During Mr Lee's absence, Chief Secretary Chan Kwok-ki will serve as Acting Chief Executive.\n\nSecretary for Commerce & Economic Development Algernon Yau and Director of the Chief Executive's Office Carol Yip will accompany him on the trip.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261116/20261116_120344_688/images/20261116121654976.jpg",
+      "publishedAt": "2026-11-15T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261116/20261116_120344_688.html"
     },
     {
       "id": "e74966f782ffe886",
@@ -709,28 +742,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
-    },
-    {
-      "id": "8e68b92bb8efbe62",
-      "title": "14-month-old baby girl dies from flu",
-      "excerpt": "Health authorities said on Friday that a 14-month-old baby girl with severe influenza has died, the third child flu death…",
-      "fullText": "Health authorities said on Friday that a 14-month-old baby girl with severe influenza has died, the third child flu death in Hong Kong this year.\n\nThe toddler, who had been in good health, developed a fever and cough in late October and was taken to Tseung Kwan O Hospital after suffering a convulsion.\n\nHer condition deteriorated and she was transferred to the paediatric intensive care unit of United Christian Hospital before passing away on Friday.\n\nIn a statement, the Centre for Health Protection said the latest surveillance data showed overall influenza activity has declined but remains above baseline levels.\n\nThe centre noted that a cumulative total of 29 severe paediatric influenza cases have been recorded since the start of the current flu season in June.\n\nApart from the three fatalities, 22 have recovered and been discharged, two are in stable condition and two in critical condition.\n\nHealth authorities urged members of the public to promptly receive the seasonal influenza vaccine if they have not yet done so.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T13:05:20.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877739-20261113.htm"
-    },
-    {
-      "id": "b0229af3e0e24768",
-      "title": "Evening News on TV32 - Nov 13",
-      "excerpt": "Top stories for Friday, Nov 13, 2026 - Lawmakers raise concerns over the faulty lifts saga at Queen Mary Hospital…",
-      "fullText": "Top stories for Friday, Nov 13, 2026\n\n- Lawmakers raise concerns over the faulty lifts saga at Queen Mary Hospital.\n\n- The Housing Authority makes it easier for young families to buy a home.\n\n- A major Microsoft outage causes disruption across the world.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T12:43:45.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877729-20261113.htm"
     },
     {
       "id": "9e2d96a4c89a853a",
@@ -1294,17 +1305,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877384-20261111.htm"
     },
     {
-      "id": "9df60de7a02b967a",
-      "title": "HK, mainland stocks open lower",
-      "excerpt": "Global bonds tumbled and the greenback stayed firm after a hot US inflation print and hawkish central bank rhetoric raised…",
-      "fullText": "Global bonds tumbled and the greenback stayed firm after a hot US inflation print and hawkish central bank rhetoric raised the risk of an outsized half-point rate hike from the Federal Reserve next month.\n\nHong Kong and mainland stocks, meanwhile, opened lower on Wednesday.\n\nThe Hang Seng Index was down 202 points, or 0.83 percent, at 24,354.\n\nOn the mainland, the benchmark Shanghai Composite Index opened 0.22 percent lower at 3,655 whereas the Shenzhen Component Index fell 0.32 percent at 11,205.\n\nIn Japan, the Nikkei share gauge climbed for a third straight session as data and earnings reports restored some optimism to the battered AI sector. The benchmark Nikkei 225 advanced 0.8 percent to 60,942 as of the midday break.\n\nThe Kospi in Seoul rose 0.4 percent during morning trade. (Reuters/Xinhua)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T03:04:00.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877362-20261111.htm"
-    },
-    {
       "id": "ad58b5e90d4ee4a9",
       "title": "North Korean affordability crisis: monthly salary can’t buy even a bag of rice",
       "excerpt": "Workers start every month deep in the red as inflation guts official wages and forces reliance on side hustles.",
@@ -1314,17 +1314,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/korea/2026/11/10/north-korea-affordability-crisis-inflation/"
-    },
-    {
-      "id": "c8d03f9a0623f128",
-      "title": "New COVID-19 vaccines to arrive",
-      "excerpt": "The Centre for Health Protection (CHP) of the Department of Health stated today that the first shipment of the new…",
-      "fullText": "The Centre for Health Protection (CHP) of the Department of Health stated today that the first shipment of the new batch of Spikevax XFG vaccine for individuals aged 12 or above is expected to arrive in Hong Kong in December.\n\nIn a statement in response to comments from a medical organisation regarding a lack of stock of COVID-19 vaccines and concerns about low COVID-19 vaccination rates, the CHP clarified that market supply will resume and private doctors will be able to order from pharmaceutical companies as usual.\n\nIt added that the temporary absence of COVID-19 vaccinations for adults is normal during this transitional period while awaiting new vaccine production and delivery.\n\nThe CHP had earlier announced that the shelf life of the LP.8.1 vaccine for children and adults would expire in mid-July and early September respectively, noting that producing and shipping vaccines with updated ingredients takes time.\n\nStarting October 29, the CHP has been providing the Spikevax XFG mRNA vaccine to children aged 6 months to 11 years.\n\nThe Government has set up a total of 75 COVID-19 vaccination venues across Hong Kong, including Specialist Out-patient Clinics and Family Medicine Clinics in public hospitals, private clinics, Maternal and Child Health Centres.\n\nSince patients co-infected with seasonal influenza and COVID-19 are at a higher risk of severe complications and death, the CHP has consistently recommended that priority groups receive both seasonal influenza vaccination and COVID-19 vaccination booster to reduce the risk of serious illness and death.\n\nEligible individuals can receive both COVID-19 and influenza vaccinations at all current vaccination venues, leading the CHP to conclude that there is currently no need to expand the number of sites.\n\nFurthermore, according to a survey conducted by the medical organisation concerned, nearly 40% of the doctors surveyed do not proactively remind patients to receive COVID-19 vaccination.\n\nThe CHP expressed concern about this and urged healthcare professionals to proactively remind patients of the importance of receiving COVID-19 vaccination in a timely manner.\n\nEven if their clinics do not provide vaccination services, healthcare professionals can still provide patients with information about the Government's COVID-19 Vaccination Programme, the CHP said.\n\nThe CHP added that it will continue to strengthen publicity and education to encourage priority groups to receive COVID-19 vaccination as soon as possible once the COVID-19 vaccines are available.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261111/20261111_211612_437/images/20261111224102747.jpg",
-      "publishedAt": "2026-11-10T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261111/20261111_211612_437.html"
     },
     {
       "id": "b67b84591d2fcf14",
@@ -1380,17 +1369,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/myanmar/2026/11/10/starlink-burma-civil-war-scam-center/"
-    },
-    {
-      "id": "05310c9edb0e0ecf",
-      "title": "China says trade surplus surpassed US$1tn in October",
-      "excerpt": "China's trade surplus exceeded US$1 trillion for a second year in a row, according to official data released on Tuesday…",
-      "fullText": "China's trade surplus exceeded US$1 trillion for a second year in a row, according to official data released on Tuesday.\n\nThe nation's foreign trade in goods maintained strong growth momentum in the first 10 months of 2026, with imports posting especially robust gains, according to official data.\n\nTotal imports and exports grew 20 percent year on year over the period, accelerating from 18.8 percent in the first nine months, according to the General Administration of Customs (GAC).\n\nExports jumped 35.2 percent year-on-year to US$412.3 billion last month, according to the GAC, while imports in October expanded 41.6 percent to US$307.1 billion.\n\nBetween January and October, the country logged a US$1.04 trillion trade surplus, even as the trade surplus narrowed last month to US$105.3 billion from US$133.5 billion in September as imports picked up pace.\n\nAnalysts expect China to surpass the record US$1.2 trillion surplus it hit last year.\n\n“We expect Chinese exports to stay strong for the rest of this year, led by electronics and autos,” said Dave Chia, an economist at Moody’s Analytics.\n\nMeanwhile, exports to the United States surged 32.9 percent last month, the GAC data showed.\n\nThe figures come ahead of another meeting between President Xi Jinping and his US counterpart Donald Trump at the Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen next week.\n\nThe two have navigated a shaky truce to a trade war since their meeting in October 2025. They also met twice this year.\n\nBeijing on Monday officially announced the extension of a trade truce with Washington due to expire on November 10 by two months, but said last week that expanding its purchases of US farm goods would hinge on the implementation of their agreed reciprocal tariff-reduction arrangement.\n\n\"The risk of additional tariffs and other trade barriers will remain elevated in 2027, particularly as Chinese manufacturers continue expanding their presence in overseas markets,\" said Joe Peissel, lead macroeconomist at Trivium China.\n\nGreater reliance on exports, however, leaves China's economy increasingly exposed to any slowdown in global demand.\n\nMuch of the strength in exports this year has been fuelled by a global push to expand AI infrastructure.\n\n\"The outlook for exports depends on how long the AI boom will last,\" Macquarie analysts wrote.\n\nThey expect China's exports to accelerate further in the fourth quarter before starting to slow from the first quarter of 2027. (Agencies)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T03:56:07.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877232-20261110.htm"
     },
     {
       "id": "b927f5d06d318a3a",
@@ -1743,6 +1721,28 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
+    },
+    {
+      "id": "9ae8a1e02c50d50c",
+      "title": "SED meets state leader in Beijing",
+      "excerpt": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in…",
+      "fullText": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in visiting a state leader and Ministry of Education officials in Beijing.\n\nMs Choi and the delegates were received by Vice-Chairperson of the National People's Congress Standing Committee Tie Ning at the Great Hall of the People this afternoon. They also met and exchanged views with officials from the ministry.\n\nMs Choi remarked that this year marks the 77th anniversary of the founding of the People's Republic of China, the 105th anniversary of the founding of the Communist Party of China, and the opening year of the National 15th Five-Year Plan.\n\nShe said it was highly significant for Hong Kong's education sector to visit Beijing ahead of National Day, on October 1, and to celebrate the motherland's birthday and experience a jubilant festive atmosphere with people in the capital.\n\nMs Choi highlighted that last week the Hong Kong Special Administrative Region Government announced its First Five-Year Plan, which aligns with the National 15th Five-Year Plan. She outlined that the Hong Kong's education sector faces multiple tasks, including digital education, talent cultivation and the integration of industry and education.\n\nShe said: “The delegation enabled teachers to gain insight into the latest education developments of the country and share experiences with Chinese Mainland teachers in areas such as operation models, curricula and teaching arrangements of schools at all levels.\n\n“It not only broadened their horizons but also fostered exchanges between the education sectors of both places, providing important references for the future development of Hong Kong's education and laying a foundation for deeper collaboration.”\n\nMs Choi and the delegation subsequently attended a banquet hosted by the Ministry of Education, where they engaged in in-depth discussions regarding professional connections and mutual learning between the education sectors of the two places.\n\nMs Choi and the delegation members will conclude their visit and return to Hong Kong tomorrow.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014/images/20260923195636768.jpg",
+      "publishedAt": "2026-09-22T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
+    },
+    {
+      "id": "7aceb231ca0e6f87",
+      "title": "Manpower shortage to narrow",
+      "excerpt": "The Labour & Welfare Bureau today published its Mid-term Update of Manpower Projection report, predicting that Hong Kong's overall manpower…",
+      "fullText": "The Labour & Welfare Bureau today published its Mid-term Update of Manpower Projection report, predicting that Hong Kong's overall manpower shortage will narrow from the previous projection of approximately 180,000 to some 130,000 by 2028.\n\nThe report indicates that the city’s overall manpower shortage has been alleviated, benefiting from various talent admission and labour importation measures implemented by the Government over the past three years.\n\nSecretary for Labour & Welfare Chris Sun said the mid-term update reflects the Government’s measures have effectively stabilised the labour force.\n\n“However, manpower demand in certain industries remains acute. In response to the job reshaping driven by artificial intelligence (AI), the Government will continue to collaborate with all parties to formulate targeted measures.\n\n“In addition to strengthening retraining mechanisms and providing flexible skill-conversion programmes for elderly and middle-aged employees, we will enhance the employment support for young graduates and explore incentives for employers and employees to engage in on-the-job retraining.\n\n“The Government will adopt a multipronged approach to assist workers at all levels in equipping themselves to step into the new era of AI.”\n\nThe report finds that economic restructuring and the adoption of AI adoption have moderated growth in demand for manpower, at the same time as admission schemes have supplemented parts of the labour force. Nevertheless, the manpower situation across most key industries – particularly innovation and technology, aviation, construction, everyday services and healthcare services – remains tight.\n\nAbout 60% percentage of the overall manpower shortage over the next three years is projected to be concentrated in two categories – skilled technical workers, and services and sales workers. This is due to workforce ageing and difficulties in attracting younger entrants.\n\nLooking ahead to 2028, the overall labour force, driven by continued population ageing, is projected to decrease gradually to approximately 3.4 million even after accounting for various new entrants.\n\nThe report includes analysis of the profound impact of AI on the labour market.\n\nResearch indicates that adoption of AI in applicable roles will boost individual productivity by 20% to 30%. Companies are currently managing the transition through natural attrition and the risk of large-scale layoffs in the short term remains relatively low. However, approximately 20% to 30% of positions, primarily clerical roles, will face restructuring.\n\nThe Government will continue to promote “AI for All” and support lifelong learning, ensuring that skills in the labour force remain aligned with Hong Kong's future economy.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260922/20260922_160618_499/images/20260922182515791.jpg",
+      "publishedAt": "2026-09-21T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260922/20260922_160618_499.html"
     }
   ]
 }
