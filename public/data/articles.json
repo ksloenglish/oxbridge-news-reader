@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T01:45:20.036Z",
-  "checkedAt": "2026-11-16T01:45:20.036Z",
+  "generatedAt": "2026-11-16T01:56:48.096Z",
+  "checkedAt": "2026-11-16T01:56:48.096Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 14
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "3bd729d3a8d5e6a4",
+      "title": "Scotland fend off late fightback to beat Wallabies",
+      "excerpt": "Scotland survived a late rally to beat Australia 15-12 in the Nations Championship at Murrayfield on Sunday as the Wallabies…",
+      "fullText": "Scotland survived a late rally to beat Australia 15-12 in the Nations Championship at Murrayfield on Sunday as the Wallabies suffered a fourth successive defeat.\n\nThe Dark Blues led 12-5 at half-time thanks to two tries from Matt Fagerson and Australia-born Jack Dempsey to one from Wallaby wing Harry Potter.\n\nNeither side managed another point until fly-half Finn Russell's penalty six minutes from time put Scotland 10 points ahead.\n\nBut Max Jorgensen's 79th-minute try, converted by Ben Donaldson, gave the Wallabies hope of an improbable win before the recalled Scotland duo of Darcy Graham and Blair Kinghorn frustrated a last-ditch Australia attack.\n\nVictory saw Scotland leapfrog Wales into fourth place in the Northern Hemisphere table.\n\nBoth teams arrived at Murrayfield with concerns over their defence.\n\nScotland lost 43-21 at home to New Zealand in their November opener last week, while the Wallabies went down 45-22 to England at Twickenham — the third match in a row where Australia had given up at least 40 points.\n\nScotland suffered a setback shortly before kick-off when captain Sione Tuipulotu pulled out because of a knee injury, with Tom Jordan taking the Australia-born centre's place in midfield.\n\nNevertheless, it took Scotland just eight minutes to open the scoring.\n\nFrom a close-range scrum, the ball was worked to the onrushing Jordan and he found Ben White, with the scrum-half's pass releasing unguarded flanker Fagerson, who dived over out wide for his sixth Test try.\n\nFinn Russell's conversion hit the post and just three minutes later Australia were level.\n\nScotland's defence was split apart as a delayed pass from recalled fly-half Carter Gordon and a missed tackle from Russell allowed Potter to slide over at a rainswept Murrayfield for a try Ryan Lonergan could not convert.\n\nScotland thought they had a second try when Kyle Steyn volleyed a bouncing ball forward from a grubber kick, with Darcy Graham touching down.\n\nBut the score was disallowed on review after Steyn was ruled to have been in touch.\n\nBut their second try did arrive in the 27th minute when back-row forward Dempsey — who won 14 caps for the Wallabies before changing allegiance in 2022— barged over with Russell adding the extras.\n\nAustralia then also had a try disallowed on review, with Billy Pollard's score from a driving maul ruled out for obstruction to leave Scotland 12-5 ahead at the break.\n\nPollard was yellow carded in the 46th minute for a head-on-head collision with Kinghorn but the Scots were unable to make the extra man count in a scrappy contest.\n\nIt was not until the 74th minute that Russell's penalty put Scotland two scores in front.\n\nThe Wallabies mounted a frantic rally which ended with Jorgensen speeding in for a try to give the hosts a scare before Scotland celebrated their fifth win in six Tests against Australia. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T01:41:38.000Z",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877942-20261116.htm"
+    },
     {
       "id": "6347313ac6df91e3",
       "title": "Japan's economy contracts an annualised 0.1pc in Q3",
@@ -1129,17 +1140,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877454-20261112.htm"
     },
     {
-      "id": "a6408fac189bd906",
-      "title": "Man U reach verbal agreement with Pochettino: reports",
-      "excerpt": "Manchester United have reportedly reached a \"verbal agreement in principle\" with Mauricio Pochettino to replace Michael Carrick as their manager…",
-      "fullText": "Manchester United have reportedly reached a \"verbal agreement in principle\" with Mauricio Pochettino to replace Michael Carrick as their manager in a bid to revive the fortunes of the struggling English giants.\n\nCarrick's position at Old Trafford has been the subject of intense speculation following United's worst start to a season in 40 years, leaving them languishing in the Premier League relegation zone after an eight-match winless run.\n\nHe remains in post but it is believed Carrick's future will be decided at a meeting attended by influential shareholder Jim Ratcliffe, chief executive Omar Berrada and director of football Jason Wilcox in Monaco on Wednesday.\n\nBerrada and Wilcox are reportedly leaning towards dismissing Carrick.\n\nUnited States head coach Pochettino has extensive experience of the Premier League following spells in charge of Southampton, Tottenham and Chelsea.\n\nIt was only three months ago, however, that Pochettino signed a contract extension to remain with the United States through to the 2030 World Cup.\n\nUS Soccer would be due compensation should he move to Manchester, with the 54-year-old understood to have a £7.5 million release clause.\n\nBut Sky Sports reported Wednesday that United have \"reached a verbal agreement in principle\" with Pochettino, linked with a move to Old Trafford on several previous occasions, to become their new head coach.\n\nCarrick was seen arriving at United's Carrington training ground on Wednesday but it appears to be only a matter of time before his turbulent reign comes to an end.\n\nThe 45-year-old had been granted a stay of execution after he was widely expected to be axed in late October following a 3-0 home defeat by Bournemouth.\n\nBut United were beaten 2-0 at Chelsea, then scrambled a last-gasp 3-2 win against Roma in the Champions League after falling two goals down.\n\nIt appeared former United and England midfielder Carrick would be on the way out when his team twice trailed Aston Villa by two goals on Sunday.\n\nWhen United scored twice in stoppage-time to rescue an improbable 4-4 draw, it was interpreted as a positive sign for Carrick as the players were still fighting for him.\n\nBut a change now appears likely, with former Newcastle manager Eddie Howe, ex-Chelsea chief Antonio Conte and former Germany coach Julian Nagelsmann also linked with the United job.\n\nUnited have the rest of the two-week international break to resolve their managerial situation before returning to action at bitter rivals Liverpool on November 22.\n\nCarrick has presided over United's slide to 18th place, their lowest position 10 games into a top-flight season since 1986/87 when they were 20th.\n\nHe was hired on a permanent basis in the close-season after leading United to a third-place finish in the Premier League during his spell as interim boss.\n\nCarrick had won plaudits for steadying the ship after Ruben Amorim's volatile reign ended in the sack in January.\n\nBut, hampered by the club's underwhelming recruitment in the transfer window, Carrick's team have endured a steep decline this term.\n\nUnited, who have not won the title since Alex Ferguson's final season as boss in 2012/13, only signed midfielders Youri Tielemans, Carlos Baleba and Andrey Santos in the summer transfer window despite the glaring need for new forwards.\n\nCarrick has struggled to maintain discipline among his squad, dropping captain Bruno Fernandes after he criticised his manager's tactics during a 4-1 thrashing at Champions League debutants Como.\n\nHe also axed Lisandro Martinez after the United defender criticised the club's hierarchy for their lack of top-quality signings.\n\nUnited fans have remained largely supportive of Carrick, focusing their anger on majority owners the Glazer family, Ratcliffe and the under-achieving players. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T23:04:09.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877471-20261112.htm"
-    },
-    {
       "id": "f290d69ad696e96d",
       "title": "CoreWeave results lift tech stocks as dollar gains",
       "excerpt": "Stock markets rose on Wednesday on renewed optimism over AI following strong results from data centre operator CoreWeave, while the…",
@@ -1347,6 +1347,17 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877268-20261110.htm"
+    },
+    {
+      "id": "fbb1b327c9497a63",
+      "title": "Tech gains, oil price falls lift HK, mainland markets",
+      "excerpt": "Hong Kong and mainland stocks closed higher on Tuesday, led by AI supply chain shares, as an overnight rally on…",
+      "fullText": "Hong Kong and mainland stocks closed higher on Tuesday, led by AI supply chain shares, as an overnight rally on Wall Street and sliding oil prices lifted risk sentiment across Asia.\n\nThe benchmark Hang Seng Index closed 108 points, or 0.4 percent, higher at 24,557 on turnover of HK$178.17 billion.\n\nThe tech index rose 43 points, or 1.1 percent, to 4,084 while the China enterprises index crept five points, or 0.1 percent, up to 8,265.\n\nOptical communication giant Zhongji Innolight jumped nine percent while Wuxi AppTec rose up to five percent before paring gains after the Pentagon removed the biotechnology company from its list of Chinese military companies.\n\nMainland chip firms Suzhou Denglin Technology and Jiangsu Xinde Semiconductor Technology made mixed trading debuts after raising a combined HK$2.36 billion in initial public offerings.\n\nAI chip designer Suzhou Denglin ended HK$18, or 7.79 percent, down at HK$213 while semiconductor packager and tester Jiangsu Xinde was HK$2.52, or 28 percent, up at HK$11.40.\n\nOn the mainland, the benchmark Shanghai Composite Index inched up just under three points, or 0.08 percent, to end at 3,663.\n\nThe Shenzhen Component Index was 96 points, or 0.86 percent, higher at 11,241 while the ChiNext Index was 35 points, or 1.46 percent, up at 2,494.\n\nChip supply chain shares across Asia climbed, tracking an overnight rally on Wall Street that saw the Nasdaq jump 2.7 percent.\n\nThe 5G Communication Index rose 2.6 percent, leading gains onshore, while the tech-focused Star50 Index was up nearly one percent.\n\nNon-ferrous metal shares edged up 0.1 percent as gold prices rebounded this month on falling oil prices.\n\nThe CSI Energy Index fell 2.6 percent, with PetroChina down 6.3 percent.\n\nChina's trade surplus surged past US$1 trillion in the first 10 months as a global race to build AI infrastructure buoyed sales of high-tech products and helped offset weak domestic demand, a dynamic likely to sharpen tensions with major trading partners.\n\nIn Tokyo, the Nikkei climbed up by 1,684 points, or 2.87 percent, to end at 60,459, extending its rebound from a tech-led selloff on Friday as AI-related stocks surged.\n\nThe broader Topix was up 75 points, or 1.98 percent, at 3,893.\n\nIn Seoul, the Kospi closed up 220 points, or 4.39 percent, at 5,239 in a sharp rebound from nine-month lows as chipmakers tracked overnight gains in US tech stocks. (Agencies)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-10T09:10:16.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877260-20261110.htm"
     },
     {
       "id": "041900f59c9bda03",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746.html"
-    },
-    {
-      "id": "e514ab7fdff7dce2",
-      "title": "Domestic helper wage up 2.35%",
-      "excerpt": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased…",
-      "fullText": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased by 2.35%, from $5,100 to $5,220 per month.\n\nThe new minimum wage level will apply to all FDH contracts signed on or after tomorrow. FDH contracts signed today or earlier at the existing rate will still be processed by the Immigration Department, provided that the applications reach the department no later than October 30.\n\nThe Government explained that in reviewing the minimum wage, it had, in accordance with an established mechanism, considered factors including Hong Kong’s general economic performance and labour market conditions over the past year, the city's near-term economic outlook, employer affordability and the basic living needs of FDHs.\n\nThe Government also consulted employers and FDHs throughout the review process.\n\nIt stated that it decided to adjust the minimum wage level after carefully assessing and balancing the views of all parties, taking into account that this year's socio-economic factors are more favourable than those of last year's review.\n\nThe Government also reviewed the food allowance in lieu of free food, and decided that the level should remain unchanged, at no less than $1,236 per month.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265/images/20261002172046980.jpg",
-      "publishedAt": "2026-10-01T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
     }
   ]
 }
