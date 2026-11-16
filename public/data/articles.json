@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T12:00:29.120Z",
-  "checkedAt": "2026-11-16T12:45:19.918Z",
+  "generatedAt": "2026-11-16T13:00:32.178Z",
+  "checkedAt": "2026-11-16T13:00:32.178Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "927ecddff09522fe",
+      "title": "Evening News on TV32 - Nov 16",
+      "excerpt": "Top stories for Monday, Nov 16, 2026 - Apec leaders start arriving in Shenzhen, where Xi Jinping is expected to…",
+      "fullText": "Top stories for Monday, Nov 16, 2026\n\n- Apec leaders start arriving in Shenzhen, where Xi Jinping is expected to discuss world peace with his US and Russian counterparts.\n\n- New World shares plummet after it proposes a 24.9 billion dollar rights issue plan.\n\n- Around a dozen people are killed in a fire in Phuket.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T12:41:13.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878026-20261116.htm"
+    },
     {
       "id": "e9eb86e70a720f92",
       "title": "RTHK, CGTN join hands in Apec coverage",
@@ -720,17 +731,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877820-20261114.htm"
-    },
-    {
-      "id": "a1802d223022642e",
-      "title": "HK 'needs to step up act on AI laws on porn and scams'",
-      "excerpt": "Lawmakers have called on the government to tighten artificial intelligence regulations after the city ranked just 50th out of 70…",
-      "fullText": "Lawmakers have called on the government to tighten artificial intelligence regulations after the city ranked just 50th out of 70 economies for AI governance in a new global index.\n\nIn terms of competitiveness, the Switzerland-based International Institute for Management Development's first-ever World Digital and AI Ranking report also ranked the SAR as 11th overall and fourth in Asia, behind Singapore and the Chinese mainland with the United States topping the list.\n\nSpeaking on a radio show on Saturday, lawmaker Johnny Ng said while the city had performed well in talent and infrastructure, it lagged behind on governance.\n\n\"It's not that we don't have laws. We have guidelines,\" he said.\n\n\"But when it comes to certain areas, for example, how we protect young people from pornography or scams, we need to do a little more.\"\n\nSpeaking on the same show, fellow lawmaker Simon Lee said current regulations were not enough.\n\nHe said the city should consider rolling out AI legislation in phases, with priority placed on monitoring of deepfakes and high-risk AI systems.\n\nIn his September 2026 Policy Address, Chief Executive John Lee said the city was looking at instituting legislation to regulate deepfakes and combat AI-enabled crime.\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T08:33:09.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877814-20261114.htm"
     },
     {
       "id": "7f4a729a3173997c",
