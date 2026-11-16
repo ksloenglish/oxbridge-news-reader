@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T03:45:27.121Z",
-  "checkedAt": "2026-11-16T04:00:26.549Z",
+  "generatedAt": "2026-11-16T04:15:18.887Z",
+  "checkedAt": "2026-11-16T04:15:18.887Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 17
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "39621adfdcc222fa",
+      "title": "Chinese output up 5.3pc on intelligent manufacturing",
+      "excerpt": "Value-added industrial output increased by 5.3 percent in the first 10 months on the mainland, according to official figures on…",
+      "fullText": "Value-added industrial output increased by 5.3 percent in the first 10 months on the mainland, according to official figures on Monday.\n\nHigh-end and intelligent manufacturing contributed to over 50 percent of output during the period, a National Bureau of Statistics spokesperson said.\n\nFor October alone, output grew 4.8 percent from a year earlier.\n\nRobust demand for AI-related products and cars helped pull the Chinese economy out of a second-quarter slowdown.\n\nWith third-quarter GDP growth running at 4.5 percent year on year, analysts believe Beijing remains on target to reach 4.5 to five percent without the need for significant additional stimulus.\n\nTrade data released last week showed that goods exports soared in October as the global AI infrastructure buildout continued to elevate sales of high-tech goods.\n\nTotal retail sales of goods and services, a gauge that measures goods consumption and catering revenue, increased by 2.5 percent year on year in the first 10 months of this year.\n\nFor October alone, retail sales edged up 0.4 percent after growing 1.1 percent the previous month.\n\nEconomists in a poll had expected a 0.8 percent increase.\n\nServices retail sales grew 4.9 percent in the first 10 months, narrowing from five percent growth in the first three quarters.\n\nThere is huge potential for consumption but people's capacity and willingness to spend need to be enhanced, a bureau spokesperson said.\n\nAn AI-driven export boom has powered China's economic growth this year and looks set to shelter overall growth from external and domestic headwinds into 2027.\n\nFixed-asset investment dropped 8.1 percent in the first 10 months, compared to a 7.2 percent drop in the first nine months.\n\nThe surveyed urban unemployment rate in China fell to 5.1 percent in October from 5.2 percent in September.\n\nNew home prices declined again in October, albeit at the lowest annual rate in almost a year, extending a years-long slump that has eroded market confidence, sapped consumer spending and squeezed local government income.\n\nPrices fell 0.1 percent versus September, when they also fell by the same percentage.\n\nBeijing has in recent months introduced fresh support, including measures for steering cheaper credit into a range of sectors including infrastructure and technology, as well as expanding support for home buyers.\n\nRegulators also in early November rolled out a handful of measures, from conducting swap operations to upgrading a lending facility for stock buybacks by listed companies, as part of efforts to stabilise struggling capital markets.\n\nLooking ahead, policymakers will step up policy support for domestic demand if the tailwind from the AI boom tapers off, analysts said. (Xinhua/Reuters)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T04:02:59.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877955-20261116.htm"
+    },
     {
       "id": "53e5df9e4a9a24f6",
       "title": "China confirms Xi to hold summit with Trump, Putin",
@@ -1294,17 +1305,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877362-20261111.htm"
     },
     {
-      "id": "95175d27d15c212d",
-      "title": "Anthropic targets valuation of up to US$1.4 trillion",
-      "excerpt": "Anthropic plans to raise up to US$64 billion in its upcoming initial public offering, the artificial intelligence giant said in…",
-      "fullText": "Anthropic plans to raise up to US$64 billion in its upcoming initial public offering, the artificial intelligence giant said in a filing on Tuesday, putting the company's total valuation at up to US$1.4 trillion.\n\nThe maker of AI agent Claude said in a filing with the US Securities and Exchange Commission that it aims to sell 825 million shares of Class A common stock at a Wall Street debut price estimate of \"between US$70.00 and US$78.00\" per share, amounting to US$64.3 billion.\n\nAnthropic had been expected to raise up to US$100 billion in its IPO, which would have made it the largest IPO on record.\n\nThe stock market debut is being seen as a gauge of how long the AI spending boom lifting the US economy can last.\n\nAnd it comes as Wall Street is busy digesting the impact of the US midterm elections, in which Democrats won majority control of both chambers of Congress and are vowing to put the brakes on US President Donald Trump's agenda.\n\nAnthropic has been aiming to hold its initial public offering the week of November 16.\n\nOn Monday the company announced it would release updated versions of two of its most powerful AI models, Fable 5.2 and Mythos 5.2, which it said can perform 30 percent faster than previous versions.\n\nGrowth has been staggering at the company. Anthropic's revenue reached US$17 billion in the third quarter, up from just US$1.4 billion a year earlier, a securities filing showed earlier this month.\n\nOn Tuesday, the company said its annualised projection, known as the run-rate revenue, \"was approximately US$81 billion as of October 31, 2026, up US$10 billion from September 30.\"\n\nEstimates in recent months had forecast Anthropic's valuation at up to a staggering US$2 trillion, but the estimates have slipped along with a slide in AI stock prices on Wall Street.\n\nSeveral US media outlets including The Wall Street Journal and The New York Times on Tuesday estimated the valuation of the company at between US$1.3 trillion and US$1.4 trillion. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T22:52:17.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877308-20261111.htm"
-    },
-    {
       "id": "ad58b5e90d4ee4a9",
       "title": "North Korean affordability crisis: monthly salary can’t buy even a bag of rice",
       "excerpt": "Workers start every month deep in the red as inflation guts official wages and forces reliance on side hustles.",
@@ -1391,17 +1391,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877232-20261110.htm"
-    },
-    {
-      "id": "2ffe36bde21750e6",
-      "title": "US military surrenders in court fight with WuXi AppTec",
-      "excerpt": "The US military has removed mainland biotechnology company WuXi AppTec from its list of Chinese military companies, according to a…",
-      "fullText": "The US military has removed mainland biotechnology company WuXi AppTec from its list of Chinese military companies, according to a government posting.\n\nThe deputy secretary of defence made the determination on Monday in light of a federal court in Washington barring the department from enforcing the designation, the posting said.\n\nThe ruling came in a lawsuit WuXi AppTec filed after the Pentagon added it to the list, saying its designation was arbitrary, capricious, unsupported by the facts and \"the product of political pressure\".\n\nThe US military's headquarters at the Pentagon expanded its blacklist of alleged \"Chinese military companies\" on June 8 to 188 entities.\n\n\"This decision relieves the company from further adverse consequences of the 1260H designation,\" WuXi AppTec said in a filing to the Hong Kong bourse on Tuesday morning, referring to the list that is kept under section 1260H of a US defence law.\n\n\"We remain committed to serving our customers and enabling the lifesaving and life-improving medicines they make for patients,\" the company added. (Reuters)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T03:13:50.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877228-20261110.htm"
     },
     {
       "id": "b927f5d06d318a3a",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
+    },
+    {
+      "id": "940d79532a5b6d51",
+      "title": "Nursing workforce planning outlined",
+      "excerpt": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare…",
+      "fullText": "The Government stated today that public healthcare institutions have consistently prioritised the employment of locally trained personnel when recruiting healthcare professionals. The statement was issued in response to public discussions regarding nursing manpower planning in Hong Kong, adding that such discussions should be grounded objective facts and data to foster consensus.\n\nAlthough the nurse attrition rate within the Hospital Authority has dropped from a peak of 10.9% to 5.4%, approximately 3,200 vacancies remain unfilled with recruitment ongoing. In 2025, around 3,500 of the 4,000 prospective nursing graduates qualified as Registered Nurses (RNs) or Enrolled Nurses (ENs), with about 60% applying for positions within the authority.\n\nThese figures demonstrate that graduates diversify into various sectors, including private healthcare institutions, elderly services and rehabilitation, community nursing, insurance and health management. Notably, approximately 99% of applicants who completed the interview or assessment process for RN posts within the authority received an offer of appointment.\n\nAs of the end of 2025, over 30,000 of Hong Kong’s 75,000 RNs and ENs were employed within the public healthcare system, representing roughly 40% of the total workforce. Given that nursing practice spans hospitals, primary care, community and elderly services, rehabilitation and other health service sectors, the Government noted that manpower supply and demand must be assessed holistically across the entire market.\n\nFurthermore, approximately 99.8% of RNs serving in the authority are locally trained, confirming that local professionals remain the backbone of public healthcare. The Government affirmed it will continue to promote regional healthcare collaboration and professional exchanges while strictly safeguarding employment priority for locally trained professionals.\n\nPlans are also underway to strengthen manpower training for primary healthcare and advance professional systems to enhance service quality and maximise the professional functions of nurses. Addressing broader roles, the Government stressed that the Health & Care Practitioner (HCP) rank is a dedicated welfare-sector role that should not be confused with ENs due to distinct scopes of practice.\n\nAcknowledging broader recruitment pressures, the Health Bureau noted that private hospitals face similar shortages, with one facility reporting 40 vacancies but receiving only 25 applications over the past year. In response to an ageing population, the Government reiterated its commitment to driving cross-sectoral collaboration and manpower planning based on service needs and manpower data to ensure that healthcare and nursing services in Hong Kong can continue to meet the needs of society.\n\nThe Government hopes that all sectors of the community will exchange views on healthcare manpower development and professional training based on facts and data, and work together to foster the sustainable development of the city's healthcare system.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431/images/20260929142417086.jpg",
+      "publishedAt": "2026-09-28T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
     }
   ]
 }
