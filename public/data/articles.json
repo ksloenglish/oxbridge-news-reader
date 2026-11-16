@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T14:30:25.754Z",
-  "checkedAt": "2026-11-16T15:00:32.565Z",
+  "generatedAt": "2026-11-16T15:15:19.615Z",
+  "checkedAt": "2026-11-16T15:15:19.615Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "a986c51f5eb992fa",
+      "title": "Trump says he may meet Kim Jong Un in China",
+      "excerpt": "US President Donald Trump said on Monday that he may meet with DPRK leader Kim Jong Un in China as…",
+      "fullText": "US President Donald Trump said on Monday that he may meet with DPRK leader Kim Jong Un in China as the US looks to re-engage Pyongyang on its nuclear programme.\n\nTrump was preparing to depart for Asia, turning his focus to economic deals and historic three-way nuclear talks with Russia and China as his administration adjusts to a new political reality in Washington.\n\nHe said he plans to talk about Russia’s war in Ukraine during the highly anticipated meeting with Presidents Xi Jinping and Vladimir Putin on the sidelines of the Apec summit in Shenzhen on Thursday.\n\nTrump’s departure comes after the often-omnipresent president had remained largely out of public sight for the past several days, even as a nationwide ground stop snarled air traffic and his Republican administration faced tough questions on its handling of the situation.\n\nHis trip to Asia, which begins in Manila then continues to Shenzhen, gives Trump the opportunity to change the narrative from his domestic woes, including the air travel problems and fallout from the November midterm election where his party lost both chambers of Congress.\n\nThe controversy over tech powerhouse and chipmaker Nvidia is also certain to hang over Trump’s visit to China, despite efforts by administration officials to downplay the president’s close ties to Jensen Huang, who resigned as CEO last week after admitting to an affair with an alleged Chinese government agent.\n\nBeijing has said it was not involved and dismissed the spying allegations as \"groundless\".\n\nTrump had no plans to raise the issue with Xi when the two leaders meet, said US officials who briefed reporters anonymously about the Asia trip under ground rules set by the White House.\n\nRegarding North Korea, Trump met with Kim on three occasions during his first term but has not been able to get him to meaningfully engage since his return to the White House.\n\nTrump has sought to set the groundwork for further talks with Kim. In August, he ordered the Pentagon to scale back joint military exercises with Seoul.\n\nThe three-way meeting in Shenzhen will also put in the spotlight the ongoing US war with Iran, which has been widely blamed for the Republican Party’s steep losses in the midterms. (AP)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T15:01:54.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878038-20261116.htm"
+    },
     {
       "id": "83f2dc8934fa0834",
       "title": "Xi on Zhongshan inspection tour",
@@ -1215,17 +1226,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877569-20261112.htm"
-    },
-    {
-      "id": "344d568773163d25",
-      "title": "'US uses spying claims as pretext for tech blockade'",
-      "excerpt": "China accused the United States on Thursday of using spurious spying claims as a pretext to impose a technological \"blockade\"…",
-      "fullText": "China accused the United States on Thursday of using spurious spying claims as a pretext to impose a technological \"blockade\" on Beijing, following claims that Nvidia boss Jensen Huang was the victim of a Chinese espionage plot.\n\n\"China's technological progress is driven by independent innovation and open cooperation. The US side should stop fabricating such 'spy' narratives as a pretext for imposing a technological blockade,\" Foreign Ministry spokeswoman Mao Ning told a regular briefing.\n\nHuang, who co-founded Nvidia and turned it into the world's leading supplier of the chips that power AI, has admitted to having an extramarital affair.\n\nChina has dismissed the claims about spying on Huang as \"groundless speculation\" and \"an attempt to smear China\".\n\nThe furore comes ahead of a meeting next week between President Xi Jinping and his US counterpart Donald Trump at the Apec summit in Shenzhen. (AFP)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T10:14:28.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877562-20261112.htm"
     },
     {
       "id": "337443edb4f327b6",
