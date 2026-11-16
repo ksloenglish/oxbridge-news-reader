@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T11:30:23.794Z",
-  "checkedAt": "2026-11-16T11:46:40.295Z",
+  "generatedAt": "2026-11-16T12:00:29.120Z",
+  "checkedAt": "2026-11-16T12:00:29.120Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rthk-world",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "e9eb86e70a720f92",
+      "title": "RTHK, CGTN join hands in Apec coverage",
+      "excerpt": "All eyes are on Shenzhen as the city prepares to host the annual Apec summit. World leaders will converge in…",
+      "fullText": "All eyes are on Shenzhen as the city prepares to host the annual Apec summit.\n\nWorld leaders will converge in China's tech hub to discuss a wide range of issues, ranging from economic development to bolstering regional cooperation.\n\nRTHK reporter Hailey Yip and CGTN's Yang Chengxi take a look at what's on the Apec agenda for Tuesday, November 17.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T11:42:39.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878022-20261116.htm"
+    },
     {
       "id": "4287345b002e8af3",
       "title": "Depardieu withdraws appeal over sexual assaults",
@@ -733,17 +744,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877813-20261114.htm"
     },
     {
-      "id": "ecf2ed2134ca758d",
-      "title": "MTR pledges no compromise on Northern Link safety",
-      "excerpt": "MTR Corporation chief executive Jeny Yeung said the quality and safety standards of the Northern Link line that it is…",
-      "fullText": "MTR Corporation chief executive Jeny Yeung said the quality and safety standards of the Northern Link line that it is building will not be compromised despite a significantly reduced cost forecast.\n\nHer remarks came after the government gave the green light to the second phase of the project this week, revealing that the entire railway link is expected to cost about HK$86.2 billion - around 28 percent lower than initial estimates as a result of a shortened construction period and cost-saving measures.\n\nSpeaking on a television programme aired on Saturday, Yeung also said the rail operator was not concerned about the project going over budget.\n\n\"We shall work very hard to control costs when working on the project,\" she said.\n\n\"In addition, we will also utilise more technology and, in the process, use as much innovative thinking as possible.\n\n\"Like I just said, we shall jointly build part one and part two of the railway link, and the approach will also benefit from innovative thinking.\"\n\nYeung added that the Northern Link would likely adopt equipment aligned with mainland railway standards to enable greater procurement flexibility, following the promulgation of the Hong Kong Railway Standards in February, which for the first time systematically integrate mainland standards alongside international frameworks.\n\nUnder the project agreement signed on Tuesday, the government also granted eight sites along the Northern Link to the rail operator for residential and commercial development.\n\nYeung said not all of the sites are expected to be put out for market tender by 2034, when both the main line and the spur line are scheduled to be commissioned simultaneously. Sites close to nearly completed stations, such as Kwu Tung, will be prioritised for development, she added.\n\nOverall, the corporation is currently working on seven separate projects, she said, predicting that the three-year period starting from 2029 will mark its peak construction phase.\n\nRegarding a recent incident in which around 30 pillars at the platform level of the under-construction Tung Chung West Station were found to be substandard, Yeung said the company was still aiming to meet the original commissioning timeline of December 2029.\n\nAsked why there was a one-month gap between the MTR's discovery of the issue and its public announcement in November, she stressed that staff had ordered the contractor to suspend work immediately after spotting suspected irregularities during routine inspections.\n\nStaff subsequently spent time inspecting other columns and uncovered further issues, she explained.\n\nYeung went on to say that the MTR was taking the irregularities seriously and pledged to update the public as more details came to light.\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T07:38:49.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877801-20261114.htm"
-    },
-    {
       "id": "ebbe8aed7aba7a1b",
       "title": "White House says trilateral meeting on for Shenzhen",
       "excerpt": "The White House says US President Donald Trump, President Xi Jinping, and Russia's Vladimir Putin will hold a three-way meeting…",
@@ -1201,8 +1201,8 @@
       "fullText": "Shenzhen’s financial services sector has been increasingly shaped by the deep integration of fintech and by its expanding overseas reach, according to a senior executive at Ping An Property and Casualty Insurance Company.\n\nThose trends are likely to draw wider attention next week, when global leaders arrive in the southern Chinese city for the Apec summit.\n\nXu Hua, assistant president of Ping An Property and Casualty Insurance Company, said the company’s own history mirrors Shenzhen's fintech development.\n\nFounded in the 1980s in Shekou – an industrial area in western Shenzhen – it has grown from a regional insurer into a service network covering more than 110 countries.\n\nFinancial services already form one of Shenzhen’s four pillar industries. Ping An Property and Casualty Insurance Company is among the companies taking part in the meeting, and its parent, Ping An Group, is one of the official sponsors.\n\nXu said Shenzhen’s financial industry is most characterised by the deep integration of finance and technology.\n\n\"Shenzhen is an innovation capital. It brings together a group of representative technology companies. Technological innovation comes with trial and error and risk. It faces practical difficulties such as high research and development investment, rapid technology iteration and strong uncertainty,\" he said.\n\n\"Wherever innovation goes, insurance must follow. Overall, technology is Shenzhen’s underlying character. What insurance needs to do is serve well as a shock absorber for the real economy, so that technology companies dare to innovate, dare to invest and dare to go global.\"\n\nXu said the company has tailor-made more than 400 million yuan in dedicated risk protection for this summit.\n\nHe believes the meeting will not only bring short-term benefits, but also have long-term value, and hopes that the exchange opportunities at the Apec meeting can be transformed into sustained project cooperation.\n\nFor cross-border operations, he called for closer cooperation with insurers, reinsurers and professional service providers so that companies can better understand local risks and coverage requirements.\n\nIn sectors such as new energy, advanced manufacturing and the digital economy, he proposed that industry partners jointly assess emerging risks and develop products that keep pace with innovation.\n\nXu said that in addition to helping mainland enterprises go global and providing protection services for their overseas expansion, the company has also formed close ties with Apec economies.\n\nThe sector’s scale underscores its role in the city: financial services account for nearly 15 percent of Shenzhen’s GDP, and the Shenzhen Stock Exchange had more than 2,900 listed companies as of the end of September.\n\nEdited by Aaron Tam",
       "imageUrl": null,
       "publishedAt": "2026-11-12T04:25:56.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877502-20261112.htm"
     },
     {
