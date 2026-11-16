@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T05:15:24.575Z",
-  "checkedAt": "2026-11-16T06:30:32.742Z",
+  "generatedAt": "2026-11-16T06:45:19.777Z",
+  "checkedAt": "2026-11-16T06:45:19.777Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "53205b0440c7c478",
+      "title": "Chamber chief urges Apec visitors to see real China",
+      "excerpt": "The chairman of the New Zealand Chamber of Commerce in Hong Kong, David Whitwam, has urged participants at the ongoing…",
+      "fullText": "The chairman of the New Zealand Chamber of Commerce in Hong Kong, David Whitwam, has urged participants at the ongoing Apec meetings in Shenzhen to step outside the conference halls and experience the dramatic changes China has undergone over the past three decades.\n\nThe call came as he warned that Western narratives about the country were stuck some 20 years behind reality.\n\nWhitwam, who has been based in Hong Kong since 1993, made the remarks ahead of the 2026 Apec Economic Leaders' Meeting, which will be held in Shenzhen.\n\nHe said the unprecedented gathering of people is also an opportunity for more people to understand the real China.\n\nDrawing on his own experience, Whitwam recalled arriving in Hong Kong in 1993 and travelling to the mainland, when foreign visitors had to use foreign exchange certificates to buy goods in shops.\n\n\"I've got 300 RMB in my wallet. It's been in there for two years, I haven't used it, because now everything is on WeChat or Alipay,\" he said.\n\n\"In fact, even going to the dentist in Shenzhen, we use Alipay to pay our bills.\n\n\"It's an incredible transition from where we were 30 years ago to where we are now.\"\n\nWhitwam served as chief representative of the New Zealand National Bank's Hong Kong office and, over more than three decades, travelled frequently between Hong Kong and the mainland.\n\nHe said the shift in payment methods is one of the most vivid details of China's development he has witnessed, while the accelerating integration of Shenzhen and Hong Kong is evident in the growing convenience of commuting between the two places.\n\nAfter attending his first Canton Fair as a buyer, Whitwam later founded a consultancy and took up a role with the New Zealand Chamber of Commerce in Hong Kong.\n\nOver the years, he has led multiple New Zealand business delegations to China for trade exhibitions, promoting bilateral trade and witnessing first-hand the role that efficient movement of people and goods plays in driving the economy.\n\nOn New Zealand-China relations, Whitwam noted that his country is probably the smallest partner among the Five Eyes grouping and therefore tends to maintain its own viewpoint on foreign relations.\n\nHe pointed out that New Zealand was the first, or one of the first, countries to establish a free-trade agreement with China, and the first country in the world to have a free-trade agreement with Hong Kong.\n\n\"There are times when New Zealand and China have differences of opinion, but we tend to think that the two countries have a very mature relationship, and therefore when friends have arguments they usually sit down and settle those arguments in a constructive way,\" Whitwam said.\n\nWhitwam stressed the importance of openness to the movement of people.\n\nFrom a New Zealand perspective, he said, people need to travel to China so they understand the market.\n\n\"If you're an exporter, you need to understand the consumer culture, you need to understand the way that supermarkets display their products. It's no good just having your product on a shelf and hoping that people are going to pick it up and take it to the checkout,\" he said.\n\nWhitwam also encourages visitors to explore beyond the boardroom, noting that he visits some of the more extreme, outlying areas of Shenzhen and goes hiking there about once a month.\n\nHe singled out Red Ribbon Walk in the Guangming area, describing it as a spectacular facility where people can walk four kilometres among the treetops.\n\n\"I'd recommend that people get out of their office and go and do a bit of that stuff,\" Whitwam said.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T06:34:57.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1877973-20261116.htm"
+    },
     {
       "id": "71781df5797938c9",
       "title": "Embodied AI perks up Shenzhen's coming-of-age message",
@@ -1336,17 +1347,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/10/1147726/evolving-metal-extraction-processes/"
-    },
-    {
-      "id": "83dcb9221859f975",
-      "title": "Sino-US forum held in HK ahead of Apec summit",
-      "excerpt": "Global leaders across various fields will gather in Hong Kong ahead of the Apec leaders' summit in Shenzhen to discuss…",
-      "fullText": "Global leaders across various fields will gather in Hong Kong ahead of the Apec leaders' summit in Shenzhen to discuss how Sino-US relations can be reshaped in search of long-term stability and cooperation.\n\nThe annual US-China Hong Kong Forum will be held between November 15 and 17.\n\nJames Chau, president of the organisers China-United States Exchange Foundation, said dozens of speakers would be joining the event, including former vice foreign minister Cui Tiankai, members of the Nixon and Bush families from the US, and former Thailand prime minister Abhisit Vejjajiva.\n\n“Through this forum we also bring regional perspectives into the discussion,\" Chau said.\n\n\"So we've got Asean, for example, represented by Thailand, but also by Singapore. The [Sino-US] relationship affects more than two countries, so there's always that temptation to look at our work simply through the bilateral lens of China and the United States.\n\n“I wish it was like that because it seems very tidy, neat and easy to follow. But, in fact, everything that these two countries do and don't do, what they think and what they consider, is going to impact over eight billion people all around the world.”\n\nMore than 300 participants will take part in the open forum on the second day, among them a group of university students from around the world.\n\n“Having young people in the room who are 18 to 25 years old who come from phenomenal schools of public policy and who would have spent part of the private sessions with us and then into the public sessions, we want them to ask the very first question during the audience Q&A to keep those leaders on the stage very sharp,” Chau said.\n\nThe Apec summit will be held on November 18-19 in Shenzhen.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-10T10:26:03.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877268-20261110.htm"
     },
     {
       "id": "b301748bac1f94d4",
