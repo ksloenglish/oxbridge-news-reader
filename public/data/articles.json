@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T13:30:25.925Z",
-  "checkedAt": "2026-11-16T13:30:25.925Z",
+  "generatedAt": "2026-11-16T13:45:17.510Z",
+  "checkedAt": "2026-11-16T13:45:17.510Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "7cf1f12d1aace5c3",
+      "title": "Govt moves to implement Wang Fuk recommendations",
+      "excerpt": "Chief Secretary Eric Chan has urged government bureaux and departments to implement recommendations from the independent committee report on the…",
+      "fullText": "Chief Secretary Eric Chan has urged government bureaux and departments to implement recommendations from the independent committee report on the deadly Wang Fuk Court fire “swiftly and precisely”.\n\nThis came as a steering committee led by Chan, which aimed at reviewing and driving forward the recommendations, held its first meeting on Monday to advance the coordination work for the reform of building maintenance and renovation system.\n\nAt the meeting, Chan urged the departments to roll out measures that are ready for implementation as soon as possible.\n\nHe said preparatory work for items involving legislative amendments must also be completed at full speed, so the amendments could be submitted to the legislature as soon as practicable.\n\nThe government said relevant bureaux and departments reviewed work plans, division of duties, as well as implementation proposals and timetables for pushing forward the recommendations during the meeting.\n\nIt added that the committee would hold meetings regularly to oversee the implementation of reforms and legislative amendment work.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T13:33:37.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878027-20261116.htm"
+    },
+    {
+      "id": "04da1b9094065066",
+      "title": "Phuket building fire kills 11",
+      "excerpt": "A fire burned through a building in southern Thailand early on Monday, killing 11 people, authorities said. The fire started…",
+      "fullText": "A fire burned through a building in southern Thailand early on Monday, killing 11 people, authorities said.\n\nThe fire started around 2am in the building in Phuket that has a motorcycle rental shop on the ground floor and residences on the upper floors, officials of the local government said.\n\nIt took firefighters about an hour to bring the fire under control.\n\nThere were 17 other people who were slightly injured.\n\nPhuket police commander Surachai Sooksai said officers are still investigating the cause of the fire, but initial investigations found an electrical transformer near the building had exploded shortly before the fire started.\n\nPhuket governor Chodnarin Koedsom said the rental shop had about 100 motorcycles, along with stored gas, engine oil, plastic materials and tires.\n\nHe said these combustible materials may have contributed to the rapid spread of the fire and the thick, toxic smoke.\n\nHe said the victims appeared to try to escape the fire to the higher floors.\n\nOne body was found on the third floor and 10 others were found on the fifth floor.\n\nPhuket is on an island in southern Thailand and a popular tourist destination. (AP)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T13:25:36.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878031-20261116.htm"
+    },
     {
       "id": "09daa70462d05c20",
       "title": "The Download: testing tech promises and searching for cognitive immortality",
@@ -401,6 +423,17 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877916-20261116.htm"
+    },
+    {
+      "id": "0508329a23b279b9",
+      "title": "Building repair reform advanced",
+      "excerpt": "Led by the Chief Secretary Chan Kwok-ki, the steering committee set up to monitor the implementation of measures based on…",
+      "fullText": "Led by the Chief Secretary Chan Kwok-ki, the steering committee set up to monitor the implementation of measures based on the recommendations of the independent committee in relation to the fire at Wang Fuk Court in Tai Po held its first meeting today.\n\nFollowing the release of the independent committee’s report at the end of October, the Chief Executive announced that the Government would implement comprehensive and systemic reforms in relation to building maintenance and renovation, with oversight from a steering committee.\n\nAt today's meeting, Mr Chan directed bureaus and departments to implement the committee's various recommendations swiftly and precisely, with a view to achieving systemic improvements, streamlined processes, and effective implementation.\n\nHe emphasised that measures that are ready for implementation must be rolled out as soon as possible, while preparatory work for items requiring legislative amendments must be completed at full speed so that amendment proposals can be submitted to the Legislative Council for scrutiny and passage.\n\nRelevant bureaus and departments scrutinised an in-depth review of work plans, division of duties, implementation proposals, and timetables for advancing the various recommendations.\n\nThe steering committee will keep the measures' implementation and delivery under review, enact reforms to every element of the building maintenance and renovation system, sever existing chains of interests, and take action to prevent similar incidents from recurring.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261116/20261116_181359_966/images/20261116195515036.jpg",
+      "publishedAt": "2026-11-15T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261116/20261116_181359_966.html"
     },
     {
       "id": "100c89e35d649ef7",
@@ -744,17 +777,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877816-20261114.htm"
     },
     {
-      "id": "efd58bf3c3d9d70a",
-      "title": "Woman injured in Ngau Tau Kok traffic incident",
-      "excerpt": "An 82-year-old woman has been hospitalised in an unconscious state after being hit by a light goods vehicle in Ngau…",
-      "fullText": "An 82-year-old woman has been hospitalised in an unconscious state after being hit by a light goods vehicle in Ngau Tau Kok around noon on Saturday.\n\nThe 40-year-old driver was arrested on suspicion of dangerous driving.\n\nPolice said the driver was travelling along Tung Ming Street when he is alleged to have struck the woman as she was crossing at the junction with Ngau Tau Kok Road.\n\nOfficers said the woman suffered head injuries and was taken to Queen Elizabeth Hospital.\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T09:12:32.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877820-20261114.htm"
-    },
-    {
       "id": "7f4a729a3173997c",
       "title": "US planes taking off as full resumption 'to take time'",
       "excerpt": "Flights in the United States have been resuming on Saturday after being grounded for several hours due to a major…",
@@ -786,17 +808,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877789-20261114.htm"
-    },
-    {
-      "id": "8d0d575fc64be5b7",
-      "title": "SpaceX faces Starship first as booster catch aborted",
-      "excerpt": "Elon Musk's SpaceX has aborted the recovery of the booster for the latest flight of the world's biggest and most…",
-      "fullText": "Elon Musk's SpaceX has aborted the recovery of the booster for the latest flight of the world's biggest and most powerful rocket, the Starship, but insisted it could yet \"catch\" the spaceship, which would be a first.\n\nThe 124-metre rocket roared into the sky from Starbase in southern Texas for its 15th test flight on Friday, but minutes later, the planned landmark nature of the mission went awry.\n\nAfter lift-off and the mid-air separation of the two stages, a technical problem forced the company to abandon plans to recover the booster, dubbed Super Heavy, allowing it to instead splash down in the Gulf of Mexico.\n\nThe spacecraft itself entered its orbit of the Earth, and SpaceX will attempt to recover it on Saturday after 22 hours of spaceflight.\n\nSuccessful recoveries of both Starship components would have marked a significant milestone in the space industry's decades-long pursuit of fully reusable rocket systems that can drastically reduce mission costs and make frequent launches possible.\n\nThe company had caught the booster on three previous occasions, with the first stage descending vertically back to the launch site shortly after blastoff and nestling into mechanical \"chopstick\" arms.\n\nIf SpaceX can capture the spacecraft that gives the rocket system its name, it will be a groundbreaking moment in the development of the vessel, some versions of which are designed to launch internet satellites and data centres into orbit.\n\nOther iterations will be made to ferry people to the Moon and Mars.\n\nA spacecraft that can be fully reused is the \"Holy Grail\" of the space industry, said Clayton Swope, an aerospace expert at the Center for Strategic and International Studies.\n\n\"No one's really been able to do that so far,\" he said. \"People have been trying to do that since the [Nasa] space shuttle. But the space shuttle ended up being kind of a compromise because a lot of the vehicle wasn't reusable.\"\n\nRecovering an upper stage involves an extraordinary amount of precision, said Kathleen Curlee, a senior analyst at Georgetown University's Center for Security and Emerging Technology.\n\n\"Getting Starship off the ground is an engineering achievement in and of itself; catching the upper stage involves millions of moving parts that all have to go right for a successful capture,\" she said.\n\nThe spaceship will be falling much faster and from a much higher altitude than the booster, with the vessel forced to withstand the extreme heat of reentering Earth's atmosphere.\n\nThe Starship project has been plagued by years-long delays as SpaceX grapples with novel engineering challenges – even as Nasa is counting on the spaceship to serve as a lunar lander for its Artemis program.\n\nOther technical challenges include transferring fuel to Starship in orbit – a requirement for any journey to the Moon or Mars.\n\nFollowing SpaceX's high-profile stock market debut in June that raised about US$85.7 billion, the company carried out the first orbital flight of Starship in September, though the mission was cut short due to an engine issue.\n\nStarship has deployed 26 satellites into Musk's Starlink satellite internet constellation that has become a major revenue stream for SpaceX.\n\nIt is in the process of attempting to circle the planet 14 times, before returning 22 hours later and – SpaceX hopes – descending safely into the chopstick arms.\n\nSpaceX has said it would proceed with these manoeuvres only if conditions are optimal, and in the past has made last-minute changes to test flights under Musk's \"fail fast\" strategy of learning through crashes, explosions and other mishaps. (AFP)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T02:43:30.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877786-20261114.htm"
     },
     {
       "id": "7b08a19eb2535ae0",
@@ -1281,17 +1292,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
-    },
-    {
-      "id": "40b60b837d8427c3",
-      "title": "Dr Sun Yat-sen exhibition to be held",
-      "excerpt": "The Dr Sun Yat-sen Museum will present the \" Timeless Impressions - The Shaping and Representation of Dr Sun Yat-sen's…",
-      "fullText": "The Dr Sun Yat-sen Museum will present the \" Timeless Impressions - The Shaping and Representation of Dr Sun Yat-sen's Images \" exhibition from November 13.\n\nThis year marks the 160th anniversary of the birth of Dr Sun Yat-sen; the exhibition features over 80 pieces of artefacts associated with Dr Sun's image.\n\nAddressing the opening ceremony today, the Assistant Director (Heritage and Museums) of Leisure and Cultural Services, Ng Chi-wo, said Dr Sun dedicated his entire life to the revolutionary cause: from resolving to save the nation and devoting himself to his studies, to organising the revolution and overthrowing the imperial system, and devoting his life to revitalising China. The ideas and strategies he put forward laid the blueprint for the modernisation of China, and his achievements made enduring contributions to social progress and the well-being of the people.\n\nHe added that the ideals advocated by Dr Sun, including equality, fraternity and \"the world is for all\", together with his vision of \"revitalising China\", are subtly instilling his spirit into our hearts through various forms that permeate our daily lives imperceptibly.\n\nDr Sun lived during an era marked by the rapid development of photographic technology and print media, and his image as a revolutionary was widely disseminated across the country through pictures and text. The exhibition features coins and stamps bearing his likeness that circulated nationwide, along with commemorative philatelic items, sculptures and cartoons from China and abroad.\n\nIt also showcases around 100 historical photographs, newspaper clippings, and archival materials, together with multimedia presentations, to illustrate how the multifaceted images of Dr Sun - patriotic yet well-versed in both Chinese and Western learning - have been shaped and represented through pictures, texts, physical objects and public spaces in different periods, offering a retrospective of his illustrious life.\n\nThere will be a series of free experiential activities including thematic lectures, exhibition guided tours for the public and school groups, and workshops, as well as panel exhibitions and parent-child workshops at six public libraries.\n\nJointly organised by the Dr Sun Yat-sen Museum and the Sun Yat-sen Research Projects of the Department of History of the Hong Kong Baptist University, the exhibition will be held until July 7 next year, with free admission.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261112/20261112_205259_673/images/20261112225332415.jpg",
-      "publishedAt": "2026-11-11T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261112/20261112_205259_673.html"
     },
     {
       "id": "813c3334f80b0c85",
