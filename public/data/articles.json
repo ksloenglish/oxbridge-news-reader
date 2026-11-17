@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T08:15:32.585Z",
-  "checkedAt": "2026-11-17T08:30:21.729Z",
+  "generatedAt": "2026-11-17T08:45:18.067Z",
+  "checkedAt": "2026-11-17T08:45:18.067Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "ee54d366a3a03d52",
+      "title": "Welding or smoking suspected in Shek Kwu Chau fire",
+      "excerpt": "The Fire Services Department on Tuesday said a fire at a waste-management facility on an artificial island off Shek Kwu…",
+      "fullText": "The Fire Services Department on Tuesday said a fire at a waste-management facility on an artificial island off Shek Kwu Chau last month was suspected to be related to welding works or smoking.\n\nIn a reply to media enquiries, the department said it had completed its investigation into the fire, which broke out on October 26, involving the collection of evidence at the scene and the taking of statements from relevant parties.\n\nIts findings indicated that the fire originated on the upper level within the third incineration module area of the incineration building, the department said.\n\nThe investigation ruled out electrical faults, arson and spontaneous combustion of chemical substances as the cause.\n\nThe department said it had completed its report, which was referred to the Environmental Protection Department for follow-up.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T08:20:05.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878138-20261117.htm"
+    },
+    {
+      "id": "fa5420baf38738a7",
+      "title": "Shenzhen firms go extra mile in Apec workarounds",
+      "excerpt": "Shenzhen companies have adopted flexible working arrangements during the ongoing Apec-linked meetings, with some staff taking annual leave, working from…",
+      "fullText": "Shenzhen companies have adopted flexible working arrangements during the ongoing Apec-linked meetings, with some staff taking annual leave, working from home or travelling off-peak.\n\nTheir flexibility came to light in an ongoing 100-hour all-media live broadcast titled \"Apec China Year\", which is being aired by Shenzhen Media Group in conjunction with Beijing Radio and Television and Shanghai Media Group to capture the host city's preparations for the summit and supporting events.\n\nYao Peitong of Harbin Institute of Technology Pengze, Shenzhen, a robotics company, said it was only following government advice by having only four of its 15-strong workforce back in the office.\n\nMeituan, for its part, has introduced 10 measures from Monday to Friday to ease pressure on delivery riders.\n\nYuan Min, a rider protection manager, said late deliveries across Shenzhen would not be penalised.\n\nMeituan's Shenzhen head, Niu Dexu, said the company's app had, together with the authorities, also launched a Chinese-English food map to facilitate visitors seeking to sample the city's varied fare.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T08:14:09.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878130-20261117.htm"
+    },
     {
       "id": "0337891a2bc9a6a9",
       "title": "John Lee arrives in Shenzhen for Apec meeting",
@@ -832,17 +854,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877896-20261115.htm"
     },
     {
-      "id": "1926781eb8f78f90",
-      "title": "Xi, 11 regional leaders to attend Apec CEO Summit",
-      "excerpt": "Twelve leaders of Asia-Pacific Economic Cooperation economies will attend the Apec CEO Summit held in Shenzhen on Tuesday and Wednesday…",
-      "fullText": "Twelve leaders of Asia-Pacific Economic Cooperation economies will attend the Apec CEO Summit held in Shenzhen on Tuesday and Wednesday.\n\nAmong them is President Xi Jinping, who will attend the summit and deliver speeches or remarks, or participate in panel discussions, said Li Qingshuang, vice chairperson of the China Council for the Promotion of International Trade, at a press conference on Sunday.\n\nLi said the leaders of Australia, Canada, Chile, Indonesia, the Republic of Korea, Malaysia, Mexico, Russia, Thailand, Vietnam, along with Hong Kong, China, will also be on hand for the summit.\n\nRepresentatives from 115 Fortune Global 500 companies will too attend the Apec CEO Summit 2026.\n\nLi added that the heads of several international organisations, as well as leaders of business associations from the United States, Russia, Japan and other economies, will be present.\n\nMeanwhile, an article by Xi on jointly building an Asia-Pacific community with a shared future will be published on Monday.\n\nThe article stresses that the Asia-Pacific at present is an economic region with the world's greatest growth dynamism and development potential, and is widely recognised as an important engine of global economic growth.\n\nIt calls for sustaining the region's strong development momentum, embracing a future of shared prosperity, and jointly building an Asia-Pacific community with a shared future featuring openness and inclusiveness, innovation-driven growth, greater connectivity and mutually beneficial cooperation.\n\nIt also stresses that no matter how far China develops, it will remain rooted in the Asia-Pacific, contribute to its development and bring benefits to the region, and that China stands ready to work with all parties to jointly build an Asia-Pacific community and promote regional growth and prosperity.\n\nThe Apec leaders' summit is set for Wednesday and Thursday. (Reporting by Xinhua)\n_____________________________\nLast updated: 2026-11-15 HKT 22:55\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T10:32:41.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877892-20261115.htm"
-    },
-    {
       "id": "c88898d0de8d5b51",
       "title": "Police chief pledges cautious use of CCTV network",
       "excerpt": "Police Commissioner Joe Chow on Sunday said the force’s surveillance camera system would not be abused. This came as facial…",
@@ -907,17 +918,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877873-20261115.htm"
-    },
-    {
-      "id": "8eec6510f6b85769",
-      "title": "'Runway painting robots save time, money'",
-      "excerpt": "Deploying robots to repaint airfield markings that guide pilots during take-off, landing and taxiing has more than halved the time…",
-      "fullText": "Deploying robots to repaint airfield markings that guide pilots during take-off, landing and taxiing has more than halved the time needed for the job and cut cost, airport authorities said.\n\nDuring a media briefing, Airport Authority chief operating officer Steven Yiu said Hong Kong International Airport is the first in the world to use robots for the task.\n\nThe machines came into use in September after a year of testing.\n\nYiu explained that markings across the airport's three runways, spanning more than 11 kilometres, must be repainted regularly to ensure pilot visibility.\n\nHe added that markings that come into frequent contact with planes even require maintenance on a weekly basis.\n\nYiu said more than half of the painting work can be assigned to the machines.\n\n\"It is a job of huge physical labour and precision. Also, the job is at nighttime and requires precision when everyone is tired. In terms of accuracy and safety, we hope that machines can assist humans,\" he said.\n\n“As for how much time is reduced, for example, usually it might take us three hours to finish painting centrelines. Now it only takes one hour.\n\n\"Also, the amount of paint sprayed is very precise. Just in paint spray, we save HK$400,000 each year. We also cut working hours by roughly two-thirds.\"\n\nYiu noted that the robots are being used to paint simple, standard lines, while human staff continue to handle curves and more complex markings.\n\nThe robots, he said, were originally used to paint lines in sports stadiums and were repurposed through a joint development project with a Shenzhen technology firm.\n\nLooking ahead, Yiu said the airport plans to deploy a total of six robots.\n\nHe also expressed hope that robotic runway painting will eventually become a civil aviation standard.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T01:51:33.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877865-20261115.htm"
     },
     {
       "id": "17179d6c89b1c673",
