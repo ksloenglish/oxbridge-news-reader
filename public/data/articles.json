@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T03:46:21.317Z",
-  "checkedAt": "2026-11-17T04:00:28.717Z",
+  "generatedAt": "2026-11-17T04:08:41.822Z",
+  "checkedAt": "2026-11-17T04:08:41.822Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 14
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "afb03f09ff5735c7",
+      "title": "HK to become centre for maritime business: CE",
+      "excerpt": "Hong Kong will move beyond being a port through which goods pass and become a centre where maritime business of…",
+      "fullText": "Hong Kong will move beyond being a port through which goods pass and become a centre where maritime business of every kind is conducted, Chief Executive John Lee said on Tuesday.\n\n\"More than a port, through which goods move, Hong Kong will become a centre where maritime business of every kind is conducted,\" Lee said at the opening of the 16th Asian Logistics, Maritime and Aviation Conference.\n\n\"In aviation we are capitalising on the three runway system to expand our flight network and enhance capacity. We're committed to giving businesses greater reach and more choices in moving goods through Hong Kong,\" he said.\n\nHe said the city is also pursuing cargo growth and high-value maritime services, from ship finance and insurance to management and legal services.\n\n\"Growth opens markets. Innovation gives businesses the tools to compete. Sustainability prepares them for the future,\" he said.\n\nLee said the city's expanding partner port network supports its ambitions.\n\nPartnerships were established last year with Guangxi Port, Dalian Port and Chile's Centennial Port, and new ties are being forged this year with ports in Shanghai, Piraeus in Greece, Yangpu in Hainan and Qingdao in Shandong, he said.\n\nHe revealed that Hong Kong would sign a memorandum of understanding with the Ministry of Transport's Global Sustainable Transport Innovation and Knowledge Centre to promote the country's sustainable transportation certification system internationally.\n\n\"We are also working with our Greater Bay Area partners to advance cargo movements and develop high value logistics services, and in doing so we will make Hong Kong a more competitive gateway connecting Chinese mainland production with international markets,\" he said.\n\nIn aviation, Lee said an MOU would be signed between the Airport Authority, Towngas and a Hong Kong-based company for a dedicated sustainable aviation fuel blending facility.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T03:51:42.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878096-20261117.htm"
+    },
     {
       "id": "fc9d94b121a0d837",
       "title": "HK, region track Wall St retreat amid tech jitters",
@@ -931,17 +942,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877828-20261114.htm"
     },
     {
-      "id": "2304e50f2fafe8ef",
-      "title": "No government systems hit by Microsoft outage",
-      "excerpt": "Hong Kong has so far received no reports of government systems being affected by Friday’s disruption to Microsoft services. In…",
-      "fullText": "Hong Kong has so far received no reports of government systems being affected by Friday’s disruption to Microsoft services.\n\nIn response to enquiries, the Digital Policy Office said it was highly concerned about the software system failure, which disrupted services including Outlook and Teams for more than 24 hours.\n\nThe office said it had not yet received reports of government department systems being affected and would continue to monitor the situation closely while providing support and advice to departments.\n\nOn whether Hong Kong’s critical infrastructure had been affected, the Security Bureau said the government had drawn on the experience of the mainland and other jurisdictions.\n\nTaking into account Hong Kong’s relevant legal requirements and carefully considering appropriate arrangements for information disclosure, the government – for security reasons – will not publicly disclose the list of critical infrastructure operators or related details.\n\nEdited by Azam Khan",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T09:32:16.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877816-20261114.htm"
-    },
-    {
       "id": "ebbe8aed7aba7a1b",
       "title": "White House says trilateral meeting on for Shenzhen",
       "excerpt": "The White House says US President Donald Trump, President Xi Jinping, and Russia's Vladimir Putin will hold a three-way meeting…",
@@ -1314,17 +1314,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877553-20261112.htm"
-    },
-    {
-      "id": "00a02044bda0132d",
-      "title": "Apec to spotlight Shenzhen's global fintech push",
-      "excerpt": "Shenzhen’s financial services sector has been increasingly shaped by the deep integration of fintech and by its expanding overseas reach…",
-      "fullText": "Shenzhen’s financial services sector has been increasingly shaped by the deep integration of fintech and by its expanding overseas reach, according to a senior executive at Ping An Property and Casualty Insurance Company.\n\nThose trends are likely to draw wider attention next week, when global leaders arrive in the southern Chinese city for the Apec summit.\n\nXu Hua, assistant president of Ping An Property and Casualty Insurance Company, said the company’s own history mirrors Shenzhen's fintech development.\n\nFounded in the 1980s in Shekou – an industrial area in western Shenzhen – it has grown from a regional insurer into a service network covering more than 110 countries.\n\nFinancial services already form one of Shenzhen’s four pillar industries. Ping An Property and Casualty Insurance Company is among the companies taking part in the meeting, and its parent, Ping An Group, is one of the official sponsors.\n\nXu said Shenzhen’s financial industry is most characterised by the deep integration of finance and technology.\n\n\"Shenzhen is an innovation capital. It brings together a group of representative technology companies. Technological innovation comes with trial and error and risk. It faces practical difficulties such as high research and development investment, rapid technology iteration and strong uncertainty,\" he said.\n\n\"Wherever innovation goes, insurance must follow. Overall, technology is Shenzhen’s underlying character. What insurance needs to do is serve well as a shock absorber for the real economy, so that technology companies dare to innovate, dare to invest and dare to go global.\"\n\nXu said the company has tailor-made more than 400 million yuan in dedicated risk protection for this summit.\n\nHe believes the meeting will not only bring short-term benefits, but also have long-term value, and hopes that the exchange opportunities at the Apec meeting can be transformed into sustained project cooperation.\n\nFor cross-border operations, he called for closer cooperation with insurers, reinsurers and professional service providers so that companies can better understand local risks and coverage requirements.\n\nIn sectors such as new energy, advanced manufacturing and the digital economy, he proposed that industry partners jointly assess emerging risks and develop products that keep pace with innovation.\n\nXu said that in addition to helping mainland enterprises go global and providing protection services for their overseas expansion, the company has also formed close ties with Apec economies.\n\nThe sector’s scale underscores its role in the city: financial services account for nearly 15 percent of Shenzhen’s GDP, and the Shenzhen Stock Exchange had more than 2,900 listed companies as of the end of September.\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T04:25:56.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877502-20261112.htm"
     },
     {
       "id": "f40e189e0b86ca8c",
