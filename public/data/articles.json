@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T18:15:18.826Z",
-  "checkedAt": "2026-11-17T18:45:19.555Z",
+  "generatedAt": "2026-11-17T19:00:30.872Z",
+  "checkedAt": "2026-11-17T19:00:30.872Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "4e96a2f8888ac3fb",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "excerpt": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking…",
+      "fullText": "Listen to the session or watch below\n\nIn an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to keep your mind going, including gradual brain replacement and uploading our memories to the cloud.\n\nSpeakers: Antonio Regalado , Senior Editor, Biomedicine, and Mary Beth Griggs , Science Editor\n\nRecorded on Tuesday, November 17, 2026\n\nRelated Stories:\n\n- Six wild ideas for perpetuating your mind\n\n- Inside the stealthy startup that pitched brainless human clones\n\n- Technology that lets us “speak” to our dead relatives has arrived. Are we ready?\n\n- This researcher wants to replace your brain, little by little",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T18:46:47.000Z",
+      "source": "MIT Technology Review",
+      "sourceFeed": "mit-technology-review",
+      "link": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
+    },
     {
       "id": "b0b0a6e616a3be6e",
       "title": "Hydropower hit record lows in the US Southwest this summer",
@@ -1182,17 +1193,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"
-    },
-    {
-      "id": "0ae85af8a10f9f98",
-      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "excerpt": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built…",
-      "fullText": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned with short-term results. And yet there they all were, a mere five weeks before the midterm elections, gathered at the White House to smile for photos with President Trump and sign on to his “Super Intelligence” agenda.\n\nEven by the diminished standards of today’s corporate governance, this was a shockingly foolish decision. Despite dozens of polls showing a rising tide of anti-Trump sentiment and bipartisan rejection of AI and data centers , the futurists of the tech elite cast aside long-term corporate interests for short-term political favor. And now, their industry is very squarely in the new victors’ crosshairs .\n\nFor an industry obsessed with pattern recognition, their decision to lash themselves to President Trump has proved to be a catastrophic misreading of the political landscape. Now, not only have they jeopardized their companies’ fates, but they’ve also raised questions about their vision and judgment.\n\nWhat were they thinking?\n\nThe people who work for them are just as confused as the rest of us. Tech workers I’ve spoken to at OpenAI, Meta, and other firms have noted an absence of commentary from their leaders post-election. Zuckerberg has yet to address the results internally, while an employee at another AI firm said that “leadership has been pretty silent on Slack.” Most employees share concern about potential anti-data-center legislation and are curious how leadership will adjust to a Democratic Washington, DC. But more than anything, they don’t understand how their bosses didn’t see what was so blindingly obvious to everyone else.\n\nIn Silicon Valley, the Gretzkyism “skate to where the puck is going, not where it has been” is a management maxim; it preaches anticipation and foresight over reactiveness to the present moment. Tech entrepreneurs love a good “pivot,” and companies that can’t change with the times get disrupted and die.\n\nWhich is why I find it so strange that Zuckerberg, OpenAI cofounder Greg Brockman, and so many of Silicon Valley’s other prominent AI leaders and venture capitalists have put themselves in a potentially inescapable political bind. In going all in on President Trump’s cultural and business agenda instead of playing both sides of the aisle as corporate America usually does, they’ve built identities they may not be able to pivot out of. Will anyone really believe that Palantir CEO Alex Karp is suddenly progressive after a year of promising “ violence and death to our enemies ” and telling investors that the company is “completely anti-woke”?\n\nI believe this is less a surprise than a very public exposure of a fundamental reality: that tech’s most visible leaders are not all-knowing visionary masterminds after all. Insights about social media or artificial intelligence do not make Zuckerberg or Altman experts on politics, the economy, or much else outside of technology. The instant gratification of presidential access, subsidies, and a say in their own regulation blinded them to the basics of political math that they clearly did not understand.\n\nThere’s a reason the chief executives of Chase, Boeing, and other Fortune 500 staples don’t go on podcasts to talk about “ masculine energy ,” or call the president from the stage of a MAGA-friendly AI summit to label fears about AI a “hoax” and a “scam.” This is the learned wisdom of decades operating in an environment where the customer changes every four years but contracts run for 10. Most companies play to both sides of the aisle because they know that their business models and multibillion-dollar projects must outlast the current administration. Instead, Big Tech tied itself to Trump and made its most important goals and investments—many related to grid access and data center permits—immediate targets for Democrats.\n\nIn tech, you can always sunset a feature or update some code. But in politics, there is no undo button for failures that change public perception. The tech elites’ decision to visibly align their businesses with a temporary movement has left them no credible way to pivot now that the climate has changed. As one Meta employee who has worked closely with Zuckerberg put it, “Mark is a long-term thinker, but he never charts a plan of how to get there. It’s spray and pray and see what happens.” As for whether employees expect the company to do a strategic postmortem? “Facebook has never really done that.”\n\n“Move fast and break things” might work in a startup, but it’s a terrible strategy for building reputational goodwill. Previous technological leaps, like the rollout of fiber-optic technology and wireless infrastructure, avoided partisan politics. But by kowtowing to the Trump administration, Silicon Valley made artificial intelligence a culture-war issue. Now, when citizens vote on data center proposals from California to Florida , they are no longer considering only technical or economic concerns, but political ones.\n\nTech leaders didn’t see this coming because they were too focused on the urgency of the AI race to understand how reputational damage could undermine the intangible goodwill—and ultimately the very tangible infrastructure—necessary to win it. The industry’s misreading of the moment has already punctured one myth Silicon Valley holds dear: that its leaders can always see what’s next.\n\nAaron Zamost is a tech communications consultant and a former executive at Square.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T10:00:00.000Z",
-      "source": "MIT Technology Review",
-      "sourceFeed": "mit-technology-review",
-      "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/"
     },
     {
       "id": "b766ed8bb3be16e0",
