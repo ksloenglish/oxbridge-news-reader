@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T23:45:18.245Z",
-  "checkedAt": "2026-11-16T23:45:18.245Z",
+  "generatedAt": "2026-11-17T00:00:29.541Z",
+  "checkedAt": "2026-11-17T00:00:29.541Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "519765f4e0928d09",
+      "title": "Uefa backs France's Diallo to stand against Infantino",
+      "excerpt": "European football's governing body Uefa has given its \"unanimous\" backing to French Football Federation chief Philippe Diallo to stand against…",
+      "fullText": "European football's governing body Uefa has given its \"unanimous\" backing to French Football Federation chief Philippe Diallo to stand against incumbent Gianni Infantino in March's Fifa presidential election, it said in a statement on Monday.\n\nThe body said that Diallo had been \"invited...to stand as a candidate in the Fifa presidential election in March 2027\" and that European national associations had \"unanimously pledged their full support.\"\n\nThe deadline for rival candidates to declare themselves is this Wednesday, November 18.\n\nUefa, which boasts 55 member associations, said Diallo \"has accepted the invitation to stand\" and that his candidature is set to be confirmed at a meeting of the French federation (FFF) on Tuesday.\n\nUnder its Slovenian president Aleksander Ceferin, Uefa has led the opposition to Infantino since his announcement in late July of a project to sell stakes in the World Cup to private investors.\n\nInfantino quickly abandoned the proposal in the face of widespread uproar, but Uefa has since gone to a court in Florida in an attempt to gather evidence for a potential complaint of \"criminal mismanagement\" against the Fifa president in Switzerland.\n\nUefa had been struggling to find a credible candidate to stand against Infantino in the election, which will take place at the Fifa Congress on March 18 next year in the Moroccan capital, Rabat.\n\nConcacaf chief Victor Montagliani had been mooted as a candidate, but the Canadian later announced his desire to stand for a new term as the head of his confederation, which covers North and Central America and the Caribbean.\n\nThe Asian Football Confederation, which consists of 47 member associations, announced last month that it was backing Infantino for re-election.\n\nDiallo said in September that the FFF was withdrawing its backing for Infantino in the election.\n\n\"We believe that the trust placed in the Fifa president has been betrayed, and that the way in which the governance of world football is envisaged no longer reflects us,\" he said at the time.\n\nDiallo, the 63-year-old son of a Senegalese boxing champion, has been president of the FFF since January 2023.\n\nHe was initially appointed to the post on an interim basis when previous chief Noel Le Graet was forced to stand down following a series of controversies.\n\nDiallo, from Saint-Nazaire on France's Atlantic coast, was then elected to the role by a large majority in June of that year, before being re-elected in December 2024 for a new four-year term.\n\nInfantino, a former Uefa secretary general, has been in charge of Fifa since 2016. (AFP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T23:45:21.000Z",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878044-20261117.htm"
+    },
+    {
+      "id": "6cc456700340e7b4",
+      "title": "United Airlines tech glitch delays hundreds of flights",
+      "excerpt": "United Airlines on Monday said that it had resolved a technology issue that delayed departing flights, just days after a…",
+      "fullText": "United Airlines on Monday said that it had resolved a technology issue that delayed departing flights, just days after a malfunction in the Federal Aviation Administration’s network prompted a nationwide ground stop in the United States.\n\nChicago-based United said in a statement that while some flights were delayed because of the issue on Monday afternoon, flights that were in the air and flights on its United Express regional network were not affected. The airlines also said there was “no indication that this was a cybersecurity-related issue.”\n\nUnited apologised to customers for the inconvenience on social media. It resolved the issue about 1.5 hours after pilots first began reporting problems to air traffic controllers.\n\nUnited did not immediately provide details about which of the airlines systems were affected, but pilots told air traffic controllers that the problem was related to United’s system that helps them determine a plane's final weight to ensure it can safely take off.\n\nA recording posted on the ATC app showed a United pilot in Houston asking the tower for permission to stay put at the gate until the system was working again. The app combines live air traffic control radio feeds with real-time visual aircraft tracking.\n\nThe flight tracking website FlightAware showed United with 418 delayed flights late Monday afternoon.\n\nThe United computer problem is just the latest high-profile technology meltdown in recent days.\n\nEarlier on Monday, thousands of people reported being unable to access their online accounts at several major US banks after JPMorgan Chase had a technical problem.\n\nOn Friday, the FAA ordered every flight grounded because a new router that was installed malfunctioned and overwhelmed the ageing air traffic control system.\n\nAnd one day earlier, Microsoft experienced a major disruption to its Outlook email service. Microsoft said on Saturday that services were fully restored. (AP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-16T23:43:05.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878069-20261117.htm"
+    },
     {
       "id": "0a51372a7d81b4b8",
       "title": "British singer Raye leads Grammy nominations with 11",
@@ -777,17 +799,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877861-20261115.htm"
     },
     {
-      "id": "858efba652c548df",
-      "title": "Tech problems that caused outage resolved: Microsoft",
-      "excerpt": "Tech giant Microsoft on Saturday said it had \"restored service\" to customers, effectively drawing a close to a massive outage…",
-      "fullText": "Tech giant Microsoft on Saturday said it had \"restored service\" to customers, effectively drawing a close to a massive outage that caused chaos and disrupted public services and business around the world.\n\n\"We have completed our efforts to address the underlying issue of the incident and restored service to the remaining impacted customers and regions,\" the US-based company said in an X post.\n\nMicrosoft had already reported a \"broad recovery\" for Outlook email and other services the day before, stating the major disruption was due to a technical issue and \"not related to cyber or AI/agents.\"\n\nThe outage swept the globe on Thursday, taking the company's products offline in at least 74 countries and territories across the Americas, Europe, Asia and Africa, according to the monitoring site Downdetector.\n\nMicrosoft had attributed the disruption to \"elevated load\" on its infrastructure.\n\nIt said the stoppage affected its Outlook email service, as well as Microsoft's Teams communication platform and the company's Copilot AI assistant.\n\nMicrosoft warned on Saturday of an \"active phishing campaign\" to exploit the disruption, with fake emails imitating its service notifications.\n\nThe emails, detected on Friday, instructed users that messages blocked during the outage would be deleted if the recipient does not click to restore them. (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T23:51:05.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877855-20261115.htm"
-    },
-    {
       "id": "c2949fce2a1a6926",
       "title": "Exclusive: Internal ledgers show how Pyongyang steals wages from its workers in China",
       "excerpt": "Paper trail obtained by RFA confirms to the outside world that Pyongyang takes a cut of about 90%.",
@@ -1305,17 +1316,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877491-20261112.htm"
     },
     {
-      "id": "1d09aa9a8b18f244",
-      "title": "Andreeva stuns Sabalenka to reach WTA Finals last four",
-      "excerpt": "French Open champion Mirra Andreeva stormed past Aryna Sabalenka 6-4, 6-0 to reach the last four of the WTA Finals…",
-      "fullText": "French Open champion Mirra Andreeva stormed past Aryna Sabalenka 6-4, 6-0 to reach the last four of the WTA Finals on Wednesday as Elina Svitolina kept her bid on track with a three-set win over Karolina Muchova.\n\nRussian 19-year-old Andreeva held her nerve after falling behind 4-1 in the opening set, winning the last 11 games to seal the round-robin victory in just 62 minutes.\n\n\"Oh my God, I'm even happier than I was after my first match,\" Andreeva said. \"I feel like I can play another two matches, I'm so full of energy. I'm so pumped up. I'm so happy.\"\n\nAndreeva, whose three titles this year include her maiden major at Roland Garros, is making her singles debut in the elite season-ending event.\n\nThe world number three seemed to be feeling the nerves in the early going against second-ranked Sabalenka.\n\nIrked that she had given up a break with a double fault, she was able to flip the switch, dealing handily with Sabalenka's big serves and pushing the Belarusian star back with her own big groundstrokes.\n\nAndreeva crucially kept momentum on her side with a break for a 3-0 lead in the second set.\n\nSabalenka, trailing 0-40, saved three break points, but Andreeva gave herself another with a swinging volley winner and grabbed another break when a Sabalenka forehand flew just long.\n\nThe increasingly demoralised Sabalenka had no answer. After the Belarusian smacked a backhand into the net to give her opponent match point Andreeva polished things off with a service winner.\n\nIt was another disappointing performance for the 28-year-old Sabalenka, whose three wins this season include prestigious back-to-back victories at Indian Wells and Miami but no Grand Slams.\n\nMaking her sixth straight Finals appearance, Sabalenka can still advance if she beats Svitolina in their final round-robin match on Friday.\n\nSvitolina roared back from a set down to beat Muchova 3-6, 6-2, 6-2.\n\nUkrainian veteran Svitolina lifted the WTA Finals trophy in 2018 but hadn't been back to the elite season-ending event since 2019.\n\nShe got off to a rocky start against Muchova, who broke Svitolina three times in the opening set.\n\nTrailing 2-1 on serve in the second Svitolina found her range, winning five straight games to force a third set.\n\n\"I was not happy with the first set,\" Svitolina said. \"I didn't play as well. I just made some adjustments, tactical adjustments.\n\n\"I think it helped me also to be more aggressive, because I was too passive in the first set,\" Svitolina said.\n\nMuchova's second round-robin defeat coupled with Andreeva's victory means the Czech was eliminated from semi-final contention. (AFP)\n\nEdited by Nazvi Careem",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T01:40:08.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877483-20261112.htm"
-    },
-    {
       "id": "29fab9a3f5737a0f",
       "title": "Nvidia preparing to oust CEO Jensen Huang: WSJ",
       "excerpt": "Nvidia's board is preparing to oust CEO Jensen Huang after he had two extramarital affairs, the Wall Street Journal reported…",
@@ -1325,17 +1325,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877476-20261112.htm"
-    },
-    {
-      "id": "f290d69ad696e96d",
-      "title": "CoreWeave results lift tech stocks as dollar gains",
-      "excerpt": "Stock markets rose on Wednesday on renewed optimism over AI following strong results from data centre operator CoreWeave, while the…",
-      "fullText": "Stock markets rose on Wednesday on renewed optimism over AI following strong results from data centre operator CoreWeave, while the dollar extended a rally on expectations for at least one more Federal Reserve interest rate hike.\n\nWall Street's main indices enjoyed a buoyant session led by the tech-heavy Nasdaq, which finished up 1.6 percent.\n\n\"The primary catalyst for the upside action is, ironically, one of the primary catalysts for the downside action that had been seen in the AI trade,\" said Briefing.com analyst Patrick O'Hare.\n\n\"That would be CoreWeave, which posted better-than-feared third-quarter results and issued a reassuring outlook that has quieted some of the debt financing concerns surrounding its AI buildout plans,\" he added.\n\nCoreWeave said sales would come in at US$13-US$13.3 billion this year, beating estimates and soothing worries about its ability to finance its heavy debt burden, which fuelled a sharp sell-off last month.\n\nShares in CoreWeave surged nearly 25 percent.\n\n\"This relief trade is carrying across the AI trade complex to include hardware, software, and semiconductor stocks,\" said O'Hare.\n\nThe gains in US equities came despite signalling from US central bankers that the Fed will lift interest rates in December to address persistent inflation. The US dollar rose to its highest level since May 2025 after one top Fed official floated the idea of a 0.5 percentage point interest rate increase next month.\n\nAfter last week's rout fuelled by fears that Democrats would ramp up regulation of AI, tech stocks have bounced this week on bargain-buying and hopes that fears may have been overdone.\n\n\"Overall, the market is putting AI doubts to one side and is focusing on revenue potential and mega cap IPO as we move through this week,\" said Kathleen Brooks, research director at XTB.\n\nSemiconductor companies advanced, including scandal-plagued Nvidia, which bounced 3 percent after a two-day rout following the bombshell revelation of an affair between CEO Jensen Huang and a woman suspected of being a spy. The firm is now the subject of an FBI investigation.\n\nThe Dow Jones Industrial Average rose 254 points, or 0.5 percent, to 52,486, the S&P 500 gained 98 points, or 1.3 percent, to 7,619 and the Nasdaq Composite gained 400 points, or 1.6percent, to 25,466.\n\nOil prices advanced after sinking on Tuesday on hopes for a US-Iran agreement to end their war and reopen the crucial Strait of Hormuz. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T23:00:28.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877464-20261112.htm"
     },
     {
       "id": "f40e189e0b86ca8c",
