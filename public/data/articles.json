@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T08:00:27.495Z",
-  "checkedAt": "2026-11-17T08:00:27.495Z",
+  "generatedAt": "2026-11-17T08:15:32.585Z",
+  "checkedAt": "2026-11-17T08:15:32.585Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "0337891a2bc9a6a9",
+      "title": "John Lee arrives in Shenzhen for Apec meeting",
+      "excerpt": "Chief Executive John Lee arrived in Shenzhen on Tuesday to attend the Apec Economic Leaders’ Meeting, beginning a trip aimed…",
+      "fullText": "Chief Executive John Lee arrived in Shenzhen on Tuesday to attend the Apec Economic Leaders’ Meeting, beginning a trip aimed at promoting Hong Kong’s role in Apec's \"China Year\".\n\nIn a post on social media, Lee said he was “deeply delighted” to take part in the meeting as China hosts Apec for the third time.\n\nOn arrival, he was received by a representative of the First Bureau of the Hong Kong and Macao Work Office of the Communist Party of China Central Committee.\n\nLee pointed to last month’s Apec Finance Ministers’ Meeting — held in Hong Kong for the first time — as evidence of the city’s unique advantage under \"One Country, Two Systems\": connecting the mainland and the world while contributing to financial cooperation within the regional body.\n\nDuring the trip, Lee will also attend the Apec CEO Summit, including its discussion session and opening ceremony, to exchange views with political and business leaders from other economies.\n\nHe will hold bilateral meetings with leaders of other economies to explore mutually beneficial cooperation opportunities for Hong Kong.\n\nLee described Shenzhen and Hong Kong as sister cities and close partners within the Greater Bay Area, noting that the two places have advanced side by side in artificial intelligence, innovation and technology.\n\nHe expressed hope that Apec economies gathering in the “City of Miracles” would explore opportunities together, guided by openness, innovation and cooperation.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T08:08:12.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878135-20261117.htm"
+    },
     {
       "id": "8b537920e30f6d67",
       "title": "Xi, Carney deepen strategic partnership in talks",
@@ -940,17 +951,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_155519_467.html"
-    },
-    {
-      "id": "a16da129102435a8",
-      "title": "Evening News on TV32 - Nov 14",
-      "excerpt": "Top stories for Saturday, Nov 14, 2026 - Flights in the US are resuming following a nationwide ground stop. -…",
-      "fullText": "Top stories for Saturday, Nov 14, 2026\n\n- Flights in the US are resuming following a nationwide ground stop.\n\n- Police arrest 12 drivers suspected of providing illegal cross-border car-hire.\n\n- US President Donald Trump, President Xi Jinping, and Russia's Vladimir Putin will reportedly hold a three-way meeting on the sidelines of the Apec summit next week.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-14T13:26:16.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877838-20261114.htm"
     },
     {
       "id": "fd23d89efa932188",
