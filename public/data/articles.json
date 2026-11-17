@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T22:36:32.866Z",
-  "checkedAt": "2026-11-17T23:00:58.736Z",
+  "generatedAt": "2026-11-17T23:15:17.500Z",
+  "checkedAt": "2026-11-17T23:15:17.500Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 11
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "3fecbc6580ac949f",
+      "title": "Jensen Huang won't be back as chief: Nvidia board",
+      "excerpt": "AI chip giant Nvidia does not plan to bring its embattled co-founder back as chief executive despite Jensen Huang saying…",
+      "fullText": "AI chip giant Nvidia does not plan to bring its embattled co-founder back as chief executive despite Jensen Huang saying he was ready to return, the company's board chairman said on an earnings call.\n\n\"The Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO,\" chairman Harvey Jones said, adding that the board would not be addressing the circumstances of Huang's resignation on the call, and would communicate further when appropriate.\n\nJones' start to a call about quarterly results was a forceful response to a movement to bring back Huang, who stepped down last week.\n\nWith Huang gone, investors are eager for clues about Nvidia's future and strategy, from its commitments of billions of dollars to cloud providers, suppliers and AI startups to who will ultimately lead the world's most valuable chipmaker.\n\nShares of the company rose 2 percent in extended trading, after Nvidia forecast sales ahead of Wall Street targets.\n\n\"It's no surprise that they're doing very well, and there'll be people who will breathe a sigh of relief about it,\" said Rick Meckler, partner at Cherry Lane Investments.\n\n\"But the story here is very complicated, and it's hard not to factor that in as an additional risk for people buying stock.\"\n\nJones said the board had hired executive search firm Heidrick & Struggles to help find a new CEO.\n\nInterim CEO Colette Kress, who is also finance chief, kept her focus on financials and products in the statement accompanying results.\n\n\"Our momentum is real,\" she said, without addressing the leadership issue.\n\n\"Vera Rubin is off to an explosive start, our roadmap is on track,\" she added, referring to the company's latest flagship AI chip.\n\nHuang, the AI boom's most prolific salesman, resigned on Thursday after revelations of extramarital affairs, including one with Chinese businesswoman Alice Huang and two with Nvidia employees.\n\nJensen Huang's exit ended three decades of founder-led control over Nvidia's chip roadmap, customer deals and Washington ties, making execution a bigger risk than near-term AI demand, analysts say.\n\nThe company expects fourth-quarter revenue of US$130 billion, plus or minus 3 percent, above analysts' average estimate of US$125.25 billion, according to LSEG data. Nvidia said the outlook assumes no data-centre chip sales to China.\n\nAdjusted gross margin is expected at 71 to 72 percent, compared with analysts' estimate of 71.7 percent.\n\nAnshel Sag, principal analyst at Moor Insights & Strategy, said Nvidia's outlook was \"quite positive, albeit not as ambitious as in previous quarters, which many have already anticipated.\"\n\nHe added, \"I don't think anything near-term will be affected by Jensen's departure. His executive leadership team is capable and has followed his leadership and executed effectively for years, reaching this point.\"\n\nThe board is considering internal and external candidates for CEO, with Kress seen offering steady leadership during the selection process.\n\nBut a growing \"Stand With Jensen\" campaign has complicated the search, and Huang said on Tuesday he would be \"honoured\" to return if the board deemed it best.\n\n\"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me to return as CEO,\" Huang said in his first statement since his resignation.\n\nEarlier on Tuesday, Nvidia's board created a committee on national security and export controls, its first major governance move since Huang's departure, as scrutiny grows over the chipmaker's national security role.\n\nWashington has also tightened licensing rules for chip shipments to Southeast Asia and overseas data centres serving Chinese firms, while lawmakers prepare to question Huang, who had pushed for greater chip exports to China.\n\nInvestors were already uneasy about AI spending after the Democrats' sweep of the US midterm elections fuelled fears of tougher scrutiny and slower data-centre expansion.\n\nThey also want to know whether Nvidia's next CEO will continue financing customers, a practice critics call circular.\n\nNvidia's third-quarter revenue more than doubled to US$115.8 billion, beating analysts' estimate of US$109.1 billion. The company has topped Wall Street's revenue expectations for 17 straight quarters.\n\nAdjusted gross margin rose to 74.9 percent from 73.5 percent a year earlier, also beating analysts' estimate of 74.1 percent, despite soaring memory prices and production ramps. (Agencies)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T22:59:46.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878218-20261118.htm"
+    },
     {
       "id": "ac20983e5af41e8b",
       "title": "US stocks fall but Nvidia rebound lifts sentiment",
@@ -920,17 +931,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877937-20261116.htm"
     },
     {
-      "id": "fcaacfc4355bc670",
-      "title": "Amazon loses 40 satellites in failed rocket launch",
-      "excerpt": "A Vulcan rocket owned by United Launch Alliance, the joint venture of Boeing and Lockheed Martin, failed on Sunday shortly…",
-      "fullText": "A Vulcan rocket owned by United Launch Alliance, the joint venture of Boeing and Lockheed Martin, failed on Sunday shortly after liftoff from Florida, destroying its payload of 40 satellites for Amazon's Leo internet network in the launch company's first mission failure.\n\nThe rocket failed roughly 10 minutes after liftoff from the Cape Canaveral Space Force Station in Florida, and the cause was not immediately clear. It represented a major setback for the two-decade-old company's new flagship rocket as it sought to begin a regular cadence of launches for Amazon's burgeoning satellite internet constellation.\n\n\"Based on data received by our Launch Director, we confirm that the Vulcan vehicle launched from Space Launch Complex 41 suffered an anomaly 10 minutes into the flight and failed to deliver the Amazon mission to orbit,\" ULA said in a statement.\n\n\"Every flight generates data, and every flight teaches us something. Since the anomaly just occurred, we don’t have any specific data yet to understand what occurred today.\"\n\nThe mission was Vulcan's fifth since its 2024 debut and first in nine months, following a launch hiatus drawn out by separate technical investigations into its solid rocket side-boosters and its core BE-4 engines, which are supplied by Amazon founder Jeff Bezos' Blue Origin space company.\n\nThe boosters were being scrutinised for issues encountered on Vulcan's last two flights, including a mission in February for the US Space Force. Both missions successfully delivered their payloads to orbit, but the Pentagon had not yet approved the rocket to resume flying national security payloads, pending its performance with the Amazon mission on Sunday.\n\nBlue Origin's New Glenn rocket with the BE-4 engine had a launchpad explosion in May, and its investigation determined the engine was the cause. That led the company to modify those delivered to ULA for Vulcan, ULA spokesperson Jessica Rye told Reuters in August.\n\nIt was unclear if the BE-4 engines played a role in Sunday's mission failure. It appeared to occur after the separation of Vulcan's second stage, the portion carrying the Amazon satellites, from the first-stage booster powered by the BE-4 engines.\n\nThe failure is another setback for Amazon as it races to deploy satellites using third-party launch providers, many of which have had groundings and failures. The New Glenn explosion in May happened days before it was due to launch Amazon Leo satellites.\n\nThe rocket failures have persistently held up Amazon's bid to rival SpaceX's vast Starlink internet network, which has more than 11,000 satellites and millions of customers worldwide.\n\nSince 2025, 398 Leo satellites have been deployed across 14 launches, about 12 percent of Amazon's plan. The company has hoped to start initial internet service this year. (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T00:04:10.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877925-20261116.htm"
-    },
-    {
       "id": "e6d4977b88ed6cd1",
       "title": "Andreeva defeats Svitolina to win WTA Finals",
       "excerpt": "Russian teenager Mirra Andreeva battled past Elina Svitolina in straight sets to win the season-ending WTA Finals crown on Sunday…",
@@ -1138,17 +1138,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877789-20261114.htm"
-    },
-    {
-      "id": "7b08a19eb2535ae0",
-      "title": "US markets end lower as Nvidia casts a pall",
-      "excerpt": "A pullback in big AI-focused companies weighed on the market, capping a turbulent week on Wall Street. The S&P 500…",
-      "fullText": "A pullback in big AI-focused companies weighed on the market, capping a turbulent week on Wall Street.\n\nThe S&P 500 fell 0.4 percent, but managed to post a 2.5 percent gain for the week.\n\nThe Dow Jones Industrial Average recovered from an early slide and eked out a 0.1 percent gain. The Nasdaq composite fell 0.9 percent, but also notched its first weekly gain in five weeks.\n\nThe S&P 500 fell 30.73 points to 7,561.67, the Dow Jones Industrial Average gained 50.46 points to 52,347.55, and the Nasdaq lost 229.82 points to close at 25,136.27.\n\nThe major indexes have been shaky this week as some of the biggest AI companies pushed and pulled the market.\n\nThe market remained unsteady a day after the AI industry was rocked by the resignation of Nvidia CEO Jensen Huang.\n\nNvidia’s longtime chief financial officer, Colette Kress, will be its interim CEO. The ensuing fallout cost Nvidia’s market cap more than US$600 billion this week.\n\nNvidia fell 2 percent. Broadcom fell 4.8 percent and Advanced Micro Devices lost 8.8 percent.\n\nNvidia in particular has been slipping for weeks amid wider concerns about a potential slowdown for the industry.\n\n“Nvidia's pullback serves as a reminder of the concentration risk embedded in a market where a small number of mega-cap technology stocks have driven an outsized share of returns,” said Angelo Kourkafas, senior global strategist at Edward Jones, in a research note.\n\nMicrosoft rose 0.2 percent, despite suffering a global outage for its web services that disrupted email accounts and other applications.\n\nA report on Friday showed that wholesale inflation cooled slightly last month, but remains high . The report measures inflation experienced by businesses, before it can reach consumers. Inflation at the consumer level remains stubbornly high at well above 3 percent. That's higher than the Fed's preferred target of 2 percent.\n\nThe latest wholesale inflation report also showed food prices and other costs gaining ground, despite some easing for energy costs.\n\n“That suggests inflation is working its way into the broader economy rather than remaining concentrated in the original areas of price pressure,” said Chris Osmond, chief investment officer for Fifth Third Wealth Advisors, in a research note. “If that continues, it becomes much harder for the Fed to simply look through inflation as temporary.”\n\nThe central bank held rates steady at its last meeting, following a previous rate hike. The latest hot updates on inflation have prompted economists to overwhelmingly expect a rate hike at the upcoming December meeting, with another hike likely to follow in January. (AP)\n\nEdited by Robert Kemp",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T21:58:20.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877774-20261114.htm"
     },
     {
       "id": "a0d13a419b4aa38e",
