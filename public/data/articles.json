@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T11:45:17.725Z",
-  "checkedAt": "2026-11-17T11:45:17.725Z",
+  "generatedAt": "2026-11-17T12:00:28.958Z",
+  "checkedAt": "2026-11-17T12:00:28.958Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "7e6e0e134d13c198",
+      "title": "Airport closer to sustainable aviation fuel facility",
+      "excerpt": "The Airport Authority signed a memorandum of understanding on Tuesday with Hong Kong and China Gas Company (Towngas) and EcoCeres…",
+      "fullText": "The Airport Authority signed a memorandum of understanding on Tuesday with Hong Kong and China Gas Company (Towngas) and EcoCeres to develop a sustainable aviation fuel blending facility in the city to support the aviation industry's transition towards a more sustainable future.\n\nThe signing was witnessed by Chief Executive John Lee during the Asian Logistics, Maritime and Aviation Conference.\n\nAlso present for the signing were Secretary for Transport and Logistics Mable Chan, Airport Authority chief executive Vivian Cheung and Towngas chairman Peter Lee.\n\nThe MoU was signed by Airport Authority chief operating officer Steven Yiu, Towngas executive director and chief investment officer Alan Chan and EcoCeres CEO Matti Lievonen.\n\nUnder the agreement, the three parties will continue discussions on the design, construction and operation of a blending facility in Tuen Mun, with implementation subject to terms to be agreed between them.\n\nIn Hong Kong's first five-year plan, the government aims to achieve a sustainable aviation fuel consumption target of between one and three percent for flights departing from the airport by 2030.\n\nJohn Lee announced in his Policy Address this year that the government would take forward the construction of a blending facility to build an end-to-end sustainable aviation fuel value chain and reduce logistics costs to make prices for greener jet fuel products more competitive.\n\nThe government is also collaborating with mainland authorities on the establishment of a sustainable aviation fuel production base in Dongguan.\n\nThe airport's existing fuel infrastructure is already capable of receiving, storing and uplifting pre-blended sustainable aviation fuel by airlines, with one local airline having successfully uplifted the fuel.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T11:42:58.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878132-20261117.htm"
+    },
     {
       "id": "eec576e2f826a699",
       "title": "RTHK, CGTN co-present Apec 2026 highlights",
@@ -1116,17 +1127,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/"
-    },
-    {
-      "id": "5f61e6ba9d2aeed5",
-      "title": "Tech fallout weighs on HK, mainland markets",
-      "excerpt": "Regional stocks ended mostly lower after a turbulent week dominated by revelations of extramarital affairs involving Nvidia cofounder Jensen Huang…",
-      "fullText": "Regional stocks ended mostly lower after a turbulent week dominated by revelations of extramarital affairs involving Nvidia cofounder Jensen Huang that culminated in his resignation, in a blow to the global AI boom he helped advance.\n\nIn Hong Kong and the mainland, AI model stocks Z.AI and MiniMax Group fell sharply on worries of reduced access to advanced AI chips, while data centre suppliers Zhongji Innolight and Eoptolink Technology, whose businesses are heavily reliant on US markets, slumped.\n\nJon Zauderer, Citi's head of specialist sales and a TMT specialist, said competitors such as AMD, Arista and Broadcom could benefit from the Nvidia fallout.\n\nIn Hong Kong, the benchmark Hang Seng Index ended 370 points, or 1.5 percent, lower at 23,637 on turnover of HK$195.86 billion.\n\nThe tech index dived 118 points, or three percent, to 3,813 while the China Enterprises Index fell 119 points, or 1.5 percent, to 7,937.\n\nUp north, the Shanghai Composite Index fell 21 points, or 0.59 percent, to close at 3,634, on turnover of 770.6 billion yuan.\n\nThe Shenzhen Component Index was 229 points, or 2.05 percent, lower at 10,968 on turnover of 885 billion yuan while the ChiNext Index dived 83 points, or 3.32 percent, to close at 2,426 on turnover of 435.33 billion yuan.\n\nIn Tokyo, the Nikkei ended 322 points, or 0.53 percent, higher at 61,142 for the day to log its biggest weekly gain, 6.46 percent, in five months, as upbeat earnings and renewed AI optimism helped the market recover from the previous week's sharp selloff despite concerns surrounding Nvidia.\n\nThe broader Topix inched up four points, or 0.11 percent, to 3,941 for a weekly gain of 6.3 percent.\n\nIn Seoul, the Kospi closed 52 points, or 0,98 percent, lower for the day but posted a strong weekly gain of 4.56 percent, recovering from a 12 percent plunge the previous week. (Agencies)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T09:16:36.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877702-20261113.htm"
     },
     {
       "id": "b766ed8bb3be16e0",
