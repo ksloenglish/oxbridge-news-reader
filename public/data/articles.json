@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T11:00:29.192Z",
-  "checkedAt": "2026-11-17T11:15:20.225Z",
+  "generatedAt": "2026-11-17T11:30:22.151Z",
+  "checkedAt": "2026-11-17T11:30:22.151Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 15
     },
     {
       "id": "rthk-finance",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "eec576e2f826a699",
+      "title": "RTHK, CGTN present Apec 2026 highlights",
+      "excerpt": "RTHK and CGTN are joining hands in covering the Apec summit in Shenzhen. RTHK's Hailey Yip and her CGTN counterpart…",
+      "fullText": "RTHK and CGTN are joining hands in covering the Apec summit in Shenzhen.\n\nRTHK's Hailey Yip and her CGTN counterpart Chen Tong have more on Tuesday's Apec CEO Summit and the day's other highlights.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T11:18:49.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878163-20261117.htm"
+    },
     {
       "id": "a8f33145c582abd0",
       "title": "Greater Bay Area a proven model of cooperation: CE",
@@ -480,6 +491,17 @@
       "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_170126_788.html"
     },
     {
+      "id": "fdc0c1b878e9d418",
+      "title": "I.PARK1 fire probe completed",
+      "excerpt": "The Fire Services Department (FSD) said today that a fire on October 26 at Phase 1 of the Integrated Waste…",
+      "fullText": "The Fire Services Department (FSD) said today that a fire on October 26 at Phase 1 of the Integrated Waste Management Facilities Phase (I.PARK1) on the artificial island off Shek Kwu Chau is suspected to be related to either welding works or smoking.\n\nThe FSD announced that it has completed its investigation, which involved collecting evidence at the scene and taking statements from relevant parties.\n\nFindings indicate that the fire originated on the upper level of the third incineration module inside I.PARK1’s incineration building. The investigation ruled out electrical faults, arson, and spontaneous combustion of chemical substances as the cause of the fire.\n\nThe FSD said it has referred the investigation report to the Environmental Protection Department (EPD) for follow-up.\n\nThe EPD said it has already instructed the I.PARK1 contractor to review and strengthen measures to eliminate fire risks, specifically in relation to the handling of hot works – including welding – and tightening a site-wide smoking ban.\n\nIn a statement, the EPD iterated that it places great emphasis on the safety standards of waste management facilities under its purview, and takes a strict approach in overseeing contractors' implementation of various safety and fire prevention management measures, including enforcement of the smoking ban.\n\nIn January, the I.PARK1 contractor implemented a series of tobacco control measures, such as requiring workers to deposit cigarettes and lighters in pier-side cigarette racks before entering the I.PARK1 artificial island, and conducting regular and surprise inspections. Any worker found smoking at the site will be ordered to leave it immediately and will be removed from the I.PARK1 project.\n\nThe EPD is also reviewing the incident to strengthen contingency measures and enhance safety at the facility.\n\nRelevant best practices will be promoted at other facilities under the department's purview to ensure construction and operational safety, the EPD said.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_181023_620/images/20261117185740938.jpg",
+      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_181023_620.html"
+    },
+    {
       "id": "a986c51f5eb992fa",
       "title": "Trump says he may meet Kim Jong Un in China",
       "excerpt": "US President Donald Trump said on Monday that he may meet with DPRK leader Kim Jong Un in China as…",
@@ -706,8 +728,8 @@
       "fullText": "The Foreign Ministry in Beijing on Monday said President Xi Jinping would hold a China-Russia-US summit with his Russian counterpart Vladimir Putin and US leader Donald Trump in Shenzhen on Thursday.\n\nSpeaking at a regular news briefing, ministry spokeswoman Mao Ning said the meeting would be of groundbreaking significance.\n\n\"This will be the first face-to-face meeting in history among the heads of state of China, Russia and the United States. They will exchange in-depth views on safeguarding world peace and promoting strategic stability in major-power relations, which is of groundbreaking significance.\n\n\"In the current situation, the three countries bear an important responsibility to cooperate in addressing global challenges and to promote world peace and stability. Strengthening communication among China, Russia and the US, managing differences, and stabilising relations is in the interest of all three countries, meets the expectations of the international community, and helps stabilise the global situation and advance dialogue and cooperation.\"\n\nPlans for the three-way summit were earlier confirmed by the White House on Friday and the Kremlin on Saturday.\n\nThe Trump administration has said that such a meeting would provide an opportunity for the three leaders to discuss international issues of pressing concern.\n\nTrump does plan on discussing the Iran war with Xi and Putin, but will steer away from bringing up the topic of Ukraine, according to a senior US official who briefed reporters on the condition of anonymity. (Xinhua/AP)\n_____________________________\nLast updated: 2026-11-16 HKT 19:12\n\nEdited by Altis Wong",
       "imageUrl": null,
       "publishedAt": "2026-11-16T03:05:57.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877948-20261116.htm"
     },
     {
@@ -1226,17 +1248,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_181923_440.html"
-    },
-    {
-      "id": "b1a1090e169c9649",
-      "title": "Industry keen on HSK logistics",
-      "excerpt": "The invitation for expressions of interest (EOI) in the development of selected land parcels at the modern logistics cluster in…",
-      "fullText": "The invitation for expressions of interest (EOI) in the development of selected land parcels at the modern logistics cluster in the Hung Shui Kiu/Ha Tsuen New Development Area (HSK Logistics Cluster) closed today, with 16 submissions received from developers, logistics operators, logistics industry associations and professional services providers.\n\nThe Government has reserved approximately 32 hectares of land at the Hung Shui Kiu/Ha Tsuen New Development Area of the Northern Metropolis for the development of a modern logistics cluster to meet long-term demand for logistics land.\n\nJointly issued by the Transport & Logistics Bureau and the Civil Engineering & Development Department on August 13, the invitation for EOI covers the first batch of five selected sites within the HSK Logistics Cluster. The initiative aims to gauge market interest, collect industry feedback on development requirements, and refine land disposal arrangements ahead of upcoming tender exercises.\n\nThe bureau will now analyse the submissions to help finalise the tender requirements and land disposal terms. Tenders for the first available sites are expected to be invited towards the end of 2027 at the earliest, with the relevant tender to be awarded in 2028.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_165419_725/images/20261113183718765.jpg",
-      "publishedAt": "2026-11-12T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_165419_725.html"
     },
     {
       "id": "f63bf36b5b6112b0",
