@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T08:45:18.067Z",
-  "checkedAt": "2026-11-17T09:00:33.603Z",
+  "generatedAt": "2026-11-17T09:15:32.492Z",
+  "checkedAt": "2026-11-17T09:15:32.492Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "7971e4f89bcf55d6",
+      "title": "Tech fears continue to chip away at regional markets",
+      "excerpt": "Tech firms dragged Asian stock markets down again Tuesday as the fallout from the Nvidia crisis continued to rattle trading…",
+      "fullText": "Tech firms dragged Asian stock markets down again Tuesday as the fallout from the Nvidia crisis continued to rattle trading floors, with US moves to tighten restrictions on Chinese access to chips adding to uncertainty.\n\nIn Hong Kong, the benchmark Hang Seng Index ended 245 points, or one percent, lower at 23,508 on turnover of HK$198.05 billion.\n\nThe tech index fell 43 points, or 1.1 percent, to 3,758 while the China enterprises index was 77 points, or one percent, lower at 7,904.\n\nOn the mainland, the Shanghai Composite Index closed down 17 points, or 0.5 percent, at 3,584 on turnover of 690.5 billion yuan.\n\nThe Shenzhen Component Index fell 52 points, or 0.49 percent, to 10,638 on turnover of 767.18 billion yuan while the ChiNext Index lost 27 points, or 1.2 percent, to close at 2,292 on turnover of 365.83 billion yuan.\n\nIn Tokyo, the Nikkei ended down 801 points, or 1.34 percent, at 58,860, with AI- and chip-related falls of 5.08 percent by Kioxia Holdings, 4.39 percent by Advantest and 3.95 percent by SoftBank Group contributing to the benchmark's losses.\n\nThe broader Topix slid 61 points, or 1.57 percent, to 3,840.\n\nIn Seoul, the Kospi closed 132 points, or 2.59 percent, lower at 4,968, down in a fourth consecutive session of losses, with chipmaking index heavyweights Samsung Electronics falling 3.3 percent and SK Hynix losing 1.96 percent.\n\nThe selloff comes as investors brace for the release of earnings from Wall Street titan Nvidia, which comes days after its boss Jensen Huang resigned over revelations of extramarital affairs.\n\nAlso in focus is the initial public offering of Claude-creator Anthropic, which is being seen as a test of confidence in the AI trade, which has been whipsawed in recent months by concerns over companies' eye-watering AI investments and their profitability.\n\nMarkets have been battered since the crisis broke at Nvidia, which is at the centre of a build-out in artificial intelligence that has helped propel global markets to record highs and boosted economic growth around the world.\n\nNvidia's earnings will be closely watched after the US market closes later Tuesday, or 8am on Wednesday Hong Kong time, with investors looking for signs of whether the AI boom can withstand the widening scandal.\n\nMatt Weller at Forex.com said: \"Data centre demand and guidance will be central.\n\n\"Investors will look for evidence that hyperscalers and other customers are sustaining their spending on AI infrastructure, and whether fourth-quarter guidance points to further growth.\"\n\nDonald Trump on Monday backed calls from some of Silicon Valley's most powerful voices pushing for the swift return of Huang, with the US president downplaying national security concerns over allegations of possible spy links.\n\nAdding to the downbeat mood was news that the US Commerce Department moved on Monday to close a loophole that allowed Chinese companies to access Nvidia's powerful AI chips remotely.\n\nA new rule will force data centre operators in Singapore, Malaysia, Thailand, Indonesia and Brazil to get a licence from the United States allowing them to ship high-end AI chips from Nvidia and other American firms to clients in those countries.\n\n\"The proposed rules are aimed at limiting the remote use or diversion of cutting-edge US chips and extend the regulatory overhang facing the semiconductor industry,\" said National Australia Bank's Rodrigo Catril.\n\n\"The news also raises questions about the outlook for global AI infrastructure investment, particularly in jurisdictions that have become important hubs for data centre development.\" (Agencies)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T09:07:20.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878143-20261117.htm"
+    },
     {
       "id": "ee54d366a3a03d52",
       "title": "Welding or smoking suspected in Shek Kwu Chau fire",
@@ -1149,17 +1160,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877633-20261113.htm"
-    },
-    {
-      "id": "d664a4dc3ecf0c09",
-      "title": "Wall St down as Nvidia drop outweighs energy gains",
-      "excerpt": "US stocks closed lower on Thursday, as a drop in Nvidia shares after CEO Jensen Huang's exit outweighed gains in…",
-      "fullText": "US stocks closed lower on Thursday, as a drop in Nvidia shares after CEO Jensen Huang's exit outweighed gains in energy shares.\n\nThe chip company's shares fell 4.3 percent but were well off the day's lowest level after earlier dropping nearly 12 percent. Retail investors bought Nvidia shares worth about US$111 million in the first half hour of trading, the biggest opening bid on record for the stock, according to data from Vanda Analytics.\n\nThe S&P 500 energy index rose 1.5 percent, its fourth straight session of gains, as the best-performing of the 11 major S&P sectors. Crude prices climbed after US President Donald Trump wrote on social media that the US did not need a deal with Iran.\n\nGlobal AI-linked stocks fell and AI cloud firm Nebius tumbled 16.8 percent, its biggest daily percentage drop since July 1, after reporting its quarterly earnings and outlook. But Nvidia competitors such as Broadcom, Advanced Micro Devices and Alphabet each moved higher and were among the biggest boosts to the S&P 500.\n\nEquities have been volatile in recent days. Sweeping Democratic victories in the US midterm elections have sparked investor concern about more AI regulation. Worries about Nvidia's leadership have also pressured one of the foundations of the current bull market. Nvidia tabbed Chief Financial Officer Colette Kress as interim CEO.\n\n\"Right now, the market is selling AI stocks and tech stocks and buying safe stuff, just like it did in the first halo trade in January and February of this year, but it will flip back,\" said Jed Ellerbroek, portfolio manager at Argent Capital Management in St Louis.\n\n\"That's the tug of war the market is doing right now. It's concerns about deceleration versus just pointing out that the absolute valuation and growth rates are still pretty compelling.\"\n\nThe Dow Jones Industrial Average fell 189 points, or 0.4 percent, to 52,297, the S&P 500 lost 26 points, or 0.4 percent, to 7,592 and the Nasdaq Composite lost 100 points, or 0.4 percent, to 25,366.\n\nEven with Huang's departure, some investors expect questions to persist about the future of AI companies with strong ties to Nvidia.\n\nThe company has backed several firms, including its own customers, through financing arrangements that face greater scrutiny after Huang's departure.\n\n\"Nvidia is the circular-funder-in-chief; they're the biggest by far at this point, and I assume that activity will moderate,\" said Ellerbroek.\n\nThe Philadelphia Semiconductor index declined 0.5 percent after surging 17.2 percent over the prior four sessions.\n\nAlong with Nebius, peer CoreWeave dropped 6.9 percent. Shares of data centre-related firms IREN and Applied Digital slumped 6.5 percent and 5.4 percent, respectively.\n\nInvestors are awaiting the release of the Producer Price Index on Friday, which will follow a hotter-than-expected consumer price reading earlier this week.\n\nMarkets are completely pricing in a December rate hike of at least 25 basis points by the Federal Reserve, with a 15 percent chance of a 50-basis-point increase, according to CME FedWatch.\n\nComments from multiple Fed officials earlier this week suggested the US central bank was open to a more aggressive path of rate hikes as price pressures worsen.\n\nCleveland Fed President Beth Hammack said on Thursday she does not believe the central bank needs to shift to more aggressive rate hikes to combat inflation, while San Francisco Federal Reserve President Mary Daly said she thinks the central bank will likely need to raise interest rates further to deal with elevated inflation, but did not suggest any urgency. (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T22:26:24.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877623-20261113.htm"
     },
     {
       "id": "0b5401a8842f0b62",
