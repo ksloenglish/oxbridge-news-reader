@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T15:45:20.648Z",
-  "checkedAt": "2026-11-17T16:45:19.057Z",
+  "generatedAt": "2026-11-17T17:00:48.997Z",
+  "checkedAt": "2026-11-17T17:00:48.997Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -533,6 +533,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_163139_927.html"
+    },
+    {
+      "id": "4788bb7f8e46af27",
+      "title": "Plans ready for Subsector elections",
+      "excerpt": "Chairman of the Electoral Affairs Commission (EAC) David Lok chaired a Crisis Management Committee (CMC) meeting this evening to review…",
+      "fullText": "Chairman of the Electoral Affairs Commission (EAC) David Lok chaired a Crisis Management Committee (CMC) meeting this evening to review various scenarios that may arise during the 2026 Election Committee Subsector Ordinary Elections, scheduled for November 22.\n\nDuring the meeting, the EAC received briefings from representatives of key government departments, including the Registration & Electoral Office, the Digital Policy Office and the Hong Kong Police Force. They covered election preparation and co-ordination work, assessments of cybersecurity and security risks as well as contingency plans for polling day.\n\nFurther updates on preparatory work and co-ordination were presented by the Security Bureau, the Home Affairs Department, the Information Services Department, the Department of Justice and the Electrical & Mechanical Services Department.\n\nMr Lok noted that organising an election is a complex undertaking requiring meticulous planning, preparation and arrangements throughout the workflow. He added that relevant policy bureaux and departments have entered the final stage of preparation with security and contingency plans in place to ensure the elections proceed smoothly.\n\nHe also pointed out that today’s meeting enabled the EAC to prepare for the elections more thoroughly. The CMC will assist the EAC in closely monitoring conditions on polling day, reaffirming the EAC’s commitment to ensuring the elections are conducted openly, honestly and fairly in strict accordance with electoral laws and guidelines.\n\nFive ordinary polling stations will be set up for the elections, utilising the electronic poll register (EPR) system to issue ballot papers.\n\nMr Lok and EAC member Daniel Shek also inspected an on-site drill arranged by the Registration & Electoral Office today for polling station staff. The training session familiarises staff with polling station operations and the ballot-paper issuance process, including using the EPR system and its fallback mode.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_203127_465/images/20261117234836498.jpg",
+      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_203127_465.html"
     },
     {
       "id": "4de76c17392cfdc6",
@@ -1270,17 +1281,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/pacific/2026/11/12/wine-bottle-shell-papua-new-guinea-png/"
-    },
-    {
-      "id": "5a100e1875ee1f99",
-      "title": "Maritime Week to open on Sunday",
-      "excerpt": "Hong Kong Maritime Week (HKMW) 2026 - a flagship annual maritime event anticipated worldwide - will be held for seven…",
-      "fullText": "Hong Kong Maritime Week (HKMW) 2026 - a flagship annual maritime event anticipated worldwide - will be held for seven consecutive days from Sunday, expected to attract over 18,000 participants to join its online and offline events.\n\nThe Transport & Logistics Bureau will also announce several important maritime-related deliverables during the week.\n\nThe HKMW is co-ordinated by the Hong Kong Special Administrative Region Government, organised by the Hong Kong Maritime & Port Development Board, and co-organised by the Hong Kong Shipowners Association and the Hong Kong Maritime Museum, with the Hong Kong Trade Development Council and Invest Hong Kong as partners.\n\nJointly hosted by more than 80 local, Chinese Mainland and overseas maritime organisations, there will be more than 60 events covering flagship forums, high-level seminars, industry exhibitions and business networking.\n\nPolicymakers, leaders of major international shipping organisations, business decision-makers, experts and industry elites from around the globe, including high-ranking government officials from Belt & Road countries will explore the latest development opportunities in the global maritime industry during the HKMW.\n\nThe National 15th Five-Year Plan Outline indicates clear support for Hong Kong in consolidating and enhancing its dual-hub status as an international maritime centre and an international aviation hub.\n\nFirst held in 2016, HKMW has evolved over the years into a premier international event for the maritime, port and logistics sectors. The Government will announce the new batch of partner ports, and will sign a number of maritime-related memoranda of understanding at its 10th anniversary.\n\nTo heighten public awareness of Hong Kong's thriving maritime development, the bureau has partnered with Television Broadcasts (TVB) to produce a 10-episode promotional drama series Navigating to the Future. The series will be broadcast from next Monday to November 27, every Monday to Friday, across channels 81, 82 and 83.\n\nAn array of community and youth engagement programmes will also be rolled out, including a maritime-themed carnival set on November 21 and 22.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_161937_701/images/20261113201411762.jpg",
-      "publishedAt": "2026-11-12T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_161937_701.html"
     },
     {
       "id": "813c3334f80b0c85",
