@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T10:15:15.953Z",
-  "checkedAt": "2026-11-17T10:30:23.121Z",
+  "generatedAt": "2026-11-17T10:45:22.525Z",
+  "checkedAt": "2026-11-17T10:45:22.525Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -456,6 +456,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_163139_927.html"
+    },
+    {
+      "id": "547a2b330171aaee",
+      "title": "Election Committee poll cards sent",
+      "excerpt": "The Registration & Electoral Office (REO) has mailed poll cards to voters or their authorised representatives (ARs) in the 31…",
+      "fullText": "The Registration & Electoral Office (REO) has mailed poll cards to voters or their authorised representatives (ARs) in the 31 contested subsectors ahead of the 2026 Election Committee Subsector Ordinary Elections, due to be held on Sunday.\n\nThe mail sent out also includes a map showing the location of the relevant polling station, a guide on voting procedures, an introduction to candidates and an Independent Commission Against Corruption leaflet on elections.\n\nVoters or their ARs can also use iAM Smart or the voter registration website to log in to the Online Voter Information Enquiry System, where they can access all of the information included in the mail.\n\nThe REO reminded voters and ARs that they should cast their votes at the polling station assigned to them, and that they must carry their Hong Kong identity card or specified alternative documents to collect their ballot papers.\n\nA total of 856 candidates will contest 723 seats in the 31 subsectors. Voting will not be required for five subsectors, where 259 candidates will be returned uncontested.\n\nThe five uncontested subsectors are: education; sports, performing arts, culture and publishing; associations of Chinese fellow townsmen; labour; and \"representatives of Hong Kong members of relevant national organisations\".\n\nCall 2891 1001 for enquiries.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_170126_788/images/20261117180406335.jpg",
+      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_170126_788.html"
     },
     {
       "id": "a986c51f5eb992fa",
@@ -1204,17 +1215,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_181923_440.html"
-    },
-    {
-      "id": "9a2e5cf6f633f87d",
-      "title": "Subsidised flat measures enhanced",
-      "excerpt": "The Housing Authority’s Subsidised Housing Committee today approved two enhancement measures in relation to subsidised sale flats (SSFs), to help…",
-      "fullText": "The Housing Authority’s Subsidised Housing Committee today approved two enhancement measures in relation to subsidised sale flats (SSFs), to help members of the public achieve home ownership.\n\nOne of the measures is lowering the home ownership threshold for families with newborns. Starting from the next Home Ownership Scheme (HOS) sale exercise, the maximum mortgage loan-to-value ratio for White Form family applicants with newborns will be raised from 90% to 95%, in line with that for Green Form applicants.\n\nAll families with children aged three or below at the HOS sale exercise application deadline will benefit from this measure.\n\nThe other approved measure is relaxing the alienation restriction period – the timeframe during which owners face strict rules on selling, letting, or assigning their properties – for SSFs first put up for sale between 2022 and 2025. The period will be shortened from 15 years to 10 years from the date of first assignment. This is to encourage more homeowners to pursue upward mobility along the housing ladder.\n\nThe authority said the two new measures will help more families move up the housing ladder while also promoting the SSF turnover.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_142252_397/images/20261113162352703.jpg",
-      "publishedAt": "2026-11-12T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_142252_397.html"
     },
     {
       "id": "b1a1090e169c9649",
