@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T14:30:40.504Z",
-  "checkedAt": "2026-11-17T14:45:35.012Z",
+  "generatedAt": "2026-11-17T15:00:32.715Z",
+  "checkedAt": "2026-11-17T15:00:32.715Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "54f7ad0b4a0462af",
+      "title": "Research Reports",
+      "excerpt": "To access a report, click on the corresponding image below.",
+      "fullText": "To access a report, click on the corresponding image below.",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-3.15.07-PM-edited.png",
+      "publishedAt": "2026-11-17T14:39:46.000Z",
+      "source": "MIT Technology Review",
+      "sourceFeed": "mit-technology-review",
+      "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
+    },
     {
       "id": "84ff7e89b2ad47cd",
       "title": "Mexican leader asks China for panda",
@@ -1270,17 +1281,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_181923_440.html"
-    },
-    {
-      "id": "5c3bada95883f390",
-      "title": "The Download: COP31’s climate challenge and the quest for immortality",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in…",
-      "fullText": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology.\n\nWhat to know about this year’s UN climate talks\n\nThousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations are taking place against a particularly tense geopolitical backdrop, as the world falls further behind the Paris Agreement’s goals.\n\nEnergy prices are soaring, and there are big questions about how countries will tackle the climate crisis. Expect a lot of back and forth on fossil fuels and climate finance, and whether negotiators can agree on meaningful action.\n\nHere’s what you need to know about COP31 . \n\n—Casey Crownhart\n\nThis story is from The Spark, our weekly climate tech newsletter. Sign up to receive it in your inbox every Wednesday.\n\nInside the quest for cognitive immortality\n\nFar-thinking technologists are working on ways to keep your brain going beyond death. MIT Technology Review’s latest Roundtables event explores their ideas, from gradual brain replacement to uploading memories to the cloud.\n\nJoin science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for this subscriber-only discussion.\n\nTune in live on Tuesday, November 17 at 5:00 p.m. GMT / 12:00 p.m. EST / 9:00 a.m. PST .\n\nWant to join the conversation? Subscribe to MIT Technology Review for exclusive access to all our Roundtables.\n\nThe must-reads\n\nI’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.\n\n1 Nvidia is reportedly preparing to oust CEO Jensen Huang\nThe board will meet as soon as today to determine his future. ( WSJ $)\n+ Nvidia’s stock slid 8% after the report was published. ( BI )\n+ Huang allegedly also had an affair with an Nvidia colleague. ( NYT $)\n+ His exit could send shockwaves across the AI industry. ( Axios )\n+ Stakes are high in AI’s trillion-dollar gamble. ( MIT Technology Review )\n\n2 The Nvidia spy scandal is set to tighten chip exports\nBut Commerce Secretary Lutnick has stalled the curbs. ( CNBC )\n+ China has signaled it will retaliate if they pass. ( FT $)\n+ Chinese firms have started stockpiling Nvidia chips. ( Reuters $)\n+ Democrats appear to be preparing an investigation. ( Politico )\n\n3 A startup has built an AI to detect AI-made bioweapons\nIt runs offline on a laptop with a USB gene sequencer. ( Wired $)\n+ Ukraine is opening up its battlefield data to train AI weapons. ( NYT $)\n+ AI is making bioweapons easier to create. ( MIT Technology Review )\n\n4 Anduril says its satellite can track spacecraft in orbital night\nIt uses an infrared sensor to detect hidden satellites. ( Ars Technica )\n+ Anduril is also making smart glasses for warfare. ( MIT Technology Review )\n\n5 Ukraine has reported new restrictions on SpaceX’s Starshield\nZelenskyy says they’re hampering drone defenses. ( NBC News\n\n6 Even remote Brazilian wildlife has microplastics in its blood\nAnimals 100 km from waste sites carried them. ( Nature )\n+ AstroTurf is increasing microplastic levels. ( MIT Technology Review )\n\n7 A NASA space camera can spot invasive plants from orbit\nIt detects how different species’ leaves reflect light. ( Economist $)\n\n8 Astronomers have found an “invisible” object that defies stellar theory\nIt’s likely an ultra-rare supermassive neutron star. ( 404 Media )\n+ New research has corroborated the first black hole image. ( New Scientist $)\n+ The search for dark matter has been blown open. ( MIT Technology Review )\n\n9 Life may have started with metabolism, not genes\nSelf-sustaining chemical cycles could have come first. ( Quanta )\n\n10 Brain surgery has left a man seeing cat eyes on people\nResearchers used AI to render what he sees. ( Gizmodo )\n\nQuote of the day\n\n“I know more about being a progressive than almost anybody on the planet, and I absolutely believe Palantir—all of our products—are essentially progressive.”\n\n—Alex Karp, Palantir’s CEO, tells Politico that he’s a devoted Democrat despite recently backing Trump.\n\nOne more thing\n\nHow Chinese short dramas became AI content machines\n\nChina’s short drama industry is fueled by bite-sized, melodramatic, and smutty shows built for smartphone scrolling. Now, many are being made entirely with AI: no actors, camera operators, cinematographers, or CGI specialists required.\n\nAn average of 470 AI-generated short dramas were released every day in January. Production timelines have shrunk from months to weeks, while costs have dropped by up to 90%. Storytelling is also increasingly driven by performance data.\n\nThe format is rapidly expanding overseas while reshaping the work of writers and production crews. Read the full story on AI’s dramatic impact on China’s short drama industry .\n\n—Caiwei Chen\n\nWe can still have nice things\n\nA place for comfort, fun, and distraction to brighten up your day. (Got any ideas? Drop me a line .)\n\n+ Watch Rome grow from 1000 BCE to the present day in a mesmerising 3D timelapse .\n+ Hold your breath watching a skateboarder’s record-breaking 94.3mph run down a Québec hill.\n+ A captivating photo essay has captured the heart-wrenching wail of flamenco at the Seville Biennial.\n+ A majestic Chinese mural has sparked a rare US-China collaboration that unearthed new secrets from art history.",
-      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2026/05/260424_Cdrama.webp?fit=2128,1196",
-      "publishedAt": "2026-11-12T13:10:00.000Z",
-      "source": "MIT Technology Review",
-      "sourceFeed": "mit-technology-review",
-      "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/"
     },
     {
       "id": "813c3334f80b0c85",
