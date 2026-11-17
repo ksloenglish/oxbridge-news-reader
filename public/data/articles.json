@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T00:15:22.712Z",
-  "checkedAt": "2026-11-17T00:15:22.712Z",
+  "generatedAt": "2026-11-17T00:30:26.944Z",
+  "checkedAt": "2026-11-17T00:30:26.944Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "1cdd5b5d7b8618c5",
+      "title": "JPMorgan bug causes transaction problems at US banks",
+      "excerpt": "Thousands of customers reported difficulty accessing online accounts at several major US banks and the money transfer service Zelle on…",
+      "fullText": "Thousands of customers reported difficulty accessing online accounts at several major US banks and the money transfer service Zelle on Monday after a technical issue at JPMorgan Chase caused ripple effects throughout the financial system.\n\nHowever, Chase said that the technical problems were not the result of a cyberattack, and that it was working to bring banking services back online by the end of the day on Monday.\n\n“JPMorgan Chase has experienced a temporary issue related to a software bug in an on-premise hardware system – it is not cyber-related,” said Joe Evangelisti, spokesman for the bank.\n\nThe disruption comes days after two major outages affected other parts of the US economy: A major outage by Microsoft happened Thursday and lasted for hours, severely impacting services including Outlook, Teams and AI assistant Copilot. An outage affecting the nation’s air traffic control system Friday grounded all US flights for several hours and continued to disrupt air travel across the country over the weekend.\n\nIn the same statement, Evangelisti said that this was a Chase-only issue.\n\n“This is not a systemic issue – other banks may have been impacted by slowness in transactions only to the extent that they were a party to a transaction with us,” he said.\n\nMonday's technical issues seemed to be centred at Chase customers and customers at other banks trying to transact with Chase. Those banks, including Bank of America and Citigroup, were not having issues with their banking services.\n\nA spokesman for US Bank said its systems were not directly impacted but that “clients attempting to send or receive Zelle payments with another financial institution may experience transaction delays.”\n\nZelle is the peer-to-peer payment system that major US banks use to allow customers to send money to friends and family at near-instant speed. Zelle is owned by Arizona-based Early Warning Services, which in turn is owned by financial institutions including Bank of America, Capital One, JPMorgan Chase, PNC Bank, Truist, US Bank and Wells Fargo.\n\nA spokesman for Early Warning Services said the Zelle network was fully operational.\n\n“An issue at the financial institutions may be delaying Zelle payments for some of their customers,” the spokesman said.\n\nSome Chase customers received a message that said, “Some services aren't available. We’re working on them. Please try back later.” (AP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T00:16:59.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878073-20261117.htm"
+    },
     {
       "id": "a0f8fe9180b08a2b",
       "title": "Alcaraz sweeps aside Tiafoe in ATP Finals opener",
@@ -1314,17 +1325,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877491-20261112.htm"
-    },
-    {
-      "id": "29fab9a3f5737a0f",
-      "title": "Nvidia preparing to oust CEO Jensen Huang: WSJ",
-      "excerpt": "Nvidia's board is preparing to oust CEO Jensen Huang after he had two extramarital affairs, the Wall Street Journal reported…",
-      "fullText": "Nvidia's board is preparing to oust CEO Jensen Huang after he had two extramarital affairs, the Wall Street Journal reported on Wednesday, citing people familiar with the matter.\n\nThe board is preparing to meet as soon as Wednesday to determine his future, the report added.\n\nHuang's potential departure would leave a leadership vacuum at the roughly US$4 trillion chipmaker he co-founded and built over more than three decades to become the dominant supplier of AI chips at the centre of the global artificial-intelligence boom.\n\nThe company's shares slid about 8 percent in after-hours trading. Including Wednesday's after-hours selloff, Nvidia has lost about US$600 billion in stock market value this week since the board announced its investigation.\n\n\"Huang being removed immediately could be challenging for Nvidia since it does not have a succession plan in place... If Mr Huang broke the law or violated company policies, the board is likely to act as soon as they have proof,\" Gil Luria, head of technology research at DA Davidson, said.\n\nEarlier in the day, the New York Times reported that Huang had an extramarital affair with a company executive who reported to him.\n\nThe relationship was with Kimberly Powell, Nvidia's vice president of healthcare, the New York Times said, citing five people who worked at the company.\n\nWhen reached by phone on Wednesday and asked about his relationship with Powell, Huang said, \"I don't think you should be talking to me directly.\" He then hung up, the New York Times reported.\n\nNvidia and Powell did not immediately respond to requests for comment. Reuters could not immediately verify the reports.\n\nThe reports mark a sharp escalation in a controversy that began with revelations about Huang's relationship with Alice Huang, a woman US intelligence has said was involved in facilitating shipments of Nvidia chips to Chinese firms.\n\nBeijing has dismissed allegations that Alice Huang was a spy for China as \"groundless speculation\".\n\nIn a memo to employees on Sunday, Huang acknowledged being unfaithful to his wife and took \"full responsibility,\" but gave no details about the relationship.\n\nThe same day, Nvidia's board launched an investigation into whether Huang had been targeted by a foreign intelligence operation. The probe is being overseen by independent directors with outside legal counsel. At the time, the board expressed confidence in Huang.\n\nUS President Donald Trump has said he had not discussed the allegations with Huang but voiced support for the Nvidia chief, calling him \"an honourable guy\" who had \"done an amazing job for our country.\"\n\nHuang faces a potential congressional subpoena if he doesn't respond to a request to provide a closed-door briefing about the allegations that he had a close relationship with the Chinese businesswoman.\n\nHuang co-founded Nvidia in 1993 with Curtis Priem and Chris Malachowsky. Its early hits were graphics chips for computer games, before its CUDA software opened the processors to general computing and, later, AI. (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T23:53:21.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877476-20261112.htm"
     },
     {
       "id": "f40e189e0b86ca8c",
