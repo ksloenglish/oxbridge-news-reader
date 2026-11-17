@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T12:45:22.786Z",
-  "checkedAt": "2026-11-17T13:15:18.413Z",
+  "generatedAt": "2026-11-17T13:30:24.513Z",
+  "checkedAt": "2026-11-17T13:30:24.513Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "121c141897f35b24",
+      "title": "Evening News on TV32 - Nov 17",
+      "excerpt": "Top stories for Tuesday, Nov 17, 2026 - Xi Jinping holds talks with world leaders as Apec meetings get underway…",
+      "fullText": "Top stories for Tuesday, Nov 17, 2026\n\n- Xi Jinping holds talks with world leaders as Apec meetings get underway in Shenzhen.\n\n- John Lee tells the Apec CEO Summit about the strengths of the Greater Bay Area.\n\n- The name's Pattinson, Robert Pattinson: Movie fans are left shaken and stirred by the choice of new James Bond actor.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T13:11:10.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878176-20261117.htm"
+    },
+    {
+      "id": "249551d657d3e425",
+      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in…",
+      "fullText": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology.\n\nThe open-source movement wants Jensen Huang back\n\nA petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and you’ll notice a significant number come from a particular slice of the tech world: open-source AI.\n\nHuang had become a sort of ringleader for open source, but his credibility as an advocate is now under threat. Revelations about Nvidia chips in China and a new rule in the US could deal a blow to both the movement’s reputation and its technical progress\n\nRead the full story to find out why .\n\n—James O’Donnell\n\nThis story is from The Algorithm, our weekly AI newsletter. Sign up to receive it in your inbox every Monday.\n\nRoundtables: inside the quest for cognitive immortality\n\nThe quest to overcome the human brain’s limits is moving beyond science fiction. From gradual brain replacement to uploading memories to the cloud, researchers and technologists are exploring radical ways to extend human cognition. Today, MIT Technology Review examines these ideas in a live Roundtables discussion.\n\nJoin science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado to explore what cognitive immortality could look like, and how close we might be to achieving it.\n\nTune in live today, Tuesday, November 17, at 5:00 p.m. GMT / 12:00 p.m. EST / 9:00 a.m. PST .\n\nWant to join the conversation? Subscribe to MIT Technology Review for exclusive access to all our Roundtables.\n\nThe must-reads\n\nI’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.\n\n1 The US is tightening controls on China’s remote access to AI chips\nIt’s closed a loophole that let Chinese firms access US chips abroad. ( AP )\n+  Xi may retaliate ahead of this week’s summit with Trump. ( Bloomberg $)\n+ Nvidia is warning customers against renting chips to China. ( CNBC )\n+ China is expanding AI distillation to work around curbs. ( Reuters $)\n+ Nvidia privately said it can track chips to China. ( MIT Technology Review )\n\n2 US hyperscale data centers are emitting as much CO2 as Denmark\nA new study found emissions tripled between 2018 and 2025. ( Verge )\n+ 400 data centers use more electricity than Michigan. ( Wired $)\n+ Nations want to harness AI to cut emissions. ( Nature )\n+ But AI models can quickly become climate crisis deniers. ( Guardian )\n\n3 California has sued OpenAI over rogue AI hacking incidents\nThe attorney general said the company failed to protect the public. ( FT $)\n+ And that it admitted to 80 cases of losing control of models. ( CNBC )\n+ Who’s liable when AI agents go rogue? ( MIT Technology Review )\n\n4 The Supreme Court has rejected Trump’s bid to cut research grants\nLower courts found the moves likely violated free speech rights. ( CBS )\n+ Trump has dealt heavy blows to US science. ( MIT Technology Review )\n\n5 Widespread online outages have hit major US banks\nThousands of customers reported account access problems. ( Gizmodo )\n+ A separate outage delayed United Airlines flights. ( Reuters $)\n\n6 Alice Huang’s husband built a data-center empire in China\nHe won government backing as his wife pursued Nvidia chips. ( WSJ $)\n+ MAGA is using the scandal to weaken Trump’s Big Tech ties. ( Axios )\n\n7 China has sacked a scientist after a child died in a gene-editing trial\nThe girl died after receiving an experimental therapy in 2025. ( Nature )\n+ Startups want new rules on gene-editing. ( MIT Technology Review )\n\n8 America’s EV boom is happening without car buyers\nDelivery fleets, robotaxis, and police cars are going electric. ( Atlantic $)\n\n9 New cosmic data has challenged our model of the universe\nThe findings suggest dark energy may be weakening. ( Quanta )\n\n10 A Buddhist sect plans to build an AI guru for Silicon Valley\nIt wants to create a model based on a collective mind. ( New Yorker $)\n\nQuote of the day\n\n“Export controls 2.0 is here.”\n\n—Neil Shah, vice president of research at Counterpoint Research, tells Reuters that Washington has opened a new front in its campaign to slow China’s AI ambitions.\n\nOne more thing\n\nWelcome to Kenya’s Great Carbon Valley: a bold new gamble to fight climate change\n\nKenya’s Great Rift Valley is home to five geothermal power stations, which harness clouds of steam to generate about a quarter of the country’s electricity. But some of the energy escapes into the atmosphere, while even more remains underground for lack of demand. That’s what brought Octavia Carbon here.\n\nLast year, the startup began harnessing some of that excess energy to remove CO2 from the air. The company says the method is efficient, affordable, and—crucially—scalable. But the project also faces fierce opposition.\n\nRead the full story on the future of Kenya’s “Great Carbon Valley.”\n\n—Diana Kruzman\n\nWe can still have nice things\n\nA place for comfort, fun, and distraction to brighten up your day. (Got any ideas? Drop me a line .)\n\n+ A gorilla rescued as an orphan and rewilded has now had a baby of her own .\n+ Kelowna, British Columbia, has elected a man who ran for city council as a joke.\n+ A vast new data dump from the Euclid space telescope covers a stunning section of the sky and 900 million galaxies.\n+ Scientists recreated the long-lost chirps of Jurassic insects to produce a soundscape from 165 million years ago.",
+      "imageUrl": "https://wp.technologyreview.com/wp-content/uploads/2025/12/martincic-greatcarbonvalley-top.jpg?fit=2880,1920",
+      "publishedAt": "2026-11-17T13:10:00.000Z",
+      "source": "MIT Technology Review",
+      "sourceFeed": "mit-technology-review",
+      "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/"
+    },
     {
       "id": "7e6e0e134d13c198",
       "title": "Airport closer to sustainable aviation fuel facility",
@@ -500,6 +522,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_170126_788.html"
+    },
+    {
+      "id": "5c7f8ee4e17b9c7f",
+      "title": "CE attends APEC CEO Summit",
+      "excerpt": "Chief Executive John Lee arrived in Shenzhen this afternoon to attend the Asia-Pacific Economic Cooperation (APEC) CEO Summit and speak…",
+      "fullText": "Chief Executive John Lee arrived in Shenzhen this afternoon to attend the Asia-Pacific Economic Cooperation (APEC) CEO Summit and speak at a discussion session on \"The Guangdong-Hong Kong-Macao Greater Bay Area and Asia-Pacific Development Opportunities\".\n\nSpeaking at the summit, themed \"To Prosper and Win the Future Together\", Mr Lee emphasised that in an increasingly complex global environment, the countries, economies and companies of the Asia-Pacific require open and ongoing co-operation more than ever.\n\n\"The Guangdong-Hong Kong-Macao Greater Bay Area, as one of the world's most dynamic economic powerhouses, under the distinctive institutional framework of ‘one country, two systems’, with three legal jurisdictions and three currencies, generates a gross domestic product exceeding US$2.1 trillion. This reflects the fruitful results of open co-operation,\" he said.\n\nSince the establishment of the Hong Kong Special Administrative Region, Hong Kong has continued to participate in APEC as a member under the name \"Hong Kong, China\". Mr Lee noted that this arrangement fully leverages the unique advantages of the \"one country, two systems\" framework to build an open and prosperous Asia-Pacific region.\n\n\"In particular, the 33rd APEC Economic Leaders' Meeting is taking place in Shenzhen, and the APEC Finance Ministers' Meeting was successfully held in Hong Kong for the first time last month, demonstrating the Greater Bay Area's international relevance.\n\n\"As the only global city to capitalise on both China and international advantages, Hong Kong is the 'super connector' and 'super value-adder' between the Greater Bay Area and the rest of the Asia-Pacific, and will continue to promote the smooth flow of people, goods, capital and data within the Greater Bay Area to drive regional development,\" he added.\n\nMr Lee encouraged Asia-Pacific enterprises with strong innovation and market advantages to use Hong Kong as a springboard into the Greater Bay Area's manufacturing capacity, capital and growing consumer markets. By doing so, businesses can jointly strengthen regional supply chains and contribute to the shared prosperity of the Asia-Pacific community.\n\nIn the evening, Mr Lee and Secretary for Commerce & Economic Development Algernon Yau will attend a dinner with Hong Kong, China's representatives to the APEC Business Advisory Council. They will exchange views on promoting Hong Kong's unique strengths and enhancing regional co-operation.\n\nTomorrow, Mr Lee will attend the opening ceremony of the APEC CEO Summit as well as the welcome banquet for participating leaders and representatives. He will also hold bilateral meetings with leaders of other economies.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_190143_556/images/20261117202156042.jpg",
+      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_190143_556.html"
     },
     {
       "id": "fdc0c1b878e9d418",
@@ -964,17 +997,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877880-20261115.htm"
     },
     {
-      "id": "f6b61e73d196e884",
-      "title": "One dead, 300 evacuated in Wong Tai Sin fire",
-      "excerpt": "A fire at a public housing unit in Wong Tai Sin on Sunday claimed the life of an elderly resident…",
-      "fullText": "A fire at a public housing unit in Wong Tai Sin on Sunday claimed the life of an elderly resident and forced the evacuation of about 300 people.\n\nFirefighters were notified of the blaze at Lung Kwong House of Lower Wong Tai Sin Estate at 8.45am, and it took them about half an hour to put it out.\n\nA charred body was found inside the flat afterwards.\n\nThe deceased was an 80-year-old woman who lived alone.\n\n“We found a lot of clutter inside the unit where the fire broke out. The department’s preliminary investigation indicated the fire was not suspicious,” senior station officer Chan Chun-wai said in a media briefing.\n\n“We will carry out the investigation with other relevant departments through the direction of whether the clutter was accidentally set alight by a cigarette butt or by burning of incense and joss paper.”\n\nChan added that a woman felt unwell due to smoke inhalation and was sent to Queen Elizabeth Hospital for treatment.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T08:00:14.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877883-20261115.htm"
-    },
-    {
       "id": "42e8ff91a88fc661",
       "title": "Hong Kong sees rising value in finance, trade: FS",
       "excerpt": "Financial Secretary Paul Chan on Sunday said Hong Kong’s finance and trade sectors are moving from the accumulation of quantity…",
@@ -1250,17 +1272,6 @@
       "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_181923_440.html"
     },
     {
-      "id": "f63bf36b5b6112b0",
-      "title": "Economy rises 5.2% in Q3",
-      "excerpt": "(To watch the full press conference with sign language interpretation, click here .) Underpinned by a further pick-up in external…",
-      "fullText": "(To watch the full press conference with sign language interpretation, click here .)\n\nUnderpinned by a further pick-up in external trade growth and solid domestic demand, Hong Kong's economy expanded strongly in the third quarter of 2026, with real gross domestic product (GDP) rising 5.2% year on year.\n\nPresenting the Third Quarter Economic Report 2026 at a press conference today, Government Economist Irina Fan said that in the first three quarters, real GDP grew by 5.1% over a year earlier, which is the fastest pace in five years for the corresponding period.\n\nTotal goods exports surged 30.3% year on year in the third quarter, fueled by strong global demand for artificial intelligence-related electronics.\n\nDomestically, private consumption rose 2.9% for its sixth consecutive quarter of growth.\n\nFactoring in the results from the first three quarters and expectations of continued solid growth in the fourth, the full-year GDP growth forecast for 2026 has been revised up to 4.8%.\n\nLooking ahead, Ms Fan said that, supported by robust global AI investment and related trade, Hong Kong's economy is poised for a strong full-year performance.\n\n“Incoming data for entering the fourth quarter also points to sustained growth momentum. Domestic demand should stay resilient. However, uncertainty in the external environment persists, including those from geopolitical tensions, US monetary policy, and trade protectionist measures. So, all of these are worth closer monitoring.”\n\nShe noted that the overall inflation rate should remain moderate.\n\nTaking into account inflation in the first three quarters, the forecasts for the underlying and headline consumer price inflation rates for 2026 have been revised down to 1.9% and 2.0% respectively.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_174802_390/images/20261113190448119.jpg",
-      "publishedAt": "2026-11-12T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_174802_390.html"
-    },
-    {
       "id": "5c3bada95883f390",
       "title": "The Download: COP31’s climate challenge and the quest for immortality",
       "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in…",
@@ -1270,17 +1281,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/"
-    },
-    {
-      "id": "f40e189e0b86ca8c",
-      "title": "What to know about this year’s UN climate talks",
-      "excerpt": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks…",
-      "fullText": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey.\n\nCOP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this year’s talks, which are scheduled to wrap up on November 20.\n\nThis annual gathering can often serve as an indicator of where the world stands on addressing and adapting to the climate crisis. And this year’s talks are sure to be a doozy—expect a lot of back and forth on fossil fuels and climate finance in particular. Here’s what you should know about COP31.\n\nIn recent years, the tension always feels high when COP rolls around. (COP stands for “Conference of the Parties.”) But this year feels especially charged: The world is still grappling with the ongoing war in Iran, which has disrupted the Middle East and sent economic shock waves around the world as energy prices have spiked.\n\nThis year’s COP will be the second without a formal delegation from the US. President Trump formally withdrew the country from the Paris Agreement earlier this year and is in the process of withdrawing from the UN Framework Committee on Climate Change. That’s the treaty that allows formal participation in negotiations.\n\nMeanwhile, things aren’t looking good for the Paris Agreement, which was established at UN climate talks 11 years ago, setting a goal of limiting warming to 1.5 °C over preindustrial levels. In a report published in September, the UN Environment Program acknowledged that global warming is set to exceed that 1.5 °C goal, “likely within the next few years.”\n\nSo as climate talks kick off, there’s an obvious, urgent question looming about how to quickly cut emissions to limit warming. There’s also the major issue of how to pay for efforts to address emissions and to help a warming world endure the inevitable damage.\n\nTwo years ago, talks ended in a goal of mobilizing $300 billion per year by 2035 to help pay to reduce emissions and adapt to climate change. (Rich nations provided $136.7 billion in 2024, according to the Organization for Economic Cooperation and Development. ) And last year, the COP30 agreement included a goal of tripling the money for adaptation over that period. (Such funding has been quite flat over the past few years.)\n\nThe world got a tragic reminder of just how high the stakes are earlier this year, when a glacier collapse caused devastating flooding in the Himalayas. The flood killed approximately 1,500 people, left over 5,000 missing, and caused nearly $5 billion in damage. The UN loss and damages fund committed $20 million to helping Nepal recover (less than 1% of the total estimated cost to the country).\n\nAnother key trend to watch is how the formal negotiations engage with the topic of fossil fuels. Three years ago, the final agreement text explicitly called for a transition away from them. But it felt as if things took a step back last year, when the final agreement didn’t even mention the phrase “fossil fuels” once. This will be an interesting conversation, especially because cohosts Turkey and Australia have both faced criticism over their relationships with these fuels—Australia is a major exporter of coal and natural gas, and Turkey’s grid relies heavily on fossil fuels, including coal.\n\nOutside the formal negotiations, COP31 president Murat Kurum, Turkey’s environment minister, is spearheading a side agenda, including two informal initiatives that will be worth watching. These wouldn’t be part of the official agreement text, but countries could sign on to signal support.\n\nOne is a pledge to make AI more sustainable; this is almost comically squishy, even as voluntary COP pledges go. The text includes explicit wording that it creates no new obligations for countries, so don’t expect anything resembling enforcement there.\n\nThe COP leadership is also pushing to make electricity a larger part of member countries’ energy use. Today, only about 23% of global energy is used in the form of electricity. Fossil fuels, like gasoline in vehicles or natural gas for heating, make up the bulk of the rest. Shifting to more electricity use, and relying on cleaner sources for that electricity, could help drive down emissions. The new pledge’s target is for electricity to make up 35% of total energy consumption by 2035.\n\nWith leadership billing this as an “implementation COP,” it would be great to see some real, tangible progress on the global challenge of addressing climate change. I’m not expecting anything groundbreaking, but we’ll be tuned in to see what the final agreement shapes up to be.\n\nThis article is from The Spark, MIT Technology Review ’s weekly climate newsletter. To receive it in your inbox every Wednesday, sign up here .",
-      "imageUrl": null,
-      "publishedAt": "2026-11-11T17:00:00.000Z",
-      "source": "MIT Technology Review",
-      "sourceFeed": "mit-technology-review",
-      "link": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
     },
     {
       "id": "813c3334f80b0c85",
