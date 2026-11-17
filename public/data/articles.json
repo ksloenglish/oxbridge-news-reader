@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T09:30:22.756Z",
-  "checkedAt": "2026-11-17T09:30:22.756Z",
+  "generatedAt": "2026-11-17T09:45:16.459Z",
+  "checkedAt": "2026-11-17T09:45:16.459Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 14
     },
     {
       "id": "rthk-world",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 11
     },
     {
       "id": "rthk-sport",
@@ -50,7 +50,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 18
     },
     {
       "id": "news-gov-hk-top",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "a8f33145c582abd0",
+      "title": "Greater Bay Area a proven model of cooperation: CE",
+      "excerpt": "The Guangdong-Hong Kong-Macao Greater Bay Area is a proven model of how complementary strengths can generate opportunities far greater than…",
+      "fullText": "The Guangdong-Hong Kong-Macao Greater Bay Area is a proven model of how complementary strengths can generate opportunities far greater than the sum of their parts, Chief Executive John Lee told the Apec CEO Summit in Shenzhen on Tuesday.\n\n\"Prosperity is not something we can each win separately. It is something we can only build together,\" he said, urging Asia-Pacific economies to explore partnerships that combine their innovation and market knowledge with the Greater Bay Area's manufacturing capacity, capital and consumer markets.\n\nLee said the turnout of over 2,000 business and government leaders, including some 115 Fortune Global 500 companies, at the summit sends a clear message that the economies of the region need open and continuing cooperation more than ever.\n\nHe said the Greater Bay Area, home to more than 88 million people and generating a GDP exceeding US$2.1 trillion, would rank about 12th globally if it were a standalone economy.\n\nLee said that under \"One Country, Two Systems\", Hong Kong has an indispensable role to play, describing it as the natural super-connector and super value-adder between the Greater Bay Area and the rest of the Asia-Pacific.\n\nHe invited the Asia-Pacific community to use Hong Kong as a springboard and business centre from which to seize the region's opportunities.\n\n\"Hong Kong, China stands ready to connect people, capital, ideas and opportunities so that we may all prosper and win the future. And that future begins right here.\"\n\nLee also said the cities of the Greater Bay Area are committed to realising the smooth flow of people, goods, capital and data.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T09:28:51.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878147-20261117.htm"
+    },
+    {
+      "id": "7aefae97fd674a03",
+      "title": "HK urged to offer tax cut for small commodity traders",
+      "excerpt": "The vice president of Our Hong Kong Foundation, Kenny Shui, has called on authorities to introduce an entry-level tax concession…",
+      "fullText": "The vice president of Our Hong Kong Foundation, Kenny Shui, has called on authorities to introduce an entry-level tax concession to attract small commodity traders in a bid to drive the development of maritime services in the city.\n\nThe trade in commodities is linked to the shipment of such goods, which is why related maritime services are vital to the sector.\n\nShui made the remarks as the think tank released a research report on Tuesday, suggesting the SAR should focus on higher value-added maritime and professional services.\n\nSpeaking at a press conference, Shui said the government's existing half-tax concession helped attract medium-sized traders with an annual turnover of no less than HK$700 million, but such a threshold has excluded smaller traders with high growth potential.\n\nShui proposed a two-tier tax mechanism aimed at assisting traders whose turnover has yet to reach the threshold.\n\nUnder the proposal, the half-tax concession would be extended to cover small traders with potential for five years.\n\nIf a trader's annual turnover still fails to reach the HK$700 million threshold in the five-year period, the concession would cease, he said.\n\n\"Our current challenge is that compared with other competitors like Singapore, we do not have a lot of commodity traders,\" Shui said.\n\n\"So that's why we want to use the tax to attract them. For medium-sized payers, the government has a plan to use the half-tax to attract those payers.\n\n\"But for the entry-level [traders], as we do not have a half-tax plan, we just have the normal 16.5 percent tax. So that's why we are asking whether we can also have a half-tax for those entry-level payers to attract them to come to Hong Kong.\"\n\nThe foundation also called for enhanced marine insurance, ship leasing and maritime arbitration services.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T09:22:48.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878137-20261117.htm"
+    },
     {
       "id": "7971e4f89bcf55d6",
       "title": "Tech fears continue to chip away at regional markets",
@@ -695,8 +717,8 @@
       "fullText": "Shenzhen Media Group, together with Beijing Radio and Television and Shanghai Media Group, has launched a 100-hour all-media live broadcast programme titled \"Apec China Year,\" highlighting the host city's meticulous preparations and all-around readiness ranging from immigration to cityscape and food to welcome the grand event.\n\nCustoms and border authorities on Monday said they had streamlined clearance procedures and enhanced multilingual services to welcome delegates and visitors this week.\n\nAt Shenzhen Bao'an International Airport, Lai Xinfeng, a senior enforcement officer with the customs passenger inspection section, said luggage screening is completed before passengers arrive.\n\nFor ordinary travellers with no abnormalities, inbound clearance can be compressed to within 15 minutes, improving overall efficiency by more than 60 percent while balancing convenience and security.\n\nLi Shuai, deputy head of a duty team at the Huanggang checkpoint under the Shenzhen General Station of Exit and Entry Frontier Inspection, said authorities have conducted a comprehensive assessment of clearance requirements for delegations, business travellers and major events.\n\nMultilingual and volunteer service teams have been strengthened, with classified waiting, zoned inspection and tiered diversion measures to ensure smooth clearance.\n\nIn the business sector, Lin Xiaoli, human resources director of a Shenzhen technology company, said artificial intelligence is being used to support remote collaboration through AI research workflows, system monitoring and intelligent services, helping reduce commuting pressure for employees, maintain business operations and ease pressure on city traffic.\n\nZhong Hongyun, deputy general manager of the operations management department at ICBC's Shenzhen branch, said cash payment services would be convenient, with ATMs supporting cash withdrawals from major foreign cards and regular provision of change purses for immediate exchange.\n\nZhang Yonghong, general manager of a Crowne Plaza hotel in Shenzhen, said dedicated staff conduct daily inspections and maintenance of guest rooms, bilingual signage had been upgraded, and foreign-related reception facilities improved.\n\nHe said menus featuring cuisines from various countries have been customised, and staff have undergone targeted English service training with multiple rounds of internal drills covering the entire guest journey from arrival to departure.\n\nHu Shiyang, founder of a Shenzhen design company, said the city hopes all its flower beds and green sculptures will present a warm atmosphere, allowing people to feel Shenzhen's pride as the host city and its open embrace of guests and tourists from around the world.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-16T02:08:16.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877940-20261116.htm"
     },
     {
@@ -775,17 +797,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877923-20261116.htm"
-    },
-    {
-      "id": "c9f0dd8ff33a04d7",
-      "title": "Pope Leo urges stop to Amazon deforestation",
-      "excerpt": "Pope Leo on Sunday forcefully condemned what he called the exploitation of the Amazon jungle and urged Catholics to oppose…",
-      "fullText": "Pope Leo on Sunday forcefully condemned what he called the exploitation of the Amazon jungle and urged Catholics to oppose \"with perseverance\" the deforestation and pollution caused by gold and oil production in the world's largest rainforest.\n\nThe pope, meeting with a largely Indigenous audience in the Peruvian Amazon as part of a South America tour, also lamented a spate of killings of tribal leaders protesting deforestation, calling them murders that must be solved.\n\n\"Many Indigenous leaders have been murdered for defending their territories,\" Leo said in the Peruvian city of Pucallpa, an eastern gateway to the Amazon about 200 km west of the Brazilian border.\n\n\"The blood of these brothers cries out to God and demands justice!\" he said. Many of the Indigenous community members at the event wore intricate traditional clothing and feathered headdresses and had detailed geometric designs painted on their faces.\n\nLeo is known for choosing his words carefully and preferring to eschew headlines. But he has emerged as a more forceful voice on the world stage in recent months, decrying the direction of global leadership. He drew the ire of US President Donald Trump earlier this year for denouncing the Iran war.\n\nLeo, who is originally from the US but spent about 20 years as a missionary and bishop in Peru and is also a Peruvian citizen, is making an emotional return to his adopted home.\n\nHe is covering 2,270 km in 12 hours with three flights on Sunday. He has also visited Cusco, once the centre of the Inca Empire.\n\nPeru's Indigenous communities face mounting pressure from illegal logging, gold mining, coca cultivation and agricultural expansion, according to Amazon Watch, an Indigenous rights and environmental advocacy group.\n\nCommunities that resist drug trafficking and illicit commercial activity have seen rising violence. Thirty-five Indigenous leaders have been killed in Peru over the past 15 years, more than two-thirds of those this decade, the group said in a report.\n\nLeo warned on Sunday that \"patterns of exploitation and economic activity ... threaten the balance of creation.\"\n\n\"You know well the damage caused by indiscriminate deforestation and the pollution of rivers and other waters through illegal mining and oil spills,\" the pope told the Indigenous leaders.\n\n\"These are not isolated accidents, but the consequences of the irresponsible exploitation of natural resources, which undermines the very existence of communities,\" he said.\n\nDeforestation has steadily shrunk the Peruvian Amazon, with the country losing about 200,000 hectares of natural forest in 2025 alone, Global Nature Watch data showed.\n\nLeo reproached an economic model that he said \"tends to exploit nature and cultures for the sake of immediate economic gain for the benefit of a few.\"\n\n\"We must oppose this model with perseverance and broad vision,\" he said from a dais under a thatched canopy.\n\nChurch leaders hoped more Peruvians would have an opportunity on Sunday to attend events with Leo. The trip has drawn the largest crowds of his papacy, some 12 million people across a 12-day, three-nation tour.\n\nLeo started his travels on Sunday from Chiclayo, where he was bishop from 2015 to 2023, and will end the day in Lima, before leaving for Rome on Monday. (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T23:22:14.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877917-20261116.htm"
     },
     {
       "id": "0508329a23b279b9",
@@ -926,20 +937,9 @@
       "fullText": "Thousands of swimmers took to the water for the annual cross-harbour race on Sunday morning, swimming a one-kilometre course from Wan Chai Golden Bauhinia Square Public Pier to the Avenue of Stars in Tsim Sha Tsui.\n\nHowever, the race featuring one batch of contestants was cancelled due to strong currents, affecting about 700 participants.\n\nThe race drew a total of about 4,000 participants this year, with about 300 people participating in the racing group and 3,700 people registered to take part in the leisure group.\n\nKeith Sin, the overall male champion, said the instructions of this year's race were clearer than last year's, with the navigation buoys ideally placed while the water temperature was comfortable to swim in.\n\n\"I have to say the organisers did a great job, while there might not be any obvious changes, those two navigation buoys were really well done,\" he said.\n\n\"They kept us from worrying about where the finish line was before getting in the water, since it's hard to see it from the starting point, navigation buoys are actually super important, so the organisers really nailed it.\"\n\nThe event also featured a leisure group with approximately 3,700 swimmers in four batches.\n\nRonnie Wong, president of the Hong Kong China Swimming Association, said although they were confident that all contestants could have finished, they decided to cancel the race for the final group due to safety concerns and time limitations.\n\n\"We made a decision today regarding the final batch of about 700 swimmers that due to water currents and safety concerns, we have cancelled the last group from racing, and we will refund their registration fees,\" he said.\n\nOrganisers said they would consider giving the affected swimmers priority registration if they want to take part in next year's race.\n\nOrganisers also said 135 contestants this year felt unwell, mainly suffering from minor abrasions and cramps.\n_____________________________\nLast updated: 2026-11-15 HKT 16:22\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-15T05:41:40.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877876-20261115.htm"
-    },
-    {
-      "id": "5fe6dd79824a330f",
-      "title": "HK should prepare for AI slowdown: Algernon Yau",
-      "excerpt": "Secretary for Commerce and Economic Development Algernon Yau on Sunday said the development of AI could slow down, and the…",
-      "fullText": "Secretary for Commerce and Economic Development Algernon Yau on Sunday said the development of AI could slow down, and the SAR should keep looking for new opportunities to maintain its status as an international trade centre.\n\nHis remarks came as Hong Kong’s exports in September surged by nearly 65 percent over a year earlier, marking the fastest monthly year-on-year growth in more than four decades.\n\nBut the minister warned about a possible decline in the AI boom.\n\n“The global landscape is constantly evolving, and we are subject to external influences,” he said on a Commercial Radio programme.\n\n“The current upward trend is driven by developments of AI. But will the AI boom gradually subside?\n\n“Given that different countries are holding varying views on the advancement of AI, it might slow down slightly. Therefore, we need to closely monitor the global trends.”\n\nYau said Hong Kong should get prepared by adjusting its strategies according to the trends and further expanding the city’s trade network.\n\nThe minister also said the upcoming Asia-Pacific Economic Cooperation (Apec) Economic Leaders' Meeting in Shenzhen was aimed at building an Asia-Pacific community.\n\nIt is the nation’s wish that economies in the region could cooperate for mutual development, Yau said.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T05:10:40.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877873-20261115.htm"
     },
     {
       "id": "17179d6c89b1c673",
@@ -1105,17 +1105,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877678-20261113.htm"
-    },
-    {
-      "id": "dd7b8569299e772b",
-      "title": "HK stocks slip as region finds feet after Nvidia shock",
-      "excerpt": "Stocks in Asia were on steadier footing on Friday after a turbulent week dominated by revelations of extramarital affairs involving…",
-      "fullText": "Stocks in Asia were on steadier footing on Friday after a turbulent week dominated by revelations of extramarital affairs involving Nvidia cofounder Jensen Huang that culminated in his resignation, a blow to the global AI boom he helped advance.\n\nIn Hong Kong, the benchmark Hang Seng Index started the day down 136 points, or 0.57 percent, at 23,871.\n\nThe China Enterprises Index slipped 46 points, or 0.57 percent, to 8,010 while the tech index edged down 13 points, or 0.35 percent, to 3,918.\n\nAcross the border, the Shanghai Composite Index opened up two points, or 0.08 percent, at 3,658.\n\nThe Shenzhen Component Index rose 38 points, or 0.34 percent, to 11,236 while the ChiNext Index climbed 15 points, or 0.64 percent, higher to 2,525.\n\nNvidia shares fell three percent in extended trading while those of its customers, including South Korea's Naver, extended declines on Friday, with Naver down 2.75 percent.\n\nJon Zauderer, Citi's head of specialist sales and a TMT specialist, said competitors such as AMD, Arista and Broadcom could benefit from the Nvidia fallout.\n\n\"If you think about the uncertainty that's created about a potential management change, investors are going to look for alternatives,\" he said.\n\nIn Tokyo, the Nikkei opened 404 points, or 0.66 percent, higher at 61,223 and had doubled its gains to put the 225 benchmark 846 points up at one stage before lunch.\n\nIn Seoul, the Kospi opened 109 points, or 2.05 percent, at 5,452 before drifting don to put the benchmark 72 points at one stage before noon.\n\nThe tentative recovery in global equities also follows last week's market meltdown sparked by the Republicans' electoral drubbing in the United States, which stoked fears that tighter regulation could slow the AI infrastructure build-out that has helped send stocks to record highs this year. (Agencies)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T03:06:41.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877660-20261113.htm"
     },
     {
       "id": "2b8eb66ce95260e4",
