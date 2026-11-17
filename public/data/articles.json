@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T09:15:32.492Z",
-  "checkedAt": "2026-11-17T09:15:32.492Z",
+  "generatedAt": "2026-11-17T09:30:22.756Z",
+  "checkedAt": "2026-11-17T09:30:22.756Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 18
     },
     {
       "id": "rfa-english",
@@ -423,6 +423,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261116/20261116_213907_067.html"
+    },
+    {
+      "id": "3906c31aeea1c326",
+      "title": "Unemployment rate drops to 3.8%",
+      "excerpt": "The seasonally adjusted unemployment rate decreased from 3.9% in the three months from July to September to 3.8% in the…",
+      "fullText": "The seasonally adjusted unemployment rate decreased from 3.9% in the three months from July to September to 3.8% in the period from August to October, the Census & Statistics Department announced today.\n\nThe underemployment rate remained at 2%.\n\nTotal employment was 3,653,800, down 1,200 from the previous three-month period, while the labour force dropped by around 5,800 to 3,804,200.\n\nLooking ahead, Secretary for Labour & Welfare Chris Sun said that the ongoing expansion of the local economy, solid consumption sentiment and continued growth in inbound tourism should render support to the overall labour market conditions.\n\n“The Government will continue to closely monitor the evolving external uncertainties for their potential implications on corporate hiring sentiments and provide job-seekers with appropriate support,\" Mr Sun said.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_163139_927/images/20261117171521395.jpg",
+      "publishedAt": "2026-11-16T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_163139_927.html"
     },
     {
       "id": "a986c51f5eb992fa",
@@ -1217,17 +1228,6 @@
       "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_142252_397.html"
     },
     {
-      "id": "a6886e63cc447cdc",
-      "title": "HK to set up new drug regulator",
-      "excerpt": "The Centre for Medical Products Regulation Bill was published today in the Government Gazette, establish statutory status for the Centre…",
-      "fullText": "The Centre for Medical Products Regulation Bill was published today in the Government Gazette, establish statutory status for the Centre for Medical Products Regulation (CMPR) and to allow the regulatory framework for Chinese and Western medicines and medical devices to be unified in the future.\n\nThe bill will be introduced into the Legislative Council for first reading on November 25.\n\nThe bill includes three major proposals. First, to establish the CMPR as a body corporate to represent Hong Kong, China in international regulatory affairs concerning medical products and establish formal, long-term working relationships with leading regulatory authorities worldwide.\n\nSecond, to unify the regulatory framework, the bill proposes to build on existing legislation to transfer the relevant regulatory powers and functions concerning Chinese and Western medicine, currently vested in the Pharmacy and Poisons Board of Hong Kong, the Chinese Medicines Board of the Chinese Medicine Council of Hong Kong and their committees, as well as those relating to medical devices, after legislation in the future, to the Director of Health.\n\nThird, to enhance the relevant supporting mechanisms and make necessary technical amendments.\n\nSecretary for Health Prof Lo Chung-mau said the establishment of the CMPR marks a significant milestone in Hong Kong's regulatory reform of medical products.\n\nHe added that the Government will comprehensively and proactively align with the National 15th Five-Year Plan, fully leveraging Hong Kong's distinctive advantages of enjoying strong support nationally and being connected to the world under the “one country, two systems” principle.\n\n“We will establish a proactive mechanism for the evaluation and approval of medical products, enabling advanced products to be introduced into Hong Kong more quickly for the benefit of patients and developing Hong Kong into an international health and medical innovation hub,” he said.\n\nThe health chief added that the Government will deepen collaboration with regulatory authorities around the world and pursue recognition from international authorities.\n\n“Our long-term goal is to develop the CMPR into an internationally recognised regulatory authority for medical products.\"\n\nProf Lo emphasised that the Government is committed to providing a world-class and modern regulatory environment to accelerate the clinical application of innovative medical products while ensuring their safety, quality and efficacy, making good drugs and medical devices available for use in Hong Kong.\n\nThe Government will also support the emerging biomedicine industry in its research and development regarding innovative medical products, facilitating their introduction into Hong Kong and expansion into international markets, he said.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_112504_613/images/20261113132007632.jpg",
-      "publishedAt": "2026-11-12T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_112504_613.html"
-    },
-    {
       "id": "b1a1090e169c9649",
       "title": "Industry keen on HSK logistics",
       "excerpt": "The invitation for expressions of interest (EOI) in the development of selected land parcels at the modern logistics cluster in…",
@@ -1644,17 +1644,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/09/20260929/20260929_105425_431.html"
-    },
-    {
-      "id": "9ae8a1e02c50d50c",
-      "title": "SED meets state leader in Beijing",
-      "excerpt": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in…",
-      "fullText": "Secretary for Education Choi Yuk-lin led the \"18th National Day & Professional Exchange Delegation from Hong Kong Education Sector\" in visiting a state leader and Ministry of Education officials in Beijing.\n\nMs Choi and the delegates were received by Vice-Chairperson of the National People's Congress Standing Committee Tie Ning at the Great Hall of the People this afternoon. They also met and exchanged views with officials from the ministry.\n\nMs Choi remarked that this year marks the 77th anniversary of the founding of the People's Republic of China, the 105th anniversary of the founding of the Communist Party of China, and the opening year of the National 15th Five-Year Plan.\n\nShe said it was highly significant for Hong Kong's education sector to visit Beijing ahead of National Day, on October 1, and to celebrate the motherland's birthday and experience a jubilant festive atmosphere with people in the capital.\n\nMs Choi highlighted that last week the Hong Kong Special Administrative Region Government announced its First Five-Year Plan, which aligns with the National 15th Five-Year Plan. She outlined that the Hong Kong's education sector faces multiple tasks, including digital education, talent cultivation and the integration of industry and education.\n\nShe said: “The delegation enabled teachers to gain insight into the latest education developments of the country and share experiences with Chinese Mainland teachers in areas such as operation models, curricula and teaching arrangements of schools at all levels.\n\n“It not only broadened their horizons but also fostered exchanges between the education sectors of both places, providing important references for the future development of Hong Kong's education and laying a foundation for deeper collaboration.”\n\nMs Choi and the delegation subsequently attended a banquet hosted by the Ministry of Education, where they engaged in in-depth discussions regarding professional connections and mutual learning between the education sectors of the two places.\n\nMs Choi and the delegation members will conclude their visit and return to Hong Kong tomorrow.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014/images/20260923195636768.jpg",
-      "publishedAt": "2026-09-22T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260923/20260923_190926_014.html"
     }
   ]
 }
