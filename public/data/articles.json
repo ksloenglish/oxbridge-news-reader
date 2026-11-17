@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T04:30:36.609Z",
-  "checkedAt": "2026-11-17T04:30:36.609Z",
+  "generatedAt": "2026-11-17T04:40:32.068Z",
+  "checkedAt": "2026-11-17T04:40:32.068Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rthk-finance",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 13
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "4fdf9001fe1b03ae",
+      "title": "Apec CEO Summit attendance over 2,000, says chair",
+      "excerpt": "More than 2,000 chief executives and representatives will attend the Apec CEO Summit in Shenzhen on Tuesday and Wednesday, summit…",
+      "fullText": "More than 2,000 chief executives and representatives will attend the Apec CEO Summit in Shenzhen on Tuesday and Wednesday, summit chairman Ren Hongbin said.\n\nHe said discussions on the first day of the event would cover seven topics, among which are artificial intelligence, sustainable development, digital economy and development opportunities for the Greater Bay Area and the Asia-Pacific region.\n\n“For a long time now, the business community has actively supported, participated in, and promoted cooperation and development in the Asia-Pacific region,” Ren said.\n\n“By pushing for major development, prosperity and connectivity in the region, it has made Asia-Pacific the most dynamic region in the global economy and a primary engine for growth.”\n\nRen, also chairman of the China Council for the Promotion of International Trade, said President Xi Jinping would attend the summit’s opening ceremony on Wednesday and deliver a speech.\n\nAnother 11 leaders of Apec economies would also attend the summit, he added.\n\nRen expressed hope that summit participants could achieve consensus and cooperation during discussions.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-17T04:22:38.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878098-20261117.htm"
+    },
     {
       "id": "284aac04f8a9a945",
       "title": "Apec talks under way on outcome document: official",
@@ -755,17 +766,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877905-20261115.htm"
     },
     {
-      "id": "03d0865c61904e65",
-      "title": "Megaspeed says Alice Huang left firm last year",
-      "excerpt": "Megaspeed said on Sunday Chinese businesswoman Alice Huang officially left the company on August 30, 2025, and has no current…",
-      "fullText": "Megaspeed said on Sunday Chinese businesswoman Alice Huang officially left the company on August 30, 2025, and has no current role there.\n\nThe Singapore-based cloud-computing company is an Nvidia business partner in the Asia-Pacific region and has been in the spotlight after reports that Jensen Huang, who stepped down as Nvidia CEO last week, had an affair with the former Megaspeed executive Alice Huang, whom US authorities suspect of being a Chinese spy.\n\nChina has dismissed the spying allegations, calling them \"groundless\".\n\n\"Megaspeed does not comment on Ms Huang’s personal and private matters,\" the company's statement said.\n\n\"Megaspeed is aware of recent media reports containing assertions about our business, supply chain and global operations that are not supported by verifiable evidence.\"\n\nThe company said it conducted \"legitimate and lawful business\" and had retained external legal counsel to conduct a thorough internal investigation. It added that its operations and supply chain controls were designed to comply with applicable laws and regulations, including US export-control requirements. (Reuters)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T14:08:31.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877904-20261115.htm"
-    },
-    {
       "id": "89e06d70f6cad437",
       "title": "Australia down NZ to clinch Rugby League World Cup",
       "excerpt": "Slick Australia overpowered New Zealand 32-12 in a pulsating battle on Sunday to lift a fourth consecutive Rugby League World…",
@@ -1085,17 +1085,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877650-20261113.htm"
     },
     {
-      "id": "f11d62e23712ab14",
-      "title": "Bitter pill for rivals as Eli Lilly scores China first",
-      "excerpt": "China has approved its first orally administered GLP-1 weight-loss drug, permitting Eli Lilly to sell its orforglipron pill in a…",
-      "fullText": "China has approved its first orally administered GLP-1 weight-loss drug, permitting Eli Lilly to sell its orforglipron pill in a market where 630 million adults could be overweight or obese by 2050.\n\nGLP-1 drugs aid weight loss by mimicking a natural gut hormone that suppresses appetite and regulates blood sugar levels.\n\nThe medication has soared in popularity in recent years, with drugmakers now competing to release pills as an alternative to existing injection treatments.\n\nThe National Medical Products Administration said on Thursday it had approved US-based pharmaceutical giant Eli Lilly's pills, marketed as \"Muyouda\", to treat obese or overweight adults with at least one weight-related condition.\n\nThe American company's once-daily pills were approved in the United States in April.\n\nIt has beaten competitors such as Danish firm Novo Nordisk – which makes Wegovy – to be the first to gain approval for an oral version of the medicine in China.\n\nGLP-1 injections from Eli Lilly, Novo Nordisk, and domestic firm Innovent are already widely available in the country.\n\nThe Chinese market for weight-loss treatments is growing rapidly.\n\nThe number of obese or overweight adults in China could reach 630 million by 2050, according to a 2025 study published in The Lancet.\n\nThe National Health Commission has warned that 65 percent of China's population will be obese or overweight by 2030. (AFP)\n\nEdited by Aaron Tam",
-      "imageUrl": null,
-      "publishedAt": "2026-11-13T06:48:10.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877688-20261113.htm"
-    },
-    {
       "id": "072b37d1c5de0961",
       "title": "CE hails the SAR's 41 medals at Asian Para Games",
       "excerpt": "Chief Executive John Lee on Friday praised SAR athletes at a homecoming ceremony for the Hong Kong, China delegation, after…",
@@ -1303,17 +1292,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/"
-    },
-    {
-      "id": "337443edb4f327b6",
-      "title": "HK, region take toll as Nvidia fate hangs in balance",
-      "excerpt": "Asian shares and US futures declined on Thursday as concerns over leadership at chipmaker Nvidia weighed on artificial intelligence-related stocks…",
-      "fullText": "Asian shares and US futures declined on Thursday as concerns over leadership at chipmaker Nvidia weighed on artificial intelligence-related stocks.\n\nIn Hong Kong, the benchmark Hang Seng Index closed down 307 points, or 1.3 percent, to 24,008 on turnover of HK$202.65 billion.\n\nThe tech index plunged 95 points, or 2.4 percent, to 3,931 while the China enterprises index fell 114 points, or 1.4 percent, to 8,056.\n\nUp north, the benchmark Shanghai Composite Index ended down 24 points, or 0.67 percent, at 3,655.\n\nThe Shenzhen Component Index fell 191 points, or 1.68 percent, to 11,197 while the ChiNext Index dived 62 points, or 2.44 percent, to 2,509.\n\nIn after-hours trading, Nvidia’s shares fell 8.6 percent after reports said Nvidia’s board was meeting late on Wednesday to discuss the situation surrounding its chief executive, Jensen Huang and his extramarital affairs.\n\nNvidia's shares climbed 2.9 percent on Wednesday.\n\nIts shares have fallen after the company said it was investigating Huang, who has admitted to being unfaithful to his wife.\n\nThe New York Times reported on Wednesday that Huang was involved in a second extramarital affair.\n\nThe tech company's board was preparing to meet as soon as Wednesday to determine Huang's future, according to the Wall Street Journal, which quoted people familiar with the matter.\n\nHuang has built Nvidia to be one of the world's biggest and most important companies, designing advanced chips crucial to the AI buildout that has helped drive stock markets to record highs and boosted economies around the world.\n\n\"Nvidia has spent years convincing investors that it is one of the most important companies in the AI revolution,\" wrote Charu Chanana at Saxo Markets.\n\n\"Now, the biggest question surrounding the company is not about its chips, competitors or earnings. It is about its founder.\"\n\nShe said Huang was key to the firm's future, including dealings with governments.\n\n\"Nvidia's technological advantage would not disappear with his departure,\" she added.\n\n\"Its CUDA software ecosystem, product capabilities and customer relationships remain formidable strengths.\n\n\"But an abrupt exit without a credible succession plan could force investors to reassess how much of Nvidia's future depends on Huang personally.\"\n\nIn Tokyo, the Nikkei reversed early gains to end 429 points, or 0.7 percent, lower at 60,819 amid reports that a potential sacking was in the offing at Nvidia for its founder, Jensen Huang.\n\nThe broader Topix edged up almost eight points, or 0.2 percent, at 3,937.\n\nIn Seoul, the Nvidia reports also took its toll on the Kospi, sending it down 32 points, or 0.61 percent, to 5,342. (Agencies)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-12T09:20:56.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877553-20261112.htm"
     },
     {
       "id": "f40e189e0b86ca8c",
