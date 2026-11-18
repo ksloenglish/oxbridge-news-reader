@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T05:45:17.822Z",
-  "checkedAt": "2026-11-18T05:45:17.822Z",
+  "generatedAt": "2026-11-18T06:00:27.796Z",
+  "checkedAt": "2026-11-18T06:00:27.796Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -368,6 +368,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_220912_742.html"
+    },
+    {
+      "id": "ce5288e98ad38a85",
+      "title": "HK, Vietnam sign co-operation pact",
+      "excerpt": "The Department of Justice (DOJ) of the Hong Kong Special Administrative Region Government today signed a Memorandum of Co-operation with…",
+      "fullText": "The Department of Justice (DOJ) of the Hong Kong Special Administrative Region Government today signed a Memorandum of Co-operation with Vietnam's Ministry of Foreign Affairs to strengthen co-operation on building capacity for the prevention and settlement of international disputes.\n\nSigned by Secretary for Justice Paul Lam and Vietnam's Deputy Minister of Foreign Affairs Le Anh Tuan, the pact provides a framework for Hong Kong and Vietnam to collaborate on building the capacity of legal officers with respect to international disputes in the economic, commercial and investment fields.\n\nIt is expected that the two places will benefit greatly from their enhanced co-operation under the pact.\n\nThe DOJ said the MOC's signing will further consolidate Hong Kong's status as a centre for international legal and dispute resolution services, and help toi strengthen its capacity with regard to international law.\n\nIt added that it will continue to pursue co-operation or partnership arrangements with other jurisdictions and international organisations.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_130248_331/images/20261118133800053.jpg",
+      "publishedAt": "2026-11-17T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_130248_331.html"
     },
     {
       "id": "edc62176f92dad98",
@@ -1061,17 +1072,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261116/20261116_181247_714.html"
-    },
-    {
-      "id": "6b232e029d603c04",
-      "title": "CE to attend APEC meeting in SZ",
-      "excerpt": "Chief Executive John Lee will depart for Shenzhen tomorrow to attend the Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting and…",
-      "fullText": "Chief Executive John Lee will depart for Shenzhen tomorrow to attend the Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting and related events, returning to Hong Kong on Thursday.\n\nThis year marks APEC China, representing the third time the country has hosted the summit. Under the theme \"Building an Asia-Pacific Community to Prosper Together\", the gathering will focus on three priority areas, namely openness, innovation and co-operation.\n\nMr Lee will attend the APEC Economic Leaders' Meeting on Thursday, and the APEC CEO Summit running from tomorrow to Wednesday, including the discussion session and the opening ceremony.\n\nAdditionally, Mr Lee will participate in the welcome banquet for attendees and representatives, while also holding bilateral talks with counterparts from other economies to exchange views on issues of mutual interest and to deepen co-operation.\n\n​Mr Lee noted that APEC member economies are Hong Kong's important trading partners, accounting for as much as 87% of the city's external trade.\n\nHe added that Hong Kong, as one of the world's most competitive economies, has firmly supported free trade and multilateralism and has actively leveraged the APEC platform to deepen international exchanges and co-operation.\n\nThe Chief Executive also remarked that the APEC Finance Ministers' Meeting was successfully hosted in Hong Kong for the first time last month, fully demonstrating the city's unique advantage of connecting the Mainland and the world under the \"one country, two systems\" principle, and contributing the city's strength to the financial co-operation of APEC China.\n\n“The Hong Kong Special Administrative Region Government will continue to strengthen connectivity with various APEC economies, further play Hong Kong's roles as a ‘super connector’ and ‘super value-adder’, and contribute to regional prosperity and development,” he added.\n\n​During Mr Lee's absence, Chief Secretary Chan Kwok-ki will serve as Acting Chief Executive.\n\nSecretary for Commerce & Economic Development Algernon Yau and Director of the Chief Executive's Office Carol Yip will accompany him on the trip.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261116/20261116_120344_688/images/20261116121654976.jpg",
-      "publishedAt": "2026-11-15T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261116/20261116_120344_688.html"
     },
     {
       "id": "7867c5d4467f2f51",
