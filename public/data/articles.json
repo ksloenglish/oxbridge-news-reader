@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T13:15:20.737Z",
-  "checkedAt": "2026-11-18T13:15:20.737Z",
+  "generatedAt": "2026-11-18T13:22:17.511Z",
+  "checkedAt": "2026-11-18T13:22:17.511Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -445,6 +445,17 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/"
+    },
+    {
+      "id": "b060752a678fb71c",
+      "title": "Working holiday scheme signed",
+      "excerpt": "Hong Kong and Chile today signed an agreement to establish a bilateral working holiday scheme for their youth. Secretary for…",
+      "fullText": "Hong Kong and Chile today signed an agreement to establish a bilateral working holiday scheme for their youth.\n\nSecretary for Labour & Welfare Chris Sun and Minister of Foreign Affairs of Chile Francisco Pérez Mackenna signed the agreement on the sidelines of the 33rd Asia-Pacific Economic Cooperation Economic Leaders’ Meeting in Shenzhen. Chief Executive John Lee and President of Chile José Antonio Kast witnessed the signing.\n\nWelcoming the agreement, Mr Sun said: “Chile is Hong Kong’s first working holiday scheme partner in Latin America. The scheme will provide young people from Hong Kong and Chile with opportunities to broaden their horizons and gain first-hand experience of living and working in a different cultural environment.”\n\nMr Pérez Mackenna said: “We are pleased to provide young people from Chile and Hong Kong with new opportunities to experience life in each other’s communities. Hong Kong’s unique blend of Eastern and Western cultures, international outlook and dynamic economy will offer Chilean youth an enriching experience. We also look forward to welcoming young people from Hong Kong to discover Chile’s rich culture, warm hospitality and natural beauty, thereby strengthening mutual understanding and people-to-people ties.”\n\nUnder the agreement, successful applicants can stay for up to 12 months in either Hong Kong or Chile. Participants may take up employment to finance their stay or enrol in short-term courses, subject to an annual quota of 100 places for each side.\n\nThis marks the 15th working holiday scheme Hong Kong has established since 2001. Similar arrangements are already in place with New Zealand, Australia, Ireland, Germany, Japan, Canada, Korea, France, the United Kingdom, Austria, Hungary, Sweden, the Netherlands and Italy.\n\nOver 109,000 Hong Kong youths have benefited from these schemes to date. Details on visa application procedures will soon be available on the websites of the Immigration Department and Chile’s National Migration Service .",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_182002_711/images/20261118201828222.jpg",
+      "publishedAt": "2026-11-17T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_182002_711.html"
     },
     {
       "id": "c042f143244714f0",
@@ -1116,17 +1127,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261116/20261116_181247_714.html"
-    },
-    {
-      "id": "7867c5d4467f2f51",
-      "title": "Housing Authority parking rates up",
-      "excerpt": "The Housing Authority announced today that it will raise monthly car park charges starting January 1, 2027. For private cars…",
-      "fullText": "The Housing Authority announced today that it will raise monthly car park charges starting January 1, 2027.\n\nFor private cars, the new monthly charges will be $1,840 to $2,880 for open parking spaces, and $2,210 to $3,460 for covered ones.\n\nFor light goods vehicles, the monthly rent for an open parking space will be $2,970, while a covered parking space will be $3,770.\n\nMonthly rentals for parking a coach or bus and medium or heavy goods vehicle will be $3,640 in an open space, and $4,750 in a covered one.\n\nWhen parking a motorcycle, motorists can choose to pay $580 per month for an open space, or $750 for a covered space.\n\nMeanwhile, the hourly rates will be raised by $1 for private car, light goods vehicle and motorcycle parking spaces.\n\nAcross all regions, the Day Pass and 24-hour Pass charges for private car parking spaces will be increased by $10 and $15 respectively in 2027.\n\nThe authority stated that market surveys show monthly fees for comparable facilities have generally risen, thus a mild upward adjustment was endorsed to align rates with prevailing market levels and maintain financial stability.\n\nIn addition, the authority will set up a \"Shared Charging Zone\" for monthly parking users in 27 facilities under its pilot scheme starting from January 1 next year. This measure will benefit more users as it allows monthly users with electric vehicle (EV) charging needs to utilise the designated amenities within their respective rental locations.\n\nThe authority noted that EV charging services for hourly parking spaces in these pilot locations will be provided by the operator in a progressive manner. Subject to its prior approval, all fees will be determined by the operator with reference to the prevailing market rate.\n\nFor facilities not covered by the pilot scheme, hourly fees will remain unchanged in the coming year.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261116/20261116_174036_783/images/20261116185340892.jpg",
-      "publishedAt": "2026-11-15T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261116/20261116_174036_783.html"
     },
     {
       "id": "82d83b459164b524",
