@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T04:45:17.924Z",
-  "checkedAt": "2026-11-18T05:15:22.912Z",
+  "generatedAt": "2026-11-18T05:30:20.600Z",
+  "checkedAt": "2026-11-18T05:30:20.600Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 13
     },
     {
       "id": "rthk-world",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 13
     },
     {
       "id": "rthk-finance",
@@ -95,6 +95,17 @@
   ],
   "articles": [
     {
+      "id": "0072db55c25ec39b",
+      "title": "CE encouraged by Xi's Apec speech in Shenzhen",
+      "excerpt": "Chief Executive John Lee said he had been inspired and encouraged by President Xi Jinping's speech at the Apec CEO…",
+      "fullText": "Chief Executive John Lee said he had been inspired and encouraged by President Xi Jinping's speech at the Apec CEO summit in Shenzhen on Wednesday, adding the address had charted a course for the Asia-Pacific community and provided China's response to the challenges of the new era.\n\nIn a Facebook post, Lee cited Xi as saying that the Greater Bay Area economy is marked by distinctive openness and synergy.\n\nHe said Hong Kong can serve as a springboard for global businesses entering the Greater Bay Area and the mainland.\n\nThe government would also continue to use an established task force to help mainland enterprises expand in international markets and better seize bay area opportunities.\n\n\"With the strong backing of the country, let us continue to leverage the strengths of Hong Kong and the bay area, persist in deep integration and common development with all parties through openness, and help the country become a core force leading Asia-Pacific cooperation,\" he wrote.\n\nSeparately, Lee said bilateral trade between Hong Kong and Vietnam grew by 75 percent last year, as he met Vietnam's President To Lam on the sidelines of the summit.\n\n\"I'm glad that since we last met two years ago, trade and people-to-people ties have been growing strongly,\" Lee told the Vietnamese leader.\n\n\"Thanks to your excellent support... I think we have established a very strong foundation for greater growth between our two places.\"\n\nThe Vietnamese leader also commended Hong Kong's socio-economic development, and said the city was an important leading economic, financial and trade hub of the world.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T05:19:43.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878277-20261118.htm"
+    },
+    {
       "id": "ff7dac495a5e87f6",
       "title": "Four lamp models banned for failing energy tests",
       "excerpt": "The Electrical and Mechanical Services Department on Wednesday banned the sales of four compact fluorescent lamp models with immediate effect…",
@@ -153,7 +164,7 @@
       "id": "ad919cb0f891b15a",
       "title": "Xi urges efforts to build a prosperous Asia-Pacific",
       "excerpt": "President Xi Jinping on Wednesday said China is willing to work with all parties to forge ahead with greater confidence…",
-      "fullText": "President Xi Jinping on Wednesday said China is willing to work with all parties to forge ahead with greater confidence and resolve to jointly build an Asia-Pacific community to prosper together.\n\nXi made the remarks in a keynote speech at the Apec CEO Summit 2026 in Shenzhen.\n\nThe president called for maintaining peace and stability – and building a bridge of openness and cooperation – for the Asia-Pacific to prosper together.\n\n\"Stability brings security; security brings prosperity,\" Xi said.\n\n\"The Asia-Pacific economy has maintained a stable and positive trajectory, becoming a key engine of global economic growth thanks to a long-term stable regional environment. The more complex the external situation becomes, the more resolutely we must uphold the post-war international order.\"\n\nHe said the region should support free and open trade and investment, adding that efforts should be made to eliminate trade and investment barriers to foster an open Asia-Pacific economy.\n\n\"History shows that openness brings progress, while isolation inevitably leads to backwardness. We must resolutely uphold the rules-based multilateral trading system with the World Trade Organisation at its core, support free and open trade and investment, and safeguard the stability and smooth functioning of global industrial and supply chains.\"\n\nXi called for efforts to steadily advance the process of the Free Trade Area of the Asia-Pacific.\n\nXi stressed the need to inject momentum into innovation-driven growth, and that efforts should be made to develop sci-tech innovation partnerships, deepen cooperation in the digital economy and artificial intelligence, and promote green and low-carbon transition.\n\nHe called on the region to expand pathways to mutual benefits and win-win outcomes to prosper together.\n\nXi said China supports the establishment of a world association for bay areas economic cooperation, so as to deepen exchanges and interactions among various bay areas and explore new paths of Asia-Pacific economic cooperation.\n\nHe also urged resolving differences through dialogue and consultation, and addressing challenges through solidarity and coordination.\n\nThe president added that China's 15th Five-Year Plan presents a list of opportunities for economic growth of the Asia-Pacific and beyond, describing the development blueprint as an invitation for cooperation extended to the global business community.\n\nChina will provide the global business community with its super-large, open market, broad development prospects, as well as a cooperative environment that promotes mutual progress, he said.\n\nEdited by Edmond Fong",
+      "fullText": "President Xi Jinping on Wednesday said China is willing to work with all parties to forge ahead with greater confidence and resolve to jointly build an Asia-Pacific community to prosper together.\n\nXi made the remarks in a keynote speech at the Apec CEO Summit 2026 in Shenzhen.\n\nThe president called for maintaining peace and stability – and building a bridge of openness and cooperation – for the Asia-Pacific to prosper together.\n\n\"Stability brings security; security brings prosperity,\" Xi said.\n\n\"The Asia-Pacific economy has maintained a stable and positive trajectory, becoming a key engine of global economic growth thanks to a long-term stable regional environment. The more complex the external situation becomes, the more resolutely we must uphold the post-war international order.\"\n\nHe said the region should support free and open trade and investment, adding that efforts should be made to eliminate trade and investment barriers to foster an open Asia-Pacific economy.\n\n\"History shows that openness brings progress, while isolation inevitably leads to backwardness. We must resolutely uphold the rules-based multilateral trading system with the World Trade Organisation at its core, support free and open trade and investment, and safeguard the stability and smooth functioning of global industrial and supply chains.\"\n\nXi called for efforts to steadily advance the process of the Free Trade Area of the Asia-Pacific.\n\nXi stressed the need to inject momentum into innovation-driven growth, and that efforts should be made to develop sci-tech innovation partnerships, deepen cooperation in the digital economy and artificial intelligence, and promote green and low-carbon transition.\n\nHe called on the region to expand pathways to mutual benefits and win-win outcomes to prosper together.\n\nXi said China supports the establishment of a world association for bay areas economic cooperation, so as to deepen exchanges and interactions among various bay areas and explore new paths of Asia-Pacific economic cooperation.\n\n\"The Asia-Pacific region gathers the world's most important bay areas, and that bay area economies have the distinct characteristics of openness, synergy and spillover effects.\"\n\nHe also urged resolving differences through dialogue and consultation, and addressing challenges through solidarity and coordination.\n\nThe president added that China's 15th Five-Year Plan presents a list of opportunities for economic growth of the Asia-Pacific and beyond, describing the development blueprint as an invitation for cooperation extended to the global business community.\n\nChina will provide the global business community with its super-large, open market, broad development prospects, as well as a cooperative environment that promotes mutual progress, he said.\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-11-18T02:59:21.000Z",
       "source": "RTHK English — Greater China",
@@ -667,17 +678,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878069-20261117.htm"
     },
     {
-      "id": "0a51372a7d81b4b8",
-      "title": "British singer Raye leads Grammy nominations with 11",
-      "excerpt": "Soulful British singer-songwriter Raye on Monday topped the Grammy nominations with 11 and Spanish superstar Rosalia earned nine in a…",
-      "fullText": "Soulful British singer-songwriter Raye on Monday topped the Grammy nominations with 11 and Spanish superstar Rosalia earned nine in a strong showing for female artists across the board.\n\nWomen have historically been underrepresented at the Grammy Awards held by the Recording Academy, whose 69th annual gala will take place on February 7 in Los Angeles.\n\nBut recent years have seen women dominate both the industry and the trophies list.\n\nRaye's whopping 11 nominations included the three most prestigious recognising best album, best song and best record for her jazz-inflected blend of pop and R&B.\n\nShe was also recognised for her songwriting for fellow artists with a nomination for the relatively new best songwriter category.\n\nRosalia's nine nominations follow a banner night at last week's Latin Grammys, where her sweeping, avant-garde classical pop album \"Lux\" reigned supreme.\n\nFirst-time nominee Ella Langley, the crooner behind the ubiquitous smash hit \"Choosin' Texas,\" will enter the evening with seven shots at Grammys gold, as will fellow country star Miranda Lambert, who co-wrote that hit and notably scooped a nomination for producer of the year.\n\nPop-rock phenom Olivia Rodrigo also earned seven nods, as did the multifaceted musician Phoebe Bridgers, who released her third solo studio album \"Lost Weekend\" to widespread critical acclaim.\n\nLeon Thomas and Olivia Dean – the English singer behind the smash \"Man I Need\" – earned six nods as did perennial Academy favorite Bruno Mars.\n\nTaylor Swift predictably will be a threat in the top categories for her album \"The Life of a Showgirl\" as well as the song she penned for the latest film in the \"Toy Story\" franchise. She has five chances at winning.\n\nBut for all the heavyweight glory, it also proved a strong Grammys cycle for first-time nominees.\n\nNew York indie rockers Geese capped a breakout year with their first-ever nominations, garnering five.\n\nLangley is a strong favourite for the Best New Artist category, but a crop of performers including Geese as well as brash electropop star Slayyyter and Canadian rock duo Angine de Poitrine could pull upsets.\n\nThe new blood will be joined by stalwarts of the trade who earned nominations including Madonna, Paul McCartney, Bruce Springsteen and The Rolling Stones.\n\nThe 2027 line-up features 100 competitive categories.\n\nThe Grammy Awards will air on the US network ABC and stream on Disney+ and Hulu – the first time in half-a-century that the ceremony won't be broadcast by CBS. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T23:31:31.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878047-20261117.htm"
-    },
-    {
       "id": "ee3c36d14a72e573",
       "title": "Villagers in northern Laos are afraid to use river water after rare-earth pond spill",
       "excerpt": "Government and Chinese-financed mining company say water is safe, but residents are skeptical after animal deaths.",
@@ -953,17 +953,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877977-20261116.htm"
     },
     {
-      "id": "53205b0440c7c478",
-      "title": "Chamber chief urges Apec visitors to see real China",
-      "excerpt": "The chairman of the New Zealand Chamber of Commerce in Hong Kong, David Whitwam, has urged participants at the ongoing…",
-      "fullText": "The chairman of the New Zealand Chamber of Commerce in Hong Kong, David Whitwam, has urged participants at the ongoing Apec meetings in Shenzhen to step outside the conference halls and experience the dramatic changes China has undergone over the past three decades.\n\nThe call came as he warned that Western narratives about the country were stuck some 20 years behind reality.\n\nWhitwam, who has been based in Hong Kong since 1993, made the remarks ahead of the 2026 Apec Economic Leaders' Meeting, which will be held in Shenzhen.\n\nHe said the unprecedented gathering of people is also an opportunity for more people to understand the real China.\n\nDrawing on his own experience, Whitwam recalled arriving in Hong Kong in 1993 and travelling to the mainland, when foreign visitors had to use foreign exchange certificates to buy goods in shops.\n\n\"I've got 300 RMB in my wallet. It's been in there for two years, I haven't used it, because now everything is on WeChat or Alipay,\" he said.\n\n\"In fact, even going to the dentist in Shenzhen, we use Alipay to pay our bills.\n\n\"It's an incredible transition from where we were 30 years ago to where we are now.\"\n\nWhitwam served as chief representative of the New Zealand National Bank's Hong Kong office and, over more than three decades, travelled frequently between Hong Kong and the mainland.\n\nHe said the shift in payment methods is one of the most vivid details of China's development he has witnessed, while the accelerating integration of Shenzhen and Hong Kong is evident in the growing convenience of commuting between the two places.\n\nAfter attending his first Canton Fair as a buyer, Whitwam later founded a consultancy and took up a role with the New Zealand Chamber of Commerce in Hong Kong.\n\nOver the years, he has led multiple New Zealand business delegations to China for trade exhibitions, promoting bilateral trade and witnessing first-hand the role that efficient movement of people and goods plays in driving the economy.\n\nOn New Zealand-China relations, Whitwam noted that his country is probably the smallest partner among the Five Eyes grouping and therefore tends to maintain its own viewpoint on foreign relations.\n\nHe pointed out that New Zealand was the first, or one of the first, countries to establish a free-trade agreement with China, and the first country in the world to have a free-trade agreement with Hong Kong.\n\n\"There are times when New Zealand and China have differences of opinion, but we tend to think that the two countries have a very mature relationship, and therefore when friends have arguments they usually sit down and settle those arguments in a constructive way,\" Whitwam said.\n\nWhitwam stressed the importance of openness to the movement of people.\n\nFrom a New Zealand perspective, he said, people need to travel to China so they understand the market.\n\n\"If you're an exporter, you need to understand the consumer culture, you need to understand the way that supermarkets display their products. It's no good just having your product on a shelf and hoping that people are going to pick it up and take it to the checkout,\" he said.\n\nWhitwam also encourages visitors to explore beyond the boardroom, noting that he visits some of the more extreme, outlying areas of Shenzhen and goes hiking there about once a month.\n\nHe singled out Red Ribbon Walk in the Guangming area, describing it as a spectacular facility where people can walk four kilometres among the treetops.\n\n\"I'd recommend that people get out of their office and go and do a bit of that stuff,\" Whitwam said.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T06:34:57.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877973-20261116.htm"
-    },
-    {
       "id": "4d352436bdd926b5",
       "title": "Lawmaker supports decision to cut short harbour swim",
       "excerpt": "Legislator Vincent Cheng, who took part in Sunday's cross-harbour swim, on Monday said it was appropriate for the organiser to…",
@@ -1006,17 +995,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877950-20261116.htm"
-    },
-    {
-      "id": "1480d3d939a91b2b",
-      "title": "New World shares slump amid rights issue plan",
-      "excerpt": "Shares of New World Development tumbled more than 45 percent at the open of trade on Monday after the property…",
-      "fullText": "Shares of New World Development tumbled more than 45 percent at the open of trade on Monday after the property developer proposed a HK$24.9 billion rights issue plan.\n\nThe plan offers shareholders 11 rights shares for every existing share at HK$0.90 each, representing an 81.5 percent discount to the last closing price of HK$4.87.\n\nNew World Development, the most indebted among its peers in the city, has been trying to cut debt, dispose of assets and bolster liquidity amid tight credit conditions and a weak property market.\n\nShares of New World slumped to HK$2.655 at open, an all-time low since its listing in 1980.\n\nAfter the share fall on Monday, New World's market value shrank to less than HK$8 billion, three times less than the rights issue size.\n\n\"While investors had long been expecting a rights issue... (the) discount is likely to be beyond most investors’ prior expectations,\" investment bank JP Morgan said in a report.\n\nIt expected the rights issue would ease New World's near-term liquidity risk, but the proceeds alone were unlikely to completely eliminate its liquidity stress, with adjusted net gearing still above 70 percent.\n\nControlling shareholder Chow Tai Fook Enterprises (CTFE), which owns about 45.3 percent of the company, has committed to taking up its full entitlement and fully underwrite any unsubsidised shares.\n\nThe maximum CTFE commitment is about HK$18.7 billion.\n\nNew World plans to use about 34 percent of the proceeds to prepay 10 percent of about HK$82 billion in bank loans and extend the maturity of the rest by two years.\n\nIt aims to cut total debt by between HK$40 billion and HK$50 billion by the end of 2031, to stand at between HK$93 billion and HK$103 billion.\n\nA shareholder meeting on January 5 next year will seek approval for the rights issue plan, with a threshhold of than 50 percent set for independent shareholders.\n\nShares of New World resumed trading on Monday after suspension on Friday for the announcement. (Reuters)\n\n_____________________________\nLast updated: 2026-11-16 HKT 11:24\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T02:52:17.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877953-20261116.htm"
     },
     {
       "id": "3bd729d3a8d5e6a4",
