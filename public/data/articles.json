@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T18:45:19.911Z",
-  "checkedAt": "2026-11-18T21:00:29.876Z",
+  "generatedAt": "2026-11-18T21:15:27.868Z",
+  "checkedAt": "2026-11-18T21:15:27.868Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 11
+      "articleCount": 12
     },
     {
       "id": "rthk-finance",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "5f53d1754fac3b66",
+      "title": "Jeffries set to be first black speaker of US House",
+      "excerpt": "Hakeem Jeffries is on the cusp of becoming the first black speaker of the US House of Representatives after Democrats…",
+      "fullText": "Hakeem Jeffries is on the cusp of becoming the first black speaker of the US House of Representatives after Democrats elected him their leader on Wednesday following a sweeping midterm election triumph.\n\nThe 56-year-old New Yorker secured 251 votes in a closed-door, secret ballot, with 11 cast against his nomination, according to US media.\n\nJeffries faced no declared challenger, although opposition from some newly elected progressives had exposed divisions over how Democrats should wield their newfound power.\n\nHis nomination puts him on course to preside over a commanding Democratic majority during the final two years of US President Donald Trump's term, as his party prepares to reverse Republican policies and investigate the administration.\n\nJeffries must still win a formal vote of the full House when the new Congress convenes on January 3, when he would become the first black politician to hold the powerful post. With a large Democratic majority, this is seen as something of a formality.\n\nBoth returning Democrats and incoming lawmakers participated in Wednesday's election, including progressives who had sought concessions on issues ranging from US military support for Israel to the influence of money in politics.\n\nJeffries had requested a recorded vote rather than a nomination \"by acclamation\" – without a formal ballot – as some allies had hoped.\n\nHe argued that every Democrat should have an opportunity to weigh his experience, record and vision, citing the precedent set when the party last took control of the House in 2018.\n\nThe ballot remained secret, with the overall tally made public but individual votes kept anonymous.\n\nAhead of the election, Jeffries met progressive lawmakers to discuss issues including Israel and healthcare, with proposals to lower the Medicare eligibility age and expand coverage among the topics discussed.\n\nThe Democratic leader has also sought to shift attention to the party's plans for governing after voters handed Republicans a crushing defeat amid anger over the Iran war and soaring fuel costs.\n\n\"Folks are drowning in this Republican economy, and House Democrats are committed to turning that situation around, beginning on day one,\" he told reporters on Tuesday.\n\n\"We're going to relentlessly fight for an affordable America.\"\n\nRaised in Brooklyn's working-class Crown Heights neighborhood, Jeffries trained as a lawyer before entering the New York state legislature in 2007 and winning election to Congress in 2012.\n\nKnown for his measured manner, sharp rhetoric and penchant for quoting hip-hop artists, he became the first black politician to lead a party in either chamber of Congress when Democrats chose him to succeed Nancy Pelosi in 2022.\n\nHe also served as a House prosecutor during Trump's first impeachment trial in 2020.\n\nAs speaker, Jeffries would preside over one of Washington's most powerful institutions and stand second in line to the presidency behind the vice president.\n\nBut he would face a formidable task in managing a Democratic coalition spanning centrists and an increasingly assertive left flank.\n\nHis party has promised investigations into Trump and his administration, while lawmakers remain divided over Israel, healthcare and how aggressively to pursue their agenda against a president who retains veto power.\n\nJeffries's nomination contrasts with a more competitive leadership contest among Senate Democrats, where veteran party chief Chuck Schumer faces a challenge from progressive Maryland Senator Chris Van Hollen.\n\nVan Hollen has attracted support from prominent left-wing figures, including Bernie Sanders, but acknowledges he is the underdog. Senate Democrats will elect their leader in early December.\n\nRepublicans chose their own congressional leaders last week, elevating Trump ally Jim Jordan in the House and retaining John Thune in the Senate. (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T20:58:49.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878356-20261119.htm"
+    },
     {
       "id": "8b2a1417a884bc02",
       "title": "Rohingya hope for justice as UN court prepares to rule on Myanmar genocide case",
