@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T09:30:25.476Z",
-  "checkedAt": "2026-11-18T10:00:30.728Z",
+  "generatedAt": "2026-11-18T10:15:21.662Z",
+  "checkedAt": "2026-11-18T10:15:21.662Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -10,7 +10,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 20
+      "articleCount": 19
     },
     {
       "id": "rthk-greater-china",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 14
     },
     {
       "id": "rthk-world",
@@ -95,10 +95,21 @@
   ],
   "articles": [
     {
+      "id": "53951db73f216691",
+      "title": "Local stocks close lower",
+      "excerpt": "Hong Kong's stock market ended lower on Wednesday, with the benchmark Hang Seng Index down 0.91 percent to close at…",
+      "fullText": "Hong Kong's stock market ended lower on Wednesday, with the benchmark Hang Seng Index down 0.91 percent to close at 23,294 points.\n\nThe Hang Seng China Enterprises Index dropped 0.86 percent, and the Hang Seng Tech Index slid 0.58 percent.\n\nOn the mainland, the benchmark Shanghai Composite Index finished up 0.09 percent while the Shenzhen Component Index closed 0.2 percent higher.\n\nIn Japan, Tokyo stocks ended mixed, as stronger-than-expected earnings from US chipmaker Nvidia lifted investor sentiment, while lingering uncertainty over the artificial intelligence sector kept risk appetite in check.\n\nThe Nikkei ended up 163 points, or 0.28 percent, at 59,024.\n\nThe broader Topix index, meanwhile, fell 16 points, or 0.42 percent, to close at 3,824.\n\nJapanese stocks fluctuated throughout the day as investors weighed optimism over Nvidia's latest earnings against persistent concerns about the outlook for AI-related stocks.\n\nNvidia reported record quarterly net profit and revenue, easing concerns over the profitability and sustainability of massive investments in AI infrastructure.\n\nHowever, uncertainty surrounding the company's leadership transition following Jensen Huang's departure, along with concerns over potential AI regulations in the United States, continued to weigh on investor sentiment. (Xinhua)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T09:55:51.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878324-20261118.htm"
+    },
+    {
       "id": "a87e4049b10e95a7",
       "title": "Xi welcomes Trump in Shenzhen",
-      "excerpt": "US President Donald Trump was welcomed by President Xi Jinping as he arrived in Shenzhen on Wednesday afternoon to attend…",
-      "fullText": "US President Donald Trump was welcomed by President Xi Jinping as he arrived in Shenzhen on Wednesday afternoon to attend this year's Apec summit.\n\nXi greeted Trump upon his arrival at Shenzhen Bao'an International Airport.\n\nThis is the third time the two leaders have met this year.\n\nOn Thursday, the leaders of China, Russia and the United States will hold a landmark summit on the Apec sidelines to discuss world peace.\n\nThe wars in Iran and Ukraine as well as nuclear disarmament are expected to be on the agenda.\n\nEdited by Edmond Fong",
+      "excerpt": "US President Donald Trump was welcomed with a hug by President Xi Jinping as he arrived in Shenzhen on Wednesday…",
+      "fullText": "US President Donald Trump was welcomed with a hug by President Xi Jinping as he arrived in Shenzhen on Wednesday afternoon to attend this year's Apec summit.\n\nXi greeted Trump upon his arrival at Shenzhen Bao'an International Airport.\n\nThis is the third time the two leaders have met this year.\n\nOn Thursday, the leaders of China, Russia and the United States will hold a landmark summit on the Apec sidelines to discuss safeguarding world peace.\n\nThe wars in Iran and Ukraine as well as nuclear disarmament are expected to be on the agenda.\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-11-18T09:18:22.000Z",
       "source": "RTHK English — Greater China",
@@ -109,11 +120,11 @@
       "id": "efc65f158c72417e",
       "title": "CE holds bilateral talks at Apec summit",
       "excerpt": "Chief Executive John Lee on Wednesday held a series of meetings on the sidelines of the Apec summit, promoting Hong…",
-      "fullText": "Chief Executive John Lee on Wednesday held a series of meetings on the sidelines of the Apec summit, promoting Hong Kong's role as a gateway to Greater Bay Area and the mainland to regional leaders.\n\nDuring his meeting with Vietnam's President To Lam, Lee said bilateral trade between Hong Kong and Vietnam grew by 75 percent last year.\n\n\"I'm glad that since we last met two years ago, trade and people-to-people ties have been growing strongly,\" Lee told the Vietnamese leader.\n\n\"Thanks to your excellent support... I think we have established a very strong foundation for greater growth between our two places.\"\n\nLee said he briefed Tô Lâm on the latest developments of Hong Kong, including the city's strengths as an international innovation and technology centre as well as development opportunities of the Greater Bay Area.\n\nThe Vietnamese leader commended Hong Kong's socio-economic development, and said the city was an important leading economic, financial and trade hub of the world.\n\nIn a Facebook post, Lee said he also met with Sultan Hassanal Bolkiah of Brunei.\n\nHe said Hong Kong and Brunei enjoy close commercial and people-to-people ties, and that bilateral trade in goods rose 40 percent last year.\n\nLee said Hong Kong's first five-year plan and the Northern Metropolis are injecting strong growth impetus into the city, and he welcomed Bruneian enterprises to seize the opportunities.\n\n\"I hope that Hong Kong can actively play the roles of a 'super connector' and 'super value-adder' to help Bruneian businesses explore business opportunities while connecting mainland enterprises with partners in Brunei, achieving mutually beneficial outcomes,\" he wrote.\n\n\"In addition, I encourage more friends from Brunei to visit Hong Kong to experience our comprehensive Muslim-friendly tourism facilities as well as the unique charm of East-meets-West culture in Hong Kong.\"\n\nDuring his meeting with Thailand's Prime Minister, Anutin Charnvirakul, Lee encouraged Thai enterprises to set up operations in Hong Kong.\n\nHe thanked Thailand for its continued support of Hong Kong's early accession to the Regional Comprehensive Economic Partnership (RCEP).\n\nLee said that Hong Kong would continue to dedicate efforts to deepening bilateral cooperation in areas including trade, finance, and culture, in order to jointly seize new opportunities in regional development.\n\nEdited by Tony Sabine",
+      "fullText": "Chief Executive John Lee on Wednesday held a series of meetings on the sidelines of the Apec summit, promoting Hong Kong's role as a gateway to Greater Bay Area and the mainland to regional leaders.\n\nDuring his meeting with Vietnam's President To Lam, Lee said bilateral trade between Hong Kong and Vietnam grew by 75 percent last year.\n\n\"I'm glad that since we last met two years ago, trade and people-to-people ties have been growing strongly,\" Lee told the Vietnamese leader.\n\n\"Thanks to your excellent support... I think we have established a very strong foundation for greater growth between our two places.\"\n\nLee said he briefed the Vietnamese leader on the latest developments of Hong Kong, including the city's strengths as an international innovation and technology centre as well as development opportunities of the Greater Bay Area.\n\nThe Vietnam president commended Hong Kong's socio-economic development, and said the city was an important leading economic, financial and trade hub of the world.\n\nIn a Facebook post, Lee said he also met with Sultan Hassanal Bolkiah of Brunei.\n\nHe said Hong Kong and Brunei enjoy close commercial and people-to-people ties, and that bilateral trade in goods rose 40 percent last year.\n\nLee said Hong Kong's first five-year plan and the Northern Metropolis are injecting strong growth impetus into the city, and he welcomed Bruneian enterprises to seize the opportunities.\n\n\"I hope that Hong Kong can actively play the roles of a 'super connector' and 'super value-adder' to help Bruneian businesses explore business opportunities while connecting mainland enterprises with partners in Brunei, achieving mutually beneficial outcomes,\" he wrote.\n\n\"In addition, I encourage more friends from Brunei to visit Hong Kong to experience our comprehensive Muslim-friendly tourism facilities as well as the unique charm of East-meets-West culture in Hong Kong.\"\n\nDuring his meeting with Thailand's Prime Minister, Anutin Charnvirakul, Lee encouraged Thai enterprises to set up operations in Hong Kong.\n\nHe thanked Thailand for its continued support of Hong Kong's early accession to the Regional Comprehensive Economic Partnership (RCEP).\n\nLee said that Hong Kong would continue to dedicate efforts to deepening bilateral cooperation in areas including trade, finance, and culture, in order to jointly seize new opportunities in regional development.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-18T09:04:00.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878305-20261118.htm"
     },
     {
@@ -141,8 +152,8 @@
     {
       "id": "e4f3ef4b0249aeef",
       "title": "Xi, Putin meet ahead of historic summit with Trump",
-      "excerpt": "President Xi Jinping and his Russian counterpart Vladimir Putin met in Shenzhen on Wednesday, a day ahead of an historic…",
-      "fullText": "President Xi Jinping and his Russian counterpart Vladimir Putin met in Shenzhen on Wednesday, a day ahead of an historic three-way summit with US leader Donald Trump on the sidelines of the Asia-Pacific Economic Cooperation (Apec) leaders gathering.\n\nWednesday's meeting between Xi and Putin is the fifth time the two men have met this year, including once by video link.\n\nAddressing the Apec gathering earlier on Wednesday, the Russian president said he expected the trilateral summit with Xi and Trump to be \"highly useful\".\n\n\"At a time when military-political risks are on the rise, what is desperately needed is unity rather than division... and dialogue rather than ultimatums,\" Putin said.\n\nHe said Western sanctions imposed on Russia since the beginning of the conflict with Ukraine had failed, arguing that they were \"not capable of fully stopping growth or destroying the economies of the competition\".\n\nChina has said that the three leaders on Thursday would hold \"in-depth exchanges on safeguarding world peace and promoting strategic stability in major-power relations\".\n\nWashington had signalled that Ukraine was not expected to be addressed, before Trump said that it would.\n\nAlso up for discussion are the Iran war and nuclear disarmament, according to US officials, after a US-Russia bilateral treaty on atomic weapons expired in February. (AFP)\n\nEdited by Tony Sabine",
+      "excerpt": "President Xi Jinping said on Wednesday that relations between Beijing and Moscow have brought greater stability and certainty to a…",
+      "fullText": "President Xi Jinping said on Wednesday that relations between Beijing and Moscow have brought greater stability and certainty to a world of turbulence and transformation in a meeting with his Russian counterpart Vladimir Putin in Shenzhen on the sidelines of the Asia-Pacific Economic Cooperation (Apec) leaders gathering.\n\nThe meeting comes a day ahead of an historic three-way summit with US leader Donald Trump.\n\nXi told Putin that China-Russia relations have maintained a long-term perspective, providing greater stability and certainty to a rapidly changing world.\n\n\"Under the firm guidance of Mr. President and myself, China-Russia relations have remained as solid as a mountain, undaunted by wind and rain, while maintaining a long-term perspective and providing greater stability and certainty to an increasingly complex and rapidly changing world,\" he said.\n\nPutin, for his part, said bilateral relations are firmly on track.\n\n“Mutual trade between our countries has surpassed US$200 billion. This is the goal we set for ourselves. And it looks like this year it won’t only be reached once again but will also show a good dynamic. In a complex geopolitical situation we are keeping constructive approaches in forming more just and multipolar world order.\"\n\nWednesday's meeting is the fifth time the two leaders have met this year, including once by video link.\n\nAddressing the Apec CEO Summit earlier in the day, the Russian president said he expected the trilateral summit with Xi and Trump to be \"highly useful\".\n\n\"At a time when military-political risks are on the rise, what is desperately needed is unity rather than division... and dialogue rather than ultimatums,\" Putin said.\n\nHe said Western sanctions imposed on Russia since the beginning of the conflict with Ukraine had failed, arguing that they were \"not capable of fully stopping growth or destroying the economies of the competition\".\n\nChina has said that the three leaders on Thursday would hold \"in-depth exchanges on safeguarding world peace and promoting strategic stability in major-power relations\".\n\nWashington had signalled that Ukraine was not expected to be addressed, before Trump said that it would.\n\nAlso up for discussion are the Iran war and nuclear disarmament, according to US officials, after a US-Russia bilateral treaty on atomic weapons expired in February. (Agencies)\n_____________________________\nLast updated: 2026-11-18 HKT 17:55\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-18T05:39:50.000Z",
       "source": "RTHK English — Greater China",
@@ -1017,17 +1028,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877955-20261116.htm"
-    },
-    {
-      "id": "cc655003a7f6b7a5",
-      "title": "HK stocks up amid regional jitters over US tech crunch",
-      "excerpt": "Asian shares fell on Monday after a whiplash week capped by the shock exit of Jensen Huang as Nvidia chief…",
-      "fullText": "Asian shares fell on Monday after a whiplash week capped by the shock exit of Jensen Huang as Nvidia chief executive, with the chipmaker's earnings and Anthropic's initial public offering this week set to test whether the artificial intelligence-fuelled bull market still has further to run.\n\nIn Hong Kong, the benchmark Hang Seng Index opened up 71 points, or 0.3 percent, at 23,708.\n\nThe China enterprises index rose 27 points, or 0.35 percent, to 7,965 while the tech index climbed 15 points, or 0.41 percent, to 3,828.\n\nThe minutes of the US Federal Reserve's October policy meeting are also due on Wednesday, while a parade of Fed speakers will also be on the bill this week.\n\nMarkets will be alert for any hint of policymakers being receptive to the idea of an outsized 50-basis-point interest rate hike next month.\n\nUp north, the Shanghai Composite Index opened down 22 points, or 0.63 percent, at 3,611.\n\nThe Shenzhen Component Index was 86 points, or 0.79 percent, lower at 10,881 while the ChiNext Index fell 30 points, or 1.26 percent, to 2,395.\n\nIn Tokyo, the Nikkei opened 205 points, or 0.34 percent, higher at 61,348 before going the other way to be 893 points lower at one stage before lunch amid jitters over Nvidia earnings.\n\nIn Seoul, the Kospi inched up 15 points, or 0.28 percent, at 5,305 before, like the Nikkei and for the same reasons, plunging to be 122 points lower at one stage before noon.\n\nThe losses on the tech-heavy Japanese and South Korean benchmarks came as Nvidia, the poster child of a four-year US bull market, has seen its market value tumble from about US$5.8 trillion in early October to US$3.9 trillion as of Friday, LSEG data showed, as investors rushed for the exit after Huang's departure.\n\nAnalysts expect earnings growth of 90 percent on revenue of US$109 billion in Nvidia's fiscal third quarter when its earnings are due on Tuesday, LSEG data showed, with all eyes on whether the chipmaker will stick to its bullish outlook for next year under new management.\n\n\"Options markets imply an earnings-day move of approximately +/-7 percent, yet I question whether the quarterly numbers will carry their usual significance,\" said Chris Weston, head of research at foreign exchange brokerage Pepperstone.\n\n\"Nvidia may well deliver another exceptional beat and raise at tomorrow's earnings, but investors are increasingly trying to value a business in FY2028 and FY2029 potentially without the individual who architected its competitive advantage.\"\n\nThe Financial Times reported Huang had discussed with confidants the possibility of returning as chief executive.\n\nUS Treasury Secretary Scott Bessent said Nvidia needs to \"go outside the company\" for a new CEO.\n\nJust two days after Nvidia's earnings, trading in Claude chatbot creator Anthropic is scheduled to begin, setting up a real-time barometer for sentiment on the AI trade.\n\nThe firm's IPO has drawn more institutional interest than SpaceX, insiders said. (Agencies)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T03:05:06.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877950-20261116.htm"
     },
     {
       "id": "3bd729d3a8d5e6a4",
