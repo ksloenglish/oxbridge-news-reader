@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T13:45:23.040Z",
-  "checkedAt": "2026-11-18T14:30:23.871Z",
+  "generatedAt": "2026-11-18T14:45:18.822Z",
+  "checkedAt": "2026-11-18T14:45:18.822Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 15
     },
     {
       "id": "rthk-world",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "421081905c752335",
+      "title": "\"A Symphony of Lights\" goes out on a high",
+      "excerpt": "The long-running multimedia spectacle that lights up Victoria Harbour every night has drawn to a close, after its last performance…",
+      "fullText": "The long-running multimedia spectacle that lights up Victoria Harbour every night has drawn to a close, after its last performance on Wednesday.\n\nScores of locals and tourists lined the promenade in Tsim Sha Tsui to catch the finale of \"A Symphony of Lights\" at 8pm, with some arriving an hour early to secure a good vantage position.\n\nLight installations at more than 40 buildings along both sides of Victoria Harbour, including Central Plaza, the Convention and Exhibition Centre, as well as One and Two ifc, lit up the skies in the 10-minute show.\n\nFireworks were also launched from several high-rise buildings.\n\nAmong those who turned up was a SAR resident who brought his foreign friends to watch the show.\n\n\"The light show is quite nice; this is spectacular,\" he said. \"But we are quite sad this is the last day.\"\n\nAnother tourist who visited Hong Kong for the first time said she was lucky to catch the show at the last opportunity.\n\nTourism minister Rosanna Law said the added pyrotechnic elements gave the show a perfect ending.\n\n\"In 2005, 'A Symphony of Lights' was recognised by the Guinness World Records as the world's largest permanent light and sound show, and it was among the world's first large-scale light shows performed nightly - showcasing the magnificent night view of Victoria Harbour to countless residents and visitors over the years,\" she said.\n\nLaw spoke at the launch ceremony of Hong Kong WinterFest 2026, which runs through Christmas and the New Year.\n\nAs part of the seven-week festival, light shows would be projected onto iconic building facades in Central and Tsim Sha Tsui between 7pm and 11pm every night.\n\nEdited by Raymond Yeung",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T14:17:05.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878341-20261118.htm"
+    },
     {
       "id": "fcbb3504793dfb1a",
       "title": "The Download: AI learns to smell and hydropower struggles",
@@ -1025,8 +1036,8 @@
       "fullText": "All eyes are on Shenzhen as the city prepares to host the annual Apec summit.\n\nWorld leaders will converge in China's tech hub to discuss a wide range of issues, ranging from economic development to bolstering regional cooperation.\n\nRTHK reporter Hailey Yip and CGTN's Yang Chengxi take a look at what's on the Apec agenda for Tuesday, November 17.",
       "imageUrl": null,
       "publishedAt": "2026-11-16T11:42:39.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878022-20261116.htm"
     },
     {
