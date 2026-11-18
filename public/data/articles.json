@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T00:15:25.201Z",
-  "checkedAt": "2026-11-18T01:30:36.334Z",
+  "generatedAt": "2026-11-18T01:45:25.969Z",
+  "checkedAt": "2026-11-18T01:45:25.969Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "7843f2dd0683c2cd",
+      "title": "'He is James Bond,' Bezos says of Pattinson",
+      "excerpt": "The choice of Robert Pattinson as the new James Bond came just three days before the announcement, Jeff Bezos said…",
+      "fullText": "The choice of Robert Pattinson as the new James Bond came just three days before the announcement, Jeff Bezos said.\n\n“We ran a really tight process and we made the final decision on Friday,” the Amazon founder said, speaking onstage at Semafor's Silicon Valley & The World conference in Menlo Park, California.\n\nBezos offered the most insight yet into the behind-the-scenes process of casting one of the most iconic roles in cinema -- something that's fuelled plenty of speculation over the years, and much discourse since Pattinson's selection was announced on Monday morning.\n\nBezos' comments also indicated that he, as Amazon's executive chairman, was directly involved in the casting. Amazon MGM Studios assumed creative control of the long-running franchise last year, tapping Denis Villeneuve to direct the still-untitled film.\n\nA “big group” of contenders was whittled down to five finallists who performed three scenes each in screen tests, Bezos said.\n\n“We did real, old-fashioned screen tests of those five finallists and it was -- it was really interesting, you know. Full costume, real sets, other actors with them,” he said.\n\nHe didn't disclose the names of the finallists, but actors reportedly considered for the role included Callum Turner, Josh O’Connor, Jack Lowden and Nicholas Hoult.\n\n“Then we got together on Friday to spend a couple of hours looking at all those screen tests and reviewing all that,” Bezos recounted, calling all the performers “extraordinarily talented”.\n\n“By the time we got to this list of five, they were all amazing. But there was something special about Rob and his performances. And it was kind of immediately undebated,” he added.\n\nBut there was one thing working against the 40-year-old Pattinson: They thought he might be too famous. The six previous Bond actors -- Sean Connery, George Lazenby, Roger Moore, Timothy Dalton, Pierce Brosnan and Daniel Craig -- were little-known or drawn primarily from stage and small-screen work before being catapulted into fame as the secret agent.\n\n“We sort of thought maybe we should have somebody a little more unknown,” Bezos said. “But in the screening test, it was so obvious, he is James Bond.” (AP)\n\nEdited by Altis Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T01:29:09.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878234-20261118.htm"
+    },
     {
       "id": "03b964667d4d3836",
       "title": "Springboks coach Erasmus handed six-game ban",
@@ -599,17 +610,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878051-20261117.htm"
-    },
-    {
-      "id": "4e5fd2d6723fb7ec",
-      "title": "US mother to face retrial over children's deaths",
-      "excerpt": "The US mother accused of killing her three children will face a retrial starting March 29, a judge ruled on…",
-      "fullText": "The US mother accused of killing her three children will face a retrial starting March 29, a judge ruled on Monday, after a jury deadlocked in a case that has gripped the nation.\n\nLindsay Clancy, 36, did not deny at her first trial that she strangled her kids Cora, age five, Dawson, three, and Callan, eight months. She claimed she was suffering from postpartum psychosis – which she said excuses her from criminal responsibility.\n\nIn September a jury of nine women and three men failed to reach a unanimous decision, as required in US criminal proceedings, causing a mistrial.\n\nClancy's original trial, which featured more than 80 witnesses and days of distressing testimony, sparked debate in the United States over maternal mental health.\n\nShe pleaded not guilty by reason of insanity and said she heard a voice ordering her to kill her children. Her lawyers said this was caused by postpartum psychosis, a condition that medical experts say affects about one to two women in every 1,000 births.\n\nProsecutors rejected that argument, saying Clancy had carefully planned the murders and was able to understand the consequences of her actions.\n\nAfter the killings at the family home in Duxbury, Massachusetts, in January 2023, Clancy cut her neck and wrists and jumped from a second-story window in an apparent suicide attempt that has left her paralysed from the waist down and confined to a wheelchair.\n\n\"Why don't we put it (retrial) on for March 29,\" when jury selection will begin, said Massachusetts state Judge William Sullivan in a short hearing on Monday.\n\nClancy will return to court on December 30 for a status update in the case, according to a court official.\n\nKevin Reddington, who is defending Clancy, previously asked the judge to enter a not-guilty verdict, essentially dismissing the case after the weeks-long, televised trial that captivated Americans.\n\nInstead, the judge opted for a retrial after a number of hearings at which the prosecution and defence did battle over Clancy's fate.\n\n\"Where is the evidence she did this?\" said Reddington previously. He also cast doubt on Clancy's own admissions that she killed her children. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T23:00:03.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878041-20261117.htm"
     },
     {
       "id": "6998f547f183e0f9",
