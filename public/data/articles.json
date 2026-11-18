@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T08:45:17.599Z",
-  "checkedAt": "2026-11-18T08:45:17.599Z",
+  "generatedAt": "2026-11-18T09:00:28.821Z",
+  "checkedAt": "2026-11-18T09:00:28.821Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -50,7 +50,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 20
     },
     {
       "id": "news-gov-hk-top",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "4f30fc240faffd75",
+      "title": "Doctor 'zoned out' in wrong ovary removal: CUHKMC",
+      "excerpt": "CUHK Medical Centre on Wednesday said a doctor who had mistakenly removed a patient’s ovaries “zoned out” during the operation…",
+      "fullText": "CUHK Medical Centre on Wednesday said a doctor who had mistakenly removed a patient’s ovaries “zoned out” during the operation in September.\n\nThe private hospital’s chief executive officer, Chung Kin-lai, apologised at a press conference, which was held a day after the hospital said in a statement that the doctor was highly focused on executing clinical steps and had \"a temporary collapse of his situational awareness\".\n\nChung said the patient’s operation – laparoscopic hysterectomy and bilateral salpingectomy – had two surgical options, either preserving or removing the ovaries, and the patient had chosen to keep her ovaries.\n\n\"The doctor, for a brief moment, failed to realise the step that should have been taken and was essentially acting on instinct,\" he said.\n\n\"In plain language that the general public can understand, you could basically say the doctor was absent-minded or zoned out, and carried out another option rather than the one chosen by the patient.\"\n\nChung added the doctor had immediately apologised to the patient, who was shocked and disappointed.\n\nBut the patient still chose to trust the doctor and was still attending consultations, he said.\n\nChung also said the doctor involved in the incident was a contract obstetrician-gynecologist who was experienced, well-respected in the sector and had a good reputation among patients.\n\nHe added the doctor had admitted the mistake, and the hospital would impose disciplinary actions according to its human resource policies.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T08:49:42.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878303-20261118.htm"
+    },
     {
       "id": "47961ef7610a87bf",
       "title": "Operator to pay HK$1.3m over parking meter failure",
@@ -992,8 +1003,8 @@
       "fullText": "Legislator Vincent Cheng, who took part in Sunday's cross-harbour swim, on Monday said it was appropriate for the organiser to call off the last race on safety grounds.\n\nAbout 4,000 swimmers signed up to this year's annual race from Wan Chai to Tsim Sha Tsui.\n\nCheng said safety was the top priority and the conditions at the time posed a certain risk and the last-minute cancellation was a responsible decision of the organiser.\n\nHe said the currents were very strong during the final 300 metres to the finish, describing the situation as somewhat dangerous and chaotic.\n\n\"Normally a usual swim is probably maybe about 45 minutes, half an hour, but yesterday I swam for one hour 20 minutes, and I was still at the Avenue of Stars there, so there is also a certain risk there,\" Cheng told an RTHK programme on Monday.\n\nHe suggested that organisers should give participants earlier psychological preparation if they know the currents are strong, and consider extending the overall race time next time.\n\nHe also proposed refunding registration fees to those affected or giving them the opportunity to rejoin next year, as well as reviewing the race procedures and arrangements for better forecasting.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-16T04:32:50.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877963-20261116.htm"
     },
     {
