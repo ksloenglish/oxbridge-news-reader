@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T12:45:18.313Z",
-  "checkedAt": "2026-11-18T12:45:18.313Z",
+  "generatedAt": "2026-11-18T13:00:31.262Z",
+  "checkedAt": "2026-11-18T13:00:31.262Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 14
     },
     {
       "id": "rthk-world",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "35ccf13411027734",
+      "title": "Evening News on TV32 - Nov 18",
+      "excerpt": "Top stories for Wednesday, Nov 18, 2026 - President Xi Jinping calls for efforts to build a prosperous Asia-Pacific. -…",
+      "fullText": "Top stories for Wednesday, Nov 18, 2026\n\n- President Xi Jinping calls for efforts to build a prosperous Asia-Pacific.\n\n- Xi welcomes Donald Trump to Shenzhen and holds a meeting with Vladimir Putin.\n\n- John Lee holds talks with regional leaders on the sidelines of the Apec gatherings.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T12:41:27.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878339-20261118.htm"
+    },
     {
       "id": "f67a0f6485d3556b",
       "title": "RTHK, CGTN present highlights from Apec summit",
@@ -1014,8 +1025,8 @@
       "fullText": "Chief Executive John Lee on Monday said Hong Kong is “the port in a storm” for international ship owners seeking stability amid a complex geopolitical landscape and market volatility.\n\nSpeaking at the opening ceremony of this year’s Hong Kong Maritime Week, he said the SAR stood as the international shipping community's safe harbour, pointing out that the city is home to around 1,200 port and maritime-related companies.\n\nLee called for openness in the global shipping industry and commitment to the rules-based international trading system.\n\n\"Protectionism and fragmentation threaten the global economy,\" he said.\n\n\"A staunch champion of free trade and multilateralism, Hong Kong firmly rejects isolationism.\n\n\"The future of maritime trade depends on keeping shipping lanes open, upholding international maritime law and standards, and promoting unhindered economic cooperation across East and West, South and North.\"\n\nThe SAR government, he stressed, was working towards developing the city from a regional port into a global maritime hub.\n\nLee also said Hong Kong would lead decarbonisation and digitalisation in the shipping industry, with a dedicated task force having been formed to develop a green fuel trading platform.\n\nThe SAR was already building partnerships, Lee said, adding that the city and the Port of Piraeus in Greece would establish a green shipping corridor.\n\n“This landmark collaboration is a significant step forward in driving decarbonisation along major Asian-European shipping routes,” he said.\n\nLee said the city would also sign a memorandum of understanding with Hainan to establish a partner port relationship, and another with Zhanjiang city in Guangdong on a green energy corridor.\n\n“It will reinforce our commitment to end-to-end, low-carbon, green-fuel supply chains, connecting green fuel produced in the Chinese mainland with global maritime markets,” he said.\n\nThese new partnerships with mainland maritime partners showed, Lee said, the close connections within the industry.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-16T08:57:40.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877996-20261116.htm"
     },
     {
