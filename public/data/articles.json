@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T10:45:16.888Z",
-  "checkedAt": "2026-11-18T11:30:23.955Z",
+  "generatedAt": "2026-11-18T11:45:17.579Z",
+  "checkedAt": "2026-11-18T11:45:17.579Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 19
     },
     {
       "id": "rfa-english",
@@ -456,6 +456,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_112520_814.html"
+    },
+    {
+      "id": "fc14833dd3bcd1fe",
+      "title": "Green fuel platform to be developed",
+      "excerpt": "The Transport & Logistics Bureau today announced the establishment of the “Task Group on the Development of the Green Maritime…",
+      "fullText": "The Transport & Logistics Bureau today announced the establishment of the “Task Group on the Development of the Green Maritime Fuel Trading Platform”, a collaboration with industry to advance Hong Kong’s development as a globally oriented, diverse and open green maritime fuel trading centre.\n\nThe bureau said that as an international maritime, financial and trading centre, Hong Hong has the unique advantage of being backed by China and enjoying global connectivity, adding that its financial and legal systems are aligned with international practices.\n\nIt added: “Coupled with the upcoming implementation of the half-rate tax concession for physical trading of eligible commodities, which include green fuels, Hong Kong is well-positioned to establish a market-driven, globally oriented green fuel trading centre, providing a platform that brings together green fuel supplies from the Chinese Mainland and around the world and connects them with demand from the global maritime industry.”\n\nBringing together energy traders, green fuel producers, think tanks, and maritime and energy organisations, to advise on the platform’s development, the task group will explore the establishment of a green fuel price index, based on actual transaction data, to provide reliable pricing references for the industry.\n\nIt will also advise on building a complete industry chain to support green fuel trading, with a view to attracting more stakeholders from the Chinese Mainland and overseas to trade green fuels in Hong Kong.\n\nFounding members of the task group include the Hydrogen Energy Industry Promotion Association, CIMC Enric Holdings Limited, Hong Kong and China Gas Company Limited, TGT Group Limited, the International Green Fuels Alliance, Our Hong Kong Foundation and AEX Holdings, Ltd.\n\nTo drive the establishment of the trading platform, the bureau signed Memoranda of Understanding with multiple partners during Hong Kong Maritime Week. These covered platform development, price index development, solicitation of platform users and industry research.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_172505_770/images/20261118190940423.jpg",
+      "publishedAt": "2026-11-17T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_172505_770.html"
     },
     {
       "id": "54f7ad0b4a0462af",
@@ -1113,8 +1124,8 @@
       "fullText": "Candidates planning to enrol in the Scheme for Admission of Hong Kong Students to Mainland Higher Education Institutions can apply online from December 1 to 31, the Education Bureau said today.\n\nThe number of Chinese Mainland institutions participating in the scheme will increase to 169 for the 2027/28 academic year. Located in 21 provinces or municipalities and two autonomous regions, they will accept applications from candidates taking the Hong Kong Diploma of Secondary Education (HKDSE) Examination in 2027.\n\nThe Education Bureau encourages Hong Kong students to study on the Chinese Mainland via the scheme, thereby seizing opportunities to learn about the country’s social, economic and cultural landscape, and to bolster their own development.\n\nThe bureau said it will continue discussions to enable more renowned Mainland institutions to participate in the scheme, with a view to providing students with multiple higher education pathways and opportunities to connect with the country’s development.\n\nStudents should review their submitted application details online before January 10, 2027, while those providing supplementary information should do so before January 23. Students who pass the application verification process should pay the enrolment fee by January 31.\n\nInstitutions will announce admission results in late July next year. They may also arrange for supplementary enrolment depending on the enrolment situation.",
       "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261116/20261116_131421_792/images/20261116145800291.jpg",
       "publishedAt": "2026-11-15T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261116/20261116_131421_792.html"
     },
     {
