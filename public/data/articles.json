@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T11:45:17.579Z",
-  "checkedAt": "2026-11-18T12:30:24.345Z",
+  "generatedAt": "2026-11-18T12:45:18.313Z",
+  "checkedAt": "2026-11-18T12:45:18.313Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "f67a0f6485d3556b",
+      "title": "RTHK, CGTN present highlights from Apec summit",
+      "excerpt": "RTHK and CGTN are joining hands in covering the Apec summit in Shenzhen. RTHK's Hailey Yip and her CGTN counterpart…",
+      "fullText": "RTHK and CGTN are joining hands in covering the Apec summit in Shenzhen.\n\nRTHK's Hailey Yip and her CGTN counterpart Zhao Yunfei give us the key takeaways from President Xi Jinping's keynote address, and Chief Executive John Lee's bilateral meetings with several Apec member economies on the sidelines of the gatherings.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T12:34:52.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878338-20261118.htm"
+    },
     {
       "id": "c08d2bf5cfc43826",
       "title": "This smell startup says its AI nose is as good as a human’s",
@@ -1006,17 +1017,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877996-20261116.htm"
-    },
-    {
-      "id": "a3153d48cea7606c",
-      "title": "John Lee heads to Shenzhen for Apec summit",
-      "excerpt": "Chief Executive John Lee will travel to Shenzhen on Tuesday to attend the Apec summit, where he will seek to…",
-      "fullText": "Chief Executive John Lee will travel to Shenzhen on Tuesday to attend the Apec summit, where he will seek to deepen the city’s cooperation with Asia-Pacific economies.\n\nLee is due to take part in the Apec Economic Leaders’ Meeting on November 19.\n\nHe will also attend the Apec CEO Summit, which runs from Tuesday to November 18, and includes an opening ceremony and a discussion session.\n\nIn addition, he will join a welcome banquet for visiting leaders and representatives and hold bilateral talks with counterparts from other economies on shared interests and ways to expand cooperation.\n\nLee said Apec economies are key trading partners for Hong Kong, making up about 87 percent of the city’s external trade.\n\n\"Hong Kong, as one of the world’s most competitive economies, has firmly supported free trade and multilateralism and actively leveraged the Apec platform to deepen international exchanges and cooperation,\" he said in a statement.\n\nHe also said last month’s Apec Finance Ministers’ Meeting, held in Hong Kong for the first time, showed how the city could act as a bridge between the mainland and the rest of the world under \"One Country, Two Systems”.\n\nThe SAR government, he added, would keep strengthening ties with Apec economies and promoting Hong Kong’s roles as a \"super connector\" and \"super value-adder\".\n\nLee will be accompanied by Secretary for Commerce and Economic Development Algernon Yau and Director of the Chief Executive’s Office Carol Yip.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T07:58:27.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877997-20261116.htm"
     },
     {
       "id": "4d352436bdd926b5",
