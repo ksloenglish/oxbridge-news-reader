@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T04:30:24.699Z",
-  "checkedAt": "2026-11-18T04:35:01.487Z",
+  "generatedAt": "2026-11-18T04:45:17.924Z",
+  "checkedAt": "2026-11-18T04:45:17.924Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "ff7dac495a5e87f6",
+      "title": "Four lamp models banned for failing energy tests",
+      "excerpt": "The Electrical and Mechanical Services Department on Wednesday banned the sales of four compact fluorescent lamp models with immediate effect…",
+      "fullText": "The Electrical and Mechanical Services Department on Wednesday banned the sales of four compact fluorescent lamp models with immediate effect.\n\nThe four models were imported by Beauty Shadow Co Ltd and are sold under the Sunshine brand.\n\n\"Supply of such products is no longer allowed in Hong Kong with immediate effect,\" the department said.\n\nIt said the products concerned failed to reach the relevant energy efficiency and/or performance characteristics.\n\nThe department has served notices on the importer under the Energy Efficiency (Labelling of Products) Ordinance.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T04:40:07.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878274-20261118.htm"
+    },
     {
       "id": "5557f762a229b9d7",
       "title": "'HK has key role in keeping global shipping stable'",
@@ -1105,17 +1116,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877903-20261115.htm"
-    },
-    {
-      "id": "bb24d7b2b7378ea3",
-      "title": "Evening News on TV32 - Nov 15",
-      "excerpt": "Top stories for Sunday, Nov 15, 2026 - Strong currents prevent hundreds from joining the Victoria Harbour Race. - An…",
-      "fullText": "Top stories for Sunday, Nov 15, 2026\n\n- Strong currents prevent hundreds from joining the Victoria Harbour Race.\n\n- An elderly woman is killed in a flat fire in Wong Tai Sin.\n\n- Shenzhen residents prepare to welcome world leaders for an Apec meeting.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T12:25:58.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877896-20261115.htm"
     },
     {
       "id": "bddda14b77075200",
