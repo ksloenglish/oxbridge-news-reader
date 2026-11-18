@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T03:00:39.218Z",
-  "checkedAt": "2026-11-18T03:00:39.218Z",
+  "generatedAt": "2026-11-18T03:15:31.020Z",
+  "checkedAt": "2026-11-18T03:15:31.020Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 15
     },
     {
       "id": "rthk-world",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 14
     },
     {
       "id": "rthk-finance",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 10
+      "articleCount": 9
     },
     {
       "id": "rthk-sport",
@@ -95,6 +95,17 @@
   ],
   "articles": [
     {
+      "id": "ad919cb0f891b15a",
+      "title": "Xi urges efforts to build a prosperous Asia-Pacific",
+      "excerpt": "President Xi Jinping on Wednesday said China is willing to work with all parties to forge ahead with greater confidence…",
+      "fullText": "President Xi Jinping on Wednesday said China is willing to work with all parties to forge ahead with greater confidence and resolve to jointly build an Asia-Pacific community to prosper together.\n\nXi made the remarks in a keynote speech at the Apec CEO Summit 2026 in Shenzhen.\n\nThe president called for maintaining peace and stability – and building a bridge of openness and cooperation – for the Asia-Pacific to prosper together.\n\nHe said the region should support free and open trade and investment, while keeping the global industrial and supply chains stable and smooth.\n\nXi also called for efforts to steadily advance the process of the Free Trade Area of the Asia-Pacific.\n\nHe called for efforts to inject momentum into innovation-driven growth for the Asia-Pacific to prosper together, and that efforts should be made to develop sci-tech innovation partnerships, deepen cooperation in the digital economy and artificial intelligence, and promote green and low-carbon transition.\n\nXi called on the region to expand pathways to mutual benefits and win-win outcomes to prosper together.\n\nHe said efforts should be made to eliminate trade and investment barriers to foster an open Asia-Pacific economy, while promoting inclusive and balanced development to ensure both efficiency and fairness.\n\nHe urged all parties in the region to \"firmly uphold the post-World War II international order.\"\n\nXi also urged resolving differences through dialogue and consultation, and addressing challenges through solidarity and coordination.\n\nThe president added that China's 15th Five-Year Plan presents a list of opportunities for economic growth of the Asia-Pacific and beyond, describing the development blueprint as an invitation for cooperation extended to the global business community.\n\nChina will provide the global business community with its super-large, open market, broad development prospects, as well as a cooperative environment that promotes mutual progress, he said.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T02:59:21.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878255-20261118.htm"
+    },
+    {
       "id": "6d0171908da4d833",
       "title": "Pochettino ends USA tenure, heads to Manchester",
       "excerpt": "Mauricio Pochettino's reign as United States coach ended with a simple 2-0 win over Haiti on Tuesday, sent off in…",
@@ -109,7 +120,7 @@
       "id": "d986d3afb786b694",
       "title": "Signal fault disrupts Island Line services",
       "excerpt": "The MTR said on Wednesday services on the Island Line have been disrupted because of a signal equipment fault near…",
-      "fullText": "The MTR said on Wednesday services on the Island Line have been disrupted because of a signal equipment fault near the HKU station.\n\nThe railway operator said trains passing through the section must slow down, and overall journey times are expected to take an extra five to eight minutes.\n\nIt urged passengers to allow ample time for their journeys.\n\nEdited by Nazvi Careem",
+      "fullText": "The MTR said on Wednesday services on the Island Line have been disrupted because of a signal equipment fault near the HKU station.\n\nThe railway operator said trains passing through the section must slow down, and overall journey times are expected to take an extra five to eight minutes.\n\nIt urged passengers to allow ample time for their journeys.\n\nThe MTR said service gradually resumed to normal at around 10.30am, about two hours after the incident was reported.\n\nEdited by Nazvi Careem\n_____________________________\nLast updated: 2026-11-18 HKT 10:56",
       "imageUrl": null,
       "publishedAt": "2026-11-18T01:41:57.000Z",
       "source": "RTHK English — Local",
@@ -623,17 +634,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878045-20261117.htm"
     },
     {
-      "id": "167dae9ae1a53061",
-      "title": "Pope Leo wraps up South America homecoming tour",
-      "excerpt": "Pope Leo ended a 12-day homecoming tour of South America on Monday that eased doubts about his recovery from cancer…",
-      "fullText": "Pope Leo ended a 12-day homecoming tour of South America on Monday that eased doubts about his recovery from cancer surgery and highlighted the social justice priorities shaping his papacy.\n\nThe 71-year-old pontiff travelled through Uruguay, Argentina and Peru – a demanding itinerary many doubted he could complete a month after lung surgery.\n\nFrom the high Andes to the sweltering Amazon, US-born Leo criss-crossed a continent where he spent nearly two decades as a missionary, picking up Peruvian citizenship along the way.\n\nVisiting care homes and prisons, the leader of the world's 1.4 billion Catholics browbeat political leaders like Argentina's Javier Milei, insisting economic growth must benefit all, and speaking in defence of the poor, the elderly and disabled people.\n\nCapping the trip in Lima, Leo gave a mass attended by 1.5 million people, according to the Vatican.\n\nAs he arrived to the event atop the pope-mobile, he was struck in the eye by a devotional bracelet thrown from the crowd. But it did not seem to alter his good humour.\n\n\"My journey is coming to an end, but the time for mission continues\" he said. \"Yes, the Peruvian people are my people too!\"\n\nPulling it off has proved Leo's \"incredible strength and determination\" said Vatican expert Elise Ann Allen, who has written a biography of Chicago-born Leo.\n\n\"We're also seeing the missionary pope in a way that we've never seen him before,\" she said.\n\nIn wealthy, secular Uruguay, the pontiff ventured into the most dangerous neighbourhood in the capital Montevideo to highlight the deaths of children caught up in drug violence.\n\nHe urged greater solidarity with the lonely and suffering, describing the country's high suicide rates as \"painful\" and demanding greater respect for women, a theme that would return throughout his trip.\n\nIn Argentina, Leo drew more than two million people to masses in both Buenos Aires and nearby Lujan – the biggest of his papacy to date.\n\nHe was welcomed by weeping pilgrims who had long waited in vain for his Argentine predecessor, Francis, to return.\n\nBut it was his return to Peru, and the areas he served as Bishop Robert Francis Prevost, that was the emotional highlight of the trip for Leo.\n\nThree million people lined the streets to welcome him in Lima.\n\nHe told them they had formed him as a pastor, saying: \"Today I understand how much of this land remains with me and how much of my own story also belongs to you.\"\n\nFrom the baking desert to the Andes, crowds chanted \"The pope is Peruvian,\" and old friends welcomed him home.\n\nHe met victims of clerical abuse in Argentina and Peru, including some linked to the once-powerful and now-disbanded Catholic society, Sodalitium Christianae Vitae.\n\nIn Peru, he spoke of the \"pain\" caused by Catholic clerical abuse and said the Church must make \"amends\" to victims and foster \"a culture of prevention and protection.\"\n\nThe most physically taxing part of the trip took him from the desert to high-altitude Cusco, the heartland of the Inca Empire, and then down to the hot and humid Amazon basin.\n\nIn Pucallpa, he said environmental destruction was threatening both the rainforest and the people who depend on it, and denounced the unacceptable neglect suffered by many Indigenous communities.\n\n\"The cry of the earth and the cry of the poor are inseparable,\" he said. \"The blood of these brothers cries out to God and demands justice.\"\n\nThe pope's cancer diagnosis fewer than 18 months into his papacy shook the Catholic Church, and this trip – one of the most gruelling in decades – has been closely watched as a barometer of how his papacy may be affected.\n\nAs if in response to doubters, Leo said neither old age nor ill health could \"extinguish\" his religious zeal.\n\nReturning to Latin America has allowed him to \"get back in touch with the roots of who he is,\" biographer Allen said. \"I think it's going to awaken something in him.\"\n\n\"I think we're seeing a new chapter of Pope Leo's papacy begin,\" she said. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T23:03:26.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878051-20261117.htm"
-    },
-    {
       "id": "6998f547f183e0f9",
       "title": "Wall St down ahead of Nvidia results, Anthropic IPO",
       "excerpt": "A broad selloff dragged US stocks lower on Monday as fallout from Jensen Huang's resignation as Nvidia CEO soured enthusiasm…",
@@ -1083,17 +1083,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877903-20261115.htm"
-    },
-    {
-      "id": "9e97e189dbaac558",
-      "title": "New World Development unveils plan to raise HK$24.9b",
-      "excerpt": "Property developer New World Development on Sunday proposed a rights issue to raise about HK$24.9 billion, a company filing showed…",
-      "fullText": "Property developer New World Development on Sunday proposed a rights issue to raise about HK$24.9 billion, a company filing showed.\n\nThe plan offers shareholders 11 rights shares for every existing share at HK$0.90 each, representing a 26.9 percent discount to the theoretical ex-rights price of HK$1.23 per share.\n\nThe subscription price also represents an 81.5 percent discount to the last closing price of HK$4.87.\n\nThe company plans to use about 34 percent percent of the proceeds to prepay 10 percent of about HK$82 billion in bank loans and extend the maturity of the remaining 90 percent by two years.\n\nIt plans to use another third to repay debt including senior notes and deferred distribution of its perpetual securities.\n\nAfter the rights issue, New World's net debt to total equity ratio will drop to 48.3 percent from 68.3 percent.\n\nControlling shareholder Chow Tai Fook Enterprises (CTFE), which owns about 45.3 percent of the company, has committed to take up its full entitlement, while the remaining shares will be fully underwritten.\n\nThe maximum CTFE commitment is about HK$18.7 billion.\n\nNew World Development's shares will resume trading on Monday after being suspended on Friday pending the announcement.\n\nThe company has been trying to cut debt, dispose of assets and bolster liquidity amid tight credit conditions and a weak property market. (Reuters)\n_____________________________\nLast updated: 2026-11-15 HKT 21:47\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-15T13:01:12.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877902-20261115.htm"
     },
     {
       "id": "bb24d7b2b7378ea3",
