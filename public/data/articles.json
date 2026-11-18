@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T05:30:20.600Z",
-  "checkedAt": "2026-11-18T05:30:20.600Z",
+  "generatedAt": "2026-11-18T05:45:17.822Z",
+  "checkedAt": "2026-11-18T05:45:17.822Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 12
     },
     {
       "id": "rthk-finance",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 9
+      "articleCount": 10
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "e4f3ef4b0249aeef",
+      "title": "Xi, Putin meet ahead of historic summit with Trump",
+      "excerpt": "President Xi Jinping and his Russian counterpart Vladimir Putin met in Shenzhen on Wednesday, a day ahead of an historic…",
+      "fullText": "President Xi Jinping and his Russian counterpart Vladimir Putin met in Shenzhen on Wednesday, a day ahead of an historic three-way summit with US leader Donald Trump on the sidelines of the Asia-Pacific Economic Cooperation (Apec) leaders gathering.\n\nWednesday's meeting between Xi and Putin is the fifth time the two men have met this year, including once by video link.\n\nAddressing the Apec gathering earlier on Wednesday, the Russian president said he expected the trilateral summit with Xi and Trump to be \"highly useful\".\n\n\"At a time when military-political risks are on the rise, what is desperately needed is unity rather than division... and dialogue rather than ultimatums,\" Putin said.\n\nHe said Western sanctions imposed on Russia since the beginning of the conflict with Ukraine had failed, arguing that they were \"not capable of fully stopping growth or destroying the economies of the competition\".\n\nChina has said that the three leaders on Thursday would hold \"in-depth exchanges on safeguarding world peace and promoting strategic stability in major-power relations\".\n\nWashington had signalled that Ukraine was not expected to be addressed, before Trump said that it would.\n\nAlso up for discussion are the Iran war and nuclear disarmament, according to US officials, after a US-Russia bilateral treaty on atomic weapons expired in February. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T05:39:50.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878287-20261118.htm"
+    },
     {
       "id": "0072db55c25ec39b",
       "title": "CE encouraged by Xi's Apec speech in Shenzhen",
@@ -357,6 +368,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_220912_742.html"
+    },
+    {
+      "id": "edc62176f92dad98",
+      "title": "Four lamp models banned",
+      "excerpt": "The Electrical & Mechanical Services Department today announced a ban on the supply of four compact fluorescent lamp models that…",
+      "fullText": "The Electrical & Mechanical Services Department today announced a ban on the supply of four compact fluorescent lamp models that failed to reach its energy efficiency and/or performance specifications.\n\nImported by Beauty Shadow Co Ltd, the four products are sold under the Sunshine brand with the following model numbers: S-24A 23W B22 2700K, S-24A 23W E27 2700K, S-16A 12W E14 6400K, S-16A 12W E27 6400K.\n\nThe department has removed the lamps from the record of listed models under the Energy Efficiency (Labelling of Products) Ordinance. Supplying such products is no longer allowed in Hong Kong, with immediate effect.\n\nNotices have been served to the importer, which will publish newspaper notices announcing supply of the products has been terminated.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_112520_814/images/20261118132213112.jpg",
+      "publishedAt": "2026-11-17T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_112520_814.html"
     },
     {
       "id": "54f7ad0b4a0462af",
@@ -673,8 +695,8 @@
       "fullText": "United Airlines on Monday said that it had resolved a technology issue that delayed departing flights, just days after a malfunction in the Federal Aviation Administration’s network prompted a nationwide ground stop in the United States.\n\nChicago-based United said in a statement that while some flights were delayed because of the issue on Monday afternoon, flights that were in the air and flights on its United Express regional network were not affected. The airlines also said there was “no indication that this was a cybersecurity-related issue.”\n\nUnited apologised to customers for the inconvenience on social media. It resolved the issue about 1.5 hours after pilots first began reporting problems to air traffic controllers.\n\nUnited did not immediately provide details about which of the airlines systems were affected, but pilots told air traffic controllers that the problem was related to United’s system that helps them determine a plane's final weight to ensure it can safely take off.\n\nA recording posted on the ATC app showed a United pilot in Houston asking the tower for permission to stay put at the gate until the system was working again. The app combines live air traffic control radio feeds with real-time visual aircraft tracking.\n\nThe flight tracking website FlightAware showed United with 418 delayed flights late Monday afternoon.\n\nThe United computer problem is just the latest high-profile technology meltdown in recent days.\n\nEarlier on Monday, thousands of people reported being unable to access their online accounts at several major US banks after JPMorgan Chase had a technical problem.\n\nOn Friday, the FAA ordered every flight grounded because a new router that was installed malfunctioned and overwhelmed the ageing air traffic control system.\n\nAnd one day earlier, Microsoft experienced a major disruption to its Outlook email service. Microsoft said on Saturday that services were fully restored. (AP)\n\nEdited by Cecil Wong",
       "imageUrl": null,
       "publishedAt": "2026-11-16T23:43:05.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878069-20261117.htm"
     },
     {
@@ -931,17 +953,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877997-20261116.htm"
     },
     {
-      "id": "8d0ee51dee8eafa4",
-      "title": "Shenzhen steps up security for Apec summit",
-      "excerpt": "Shenzhen has tightened security ahead of this week's Apec forum, where President Xi Jinping is due to hold, in a…",
-      "fullText": "Shenzhen has tightened security ahead of this week's Apec forum, where President Xi Jinping is due to hold, in a first, talks with his US and Russian counterparts Donald Trump and Vladimir Putin this week.\n\nThe summit has seen Shenzhen embark on restrictions on the use of drones and other low-flying objects, including balloons, kites and sky lanterns, across Futian and Nanshan districts from November 7, with the move since extended into a citywide ban since November 11 and ending on November 22.\n\nAt subway stations, commuters now have to put all their bags through scanners and stricter checks before being allowed on the platforms.\n\nMail and parcels are also subject to heightened scrutiny, with all items destined for the city now having to undergo X-ray screening or other necessary inspections.\n\nAuthorities have introduced stricter traffic controls, with private cars bearing licence plates registered outside Shenzhen banned from six core districts between 6am and 10pm daily from Tuesday until Friday.\n\nGoods vehicles face varying restrictions when entering designated zones and roads over the same period, while dangerous goods transportation within the city is completely banned all day until Friday.\n\nVehicles from Hong Kong and Macao that are permitted on the mainland are, however, exempt.\n\nA Shenzhen resident said he was proud to see the city host the premier Apec event, adding that the heightened security measures were not a hindrance at all.\n\n\"I feel very honoured. Shenzhen is a young, developing city, so being able to host such a global event is a real honour,\" he said.\n\n“Security checks on our subway have been strict for many years. We are simply showing an abundance of caution in case troublemakers try to bring in knives or other dangerous items.\"\n\nAnother resident, Berry, said he was excited about the summit.\n\n\"We are very excited because Trump and Putin will be coming to Shenzhen,\" he said.\n\n\"Shenzhen is becoming more and more open, and we welcome them here. You know, with the high buildings, the technology, and the AI in Shenzhen, we are very proud of Shenzhen.\"\n\nMeanwhile, Ian, who came from Hong Kong, said immigration clearances at Huanggang port at the time he was making his crossing felt, as usual, smooth and convenient.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T07:42:56.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877991-20261116.htm"
-    },
-    {
       "id": "a3899fa91c623db7",
       "title": "Family care leave impact on operations 'to be minimal'",
       "excerpt": "The new 12 hours of family care leave for government employees per year will have minimal impact on manpower deployment…",
@@ -1138,17 +1149,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/korea/2026/11/14/north-korea-china-dispatched-workers/"
-    },
-    {
-      "id": "cb884f084465f538",
-      "title": "Safeguarding HK’s marine treasures",
-      "excerpt": "Every morning before opening, Ocean Park staff tend to the coral display near the entrance of the Grand Aquarium –…",
-      "fullText": "Every morning before opening, Ocean Park staff tend to the coral display near the entrance of the Grand Aquarium – brushing algae off coral fragments, moving them to better positions and feeding them with care.\n\nThese corals were formerly in the sea, where they faced threats such as bleaching, caused by higher ocean temperatures, and human activity. At Ocean Park they are being rehabilitated, and also serve as a living teaching aid for marine conservation.\n\nThe tanks are fitted with lighting and filtration systems specially designed for corals, and fish can be seen swimming inside. Accompanied by educational panels and videos, they draw visitors to linger and watch. From Wednesday to Friday at designated times, interactive guided sessions are provided on coral care, biodiversity and restoration work.\n\nCoral conservation\nAwarded a grant of more than $3.5 million from the Environment & Conservation Fund (ECF), Ocean Park launched the exhibition earlier this year. Showcasing 12 species of hard and soft corals found in Hong Kong waters, it has attracted more than a million visitors to date.\n\nThe funding also covered renovations to other facilities at the aquarium and the establishment of the Coral Ecology & Conservation Discovery Centre, now a key venue for coral rehabilitation and public education.\n\n“This project combines coral conservation, public awareness and education,” said Ocean Park Lead Conservation Manager Ashley Kwok.\n\nMs Kwok explained that the park works closely with Chinese University of Hong Kong (CUHK) School of Life Sciences Assistant Professor Apple Chui and the Coral Academy founded by her. CUHK provides coral fragments collected in Hong Kong waters and professional advice on local coral cultivation, while Ocean Park provides the facilities to ensure quality care.\n\nImmersive learning\nThe discovery centre, located in the back-of-house area of the Grand Aquarium, is equipped with professional coral care facilities and runs STEAM (science, technology, engineering, arts and mathematics) workshops and public guided tours.\n\nOn a recent visit, a group of primary school pupils took part in an on-site workshop, gaining an immersive introduction to coral restoration and other aspects of marine conservation.\n\n“Are corals animals?” a coral care worker asked. The children eagerly raised their hands to answer “yes”, as they touched coral specimens under guidance and learned about what is needed to set up a cultivation tank.\n\nJit So, who is in Primary Six, drew a picture with his classmates showing how different coral species are placed in various positions in a tank according to their habits and requirements, which involve aspects such as shading needs and water flow strength, so that they can grow well.\n\nJarvis Ng, from Primary Four, said he had seen corals while snorkelling before but had not known previously that coral polyps live inside corals and feed on plankton. He also put on virtual reality glasses to glimpse a coral habitat, saying it really felt like being underwater.\n\nOcean Park says the workshops, launched just a month ago, have already engaged more than 100 pupils, while the guided visits have involved over 1,600 participants.\n\nThe park also plans to run a teacher training programme in the first half of next year so that primary school teachers can bring conservation knowledge back to the classroom.\n\nCoral fragments that have been cultivated and restored to health will be transplanted back to southern Hong Kong waters to rebuild coral communities and enrich the marine ecology of restoration sites.\n\nGreen transition\nECF Committee Chairman Eric Cheng said the coral project showcases innovative local restoration techniques, promotes environmental awareness and encourages people to take action to protect the environment.\n\n“When corals can live healthily, it also indirectly proves that Hong Kong has excellent water quality and that the natural environment is well protected,” he remarked.\n\nMr Cheng outlined that the ECF has funded more than 7,200 environmental projects and activities over its 32-year history, disbursing a total of over $4.7 billion in funding. He added that many of the projects are closely related to people’s daily lives, covering areas such as waste reduction at source, recycling, biodiversity, carbon neutrality, low-carbon living, clean shorelines and clean air.\n\nCiting food waste pre-treatment system projects as an example, he said the ECF had approved about $73 million as of September to fund about 25 premises, including private housing estates and universities, in adopting the locally developed “Food TranSmarter” system.\n\nThe technology converts food waste into slurry, which is then sealed and sent to government central treatment facilities, reducing door-to-door collections to once or twice a week and significantly lowering carbon emissions and total costs. The projects also encourage different sectors to actively participate in food waste recycling.\n\nMr Cheng remarked that in future the ECF will steer its approvals towards local and national green transition initiatives, in particular the Hong Kong Climate Action Plan 2050 and the development of the Northern Metropolis. He said the ECF fully supports the Government’s policy direction and welcomes applications from eligible local organisations for funding related to environmental protection and nature conservation.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_155519_467/images/20261113171424444.jpeg",
-      "publishedAt": "2026-11-14T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261113/20261113_155519_467.html"
     },
     {
       "id": "fd23d89efa932188",
