@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T07:45:17.552Z",
-  "checkedAt": "2026-11-18T08:15:19.003Z",
+  "generatedAt": "2026-11-18T08:30:22.316Z",
+  "checkedAt": "2026-11-18T08:30:22.316Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 12
     },
     {
       "id": "rthk-world",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 13
     },
     {
       "id": "rthk-finance",
@@ -178,8 +178,8 @@
       "fullText": "President Xi Jinping on Wednesday said China is willing to work with all parties to forge ahead with greater confidence and resolve to jointly build an Asia-Pacific community to prosper together.\n\nXi made the remarks in a keynote speech at the Apec CEO Summit 2026 in Shenzhen.\n\nThe president called for maintaining peace and stability – and building a bridge of openness and cooperation – for the Asia-Pacific to prosper together.\n\n\"Stability brings security; security brings prosperity,\" Xi said.\n\n\"The Asia-Pacific economy has maintained a stable and positive trajectory, becoming a key engine of global economic growth thanks to a long-term stable regional environment. The more complex the external situation becomes, the more resolutely we must uphold the post-war international order.\"\n\nHe said the region should support free and open trade and investment, adding that efforts should be made to eliminate trade and investment barriers to foster an open Asia-Pacific economy.\n\n\"History shows that openness brings progress, while isolation inevitably leads to backwardness. We must resolutely uphold the rules-based multilateral trading system with the World Trade Organisation at its core, support free and open trade and investment, and safeguard the stability and smooth functioning of global industrial and supply chains.\"\n\nXi called for efforts to steadily advance the process of the Free Trade Area of the Asia-Pacific.\n\nXi stressed the need to inject momentum into innovation-driven growth, and that efforts should be made to develop sci-tech innovation partnerships, deepen cooperation in the digital economy and artificial intelligence, and promote green and low-carbon transition.\n\nHe called on the region to expand pathways to mutual benefits and win-win outcomes to prosper together.\n\nXi said China supports the establishment of a world association for bay areas economic cooperation, so as to deepen exchanges and interactions among various bay areas and explore new paths of Asia-Pacific economic cooperation.\n\n\"The Asia-Pacific region gathers the world's most important bay areas, and that bay area economies have the distinct characteristics of openness, synergy and spillover effects.\"\n\nHe also urged resolving differences through dialogue and consultation, and addressing challenges through solidarity and coordination.\n\nThe president added that China's 15th Five-Year Plan presents a list of opportunities for economic growth of the Asia-Pacific and beyond, describing the development blueprint as an invitation for cooperation extended to the global business community.\n\nChina will provide the global business community with its super-large, open market, broad development prospects, as well as a cooperative environment that promotes mutual progress, he said.\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-11-18T02:59:21.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878255-20261118.htm"
     },
     {
