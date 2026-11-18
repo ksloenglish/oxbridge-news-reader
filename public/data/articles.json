@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T09:00:28.821Z",
-  "checkedAt": "2026-11-18T09:00:28.821Z",
+  "generatedAt": "2026-11-18T09:15:17.095Z",
+  "checkedAt": "2026-11-18T09:15:17.095Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 11
     },
     {
       "id": "rthk-finance",
@@ -95,6 +95,17 @@
   ],
   "articles": [
     {
+      "id": "efc65f158c72417e",
+      "title": "CE holds bilateral talks at Apec summit",
+      "excerpt": "Chief Executive John Lee on Wednesday held a series of meetings on the sidelines of the Apec summit, promoting Hong…",
+      "fullText": "Chief Executive John Lee on Wednesday held a series of meetings on the sidelines of the Apec summit, promoting Hong Kong's role as a gateway to Greater Bay Area and the mainland to regional leaders.\n\nDuring his meeting with Vietnam's President To Lam, Lee said bilateral trade between Hong Kong and Vietnam grew by 75 percent last year.\n\n\"I'm glad that since we last met two years ago, trade and people-to-people ties have been growing strongly,\" Lee told the Vietnamese leader.\n\n\"Thanks to your excellent support... I think we have established a very strong foundation for greater growth between our two places.\"\n\nLee said he briefed Tô Lâm on the latest developments of Hong Kong, including the city's strengths as an international innovation and technology centre as well as development opportunities of the Greater Bay Area.\n\nThe Vietnamese leader commended Hong Kong's socio-economic development, and said the city was an important leading economic, financial and trade hub of the world.\n\nIn a Facebook post, Lee said he also met with Sultan Hassanal Bolkiah of Brunei.\n\nHe said Hong Kong and Brunei enjoy close commercial and people-to-people ties, and that bilateral trade in goods rose 40 percent last year.\n\nLee said Hong Kong's first five-year plan and the Northern Metropolis are injecting strong growth impetus into the city, and he welcomed Bruneian enterprises to seize the opportunities.\n\n\"I hope that Hong Kong can actively play the roles of a 'super connector' and 'super value-adder' to help Bruneian businesses explore business opportunities while connecting mainland enterprises with partners in Brunei, achieving mutually beneficial outcomes,\" he wrote.\n\n\"In addition, I encourage more friends from Brunei to visit Hong Kong to experience our comprehensive Muslim-friendly tourism facilities as well as the unique charm of East-meets-West culture in Hong Kong.\"\n\nDuring his meeting with Thailand's Prime Minister, Anutin Charnvirakul, Lee encouraged Thai enterprises to set up operations in Hong Kong.\n\nHe thanked Thailand for its continued support of Hong Kong's early accession to the Regional Comprehensive Economic Partnership (RCEP).\n\nLee said that Hong Kong would continue to dedicate efforts to deepening bilateral cooperation in areas including trade, finance, and culture, in order to jointly seize new opportunities in regional development.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T09:04:00.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878305-20261118.htm"
+    },
+    {
       "id": "4f30fc240faffd75",
       "title": "Doctor 'zoned out' in wrong ovary removal: CUHKMC",
       "excerpt": "CUHK Medical Centre on Wednesday said a doctor who had mistakenly removed a patient’s ovaries “zoned out” during the operation…",
@@ -131,7 +142,7 @@
       "id": "0072db55c25ec39b",
       "title": "CE encouraged by Xi's Apec speech in Shenzhen",
       "excerpt": "Chief Executive John Lee said he had been inspired and encouraged by President Xi Jinping's speech at the Apec CEO…",
-      "fullText": "Chief Executive John Lee said he had been inspired and encouraged by President Xi Jinping's speech at the Apec CEO summit in Shenzhen on Wednesday, adding the address had charted a course for the Asia-Pacific community and provided China's response to the challenges of the new era.\n\nIn a Facebook post, Lee cited Xi as saying that the Greater Bay Area economy is marked by distinctive openness and synergy.\n\nHe said Hong Kong can serve as a springboard for global businesses entering the Greater Bay Area and the mainland.\n\nThe government would also continue to use an established task force to help mainland enterprises expand in international markets and better seize bay area opportunities.\n\n\"With the strong backing of the country, let us continue to leverage the strengths of Hong Kong and the bay area, persist in deep integration and common development with all parties through openness, and help the country become a core force leading Asia-Pacific cooperation,\" he wrote.\n\nSeparately, Lee said bilateral trade between Hong Kong and Vietnam grew by 75 percent last year, as he met Vietnam's President To Lam on the sidelines of the summit.\n\n\"I'm glad that since we last met two years ago, trade and people-to-people ties have been growing strongly,\" Lee told the Vietnamese leader.\n\n\"Thanks to your excellent support... I think we have established a very strong foundation for greater growth between our two places.\"\n\nThe Vietnamese leader also commended Hong Kong's socio-economic development, and said the city was an important leading economic, financial and trade hub of the world.\n\nIn his social media post, Lee said he briefed To on the city's latest developments.\n\nHe also spoke about the development opportunities of the Greater Bay Area, and the SAR's role as a gateway to the mainland and Asia.\n\nLee said he specifically highlighted the business prospects and opportunities under the city's first five-year plan, which includes the planning of the Northern Metropolis and the Northern Metropolis University Town.\n\n\"I look forward to Hong Kong and Vietnam continuing to strengthen practical cooperation in high value-added areas to achieve mutual benefit,\" he said on his Facebook page.\n_____________________________\nLast updated: 2026-11-18 HKT 15:30\n\nEdited by Tony Sabine",
+      "fullText": "Chief Executive John Lee said he had been inspired and encouraged by President Xi Jinping's speech at the Apec CEO summit in Shenzhen on Wednesday, adding the address had charted a course for the Asia-Pacific community and provided China's response to the challenges of the new era.\n\nIn a Facebook post, Lee cited Xi as saying that the Greater Bay Area economy is marked by distinctive openness and synergy.\n\nHe said Hong Kong can serve as a springboard for global businesses entering the Greater Bay Area and the mainland.\n\nThe government would also continue to use an established task force to help mainland enterprises expand in international markets and better seize bay area opportunities.\n\n\"With the strong backing of the country, let us continue to leverage the strengths of Hong Kong and the bay area, persist in deep integration and common development with all parties through openness, and help the country become a core force leading Asia-Pacific cooperation,\" he wrote.\n_____________________________\nLast updated: 2026-11-18 HKT 17:09\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-18T05:19:43.000Z",
       "source": "RTHK English — Local",
@@ -700,17 +711,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878063-20261117.htm"
     },
     {
-      "id": "07c48924239f1ada",
-      "title": "US judge tosses new visa rules for foreign students",
-      "excerpt": "A US federal judge on Monday struck down a Trump administration policy that would impose stricter limits on how long…",
-      "fullText": "A US federal judge on Monday struck down a Trump administration policy that would impose stricter limits on how long foreign students and journalists can study or work in the United States.\n\nDistrict Judge Dennis Saylor, in his order dismissing the case, said the policy was \"arbitrary, capricious, an abuse of discretion, and otherwise not in accordance with law.\"\n\nThe new visa regulations had been scheduled to take effect in September but were temporarily put on hold by Saylor, a move the Trump administration has already appealed to a higher court.\n\nThe judge's ruling stems from a lawsuit contesting the visa restrictions filed against the Department of Homeland Security (DHS) by a coalition of unions representing universities, teachers and journalists.\n\nIn his order, Saylor focused mainly on the impact the new visa policy would have had on international students.\n\n\"Put bluntly, DHS is seeking to prevent or discourage the very activity – providing educational opportunities for foreign students in the United States – that Congress sought to permit and encourage,\" the judge said.\n\nHe said the policy would \"prohibit foreign students from engaging in extended periods of study, such as those required for PhD programs; prohibit them from obtaining joint degrees (and) prohibit them from changing their academic concentration.\"\n\nUnder the proposed new rules, foreigners on student visas would be admitted for a maximum of up to four years after which they would have to apply for an extension. International students were previously allowed to remain for the duration of their studies.\n\nForeign journalists would be limited to stays of just 240 days, or around eight months, but could apply for extensions of similar duration. Until now they could stay up to five years.\n\nChinese journalists would get just 90 days, with extensions of 90 days.\n\nThe visa restrictions are part of a broader immigration crackdown by US President Donald Trump that includes aggressive deportation operations as well as new restrictions on legal pathways to citizenship.\n\nThe United States welcomed more than 1.1 million international students in the 2023-24 academic year, more than any other country, according to official data. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T23:53:29.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878071-20261117.htm"
-    },
-    {
       "id": "519765f4e0928d09",
       "title": "Uefa backs France's Diallo to stand against Infantino",
       "excerpt": "European football's governing body Uefa has given its \"unanimous\" backing to French Football Federation chief Philippe Diallo to stand against…",
@@ -984,17 +984,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877997-20261116.htm"
-    },
-    {
-      "id": "a3899fa91c623db7",
-      "title": "Family care leave impact on operations 'to be minimal'",
-      "excerpt": "The new 12 hours of family care leave for government employees per year will have minimal impact on manpower deployment…",
-      "fullText": "The new 12 hours of family care leave for government employees per year will have minimal impact on manpower deployment, Secretary for the Civil Service Ingrid Yeung said on Monday.\n\nUnder the new leave entitlement, expected to start in January, government employees will be able to leave work for a few hours from time to time to look after family members.\n\nAt a Legislative Council panel meeting on Monday, Yeung called for trust among department heads that staff would not abuse the leave provision – though they could still request supporting documents when necessary.\n\n\"We let staff take leave by the hour and get back to work much sooner if they only need less than half a day – so it's far less disruptive to staffing,\" she said.\n\n\"That's why I believe management is generally supportive: instead of losing someone for half a day, they can be back at their desk within an hour or two.\"\n\nYeung expressed hope that the private sector could also respond positively to the move, saying the implementation of family care leave could serve as a good role model for employers.\n\nHowever, she noted, the practice among different industries may not be the same given each sector would have its own way of operating and doing business.\n\nYeung emphasised the goal of the leave entitlement was to bring out the message of caring for employees' family needs.\n\nShe said authorities would try to simplify the application and approval procedures as much as possible during the design phase as well as exhibit sufficient flexibility.\n\nRegarding whether there would be clear and detailed guidelines on how to apply for family care leave, Yeung pointed out that it was currently possible for several staff members to apply for leave simultaneously and that their work could be handled by redeploying other staff as temporary cover.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T07:38:05.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877977-20261116.htm"
     },
     {
       "id": "4d352436bdd926b5",
