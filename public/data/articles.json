@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T09:15:17.095Z",
-  "checkedAt": "2026-11-18T09:15:17.095Z",
+  "generatedAt": "2026-11-18T09:30:25.476Z",
+  "checkedAt": "2026-11-18T09:30:25.476Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "a87e4049b10e95a7",
+      "title": "Xi welcomes Trump in Shenzhen",
+      "excerpt": "US President Donald Trump was welcomed by President Xi Jinping as he arrived in Shenzhen on Wednesday afternoon to attend…",
+      "fullText": "US President Donald Trump was welcomed by President Xi Jinping as he arrived in Shenzhen on Wednesday afternoon to attend this year's Apec summit.\n\nXi greeted Trump upon his arrival at Shenzhen Bao'an International Airport.\n\nThis is the third time the two leaders have met this year.\n\nOn Thursday, the leaders of China, Russia and the United States will hold a landmark summit on the Apec sidelines to discuss world peace.\n\nThe wars in Iran and Ukraine as well as nuclear disarmament are expected to be on the agenda.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-18T09:18:22.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878315-20261118.htm"
+    },
     {
       "id": "efc65f158c72417e",
       "title": "CE holds bilateral talks at Apec summit",
@@ -962,17 +973,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877996-20261116.htm"
-    },
-    {
-      "id": "6f06ba23960d5c0a",
-      "title": "Supply chain showcases 'Shenzhen speed' ahead of Apec",
-      "excerpt": "As Shenzhen prepares to host the Apec Economic Leaders' Meeting, reporters have been given a glimpse of the city's famously…",
-      "fullText": "As Shenzhen prepares to host the Apec Economic Leaders' Meeting, reporters have been given a glimpse of the city's famously fast electronics supply chain, with one journalist turning a personal request into a finished AI-powered product in about an hour.\n\nShenzhen Media Group, together with Beijing Radio and Television and Shanghai Media Group, has launched a 100-hour all-media live broadcast titled \"Apec China Year,\" spotlighting the host city's preparations.\n\nThe programme highlighted the speed of operations in Huaqiangbei, Shenzhen's sprawling electronics market district, where a reporter's requirements were turned into a pair of AI glasses in roughly an hour – a process described as the \"Shenzhen cycle\".\n\nZhou Jiahao, from a Shenzhen computing technology company, said the firm can dispatch ready-made public solutions according to client needs to quickly complete quality consumer electronics products.\n\nBecause the components in such solutions are cost-effective, he said, pricing can be set by the customer while the quality remains solid.\n\nYang Yi, operations director of a local delivery service, said once a bill of materials is generated and pushed through a mini-programme, riders depart immediately to pick up goods from 35 specialist markets within a one-kilometre radius of Huaqiangbei.\n\nThe parts are gathered and delivered to engineers within half an hour, after which assembly begins.\n\nOnce the product passes verification in the laboratory, it is shipped to the client.\n\nThe service currently handles more than 10,000 orders a day, he said.\n\nXu Jiyue, deputy director of the Huaqiangbei sub-district party and government office, said the district has seen an average of more than 8,000 visits per day this year by people involved in business from overseas and that the figure has recently risen above 10,000 a day with the Apec effect.\n\nThe district has more than 190 departure tax refund shops, where shoppers can claim refunds at ports or the airport after making purchases.\n\nService points within the business area also arrange immediate departure tax refunds on the spot.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T08:21:15.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1877984-20261116.htm"
     },
     {
       "id": "a3153d48cea7606c",
