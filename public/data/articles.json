@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T07:15:16.200Z",
-  "checkedAt": "2026-11-19T07:30:21.232Z",
+  "generatedAt": "2026-11-19T07:45:26.536Z",
+  "checkedAt": "2026-11-19T07:45:26.536Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -95,6 +95,17 @@
   ],
   "articles": [
     {
+      "id": "f9afe65488cf9975",
+      "title": "Five positive outcomes for HK at Apec summit: Lee",
+      "excerpt": "Chief Executive John Lee on Thursday outlined five outcomes for the SAR at this year’s Apec meetings in Shenzhen. They…",
+      "fullText": "Chief Executive John Lee on Thursday outlined five outcomes for the SAR at this year’s Apec meetings in Shenzhen.\n\nThey are: contributing Hong Kong's strengths by actively participating in and supporting the country's successful hosting of the Apec meetings; deepening exchanges and cooperation with Apec member economies; consolidating relations with Asean member states; further exploring emerging markets; and telling the good stories of the Greater Bay Area.\n\nLee noted that he met leaders from a number of Apec member economies through bilateral meetings.\n\nOn Wednesday, he met with the leaders of Malaysia, Vietnam, Brunei, Thailand and Chile, and is set to hold talks with leaders from Peru and Singapore on Thursday afternoon.\n\nThe CE said he has briefed them on opportunities within the Greater Bay Area, with the talks focusing on strengthening bilateral ties and addressing topics of mutual concern.\n\nLee said during his meeting with the president of Chile, they jointly witnessed the signing of a Working Holiday Scheme agreement between the two sides, the first of its kind between the SAR and Latin America.\n\nLee added that the opportunity to meet five Asean leaders would boost Hong Kong's bid to join the Regional Comprehensive Economic Partnership.\n\nThe chief executive also noted that he held a brief conversation with President Xi Jinping, updating him on the panel discussion regarding the Greater Bay Area at the Apec CEO Summit.\n\nLee said he told Xi the session received a very positive response, with participants agreeing on the massive opportunities available across the region.\n\nLee said he assured the president that Hong Kong will continue to serve as a \"super-connector\" and \"super value-adder\" to better serve and integrate into national development.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T07:31:14.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878448-20261119.htm"
+    },
+    {
       "id": "ca6eaeb126417b15",
       "title": "Arrests over HK$68m phone 'scams'",
       "excerpt": "One hundred and twenty-three people have been arrested as police busted two scam call operation centres in a crackdown on…",
@@ -118,9 +129,9 @@
     },
     {
       "id": "7ba1223ebee2b18c",
-      "title": "Xi, Trump open talks in Shenzhen",
+      "title": "Xi, Trump hold talks in Shenzhen",
       "excerpt": "Presidents Xi Jinping and Donald Trump opened talks in Shenzhen on Thursday afternoon, the third meeting between the leaders of…",
-      "fullText": "Presidents Xi Jinping and Donald Trump opened talks in Shenzhen on Thursday afternoon, the third meeting between the leaders of China and the United States this year.\n\nThe meeting on the sidelines of the Apec summit came shortly after Trump held one-on-one talks with his Russian counterpart Vladimir Putin.\n\nAnd the three leaders are set to hold a landmark trilateral meeting later in the afternoon.\n\n\"You are my friend and we have a very special relationship,\" Trump told Xi ahead of their talks.\n\nTrump also said they talked for two hours at the Apec banquet the night before.\n\nEdited by Edmond Fong",
+      "fullText": "Presidents Xi Jinping and Donald Trump opened talks in Shenzhen on Thursday afternoon, the third meeting between the leaders of China and the United States this year.\n\nThe meeting on the sidelines of the Apec summit came shortly after Trump held one-on-one talks with his Russian counterpart Vladimir Putin.\n\nAnd the three leaders are set to hold a landmark trilateral meeting later in the afternoon.\n\n\"You are my friend and we have a very special relationship,\" Trump told Xi ahead of their talks.\n\nThe meeting lasted roughly an hour, after which the two leaders and their delegations had lunch.\n\nEdited by Edmond Fong\n_____________________________\nLast updated: 2026-11-19 HKT 15:40",
       "imageUrl": null,
       "publishedAt": "2026-11-19T05:52:20.000Z",
       "source": "RTHK English — Greater China",
@@ -973,17 +984,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878087-20261117.htm"
-    },
-    {
-      "id": "1cdd5b5d7b8618c5",
-      "title": "JPMorgan bug causes transaction problems at US banks",
-      "excerpt": "Thousands of customers reported difficulty accessing online accounts at several major US banks and the money transfer service Zelle on…",
-      "fullText": "Thousands of customers reported difficulty accessing online accounts at several major US banks and the money transfer service Zelle on Monday after a technical issue at JPMorgan Chase caused ripple effects throughout the financial system.\n\nHowever, Chase said that the technical problems were not the result of a cyberattack, and that it was working to bring banking services back online by the end of the day on Monday.\n\n“JPMorgan Chase has experienced a temporary issue related to a software bug in an on-premise hardware system – it is not cyber-related,” said Joe Evangelisti, spokesman for the bank.\n\nThe disruption comes days after two major outages affected other parts of the US economy: A major outage by Microsoft happened Thursday and lasted for hours, severely impacting services including Outlook, Teams and AI assistant Copilot. An outage affecting the nation’s air traffic control system Friday grounded all US flights for several hours and continued to disrupt air travel across the country over the weekend.\n\nIn the same statement, Evangelisti said that this was a Chase-only issue.\n\n“This is not a systemic issue – other banks may have been impacted by slowness in transactions only to the extent that they were a party to a transaction with us,” he said.\n\nMonday's technical issues seemed to be centred at Chase customers and customers at other banks trying to transact with Chase. Those banks, including Bank of America and Citigroup, were not having issues with their banking services.\n\nA spokesman for US Bank said its systems were not directly impacted but that “clients attempting to send or receive Zelle payments with another financial institution may experience transaction delays.”\n\nZelle is the peer-to-peer payment system that major US banks use to allow customers to send money to friends and family at near-instant speed. Zelle is owned by Arizona-based Early Warning Services, which in turn is owned by financial institutions including Bank of America, Capital One, JPMorgan Chase, PNC Bank, Truist, US Bank and Wells Fargo.\n\nA spokesman for Early Warning Services said the Zelle network was fully operational.\n\n“An issue at the financial institutions may be delaying Zelle payments for some of their customers,” the spokesman said.\n\nSome Chase customers received a message that said, “Some services aren't available. We’re working on them. Please try back later.” (AP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T00:16:59.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878073-20261117.htm"
     },
     {
       "id": "a0f8fe9180b08a2b",
