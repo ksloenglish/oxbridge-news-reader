@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T22:15:33.758Z",
-  "checkedAt": "2026-11-19T23:00:30.755Z",
+  "generatedAt": "2026-11-19T23:15:18.771Z",
+  "checkedAt": "2026-11-19T23:15:18.771Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 8
+      "articleCount": 7
     },
     {
       "id": "rthk-finance",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "aee1090644ec5b1a",
+      "title": "Anthropic's debut fails to lift US markets",
+      "excerpt": "US stocks slumped on Thursday, after Anthropic's super-sized IPO failed to revitalise faded enthusiasm over artificial intelligence, as an early…",
+      "fullText": "US stocks slumped on Thursday, after Anthropic's super-sized IPO failed to revitalise faded enthusiasm over artificial intelligence, as an early spike in its share price ebbed.\n\nAnthropic shares opened at US$111.50 a share and quickly rose as high as US$115 a share, or 38.6 percent above the offer price, but pared those gains to 17.1 percent by the end of the session.\n\nAll three major US stock indexes dropped at least 2 percent, with the benchmark S&P 500 logging its sixth straight session of losses.\n\nThe S&P 500 was on course to post its steepest weekly decline since April 2025.\n\nAnthropic's debut, the largest IPO on record, was priced late Wednesday at US$83 per share and was widely viewed as the next high bar to clear for the AI trade. The stock opened shortly before noon. After the company's market valuation briefly surpassed US$2 trillion, its momentum began to lose steam.\n\n\"The Anthropic IPO is attracting gobs of attention,\" said Jed Ellerbroek, portfolio manager at Argent Capital in St. Louis, Missouri. \"That money is coming from somewhere; investors are making changes in their portfolio to incorporate Anthropic, so I wouldn't extrapolate a whole lot of meaning from today's trading behavior, whether it's up or down.\"\n\nEven so, Ellerbroek's enthusiasm for the AI trade has waned.\n\n\"My beliefs about the growth in data centre capex spending have come down a little bit over the last month or two,\" he added. \"Nvidia's crisis situation is a big deal. The midterm elections have had an impact.\"\n\n\"Data centres are going to be more expensive to build and they're going to be built more slowly.\"\n\nAdvanced Micro Devices shares tumbled 7.7 percent after investigative outlet Hunterbrook said its affiliated fund, Hunterbrook Capital, had taken a short position in the company.\n\nMost tech stocks lost ground, with Micron and Broadcom both dropping 2.1 percent.\n\nNvidia declined 3.3 percent, its sixth straight losing session, after the chipmaker's upbeat revenue forecast did little to lift sentiment.\n\nNeocloud firms CoreWeave dropped 6.1 percent and Nebius slid 9.4 percent.\n\nIn other stocks, Palo Alto Networks shares jumped 6.4 percent after the cybersecurity firm raised its 2027 revenue guidance.\n\nWalmart slipped 1.0 percent following the retail giant's disappointing annual sales forecast.\n\nThe Dow Jones Industrial Average fell 1,101 points, or 2.2 percent, to 49,097, the S&P 500 lost 147 points, or 2 percent, to 7,175 and the Nasdaq Composite lost 550 points, or 2.3 percent, to 23,879.\n\nFollowing Wednesday's release of minutes from the US Federal Reserve's October policy meeting, investors are recalibrating their expectations pertaining to upcoming rate decisions.\n\nThe minutes revealed a desire to rein in inflation even prior to the recent release of consumer and producer price indexes, which showed price pressures heating up.\n\nFinancial markets are currently pricing in a 96.4 percent likelihood of a 25-basis-point rate hike at the central bank's December meeting, with a small chance of a super-sized 50-basis-point increase, according to CME's FedWatch tool.\n\nNext week, the Commerce Department is expected to release its personal consumption expenditures (PCE) report, which includes the Fed's preferred inflation gauge, the PCE price index. Analysts expect the report to show year-on-year core inflation of 3.2 percent, well above the central bank's 2 percent annual target. (Reuters)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T23:07:39.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878524-20261120.htm"
+    },
+    {
+      "id": "f53c6de7669fcc0f",
+      "title": "China-Russia-US summit \"will go down in history\"",
+      "excerpt": "An unprecedented three-way summit between China, Russia and the United States at the Apec Summit in Shenzhen was a landmark…",
+      "fullText": "An unprecedented three-way summit between China, Russia and the United States at the Apec Summit in Shenzhen was a landmark event that will go down in history, Foreign Minister Wang Yi said on Thursday.\n\nThe three nations agreed on a peace declaration following face-to-face talks between President Xi Jinping, Russian leader Vladimir Putin and US President Donald Trump.\n\nThey reaffirmed that nuclear war should never be fought, and pledged to advance reforms of the United Nations, increase supplies of fuel products for all countries and to uphold the immunity enjoyed by state officials in international courts.\n\nWang told a press conference that the declaration is instrumental to addressing global challenges and maintaining world peace and stability.\n\n\"You could certainly call it a peace summit\", Wang said.\n\nNoting that the top leaders of the three countries exchanged views on the international situation and global challenges, Wang said the summit sent a positive message to the world.\n\nCalling the meeting a historic one, Wang said it created a paradigm for interaction between major countries in the new era, and represented a new step in building a new type of major-country relations.\n\nThe said the three leaders had agreed to prevent conflict and confrontation and build a paradigm of major-country relations featuring peaceful coexistence, overall stability and balanced development.\n\n\"This is not only good for the three countries, but also benefits the whole world,\" Wang said.\n\nThe foreign minister also said the Apec Economic Leaders' Meeting marked a new peak in Asia-Pacific economic cooperation.\n\nIt was the most important diplomatic event China hosted this year, Wang said, noting that the meeting produced the ambitious, practical and comprehensive Apec Leaders' Shenzhen Outlook, which is the most significant outcome of the Apec \"China Year\" and a new milestone in Apec cooperation.\n\nAt the meeting, President Xi called for building an Asia-Pacific community characterised by solidarity and mutual assistance, openness and integration, enterprise and innovation, as well as inclusive development.\n\nWang hailed China's contribution to the endorsement of an Apec statement on harnessing digital and emerging technologies for jobs and prosperity.\n\nThe statement helps align cooperation on AI and other new technologies to advance high-quality full employment, public services and digital infrastructure, Wang said.\n\nThe foreign minister also noted a series of measures Xi announced to boost Asia-Pacific cooperation, including setting up an Asia-Pacific community studies centre, a proposal to establish a World Association for Bay Areas Economic Cooperation, and financial support for practical cooperation.\n\nWang said the Shenzhen meeting has mapped out the key pillars and priorities for building an Asia-Pacific community and charted a roadmap for implementation. (Reporting by Xinhua)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T22:57:18.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878532-20261120.htm"
+    },
     {
       "id": "81d6f0a45ed22d79",
       "title": "World Court finds Myanmar responsible for Rohingya genocide in landmark ruling",
@@ -821,17 +843,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878240-20261118.htm"
     },
     {
-      "id": "7843f2dd0683c2cd",
-      "title": "'He is James Bond,' Bezos says of Pattinson",
-      "excerpt": "The choice of Robert Pattinson as the new James Bond came just three days before the announcement, Jeff Bezos said…",
-      "fullText": "The choice of Robert Pattinson as the new James Bond came just three days before the announcement, Jeff Bezos said.\n\n“We ran a really tight process and we made the final decision on Friday,” the Amazon founder said, speaking onstage at Semafor's Silicon Valley & The World conference in Menlo Park, California.\n\nBezos offered the most insight yet into the behind-the-scenes process of casting one of the most iconic roles in cinema -- something that's fuelled plenty of speculation over the years, and much discourse since Pattinson's selection was announced on Monday morning.\n\nBezos' comments also indicated that he, as Amazon's executive chairman, was directly involved in the casting. Amazon MGM Studios assumed creative control of the long-running franchise last year, tapping Denis Villeneuve to direct the still-untitled film.\n\nA “big group” of contenders was whittled down to five finallists who performed three scenes each in screen tests, Bezos said.\n\n“We did real, old-fashioned screen tests of those five finallists and it was -- it was really interesting, you know. Full costume, real sets, other actors with them,” he said.\n\nHe didn't disclose the names of the finallists, but actors reportedly considered for the role included Callum Turner, Josh O’Connor, Jack Lowden and Nicholas Hoult.\n\n“Then we got together on Friday to spend a couple of hours looking at all those screen tests and reviewing all that,” Bezos recounted, calling all the performers “extraordinarily talented”.\n\n“By the time we got to this list of five, they were all amazing. But there was something special about Rob and his performances. And it was kind of immediately undebated,” he added.\n\nBut there was one thing working against the 40-year-old Pattinson: They thought he might be too famous. The six previous Bond actors -- Sean Connery, George Lazenby, Roger Moore, Timothy Dalton, Pierce Brosnan and Daniel Craig -- were little-known or drawn primarily from stage and small-screen work before being catapulted into fame as the secret agent.\n\n“We sort of thought maybe we should have somebody a little more unknown,” Bezos said. “But in the screening test, it was so obvious, he is James Bond.” (AP)\n\nEdited by Altis Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T01:29:09.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878234-20261118.htm"
-    },
-    {
       "id": "03b964667d4d3836",
       "title": "Springboks coach Erasmus handed six-game ban",
       "excerpt": "South Africa coach Rassie Erasmus was handed a six-game ban by World Rugby on Tuesday for outspoken criticism of officials…",
@@ -1096,17 +1107,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878130-20261117.htm"
     },
     {
-      "id": "0337891a2bc9a6a9",
-      "title": "John Lee arrives in Shenzhen for Apec meeting",
-      "excerpt": "Chief Executive John Lee arrived in Shenzhen on Tuesday to attend the Apec Economic Leaders’ Meeting, beginning a trip aimed…",
-      "fullText": "Chief Executive John Lee arrived in Shenzhen on Tuesday to attend the Apec Economic Leaders’ Meeting, beginning a trip aimed at promoting Hong Kong’s role in Apec's \"China Year\".\n\nIn a post on social media, Lee said he was “deeply delighted” to take part in the meeting as China hosts Apec for the third time.\n\nOn arrival, he was received by a representative of the First Bureau of the Hong Kong and Macao Work Office of the Communist Party of China Central Committee.\n\nLee pointed to last month’s Apec Finance Ministers’ Meeting — held in Hong Kong for the first time — as evidence of the city’s unique advantage under \"One Country, Two Systems\": connecting the mainland and the world while contributing to financial cooperation within the regional body.\n\nDuring the trip, Lee will also attend the Apec CEO Summit, including its discussion session and opening ceremony, to exchange views with political and business leaders from other economies.\n\nHe will hold bilateral meetings with leaders of other economies to explore mutually beneficial cooperation opportunities for Hong Kong.\n\nLee described Shenzhen and Hong Kong as sister cities and close partners within the Greater Bay Area, noting that the two places have advanced side by side in artificial intelligence, innovation and technology.\n\nHe expressed hope that Apec economies gathering in the “City of Miracles” would explore opportunities together, guided by openness, innovation and cooperation.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T08:08:12.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878135-20261117.htm"
-    },
-    {
       "id": "09bf5a0b7b1a2292",
       "title": "Tech leaders say EV innovation, robotaxis key for Apec",
       "excerpt": "The founder of the world's largest electric vehicle battery maker on Tuesday said opportunities in the Asia-Pacific region outweigh challenges…",
@@ -1127,17 +1127,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878098-20261117.htm"
-    },
-    {
-      "id": "afb03f09ff5735c7",
-      "title": "HK to become centre for maritime business: CE",
-      "excerpt": "Hong Kong will move beyond being a port through which goods pass and become a centre where maritime business of…",
-      "fullText": "Hong Kong will move beyond being a port through which goods pass and become a centre where maritime business of every kind is conducted, Chief Executive John Lee said on Tuesday.\n\n\"More than a port, through which goods move, Hong Kong will become a centre where maritime business of every kind is conducted,\" Lee said at the opening of the 16th Asian Logistics, Maritime and Aviation Conference.\n\n\"In aviation we are capitalising on the three runway system to expand our flight network and enhance capacity. We're committed to giving businesses greater reach and more choices in moving goods through Hong Kong,\" he said.\n\nHe said the city is also pursuing cargo growth and high-value maritime services, from ship finance and insurance to management and legal services.\n\n\"Growth opens markets. Innovation gives businesses the tools to compete. Sustainability prepares them for the future,\" he said.\n\nLee said the city's expanding partner port network supports its ambitions.\n\nPartnerships were established last year with Guangxi Port, Dalian Port and Chile's Centennial Port, and new ties are being forged this year with ports in Shanghai, Piraeus in Greece, Yangpu in Hainan and Qingdao in Shandong, he said.\n\nHe revealed that Hong Kong would sign a memorandum of understanding with the Ministry of Transport's Global Sustainable Transport Innovation and Knowledge Centre to promote the country's sustainable transportation certification system internationally.\n\n\"We are also working with our Greater Bay Area partners to advance cargo movements and develop high value logistics services, and in doing so we will make Hong Kong a more competitive gateway connecting Chinese mainland production with international markets,\" he said.\n\nIn aviation, Lee said an MOU would be signed between the Airport Authority, Towngas and a Hong Kong-based company for a dedicated sustainable aviation fuel blending facility.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T03:51:42.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878096-20261117.htm"
     },
     {
       "id": "a0f8fe9180b08a2b",
