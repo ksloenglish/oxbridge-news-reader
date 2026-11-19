@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T05:45:18.523Z",
-  "checkedAt": "2026-11-19T06:00:34.635Z",
+  "generatedAt": "2026-11-19T06:15:17.467Z",
+  "checkedAt": "2026-11-19T06:15:17.467Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 11
     },
     {
       "id": "rthk-finance",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "7ba1223ebee2b18c",
+      "title": "Xi, Trump open talks in Shenzhen",
+      "excerpt": "Presidents Xi Jinping and Donald Trump opened talks in Shenzhen on Thursday afternoon, the third meeting between the leaders of…",
+      "fullText": "Presidents Xi Jinping and Donald Trump opened talks in Shenzhen on Thursday afternoon, the third meeting between the leaders of China and the United States this year.\n\nThe meeting on the sidelines of the Apec summit came shortly after Trump held one-on-one talks with his Russian counterpart Vladimir Putin.\n\nAnd the three leaders are set to hold a landmark trilateral meeting later in the afternoon.\n\n\"You are my friend and we have a very special relationship,\" Trump told Xi ahead of their talks.\n\nTrump also said they talked for two hours at the Apec banquet the night before.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T05:52:20.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878432-20261119.htm"
+    },
     {
       "id": "205fc07ddd4fc252",
       "title": "Could caviar served on gourmet food tour of North Korea violate UN sanctions?",
@@ -612,17 +623,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878221-20261118.htm"
     },
     {
-      "id": "cbf77affc8c3f212",
-      "title": "Thousands turn out in new French protests",
-      "excerpt": "More than 100,000 people took part in protests across France on Tuesday after unions called a new nationwide public sector…",
-      "fullText": "More than 100,000 people took part in protests across France on Tuesday after unions called a new nationwide public sector strike to demand pay rises.\n\nHigh school pupils and university students joined private sector workers and retirees at the latest demonstrations to confront the government over the cost of living and other social concerns.\n\nUnions said more than 500,000 people nationwide took part in the protests, including 175,000 in Paris, while the interior ministry put the total number at 146,000 around the country and 28,000 in the capital.\n\nThe European Union's second-largest economy has been rocked by more than a month of high school blockades and protests, as the government races to adopt a 2027 deficit-cutting budget ahead of a presidential election next year in which the far right is eyeing power.\n\nIn Paris, a march set off in a jubilant cacophony, with drummers decked out in sparkly pink and purple accompanying music blared from union vans.\n\nThe festive atmosphere continued through the afternoon, despite the multiple frustrations that drove people to the streets.\n\nNurse Aurelane Thos wore blue scrubs and marched with her colleague who carried a cardboard sign reading \"Raise salaries.\"\n\n\"The state of schools, the state of hospitals, staffing levels in schools and hospitals, the way things are getting worse and worse across all public services – these are issues that really resonate with us,\" said the 38-year-old.\n\nFrance's 5.8 million public sector employees were called to strike for the third time since September.\n\nTalks with Prime Minister Sebastien Lecornu on Friday failed to satisfy unions pushing for pay rises after he announced a small boost to the minimum wage for private-sector workers.\n\nThe overall turnout was lower than on previous protest days.\n\n\"This is my second day on strike and I understand why there are fewer of us. It's a financial strain at the end of the month,\" said Emma, a contract worker for a local administration marching in Bayonne in southern France.\n\nYoung people showed up in force, after student organisations announced they were joining the day of action.\n\n\"We're stressed about our studies but when you have a bunch of cops in front of the high school every morning, you only want to keep protesting,\" said Mathilde, a 17-year-old pupil in Paris.\n\nUniversity professor Nicolas Prevot joined the demonstration in solidarity with young people, saying: \"It's about defending human rights first and foremost, but also about protecting public services, which are being torn apart.\"\n\nHe and other protesters said it was critical to keep the far right out of power in the upcoming elections, at a time when opinion polls show a lead for the leader of the far-right, anti-immigration National Rally, Marine Le Pen.\n\nSecond in the polls is hard-left leader Jean-Luc Melenchon, who attended the Paris demonstration.\n\nHe said \"repression was becoming harsher\" towards young people, after multiple complaints of police brutality against teenagers, some of whom have lost eyes or hands.\n\nThe demands to bolster public services come as France is under steep pressure to cut its deficit.\n\nIn its draft 2027 budget, the government has ruled out any general public sector pay rise for the fourth consecutive year.\n\nUnions put the loss of purchasing power for public servants at 16 percent since 2017.\n\nThousands gathered in Lyon in the southeast behind a banner reading: \"Enough sacrifices for working people.\"\n\n\"I hope things will change, though I'm less and less hopeful about being heard,\" said university student Simon, 20.\n\n\"The government talks only about the minority of rioters and not about the real demands,\" he said of the authorities' response to weeks of protests. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T23:17:07.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878207-20261118.htm"
-    },
-    {
       "id": "3fecbc6580ac949f",
       "title": "Jensen Huang won't be back as chief: Nvidia board",
       "excerpt": "AI chip giant Nvidia does not plan to bring its embattled co-founder back as chief executive despite Jensen Huang saying…",
@@ -1127,17 +1127,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_181023_620.html"
-    },
-    {
-      "id": "a986c51f5eb992fa",
-      "title": "Trump says he may meet Kim Jong Un in China",
-      "excerpt": "US President Donald Trump said on Monday that he may meet with DPRK leader Kim Jong Un in China as…",
-      "fullText": "US President Donald Trump said on Monday that he may meet with DPRK leader Kim Jong Un in China as the US looks to re-engage Pyongyang on its nuclear programme.\n\nTrump was preparing to depart for Asia, turning his focus to economic deals and historic three-way nuclear talks with Russia and China as his administration adjusts to a new political reality in Washington.\n\nHe said he plans to talk about Russia’s war in Ukraine during the highly anticipated meeting with Presidents Xi Jinping and Vladimir Putin on the sidelines of the Apec summit in Shenzhen on Thursday.\n\nTrump’s departure comes after the often-omnipresent president had remained largely out of public sight for the past several days, even as a nationwide ground stop snarled air traffic and his Republican administration faced tough questions on its handling of the situation.\n\nHis trip to Asia, which begins in Manila then continues to Shenzhen, gives Trump the opportunity to change the narrative from his domestic woes, including the air travel problems and fallout from the November midterm election where his party lost both chambers of Congress.\n\nThe controversy over tech powerhouse and chipmaker Nvidia is also certain to hang over Trump’s visit to China, despite efforts by administration officials to downplay the president’s close ties to Jensen Huang, who resigned as CEO last week after admitting to an affair with an alleged Chinese government agent.\n\nBeijing has said it was not involved and dismissed the spying allegations as \"groundless\".\n\nTrump had no plans to raise the issue with Xi when the two leaders meet, said US officials who briefed reporters anonymously about the Asia trip under ground rules set by the White House.\n\nRegarding Pyongyang, Trump met with Kim on three occasions during his first term but has not been able to get him to meaningfully engage since his return to the White House.\n\nTrump has sought to set the groundwork for further talks with Kim. In August, he ordered the Pentagon to scale back joint military exercises with Seoul.\n\nThe three-way meeting in Shenzhen will also put in the spotlight the ongoing US war with Iran, which has been widely blamed for the Republican Party’s steep losses in the midterms. (AP)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T15:01:54.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878038-20261116.htm"
     },
     {
       "id": "7cf1f12d1aace5c3",
