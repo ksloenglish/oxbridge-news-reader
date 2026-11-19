@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T00:45:18.114Z",
-  "checkedAt": "2026-11-19T02:00:28.649Z",
+  "generatedAt": "2026-11-19T02:15:16.636Z",
+  "checkedAt": "2026-11-19T02:15:16.636Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 14
     },
     {
       "id": "rthk-finance",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "c22869218edc71e8",
+      "title": "Van Gogh work fetches record price after owner dispute",
+      "excerpt": "A Vincent van Gogh masterpiece sold for a record-breaking US$190.4 million after a dispute between the seller and the heirs…",
+      "fullText": "A Vincent van Gogh masterpiece sold for a record-breaking US$190.4 million after a dispute between the seller and the heirs of a previous Jewish owner who sold it in the Nazi era, Sotheby's said.\n\n\"Chataigniers en fleurs\" (Chestnut Trees in Blossom) painted in 1890 in Auvers-sur-Oise, France set a new record for the Dutch post-Impressionist and became the most expensive work auctioned off so far this season.\n\nThe previous auction record for a painting by Van Gogh was US$117.2 million for the 1888 \"Orchard with Cypresses\" at Christie's in New York in November 2022.\n\nAn influential German publisher, Samuel Fischer, acquired the painting in Paris in 1909 and his family sold it in 1936.\n\nHis heirs had previously opposed the sale, saying Fischer's family parted with the painting only because of financial losses suffered under the Nazis.\n\nThe heirs' Berlin-based lawyer, Gunnar Schnabel, had called on Sotheby's to prove the painting was sold at its market value and that the family would have sold it regardless of the political context.\n\nThe Blaquier-Arrieta family acquired the painting in 1975 and has owned it for more than half a century, according to Sotheby's.\n\nBut on Tuesday, Sotheby's said: \"An agreement has been reached between the Blaquier-Arrieta family and all of the legal descendants of Hedwig and Samuel Fischer regarding the sale of Vincent van Gogh's Chataigniers en fleurs.\"\n\nSchnabel did not respond to an AFP request for comment.\n\nAccording to Sotheby's, the Fischer heirs said they were \"grateful for the trusting and fair negotiation and collaboration with Sotheby's and the Blaquier-Arrieta family, which make it possible to acknowledge the suffering of the Fischer family during the Nazi era and honour Gisela Berman Fischer's history of seeking justice for her family.\" (AFP)\n\nEdited by Altis Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T01:56:21.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878391-20261119.htm"
+    },
     {
       "id": "dd915bdb9efdc871",
       "title": "Cummins defiant amid fresh 'Sandpapergate' claims",
