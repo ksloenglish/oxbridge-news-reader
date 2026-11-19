@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T08:00:27.546Z",
-  "checkedAt": "2026-11-19T08:15:24.042Z",
+  "generatedAt": "2026-11-19T08:30:22.280Z",
+  "checkedAt": "2026-11-19T08:30:22.280Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -313,6 +313,17 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/korea/2026/11/18/trump-xi-putin-scheduled-apec-meeting/"
+    },
+    {
+      "id": "4c243ce0771df383",
+      "title": "16 building plans approved in Sept",
+      "excerpt": "The Buildings Department approved 16 building plans in September – three on Hong Kong Island and 13 in the New…",
+      "fullText": "The Buildings Department approved 16 building plans in September – three on Hong Kong Island and 13 in the New Territories.\n\nOf the approved plans, four were for apartment or apartment/commercial developments, three were for commercial development, seven for factory and industrial developments, and two for community services.\n\nConsent was given for works on four building projects. Upon completion, they will provide 133,494 sq m of gross floor area for domestic purposes, equating to 2,516 units, and 159,085 sq m of gross floor area for non-domestic use.\n\nAdditionally, the department received notification of the commencement of superstructure works for five building projects.\n\nIt also issued 21 occupation permits, comprising five on Hong Kong Island, eight in Kowloon and eight in the New Territories.\n\nThe buildings certified for occupation comprise 30,470 sq m of gross floor area for domestic purposes, equating to 655 units, and 100,899 sq m for non-domestic use.\n\nMeanwhile, the department also issued three demolition consents and 771 removal orders, and received 3,540 reports about unauthorised building works in September.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_150347_169/images/20261119154613776.jpg",
+      "publishedAt": "2026-11-18T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_150347_169.html"
     },
     {
       "id": "34bc936c474b3930",
@@ -1204,17 +1215,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1877920-20261116.htm"
-    },
-    {
-      "id": "0508329a23b279b9",
-      "title": "Building repair reform advanced",
-      "excerpt": "Led by the Chief Secretary Chan Kwok-ki, the steering committee set up to monitor the implementation of measures based on…",
-      "fullText": "Led by the Chief Secretary Chan Kwok-ki, the steering committee set up to monitor the implementation of measures based on the recommendations of the independent committee in relation to the fire at Wang Fuk Court in Tai Po held its first meeting today.\n\nFollowing the release of the independent committee’s report at the end of October, the Chief Executive announced that the Government would implement comprehensive and systemic reforms in relation to building maintenance and renovation, with oversight from a steering committee.\n\nAt today's meeting, Mr Chan directed bureaus and departments to implement the committee's various recommendations swiftly and precisely, with a view to achieving systemic improvements, streamlined processes, and effective implementation.\n\nHe emphasised that measures that are ready for implementation must be rolled out as soon as possible, while preparatory work for items requiring legislative amendments must be completed at full speed so that amendment proposals can be submitted to the Legislative Council for scrutiny and passage.\n\nRelevant bureaus and departments scrutinised an in-depth review of work plans, division of duties, implementation proposals, and timetables for advancing the various recommendations.\n\nThe steering committee will keep the measures' implementation and delivery under review, enact reforms to every element of the building maintenance and renovation system, sever existing chains of interests, and take action to prevent similar incidents from recurring.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261116/20261116_181359_966/images/20261116195515036.jpg",
-      "publishedAt": "2026-11-15T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261116/20261116_181359_966.html"
     },
     {
       "id": "82d83b459164b524",
