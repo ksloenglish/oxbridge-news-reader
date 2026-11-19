@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T02:15:16.636Z",
-  "checkedAt": "2026-11-19T02:15:16.636Z",
+  "generatedAt": "2026-11-19T02:30:23.620Z",
+  "checkedAt": "2026-11-19T02:30:23.620Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 13
     },
     {
       "id": "rthk-finance",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "e948df14917d71bf",
+      "title": "Xi calls for solidarity, innovation at Apec summit",
+      "excerpt": "President Xi Jinping on Thursday called on leaders attending the Apec summit in Shenzhen to build an Asia-Pacific community that…",
+      "fullText": "President Xi Jinping on Thursday called on leaders attending the Apec summit in Shenzhen to build an Asia-Pacific community that features solidarity and mutual assistance, openness and integration, innovation, and inclusive development.\n\nAddressing the Asia-Pacific Economic Cooperation Economic Leaders' Meeting, Xi stressed the need to steadily advance economic integration in the Asia-Pacific, and called on members to facilitate free, open trade and investment, unclog bottlenecks and ensure smooth economic circulation.\n\nXi Jinping also emphasised the importance of innovation in building an Asia-Pacific community, saying it is imperative to encourage exchanges and cooperation on the sci-tech front, facilitate the utilisation of innovation outcomes, and foster a cooperation environment that is open, fair, just and non-discriminatory.\n\nHe added that the bond of shared interests among Apec members should be strengthened, and they should work together to tackle difficulties and challenges, and continue to foster a sense of community.\n\nEfforts should be made to ensure that the benefits of development are shared by all, he said.\n\nChina is an advocate, promoter and forerunner in Asia-Pacific economic cooperation, Xi added, saying China is ready to work with all parties to build the pillars that support an Asia-Pacific community. (Reporting by Xinhua)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T02:18:26.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878395-20261119.htm"
+    },
     {
       "id": "c22869218edc71e8",
       "title": "Van Gogh work fetches record price after owner dispute",
@@ -711,17 +722,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878184-20261117.htm"
     },
     {
-      "id": "1caf81462319f24c",
-      "title": "'Unprecedented' Ukraine attack damages Crimean bridge",
-      "excerpt": "Ukrainian drones and missiles struck a vital bridge linking Russia to the occupied Crimean Peninsula, Ukrainian President Volodymyr Zelenskyy said…",
-      "fullText": "Ukrainian drones and missiles struck a vital bridge linking Russia to the occupied Crimean Peninsula, Ukrainian President Volodymyr Zelenskyy said on Tuesday, calling it an “unprecedented” operation as Russia reported that its forces downed a record number of Ukrainian drones for the second straight day.\n\nZelenskyy portrayed the operation on the Kerch Bridge as a masterstroke, as Ukrainian forces gradually wore down Russian air defences for weeks before bombarding the prized target with a barrage of missiles and drones overnight.\n\nZelenskyy didn’t detail the damage, but the Ukrainian General Staff said that an arch and a span of the bridge’s road section collapsed, severing the road link, while the railway line was still standing but its arch was damaged.\n\nRussia’s Investigative Committee said that the bridge was attacked by drones and sustained damage but didn’t elaborate.\n\nThe Kerch Bridge is a crucial link in moving military and civilian supplies from Russia to Crimea and to support troops on the front line.\n\nThe construction of the bridge, a potent symbol of Russia’s annexation of the peninsula in 2014, was inflammatory to Ukrainians.\n\n“The symbol of the occupation has cracked,” the Ukrainian General Staff said in a statement.\n\nMoscow’s forces, meanwhile, fired ballistic missiles and drones at Kyiv, hitting two of the Ukrainian capital’s main bridges and killing at least two people.\n\nA recent escalation in aerial attacks came as Russia and Ukraine await a date for the next round of US-mediated talks aimed at ending the war.\n\nUS President Donald Trump said he plans to talk about the war in Ukraine during his highly anticipated meeting with President Xi Jinping and Russian President Vladimir Putin in China this week.\n\nThe Kerch Bridge attack was the culmination of weeks of preparatory strikes over seven stages of the operation, Zelenskyy said on social media.\n\nUkrainian forces knocked out defence systems, radars, electronic warfare equipment and other designated targets before launching Monday night's final attack, he said.\n\nDomestically developed long-range drones struck the bridge's road section during the night while Ukraine's Neptune missiles and other drones aimed at the rail section, he said.\n\nFlamingo precision-guided missiles delivered the final blow, he said.\n\nThe Russian-installed governor of Crimea, Sergei Aksyonov, said that traffic across the bridge was halted but rail traffic was restored by Tuesday afternoon.\n\nHe didn’t mention any damage.\n\nKremlin spokesman Dmitry Peskov said that “there is no doubt that the bridge will be restored and will be even better than it was before”.\n\nZelenskyy noted that Russia has battered Ukrainian infrastructure, especially the power grid, every day.\n\nThere were significant power outages in three Ukrainian regions on Tuesday, he said.\n\n“We have repeatedly offered Russia steps toward de-escalation – and every proposal has been met with loud rejection,” he said.\n\nRussian air defences downed 1,441 drones during a second straight night of major Ukrainian attacks, Russia’s Defence Ministry said on Tuesday.\n\nThat was a day after Russia said that it downed 1,336 Ukrainian drones in the highest number of interceptions it had reported so far during the war. (AP)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T13:41:34.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878181-20261117.htm"
-    },
-    {
       "id": "121c141897f35b24",
       "title": "Evening News on TV32 - Nov 17",
       "excerpt": "Top stories for Tuesday, Nov 17, 2026 - Xi Jinping holds talks with world leaders as Apec meetings get underway…",
@@ -1171,17 +1171,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878026-20261116.htm"
-    },
-    {
-      "id": "e9eb86e70a720f92",
-      "title": "RTHK, CGTN join hands in Apec coverage",
-      "excerpt": "All eyes are on Shenzhen as the city prepares to host the annual Apec summit. World leaders will converge in…",
-      "fullText": "All eyes are on Shenzhen as the city prepares to host the annual Apec summit.\n\nWorld leaders will converge in China's tech hub to discuss a wide range of issues, ranging from economic development to bolstering regional cooperation.\n\nRTHK reporter Hailey Yip and CGTN's Yang Chengxi take a look at what's on the Apec agenda for Tuesday, November 17.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T11:42:39.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878022-20261116.htm"
     },
     {
       "id": "4d352436bdd926b5",
