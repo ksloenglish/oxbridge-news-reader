@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T07:45:26.536Z",
-  "checkedAt": "2026-11-19T07:45:26.536Z",
+  "generatedAt": "2026-11-19T08:00:27.546Z",
+  "checkedAt": "2026-11-19T08:00:27.546Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 11
     },
     {
       "id": "rthk-sport",
@@ -101,8 +101,8 @@
       "fullText": "Chief Executive John Lee on Thursday outlined five outcomes for the SAR at this year’s Apec meetings in Shenzhen.\n\nThey are: contributing Hong Kong's strengths by actively participating in and supporting the country's successful hosting of the Apec meetings; deepening exchanges and cooperation with Apec member economies; consolidating relations with Asean member states; further exploring emerging markets; and telling the good stories of the Greater Bay Area.\n\nLee noted that he met leaders from a number of Apec member economies through bilateral meetings.\n\nOn Wednesday, he met with the leaders of Malaysia, Vietnam, Brunei, Thailand and Chile, and is set to hold talks with leaders from Peru and Singapore on Thursday afternoon.\n\nThe CE said he has briefed them on opportunities within the Greater Bay Area, with the talks focusing on strengthening bilateral ties and addressing topics of mutual concern.\n\nLee said during his meeting with the president of Chile, they jointly witnessed the signing of a Working Holiday Scheme agreement between the two sides, the first of its kind between the SAR and Latin America.\n\nLee added that the opportunity to meet five Asean leaders would boost Hong Kong's bid to join the Regional Comprehensive Economic Partnership.\n\nThe chief executive also noted that he held a brief conversation with President Xi Jinping, updating him on the panel discussion regarding the Greater Bay Area at the Apec CEO Summit.\n\nLee said he told Xi the session received a very positive response, with participants agreeing on the massive opportunities available across the region.\n\nLee said he assured the president that Hong Kong will continue to serve as a \"super-connector\" and \"super value-adder\" to better serve and integrate into national development.\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-11-19T07:31:14.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878448-20261119.htm"
     },
     {
@@ -131,7 +131,7 @@
       "id": "7ba1223ebee2b18c",
       "title": "Xi, Trump hold talks in Shenzhen",
       "excerpt": "Presidents Xi Jinping and Donald Trump opened talks in Shenzhen on Thursday afternoon, the third meeting between the leaders of…",
-      "fullText": "Presidents Xi Jinping and Donald Trump opened talks in Shenzhen on Thursday afternoon, the third meeting between the leaders of China and the United States this year.\n\nThe meeting on the sidelines of the Apec summit came shortly after Trump held one-on-one talks with his Russian counterpart Vladimir Putin.\n\nAnd the three leaders are set to hold a landmark trilateral meeting later in the afternoon.\n\n\"You are my friend and we have a very special relationship,\" Trump told Xi ahead of their talks.\n\nThe meeting lasted roughly an hour, after which the two leaders and their delegations had lunch.\n\nEdited by Edmond Fong\n_____________________________\nLast updated: 2026-11-19 HKT 15:40",
+      "fullText": "Presidents Xi Jinping and Donald Trump opened talks in Shenzhen on Thursday afternoon, the third meeting between the leaders of China and the United States this year.\n\nThe meeting on the sidelines of the Apec summit came shortly after Trump held one-on-one talks with his Russian counterpart Vladimir Putin.\n\nAnd the three leaders are set to hold a landmark trilateral meeting later in the afternoon.\n\n\"You are my friend and we have a very special relationship,\" Trump told Xi ahead of their talks.\n\n\"China-US relations have remained generally stable and improved, bringing tangible benefits to the people of both countries and injecting stability and certainty into the world,\" Xi said.\n\nThe meeting lasted roughly an hour, after which the two leaders and their delegations had lunch. (Agencies)\n_____________________________\nLast updated: 2026-11-19 HKT 15:40\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-11-19T05:52:20.000Z",
       "source": "RTHK English — Greater China",
@@ -1149,17 +1149,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_181023_620.html"
-    },
-    {
-      "id": "7cf1f12d1aace5c3",
-      "title": "Govt moves to implement Wang Fuk recommendations",
-      "excerpt": "Chief Secretary Eric Chan has urged government bureaux and departments to implement recommendations from the independent committee report on the…",
-      "fullText": "Chief Secretary Eric Chan has urged government bureaux and departments to implement recommendations from the independent committee report on the deadly Wang Fuk Court fire “swiftly and precisely”.\n\nThis came as a steering committee led by Chan, which aimed at reviewing and driving forward the recommendations, held its first meeting on Monday to advance the coordination work for the reform of building maintenance and renovation system.\n\nAt the meeting, Chan urged the departments to roll out measures that are ready for implementation as soon as possible.\n\nHe said preparatory work for items involving legislative amendments must also be completed at full speed, so the amendments could be submitted to the legislature as soon as practicable.\n\nThe government said relevant bureaux and departments reviewed work plans, division of duties, as well as implementation proposals and timetables for pushing forward the recommendations during the meeting.\n\nIt added that the committee would hold meetings regularly to oversee the implementation of reforms and legislative amendment work.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T13:33:37.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878027-20261116.htm"
     },
     {
       "id": "09daa70462d05c20",
