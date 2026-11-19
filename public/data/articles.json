@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T08:30:22.280Z",
-  "checkedAt": "2026-11-19T08:30:22.280Z",
+  "generatedAt": "2026-11-19T08:45:24.775Z",
+  "checkedAt": "2026-11-19T08:45:24.775Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 11
+      "articleCount": 10
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 17
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "c0643c3d02fdb7a6",
+      "title": "Xi, Putin, Trump kick off landmark trilateral talks",
+      "excerpt": "The leaders of China, Russia and the United States have opened historic three-way talks aimed at safeguarding world peace. The…",
+      "fullText": "The leaders of China, Russia and the United States have opened historic three-way talks aimed at safeguarding world peace.\n\nThe meeting between Xi Jinping, Vladimir Putin and Donald Trump was held on Thursday afternoon in Shenzhen on the sidelines of the Apec summit.\n\nXi said the first-ever face-to-face meeting between the Chinese, Russian and US heads of state is of groundbreaking significance.\n\nThe trilateral meeting came after Trump held separate one-on-one talks with Putin and Xi earlier in the day.\n\nThe wars in Iran and Ukraine as well as nuclear disarmament are expected to be on the agenda.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T08:28:40.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878445-20261119.htm"
+    },
     {
       "id": "f9afe65488cf9975",
       "title": "Five positive outcomes for HK at Apec summit: Lee",
@@ -324,6 +335,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_150347_169.html"
+    },
+    {
+      "id": "aa2d72d998547d31",
+      "title": "Govt to fund sub-degree progs",
+      "excerpt": "The Education Bureau announced today that the Study Subsidy Scheme for Designated Professions/Sectors will subsidise 2,196 places in 35 sub-degree…",
+      "fullText": "The Education Bureau announced today that the Study Subsidy Scheme for Designated Professions/Sectors will subsidise 2,196 places in 35 sub-degree programmes at five post-secondary institutions for the 2027/28 academic year.\n\nThe programmes span seven disciplines facing strong manpower demand: architecture and engineering, computer science, creative industries, healthcare, sports and recreation, testing and certification, and tourism and hospitality.\n\nAnnual subsidies for the 2027/28 academic year will be $40,730 for laboratory-based programmes and $23,390 for non-laboratory-based programmes.\n\nThe subsidy applies to both new and continuing eligible students and covers the normal duration of the programmes.\n\nStudents in need may still apply for assistance from the Student Finance Office under the Working Family & Student Financial Assistance Agency to help cover the remaining tuition fees payable.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_150237_399/images/20261119160849761.jpg",
+      "publishedAt": "2026-11-18T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_150237_399.html"
     },
     {
       "id": "34bc936c474b3930",
@@ -621,17 +643,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878199-20261118.htm"
-    },
-    {
-      "id": "f60b953a58662d7d",
-      "title": "Russian military aircraft crashes in Siberia, 19 dead",
-      "excerpt": "A military An-12 transport aircraft has crashed in Russia's Kemerovo region in southwestern Siberia, killing all 19 people on board…",
-      "fullText": "A military An-12 transport aircraft has crashed in Russia's Kemerovo region in southwestern Siberia, killing all 19 people on board, Russia's defence ministry was quoted as saying on Tuesday.\n\n\"The preliminary cause of the disaster is a technical malfunction,\" state news agency RIA quoted the Defence Ministry as saying.\n\nIt quoted the ministry as saying that the aircraft had come down in an unpopulated area.\n\nRegional Governor Ilya Seredyuk, posting on Telegram from the scene of the accident, said emergency crews had put out a fire. He said the main task of crews on site was to help the investigation into the accident.\n\nSereedyuk, in a video posted online and showing the site of the accident near the village of Yagunovo, said the plane had been flying through the region when the accident occurred. (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T23:39:04.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878225-20261118.htm"
     },
     {
       "id": "5dc9d3200ee0ee80",
@@ -964,17 +975,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878097-20261117.htm"
     },
     {
-      "id": "5e3fadc4ca27e7ba",
-      "title": "Silence is golden for Shenzheners and Apec visitors",
-      "excerpt": "Shenzhen has embraced an unusual quiet as it prepares to host world leaders this week, with car horns banned, delivery…",
-      "fullText": "Shenzhen has embraced an unusual quiet as it prepares to host world leaders this week, with car horns banned, delivery drones grounded and residents urged to leave vehicles at home.\n\nThe meeting of the Asia-Pacific Economic Cooperation forum, in which presidents Donald Trump of the United States and Vladimir Putin of Russia will attend, is a chance for Shenzhen to show off its transformation from an agricultural backwater into the high-tech – and orderly, officials hope to show – city it is today.\n\nMore than 1.5 million local car owners have pledged to stay off the roads in exchange for Apec car stickers and, if they keep their word, transit cards worth up to 100 yuan.\n\nFrom Tuesday, cars with out-of-town plates will be barred from most city districts during the day, Shenzhen traffic police said.\n\nEven the city's ubiquitous e-bike riders have been asked to dismount in return for discounts on insurance, while parked bikes are being removed from main streets.\n\nMany downtown areas have been spruced up for the summit.\n\nThe venue stands beside Honey Lake, or Xiangmihu, which was home to one of Asia's largest amusement parks when it opened in 1985.\n\nThe park's long-disused roller coaster was torn down in 2024 to make way for a financial district.\n\nToday the lakeside area is lined with fresh flower beds and newly paved roads.\n\nShenzhen has encouraged employers to allow remote work, staggered hours or paid leave.\n\nSome residents are making the most of it.\n\nJohn, a middle-school teacher, is heading to the southwestern city of Chongqing.\n\n\"I just want to relax and enjoy cheap food, and come back when things are back to normal,\" he said.\n\nOn the roads, the hush owes much to a citywide ban on beeping that came in this month, enforced by acoustic cameras and fines starting at 300 yuan.\n\nShenzhen has long restricted horn use, but the new rules have been widely publicised.\n\n\"People are cutting in much more dangerously, you've just got to sit and watch,\" said Liu, a 29-year-old working in media, on the ban on using her car horn.\n\nDrones, one of the city's most famous exports, have been grounded, with Meituan suspending drone deliveries for 10 days.\n\nPreparations extend to wardrobes.\n\nAn office worker called Lin said her employer had told staff not to wear clothing printed with English phrases they did not understand, in case they were inadvertently displaying obscenities.\n\nStill, across the city, tens of thousands of people are wearing red jackets with \"volunteer\" written on them, including security guards at housing compounds. (Reuters)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T04:03:07.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878101-20261117.htm"
-    },
-    {
       "id": "afb03f09ff5735c7",
       "title": "HK to become centre for maritime business: CE",
       "excerpt": "Hong Kong will move beyond being a port through which goods pass and become a centre where maritime business of…",
@@ -1072,17 +1072,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
-    },
-    {
-      "id": "32bb300c6f3a3581",
-      "title": "HK's maritime strengths hailed",
-      "excerpt": "Thousands of global maritime professionals have gathered for Hong Kong Maritime Week 2026, convening to explore the sector’s emerging opportunities…",
-      "fullText": "Thousands of global maritime professionals have gathered for Hong Kong Maritime Week 2026, convening to explore the sector’s emerging opportunities and navigate its shared challenges.\n\nJohn Denholm, who is Chairman of the International Chamber of Shipping – which represents shipowners and operators internationally – emphasised that Hong Kong’s unique role as a bridge between East and West grants it significant potential to evolve as a maritime centre.\n\n“The opportunities for Hong Kong’s maritime industry are huge,” he said. “Hong Kong is a gateway to both the East and the West, and is in a great position.”\n\nMr Denholm also credited the relationship between the Hong Kong Special Administrative Region Government and the shipping industry with cementing the city’s leadership role in maritime matters.\n\n“Hong Kong is leading the world in many aspects,\" he said. \"It’s a leader, not a follower, in the marine industry because of the Government and its relationship with the shipping industry.”\n\nBeyond customary concerns, attendees are addressing current industry issues such as supply-chain resilience, geopolitical shifts, emerging technologies and green fuels.\n\nInternational Union of Marine Insurance President Sean Dalton said Hong Kong Maritime Week provides a vital platform for direct dialogue. His organisation represents marine insurers internationally.\n\n“We are all working on solving the same problems, and connections such as this are instrumental to doing our best work,” he said.\n\nMeanwhile, the International Group of P&I Clubs, a group of marine liability insurers, highlighted its members’ deep-rooted presence in the city, which they view as a gateway to China. Chief Executive Officer Nick Shaw noted that 11 of the group’s 12 clubs maintain offices in Hong Kong, employing hundreds of specialists.\n\n“I think the opportunities going forward are boundless,” he said.\n\nAsian Shipowners’ Association Interim Secretary General Eleanor Keukura Roi said that the event bridges Asia’s maritime community with the wider world. The association represents regional shipowners.\n\nShe said that the gathering offers a valuable opportunity to bring shipowners’ perspectives into global discussions, strengthen partnerships and turn shared challenges into collective action.\n\nEchoing these sentiments, UK Chamber of Shipping Chief Executive Rhett Hatcher stated that the event brings together industry representatives to exchange ideas and share good practices.\n\nHe added that Hong Kong Maritime Week enables participants to discuss both the challenges facing the industry and significant opportunities ahead.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261116/20261116_213907_067/images/20261116233218000.jpg",
-      "publishedAt": "2026-11-16T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261116/20261116_213907_067.html"
     },
     {
       "id": "3906c31aeea1c326",
@@ -1622,17 +1611,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
-    },
-    {
-      "id": "655dea3537ed986c",
-      "title": "Five HK universities rank in top 100",
-      "excerpt": "Hong Kong has five universities among the top 100 in the World University Rankings 2027, published by Times Higher Education…",
-      "fullText": "Hong Kong has five universities among the top 100 in the World University Rankings 2027, published by Times Higher Education (THE).\n\nCommenting today, the Education Bureau highlighted that two of the city’s ranked institutions had gained higher positions in the latest rankings.\n\nIt said the results demonstrate the robust strengths of Hong Kong’s higher education system and its world-class standing in terms of teaching, research, and international outlook.\n\nIt added that the rankings reflect the Government’s investment of resources and its policy support over the years, both of which have laid a solid foundation for the city’s higher education institutions.\n\nIn the latest rankings, the University of Hong Kong ranks 33rd globally; the Chinese University ranks 42nd; and the University of Science & Technology ranks 58th. City University and Polytechnic University have risen to 70th and 79th respectively.\n\nThe bureau said the consistent high international rankings of Hong Kong’s universities not only reflect the local higher education sector's excellence, but also bear witness to the Government’s proactive leadership in policy measures aimed at driving innovation and change, as well as expanding capacity while enhancing quality.\n\nIt added that the Government will continue to spare no effort in promoting the sector's comprehensive integration into overall national development, contributing to China’s development as a leading country in education.\n\nLooking ahead, the bureau said that with the advent of Hong Kong’s First Five-Year Plan, the city’s higher education is ushering in a golden period of development full of promising potential.\n\n“We will continue to promote the all-round connectivity in areas such as talent training, frontier scientific research, and industry-academia-research collaboration, optimise resource allocation, support various institutions in consolidating their existing advantages while pioneering innovation, and nurture more outstanding talent equipped with both international perspective and exceptional capabilities, thereby making greater contributions to the long-term prosperity and stability of Hong Kong and the country.”",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409/images/20260930122638517.jpg",
-      "publishedAt": "2026-09-29T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/09/20260930/20260930_103452_409.html"
     }
   ]
 }
