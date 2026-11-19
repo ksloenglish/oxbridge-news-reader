@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T06:45:16.779Z",
-  "checkedAt": "2026-11-19T07:00:30.000Z",
+  "generatedAt": "2026-11-19T07:15:16.200Z",
+  "checkedAt": "2026-11-19T07:15:16.200Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "ca6eaeb126417b15",
+      "title": "Arrests over HK$68m phone 'scams'",
+      "excerpt": "One hundred and twenty-three people have been arrested as police busted two scam call operation centres in a crackdown on…",
+      "fullText": "One hundred and twenty-three people have been arrested as police busted two scam call operation centres in a crackdown on phone scams and money laundering, with the cases involving about HK$68 million.\n\nThe two-week operation, led by the Commercial Crime Bureau, began in early November.\n\nOf those arrested, 95 were men and the rest women, with their ages ranging between 14 and 75.\n\nMost were stooge account holders or phone registrants and were arrested on suspicion of conspiracy to defraud and obtaining property by deception and money laundering, police said, adding that officers froze HK$1.8 million.\n\nOfficers said one of the scam call operation centres was hidden in industrial units in Kwun Tong and Hung Hom.\n\nA 47-year-old man was arrested and two SIM card modems, known as \"cat pools\", were seized.\n\nChief Inspector Ho Ming-wai said the use of such device had made the criminal chain highly fragmented and harder to investigate.\n\n\"Take the cat pool device at the scene as an example,\" she said.\n\n\"It can dial more than 200 different phone numbers within one hour. Once a citizen answers, the incoming call will be routed through a network system to a phone scam center at another location, continuing this fraudulent activity.\"\n\nThe bureau said phone scams have been rising, with nearly 10,000 cases recorded in the first three quarters of 2026, making up about 30 percent of all cons.\n\nA single-month record of more than 2,000 cases was logged in August, while total losses reached HK$1.9 billion. Impersonation of customer service staff accounted for 60 percent of cases.\n\nOfficers also noted scammers are increasingly using two- and three-prefix numbers that look like landlines, when they are actually internet calls, to lower the public's guard.\n\n\"These fixed-line phone numbers are, actually, internet calls,\" Superintendent Kwok Ching-yee said.\n\n\"At this stage, they are not yet subject to real-name registration regulation like phone cards and stored-value cards.\"\n\nIn a separate operation, the West Kowloon regional technology and financial crime unit targeted a group impersonating Alipay customer services in an operation that dismantled a call transfer centre.\n\nThirty-three victims have been defrauded of HK$4 million since December, and police said more arrests are possible.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T06:52:42.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878422-20261119.htm"
+    },
     {
       "id": "d7914815d670074a",
       "title": "Trump-Putin meeting centres on Ukraine: Moscow",
@@ -1160,17 +1171,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/"
-    },
-    {
-      "id": "927ecddff09522fe",
-      "title": "Evening News on TV32 - Nov 16",
-      "excerpt": "Top stories for Monday, Nov 16, 2026 - Apec leaders start arriving in Shenzhen, where Xi Jinping is expected to…",
-      "fullText": "Top stories for Monday, Nov 16, 2026\n\n- Apec leaders start arriving in Shenzhen, where Xi Jinping is expected to discuss world peace with his US and Russian counterparts.\n\n- New World shares plummet after it proposes a 24.9 billion dollar rights issue plan.\n\n- Around a dozen people are killed in a fire in Phuket.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-16T12:41:13.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878026-20261116.htm"
     },
     {
       "id": "4d352436bdd926b5",
