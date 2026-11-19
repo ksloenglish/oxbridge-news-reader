@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T12:30:23.115Z",
-  "checkedAt": "2026-11-19T12:30:23.115Z",
+  "generatedAt": "2026-11-19T12:45:18.301Z",
+  "checkedAt": "2026-11-19T12:45:18.301Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "cf45f95ba892a8f3",
+      "title": "Evening News on TV32 - Nov 19",
+      "excerpt": "Top stories for Thursday, Nov 19, 2026 - Xi Jinping holds a trilateral meeting with his US and Russian counterparts…",
+      "fullText": "Top stories for Thursday, Nov 19, 2026\n\n- Xi Jinping holds a trilateral meeting with his US and Russian counterparts, describing it as having \"groundbreaking significance\".\n\n- President Xi pledges 20 million US dollars to boost Apec cooperation.\n\n- Chief Executive John Lee outlines five positive outcomes for Hong Kong from this year’s Apec meetings.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T12:24:28.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878495-20261119.htm"
+    },
     {
       "id": "42ee8951335162f1",
       "title": "RTHK, CGTN deliver Apec highlights for the day",
@@ -995,17 +1006,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878143-20261117.htm"
-    },
-    {
-      "id": "ee54d366a3a03d52",
-      "title": "Welding or smoking suspected in Shek Kwu Chau fire",
-      "excerpt": "The Fire Services Department on Tuesday said a fire at a waste-management facility on an artificial island off Shek Kwu…",
-      "fullText": "The Fire Services Department on Tuesday said a fire at a waste-management facility on an artificial island off Shek Kwu Chau last month was suspected to be related to welding works or smoking.\n\nIn a reply to media enquiries, the department said it had completed its investigation into the fire, which broke out on October 26, involving the collection of evidence at the scene and the taking of statements from relevant parties.\n\nIts findings indicated that the fire originated on the upper level within the third incineration module area of the incineration building, the department said.\n\nThe investigation ruled out electrical faults, arson and spontaneous combustion of chemical substances as the cause.\n\nThe department said it had completed its report, which was referred to the Environmental Protection Department for follow-up.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T08:20:05.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878138-20261117.htm"
     },
     {
       "id": "fa5420baf38738a7",
