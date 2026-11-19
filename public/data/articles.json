@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T08:45:24.775Z",
-  "checkedAt": "2026-11-19T08:45:24.775Z",
+  "generatedAt": "2026-11-19T09:00:31.943Z",
+  "checkedAt": "2026-11-19T09:00:31.943Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 18
     },
     {
       "id": "rfa-english",
@@ -335,6 +335,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_150347_169.html"
+    },
+    {
+      "id": "86df1cd42af672a5",
+      "title": "CE hails 5 APEC Summit outcomes",
+      "excerpt": "Chief Executive John Lee said today that Hong Kong achieved five major outcomes during the Asia-Pacific Economic Cooperation (APEC) CEO…",
+      "fullText": "Chief Executive John Lee said today that Hong Kong achieved five major outcomes during the Asia-Pacific Economic Cooperation (APEC) CEO Summit held in Shenzhen, ranging from strengthened ties with Southeast Asian nations to new agreements with emerging markets.\n\nSpeaking to the media this afternoon, Mr Lee emphasised Hong Kong's active role in supporting China's hosting of the regional forum.\n\n“First, contributing Hong Kong's strength by actively participating in and supporting our country's successful hosting of the APEC meeting,\" said Mr Lee, noting that the city organised meetings and workshops while launching a series of capacity-building projects throughout the event.\n\nDuring the summit, Mr Lee focused on bilateral diplomacy to deepen exchanges with fellow APEC economies and consolidate ties with the Association of Southeast Asian Nations (ASEAN).\n\n“I met with the leaders of seven economies – Malaysia, Vietnam, Brunei, Thailand, Chile, Peru and Singapore – to strengthen ties and discuss issues of mutual concern,” he said. “The APEC meetings provided me with the opportunity to meet with five ASEAN leaders at bilateral meetings and engagements to further consolidate our relations.”\n\nIn a move to expand the city's reach into emerging markets, Mr Lee pointed to a new bilateral milestone reached on Wednesday.\n\n\"Yesterday, the President of Chile and I jointly witnessed the signing of the Working Holiday Scheme Agreement between Hong Kong and Chile,\" he said.\n\nRounding out the achievements, Mr Lee highlighted his efforts at Tuesday’s CEO Summit to promote the Guangdong-Hong Kong-Macao Greater Bay Area (GBA) and showcase Hong Kong’s unique advantages to international business and political leaders.\n\nThe Chief Executive added that Hong Kong has been making efforts to deepen the city's integration into national development.\n\n“I think we can deepen Greater Bay Area development through hard, soft and heart connectivity and take forward the Northern Metropolis for integrating into national development. Second, we can contribute to Belt & Road co-operation.\n\n“Third, we can, through the Go Global Task Force, support many enterprises in leveraging Hong Kong's world-class professional services and extensive global network, in using Hong Kong as a springboard to expand into global markets.”",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_135949_275/images/20261119161511896.jpg",
+      "publishedAt": "2026-11-18T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_135949_275.html"
     },
     {
       "id": "aa2d72d998547d31",
@@ -1080,8 +1091,8 @@
       "fullText": "The seasonally adjusted unemployment rate decreased from 3.9% in the three months from July to September to 3.8% in the period from August to October, the Census & Statistics Department announced today.\n\nThe underemployment rate remained at 2%.\n\nTotal employment was 3,653,800, down 1,200 from the previous three-month period, while the labour force dropped by around 5,800 to 3,804,200.\n\nLooking ahead, Secretary for Labour & Welfare Chris Sun said that the ongoing expansion of the local economy, solid consumption sentiment and continued growth in inbound tourism should render support to the overall labour market conditions.\n\n“The Government will continue to closely monitor the evolving external uncertainties for their potential implications on corporate hiring sentiments and provide job-seekers with appropriate support,\" Mr Sun said.",
       "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_163139_927/images/20261117171521395.jpg",
       "publishedAt": "2026-11-16T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_163139_927.html"
     },
     {
