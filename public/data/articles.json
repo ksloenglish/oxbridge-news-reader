@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T10:15:20.810Z",
-  "checkedAt": "2026-11-19T10:47:37.813Z",
+  "generatedAt": "2026-11-19T11:00:36.959Z",
+  "checkedAt": "2026-11-19T11:00:36.959Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 14
     },
     {
       "id": "rthk-world",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 14
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "43f7655e575501fb",
+      "title": "HK, Singapore leaders meet on Apec sidelines",
+      "excerpt": "The leaders of Hong Kong and Singapore on Thursday discussed fostering closer ties on the sidelines of the Apec summit…",
+      "fullText": "The leaders of Hong Kong and Singapore on Thursday discussed fostering closer ties on the sidelines of the Apec summit.\n\nChief Executive John Lee said in his meeting with Singapore Prime Minister Lawrence Wong that they discussed Hong Kong’s first five-year plan.\n\n“I’m thankful because it just strengthened our partnership and relationship,” Lee said.\n\nWong, for his part, said exchanges between the two governments have continued at various levels, such as the Singapore-Hong Kong Permanent Secretaries Exchange Programme which was held in Singapore in July.\n\n“The ties are warmer than ever, and I look forward to building even closer cooperation between our two cities,” he said.\n\nLee agreed that the exchange programme was working very well and suggested that next year’s exchange take place in Hong Kong.\n\nIn his social media post, Lee thanked Singapore for its continued support for the SAR’s early accession to Regional Comprehensive Economic Partnership (RCEP), as the Lion City takes up the Asean chairmanship next year.\n\n“I welcome Singapore’s public and private sectors, including GIC and technology enterprises, to explore the business potential of the Hong Kong Park in the Hetao Co-operation Zone and deepen collaboration in areas such as artificial intelligence and biotechnology,” he wrote.\n\nThe CE said the two cities are both outward-oriented economies with strong track records in finance, trade and shipping.\n\nHe said commercial ties between the two cities are close, and that he looked forward to the further consolidation of their partnership.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T10:46:05.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878480-20261119.htm"
+    },
     {
       "id": "805190117908836c",
       "title": "Takaichi wants 'constructive, stable' ties with China",
@@ -975,25 +986,14 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878117-20261117.htm"
     },
     {
-      "id": "c729626fa04b6126",
-      "title": "Ovaries wrongly removed in private hospital op",
-      "excerpt": "Local authorities on Tuesday made public two incidents in September, one of which saw both ovaries of a 45-year-old woman…",
-      "fullText": "Local authorities on Tuesday made public two incidents in September, one of which saw both ovaries of a 45-year-old woman mistakenly removed during surgery, the Department of Health said.\n\nThe department said, in reply to enquiries on Tuesday, that the woman had undergone a laparoscopic hysterectomy and bilateral salpingectomy.\n\nDuring the procedure, which was performed at CUHK Medical Centre, both ovaries were wrongly removed.\n\nThe woman is in stable condition.\n\nDepartment officials said there was no evidence to show that the private hospital had breached applicable requirements under the code of practice in terms of premises, manpower or equipment that led to the incident.\n\nCUHK Medical Centre said it was highly concerned about the case.\n\nIt said it apologised to the patient and her family, explained the incident to authorities and provided appropriate medical follow-up and support.\n\nThe medical centre added it had conducted a comprehensive review and would implement appropriate follow-up and improvement measures in light of the findings.\n\nThe second case involved a 27-year-old woman at a day procedure centre who was mistaken for another patient and was given dental scaling treatment.\n\nThe woman is also in a stable condition.\n\nThe department said it had followed up on the two cases immediately after being notified and requested that the facilities concerned submit investigation reports within four weeks.\n\nIt said it had received the reports and completed its investigations.\n\nThe facilities concerned have taken improvement measures and the department would continue to monitor their implementation.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T06:39:38.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878110-20261117.htm"
-    },
-    {
       "id": "09bf5a0b7b1a2292",
       "title": "Tech leaders say EV innovation, robotaxis key for Apec",
       "excerpt": "The founder of the world's largest electric vehicle battery maker on Tuesday said opportunities in the Asia-Pacific region outweigh challenges…",
       "fullText": "The founder of the world's largest electric vehicle battery maker on Tuesday said opportunities in the Asia-Pacific region outweigh challenges and that innovation is the key to unlocking them.\n\nSpeaking at the Apec CEO Summit in Shenzhen, Robin Zeng of Contemporary Amperex Technology Limited (CATL) said a company's first goal is to make money, but that its purpose as it grows should be to benefit people.\n\nHe said this is what motivates him to persist, adding that CATL is focused on innovation and on sharing the benefits of advances made across the region.\n\n\"We really focus on innovations,\" Zeng said.\n\n\"So if you have technology innovation, product innovation, solution innovation, then they can come up with a solution to share in this region.\n\n\"For example, everyone now is focused on the EV.\n\n\"We are more focused on the infrastructure of the EV, so battery swapping is one of the innovations, which can help all the EV cars swap the batteries in 99 seconds. So it's very fast.\n\n\"This can already be applied to this region. This is we're talking about a business model innovation.\"\n\nSpeaking at the same panel discussion, Baidu chief executive Robin Li highlighted driverless ride-hailing vehicles as a prime example of artificial intelligence's real-world potential.\n\n\"It's a real application, and people can really benefit from that,\" he said.\n\n\"It benefits people's daily lives. Every year, more than a million people get killed on the roads.\n\n\"But when robotaxi is operating, its safety record is about 10 times better than that of a human driver.\"\n\nLi said that with China and the United States gradually opening the way for for autonomous vehicles, he hoped other places in Asia would follow suit.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-17T04:44:39.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878103-20261117.htm"
     },
     {
