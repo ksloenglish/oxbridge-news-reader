@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T10:00:27.857Z",
-  "checkedAt": "2026-11-19T10:00:27.857Z",
+  "generatedAt": "2026-11-19T10:15:20.810Z",
+  "checkedAt": "2026-11-19T10:15:20.810Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 9
+      "articleCount": 8
     },
     {
       "id": "rthk-finance",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 13
     },
     {
       "id": "rthk-sport",
@@ -95,6 +95,17 @@
   ],
   "articles": [
     {
+      "id": "805190117908836c",
+      "title": "Takaichi wants 'constructive, stable' ties with China",
+      "excerpt": "Japanese Prime Minister Sanae Takaichi, on her first trip to China since taking office, said on Thursday that she intends…",
+      "fullText": "Japanese Prime Minister Sanae Takaichi, on her first trip to China since taking office, said on Thursday that she intends to build a \"constructive and stable relationship\" with Beijing.\n\nHer trip to Shenzhen for the Apec summit was also her first to China since making comments about Taiwan a year ago that caused a sharp deterioration in relations with Beijing.\n\n\"We intend to comprehensively advance our strategic and mutually beneficial relationship... pursuing dialogue to safeguard the national interests of both sides, and build a constructive and stable relationship,\" Takaichi said on the sidelines of the summit.\n\n\"China is an important neighbour,\" she said, adding that \"precisely because there are pending issues and challenges between Japan and China, we believe it is important to engage in dialogue and maintain communication.\" (AFP)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T10:07:32.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878453-20261119.htm"
+    },
+    {
       "id": "4db7fdc12e9ec4e4",
       "title": "HK, mainland stocks fall amid chip clampdown",
       "excerpt": "Hong Kong's benchmark sank to four-month lows while mainland stocks remained under pressure, as fresh trade tensions flared up between…",
@@ -131,7 +142,7 @@
       "id": "c0643c3d02fdb7a6",
       "title": "Xi, Putin, Trump kick off landmark trilateral talks",
       "excerpt": "The leaders of China, Russia and the United States have opened historic three-way talks aimed at safeguarding world peace. The…",
-      "fullText": "The leaders of China, Russia and the United States have opened historic three-way talks aimed at safeguarding world peace.\n\nThe meeting between Xi Jinping, Vladimir Putin and Donald Trump was held on Thursday afternoon in Shenzhen on the sidelines of the Apec summit.\n\nIn his opening remarks, Xi said the first-ever face-to-face meeting between the Chinese, Russian and US heads of state is of groundbreaking significance.\n\n\"As major countries in the world and permanent members of the United Nations Security Council, our three countries should set a good example, cooperate in responding to global challenges, jointly safeguard world peace and stability, and make greater contributions to human progress,\" he said.\n\nXi also said peace among major countries brings stability to the world, while their contention would only lead to chaos.\n\nPutin said their three nations shared an \"interest\" in resolving the Ukraine war and a \"responsibility\" for global peace and security.\n\nTrump said the three leaders were \"making history\" by holding talks in Shenzhen.\n\nThe trilateral meeting came after Trump held separate one-on-one talks with Putin and Xi earlier in the day.\n\nThe wars in Iran and Ukraine as well as nuclear disarmament are expected to be on the agenda. (Xinhua and agencies)\n_____________________________\nLast updated: 2026-11-19 HKT 17:31\n\nEdited by Edmond Fong",
+      "fullText": "The leaders of China, Russia and the United States have opened historic three-way talks aimed at safeguarding world peace.\n\nThe meeting between Xi Jinping, Vladimir Putin and Donald Trump was held on Thursday afternoon in Shenzhen on the sidelines of the Apec summit.\n\nIn his opening remarks, Xi said the first-ever face-to-face meeting between the Chinese, Russian and US heads of state is of groundbreaking significance.\n\n\"As major countries in the world and permanent members of the United Nations Security Council, our three countries should set a good example, cooperate in responding to global challenges, jointly safeguard world peace and stability, and make greater contributions to human progress,\" he said.\n\nXi also said peace among major countries brings stability to the world, while their contention would only lead to chaos.\n\nHe made four points on how major countries could find the right way to get along and jointly underpin world peace – they should uphold mutual respect, peaceful coexistence, win-win cooperation, and dialogue and consultation.\n\nPutin said their three nations shared an \"interest\" in resolving the Ukraine war and a \"responsibility\" for global peace and security.\n\nTrump said the three leaders were \"making history\" by holding talks in Shenzhen.\n\nThe trilateral meeting came after Trump held separate one-on-one talks with Putin and Xi earlier in the day.\n\nThe wars in Iran and Ukraine as well as nuclear disarmament are expected to be on the agenda. (Xinhua and agencies)\n_____________________________\nLast updated: 2026-11-19 HKT 17:31\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-11-19T08:28:40.000Z",
       "source": "RTHK English — Greater China",
@@ -390,6 +401,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_150237_399.html"
+    },
+    {
+      "id": "af7f0c636d0ef3f1",
+      "title": "Poll to be held on Sunday",
+      "excerpt": "The 2026 Election Committee Subsector Ordinary Elections will be held this Sunday, with polling taking place from 9am to 6pm…",
+      "fullText": "The 2026 Election Committee Subsector Ordinary Elections will be held this Sunday, with polling taking place from 9am to 6pm. A total of 856 candidates will contest 723 seats in 31 subsectors.\n\nToday, the Registration & Electoral Office urged voters and authorised representatives (ARs) to follow the instructions on their poll card and present their original, valid Hong Kong identity card at their designated polling station in order to vote.\n\nFive ordinary polling stations and two restricted polling stations will be in operation for the elections. Only registered voters or ARs who are listed under contested subsectors in the 2026 final register of voters for Election Committee subsectors are eligible to vote.\n\nVoters or ARs can use “iAM Smart” or the voter registration website to log in to the Online Voter Information Enquiry System and check their polling information, including the location of their designated polling station, and access the Introduction to Candidates.\n\nFor enquiries, call the election hotline on 2891 1001. For complaints about breaches of electoral rules or guidelines, call the complaint hotline on 2827 7251 or 3707 0188.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_160933_148/images/20261119171813987.jpg",
+      "publishedAt": "2026-11-18T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_160933_148.html"
     },
     {
       "id": "34bc936c474b3930",
@@ -665,17 +687,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878223-20261118.htm"
-    },
-    {
-      "id": "c34f510d01e8793c",
-      "title": "UK sanctions Israeli firms helping build settlements",
-      "excerpt": "Britain on Tuesday unveiled sanctions against eight Israeli companies involved in planning and building West Bank settlements, drawing a sharp…",
-      "fullText": "Britain on Tuesday unveiled sanctions against eight Israeli companies involved in planning and building West Bank settlements, drawing a sharp warning that Israel would hit back.\n\nThe new measures, aimed at hindering expansion of the settlements, which are considered illegal under international law, also follow what the UK government has called a reset of its approach to the issue in September.\n\nUnveiling the curbs, Foreign Secretary Ed Miliband said they were part of efforts to protect the so-called two-state solution aimed at resolving the decades-old Israeli-Palestinian conflict.\n\n\"Do not bid, do not build, and do not profit from the destruction of the two-state solution,\" Britain's top diplomat said in a statement.\n\nWithin hours Israel slammed the move and vowed retaliation.\n\n\"Israel views the additional sanctions against it... with the utmost gravity,\" Israeli caretaker foreign minister Gideon Saar wrote on X.\n\n\"As in the past, Israel will take countermeasures against the British move.\"\n\nEuropean leaders have already condemned plans to construct more than 1,200 homes in the occupied West Bank, which were put out to tender in August.\n\nAnd the UN secretary-general has said the so-called E1 project posed an \"existential threat\" to a contiguous Palestinian state.\n\nThe UK's Foreign Office said Tuesday's sanctions \"target construction and property development firms involved in settlement expansion.\"\n\n\"The UK has taken firm action against eight construction and property development firms which will disrupt their flows of finance and ability to support further construction in the West Bank,\" it added.\n\nThe move results in asset freezes for the companies and groups as well as director disqualifications.\n\nOne of the blacklisted Israeli companies, real estate developer Harey Zahav, sparked controversy in 2023 when it posted a slogan on social media voicing hopes of returning settlers to Gaza.\n\nIt has gained a reputation for constructing wildcat settler outposts in the occupied West Bank without Israeli government authorisation.\n\nIn response to the British move, the high-profile head of a body representing the settlements vowed to ramp up their construction, accusing Britain of being a \"colonialist, plundering and hypocritical country.\"\n\nYossi Dagan, who leads the Samaria Regional Council, in the northern West Bank, added in a statement \"we will build even more.\"\n\nBritain has toughened its position on Israel and the settlements since the centre-left Labour Party took power in mid-2024, sanctioning various Israeli individuals and organisations. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T23:44:15.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878203-20261118.htm"
     },
     {
       "id": "5dc9d3200ee0ee80",
@@ -992,8 +1003,8 @@
       "fullText": "More than 2,000 chief executives and representatives will attend the Apec CEO Summit in Shenzhen on Tuesday and Wednesday, summit chairman Ren Hongbin said.\n\nHe said discussions on the first day of the event would cover seven topics, among which are artificial intelligence, sustainable development, digital economy and development opportunities for the Greater Bay Area and the Asia-Pacific region.\n\n“For a long time, the business community has actively supported, participated in and promoted the cooperation and development in the Asia-Pacific region,” Ren said.\n\n“By pushing major development, prosperity and connectivity in the region, it has made Asia-Pacific the most dynamic region in the global economy and a primary engine for growth.”\n\nRen, also chairman of the China Council for the Promotion of International Trade, said President Xi Jinping would attend the summit’s opening ceremony on Wednesday and deliver a speech.\n\nAnother 11 leaders of Apec economies would also attend the summit, he added.\n\nRen expressed hope that summit participants could achieve consensus and cooperation during discussions.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-17T04:22:38.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878098-20261117.htm"
     },
     {
@@ -1116,17 +1127,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_173517_488.html"
-    },
-    {
-      "id": "547a2b330171aaee",
-      "title": "Election Committee poll cards sent",
-      "excerpt": "The Registration & Electoral Office (REO) has mailed poll cards to voters or their authorised representatives (ARs) in the 31…",
-      "fullText": "The Registration & Electoral Office (REO) has mailed poll cards to voters or their authorised representatives (ARs) in the 31 contested subsectors ahead of the 2026 Election Committee Subsector Ordinary Elections, due to be held on Sunday.\n\nThe mail sent out also includes a map showing the location of the relevant polling station, a guide on voting procedures, an introduction to candidates and an Independent Commission Against Corruption leaflet on elections.\n\nVoters or their ARs can also use iAM Smart or the voter registration website to log in to the Online Voter Information Enquiry System, where they can access all of the information included in the mail.\n\nThe REO reminded voters and ARs that they should cast their votes at the polling station assigned to them, and that they must carry their Hong Kong identity card or specified alternative documents to collect their ballot papers.\n\nA total of 856 candidates will contest 723 seats in the 31 subsectors. Voting will not be required for five subsectors, where 259 candidates will be returned uncontested.\n\nThe five uncontested subsectors are: education; sports, performing arts, culture and publishing; associations of Chinese fellow townsmen; labour; and \"representatives of Hong Kong members of relevant national organisations\".\n\nCall 2891 1001 for enquiries.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_170126_788/images/20261117180406335.jpg",
-      "publishedAt": "2026-11-16T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_170126_788.html"
     },
     {
       "id": "5c7f8ee4e17b9c7f",
