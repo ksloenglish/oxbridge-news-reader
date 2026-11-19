@@ -645,24 +645,47 @@ function render() {
 
 const SCROLLERS = ".sheet, .pane, .word-list";
 
+// The News Desk list scrolls inside its pane only in the two-column layout.
+// On a phone the sheet is the scroller, and this returns null so opening a
+// story still uses the full top reset.
+function deskListScrollTop() {
+  const list = app.querySelector(".desk .list-pane");
+  if (!list) return null;
+  const overflow = getComputedStyle(list).overflowY;
+  if (overflow !== "auto" && overflow !== "scroll") return null;
+  return list.scrollTop;
+}
+
+function resetScrollers(keepListTop = null) {
+  window.scrollTo(0, 0);
+  document.documentElement.scrollTop = 0;
+  document.body.scrollTop = 0;
+  for (const el of app.querySelectorAll(SCROLLERS)) {
+    const keepList = keepListTop != null && el.matches(".desk .list-pane");
+    el.scrollTop = keepList ? keepListTop : 0;
+  }
+}
+
 function scrollViewToTop() {
-  const reset = () => {
-    window.scrollTo(0, 0);
-    document.documentElement.scrollTop = 0;
-    document.body.scrollTop = 0;
-    for (const el of app.querySelectorAll(SCROLLERS)) el.scrollTop = 0;
-  };
-  reset();
-  requestAnimationFrame(reset);
+  resetScrollers();
+  requestAnimationFrame(() => resetScrollers());
 }
 
 // Opening a story reuses the sheet offset from the list. On a phone that
 // offset is the page scroll, so the article opened already part-way down.
 // Same top reset as a section change, including the frame after the focused
 // list button is removed (that is when Safari reapplies scroll).
-function scrollOpenedArticleToTop() {
-  scrollViewToTop();
-  requestAnimationFrame(() => requestAnimationFrame(scrollViewToTop));
+// keepListTop puts the two-column list back. Selecting another story in that
+// list used to zero the pane along with the story column. Section changes
+// still call scrollViewToTop() and do not pass a saved offset.
+function scrollOpenedArticleToTop(keepListTop = null) {
+  const reset = () => resetScrollers(keepListTop);
+  reset();
+  requestAnimationFrame(reset);
+  requestAnimationFrame(() => requestAnimationFrame(() => {
+    reset();
+    requestAnimationFrame(reset);
+  }));
 }
 
 function scrollSnapshot() {
@@ -842,12 +865,13 @@ app.addEventListener("click", (event) => {
   }
   const article = event.target.closest("[data-article]");
   if (article) {
+    const keepListTop = deskListScrollTop();
     ui.articleId = article.dataset.article;
     ui.section = "news";
     openHit = null;
     persist();
     render();
-    scrollOpenedArticleToTop();
+    scrollOpenedArticleToTop(keepListTop);
     return;
   }
   if (event.target.closest("[data-close-article]")) {
