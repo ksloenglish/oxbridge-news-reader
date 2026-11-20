@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T00:30:21.977Z",
-  "checkedAt": "2026-11-20T01:30:29.674Z",
+  "generatedAt": "2026-11-20T01:45:15.968Z",
+  "checkedAt": "2026-11-20T01:45:15.968Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -95,6 +95,17 @@
   ],
   "articles": [
     {
+      "id": "8e0255a61f68a0c0",
+      "title": "Japan, Korea stocks plunge despite Anthropic IPO",
+      "excerpt": "Japanese and South Korean stocks plunged in early trade Friday after chip-related stocks fell on Wall Street, despite the stellar…",
+      "fullText": "Japanese and South Korean stocks plunged in early trade Friday after chip-related stocks fell on Wall Street, despite the stellar debut performance of Anthropic.\n\nAt the start of Friday morning trade, the Nikkei 225 was down 4.02 percent at 57,051 points, while South Korea's benchmark Kospi index fell 3.81 percent to 4,942 points.\n\nAnthropic, the maker of the Claude chatbot, raised a record US$81.3 billion in its initial offering, with shares closing 17 percent higher in its Nasdaq debut on Thursday.\n\nBut the gain came on a rough day for markets, with both the tech-heavy Nasdaq and the broader S&P 500 closing down more than two percent.\n\nThe record IPO also failed to settle nerves on trading floors as they deal with the fallout from the crisis engulfing AI titan Nvidia.\n\nOnline brokerage Monex said that given the strength of demand for Anthropic stock, \"some people have suggested that there may even be a shift of funds away from high-tech stocks\" in order to buy the company's newly listed shares.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T01:22:08.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878547-20261120.htm"
+    },
+    {
       "id": "f3a422c88bf989a7",
       "title": "Trump issues pardon to MLB hit king Pete Rose",
       "excerpt": "US President Donald Trump on Thursday said he has issued a posthumous pardon to Pete Rose, the controversial Major League…",
@@ -184,7 +195,7 @@
     },
     {
       "id": "f53c6de7669fcc0f",
-      "title": "China-Russia-US summit \"will go down in history\"",
+      "title": "China-Russia-US summit 'will go down in history'",
       "excerpt": "An unprecedented three-way summit between China, Russia and the United States at the Apec Summit in Shenzhen was a landmark…",
       "fullText": "An unprecedented three-way summit between China, Russia and the United States at the Apec Summit in Shenzhen was a landmark event that will go down in history, Foreign Minister Wang Yi said on Thursday.\n\nThe three nations agreed on a peace declaration following face-to-face talks between President Xi Jinping, Russian leader Vladimir Putin and US President Donald Trump.\n\nThey reaffirmed that nuclear war should never be fought, and pledged to advance reforms of the United Nations, increase supplies of fuel products for all countries and to uphold the immunity enjoyed by state officials in international courts.\n\nWang told a press conference that the declaration is instrumental to addressing global challenges and maintaining world peace and stability.\n\n\"You could certainly call it a peace summit\", Wang said.\n\nNoting that the top leaders of the three countries exchanged views on the international situation and global challenges, Wang said the summit sent a positive message to the world.\n\nCalling the meeting a historic one, Wang said it created a paradigm for interaction between major countries in the new era, and represented a new step in building a new type of major-country relations.\n\nThe said the three leaders had agreed to prevent conflict and confrontation and build a paradigm of major-country relations featuring peaceful coexistence, overall stability and balanced development.\n\n\"This is not only good for the three countries, but also benefits the whole world,\" Wang said.\n\nThe foreign minister also said the Apec Economic Leaders' Meeting marked a new peak in Asia-Pacific economic cooperation.\n\nIt was the most important diplomatic event China hosted this year, Wang said, noting that the meeting produced the ambitious, practical and comprehensive Apec Leaders' Shenzhen Outlook, which is the most significant outcome of the Apec \"China Year\" and a new milestone in Apec cooperation.\n\nAt the meeting, President Xi called for building an Asia-Pacific community characterised by solidarity and mutual assistance, openness and integration, enterprise and innovation, as well as inclusive development.\n\nWang hailed China's contribution to the endorsement of an Apec statement on harnessing digital and emerging technologies for jobs and prosperity.\n\nThe statement helps align cooperation on AI and other new technologies to advance high-quality full employment, public services and digital infrastructure, Wang said.\n\nThe foreign minister also noted a series of measures Xi announced to boost Asia-Pacific cooperation, including setting up an Asia-Pacific community studies centre, a proposal to establish a World Association for Bay Areas Economic Cooperation, and financial support for practical cooperation.\n\nWang said the Shenzhen meeting has mapped out the key pillars and priorities for building an Asia-Pacific community and charted a roadmap for implementation. (Reporting by Xinhua)\n\nEdited by Cecil Wong",
       "imageUrl": null,
@@ -1182,17 +1193,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878103-20261117.htm"
-    },
-    {
-      "id": "4fdf9001fe1b03ae",
-      "title": "Apec CEO Summit attendance over 2,000, says chair",
-      "excerpt": "More than 2,000 chief executives and representatives will attend the Apec CEO Summit in Shenzhen on Tuesday and Wednesday, summit…",
-      "fullText": "More than 2,000 chief executives and representatives will attend the Apec CEO Summit in Shenzhen on Tuesday and Wednesday, summit chairman Ren Hongbin said.\n\nHe said discussions on the first day of the event would cover seven topics, among which are artificial intelligence, sustainable development, digital economy and development opportunities for the Greater Bay Area and the Asia-Pacific region.\n\n“For a long time, the business community has actively supported, participated in and promoted the cooperation and development in the Asia-Pacific region,” Ren said.\n\n“By pushing major development, prosperity and connectivity in the region, it has made Asia-Pacific the most dynamic region in the global economy and a primary engine for growth.”\n\nRen, also chairman of the China Council for the Promotion of International Trade, said President Xi Jinping would attend the summit’s opening ceremony on Wednesday and deliver a speech.\n\nAnother 11 leaders of Apec economies would also attend the summit, he added.\n\nRen expressed hope that summit participants could achieve consensus and cooperation during discussions.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T04:22:38.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878098-20261117.htm"
     },
     {
       "id": "a0f8fe9180b08a2b",
