@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T21:45:19.531Z",
-  "checkedAt": "2026-11-20T22:45:21.968Z",
+  "generatedAt": "2026-11-20T23:00:30.356Z",
+  "checkedAt": "2026-11-20T23:00:30.356Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "4fb2638ca65de2cf",
+      "title": "Tech stocks slump, leaving Nasdaq in red for the year",
+      "excerpt": "A bruising sell-off in artificial intelligence stocks on Friday pulled the S&P 500 down 3.7 percent, dragging the index to…",
+      "fullText": "A bruising sell-off in artificial intelligence stocks on Friday pulled the S&P 500 down 3.7 percent, dragging the index to its worst weekly loss in more than 18 months, and knocking the Nasdaq composite into the red for the year.\n\nThe S&P 500 fell 265.44 points to 6,910.39. The Dow dropped 949.73 points to 48,147.33, and the Nasdaq lost 1,261.47 points to close at 22,617.73.\n\nThe benchmark index is now in what professional investors call a “correction,” having fallen more than 10 percent from its Oct. 6 all-time high.\n\nThe last time the S&P 500 had a correction was March 2025, as the Trump administration’s trade war rattled the market. Its weekly loss, marking its worst such decline since April 2025, as the trade war escalated, capped a seven-day losing streak, the longest such string of losses since the onset of the COVID-19 pandemic in 2020.\n\nThe Nasdaq composite slumped 5.3 percent, pulling it into negative territory for the year. Its weekly loss was also just shy of its worst week since March 2020.\n\nThe Dow Jones Industrial Average, with less exposure to technology stocks, fell 1.9 percent.\n\nChip stocks like Nvidia, Micron Technology, Broadcom and Advanced Micro Devices bore the brunt of the selling, but other companies connected to the AI buildout tanked as well, including the optical products company Corning and the energy provider Bloom Energy. The AI lab Anthropic, coming off a successful IPO Thursday, tumbled 9.1percent.\n\nThe AI trade has been losing steam partly over worries that AI stocks’ big market values and heavy spending are unjustified. Fears of a bubble within the sector have also been exacerbated by the results of the recent midterm elections, with candidates advocating for a slowdown in data centre construction winning at both the federal and state level.\n\n“The whole notion that AI can continue to spend unlimited amounts of money and support the stock market, I think the notion of that is ending as we speak, that’s what’s being priced right now,” said Michael Antonelli, market strategist at Baird. “But I don’t think that means that the overall bull market that started in October 2022 is over.”\n\nMuch of the AI rout was centred among chip stocks, which have been big beneficiaries of the build out of AI data centres. Advanced Micro Devices sank 13.3 percent, Micron Technology slid 13.9 percent and Broadcom fell 12.1 percent.\n\nNvidia, considered by many to be the poster child for the AI boom, fell for the ninth day in the last 10, closing 13.8 percent lower. The chip company’s stock was caught up in the market’s anxiety about the strength of the AI build out, and more recently has been pressured by worries about its future following the sudden downfall of Jensen Huang , its former CEO and co-founder. Since the Huang scandal erupted earlier this month, the stock has dropped more than 25 percent.\n\nThe big market debut for Anthropic, maker of the Claude AI tool, fizzled on Friday with the rest of the tech sector. The stock fell 9.1 percent to US$88.30, but remains above its IPO price of US$83 per share. It was the biggest public stock offering ever, at one point surpassing US$2 trillion in value. (AP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T22:50:35.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878666-20261121.htm"
+    },
     {
       "id": "fbe2e203b02a0c0b",
       "title": "UK, EU hail new deals 10 years after Brexit",
@@ -1248,17 +1259,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_182002_711.html"
-    },
-    {
-      "id": "7e6e0e134d13c198",
-      "title": "Airport closer to sustainable aviation fuel facility",
-      "excerpt": "The Airport Authority signed a memorandum of understanding on Tuesday with Hong Kong and China Gas Company (Towngas) and EcoCeres…",
-      "fullText": "The Airport Authority signed a memorandum of understanding on Tuesday with Hong Kong and China Gas Company (Towngas) and EcoCeres to develop a sustainable aviation fuel blending facility in the city to support the aviation industry's transition towards a more sustainable future.\n\nThe signing was witnessed by Chief Executive John Lee during the Asian Logistics, Maritime and Aviation Conference.\n\nAlso present for the signing were Secretary for Transport and Logistics Mable Chan, Airport Authority chief executive Vivian Cheung and Towngas chairman Peter Lee.\n\nThe MoU was signed by Airport Authority chief operating officer Steven Yiu, Towngas executive director and chief investment officer Alan Chan and EcoCeres CEO Matti Lievonen.\n\nUnder the agreement, the three parties will continue discussions on the design, construction and operation of a blending facility in Tuen Mun, with implementation subject to terms to be agreed between them.\n\nIn Hong Kong's first five-year plan, the government aims to achieve a sustainable aviation fuel consumption target of between one and three percent for flights departing from the airport by 2030.\n\nJohn Lee announced in his Policy Address this year that the government would take forward the construction of a blending facility to build an end-to-end sustainable aviation fuel value chain and reduce logistics costs to make prices for greener jet fuel products more competitive.\n\nThe government is also collaborating with mainland authorities on the establishment of a sustainable aviation fuel production base in Dongguan.\n\nThe airport's existing fuel infrastructure is already capable of receiving, storing and uplifting pre-blended sustainable aviation fuel by airlines, with one local airline having successfully uplifted the fuel.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T11:42:58.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878132-20261117.htm"
     },
     {
       "id": "a0f8fe9180b08a2b",
