@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T05:15:15.452Z",
-  "checkedAt": "2026-11-20T05:15:15.452Z",
+  "generatedAt": "2026-11-20T05:30:20.994Z",
+  "checkedAt": "2026-11-20T05:30:20.994Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rthk-world",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "6058e69788e9d68d",
+      "title": "Building maintenance body to get over HK$400mn",
+      "excerpt": "The government said on Friday that more money will be allocated to subsidise owners of older buildings to pay for…",
+      "fullText": "The government said on Friday that more money will be allocated to subsidise owners of older buildings to pay for a new one-stop maintenance service to help owners prepare tenders, evaluate bids and monitor construction works.\n\nIn a paper submitted to Legco, the Development Bureau says it plans to transfer the remaining balance of about HK$113 million from the Urban Renewal Authority's Smart Tender scheme into the new Building Maintenance Support and Services Council to be set up by the year.\n\nTogether with the HK$300 million dollars reserved by the government, the total comes to about HK$413 million dollars.\n\nThe new council is being set up following the independent committee's report into the Wang Fuk Court fire, which found serious failures in building maintenance oversight.\n\nOf the total, HK$313 million will be used to subsidise owners to use a paid service provided by the council to appoint consultants and contractors that it recommends. The standard fee is initially estimated at several thousand dollars per household, with details to be announced later.\n\n\"We believe that the reformed service arrangements can effectively reduce the risk of bid-rigging and provide owners with end-to-end, more effective and practical assistance in carrying out building maintenance works,\" it says.\n\nThe government says the subsidy will target owners of older buildings with lower rateable values – covering 80 percent of private residential and composite buildings aged 30 or above.\n\nAuthorities recommend that the remaining 20 percent, which have relatively high property prices, would have to pay for such services in full.\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T05:17:19.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878578-20261120.htm"
+    },
     {
       "id": "49ddae2a6315b682",
       "title": "HK joins global drug regulatory body ICH",
@@ -926,8 +937,8 @@
       "fullText": "Hong Kong will play an important part in keeping world shipping stable and fast-tracking the sector's green transition, said John Denholm, chairman of the International Chamber of Shipping (ICS), in a recent interview with Xinhua.\n\n\"The Guangdong-Hong Kong-Macao Greater Bay Area is a fantastic economic engine. I'm sure that Hong Kong, as a main port in the Greater Bay Area, will grow from strength to strength,\" Denholm told Xinhua on the sidelines of the World Maritime Merchants Forum 2026.\n\nHong Kong's commitment to free trade made it a popular place to do business, Denholm said.\n\nIt is also a staunch supporter of the United Nations Convention on the Law of the Sea as well as the International Maritime Organisation's regulatory framework, which are essential to making world trade flourish, especially when heightened geopolitical tensions jeopardise freedom of navigation, said Denholm.\n\nDenholm also applauded Hong Kong's pledge to advance the green transition of shipping.\n\nThe city aims to see the proportion of its registered vessels using green maritime fuels reach seven percent by 2030.\n\nDenholm expects the use of green fuels to grow fast as the shipping industry is committed to achieving net-zero emissions by around 2050.\n\nHong Kong is poised to make green maritime fuel more available to the industry with the support of the world-leading shipbuilding capacity and green technologies of the Chinese mainland, according to Denholm.\n\nIn the first three quarters of this year, Chinese shipyards secured 81.8 percent of the world's new shipbuilding orders.\n\nChina also has the potential to become a major supplier of green fuel, said Denholm.\n\nAt the opening ceremony of the World Maritime Merchants Forum 2026 on Monday, Hong Kong inked an agreement with the Port of Piraeus in Greece to jointly establish a Green Shipping Corridor.\n\nDenholm called Hong Kong's partnership with other ports to provide clean fuel a \"fantastic start\" to promote the green revolution. (Xinhua)\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-18T03:58:02.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878262-20261118.htm"
     },
     {
