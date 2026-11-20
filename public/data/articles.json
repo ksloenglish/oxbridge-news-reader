@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T03:45:20.039Z",
-  "checkedAt": "2026-11-20T03:45:20.039Z",
+  "generatedAt": "2026-11-20T04:00:27.184Z",
+  "checkedAt": "2026-11-20T04:00:27.184Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 16
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "43e959a38abb4c07",
+      "title": "New levy set to fund free EV battery recycling",
+      "excerpt": "The government is proposing a producer responsibility scheme that will give electric vehicle owners a one-off free battery recycling service…",
+      "fullText": "The government is proposing a producer responsibility scheme that will give electric vehicle owners a one-off free battery recycling service – with carmakers paying an upfront levy to the Environmental Protection Department before distributing new vehicles or batteries.\n\nThe scheme is aimed at stopping EV batteries from being improperly thrown away – and to boost recycling.\n\nIn a paper submitted to the Legislative Council, the government says there are currently 180,000 EVs on the road.\n\nRetired batteries are expected to weigh in at around 6,700 tonnes in 2030, up from about 1,300 tonnes this year.\n\nEV batteries typically last five to 10 years – meaning there is a long gap between when they enter the market and when they are eventually retired, it says.\n\n\"During this period, the original suppliers of batteries may have closed their businesses or exited the Hong Kong market, or it may be difficult to track the whereabouts of individual vehicles and batteries,\" the government said.\n\n\"The trade considers it necessary to impose a levy at source when batteries are introduced into the market to ensure the availability of stable and sufficient financial resources for supporting the proper recycling of retired batteries in the future.\"\n\nTo enable the market to adapt gradually, the government proposes setting the levy at a relatively low initial rate, that is HK$6 per kilogramme, followed by steady annual increments.\n\nFor a typical car with a 500-kilogramme battery, the initial charge in 2028 would be about HK$3,000, rising by HK$800 a year to HK$15,000 by 2043.\n\nWhen replacing a battery or scrapping a vehicle, owners would take it to a designated return point, or hand it over through a workshop or scrapyard, and must complete and sign a declaration.\n\nAn application to the Transport Department to cancel a vehicle’s registration would also be treated as meeting that requirement.\n\nThe levy would be waived for electric vehicles already on the road, but those owners would still get the free recycling and scrapping service.\n\nThe government aims to submit the bill in 2027 and the scheme is expected to be fully implemented in 2029.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T03:46:18.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878563-20261120.htm"
+    },
     {
       "id": "982f82b892347c70",
       "title": "HK can make contribution to construction sector: CE",
@@ -1168,8 +1179,8 @@
       "fullText": "The Airport Authority signed a memorandum of understanding on Tuesday with Hong Kong and China Gas Company (Towngas) and EcoCeres to develop a sustainable aviation fuel blending facility in the city to support the aviation industry's transition towards a more sustainable future.\n\nThe signing was witnessed by Chief Executive John Lee during the Asian Logistics, Maritime and Aviation Conference.\n\nAlso present for the signing were Secretary for Transport and Logistics Mable Chan, Airport Authority chief executive Vivian Cheung and Towngas chairman Peter Lee.\n\nThe MoU was signed by Airport Authority chief operating officer Steven Yiu, Towngas executive director and chief investment officer Alan Chan and EcoCeres CEO Matti Lievonen.\n\nUnder the agreement, the three parties will continue discussions on the design, construction and operation of a blending facility in Tuen Mun, with implementation subject to terms to be agreed between them.\n\nIn Hong Kong's first five-year plan, the government aims to achieve a sustainable aviation fuel consumption target of between one and three percent for flights departing from the airport by 2030.\n\nJohn Lee announced in his Policy Address this year that the government would take forward the construction of a blending facility to build an end-to-end sustainable aviation fuel value chain and reduce logistics costs to make prices for greener jet fuel products more competitive.\n\nThe government is also collaborating with mainland authorities on the establishment of a sustainable aviation fuel production base in Dongguan.\n\nThe airport's existing fuel infrastructure is already capable of receiving, storing and uplifting pre-blended sustainable aviation fuel by airlines, with one local airline having successfully uplifted the fuel.\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-11-17T11:42:58.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878132-20261117.htm"
     },
     {
