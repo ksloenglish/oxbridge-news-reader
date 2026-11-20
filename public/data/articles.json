@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T09:13:37.691Z",
-  "checkedAt": "2026-11-20T09:13:37.691Z",
+  "generatedAt": "2026-11-20T09:15:19.079Z",
+  "checkedAt": "2026-11-20T09:15:19.079Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "f3c3ccf87d7db2fd",
+      "title": "HK, mainland slip as tech stocks take brunt of fears",
+      "excerpt": "Mainland and Hong Kong stocks ended sharply lower on Friday, with tech shares leading losses after a steep Wall Street…",
+      "fullText": "Mainland and Hong Kong stocks ended sharply lower on Friday, with tech shares leading losses after a steep Wall Street selloff weighed on investor sentiment, while Anthropic's much-anticipated IPO did little to revive waning optimism surrounding the artificial intelligence sector.\n\nThe benchmark Hang Seng Index ended 430 points, or 1.9 percent, lower at 22,410 on turnover of HK$270.3 billion.\n\nThe tech index dived 138 points, or 3.8 percent, to 3,511 while the China enterprises index was 135 points, or 1.8 percent, down at 7,554.\n\nUp north, the Shanghai Composite Index closed down 43 points, or 1.22 percent, at 3,533 on turnover of 702.57 billion yuan while the blue-chip CSI300 index lost 0.8 percent.\n\nBoth indexes recorded their lowest closing levels since July 2025.\n\nFor the week, the Shanghai Composite fell 2.8 percent to notch the biggest weekly drop since July, and the CSI300 lost 1.5 percent.\n\nInvestor sentiment was also weighed down by signs that Washington is tightening tech curbs on China, despite meetings between the leaders of the world's two largest economies this week.\n\nThe Shenzhen Component Index closed down 326 points, or 3.09 percent, at 10,256 on turnover of 719.62 billion yuan while the ChiNext Index closed down 81 points, or 3.54 percent, at 2,212 on turnover of 334.97 billion yuan.\n\nThe decline came after US stocks slumped on Thursday, as AI-related shares came under pressure following Anthropic's much-anticipated IPO's failure to sustain an early rally.\n\n\"The optimism failed to lift the broader AI sector, as concerns over stretched valuations and elevated capex spending continued to weigh on sentiment,\" analysts at OCBC said in a note.\n\nIn China, tech sectors that require huge computing power, such as big data, AI and cloud computing all fell sharply.\n\nHong Kong-listed shares of Chinese AI model developers, which rely heavily on advanced computing power, also tumbled.\n\nMinimax slumped 10.8 percent to record lows, bringing this week's loss to more than 30 percent.\n\nZ.AI shares declined 7.2 percent, bringing the weekly loss to 18.2 percent.\n\nSemiconductor shares were among the biggest drags, with a subindex tracking the sector plunging 3.9 percent.\n\nSentiment towards chipmakers was also hurt by TSMC tightening restrictions on Chinese chip designers, suspending some previously permitted advanced manufacturing orders and generally limiting affected customers to older chipmaking technology, sources said.\n\nIn Tokyo, the Nikkei ended 3,007 points, or 5.06 percent, at 56,436 amid chip and tech related plunges of 10.32 percent for Advantest, 7.06 percent for Tokyo Electron, 14.48 percent for technology investor SoftBank Group and 11.66 percent for memory chip maker Kioxia.\n\nFor the week, the index lost 7.7 percent.\n\nThe broader Topix fell 148 points, or 3.88 percent, to 3,674 for the day.\n\nIn Seoul, the Kospi closed down 267 points, or 5.21 percent, at 4,869 as chipmaker losses of 7.01 percent piled up for Samsung Electronics and 5.92 percent for SK Hynix. (Agencies)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T09:08:20.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878603-20261120.htm"
+    },
     {
       "id": "82226bf4547ed33f",
       "title": "Beijing warns of 'judicial overreach' in ICJ ruling",
@@ -1204,17 +1215,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878137-20261117.htm"
-    },
-    {
-      "id": "7971e4f89bcf55d6",
-      "title": "Tech fears continue to chip away at regional markets",
-      "excerpt": "Tech firms dragged Asian stock markets down again Tuesday as the fallout from the Nvidia crisis continued to rattle trading…",
-      "fullText": "Tech firms dragged Asian stock markets down again Tuesday as the fallout from the Nvidia crisis continued to rattle trading floors, with US moves to tighten restrictions on Chinese access to chips adding to uncertainty.\n\nIn Hong Kong, the benchmark Hang Seng Index ended 245 points, or one percent, lower at 23,508 on turnover of HK$198.05 billion.\n\nThe tech index fell 43 points, or 1.1 percent, to 3,758 while the China enterprises index was 77 points, or one percent, lower at 7,904.\n\nOn the mainland, the Shanghai Composite Index closed down 17 points, or 0.5 percent, at 3,584 on turnover of 690.5 billion yuan.\n\nThe Shenzhen Component Index fell 52 points, or 0.49 percent, to 10,638 on turnover of 767.18 billion yuan while the ChiNext Index lost 27 points, or 1.2 percent, to close at 2,292 on turnover of 365.83 billion yuan.\n\nIn Tokyo, the Nikkei ended down 801 points, or 1.34 percent, at 58,860, with AI- and chip-related falls of 5.08 percent by Kioxia Holdings, 4.39 percent by Advantest and 3.95 percent by SoftBank Group contributing to the benchmark's losses.\n\nThe broader Topix slid 61 points, or 1.57 percent, to 3,840.\n\nIn Seoul, the Kospi closed 132 points, or 2.59 percent, lower at 4,968, down in a fourth consecutive session of losses, with chipmaking index heavyweights Samsung Electronics falling 3.3 percent and SK Hynix losing 1.96 percent.\n\nThe selloff comes as investors brace for the release of earnings from Wall Street titan Nvidia, which comes days after its boss Jensen Huang resigned over revelations of extramarital affairs.\n\nAlso in focus is the initial public offering of Claude-creator Anthropic, which is being seen as a test of confidence in the AI trade, which has been whipsawed in recent months by concerns over companies' eye-watering AI investments and their profitability.\n\nMarkets have been battered since the crisis broke at Nvidia, which is at the centre of a build-out in artificial intelligence that has helped propel global markets to record highs and boosted economic growth around the world.\n\nNvidia's earnings will be closely watched after the US market closes later Tuesday, or 8am on Wednesday Hong Kong time, with investors looking for signs of whether the AI boom can withstand the widening scandal.\n\nMatt Weller at Forex.com said: \"Data centre demand and guidance will be central.\n\n\"Investors will look for evidence that hyperscalers and other customers are sustaining their spending on AI infrastructure, and whether fourth-quarter guidance points to further growth.\"\n\nDonald Trump on Monday backed calls from some of Silicon Valley's most powerful voices pushing for the swift return of Huang, with the US president downplaying national security concerns over allegations of possible spy links.\n\nAdding to the downbeat mood was news that the US Commerce Department moved on Monday to close a loophole that allowed Chinese companies to access Nvidia's powerful AI chips remotely.\n\nA new rule will force data centre operators in Singapore, Malaysia, Thailand, Indonesia and Brazil to get a licence from the United States allowing them to ship high-end AI chips from Nvidia and other American firms to clients in those countries.\n\n\"The proposed rules are aimed at limiting the remote use or diversion of cutting-edge US chips and extend the regulatory overhang facing the semiconductor industry,\" said National Australia Bank's Rodrigo Catril.\n\n\"The news also raises questions about the outlook for global AI infrastructure investment, particularly in jurisdictions that have become important hubs for data centre development.\" (Agencies)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T09:07:20.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878143-20261117.htm"
     },
     {
       "id": "a0f8fe9180b08a2b",
