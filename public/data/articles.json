@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T10:00:33.907Z",
-  "checkedAt": "2026-11-20T10:00:33.907Z",
+  "generatedAt": "2026-11-20T10:15:21.865Z",
+  "checkedAt": "2026-11-20T10:15:21.865Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 17
     },
     {
       "id": "rthk-world",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 15
     },
     {
       "id": "rthk-sport",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "d6cf3048c70c004a",
+      "title": "Hong Kong inflation remains moderate at 2.2pc",
+      "excerpt": "Hong Kong's consumer inflation remained moderate in October, with overall prices rising by 2.2 percent year on year. The figure…",
+      "fullText": "Hong Kong's consumer inflation remained moderate in October, with overall prices rising by 2.2 percent year on year.\n\nThe figure, published by the Census and Statistics Department on Friday, compared with the 1.9 percent expansion in September, although the government attributed the larger increase last month to the end of the rates concession.\n\nFor the first 10 months of 2026, the composite consumer price index (CPI) rose by 1.8 percent over the same period a year ago.\n\nNetting out the effects of the government's one-off relief measures, the underlying inflation in October stood at two percent, compared to 2.1 percent in September.\n\nBreaking down the various components of the composite CPI, prices jumped by 12.7 percent for electricity, gas and water and 11.4 percent for health services.\n\nTransport costs, which are sensitive to rising fuel prices, increased by 4.5 percent.\n\nThere were milder increases for necessities such as food, which edged up by 0.3 percent, while housing rents ticked up 1.4 percent.\n\nA government spokesman noted that the prices of fuel-related items continued to rise noticeably.\n\n\"But spillover effects remained limited, with prices of most other items increasing modestly or declining,\" he said.\n\nLooking ahead, the spokesman said price pressures on other fronts should remain broadly in check, although geopolitical tensions remain a key source of near-term uncertainty for international fuel prices.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T09:53:34.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878616-20261120.htm"
+    },
     {
       "id": "e77d1bf316314879",
       "title": "Seven arrested for allegedly smuggling in nine animals",
@@ -401,6 +412,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_113135_264.html"
+    },
+    {
+      "id": "6990e206ca3c3f53",
+      "title": "Inflation at 2.2% in October",
+      "excerpt": "Overall consumer prices rose 2.2% year on year in October, up from the 1.9% increase recorded in September, the Census…",
+      "fullText": "Overall consumer prices rose 2.2% year on year in October, up from the 1.9% increase recorded in September, the Census & Statistics Department announced today.\n\nNetting out the effects of the Government’s one-off relief measures, the underlying inflation rate was 2% in September, slightly lower than that in the previous month.\n\nCompared to October 2025, price increases were recorded for electricity, gas and water; miscellaneous services; transport; durable goods; miscellaneous goods; housing; meals out and takeaway food; and clothing and footwear.\n\nMeanwhile, year-on-year decreases were recorded for alcoholic drinks and tobacco, and basic food.\n\nThe Government said consumer price inflation stayed moderate in October. While prices of fuel-related items continued to rise noticeably, spillover effects remained limited, with prices of most other items increasing modestly or declining.\n\nLooking ahead, it said earlier increases in international oil prices would continue to feed through to local consumer prices of fuel-related items. However, price pressures on other fronts should remain broadly in check, keeping overall inflation moderate. Nevertheless, geopolitical tensions remain a key source of near-term uncertainty for international fuel prices and warrant close monitoring.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_163627_545/images/20261120173056157.jpg",
+      "publishedAt": "2026-11-19T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_163627_545.html"
     },
     {
       "id": "736d45ce4a4bab49",
@@ -970,8 +992,8 @@
       "fullText": "Chief Executive John Lee on Wednesday held a series of meetings on the sidelines of the Apec summit, promoting Hong Kong's role as a gateway to Greater Bay Area and the mainland to regional leaders.\n\nDuring his meeting with Vietnam's President To Lam, Lee said bilateral trade between Hong Kong and Vietnam grew by 75 percent last year.\n\n\"I'm glad that since we last met two years ago, trade and people-to-people ties have been growing strongly,\" Lee told the Vietnamese leader.\n\n\"Thanks to your excellent support... I think we have established a very strong foundation for greater growth between our two places.\"\n\nLee said he briefed the Vietnamese leader on the latest developments in Hong Kong, including the city's strengths as an international innovation and technology centre as well as development opportunities in the Greater Bay Area.\n\nThe Vietnamese president commended Hong Kong's socio-economic development and said the city was an important leading economic, financial and trade hub of the world.\n\nIn a Facebook post, Lee said he also met with Sultan Hassanal Bolkiah of Brunei.\n\nHe said Hong Kong and Brunei enjoy close commercial and people-to-people ties, and that bilateral trade in goods rose 40 percent last year.\n\nLee said Hong Kong's first five-year plan and the Northern Metropolis are injecting strong growth impetus into the city, and he welcomed Bruneian enterprises to seize the opportunities.\n\n\"I hope that Hong Kong can actively play the roles of a 'super connector' and 'super value-adder' to help Bruneian businesses explore business opportunities while connecting mainland enterprises with partners in Brunei, achieving mutually beneficial outcomes,\" he wrote.\n\n\"In addition, I encourage more friends from Brunei to visit Hong Kong to experience our comprehensive Muslim-friendly tourism facilities as well as the unique charm of East-meets-West culture in Hong Kong.\"\n\nDuring his meeting with Thailand's Prime Minister, Anutin Charnvirakul, Lee encouraged Thai enterprises to set up operations in Hong Kong.\n\nHe thanked Thailand for its continued support of Hong Kong's early accession to the Regional Comprehensive Economic Partnership (RCEP).\n\nLee said Hong Kong would continue to dedicate efforts to deepening bilateral cooperation in areas including trade, finance, and culture to jointly seize new opportunities in regional development.\n\nLater on Wednesday, Lee met Chilean President José Antonio Kast, with the two leaders witnessing the signing of an agreement to establish a bilateral working holiday scheme.\n\nThe SAR leader said the arrangement would enable young people from both sides to broaden their horizons and deepen mutual understanding.\n_____________________________\nLast updated: 2026-11-18 HKT 21:00\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-18T09:04:00.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878305-20261118.htm"
     },
     {
@@ -1162,17 +1184,6 @@
       "link": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_180639_776.html"
     },
     {
-      "id": "fc14833dd3bcd1fe",
-      "title": "Green fuel platform to be developed",
-      "excerpt": "The Transport & Logistics Bureau today announced the establishment of the “Task Group on the Development of the Green Maritime…",
-      "fullText": "The Transport & Logistics Bureau today announced the establishment of the “Task Group on the Development of the Green Maritime Fuel Trading Platform”, a collaboration with industry to advance Hong Kong’s development as a globally oriented, diverse and open green maritime fuel trading centre.\n\nThe bureau said that as an international maritime, financial and trading centre, Hong Hong has the unique advantage of being backed by China and enjoying global connectivity, adding that its financial and legal systems are aligned with international practices.\n\nIt added: “Coupled with the upcoming implementation of the half-rate tax concession for physical trading of eligible commodities, which include green fuels, Hong Kong is well-positioned to establish a market-driven, globally oriented green fuel trading centre, providing a platform that brings together green fuel supplies from the Chinese Mainland and around the world and connects them with demand from the global maritime industry.”\n\nBringing together energy traders, green fuel producers, think tanks, and maritime and energy organisations, to advise on the platform’s development, the task group will explore the establishment of a green fuel price index, based on actual transaction data, to provide reliable pricing references for the industry.\n\nIt will also advise on building a complete industry chain to support green fuel trading, with a view to attracting more stakeholders from the Chinese Mainland and overseas to trade green fuels in Hong Kong.\n\nFounding members of the task group include the Hydrogen Energy Industry Promotion Association, CIMC Enric Holdings Limited, Hong Kong and China Gas Company Limited, TGT Group Limited, the International Green Fuels Alliance, Our Hong Kong Foundation and AEX Holdings, Ltd.\n\nTo drive the establishment of the trading platform, the bureau signed Memoranda of Understanding with multiple partners during Hong Kong Maritime Week. These covered platform development, price index development, solicitation of platform users and industry research.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_172505_770/images/20261118190940423.jpg",
-      "publishedAt": "2026-11-17T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_172505_770.html"
-    },
-    {
       "id": "54f7ad0b4a0462af",
       "title": "Research Reports",
       "excerpt": "To access a report, click on the corresponding image below.",
@@ -1204,17 +1215,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878132-20261117.htm"
-    },
-    {
-      "id": "7aefae97fd674a03",
-      "title": "HK urged to offer tax cut for small commodity traders",
-      "excerpt": "The vice president of Our Hong Kong Foundation, Kenny Shui, has called on authorities to introduce an entry-level tax concession…",
-      "fullText": "The vice president of Our Hong Kong Foundation, Kenny Shui, has called on authorities to introduce an entry-level tax concession to attract small commodity traders in a bid to drive the development of maritime services in the city.\n\nThe trade in commodities is linked to the shipment of such goods, which is why related maritime services are vital to the sector.\n\nShui made the remarks as the think tank released a research report on Tuesday, suggesting the SAR should focus on higher value-added maritime and professional services.\n\nSpeaking at a press conference, Shui said the government's existing half-tax concession helped attract medium-sized traders with an annual turnover of no less than HK$700 million, but such a threshold has excluded smaller traders with high growth potential.\n\nShui proposed a two-tier tax mechanism aimed at assisting traders whose turnover has yet to reach the threshold.\n\nUnder the proposal, the half-tax concession would be extended to cover small traders with potential for five years.\n\nIf a trader's annual turnover still fails to reach the HK$700 million threshold in the five-year period, the concession would cease, he said.\n\n\"Our current challenge is that compared with other competitors like Singapore, we do not have a lot of commodity traders,\" Shui said.\n\n\"So that's why we want to use the tax to attract them. For medium-sized payers, the government has a plan to use the half-tax to attract those payers.\n\n\"But for the entry-level [traders], as we do not have a half-tax plan, we just have the normal 16.5 percent tax. So that's why we are asking whether we can also have a half-tax for those entry-level payers to attract them to come to Hong Kong.\"\n\nThe foundation also called for enhanced marine insurance, ship leasing and maritime arbitration services.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T09:22:48.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878137-20261117.htm"
     },
     {
       "id": "a0f8fe9180b08a2b",
