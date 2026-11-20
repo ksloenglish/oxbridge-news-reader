@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T09:15:19.079Z",
-  "checkedAt": "2026-11-20T09:15:19.079Z",
+  "generatedAt": "2026-11-20T09:30:29.498Z",
+  "checkedAt": "2026-11-20T09:30:29.498Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -379,6 +379,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_113135_264.html"
+    },
+    {
+      "id": "736d45ce4a4bab49",
+      "title": "NM ordinance published in Gazette",
+      "excerpt": "The Northern Metropolis (NM) Development Ordinance was published in the Gazette today, providing the legal basis for facilitation measures that…",
+      "fullText": "The Northern Metropolis (NM) Development Ordinance was published in the Gazette today, providing the legal basis for facilitation measures that cover town planning, land compensation, building works approvals, noise control, and cross-boundary flows.\n\nThe NM will be developed to serve as a hub for higher education, innovation and technology, while offering an environment suitable for living, working and travelling.\n\nIt will act as the main platform for Hong Kong to deeply engage in the development of the Guangdong-Hong Kong-Macao Greater Bay Area and to actively integrate into and serve overall national development, while serving as a strategic engine to foster economic transformation and develop new quality productive forces.\n\nPassed by the Legislative Council at its third reading on November 12, the ordinance carries great significance for Hong Kong in proactively aligning with the National 15th Five-Year Plan and implementing Hong Kong's First Five-Year Plan.\n\nThe ordinance aims to expedite development and construction, while helping enterprises establish a presence in the NM.\n\nThe Development Bureau and relevant bureaus are formulating the first batch of subsidiary legislation needed to implement these facilitation measures, with a view to tabling it for LegCo's vetting in January and bringing it into effect in the first quarter of 2027.\n\nPursuant to the provisions of the ordinance that have come into operation, the Secretary for Development has published the plan delineating the NM area on the website . A copy has also been made available at the office of the Land Registry for public inspection.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_154940_106/images/20261120165247921.jpg",
+      "publishedAt": "2026-11-19T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_154940_106.html"
     },
     {
       "id": "7982d5d8c3f4fff8",
@@ -1149,17 +1160,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_180639_776.html"
-    },
-    {
-      "id": "ce5288e98ad38a85",
-      "title": "HK, Vietnam sign co-operation pact",
-      "excerpt": "The Department of Justice (DOJ) of the Hong Kong Special Administrative Region Government today signed a Memorandum of Co-operation (MOC)…",
-      "fullText": "The Department of Justice (DOJ) of the Hong Kong Special Administrative Region Government today signed a Memorandum of Co-operation (MOC) with Vietnam's Ministry of Foreign Affairs to strengthen co-operation on building capacity for the prevention and settlement of international disputes.\n\nSigned by Secretary for Justice Paul Lam and Vietnam's Deputy Minister of Foreign Affairs Le Anh Tuan, the pact provides a framework for Hong Kong and Vietnam to collaborate on building the capacity of legal officers with respect to international disputes in the economic, commercial and investment fields.\n\nIt is expected that the two places will benefit greatly from their enhanced co-operation under the pact.\n\nThe DOJ said the MOC's signing will further consolidate Hong Kong's status as a centre for international legal and dispute resolution services, and help to strengthen its capacity with regard to international law.\n\nIt added that it will continue to pursue co-operation or partnership arrangements with other jurisdictions and international organisations.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_130248_331/images/20261118133800053.jpg",
-      "publishedAt": "2026-11-17T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_130248_331.html"
     },
     {
       "id": "fc14833dd3bcd1fe",
