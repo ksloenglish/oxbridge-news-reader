@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T07:00:26.132Z",
-  "checkedAt": "2026-11-20T07:00:26.132Z",
+  "generatedAt": "2026-11-20T07:15:17.959Z",
+  "checkedAt": "2026-11-20T07:15:17.959Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -302,6 +302,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_113135_264.html"
+    },
+    {
+      "id": "7982d5d8c3f4fff8",
+      "title": "AI risk working group convenes",
+      "excerpt": "Chief Secretary Chan Kwok-ki today convened the first meeting of the Working Group on Coordination of AI Risk Governance to…",
+      "fullText": "Chief Secretary Chan Kwok-ki today convened the first meeting of the Working Group on Coordination of AI Risk Governance to comprehensively advance implementation of the policy strategy.\n\nNoting that while artificial intelligence (AI) is developing rapidly, promoting industry upgrades, and improving everyday convenience, Mr Chan stressed that managing its impact across society and prioritising risk governance and application safety are equally crucial.\n\nHe said the working group will steer and co-ordinate the efforts of bureaux and departments to examine issues relating to AI development risks, governance, and safety; strengthen public awareness; and develop corresponding management and regulatory frameworks. This aims to ensure that while accelerating technological adoption, these tools are used for good and remain safe and under control.\n\nAt the meeting, the working group reviewed and co-ordinated the work plans and implementation proposals for the seven specific actions under the AI risk governance strategy. These cover combating the use of AI in criminal activities, enhancing the protection of minor users, promoting market assessment of ethical issues, ensuring the safe and orderly application of the technology across industries, examining legal liability arising from accidents caused by automated products, introducing guidelines on agent management, and evaluating the impact of automation on employment.\n\nTo ensure that Hong Kong's AI risk governance strategy is implemented comprehensively, soundly, and in an orderly manner, the working group will convene regularly as work advances to review and oversee departmental execution of the various measures, and facilitate interdepartmental collaboration.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_132136_249/images/20261120143947124.jpg",
+      "publishedAt": "2026-11-19T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_132136_249.html"
     },
     {
       "id": "449e517eee492786",
@@ -1094,17 +1105,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_182002_711.html"
-    },
-    {
-      "id": "c042f143244714f0",
-      "title": "Stepping up maritime hub push",
-      "excerpt": "Secretary for Transport & Logistics Mable Chan has outlined how Hong Kong is upgrading and transforming its shipping industry to…",
-      "fullText": "Secretary for Transport & Logistics Mable Chan has outlined how Hong Kong is upgrading and transforming its shipping industry to build a global maritime hub, aligning the city’s First Five-Year Plan with the National 15th Five-Year Plan. Highlighting Hong Kong’s role as the strategic southern gateway linking the Mainland with the world, she noted that the city serves as a \"super-connector\" and \"super value-adder\".\n\nTo consolidate and enhance Hong Kong’s status as an international shipping centre, the Government is adopting a dual-core strategy that boosts port competitiveness while fostering a vibrant, high-value maritime services cluster. Ms Chan expected that these efforts will strengthen the city’s resilience and attract fresh business opportunities for the sector.\n\n\"They can finance, they can build and also lead from Hong Kong as the base, to enter into a more rigorous and more complete holistic development of maritime and shipping development for Hong Kong,\" she said.\n\nOne of the key measures to enhance port competitiveness is the green transformation of the maritime industry. Hong Kong is the seventh-largest bunkering hub globally by volume, having completed over 210 green maritime fuel bunkering operations totalling more than 370,000 tonnes from January 2025 through the third quarter of 2026.\n\nMs Chan noted that Hong Kong holds strong potential to become a leading Green Maritime Fuel Bunkering & Trade Centre. To advance this goal, the Government has signed a Memorandum of Understanding with Zhanjiang in Guangdong to jointly establish Hong Kong’s very first Green Energy Corridor.\n\nMs Chan added that the Government will collaborate with relevant parties to develop national and international standards and certification systems for green shipping fuel. It will also leverage Hong Kong’s mature capital-raising platform to finance investments in green fuel shipping.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_220912_742/images/20261117224417170.jpeg",
-      "publishedAt": "2026-11-17T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_220912_742.html"
     },
     {
       "id": "ca3e541e2b78276d",
