@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T15:15:20.092Z",
-  "checkedAt": "2026-11-20T15:15:20.092Z",
+  "generatedAt": "2026-11-20T15:30:42.674Z",
+  "checkedAt": "2026-11-20T15:30:42.674Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -480,17 +480,6 @@
       "link": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_113135_264.html"
     },
     {
-      "id": "6951a49faa0ed24e",
-      "title": "Global praise for HK infrastructure",
-      "excerpt": "InfraEX Week 2026 opened today with its flagship event – the 2nd International Infrastructure and Projects Leaders Summit – bringing…",
-      "fullText": "InfraEX Week 2026 opened today with its flagship event – the 2nd International Infrastructure and Projects Leaders Summit – bringing together leading experts and professionals from over 30 countries and regions.\n\nParticipants praised the summit’s strong global appeal and shared positive views on Hong Kong’s ongoing infrastructure development.\n\nAshghal Technical Office Assistant Manager Hayat Bukshaisha said that Hong Kong has strong experience in planning and delivering major infrastructure projects.\n\n“We are taking Hong Kong as a benchmark. We look to Hong Kong and learn from past experience, especially when it comes to modern methods of construction and project delivery,” she said.\n\nDeloitte Australia Senior Partner Sean McClowry noted that he is particularly interested in the Northern Metropolis Project.\n\n“It is one of the most exciting initiatives of its kind in the world, and seeing this kind of greenfield initiative coming to life is really exciting for me,” he said. “Always when I come to Hong Kong, just seeing how the infrastructure works together and how you fuse physical infrastructure and digital technologies is very interesting to me.”\n\nMinistry of Finance of the Republic of Singapore Executive Director (Centre for Public Project Management) Low Chian Siong highlighted the value of opportunities that he gained by joining the event.\n\n“The greatest takeaway for me is not just learning what other participants are doing, but also actually the network that we create and continue to maintain,” he said.\n\nHe said he was also amazed by how much Hong Kong has achieved in a very short time in terms of planning and execution.\n\nMeanwhile, Professor Tarek Zayed of The Hong Kong Polytechnic University Department of Construction Management & Intelligence, who has spent nine years working in Hong Kong, emphasised the city’s high standards in infrastructure.\n\n“I have been in contact with many departments in Hong Kong and doing a lot of research in many infrastructures including bridges, tunnels, water networks, sewer networks, highways or pavement. The infrastructure here is strong, very good, and many of them are new, very sustainable and resilient for the coming generation.”\n\nAssociation of Consulting Engineers of Hong Kong Chairman Ole Wong said that the summit encourages valuable exchanges with overseas professionals.\n\n“We can share, we can collaborate and we think about an integrated opportunity with each other together. So the summit is very successful and we hope we can meet as many leaders as possible from different places. We can all work together and we can think about our future, embrace our challenges together,” he said.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_183930_656/images/20261120211059343.jpg",
-      "publishedAt": "2026-11-19T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_183930_656.html"
-    },
-    {
       "id": "6990e206ca3c3f53",
       "title": "Inflation at 2.2% in October",
       "excerpt": "Overall consumer prices rose 2.2% year on year in October, up from the 1.9% increase recorded in September, the Census…",
@@ -896,6 +885,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_165142_423.html"
+    },
+    {
+      "id": "4c243ce0771df383",
+      "title": "16 building plans approved in Sept",
+      "excerpt": "The Buildings Department approved 16 building plans in September – three on Hong Kong Island and 13 in the New…",
+      "fullText": "The Buildings Department approved 16 building plans in September – three on Hong Kong Island and 13 in the New Territories.\n\nOf the approved plans, four were for apartment or apartment/commercial developments, three were for commercial development, seven for factory and industrial developments, and two for community services.\n\nConsent was given for works on four building projects. Upon completion, they will provide 133,494 sq m of gross floor area for domestic purposes, equating to 2,516 units, and 159,085 sq m of gross floor area for non-domestic use.\n\nAdditionally, the department received notification of the commencement of superstructure works for five building projects.\n\nIt also issued 21 occupation permits, comprising five on Hong Kong Island, eight in Kowloon and eight in the New Territories.\n\nThe buildings certified for occupation comprise 30,470 sq m of gross floor area for domestic purposes, equating to 655 units, and 100,899 sq m for non-domestic use.\n\nMeanwhile, the department also issued three demolition consents and 771 removal orders, and received 3,540 reports about unauthorised building works in September.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_150347_169/images/20261119154613776.jpg",
+      "publishedAt": "2026-11-18T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_150347_169.html"
     },
     {
       "id": "86df1cd42af672a5",
