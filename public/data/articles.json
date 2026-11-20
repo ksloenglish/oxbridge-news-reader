@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T21:00:35.666Z",
-  "checkedAt": "2026-11-20T21:30:30.801Z",
+  "generatedAt": "2026-11-20T21:45:19.531Z",
+  "checkedAt": "2026-11-20T21:45:19.531Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 9
+      "articleCount": 10
     },
     {
       "id": "rthk-finance",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "fbe2e203b02a0c0b",
+      "title": "UK, EU hail new deals 10 years after Brexit",
+      "excerpt": "UK Prime Minister Andy Burnham and the EU's top officials on Friday sealed deals at a Brussels summit to ease…",
+      "fullText": "UK Prime Minister Andy Burnham and the EU's top officials on Friday sealed deals at a Brussels summit to ease trade and youth mobility after Brexit, but kicked down the road the question of where ties go next.\n\nBurnham has re-energised talk of closer ties a decade after Britain voted to leave the European Union, and the mood was upbeat as the prime minister shook hands with EU chiefs Ursula von der Leyen and Antonio Costa.\n\nOne potential dampener emerged as the 27-nation bloc and London jostled over linking ultimate implementation of the new deals to Britain agreeing to cut university fees for EU students -- but both sides cast the day as a win.\n\n\"This is a good day for Britain. This is a good day for Europe,\" Burnham told the gathering, hailing a \"landmark\" agreement -- while the EU's von der Leyen called it a \"turning point\" in relations.\n\nWrapped up in Brussels were three main agreements: a deal cutting red tape for food exports, another linking the two sides' emissions-trading schemes and a third on a \"youth experience scheme\".\n\nBurnham argued the accords -- initiated by his predecessor, Keir Starmer -- will unpick some of the damage inflicted by the \"hard Brexit we ended up with\" and provide a US$22-billion boost to the British economy.\n\nBritish firms will export to Europe more easily again and 100,000 under-30s from each side will be allowed to reside for up to three years in the other's territory for work, study or travel.\n\nBut while the optics at the meeting may have been much improved, old habits die hard.\n\nBrussels and London wrangled down to the wire over the details of the deals.\n\nOne sticking point was on pinning London down to a future agreement on cutting fees for EU students at UK universities to the level paid by their British counterparts.\n\nBurnham insisted that the \"deal is done\", even if talks would continue on tuition fees over the next six months.\n\nBut a statement from EU countries seen by AFP said they would hold off implementation until there was an agreement over the fees.\n\nSince taking power this summer, Burnham has defied the taboos in Britain's toxic debate over Europe -- going as far as to float rejoining the bloc one day.\n\nEuropean Council boss Costa told Burnham the EU was open to having the \"closest possible relationship\".\n\nBut the summit focused on smaller steps, and the prime minister kicked the can on what could come next.\n\nHaving previously said he would like to see Britain rejoin the EU in his lifetime, Burnham has promised to lay out options that could range from leaving things as they are to entering the customs union or becoming a member again.\n\nHe said he would hold an \"informal brainstorming\" with the EU over the next year to look at options.\n\n\"We do need to consider what is the right long-term relationship. Incremental steps, as you say, only take us so far,\" Burnham said in response to a question from AFP -- while conceding Friday's deals were likely \"the limit of what we can achieve in this parliament\".\n\n\"The British people will be the boss of what happens next. We will not be running ahead of public opinion,\" he said.\n\nBurnham hopes friendlier EU relations will help build a broad centre-left coalition to win the next general election, not anticipated until 2029.\n\nPolls now regularly indicate most Britons regret Brexit.\n\nHowever, Burnham's own party is divided on how to proceed.\n\nThe Labour leader's push leaves him open to accusations of Brexit betrayal from the opposition Conservatives and hard-right Reform UK party of Nigel Farage -- who shadowed Burnham to Brussels and delivered his own press conference.\n\n\"He's let the genie out of the bottle, and I think he's going to be very, very surprised by the backlash he gets,\" Farage told journalists. (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T21:12:18.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878659-20261121.htm"
+    },
     {
       "id": "6691469f1dc34a79",
       "title": "The most misunderstood graph in AI just got a major update",
