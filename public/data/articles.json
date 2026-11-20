@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T04:00:27.184Z",
-  "checkedAt": "2026-11-20T04:00:27.184Z",
+  "generatedAt": "2026-11-20T04:15:17.654Z",
+  "checkedAt": "2026-11-20T04:15:17.654Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 12
     },
     {
       "id": "rthk-finance",
@@ -115,17 +115,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878559-20261120.htm"
-    },
-    {
-      "id": "3f539ef640af6d9d",
-      "title": "Trump cyber czar pays the price over outages",
-      "excerpt": "Cyber security chief Sean Cairncross has been fired from his post, a source close to the White House said, following…",
-      "fullText": "Cyber security chief Sean Cairncross has been fired from his post, a source close to the White House said, following major outages and growing concerns about AI threats.\n\nUS President Donald Trump fully supported the firing because Cairncross lacked proper credentials to perform the job, the source said.\n\nHis role will be filled in an acting capacity by current Defence Department chief information officer Kirsten Davies, who has more appropriate credentials and has been Senate-confirmed, the source said.\n\nIn recent days and weeks, major outages in America have disrupted travel, communications and e-commerce for countless users, but also affected a top-secret internal communications network at the National Security Administration.\n\nSecretary of State Marco Rubio congratulated Davies on X, writing: \"Congratulations to the new national cyber director Kirsten Davies – look forward to working together to strengthen America's cybersecurity.\"\n\nPrior to serving as national cyber director, Cairncross filled various roles as a White House insider during Trump's first term.\n\nPrior to that, Cairncross worked as the Republican national committee's chief operating officer for the 2016 election cycle. (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T03:16:54.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878562-20261120.htm"
     },
     {
       "id": "463375d023d72683",
