@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T10:24:18.756Z",
-  "checkedAt": "2026-11-20T10:45:20.353Z",
+  "generatedAt": "2026-11-20T11:00:33.844Z",
+  "checkedAt": "2026-11-20T11:00:33.844Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "d926b1415ebb1887",
+      "title": "Govt going all out to help Wang Fuk residents: CS",
+      "excerpt": "The government is doing everything it can to help residents of Wang Fuk Court to move on and start a…",
+      "fullText": "The government is doing everything it can to help residents of Wang Fuk Court to move on and start a new life, Chief Secretary Eric Chan said on Friday.\n\nAhead of the one-year anniversary of the fire that killed 168 people at the Tai Po housing estate, Chan stressed that the public can freely attend memorial events so long as they are legal.\n\nResponding to reporters' questions after officiating at the opening ceremony of a Community Living Room in North Point, Chan said he had heard that certain groups were being pressured to cancel certain memorial activities.\n\n\"I would like to clarify here and reiterate that Hong Kong is governed by the rule of law. Any memorial activities, as long as they are legal, are absolutely permitted by the government,\" he said, citing examples such as events held by religious bodies.\n\nBut he urged the public to be careful in choosing which events to attend, saying there are individuals with ulterior motives who wish to use this opportunity to create trouble.\n\n\"I want to remind our citizens that when participating in such memorial events, they must be careful in their choices and make sure not to be taken advantage of by people with hidden agendas,\" he said.\n\nIf in doubt, Chan suggested the public enquire with the government.\n\nThe chief secretary said that the government, led by Chief Executive John Lee, had been going all out to assist residents affected by the fire, including rehousing them as soon as possible.\n\nBut most importantly, he said, is how reforms must be implemented to prevent a repeat of the disaster, citing ongoing legislative amendments to minimise fire risks and stamp out bid-rigging in building maintenance projects.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T10:47:08.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878624-20261120.htm"
+    },
     {
       "id": "d6cf3048c70c004a",
       "title": "Hong Kong inflation remains moderate at 2.2pc",
@@ -951,17 +962,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878339-20261118.htm"
-    },
-    {
-      "id": "f67a0f6485d3556b",
-      "title": "RTHK, CGTN present highlights from Apec summit",
-      "excerpt": "RTHK and CGTN are joining hands in covering the Apec summit in Shenzhen. RTHK's Hailey Yip and her CGTN counterpart…",
-      "fullText": "RTHK and CGTN are joining hands in covering the Apec summit in Shenzhen.\n\nRTHK's Hailey Yip and her CGTN counterpart Zhao Yunfei give us the key takeaways from President Xi Jinping's keynote address at the Apec CEO Summit, and Chief Executive John Lee's bilateral meetings with several Apec member economies on the sidelines of the gatherings.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T12:34:52.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878338-20261118.htm"
     },
     {
       "id": "c08d2bf5cfc43826",
