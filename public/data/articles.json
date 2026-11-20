@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T09:45:22.552Z",
-  "checkedAt": "2026-11-20T09:45:22.552Z",
+  "generatedAt": "2026-11-20T10:00:33.907Z",
+  "checkedAt": "2026-11-20T10:00:33.907Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "e77d1bf316314879",
+      "title": "Seven arrested for allegedly smuggling in nine animals",
+      "excerpt": "Customs officers on Friday said they arrested seven people, three men and four women, aged between 33 and 56, for…",
+      "fullText": "Customs officers on Friday said they arrested seven people, three men and four women, aged between 33 and 56, for allegedly trying to smuggle nine animals into Hong Kong through the Sha Tau Kok Control Point.\n\nThe animals — seven cats and two dogs — have an estimated total market value of about HK$92,000.\n\nSenior Investigator Li tsz-wing said in one case, the crime syndicate first placed the animals in plastic bags and smuggled them into Hong Kong through Chung Ying Street in Sha Tau Kok, before transferring them using two privates cars to a location outside a shopping mall in Tuen Mun for handover.\n\nHe said the suspects were arrested at the scene and further arrests were made the day after.\n\n“Investigations found that these criminal syndicates often use circuitous methods involving multiple transfers to avoid detection by our officers,” he said.\n\n\"They first arrange for couriers to smuggle the animals across the border, then quickly transfer them using different vehicles within a short period of time, before finally handing them over to buyers or recipients in Hong Kong. This is done to complicate tracing efforts for our officers.”\n\nLi said that in another case, a man was seen allegedly smuggling five cats and two puppies on his bicycle and in his personal luggage at Sha Tau Kok Border Control Point and was arrested at the scene.\n\nLi noted that all animals involved were handed over to the Agriculture, Fisheries and Conservation Department for further investigation.\n\nFollowing the incident, customs officials reminded the public that it is an offence to import animals into the SAR without a valid permit.\n\nUnder the Rabies Regulation, anyone found guilty of illegally importing animals is liable to a fine up to HK$50,000 and imprisonment for one year.\n\nCustoms officials also warned the public to stay vigilant against unscrupulous online pet sellers.\n\nIt said anyone involved in importing animals without a valid permit — including buyers, sellers, transporters, or recipients — faces criminal liability.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T09:43:58.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878605-20261120.htm"
+    },
     {
       "id": "3c5539521f661b9a",
       "title": "Public housing wait falls to decade low of 4.4 years",
@@ -962,17 +973,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878305-20261118.htm"
-    },
-    {
-      "id": "4f30fc240faffd75",
-      "title": "Doctor 'zoned out' in wrong ovary removal: CUHKMC",
-      "excerpt": "CUHK Medical Centre on Wednesday said a doctor who had mistakenly removed a patient’s ovaries “zoned out” during the operation…",
-      "fullText": "CUHK Medical Centre on Wednesday said a doctor who had mistakenly removed a patient’s ovaries “zoned out” during the operation in September.\n\nThe private hospital’s chief executive officer, Chung Kin-lai, apologised at a press conference, which was held a day after the hospital said in a statement that the doctor was highly focused on executing clinical steps and had \"a temporary collapse of his situational awareness\".\n\nChung said the patient’s operation – laparoscopic hysterectomy and bilateral salpingectomy – had two surgical options, either preserving or removing the ovaries, and the patient had chosen to keep her ovaries.\n\n\"The doctor, for a brief moment, failed to realise the step that should have been taken and was essentially acting on instinct,\" he said.\n\n\"In plain language that the general public can understand, you could basically say the doctor was absent-minded or zoned out, and carried out another option rather than the one chosen by the patient.\"\n\nChung added the doctor had immediately apologised to the patient, who was shocked and disappointed.\n\nBut the patient still chose to trust the doctor and was still attending consultations, he said.\n\nChung also said the doctor involved in the incident was a contract obstetrician-gynecologist who was experienced, well-respected in the sector and had a good reputation among patients.\n\nHe added the doctor had admitted the mistake, and the hospital would impose disciplinary actions according to its human resource policies.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T08:49:42.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878303-20261118.htm"
     },
     {
       "id": "e4f3ef4b0249aeef",
