@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T02:15:16.769Z",
-  "checkedAt": "2026-11-20T03:05:21.108Z",
+  "generatedAt": "2026-11-20T03:15:17.866Z",
+  "checkedAt": "2026-11-20T03:15:17.866Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "463375d023d72683",
+      "title": "HK stocks slip as Anthropic IPO fails to end AI slump",
+      "excerpt": "Asian shares slid on Friday to be on track for their worst week since 2020 as Anthropic's debut failed to…",
+      "fullText": "Asian shares slid on Friday to be on track for their worst week since 2020 as Anthropic's debut failed to restore investor faith in AI trades, while the US dollar extended a rally on safe-haven flows.\n\nIn Hong Kong, the benchmark Hang Seng Index opened down 359 points, or 1.57 percent, at 22,482 and was 439 points lower in early trading.\n\nThe China enterprises index fell 122 points, or 1.59 percent, to 7,568 while the tech index dived 107 points or 2.95 percent, to 3,541.\n\nOn the mainland, the Shanghai Composite Index opened down 50 points, or 1.41 percent, at 3,527.\n\nThe Shenzhen Component Index lost 180 points, or 1.71 percent, to open at 10,402 while the ChiNext Index fell 49 points, or 2.15 percent, to 2,244.\n\nThe moves in Asia followed losses of more than two percent for the S&P 500 and the Nasdaq Composite.\n\nAnthropic, the world's first publicly traded frontier artificial intelligence company, saw its shares surge more than 30 percent in an historic debut but the euphoria failed to lift other boats.\n\n\"Anthropic's blockbuster IPO proved not enough to assuage the overall concern about the outlook for the AI trade and equities more broadly,\" said Kyle Rodda, senior financial market analyst at Capital.com.\n\nThe wider AI sector has been bruised by the exit of Jensen Huang as CEO of Nvidia as well as additional momentum for the anti-data-centre movement in the wake of the Democrats' sweep of the US midterm elections.\n\nUnease about mounting debt loads in the sector and warnings that AI threatens human extinction have also hit sentiment.\n\nRodda said that with the AI trade fading and Fed rate hikes seen likely, general market sentiment is shaky and the risk is that this bearishness begins to drag stocks even lower. (Agencies)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T03:04:53.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878553-20261120.htm"
+    },
     {
       "id": "25efe45daa54e92f",
       "title": "Myanmar guilty of genocide against Rohingya, ICJ rules",
@@ -1193,17 +1204,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878130-20261117.htm"
-    },
-    {
-      "id": "09bf5a0b7b1a2292",
-      "title": "Tech leaders say EV innovation, robotaxis key for Apec",
-      "excerpt": "The founder of the world's largest electric vehicle battery maker on Tuesday said opportunities in the Asia-Pacific region outweigh challenges…",
-      "fullText": "The founder of the world's largest electric vehicle battery maker on Tuesday said opportunities in the Asia-Pacific region outweigh challenges and that innovation is the key to unlocking them.\n\nSpeaking at the Apec CEO Summit in Shenzhen, Robin Zeng of Contemporary Amperex Technology Limited (CATL) said a company's first goal is to make money, but that its purpose as it grows should be to benefit people.\n\nHe said this is what motivates him to persist, adding that CATL is focused on innovation and on sharing the benefits of advances made across the region.\n\n\"We really focus on innovations,\" Zeng said.\n\n\"So if you have technology innovation, product innovation, solution innovation, then they can come up with a solution to share in this region.\n\n\"For example, everyone now is focused on the EV.\n\n\"We are more focused on the infrastructure of the EV, so battery swapping is one of the innovations, which can help all the EV cars swap the batteries in 99 seconds. So it's very fast.\n\n\"This can already be applied to this region. This is we're talking about a business model innovation.\"\n\nSpeaking at the same panel discussion, Baidu chief executive Robin Li highlighted driverless ride-hailing vehicles as a prime example of artificial intelligence's real-world potential.\n\n\"It's a real application, and people can really benefit from that,\" he said.\n\n\"It benefits people's daily lives. Every year, more than a million people get killed on the roads.\n\n\"But when robotaxi is operating, its safety record is about 10 times better than that of a human driver.\"\n\nLi said that with China and the United States gradually opening the way for for autonomous vehicles, he hoped other places in Asia would follow suit.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T04:44:39.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878103-20261117.htm"
     },
     {
       "id": "a0f8fe9180b08a2b",
