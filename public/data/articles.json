@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T05:30:20.994Z",
-  "checkedAt": "2026-11-20T05:30:20.994Z",
+  "generatedAt": "2026-11-20T05:45:28.390Z",
+  "checkedAt": "2026-11-20T05:45:28.390Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 17
     },
     {
       "id": "rfa-english",
@@ -291,6 +291,17 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/myanmar/2026/11/19/rohingya-genocide-icj-ruling-myanmar/"
+    },
+    {
+      "id": "6069a539d29a69b7",
+      "title": "P1 school results drop next Mon",
+      "excerpt": "Primary One discretionary places for September 2027 will be released next Monday, the Education Bureau announced today. Of the 32,104…",
+      "fullText": "Primary One discretionary places for September 2027 will be released next Monday, the Education Bureau announced today.\n\nOf the 32,104 children who applied for discretionary places at government and aided primary schools, 18,148 will be offered a place.\n\nAmong them, 8,270 have siblings studying or parents working at the schools they have applied to. The remaining 9,878 have been selected according to the Points System.\n\nParents who have already activated their Primary One Admission e-Platform (ePOA) account can check the results via the e-platform from 10am on Monday.\n\nThey can also bring a copy of the paper application form and check the results at the school they applied to between 9am and 5pm.\n\nParents whose children have been offered a discretionary place should register them next Wednesday or Thursday.\n\nFor parents whose children have failed to secure a discretionary place or who have opted for Central Allocation only, the bureau will inform them in writing in mid-January 2027 to select schools for Central Allocation via ePOA from January 18 to 24, or at a designated Central Allocation Centre on January 23 or 24.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_113135_264/images/20261120130847993.jpg",
+      "publishedAt": "2026-11-19T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_113135_264.html"
     },
     {
       "id": "449e517eee492786",
@@ -1294,17 +1305,6 @@
       "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_163139_927.html"
     },
     {
-      "id": "4788bb7f8e46af27",
-      "title": "Plans ready for Subsector elections",
-      "excerpt": "Chairman of the Electoral Affairs Commission (EAC) David Lok chaired a Crisis Management Committee (CMC) meeting this evening to review…",
-      "fullText": "Chairman of the Electoral Affairs Commission (EAC) David Lok chaired a Crisis Management Committee (CMC) meeting this evening to review various scenarios that may arise during the 2026 Election Committee Subsector Ordinary Elections, scheduled for November 22.\n\nDuring the meeting, the EAC received briefings from representatives of key government departments, including the Registration & Electoral Office, the Digital Policy Office and the Hong Kong Police Force. They covered election preparation and co-ordination work, assessments of cybersecurity and security risks as well as contingency plans for polling day.\n\nFurther updates on preparatory work and co-ordination were presented by the Security Bureau, the Home Affairs Department, the Information Services Department, the Department of Justice and the Electrical & Mechanical Services Department.\n\nMr Lok noted that organising an election is a complex undertaking requiring meticulous planning, preparation and arrangements throughout the workflow. He added that relevant policy bureaux and departments have entered the final stage of preparation with security and contingency plans in place to ensure the elections proceed smoothly.\n\nHe also pointed out that today’s meeting enabled the EAC to prepare for the elections more thoroughly. The CMC will assist the EAC in closely monitoring conditions on polling day, reaffirming the EAC’s commitment to ensuring the elections are conducted openly, honestly and fairly in strict accordance with electoral laws and guidelines.\n\nFive ordinary polling stations will be set up for the elections, utilising the electronic poll register (EPR) system to issue ballot papers.\n\nMr Lok and EAC member Daniel Shek also inspected an on-site drill arranged by the Registration & Electoral Office today for polling station staff. The training session familiarises staff with polling station operations and the ballot-paper issuance process, including using the EPR system and its fallback mode.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_203127_465/images/20261117234836498.jpg",
-      "publishedAt": "2026-11-16T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261117/20261117_203127_465.html"
-    },
-    {
       "id": "4d352436bdd926b5",
       "title": "Lawmaker supports decision to cut short harbour swim",
       "excerpt": "Legislator Vincent Cheng, who took part in Sunday's cross-harbour swim, on Monday said it was appropriate for the organiser to…",
@@ -1699,17 +1699,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_190405_746.html"
-    },
-    {
-      "id": "e514ab7fdff7dce2",
-      "title": "Domestic helper wage up 2.35%",
-      "excerpt": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased…",
-      "fullText": "The Government announced today that the Minimum Allowable Wage for foreign domestic helpers (FDHs) in Hong Kong will be increased by 2.35%, from $5,100 to $5,220 per month.\n\nThe new minimum wage level will apply to all FDH contracts signed on or after tomorrow. FDH contracts signed today or earlier at the existing rate will still be processed by the Immigration Department, provided that the applications reach the department no later than October 30.\n\nThe Government explained that in reviewing the minimum wage, it had, in accordance with an established mechanism, considered factors including Hong Kong’s general economic performance and labour market conditions over the past year, the city's near-term economic outlook, employer affordability and the basic living needs of FDHs.\n\nThe Government also consulted employers and FDHs throughout the review process.\n\nIt stated that it decided to adjust the minimum wage level after carefully assessing and balancing the views of all parties, taking into account that this year's socio-economic factors are more favourable than those of last year's review.\n\nThe Government also reviewed the food allowance in lieu of free food, and decided that the level should remain unchanged, at no less than $1,236 per month.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265/images/20261002172046980.jpg",
-      "publishedAt": "2026-10-01T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261002/20261002_163257_265.html"
     }
   ]
 }
