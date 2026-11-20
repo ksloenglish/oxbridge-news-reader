@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T08:30:20.984Z",
-  "checkedAt": "2026-11-20T08:30:20.984Z",
+  "generatedAt": "2026-11-20T08:45:17.996Z",
+  "checkedAt": "2026-11-20T08:45:17.996Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 10
+      "articleCount": 9
     },
     {
       "id": "rthk-finance",
@@ -95,10 +95,21 @@
   ],
   "articles": [
     {
+      "id": "82226bf4547ed33f",
+      "title": "Beijing warns of 'judicial overreach' in ICJ ruling",
+      "excerpt": "China raised concerns of judicial overreach after the International Court of Justice (ICJ) ruled that Myanmar committed genocide against its…",
+      "fullText": "China raised concerns of judicial overreach after the International Court of Justice (ICJ) ruled that Myanmar committed genocide against its Rohingya minority, saying on Friday \"such practices are not conducive\" to a resolution.\n\n\"China is concerned about issues such as jurisdiction overreach and expanded interpretation, and believes that such practices are not conducive to the settlement of disputes,\" Foreign Ministry spokesman Guo Jiakun said when asked about the ICJ ruling.\n\n\"The international community should make joint efforts in this direction to avoid complicating this issue,\" he added.\n\nGuo was speaking as Malaysia said it would resettle 10,000 Rohingya refugees in Turkiye through a structured skills training programme, in what would be one of the biggest resettlement initiatives involving the Rohingya.\n\nThe proposal is part of the government's efforts to address the Rohingya refugee situation in Malaysia in a more \"coordinated, effective and humane manner\", Malaysian Deputy Prime Minister Ahmad Zahid Hamidi said in a statement.\n\n\"I welcome the government of Turkiye's agreement to receive 10,000 Rohingya refugees. This marks an important step in Malaysia's efforts to find a long-term solution to an issue that has long posed challenges for migration management and national security,\" he said.\n\nAhmad Zahid said the initiative with Turkey could serve as a model for how countries can work together to manage refugee resettlement. (AFP/Reuters)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T08:27:06.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878600-20261120.htm"
+    },
+    {
       "id": "e6adcb932433af46",
       "title": "Stiffer penalties in works in Buildings Ordinance fix",
       "excerpt": "The government is proposing to tighten the Buildings Ordinance and raise maximum penalties to HK$10 million and five years in…",
-      "fullText": "The government is proposing to tighten the Buildings Ordinance and raise maximum penalties to HK$10 million and five years in prison for large-scale maintenance works that cause death, injury or property damage.\n\nThe proposals come in the wake of the Wang Fuk Court fire last November.\n\nIn a paper submitted to Legco, the Development Bureau proposed creating a new, separately regulated category for large-scale building maintenance works that no longer treats them as low-risk minor repairs.\n\nA project qualifies as large-scale maintenance if the building involved is four storeys or above and the scaffolding covers one whole side of the building, across at least four floors.\n\nThese works, which currently only need to be notified, would require a Buildings Department permit before they could start – and an authorised person would have to submit prescribed plans and a supervision plan.\n\nInspection and supervisory duties would be split, and the authorised person would have to declare that there is no conflict of interest with the inspection consultant and the contractor.\n\nAll materials used in construction – such as concrete, fire doors, scaffolding materials and temporary window coverings – must meet standards set by the Building Department.\n\nUse of substandard materials would carry a fine of up of HK$3 million and three years' imprisonment, against HK$500,000 and 18 months under present minor-works rules.\n\nWork carried out in a way that causes or may cause death, injury or property damage would come under a new criminal offence that carries a fine of up to HK$10 million and five years’ imprisonment, against HK$1 million and three years at present.\n\nA finding of bribery or bid-rigging could result in one being struck off statutory contractor and consultant registers without a disciplinary hearing and being banned for three years.\n\nThe government aims to introduce the amendment bill in January and bring it into force by the middle of 2027.\n\nEdited by Tony Sabine",
+      "fullText": "The government is proposing to tighten the Buildings Ordinance and raise maximum penalties to HK$10 million and five years in prison for all works, including those involving large-scale maintenance, that cause death, injury or property damage.\n\nThe proposals come in the wake of the Wang Fuk Court fire last November.\n\nIn a paper submitted to Legco, the Development Bureau proposed creating a new, separately regulated category for large-scale building maintenance works that no longer treats them as low-risk minor repairs.\n\nA project qualifies as large-scale maintenance if the building involved is four storeys or above and the scaffolding covers one whole side of the building, across at least four floors.\n\nThese works, which currently only need to be notified, would require a Buildings Department permit before they could start – and an authorised person would have to submit prescribed plans and a supervision plan.\n\nInspection and supervisory duties would be split, and the authorised person would have to declare that there is no conflict of interest with the inspection consultant and the contractor.\n\nAll materials used in construction – such as concrete, fire doors, scaffolding materials and temporary window coverings – must meet standards set by the Building Department.\n\nUse of substandard materials would carry a fine of up of HK$3 million and three years' imprisonment, against HK$500,000 and 18 months under present minor-works rules.\n\nWork carried out in a way that causes or may cause death, injury or property damage would come under a new criminal offence that carries a fine of up to HK$10 million and five years’ imprisonment, against HK$1 million and three years at present.\n\nA finding of bribery or bid-rigging could result in one being struck off statutory contractor and consultant registers without a disciplinary hearing and being banned for three years.\n\nThe government aims to introduce the amendment bill in January and bring it into force by the middle of 2027.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-20T07:50:08.000Z",
       "source": "RTHK English — Local",
@@ -645,17 +656,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878374-20261119.htm"
     },
     {
-      "id": "c77417a4464badf7",
-      "title": "Hegseth announces military partnership with Venezuela",
-      "excerpt": "US Defence Secretary Pete Hegseth announced a new agreement on military cooperation with Venezuela on Wednesday as he made his…",
-      "fullText": "US Defence Secretary Pete Hegseth announced a new agreement on military cooperation with Venezuela on Wednesday as he made his first visit to the country since US special forces deposed President Nicolas Maduro in a January raid in Caracas.\n\nHegseth announced the agreement alongside acting President Delcy Rodriguez, who welcomed him to the presidential palace. He said it covered joint training, intelligence sharing and other aspects of US-Venezuelan military cooperation. Rodriguez said the arrangement would help confront \"common threats\" and strengthen training for Venezuela's armed forces.\n\nHegseth said the partnership would herald a significant ramp-up in joint action against drug trafficking groups.\n\n\"To the narco terrorists who have used this as a safe haven, your time is up. We will hunt you down. We will find you. And we will kill you,\" Hegseth said, speaking from the US embassy.\n\nWashington already holds growing influence in Venezuela, particularly in the oil sector. Since Maduro's removal, US officials have moved quickly to shape the country's future, focusing on energy policy and investment.\n\nThat role expanded sharply in August under a deal granting producer North American Blue Energy Partners, or NABEP, long-term access to 17 oilfields that contain about a fifth of the country's oil reserves through a partnership with the US government. The United States secured a 35 percent stake in NABEP's parent, a guaranteed share of output and first refusal rights on the remainder.\n\nHegseth's trip to Venezuela came two weeks after voter anger over the Iran war helped drive an election defeat for US President Donald Trump's Republican Party in Congress. The unpopular, nearly nine-month-old conflict has driven up gasoline prices in the US and around the world, as Iran fires on tankers passing through the Strait of Hormuz off its coast.\n\nHegseth, who has defended the Iran war as courageous, said the oil deal with Venezuela \"makes the Strait of Hormuz a non-factor for the Western Hemisphere.\"\n\nAlejandro Betancourt, the Venezuelan businessman who controls NABEP and was central to the agreement, told reporters he discussed the progress of oil cooperation with Hegseth, adding that NABEP plans to produce over 250,000 barrels per day of oil by year-end as it prepares to have 10 well clusters in service.\n\nThat would be an increase from the 224,000 bpd it produced in mid-October, according to company figures.\n\nHegseth's Caracas stop came at the start of a trip to Latin America. He was expected in Colombia on Wednesday to deliver military equipment and discuss security cooperation with Bogota.\n\nColombia's defense minister said Hegseth was due to hand over a Lockheed Martin Hercules C-130 aircraft and discuss US support as Colombia battles drug trafficking groups and other illegal armed actors.\n\nIn August, Hegseth floated the possibility of joint strikes on Colombian armed groups.\n\nTrump's Latin America policy has expanded dramatically beyond its early focus on the Panama Canal. More than 200 people have been killed since the launch of US military ⁠strikes on suspected drug boats last year.\n\nAs he addressed the gathering in Caracas, Hegseth invoked a revamped Monroe Doctrine, the 19th-century policy asserting US primacy across the Americas that critics associate with decades of US intervention.\n\nHe called it the \"Donroe Doctrine\" – a play on Trump's name.\n\n\"That is the Donroe Doctrine. Venezuela has gone from our most aggressive regional threat to a compliant security partner on its way to rebuilding its military alongside the United States,\" Hegseth said. (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T23:15:54.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878375-20261119.htm"
-    },
-    {
       "id": "2c8a3eeee8b3d597",
       "title": "Anthropic prices blockbuster IPO at US$83 per share",
       "excerpt": "Anthropic priced its initial public offering at US$83 per share on Wednesday, according to multiple reports, an amount above the…",
@@ -1171,17 +1171,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
-    },
-    {
-      "id": "84ff7e89b2ad47cd",
-      "title": "Mexican leader asks China for panda",
-      "excerpt": "Mexican President Claudia Sheinbaum said on Tuesday that she asked President Xi Jinping for a panda for her country during…",
-      "fullText": "Mexican President Claudia Sheinbaum said on Tuesday that she asked President Xi Jinping for a panda for her country during a meeting in China.\n\n\"Next year marks the 55th anniversary of Mexico-China relations, and it's a very important milestone,\" Sheinbaum told reporters in Shenzhen.\n\n\"We discussed moving forward on tourism, and we also asked for a panda for the Chapultepec Zoo as part of this partnership,\" she said on the sidelines of the Apec summit.\n\n\"So it was a very good meeting – a very cordial and very frank one.\"\n\nChapultepec Zoo in Mexico City is home to the only known giant panda not owned by China, a 36-year-old female called Xin Xin.\n\nIt is the last in a line of giant pandas brought to Mexico in 1975.\n\nSince the 1980s, China has operated a different policy in which it lends pandas for set periods and in return for a payment towards wild panda conservation efforts.\n\nSheinbaum also told Xi that relations with China are entering a \"new era\", while Xi called for ties to be elevated to a \"a higher level\" in light of a \"complex\" global situation.\n\nXi met various regional leaders on the Apec sidelines on Tuesday, among them Canadian Prime Minister Mark Carney, Chilean President Jose Antonio Kast and Peruvian President Keiko Fujimori. (AFP)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T14:16:11.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878184-20261117.htm"
     },
     {
       "id": "249551d657d3e425",
