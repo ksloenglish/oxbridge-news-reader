@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T04:30:21.620Z",
-  "checkedAt": "2026-11-20T05:00:32.789Z",
+  "generatedAt": "2026-11-20T05:15:15.452Z",
+  "checkedAt": "2026-11-20T05:15:15.452Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "49ddae2a6315b682",
+      "title": "HK joins global drug regulatory body ICH",
+      "excerpt": "Hong Kong has formally become a regulatory member of the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for…",
+      "fullText": "Hong Kong has formally become a regulatory member of the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH), a move the Health Bureau says marks a key step towards building the city into an international healthcare innovation hub.\n\nThe ICH admitted Hong Kong, represented by the Pharmacy and Poisons Board, as its 20th regulatory member at its assembly in the Czech Republic on Tuesday.\n\nOther regulatory members include the National Medical Products Administration of China, as well as regulators from Europe, Switzerland, the UK and the US.\n\nThe ICH is a key international platform for coordinating technical standards on drug regulation, setting guidelines covering safety, efficacy and quality.\n\nSecretary for Health Lo Chung-mau said the government sincerely thanked the country for its support for Hong Kong's development as an international healthcare innovation hub, saying the membership fully demonstrates the unique advantages of \"one country, two systems\".\n\nHe noted that Hong Kong became an ICH observer on October 31, 2023, and had met all of the body's requirements in just three years, far faster than the eight to 10 years estimated earlier.\n\nLo said the government will set up a centre for medical products regulation to build independent drug evaluation and approval capacity to support clinical research on biopharmaceuticals.\n\n\"Next month, the SAR government will establish the Hong Kong Centre for the Medical Products Regulation, build independent drug review and approval capacity, actively participate in international cooperation, and build Hong Kong into an international medical innovation hub, so as to better integrate into and serve the country’s overall development.” he said.\n\nDirector of Health Ronald Lam said joining the ICH is a big step forward.\n\n\"This is actually an important milestone in the development of drug and medical device regulation in Hong Kong, and it also marks the most critical step forward in establishing an internationally recognised, independent drug evaluation authority,\" Lam said.\n\nLam said the soon-to-be-established centre will build a professional team in accordance with ICH technical requirements, send experts to take part in drafting and revising ICH guidelines, and strive to become an internationally authoritative regulator.\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T04:57:22.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878581-20261120.htm"
+    },
     {
       "id": "cc09790020aa93f6",
       "title": "'Apec leaders have will to tackle uncertainty'",
@@ -962,17 +973,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878249-20261118.htm"
-    },
-    {
-      "id": "d986d3afb786b694",
-      "title": "Island Line gradually resumes after disruption",
-      "excerpt": "The MTR said on Wednesday morning that services on the Island Line were disrupted because of a signal equipment fault…",
-      "fullText": "The MTR said on Wednesday morning that services on the Island Line were disrupted because of a signal equipment fault near the HKU station.\n\nThe railway operator said trains passing through the section must slow down, and overall journey times are expected to take an extra five to eight minutes.\n\nIt urged passengers to allow ample time for their journeys.\n\nThe MTR said services gradually resumed to normal at around 10.30am, about two hours after the incident was reported.\n_____________________________\nLast updated: 2026-11-18 HKT 10:56\n\nEdited by Nazvi Careem",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T01:41:57.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878240-20261118.htm"
     },
     {
       "id": "03b964667d4d3836",
