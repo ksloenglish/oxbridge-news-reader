@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T08:45:17.996Z",
-  "checkedAt": "2026-11-20T09:00:30.868Z",
+  "generatedAt": "2026-11-20T09:13:37.691Z",
+  "checkedAt": "2026-11-20T09:13:37.691Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -346,6 +346,17 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/myanmar/2026/11/19/rohingya-genocide-icj-ruling-myanmar/"
+    },
+    {
+      "id": "18a60874476024cc",
+      "title": "HK joins int'l drug standards body",
+      "excerpt": "The Health Bureau today announced that Hong Kong, China has formally joined the International Council for Harmonisation of Technical Requirements…",
+      "fullText": "The Health Bureau today announced that Hong Kong, China has formally joined the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) as a regulatory member. The bureau noted that this accession signifies international recognition of the city’s drug research and development (R&D) and regulatory standards.\n\nJoining the ICH will strengthen Hong Kong’s capabilities for the primary evaluation of innovative drugs and allow it to help shape global R&D and registration rules. This milestone will also accelerate the city’s growth into an international health and medical innovation hub.\n\nAs an authoritative global body, the ICH harmonises technical requirements for drug registration. It issues safety, efficacy and quality guidelines recognised as the highest international standards for protecting public health.\n\nThe ICH approved Hong Kong’s admission as its 20th regulatory member at an assembly meeting in the Czech Republic on November 17, with the city represented by the Pharmacy & Poisons Board of Hong Kong. Other regulatory members include the National Medical Products Administration of China alongside authorities from Europe, Switzerland, the UK and the US.\n\nSecretary for Health Prof Lo Chung-mau said the Hong Kong Special Administrative Region Government thanked the country for supporting the city’s development into an international health and medical innovation hub. He added that Hong Kong, China becoming a regulatory member demonstrates the unique advantages of the “one country, two systems” principle.\n\n“Since becoming an ICH observer on October 31, 2023, Hong Kong has, with the country’s strong support, devoted its full efforts to fulfilling all the requirements of the ICH, and was able to formally become an ICH regulatory member in just three years, significantly accelerating the process compared with the eight to 10 years estimated by the Government earlier with reference to international experience,” Prof Lo said.\n\nLooking ahead, the health chief noted that the Hong Kong SAR Government will establish the Centre for Medical Products Regulation next month to build independent drug evaluation and approval capacity. The centre will also drive international co-operation to further establish Hong Kong as an international health and medical innovation hub.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_111704_622/images/20261120162507132.jpg",
+      "publishedAt": "2026-11-19T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_111704_622.html"
     },
     {
       "id": "6069a539d29a69b7",
@@ -1138,17 +1149,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_130248_331.html"
-    },
-    {
-      "id": "edc62176f92dad98",
-      "title": "Four lamp models banned",
-      "excerpt": "The Electrical & Mechanical Services Department today announced a ban on the supply of four compact fluorescent lamp models that…",
-      "fullText": "The Electrical & Mechanical Services Department today announced a ban on the supply of four compact fluorescent lamp models that failed to reach its energy efficiency and/or performance specifications.\n\nImported by Beauty Shadow Co Ltd, the four products are sold under the Sunshine brand with the following model numbers: S-24A 23W B22 2700K, S-24A 23W E27 2700K, S-16A 12W E14 6400K, S-16A 12W E27 6400K.\n\nThe department has removed the lamps from the record of listed models under the Energy Efficiency (Labelling of Products) Ordinance. Supplying such products is no longer allowed in Hong Kong, with immediate effect.\n\nNotices have been served to the importer, which will publish newspaper notices announcing supply of the products has been terminated.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_112520_814/images/20261118132213112.jpg",
-      "publishedAt": "2026-11-17T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_112520_814.html"
     },
     {
       "id": "fc14833dd3bcd1fe",
