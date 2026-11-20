@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T10:15:21.865Z",
-  "checkedAt": "2026-11-20T10:15:21.865Z",
+  "generatedAt": "2026-11-20T10:24:18.756Z",
+  "checkedAt": "2026-11-20T10:24:18.756Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 18
     },
     {
       "id": "rfa-english",
@@ -423,6 +423,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_163627_545.html"
+    },
+    {
+      "id": "6d9dbf6c91013d7c",
+      "title": "Public housing wait falls to 4.4 years",
+      "excerpt": "The Housing Bureau announced today that the latest Composite Waiting Time for Subsidised Rental Housing (CWT) is 4.4 years, a…",
+      "fullText": "The Housing Bureau announced today that the latest Composite Waiting Time for Subsidised Rental Housing (CWT) is 4.4 years, a significant decrease of 0.4 years compared with 4.8 years at the end of June, hitting a new decade low.\n\nThis figure is calculated based on the average waiting time of general applicants – family and elderly one-person applicants – who were housed in public rental housing (PRH) or Light Public Housing (LPH) in the past 12 months up to the end of September 2026.\n\nCompared with the peak of 6.1 years before the current-term Government took office, the latest CWT marks a reduction of 1.7 years, falling below 4.5 years for the first time.\n\nIn the third quarter of 2026, the bureau arranged for about 11,200 general applicants to be housed in PRH or LPH. These units include 3,100 newly completed PRH flats, about 2,700 recovered PRH flats, and about 5,450 LPH units. Among them, the number of applicants housed in LPH was more than four times that of the previous quarter.\n\nOver the past 12 months, the Government’s overall supply of PRH and LPH has significantly risen to about 8,200 units per quarter, double the average quarterly supply of about 4,100 units during the four years before the current-term Government took office.\n\nDuring the same period, the waiting time for general applicants housed in PRH was 5.3 years, whereas the waiting time for those housed in LPH was only 2.8 years. The bureau said this clearly demonstrates that the LPH policy has played a key role in faster fulfilment of grassroots citizens’ housing needs.\n\nThe bureau highlighted that it is adopting a multipronged approach to expedite the turnover of PRH flats to sustain a downward trend in the number of PRH general applicants.\n\nAt the end of September 2026, there were about 96,100 general applications for PRH, representing a significant decrease of nearly 40% compared with the peak of 156,400 cases as of September 2020 – a new 15-year low and the first time the figure has fallen below 100,000 since 2012.\n\nMeanwhile, there were about 80,600 non-elderly one-person applications under the Quota and Points System, representing an even sharper decrease of over 40% compared with the peak of 143,700 cases as of December 2015. The drop among non-elderly one-person applicants aged below 30 was even more pronounced, falling by about 60% over the past decade, from about 70,400 at the end of September 2016 to about 29,300 at the end of September 2026.\n\nThe bureau expects to provide an average of over 35,000 units per year in the next five years from 2027-28, representing an increase of about 73% compared with the five-year production since the current-term Government took office, which is the highest in the past 25 years.\n\nRegarding LPH, as of mid-November 2026, about 29,800 units have been completed. The remaining two new projects converted from school premises at Shun Lee Tsuen Road in Kwun Tong and Chuk Yuen Road in Wong Tai Sin – providing a total of about 210 units – are set to be completed in the first quarter of next year. About 30,000 LPH units will be completed in slightly over four years, ahead of the five-year target set out in the 2022 Policy Address.\n\nThe bureau noted that, with the continuous increase in overall public housing production and the progressive completion of various PRH and LPH projects, the long-standing backlog of applications is gradually being cleared, resulting in a downward trend in the CWT. It is confident that the target of reducing the CWT to 4.5 years in 2026-27, as announced by the Chief Executive in the 2022 Policy Address, can be achieved.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_150308_558/images/20261120174219177.jpg",
+      "publishedAt": "2026-11-19T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_150308_558.html"
     },
     {
       "id": "736d45ce4a4bab49",
@@ -1168,8 +1179,8 @@
       "fullText": "Hong Kong and Chile today signed an agreement to establish a bilateral Working Holiday Scheme (WHS) for their youth.\n\nSecretary for Labour & Welfare Chris Sun and Minister of Foreign Affairs of Chile Francisco Pérez Mackenna signed the agreement on the sidelines of the 33rd Asia-Pacific Economic Cooperation Economic Leaders’ Meeting in Shenzhen. Chief Executive John Lee and President of Chile José Antonio Kast witnessed the signing.\n\nWelcoming the agreement, Mr Sun said: “Chile is Hong Kong’s first WHS partner in Latin America. The scheme will provide young people from Hong Kong and Chile with opportunities to broaden their horizons and gain first-hand experience of living and working in a different cultural environment.”\n\nMr Pérez Mackenna said: “We are pleased to provide young people from Chile and Hong Kong with new opportunities to experience life in each other’s communities. Hong Kong’s unique blend of Eastern and Western cultures, international outlook and dynamic economy will offer Chilean youth an enriching experience. We also look forward to welcoming young people from Hong Kong to discover Chile’s rich culture, warm hospitality and natural beauty, thereby strengthening mutual understanding and people-to-people ties.”\n\nUnder the agreement, successful applicants can stay for up to 12 months in either Hong Kong or Chile. Participants may take up employment to finance their stay or enrol in short-term courses, subject to an annual quota of 100 places for each side.\n\nThis marks the 15th Working Holiday Scheme Hong Kong has established since 2001. Similar arrangements are already in place with New Zealand, Australia, Ireland, Germany, Japan, Canada, Korea, France, the United Kingdom, Austria, Hungary, Sweden, the Netherlands and Italy.\n\nOver 109,000 Hong Kong youths have benefited from these schemes to date. Details on visa application procedures will soon be available on the websites of the Immigration Department and Chile’s National Migration Service .",
       "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_182002_711/images/20261118201828222.jpg",
       "publishedAt": "2026-11-17T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261118/20261118_182002_711.html"
     },
     {
