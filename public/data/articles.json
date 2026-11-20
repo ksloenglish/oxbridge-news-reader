@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T14:15:23.897Z",
-  "checkedAt": "2026-11-20T14:30:28.095Z",
+  "generatedAt": "2026-11-20T14:45:22.195Z",
+  "checkedAt": "2026-11-20T14:45:22.195Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "67f3acbad9888249",
+      "title": "COP31 deal elusive as fossil fuel fight deepens",
+      "excerpt": "The UN's COP31 climate talks were set to spill into overtime Friday as countries remained deadlocked over a draft deal…",
+      "fullText": "The UN's COP31 climate talks were set to spill into overtime Friday as countries remained deadlocked over a draft deal that makes no mention of fossil fuels, with a host of other disputes also snarling negotiations.\n\nGrey skies added to the sombre mood in the Turkish Mediterranean city of Antalya as negotiators from nearly 200 countries struggled to bridge their differences after two weeks of intense talks, which could now run into the weekend.\n\n\"At this point, no one is happy,\" Brazil's national secretary for climate change, Aloisio Lopes Pereira de Melo, told reporters with only hours before the conference's official end.\n\nThe talks come with a series of stark reminders of the urgency of climate action, from heatwaves in Europe and devastating floods in Nepal, while a record-breaking El Nino -- a periodic warming pattern -- supercharges temperatures.\n\nBut expectations for a major breakthrough are low at COP31 as countries cope with an oil price shock and geopolitical tensions stemming from the war in Iran.\n\nA sprawling initial draft deal earlier this week called for accelerating the phase-out of fossil fuels, along with other flashpoint topics such as finance and climate science.\n\nBut a new, shorter version released by COP31 co-host Australia on Thursday omitted any mention of the main drivers of climate change, sparking calls for the language to be restored.\n\nInstead, the draft \"cover decision\" calls for electrifying the world economy, saying it could have \"significant benefits\" in shoring up energy security and cutting planet-heating greenhouse gas emissions.\n\nThe text reflects a push by COP31 host Turkey for countries to rally behind a goal to increase the global share of final energy demand met by electricity to 35 percent by 2035.\n\nBut some countries want the text to call for \"clean\" electrification to make clear that renewables, not coal or gas, must be the energy source.\n\nNations agreed at COP28 in Dubai in 2023 to transition away from fossil fuels, without setting targets or timelines, but Saudi Arabia and other major oil producers have fiercely resisted any attempt to bring the issue back to the table.\n\nA dozen European and developing countries -- from France to Panama and the Solomon Islands -- released a letter insisting that the text include \"a clear transition away from fossil fuels\".\n\nPanama's environment minister, Juan Carlos Navarro, said \"the COP can still be saved\" if the deal includes the phase-out and other issues, including a defence of climate science.\n\nAn outspoken critic of what he calls the \"petroleum mafia\", Navarro has threatened to block any deal that does not include a cap on oil production.\n\nA European Union official, speaking on condition of anonymity, told AFP that the latest draft was \"not acceptable and not ambitious enough\".\n\n\"We don't want this COP to become a 'fossil' COP,\" the official said.\n\nCountries are sharply divided over a raft of other issues.\n\nA fight over the timing of the next set of reports by the UN's Intergovernmental Panel on Climate Change (IPCC) has been a major source of friction.\n\nThe draft also expresses \"deep concern\" about the imminent breach of the 1.5-degree Celsius goal set under the 2015 Paris accord.\n\nNegotiations are also deadlocked over long-running complaints by developing countries that rich nations are falling short in their obligations to help them confront climate change.\n\n\"We didn't come here to beg,\" said Ghana's environment minister, Zanetor Agyeman-Rawlings.\n\n\"The (African) continent will not accept an outcome that offers declarations without the resources to deliver them,\" she said. (AFP)\n\nEdited by Raymond Yeung",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T14:24:52.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878647-20261120.htm"
+    },
     {
       "id": "920754852bcdbc0b",
       "title": "The Download: inside the quest to make our minds immortal",
@@ -764,17 +775,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878395-20261119.htm"
-    },
-    {
-      "id": "c22869218edc71e8",
-      "title": "Van Gogh work fetches record price after owner dispute",
-      "excerpt": "A Vincent van Gogh masterpiece sold for a record-breaking US$190.4 million after a dispute between the seller and the heirs…",
-      "fullText": "A Vincent van Gogh masterpiece sold for a record-breaking US$190.4 million after a dispute between the seller and the heirs of a previous Jewish owner who sold it in the Nazi era, Sotheby's said.\n\n\"Chataigniers en fleurs\" (Chestnut Trees in Blossom) painted in 1890 in Auvers-sur-Oise, France set a new record for the Dutch post-Impressionist and became the most expensive work auctioned off so far this season.\n\nThe previous auction record for a painting by Van Gogh was US$117.2 million for the 1888 \"Orchard with Cypresses\" at Christie's in New York in November 2022.\n\nAn influential German publisher, Samuel Fischer, acquired the painting in Paris in 1909 and his family sold it in 1936.\n\nHis heirs had previously opposed the sale, saying Fischer's family parted with the painting only because of financial losses suffered under the Nazis.\n\nThe heirs' Berlin-based lawyer, Gunnar Schnabel, had called on Sotheby's to prove the painting was sold at its market value and that the family would have sold it regardless of the political context.\n\nThe Blaquier-Arrieta family acquired the painting in 1975 and has owned it for more than half a century, according to Sotheby's.\n\nBut on Tuesday, Sotheby's said: \"An agreement has been reached between the Blaquier-Arrieta family and all of the legal descendants of Hedwig and Samuel Fischer regarding the sale of Vincent van Gogh's Chataigniers en fleurs.\"\n\nSchnabel did not respond to an AFP request for comment.\n\nAccording to Sotheby's, the Fischer heirs said they were \"grateful for the trusting and fair negotiation and collaboration with Sotheby's and the Blaquier-Arrieta family, which make it possible to acknowledge the suffering of the Fischer family during the Nazi era and honour Gisela Berman Fischer's history of seeking justice for her family.\" (AFP)\n\nEdited by Altis Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T01:56:21.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878391-20261119.htm"
     },
     {
       "id": "dd915bdb9efdc871",
