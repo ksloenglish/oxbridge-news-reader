@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T23:45:21.514Z",
-  "checkedAt": "2026-11-19T23:45:21.514Z",
+  "generatedAt": "2026-11-20T00:00:34.191Z",
+  "checkedAt": "2026-11-20T00:00:34.191Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 9
+      "articleCount": 10
     },
     {
       "id": "rthk-finance",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "5ed66bc0515b9487",
+      "title": "NASA probe achieves light-day milestone",
+      "excerpt": "Nasa confirmed on Thursday its Voyager 1 probe has achieved an unprecedented distinction – becoming the first spacecraft to travel…",
+      "fullText": "Nasa confirmed on Thursday its Voyager 1 probe has achieved an unprecedented distinction – becoming the first spacecraft to travel beyond a light-day from Earth – even as the aging probe runs low on power and experiences technical anomalies in a mission one official promised is \"never going to end.\"\n\nA radio signal sent by the robotic explorer from interstellar space was received in Madrid through the Deep Space Network, Nasa's international array of radio antennas, showing the probe had reached the milestone after 49 years, 2 months and 11 days of flight.\n\nVoyager 1 passed the distance that light travels in a day – about 26 billion km – as expected on Wednesday at 5.16 am EST, Nasa said, with the signal taking about a day to reach Earth. Voyager 1 is the most distant human-made object.\n\nNasa engineer Nshan Kazaryan announced the confirmation, saying at a Jet Propulsion Laboratory facility in California, \"After 16 billion miles of exploration, Voyager 1 continues its journey into the unknown.\"\n\nNasa officials and mission leaders celebrated the achievement even as they acknowledged the spacecraft's frailty.\n\n\"This is such an amazing day,\" Nicola Fox, Nasa's head of science, told a JPL event, lauding the team \"that just continues to let Voyager keep on trekking out there.\"\n\n\"When's the mission going to end? It's never going to end, even when we can no longer talk to Voyager,\" Fox said, as the probe traverses the near-vacuum of interstellar space, the vast expanse between stars.\n\nIt is currently flying in the direction of the star Gliese 445, some 17 light-years from Earth, and would pass within about 1.7 light-years of it in about 40,000 years if the probe keeps its current pace.\n\nVoyager 1 is flying at almost 61,000 kph. It crossed the outer edge of the heliosphere, a protective bubble of particles and magnetic fields produced by the sun, to enter interstellar space ⁠in 2012. It journeyed past Jupiter and Saturn, the solar system's two largest planets, earlier in its mission.\n\nIts twin, Voyager 2, was also launched in 1977 and entered interstellar space in 2018.\n\nAs one might expect, Voyager 1 is showing signs of its age. It stopped transmitting science and engineering data last week, though it has remained in contact with Earth. Voyager project manager Suzanne Dodd expressed confidence that it would resume transmitting this data.\n\n\"And, meanwhile, we're running out of power,\" Voyager mission manager Kareem Badaruddin said.\n\nA JPL representative said this week that recent power-saving measures could give the two Voyager spacecraft enough power to stay in communication with Earth for three to four more years.\n\n\"The anomalies have become normal for us,\" Badaruddin said.\n\n\"We're having to work with today's technology to interface with aging technology – aged technology – and just solving problems that way,\" Badaruddin said.\n\nVoyager 1 is collecting data on, among other things, the effects from the sun such as solar storms that cause shocks and pressure fronts that extend as far away as the probe's current location, and fast-moving energetic particles called galactic cosmic rays in interstellar space.\n\n\"We're one light-day, but we are definitely not done yet,\" Dodd said.\n\nVoyager 2, launched a few weeks before its twin, is \"very healthy,\" Dodd said. It is expected to reach the light-day distance in November 2035.\n\nNasa has turned off instruments on both Voyager probes to conserve diminishing electrical power from their decaying plutonium power sources and keep them operating. Voyager project scientist Linda Spilker said Voyager 1 is down to two instruments and Voyager 2 down to three.\n\n\"They're in an area of space that we've never been to, so every single bit of data that comes back is precious,\" Fox said.\n\nVoyager deputy project scientist Jamie Rankin sees an optimistic message in Voyager 1's persistence.\n\n\"I think that this should be a reminder to all of us,\" Rankin said, \"that no matter how long it takes or how dark things get, or what we think our limitations are, we should never stop shining and never stop reaching for the stars – for we never know how far we will go.\" (Reuters)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-19T23:50:05.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878517-20261120.htm"
+    },
     {
       "id": "9cf57d609dfc0163",
       "title": "Denmark ratifies security agreement with US, Greenland",
