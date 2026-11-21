@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T06:45:32.274Z",
-  "checkedAt": "2026-11-21T06:45:32.274Z",
+  "generatedAt": "2026-11-21T07:00:29.439Z",
+  "checkedAt": "2026-11-21T07:00:29.439Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -225,6 +225,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_153418_657.html"
+    },
+    {
+      "id": "f534a33f4b2ad203",
+      "title": "FS to visit UK and Netherlands",
+      "excerpt": "Financial Secretary Paul Chan will depart for a visit to the United Kingdom and the Netherlands late tonight. He will…",
+      "fullText": "Financial Secretary Paul Chan will depart for a visit to the United Kingdom and the Netherlands late tonight.\n\nHe will lead a delegation of over 20 members, comprising representatives of various government departments, public organisations and industry bodies, as well as leaders from the investment and innovation and technology (I&T) sectors, to enhance business and I&T exchanges between Hong Kong and the two places, promote opportunites in Hong Kong, and foster investment and collaboration.\n\nDuring their visit to the UK from November 22 to 25, the delegation will visit the University of Cambridge and attend a dialogue on innovation co-organised by the Hong Kong Trade Development Council (HKTDC) and the university.\n\nThey will also visit the university's innovation commercialisation arm and the research and development centre of a biopharmaceutical company. In London, they will attend the plenary session of the Hong Kong-Europe Business Council, a lunch hosted by the Hong Kong Association, and a Hong Kong Dinner organised by the HKTDC.\n\nMr Chan will also meet with local business, financial and think tank leaders, and attend a financial sector roundtable while in the UK capital.\n\nDuring their visit to the Netherlands from November 25 to 28, the delegation will stop in Amsterdam, The Hague and Eindhoven to visit various I&T companies, parks and hubs. They will also participate in a number of business lunches to brief various sectors of the local community on developments in Hong Kong.\n\nIn addition, Mr Chan will meet local political, business, financial and think tank leaders, and attend a number of roundtable meetings and exchange sessions.\n\nHe will arrive back in Hong Kong on the morning of November 29. During his absence, Deputy Financial Secretary Michael Wong will be Acting Financial Secretary.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261121/20261121_124800_209/images/20261121135736657.jpg",
+      "publishedAt": "2026-11-20T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261121/20261121_124800_209.html"
     },
     {
       "id": "cbd0a1dbe53982ec",
@@ -1006,17 +1017,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/korea/2026/11/18/trump-xi-putin-scheduled-apec-meeting/"
-    },
-    {
-      "id": "307c8f84a1859ed1",
-      "title": "HK IP Academy launches",
-      "excerpt": "Financial Secretary Paul Chan today attended the opening ceremony of the 16th Business of Intellectual Property (IP) Asia Forum, during…",
-      "fullText": "Financial Secretary Paul Chan today attended the opening ceremony of the 16th Business of Intellectual Property (IP) Asia Forum, during which the Hong Kong Intellectual Property Academy was officially launched.\n\nA major IP conference, the forum is being held over two days at the Convention & Exhibition Centre in Wan Chai.\n\nSpeaking at the forum, Mr Chan said the National 15th Five-Year Plan supports Hong Kong in deepening its development as a regional IP trading centre.\n\nLaunched in partnership with the Monetary Authority last December, the IP Financing Sandbox has so far seen banks approve seven loans.\n\nMr Chan highlighted that the task now is to move from \"sandbox to scale\".\n\n“Banks, valuers and borrowers are discovering together what makes IP bankable,\" he said. \"The next phase of the initiative will draw in more participants. And a new pilot scheme will help smaller firms obtain professional valuations of their patents, in line with the national standard.\n\n“An agreement is only as reliable as its enforcement, so IP disputes can be settled here in Hong Kong by arbitration or mediation, under a bilingual common law system that international parties know well.”\n\nThe Hong Kong Intellectual Property Academy was jointly established by the Intellectual Property Department and the Vocational Training Council.\n\nThe Government earmarked $52 million in the 2026-27 Budget to support the academy's establishment and its first two years of operation. It is expected to provide training for around 2,000 participants over the two-year pilot period.\n\nSpeaking at the academy’s opening ceremony, Acting Secretary for Commerce & Economic Development Bernard Chan remarked that Hong Kong’s First Five-Year Plan sets out the establishment of an IP academy to systematically nurture talent for IP-intensive industries, equipping practitioners with knowledge and skills spanning IP creation, protection, management, financing, utilisation and commercialisation.\n\nTo support innovation and technology, as well as the business, professional services, cultural and creative sectors, the academy will establish a multilevel on-the-job training pathway, and develop certified courses and Qualifications Framework-recognised programmes.\n\nThe academy's first foundation course is being held today and tomorrow during the forum.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_170257_927/images/20261119193023934.jpg",
-      "publishedAt": "2026-11-18T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_170257_927.html"
     },
     {
       "id": "32926da95204fd09",
