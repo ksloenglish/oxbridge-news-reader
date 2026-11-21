@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T05:34:46.287Z",
-  "checkedAt": "2026-11-21T06:30:30.241Z",
+  "generatedAt": "2026-11-21T06:45:32.274Z",
+  "checkedAt": "2026-11-21T06:45:32.274Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -192,6 +192,17 @@
       "source": "Fox News — Tech",
       "sourceFeed": "fox-news-tech",
       "link": "https://www.foxnews.com/tech/ai-newsletter-platforms-generated-terror-plans-feds-find"
+    },
+    {
+      "id": "a5ee03fd8484fcd8",
+      "title": "Sports dispute summit to be held",
+      "excerpt": "The Department of Justice (DoJ), the Law Society of Hong Kong and the Hong Kong Bar Association will co-host the…",
+      "fullText": "The Department of Justice (DoJ), the Law Society of Hong Kong and the Hong Kong Bar Association will co-host the Sports Dispute Resolution Summit on December 1.\n\nShowcasing Hong Kong's unique strengths and potential in the field, the summit will deepen the city's position as an international legal and dispute resolution services centre.\n\nIt will bring together leading experts in sports law and dispute resolution from around the world, including representatives from the Court of Arbitration for Sport, the French National Bar Council (Conseil national des barreaux), the China Commission of Arbitration for Sport, and Hong Kong's legal professional bodies.\n\nDeputy Secretary for Justice and Chairperson of the Advisory Committee on Sports Dispute Resolution Cheung Kwok-kwan outlined that the DoJ has been working closely with Hong Kong's sports and legal sectors to explore collaboration with international and regional sports organisations, with a view to promoting the city's sports dispute resolution services globally.\n\nFollowing the establishment of the Advisory Committee on Sports Dispute Resolution early last year and the launch of a two-year Pilot Scheme on Sports Dispute Resolution last December, a positive response has been received from the community, he said.\n\nHe highlighted that with the opening of the Kai Tak Sports Park and the successive staging of major international sports events in Hong Kong, the local sports industry is developing at full speed. Establishing a fair and efficient dispute resolution mechanism has therefore become indispensable, he added.\n\nMr Cheung said that, in leveraging the unique advantages of the \"one country, two systems\" framework, a robust common law system, world-class dispute resolution institutions and professionals, as well as the synergy arising from hosting the International Organization for Mediation, Hong Kong is ideally placed to become an international sports dispute resolution centre.\n\nThe Government is also striving to attract major international sports organisations to establish a presence in Hong Kong, he said, revealing that the headquarters of a major regional sports law organisation will be set up in the city imminently.\n\nFeaturing two panel discussions, the summit will explore the latest trends and future developments in international sports mediation and arbitration from diverse perspectives spanning the Chinese Mainland, Hong Kong, Asia and the international community.\n\nThe summit will be held from 9.30am to 1pm on December 1. Registration is free and open online now.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261121/20261121_102420_784/images/20261121122827742.jpg",
+      "publishedAt": "2026-11-20T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261121/20261121_102420_784.html"
     },
     {
       "id": "b584e355968e2bb8",
@@ -1039,17 +1050,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_150237_399.html"
-    },
-    {
-      "id": "af7f0c636d0ef3f1",
-      "title": "Poll to be held on Sunday",
-      "excerpt": "The 2026 Election Committee Subsector Ordinary Elections will be held this Sunday, with polling taking place from 9am to 6pm…",
-      "fullText": "The 2026 Election Committee Subsector Ordinary Elections will be held this Sunday, with polling taking place from 9am to 6pm. A total of 856 candidates will contest 723 seats in 31 subsectors.\n\nToday, the Registration & Electoral Office urged voters and authorised representatives (ARs) to follow the instructions on their poll card and present their original, valid Hong Kong identity card at their designated polling station in order to vote.\n\nFive ordinary polling stations and two restricted polling stations will be in operation for the elections. Only registered voters or ARs who are listed under contested subsectors in the 2026 final register of voters for Election Committee subsectors are eligible to vote.\n\nVoters or ARs can use “iAM Smart” or the voter registration website to log in to the Online Voter Information Enquiry System and check their polling information, including the location of their designated polling station, and access the Introduction to Candidates.\n\nFor enquiries, call the election hotline on 2891 1001. For complaints about breaches of electoral rules or guidelines, call the complaint hotline on 2827 7251 or 3707 0188.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_160933_148/images/20261119171813987.jpg",
-      "publishedAt": "2026-11-18T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_160933_148.html"
     },
     {
       "id": "cf7b925f8abbc064",
