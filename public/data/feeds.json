@@ -61,13 +61,6 @@
       "url": "https://www.rfa.org/english/rss",
       "category": "international",
       "enabled": true
-    },
-    {
-      "id": "mit-technology-review",
-      "name": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/feed",
-      "category": "international",
-      "enabled": true
     }
   ]
 }
