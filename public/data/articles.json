@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T09:30:25.813Z",
-  "checkedAt": "2026-11-21T10:15:20.731Z",
+  "generatedAt": "2026-11-21T10:30:28.631Z",
+  "checkedAt": "2026-11-21T10:30:28.631Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 18
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 10
+      "articleCount": 9
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "26e48b7ea49bad96",
+      "title": "Police ramp up road-safety ops with drone crackdown",
+      "excerpt": "Police say drones recorded 42 instances of drivers crossing double white lines on two winding roads in Southern District on…",
+      "fullText": "Police say drones recorded 42 instances of drivers crossing double white lines on two winding roads in Southern District on Saturday.\n\nThe footage was captured on Stanley Gap Road and Victoria Road as part of the law enforcement's day-long operation, code-named \"Torch\", targeting illegal racing and dangerous driving.\n\nActing Chief Inspector Wong Ka-wing said police would keep up the pressure on reckless drivers.\n\n\"In this operation, we deployed drones to make recordings, allowing us to gather evidence effectively while reducing the impact on other road users,\" Wong said.\n\n\"Police will continue to carry out intelligence-led operations at unannounced times, using drones and other technology, to crack down hard on driving that endangers road safety.\"\n\nWong warned offenders could face more than just a ticket.\n\nUnder the Road Traffic Ordinance, those convicted of dangerous driving face a fine of up to HK$25,000 and three years' imprisonment.\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-21T10:06:19.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878715-20261121.htm"
+    },
     {
       "id": "4d7e1240f37e93fc",
       "title": "Asian infrastructure bank to set up office in HK",
@@ -838,8 +849,8 @@
       "fullText": "The leaders of Hong Kong and Singapore on Thursday discussed fostering closer ties on the sidelines of the Apec summit.\n\nChief Executive John Lee said in his meeting with Singapore Prime Minister Lawrence Wong that they discussed Hong Kong’s first five-year plan.\n\n“I’m thankful because it just strengthened our partnership and relationship,” Lee said.\n\nWong, for his part, said exchanges between the two governments have continued at various levels, such as the Singapore-Hong Kong Permanent Secretaries Exchange Programme which was held in Singapore in July.\n\n“The ties are warmer than ever, and I look forward to building even closer cooperation between our two cities,” he said.\n\nLee agreed that the exchange programme was working very well and suggested that next year’s exchange take place in Hong Kong.\n\nIn his social media post, Lee thanked Singapore for its continued support for the SAR’s early accession to Regional Comprehensive Economic Partnership (RCEP), as the Lion City takes up the Asean chairmanship next year.\n\n“I welcome Singapore’s public and private sectors, including GIC and technology enterprises, to explore the business potential of the Hong Kong Park in the Hetao Co-operation Zone and deepen collaboration in areas such as artificial intelligence and biotechnology,” he wrote.\n\nThe CE said the two cities are both outward-oriented economies with strong track records in finance, trade and shipping.\n\nHe said commercial ties between the two cities are close, and that he looked forward to the further consolidation of their partnership.\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-11-19T10:46:05.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878480-20261119.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/southchinasea/2026/11/03/taiwan-pratas-south-china-sea/"
-    },
-    {
-      "id": "d6d6e7bb7f93d89f",
-      "title": "5 HK universities in Asia's top 10",
-      "excerpt": "The Education Bureau said today that Hong Kong’s higher education institutions had delivered a stellar performance in the “World University…",
-      "fullText": "The Education Bureau said today that Hong Kong’s higher education institutions had delivered a stellar performance in the “World University Rankings: Asia 2027” published by Quacquarelli Symonds (QS), an international higher education research organisation.\n\nThe bureau said that overall the sector had once again demonstrated outstanding international competitiveness and academic excellence within Asia.\n\nIt added that the results reflect the Hong Kong Special Administrative Region Government’s sustained commitment to investing resources and its proactive initiatives in supporting higher education development, which have consolidated the city’s position as an international post-secondary education hub.\n\nIn the latest rankings, the University of Hong Kong retained the top spot in Asia.\n\nA total of five Hong Kong universities are among Asia’s top 10, with three of these ranking in the top five: besides the University of Hong Kong, City University of Hong Kong ranked fourth, with the Chinese University of Hong Kong sitting in fifth.\n\nEight local universities improved their rankings this year, with all 11 ranked Hong Kong institutions featuring among the top 500 in Asia. The bureau said this demonstrates a comprehensive elevation in the quality of Hong Kong’s higher education.\n\nAt the same time, Hong Kong universities continue to lead Asia in key indicators such as academic reputation, employer reputation, internationalisation, and research impact.\n\nThe bureau also highlighted that the World Class University Presidents Forum 2026 will be inaugurated tomorrow.\n\nA premier international education event, the forum brings together university presidents, distinguished scholars, and international education leaders from dozens of world-class institutions to deliberate on issues such as talent cultivation in the intelligent era, the role of technology and innovation in driving the future economy, and universities’ responses to major global challenges.\n\nThe Hong Kong SAR Government said it will continue to support local universities in reaching new heights and enhance the international leadership of Hong Kong’s higher education sector through various policies and measures. These include advancing the development of the Northern Metropolis University Town, attracting top international research talent and students, and deepening cross-boundary and international academic collaborations.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_202948_140/images/20261103212153431.jpg",
-      "publishedAt": "2026-11-02T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_202948_140.html"
     }
   ]
 }
