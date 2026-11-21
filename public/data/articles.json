@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T08:15:28.171Z",
-  "checkedAt": "2026-11-21T08:30:25.835Z",
+  "generatedAt": "2026-11-21T08:43:16.992Z",
+  "checkedAt": "2026-11-21T08:43:16.992Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 11
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 9
+      "articleCount": 10
     },
     {
       "id": "rfa-english",
@@ -885,17 +885,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878448-20261119.htm"
-    },
-    {
-      "id": "d7914815d670074a",
-      "title": "Trump-Putin meeting centres on Ukraine: Moscow",
-      "excerpt": "Russian President Vladimir Putin and his US counterpart Donald Trump discussed the conflict in Ukraine, bilateral ties and their upcoming…",
-      "fullText": "Russian President Vladimir Putin and his US counterpart Donald Trump discussed the conflict in Ukraine, bilateral ties and their upcoming joint meeting with President Xi Jinping, Kremlin aide Yuri Ushakov was quoted as saying by Tass news agency on Thursday.\n\nThe bilateral meeting, held on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen, went well and Putin left the talks \"in an excellent\" mood, Ushakov said, as the three leaders prepared to meet later in the day.\n\nTass quoted Kremlin officials as saying the issue of Ukraine was the main topic of exchanges between the two leaders, with bilateral relations also discussed.\n\nTrump said he planned to discuss ending the war in Ukraine with Trump and Putin later in their trilateral meeting. (Reuters)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T06:20:10.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878438-20261119.htm"
     },
     {
       "id": "7ba1223ebee2b18c",
@@ -1743,6 +1732,17 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/southchinasea/2026/11/03/taiwan-pratas-south-china-sea/"
+    },
+    {
+      "id": "d6d6e7bb7f93d89f",
+      "title": "5 HK universities in Asia's top 10",
+      "excerpt": "The Education Bureau said today that Hong Kong’s higher education institutions had delivered a stellar performance in the “World University…",
+      "fullText": "The Education Bureau said today that Hong Kong’s higher education institutions had delivered a stellar performance in the “World University Rankings: Asia 2027” published by Quacquarelli Symonds (QS), an international higher education research organisation.\n\nThe bureau said that overall the sector had once again demonstrated outstanding international competitiveness and academic excellence within Asia.\n\nIt added that the results reflect the Hong Kong Special Administrative Region Government’s sustained commitment to investing resources and its proactive initiatives in supporting higher education development, which have consolidated the city’s position as an international post-secondary education hub.\n\nIn the latest rankings, the University of Hong Kong retained the top spot in Asia.\n\nA total of five Hong Kong universities are among Asia’s top 10, with three of these ranking in the top five: besides the University of Hong Kong, City University of Hong Kong ranked fourth, with the Chinese University of Hong Kong sitting in fifth.\n\nEight local universities improved their rankings this year, with all 11 ranked Hong Kong institutions featuring among the top 500 in Asia. The bureau said this demonstrates a comprehensive elevation in the quality of Hong Kong’s higher education.\n\nAt the same time, Hong Kong universities continue to lead Asia in key indicators such as academic reputation, employer reputation, internationalisation, and research impact.\n\nThe bureau also highlighted that the World Class University Presidents Forum 2026 will be inaugurated tomorrow.\n\nA premier international education event, the forum brings together university presidents, distinguished scholars, and international education leaders from dozens of world-class institutions to deliberate on issues such as talent cultivation in the intelligent era, the role of technology and innovation in driving the future economy, and universities’ responses to major global challenges.\n\nThe Hong Kong SAR Government said it will continue to support local universities in reaching new heights and enhance the international leadership of Hong Kong’s higher education sector through various policies and measures. These include advancing the development of the Northern Metropolis University Town, attracting top international research talent and students, and deepening cross-boundary and international academic collaborations.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_202948_140/images/20261103212153431.jpg",
+      "publishedAt": "2026-11-02T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_202948_140.html"
     }
   ]
 }
