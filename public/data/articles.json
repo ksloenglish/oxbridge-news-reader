@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T14:15:20.591Z",
-  "checkedAt": "2026-11-21T14:15:20.591Z",
+  "generatedAt": "2026-11-21T14:30:26.218Z",
+  "checkedAt": "2026-11-21T14:30:26.218Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -324,6 +324,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261121/20261121_171910_555.html"
+    },
+    {
+      "id": "990b1ba4027101a8",
+      "title": "Election arrangements inspected",
+      "excerpt": "Ahead of tomorrow's 2026 Election Committee Subsector Ordinary Elections, Chairman of the Electoral Affairs Commission David Lok visited the polling…",
+      "fullText": "Ahead of tomorrow's 2026 Election Committee Subsector Ordinary Elections, Chairman of the Electoral Affairs Commission David Lok visited the polling station at Harbour Road Sports Centre, and the Central Counting Station (CCS) at the Hong Kong Convention and Exhibition Centre (HKCEC) this morning, and appealed to eligible voters to cast their votes in the poll.\n\nHe said that preparatory work for the elections was complete and that staff were carrying out final rehearsals. He thanked them for their efforts to ensure that tomorrow’s poll is conducted openly, honestly and fairly.\n\nA total of 856 candidates are contesting 723 seats in 31 subsectors.\n\nFive ordinary polling stations (OPSs) will be open from 9am to 6pm for voters or authorised representatives (ARs) in the relevant subsectors to cast their votes. Voters and ARs are reminded to bring their original, valid Hong Kong identity cards to vote at the polling station specified on their poll card.\n\nMr Justice Lok highlighted that the Electronic Poll Register System will be used at OPSs to issuing ballot papers to voters or ARs.\n\nOnce the poll is closed, all ballot boxes will be delivered to the CCS, where counting of votes will take place. Candidates, election agents and counting agents will be able to enter the CCS and observe the count at designated areas of the counting zone. Members of the public and the media will be able to enter the public area of the CCS to observe the count.\n\nThis afternoon, Mr Lok and Secretary for Constitutional & Mainland Affairs Janice Tse Siu-wa accompanied Chief Executive John Lee on a visit to the polling station at the Harbour Road Sports Centre to observe final preparatory work being undertaken.\n\nThe EAC and the Registration & Electoral Office said they are fully prepared on all fronts to ensure that the elections are conducted smoothly and in a fair, impartial, honest and safe manner.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261121/20261121_193502_573/images/20261121212651566.jpg",
+      "publishedAt": "2026-11-20T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261121/20261121_193502_573.html"
     },
     {
       "id": "a5ee03fd8484fcd8",
@@ -1138,17 +1149,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_150237_399.html"
-    },
-    {
-      "id": "cf7b925f8abbc064",
-      "title": "Int'l young talent base launches",
-      "excerpt": "The Home & Youth Affairs Bureau (HYAB) today held the launch event for the International Young Talent Exchange Base at…",
-      "fullText": "The Home & Youth Affairs Bureau (HYAB) today held the launch event for the International Young Talent Exchange Base at HYAB JC Y Cube to boost youth development and international exchange. Announced by the Chief Executive in the 2026 Policy Address, the Base invites global experts and visiting guests to connect with young people who have joined overseas exchange and internship programmes.\n\nToday's event welcomed a delegation led by Deputy Director General of the World Intellectual Property Organization (WIPO) Shen Changyu to interact with local youth. Attendees included Youth Link members who have taken part in the bureau's entrepreneurship, internship and international exchange initiatives.\n\nParticipants like Martin Zhu, who co-founded a green technology company, said the fireside chat offered practical takeaways for their own ventures.\n\n“It really helps me expand my own technology to different applications, like integrating with more new IPs or new technologies that we can use the WIPO system to search (for). It is really useful and has broadened my horizons,” Mr Zhu said.\n\nAnother participant, Conrad Ho, also found the fireside chat a very unique opportunity.\n\n“It is very rare for us to be able to access top executives from the United Nations and from WIPO, so we are very appreciative of having the chance to have a very close interaction with them.”\n\nMr Ho added that he was excited to see how the Exchange Base would attract global talent to Hong Kong.\n\nSpeaking at the event, Secretary for Home & Youth Affairs Alice Mak noted that the Base will create more opportunities for young people to go global and host dynamic activities to broaden their horizons. She also encouraged Youth Link members to get involved in order to bring together global talent and promote cross-cultural understanding.\n\nMiss Mak joined other officiating guests for a plaque-unveiling ceremony to mark the opening. They included Mr Shen, Deputy Director-General of the Education & Youth Department of the Liaison Office of the Central People's Government in the Hong Kong Special Administrative Region Wan Ning and Director-General of the International Department of the Office of the Commissioner of the Ministry of Foreign Affairs of the People's Republic of China in the Hong Kong Special Administrative Region Wong Jian.\n\nThe Base spans three youth facilities across the city. These are the HYAB JC Y Cube at Youth Square in Chai Wan, “Youth Link · Nam Cheong” at the Nam Cheong District Community Centre in Sham Shui Po, and the Youth Post, Runway 1331 in Kai Tak.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_185144_783/images/20261119195409235.jpg",
-      "publishedAt": "2026-11-18T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_185144_783.html"
     },
     {
       "id": "34bc936c474b3930",
