@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T10:30:28.631Z",
-  "checkedAt": "2026-11-21T10:45:25.634Z",
+  "generatedAt": "2026-11-21T11:00:30.745Z",
+  "checkedAt": "2026-11-21T11:00:30.745Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -258,6 +258,17 @@
       "source": "Fox News — Tech",
       "sourceFeed": "fox-news-tech",
       "link": "https://www.foxnews.com/tech/ai-newsletter-platforms-generated-terror-plans-feds-find"
+    },
+    {
+      "id": "3c634fb722d7ecc5",
+      "title": "AIIB office agreement signed",
+      "excerpt": "The Government of the People's Republic of China and the Asian Infrastructure Investment Bank (AIIB) today signed an agreement, in…",
+      "fullText": "The Government of the People's Republic of China and the Asian Infrastructure Investment Bank (AIIB) today signed an agreement, in Hong Kong, that lays the foundation for the AIIB to set up an office in the city.\n\nThe agreement was signed by Minister of Finance Lan Fo'an and AIIB President Ms Zou Jiayi. It confirms that an AIIB office will be established in Hong Kong, and sets out principles for its establishment, along with other matters.\n\nSpeaking at the signing ceremony, Financial Secretary Paul Chan said the AIIB's decision to establish an office in Hong Kong is a clear recognition of the city's status as an international financial centre, and underscores the city's unique role in pooling international capital and supporting infrastructure development in Asia. He stressed that the Hong Kong Special Administrative Region Government will render its full support for the office.\n\n“We look forward to strengthening co-operation with the AIIB, so that Hong Kong's capital market and professional services can provide greater support for its business development and mobilise more international capital for infrastructure investment and financing in Asia.\"\n\nMr Chan added that, in line with its established practice of facilitating the operations of international organisations in Hong Kong, the Hong Kong Special Administrative Region Government will introduce subsidiary legislation in the Legislative Council as soon as possible to formally confer necessary privileges and immunities on the AIIB's Hong Kong office.\n\nIn addition, Acting Secretary for Financial Services & the Treasury Joseph Chan signed an agreement on behalf of the Hong Kong SAR Government with the AIIB's Chief Partnerships Officer Hun Kim, to contribute US$20 million to the \"Project Preparation Special Fund\" to enable the establishment of the AIIB's office in Hong Kong.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261121/20261121_171910_555/images/20261121185028870.jpg",
+      "publishedAt": "2026-11-20T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261121/20261121_171910_555.html"
     },
     {
       "id": "a5ee03fd8484fcd8",
@@ -1061,17 +1072,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/korea/2026/11/18/trump-xi-putin-scheduled-apec-meeting/"
-    },
-    {
-      "id": "32926da95204fd09",
-      "title": "CE joins APEC leaders’ meeting",
-      "excerpt": "Chief Executive John Lee today attended the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders’ Meeting in Shenzhen. He exchanged views…",
-      "fullText": "Chief Executive John Lee today attended the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders’ Meeting in Shenzhen. He exchanged views with regional leaders on deepening co-operation and expanding into diversified markets.\n\nSpeaking at the meeting, Mr Lee remarked that the Asia-Pacific region is today’s economic growth engine, accounting for two-thirds of global growth. He said that as an international finance, trade and innovation centre that benefits from national support, the Hong Kong Special Administrative Region will give full play to its strengths as a “super connector” and “super value-adder”. Hong Kong, he added, will continue to maintain a free and open market, embrace the rules-based multilateral trading system, and expand its co-operation with APEC to contribute to the region’s development and prosperity.\n\nMr Lee outlined that the Greater Bay Area is a key platform for open co-operation and high-quality development. He said that hosting the 33rd APEC Economic Leaders’ Meeting in Shenzhen, after Hong Kong hosted the APEC Finance Ministers’ Meeting for the first time last month, underscores the bay area’s international relevance and competitiveness. The Shenzhen-Hong Kong-Guangzhou cluster has ranked top globally for two consecutive years in the Global Innovation Index of innovation clusters, reflecting mutually beneficial co-operation on innovation and technology among sister cities in the bay area.\n\nAPEC member economies reached a consensus on today’s Leaders’ Declaration, and adopted leader-level outcome documents on trade digitalisation, the digital economy, emerging technologies, and connectivity. Mr Lee said these forward-looking outcomes play a crucial role in advancing practical co-operation in the Asia-Pacific, deepening regional economic integration and promoting high-quality development.\n\nIn the afternoon, Mr Lee held bilateral meetings with leaders of other economies. During his meeting with President of Peru Keiko Fujimori, Mr Lee recalled witnessing the signing of a Free Trade Agreement between Hong Kong and Peru in Lima in 2024. The agreement officially entered into force on September 1 this year, further boosting bilateral trade and investment and marking a new milestone in economic and trade relations between the two places.\n\nHe urged Peruvian enterprises to make good use of Hong Kong’s international trading platform and professional services, and to use Hong Kong as a springboard to enter the Mainland and wider Asian markets to capture new business opportunities. He added that Hong Kong will continue to expand into emerging markets, leverage its roles as a “super connector” and “super value-adder”, and pursue broader co-operation with Peru across various sectors to achieve mutual benefits and “win-win” outcomes.\n\nMr Lee then met Prime Minister and Minister for Finance of Singapore Lawrence Wong. Mr Lee remarked that both Hong Kong and Singapore are externally oriented international financial and trade centres that enjoy frequent economic, trade and people-to-people exchanges, as well as close co-operation.\n\nHighlighting that the Hong Kong Special Administrative Region Government is accelerating the development of the Northern Metropolis and the Hong Kong Park area of the Hetao Shenzhen-Hong Kong Science & Technology Innovation Co-operation Zone, Mr Lee encouraged Singaporean enterprises with strengths in innovation and technology to establish a presence in the Northern Metropolis and tap into the Mainland market by leveraging Hong Kong’s advantages in bringing together global talent and frontier research.\n\nMr Lee also thanked Singapore for its continued support for Hong Kong’s early accession to the Regional Comprehensive Economic Partnership, and expressed the hope that, with Singapore assuming the Association of Southeast Asian Nations chairmanship next year, the two sides will continue to deepen collaboration and jointly promote regional economic development.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_165142_423/images/20261119192235296.jpg",
-      "publishedAt": "2026-11-18T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_165142_423.html"
     },
     {
       "id": "9de3beeb2b20c252",
