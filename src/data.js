@@ -1,6 +1,9 @@
 /** Read the RSS catalog and snapshot as published by scripts/fetch-feeds.mjs. */
 
-export const DEFAULT_SELECTION = "category:rthk";
+/** Every feed in the catalog. The News Desk opens on this selection. */
+export const ALL_SOURCES = "all";
+
+export const DEFAULT_SELECTION = ALL_SOURCES;
 
 const CATEGORY_LABEL = {
   rthk: "RTHK English",
@@ -32,6 +35,7 @@ export function categoryLabel(category) {
 
 export function selectedFeedIds(catalog, selection) {
   const feeds = catalog?.feeds || [];
+  if (selection === ALL_SOURCES) return new Set(feeds.map((feed) => feed.id));
   if (selection?.startsWith("feed:")) return new Set([selection.slice(5)]);
   if (selection?.startsWith("category:")) {
     const category = selection.slice("category:".length);
@@ -46,7 +50,8 @@ export function articlesForSelection(catalog, snapshot, selection) {
 }
 
 export function selectionLabel(catalog, selection) {
-  if (selection === DEFAULT_SELECTION) return "RTHK English News";
+  if (selection === ALL_SOURCES) return "All Sources";
+  if (selection === "category:rthk") return "RTHK English News";
   if (selection?.startsWith("category:")) return categoryLabel(selection.slice("category:".length));
   if (selection?.startsWith("feed:")) {
     const feed = (catalog?.feeds || []).find((item) => item.id === selection.slice(5));
@@ -56,7 +61,7 @@ export function selectionLabel(catalog, selection) {
 }
 
 export function selectionKnown(catalog, selection) {
-  if (selection === DEFAULT_SELECTION) return true;
+  if (selection === ALL_SOURCES || selection === DEFAULT_SELECTION) return true;
   if (selection?.startsWith("category:")) {
     const category = selection.slice("category:".length);
     return (catalog?.feeds || []).some((feed) => feed.category === category);

@@ -2,6 +2,7 @@ import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import test from "node:test";
 import {
+  ALL_SOURCES,
   DEFAULT_SELECTION,
   FEED_CHECK_OVERDUE_MS,
   articlesForSelection,
@@ -29,25 +30,34 @@ const catalogRaw = {
   ],
 };
 
-test("default desk is every RTHK channel in the catalog", () => {
+test("default desk is every feed in the catalog", () => {
   const catalog = readCatalog(catalogRaw);
   const snapshot = readSnapshot({
     generatedAt: "2026-10-25T00:00:00.000Z",
     feeds: catalogRaw.feeds.map((feed) => ({ ...feed, ok: true, error: null, articleCount: 1 })),
     articles: [
+      { id: "b", title: "World", excerpt: "W", fullText: "World text", imageUrl: "https://example.com/w.jpg", publishedAt: "2026-10-25T03:00:00.000Z", source: "RTHK English — World", sourceFeed: "rthk-world", link: "https://example.com/b" },
+      { id: "c", title: "Top", excerpt: "T", fullText: "Top text", imageUrl: null, publishedAt: "2026-10-25T02:00:00.000Z", source: "news.gov.hk — Top Story", sourceFeed: "news-gov-hk-top", link: "https://example.com/c" },
+      { id: "d", title: "RFA", excerpt: "R", fullText: "RFA text", imageUrl: null, publishedAt: "2026-10-25T01:00:00.000Z", source: "Radio Free Asia English", sourceFeed: "rfa-english", link: "https://example.com/d" },
       { id: "a", title: "Local", excerpt: "L", fullText: "Local text", imageUrl: null, publishedAt: "2026-10-25T00:00:00.000Z", source: "RTHK English — Local", sourceFeed: "rthk-local", link: "https://example.com/a" },
-      { id: "b", title: "World", excerpt: "W", fullText: "World text", imageUrl: "https://example.com/w.jpg", publishedAt: "2026-10-25T01:00:00.000Z", source: "RTHK English — World", sourceFeed: "rthk-world", link: "https://example.com/b" },
-      { id: "c", title: "Top", excerpt: "T", fullText: "Top text", imageUrl: null, publishedAt: null, source: "news.gov.hk — Top Story", sourceFeed: "news-gov-hk-top", link: "https://example.com/c" },
     ],
   });
-  assert.equal(selectionLabel(catalog, DEFAULT_SELECTION), "RTHK English News");
+  assert.equal(ALL_SOURCES, "all");
+  assert.equal(DEFAULT_SELECTION, ALL_SOURCES);
+  assert.equal(selectionLabel(catalog, DEFAULT_SELECTION), "All Sources");
   const rows = articlesForSelection(catalog, snapshot, DEFAULT_SELECTION);
-  assert.deepEqual(rows.map((row) => row.id), ["a", "b"]);
-  assert.equal(rows[1].imageUrl, "https://example.com/w.jpg");
-  assert.equal(rows[1].fullText, "World text");
+  assert.deepEqual(rows.map((row) => row.id), ["b", "c", "d", "a"]);
+  assert.deepEqual(rows.map((row) => row.sourceFeed), ["rthk-world", "news-gov-hk-top", "rfa-english", "rthk-local"]);
+  assert.equal(rows[0].imageUrl, "https://example.com/w.jpg");
+  assert.equal(rows[0].fullText, "World text");
+  const rthk = articlesForSelection(catalog, snapshot, "category:rthk");
+  assert.equal(selectionLabel(catalog, "category:rthk"), "RTHK English News");
+  assert.deepEqual(rthk.map((row) => row.id), ["b", "a"]);
   const top = articlesForSelection(catalog, snapshot, "feed:news-gov-hk-top");
   assert.equal(top.length, 1);
   assert.equal(top[0].link, "https://example.com/c");
+  const local = articlesForSelection(catalog, snapshot, "feed:rthk-local");
+  assert.deepEqual(local.map((row) => row.id), ["a"]);
 });
 
 test("snapshot time is shown in Hong Kong time", () => {
@@ -189,6 +199,14 @@ test("failed feed rows stay on the snapshot for the current selection", () => {
   });
   assert.deepEqual(
     statusForSelection(catalog, snapshot, DEFAULT_SELECTION).map((feed) => [feed.id, feed.ok, feed.error]),
+    [
+      ["rthk-local", false, "HTTP 503"],
+      ["rthk-world", true, null],
+      ["rfa-english", false, "timeout"],
+    ],
+  );
+  assert.deepEqual(
+    statusForSelection(catalog, snapshot, "category:rthk").map((feed) => [feed.id, feed.ok, feed.error]),
     [
       ["rthk-local", false, "HTTP 503"],
       ["rthk-world", true, null],

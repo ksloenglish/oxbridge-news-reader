@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { DEFAULT_SELECTION } from "../src/data.js";
+import { ALL_SOURCES, DEFAULT_SELECTION } from "../src/data.js";
 import { loadUi, saveUi } from "../src/storage.js";
 
 const memory = new Map();
@@ -22,7 +22,8 @@ test("reload keeps CEFR choices and drops the news source and open article", () 
     articleId: "story-42",
   });
   const stored = JSON.parse(memory.get("kslo.oxbridge.ui.v1"));
-  assert.equal(stored.selection, DEFAULT_SELECTION);
+  assert.equal(DEFAULT_SELECTION, ALL_SOURCES);
+  assert.equal(stored.selection, "all");
   assert.equal(stored.articleId, null);
   assert.equal(stored.levels.A1, true);
   assert.equal(stored.levels.B2, false);
