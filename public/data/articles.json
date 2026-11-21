@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T08:43:16.992Z",
-  "checkedAt": "2026-11-21T08:45:19.083Z",
+  "generatedAt": "2026-11-21T09:00:28.696Z",
+  "checkedAt": "2026-11-21T09:00:28.696Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 11
+      "articleCount": 12
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 10
+      "articleCount": 9
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "828a90c44ecd815e",
+      "title": "Court backs Bayer's US$7.25b Roundup cancer payout",
+      "excerpt": "A US judge has approved Bayer's US$7.25 billion settlement of lawsuits over claims its Roundup weedkiller caused blood cancer, in…",
+      "fullText": "A US judge has approved Bayer's US$7.25 billion settlement of lawsuits over claims its Roundup weedkiller caused blood cancer, in one of the largest class-action payouts in US history.\n\nFriday's decision paves the way for compensation to tens of thousands of people who were exposed to the glyphosate-based herbicide and have been diagnosed with Non-Hodgkin lymphoma (NHL).\n\nIt also covers people who were exposed to Roundup and go on to develop the illness in the future.\n\nThe Missouri state court \"fully and finally approves the settlement agreement in its entirety,\" judge Timothy Boyer said in his ruling.\n\n\"Today is a real good day,\" Christopher Seeger, a court-appointed lead attorney for plaintiffs already diagnosed with NHL, said.\n\nPeople with diagnosed NHL will receive payments of between US$10,000 and US$165,000, depending on a range of factors including whether they were residential or occupational users of Roundup, such as landscapers.\n\nApproval of the settlement was \"really the only path that most victims of Roundup will have to compensation,\" Seeger said, because in June, the US Supreme Court sided with Bayer in a case and ruled it would no longer allow \"failure-to-warn\" claims in US states.\n\nThe top court concluded that the US Environmental Protection Agency's determination that Roundup is not a carcinogen pre-empts claims in state courts tying the product to a cancer diagnosis.\n\nSeeger explained that those claims had been the most viable path for most plaintiffs. This settlement was reached before the Supreme Court ruling, but both sides had agreed to honour it whatever the outcome.\n\nPeople who never filed a case but were exposed to Roundup can still apply for compensation if they develop NHL in the coming years and if they meet certain conditions.\n\nBayer has spent billions of dollars settling thousands of cases linked to Roundup since it acquired the weedkiller's producer, the US agrichemical group Monsanto, in 2018. In a statement, the company said it hoped the settlement, together with the Supreme Court decision, would help draw a line under litigation.\n\n\"The court's final approval is a decisive milestone in the company's strategy to mitigate the risks of both pending and future Roundup litigation,\" said CEO Bill Anderson. (AFP)\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-21T08:45:17.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878683-20261121.htm"
+    },
     {
       "id": "4665501d44da9784",
       "title": "Trump credits Xi for 'immaculate' Shenzhen development",
@@ -1732,17 +1743,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/southchinasea/2026/11/03/taiwan-pratas-south-china-sea/"
-    },
-    {
-      "id": "d6d6e7bb7f93d89f",
-      "title": "5 HK universities in Asia's top 10",
-      "excerpt": "The Education Bureau said today that Hong Kong’s higher education institutions had delivered a stellar performance in the “World University…",
-      "fullText": "The Education Bureau said today that Hong Kong’s higher education institutions had delivered a stellar performance in the “World University Rankings: Asia 2027” published by Quacquarelli Symonds (QS), an international higher education research organisation.\n\nThe bureau said that overall the sector had once again demonstrated outstanding international competitiveness and academic excellence within Asia.\n\nIt added that the results reflect the Hong Kong Special Administrative Region Government’s sustained commitment to investing resources and its proactive initiatives in supporting higher education development, which have consolidated the city’s position as an international post-secondary education hub.\n\nIn the latest rankings, the University of Hong Kong retained the top spot in Asia.\n\nA total of five Hong Kong universities are among Asia’s top 10, with three of these ranking in the top five: besides the University of Hong Kong, City University of Hong Kong ranked fourth, with the Chinese University of Hong Kong sitting in fifth.\n\nEight local universities improved their rankings this year, with all 11 ranked Hong Kong institutions featuring among the top 500 in Asia. The bureau said this demonstrates a comprehensive elevation in the quality of Hong Kong’s higher education.\n\nAt the same time, Hong Kong universities continue to lead Asia in key indicators such as academic reputation, employer reputation, internationalisation, and research impact.\n\nThe bureau also highlighted that the World Class University Presidents Forum 2026 will be inaugurated tomorrow.\n\nA premier international education event, the forum brings together university presidents, distinguished scholars, and international education leaders from dozens of world-class institutions to deliberate on issues such as talent cultivation in the intelligent era, the role of technology and innovation in driving the future economy, and universities’ responses to major global challenges.\n\nThe Hong Kong SAR Government said it will continue to support local universities in reaching new heights and enhance the international leadership of Hong Kong’s higher education sector through various policies and measures. These include advancing the development of the Northern Metropolis University Town, attracting top international research talent and students, and deepening cross-boundary and international academic collaborations.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_202948_140/images/20261103212153431.jpg",
-      "publishedAt": "2026-11-02T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_202948_140.html"
     }
   ]
 }
