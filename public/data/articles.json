@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T02:15:18.176Z",
-  "checkedAt": "2026-11-21T02:35:35.306Z",
+  "generatedAt": "2026-11-21T02:45:20.452Z",
+  "checkedAt": "2026-11-21T02:45:20.452Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "7efe4e56d76db0ae",
+      "title": "‘China, US, Russia consensus positive for HK economy’",
+      "excerpt": "Commerce Secretary Algernon Yau said on Saturday that the joint declaration of peace issued by President Xi Jinping and his…",
+      "fullText": "Commerce Secretary Algernon Yau said on Saturday that the joint declaration of peace issued by President Xi Jinping and his US and Russian counterparts, Donald Trump and Vladimir Putin, is positive for the world economy and Hong Kong.\n\nThe three leaders released the declaration following trilateral talks on the sidelines of the Apec Economic Leaders' Meeting in Shenzhen.\n\nSpeaking on RTHK, Yau said the consensus reached by the major powers would support global stability and trade.\n\n\"In the meeting between the leaders of China, Russia and the United States, they all hoped to reach a consensus on building a peaceful world, resolving conflicts in the world and creating a prosperous global economy through cooperation,\" he said.\n\n\"The consensus reached by the three major countries will have an impact on the future global economy, including Hong Kong's economy.\"\n\nDuring his keynote speech at the Apec CEO Summit, Xi said China supports establishing a world association for bay area economic cooperation to deepen exchanges between such areas and strengthen Asia-Pacific economic ties.\n\nYau said that as a key city in the Guangdong-Hong Kong-Macao Greater Bay Area, Hong Kong plays a vital role in helping the region connect with other bay areas worldwide, such as those in Japan and the United States.\n\nThe SAR can contribute, he said, by leveraging its advantages as an international centre for trade, shipping and finance.\n\n\"I think the opportunities are enormous,\" Yau said.\n\n\"If these bay areas can connect and boost trade, it will greatly expand import-export activity, personnel exchanges and talent complementarity.\"\n\nDuring the Apec summit, Chief Executive John Lee also held bilateral talks with leaders from seven economies: Malaysia, Vietnam, Brunei, Thailand, Chile, Peru and Singapore.\n\nYau said the discussions focused on cooperation in areas such as education and trade, while also touching on tariffs and the avoidance of double taxation.\n\nHe said the chief executive also briefed the leaders about opportunities in the Northern Metropolis.\n\nIn meetings with leaders from Asean members, Lee also discussed Hong Kong's bid to join the Regional Comprehensive Economic Partnership, Yau added.\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-21T02:26:53.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878678-20261121.htm"
+    },
     {
       "id": "6ccca6dec23a0320",
       "title": "Grand Theft Auto rakes in almost US$3.8bn on first day",
@@ -1039,17 +1050,6 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
-    },
-    {
-      "id": "421081905c752335",
-      "title": "'A Symphony of Lights' goes out on a high",
-      "excerpt": "The long-running multimedia spectacle that lights up Victoria Harbour every night has drawn to a close, after its last performance…",
-      "fullText": "The long-running multimedia spectacle that lights up Victoria Harbour every night has drawn to a close, after its last performance on Wednesday.\n\nScores of locals and tourists lined the promenade in Tsim Sha Tsui to catch the finale of \"A Symphony of Lights\" at 8pm, with some arriving an hour early to secure a good vantage position.\n\nLight installations at more than 40 buildings along both sides of Victoria Harbour, including Central Plaza, the Convention and Exhibition Centre, as well as One and Two ifc, lit up the skies in the 10-minute show.\n\nFireworks were also launched from several high-rise buildings.\n\nAmong those who turned up was an SAR resident who brought his foreign friends to watch the show.\n\n\"The light show is quite nice; this is spectacular,\" he said. \"But we are quite sad this is the last day.\"\n\nAnother tourist who visited Hong Kong for the first time said she was lucky to catch the show at the last opportunity.\n\nTourism minister Rosanna Law said the added pyrotechnic elements gave the show a perfect ending.\n\n\"In 2005, 'A Symphony of Lights' was recognised by the Guinness World Records as the world's largest permanent light and sound show, and it was among the world's first large-scale light shows performed nightly - showcasing the magnificent night view of Victoria Harbour to countless residents and visitors over the years,\" she said.\n\nLaw spoke at the launch ceremony of Hong Kong WinterFest 2026, which runs through Christmas and the New Year.\n\nAs part of the seven-week festival, light shows would be projected onto iconic building facades in Central and Tsim Sha Tsui between 7pm and 11pm every night.\n\nEdited by Raymond Yeung",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T14:17:05.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878341-20261118.htm"
     },
     {
       "id": "fcbb3504793dfb1a",
