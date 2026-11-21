@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T12:45:18.882Z",
-  "checkedAt": "2026-11-21T12:45:18.882Z",
+  "generatedAt": "2026-11-21T13:00:29.419Z",
+  "checkedAt": "2026-11-21T13:00:29.419Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "73308bb515a65ab3",
+      "title": "Evening News on TV32 - Nov 21",
+      "excerpt": "Top stories for Saturday, Nov 21, 2026 - US President Donald Trump praises Thursday's three-way summit in Shenzhen. - Customs…",
+      "fullText": "Top stories for Saturday, Nov 21, 2026\n\n- US President Donald Trump praises Thursday's three-way summit in Shenzhen.\n\n- Customs seize over 500,000 dollars of suspected fake goods, including perfume.\n\n- A flight from Hong Kong to Papua New Guinea makes an emergency landing in the Philippines.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-21T12:40:23.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878724-20261121.htm"
+    },
     {
       "id": "166b1fd60007387a",
       "title": "China ready to speed up Singapore FTA talks: Premier",
@@ -874,17 +885,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878495-20261119.htm"
-    },
-    {
-      "id": "42ee8951335162f1",
-      "title": "RTHK, CGTN deliver Apec highlights for the day",
-      "excerpt": "The leaders of China, the United States and Russia held trilateral talks on the sidelines of the final day of…",
-      "fullText": "The leaders of China, the United States and Russia held trilateral talks on the sidelines of the final day of the Apec Economic Leaders' Meeting.\n\nRTHK reporter Hailey Yip and CGTN's Yang Chengxi sum up the highlights for Thursday, November 19.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T12:03:49.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878493-20261119.htm"
     },
     {
       "id": "43f7655e575501fb",
