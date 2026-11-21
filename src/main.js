@@ -1,5 +1,6 @@
 import { applyPublishedSnapshot, AUTO_REFRESH_MS, quietRefreshAction } from "./auto-refresh.js";
 import {
+  ALL_SOURCES,
   DEFAULT_SELECTION,
   articlesForSelection,
   categoryLabel,
@@ -187,7 +188,7 @@ function feedOptions() {
     seen.add(feed.category);
     categories.push(feed.category);
   }
-  return categories
+  const groups = categories
     .map((category) => {
       const members = catalog.feeds.filter((feed) => feed.category === category);
       const label = categoryLabel(category);
@@ -199,6 +200,7 @@ function feedOptions() {
       return `<optgroup label="${esc(label)}">${all}${items}</optgroup>`;
     })
     .join("");
+  return `<option value="${esc(ALL_SOURCES)}">${esc(selectionLabel(catalog, ALL_SOURCES))}</option>${groups}`;
 }
 
 function currentArticles() {
