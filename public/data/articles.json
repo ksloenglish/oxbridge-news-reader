@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T09:00:28.696Z",
-  "checkedAt": "2026-11-21T09:15:21.109Z",
+  "generatedAt": "2026-11-21T09:30:25.813Z",
+  "checkedAt": "2026-11-21T09:30:25.813Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 9
+      "articleCount": 10
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "4d7e1240f37e93fc",
+      "title": "Asian infrastructure bank to set up office in HK",
+      "excerpt": "The world’s second-largest multilateral development bank, the Asian Infrastructure Investment Bank, will set up an office in Hong Kong, the…",
+      "fullText": "The world’s second-largest multilateral development bank, the Asian Infrastructure Investment Bank, will set up an office in Hong Kong, the government announced on Saturday.\n\nThis follows the signing of two agreements between the bank and the central and Hong Kong governments on Saturday, with the first paving the way for the bank to establish its presence in the SAR.\n\nHong Kong has been a member of the 111-member bank since 2017.\n\nSpeaking at the signing ceremony, Financial Secretary Paul Chan thanked the bank for placing its trust in Hong Kong.\n\n“The bank's decision is a resounding vote of confidence in our city as an international financial centre,\" he said.\n\n\"A presence here will also allow Hong Kong to contribute more directly, on multiple fronts, to the bank's work.\n\n“The new office will give Hong Kong's financial community more direct access to the bank and its specialists.\n\n\"This will make it easier for both sides to discuss project proposals, identify opportunities to work together and draw on local professional expertise as projects move from planning to implementation.”\n\nThe SAR is also committed to working more closely with the bank on talent development, capacity building and capital market access, Chan added.\n\nUnder the second agreement, Hong Kong will contribute a further US$20 million to the bank's project preparation special fund, double its initial contribution of US$10 million in 2018.\n\nThe fund provides grants for early-stage work on infrastructure projects. By September, it had approved US$110 million in grants for 45 projects across 13 member economies.\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-21T09:15:40.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878708-20261121.htm"
+    },
     {
       "id": "828a90c44ecd815e",
       "title": "Court backs Bayer's US$7.25b Roundup cancer payout",
@@ -854,17 +865,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878452-20261119.htm"
     },
     {
-      "id": "6b2b77aadb464604",
-      "title": "CE builds on Peru trade ties in Fujimori meeting",
-      "excerpt": "Chief Executive John Lee continued a series of bilateral meetings on Thursday on the sidelines of the Apec summit in…",
-      "fullText": "Chief Executive John Lee continued a series of bilateral meetings on Thursday on the sidelines of the Apec summit in Shenzhen.\n\nOn the final day of the Apec Economic Leaders’ Meeting, he met with Peruvian President Keiko Fujimori and congratulated her on her successful election in July.\n\nLee told her he visited Lima two years ago when Peru hosted Apec and the two economies signed a free trade agreement (FTA).\n\n“Trade has, since our signing of the FTA, increased a lot by a double digit in one year so it is very good news, and Hong Kong now regards Peru as a very close trading partner,” he said.\n\n“Peru now is Hong Kong's sixth largest trading partner in Latin America. It amounted to US$600 million, but I think we can have even much room for further promoting it.”\n\nLee added that negotiations between the two governments have also been active and hopes more agreements will be signed going forward.\n\nHe also extended a standing invitation to the Peruvian leader to visit Hong Kong.\n\nFujimori said she would like to sign additional cooperation agreements on finance and logistics, given that these are areas of SAR expertise.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T09:15:41.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878449-20261119.htm"
-    },
-    {
       "id": "a21468c6d213abb6",
       "title": "Xi says China-US ties 'generally stable and positive'",
       "excerpt": "President Xi Jinping on Thursday said that China-US relations have generally maintained a stable and positive trajectory, injecting stability and…",
@@ -1292,17 +1292,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878218-20261118.htm"
-    },
-    {
-      "id": "ac20983e5af41e8b",
-      "title": "US stocks fall but Nvidia rebound lifts sentiment",
-      "excerpt": "US stocks extended their tech-driven slide on Tuesday, while Nvidia results after the bell lifted US equity futures. Stocks ended…",
-      "fullText": "US stocks extended their tech-driven slide on Tuesday, while Nvidia results after the bell lifted US equity futures.\n\nStocks ended lower during the US session but later Nvidia forecast revenue above estimates in its first report after Jensen Huang quit as CEO, sending its shares up 2 percent after market hours.\n\n\"There is a hope that this recalibrates the focus back onto the here and the now, which is this idea that the buildout and the need for the AI infrastructure is not stopping anytime soon,\" said Nick Giorgi, chief equity strategist at Alpine Macro in New York.\n\nBut worries over the rapid build-out of AI infrastructure and risks associated with the nascent technology intensified ahead of Anthropic's mammoth IPO, expected on Wednesday, which is targeted to raise as much as US$1.4 trillion.\n\nAll three major US stock indexes closed sharply lower, with the S&P 500 and the Nasdaq notching their first four-day streak of declines since September.\n\n\"Every sector in the S&P is down,\" said Oliver Pursche, senior vice president at Wealthspire Advisors, in New York. \"So clearly, it is a reflection of overall investor nervousness as opposed to being driven by a specific set of stocks, whether they're AI-related or not.\"\n\n\"It's a confluence of all of the events that are there, and it seems to be speculation-driven as opposed to fact-driven,\" Pursche added. \"It's not all about Nvidia.\"\n\nEconomic data released early in the session showed strong underlying retail sales, weakening industrial output and rising import prices, largely driven by spiking petroleum costs. Homebuilder sentiment plunged to its lowest level since April 2012.\n\nThe Dow Jones Industrial Average fell 848 points, or 1.6 percent, to 50,759, the S&P 500 lost 76 points, or 1 percent, to 7,340 and the Nasdaq Composite lost 181 points, or 0.7 percent, to 24,328.\n\nOn the sector level, software and services, airlines and banks were clear underperformers.\n\nSoftware shares were broadly lower, with Salesforce, Workday Intuit and Adobe dropping between 4.3 percent and 9.5 percent.\n\nMicrosoft eased 2.3 percent, while AppLovin dropped 3.9 percent.\n\nJPMorgan shares dipped 2.4 percent after the company said insider Bregje de Best would succeed Jeremy Barnum as chief financial officer in early 2027.\n\nFed officials are increasingly suggesting that stubborn inflation has made the central bank more open to an aggressive US rate-hike path.\n\nMarkets are pricing in a near-certain 95.4 percent likelihood of a 25-basis-point increase in December, according to CME's FedWatch tool.\n\nOn Wednesday, minutes from the Federal Open Market Committee's October meeting could help illuminate the central bank's approach to near-term monetary policy. (Reuters)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T22:29:41.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878210-20261118.htm"
     },
     {
       "id": "3fae39c185a6bb29",
@@ -1743,6 +1732,17 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/southchinasea/2026/11/03/taiwan-pratas-south-china-sea/"
+    },
+    {
+      "id": "d6d6e7bb7f93d89f",
+      "title": "5 HK universities in Asia's top 10",
+      "excerpt": "The Education Bureau said today that Hong Kong’s higher education institutions had delivered a stellar performance in the “World University…",
+      "fullText": "The Education Bureau said today that Hong Kong’s higher education institutions had delivered a stellar performance in the “World University Rankings: Asia 2027” published by Quacquarelli Symonds (QS), an international higher education research organisation.\n\nThe bureau said that overall the sector had once again demonstrated outstanding international competitiveness and academic excellence within Asia.\n\nIt added that the results reflect the Hong Kong Special Administrative Region Government’s sustained commitment to investing resources and its proactive initiatives in supporting higher education development, which have consolidated the city’s position as an international post-secondary education hub.\n\nIn the latest rankings, the University of Hong Kong retained the top spot in Asia.\n\nA total of five Hong Kong universities are among Asia’s top 10, with three of these ranking in the top five: besides the University of Hong Kong, City University of Hong Kong ranked fourth, with the Chinese University of Hong Kong sitting in fifth.\n\nEight local universities improved their rankings this year, with all 11 ranked Hong Kong institutions featuring among the top 500 in Asia. The bureau said this demonstrates a comprehensive elevation in the quality of Hong Kong’s higher education.\n\nAt the same time, Hong Kong universities continue to lead Asia in key indicators such as academic reputation, employer reputation, internationalisation, and research impact.\n\nThe bureau also highlighted that the World Class University Presidents Forum 2026 will be inaugurated tomorrow.\n\nA premier international education event, the forum brings together university presidents, distinguished scholars, and international education leaders from dozens of world-class institutions to deliberate on issues such as talent cultivation in the intelligent era, the role of technology and innovation in driving the future economy, and universities’ responses to major global challenges.\n\nThe Hong Kong SAR Government said it will continue to support local universities in reaching new heights and enhance the international leadership of Hong Kong’s higher education sector through various policies and measures. These include advancing the development of the Northern Metropolis University Town, attracting top international research talent and students, and deepening cross-boundary and international academic collaborations.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_202948_140/images/20261103212153431.jpg",
+      "publishedAt": "2026-11-02T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261103/20261103_202948_140.html"
     }
   ]
 }
