@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T13:00:29.419Z",
-  "checkedAt": "2026-11-21T14:00:31.361Z",
+  "generatedAt": "2026-11-21T14:15:20.591Z",
+  "checkedAt": "2026-11-21T14:15:20.591Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 12
+      "articleCount": 13
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 9
+      "articleCount": 8
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "60a7215e693449ae",
+      "title": "FBI checking suspected breach of key crimes database",
+      "excerpt": "The US Federal Bureau of Investigation is investigating a suspected breach of a nationwide database used by federal, state and…",
+      "fullText": "The US Federal Bureau of Investigation is investigating a suspected breach of a nationwide database used by federal, state and local law enforcement agencies to share criminal justice information, CNN has reported, citing two people briefed on the investigation.\n\nThe apparent compromise of the National Crime Information Center database would mark the second intrusion involving an FBI system in recent months and the latest in a string of cyber incidents that have alarmed US officials over the past week.\n\nThe FBI database is used by law enforcement agencies nationwide to store and share information on warrants, criminal histories and background checks.\n\nWhite House National Cyber Director Sean Cairncross was fired days ago, with US President Donald Trump saying he was not up to the job.\n\nPrevious high-profile cyber disruptions over the past week have included a global outage affecting hundreds of millions of Microsoft users and a nationwide halt to air ⁠travel that disrupted more than 18,000 flights.\n\nA September breach by a digital extortion group known as \"ShinyHunters\" accessed an FBI jobs website, compromising data on current and former FBI employees. (Reuters/Agencies)\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-21T14:08:34.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878711-20261121.htm"
+    },
     {
       "id": "73308bb515a65ab3",
       "title": "Evening News on TV32 - Nov 21",
@@ -1732,17 +1743,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/myanmar/2026/11/04/myanmar-washington-strategy-strategy-rare-earth-burma/"
-    },
-    {
-      "id": "e5c7d448dbef211a",
-      "title": "Top Uni presidents forum opens",
-      "excerpt": "The World Class University Presidents Forum 2026 opened today on the Hong Kong University of Science and Technology campus. The…",
-      "fullText": "The World Class University Presidents Forum 2026 opened today on the Hong Kong University of Science and Technology campus.\n\nThe two-day forum, themed “Higher Education Reimagined: Innovating for the Future”, brings together in Hong Kong presidents and senior leadership figures from around 50 world-leading universities to explore strategic directions for the development of global higher education.\n\nAs a premier event in the global education community fully supported by the Hong Kong Special Administrative Region Government and hosted by the HKUST, the forum highlights Hong Kong’s unique strengths and its pivotal status as a bridge connecting the Chinese Mainland with the global higher education system.\n\nOfficiating at the opening ceremony, Acting Chief Executive Chan Kwok-ki noted in his speech that higher education has long been a vital pillar of Hong Kong’s success and a cornerstone of its role as a hub for global talent and academic exchange.\n\nHe highlighted that Hong Kong is the only city in the world to host five universities in the global top 100 – a testament to the strength of its higher education sector, which is further underscored by the latest QS World University Rankings: Asia 2027.\n\nThe Hong Kong SAR Government will continue to align closely with national strategies, accelerate the integrated development of education, technology and talent, and further consolidate Hong Kong’s status as an international hub for post-secondary education through initiatives such as the development of the Northern Metropolis University Town.\n\nSeveral heavyweight interuniversity co-operation signing ceremonies took place during the event, marking important strategic co-operation agreements between leading institutions and organisations at home and abroad. These included a Memorandum of Understanding (MOU) on deepening collaboration between Central South University and Monash University; an MOU between Zhejiang University and the HKUST on establishing a joint innovation centre; a Trilateral Joint Seed Fund agreement among the University of Warwick, Nanyang Technological University and Shanghai Jiao Tong University; and a student exchange agreement between Trinity College Dublin and Nanjing University, marking a new milestone in global higher education and research collaborative innovation.\n\nToday’s topics include “The University and the Century Ahead”, “Educating the Human: The Generation Shaping the Intelligent Age”, and “From Ideas to Innovation: Universities Driving the Future Economy”.\n\nA number of prominent leaders from the political, business and academic sectors addressed the forum either in person or via video message, including the eighth Secretary-General of the United Nations Ban Ki-moon, President of the 43rd session of the General Conference of UNESCO Khondker M Talha, President of the China Association of Higher Education Lin Huiqing, HKUST Council Chairman Harry Shum, and HKUST President Nancy Ip.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261104/20261104_122505_002/images/20261104155715713.jpg",
-      "publishedAt": "2026-11-03T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261104/20261104_122505_002.html"
     }
   ]
 }
