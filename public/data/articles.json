@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T00:15:20.540Z",
-  "checkedAt": "2026-11-21T02:00:30.378Z",
+  "generatedAt": "2026-11-21T02:15:18.176Z",
+  "checkedAt": "2026-11-21T02:15:18.176Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -148,6 +148,17 @@
       "source": "MIT Technology Review",
       "sourceFeed": "mit-technology-review",
       "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+    },
+    {
+      "id": "b584e355968e2bb8",
+      "title": "Global praise for HK infrastructure",
+      "excerpt": "InfraEX Week 2026 opened yesterday with its flagship event – the 2nd International Infrastructure and Projects Leaders Summit – bringing…",
+      "fullText": "InfraEX Week 2026 opened yesterday with its flagship event – the 2nd International Infrastructure and Projects Leaders Summit – bringing together leading experts and professionals from over 30 countries and regions.\n\nParticipants praised the summit’s strong global appeal and shared positive views on Hong Kong’s ongoing infrastructure development.\n\nAshghal Technical Office Assistant Manager Hayat Bukshaisha said that Hong Kong has strong experience in planning and delivering major infrastructure projects.\n\n“We are taking Hong Kong as a benchmark. We look to Hong Kong and learn from past experience, especially when it comes to modern methods of construction and project delivery,” she said.\n\nDeloitte Australia Senior Partner Sean McClowry noted that he is particularly interested in the Northern Metropolis Project.\n\n“It is one of the most exciting initiatives of its kind in the world, and seeing this kind of greenfield initiative coming to life is really exciting for me,” he said. “Always when I come to Hong Kong, just seeing how the infrastructure works together and how you fuse physical infrastructure and digital technologies is very interesting to me.”\n\nMinistry of Finance of the Republic of Singapore Executive Director (Centre for Public Project Management) Low Chian Siong highlighted the value of opportunities that he gained by joining the event.\n\n“The greatest takeaway for me is not just learning what other participants are doing, but also actually the network that we create and continue to maintain,” he said.\n\nHe said he was also amazed by how much Hong Kong has achieved in a very short time in terms of planning and execution.\n\nMeanwhile, Professor Tarek Zayed of The Hong Kong Polytechnic University Department of Construction Management & Intelligence, who has spent nine years working in Hong Kong, emphasised the city’s high standards in infrastructure.\n\n“I have been in contact with many departments in Hong Kong and doing a lot of research in many infrastructures including bridges, tunnels, water networks, sewer networks, highways or pavement. The infrastructure here is strong, very good, and many of them are new, very sustainable and resilient for the coming generation.”\n\nAssociation of Consulting Engineers of Hong Kong Chairman Ole Wong said that the summit encourages valuable exchanges with overseas professionals.\n\n“We can share, we can collaborate and we think about an integrated opportunity with each other together. So the summit is very successful and we hope we can meet as many leaders as possible from different places. We can all work together and we can think about our future, embrace our challenges together,” he said.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_233343_331/images/20261121003337755.jpg",
+      "publishedAt": "2026-11-20T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_233343_331.html"
     },
     {
       "id": "d433044e50329637",
@@ -951,17 +962,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_165142_423.html"
-    },
-    {
-      "id": "86df1cd42af672a5",
-      "title": "CE hails 5 APEC Summit outcomes",
-      "excerpt": "Chief Executive John Lee said today that Hong Kong achieved five major outcomes during the Asia-Pacific Economic Cooperation (APEC) CEO…",
-      "fullText": "Chief Executive John Lee said today that Hong Kong achieved five major outcomes during the Asia-Pacific Economic Cooperation (APEC) CEO Summit held in Shenzhen, ranging from strengthened ties with Southeast Asian nations to new agreements with emerging markets.\n\nSpeaking to the media this afternoon, Mr Lee emphasised Hong Kong's active role in supporting China's hosting of the regional forum.\n\n“First, contributing Hong Kong's strength by actively participating in and supporting our country's successful hosting of the APEC meeting,\" said Mr Lee, noting that the city organised meetings and workshops while launching a series of capacity-building projects throughout the event.\n\nDuring the summit, Mr Lee focused on bilateral diplomacy to deepen exchanges with fellow APEC economies and consolidate ties with the Association of Southeast Asian Nations (ASEAN).\n\n“I met with the leaders of seven economies – Malaysia, Vietnam, Brunei, Thailand, Chile, Peru and Singapore – to strengthen ties and discuss issues of mutual concern,” he said. “The APEC meetings provided me with the opportunity to meet with five ASEAN leaders at bilateral meetings and engagements to further consolidate our relations.”\n\nIn a move to expand the city's reach into emerging markets, Mr Lee pointed to a new bilateral milestone reached on Wednesday.\n\n\"Yesterday, the President of Chile and I jointly witnessed the signing of the Working Holiday Scheme Agreement between Hong Kong and Chile,\" he said.\n\nRounding out the achievements, Mr Lee highlighted his efforts at Tuesday’s CEO Summit to promote the Guangdong-Hong Kong-Macao Greater Bay Area (GBA) and showcase Hong Kong’s unique advantages to international business and political leaders.\n\nThe Chief Executive added that Hong Kong has been making efforts to deepen the city's integration into national development.\n\n“I think we can deepen Greater Bay Area development through hard, soft and heart connectivity and take forward the Northern Metropolis for integrating into national development. Second, we can contribute to Belt & Road co-operation.\n\n“Third, we can, through the Go Global Task Force, support many enterprises in leveraging Hong Kong's world-class professional services and extensive global network, in using Hong Kong as a springboard to expand into global markets.”",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_135949_275/images/20261119161511896.jpg",
-      "publishedAt": "2026-11-18T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261119/20261119_135949_275.html"
     },
     {
       "id": "9de3beeb2b20c252",
