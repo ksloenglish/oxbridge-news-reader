@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T23:15:21.731Z",
-  "checkedAt": "2026-11-21T00:00:30.980Z",
+  "generatedAt": "2026-11-21T00:15:20.540Z",
+  "checkedAt": "2026-11-21T00:15:20.540Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "6ccca6dec23a0320",
+      "title": "Grand Theft Auto rakes in almost US$3.8bn on first day",
+      "excerpt": "\"Grand Theft Auto VI\" brought in US$3.79 billion in retail sales on its first day, publisher Rockstar Games said on…",
+      "fullText": "\"Grand Theft Auto VI\" brought in US$3.79 billion in retail sales on its first day, publisher Rockstar Games said on Friday, calling it the biggest launch for any entertainment product in history.\n\nThe figure, based on company estimates of worldwide sales through the end of Thursday, is nearly five times the roughly US$800 million that predecessor \"Grand Theft Auto V\" took in during its first 24 hours in 2013.\n\nRockstar, a label of New York-based Take-Two Interactive, said the game had sold 32.5 million units before release, a record across all platforms.\n\n\"We are incredibly humbled by the response from players around the world,\" said Sam Houser, the studio's founder and president.\n\nThe game came out on Thursday on PlayStation 5 and Xbox Series X|S. It launched first at midnight in New Zealand and then rolled out to each market as the clock reached midnight there.\n\nThe release generated more social media posts than this year's World Cup, according to monitoring platform Visibrain.\n\nCritics praised the game, which has a score of 99 on review aggregator Metacritic. Rockstar said that made it the highest-rated game ever.\n\nIn a review for The Verge, Andrew Webster wrote that \"the game is so good that the outsize hype is the least interesting thing about it.\"\n\nThis week the game received eight nominations for the Game Awards, which will be held December 10.\n\nRockstar spent more than eight years developing the title. It delayed the launch twice, first from autumn 2025 and then from May 2026.\n\nThe studio was also hit by a 2022 hack in which stolen gameplay footage was posted online.\n\nThe series has long been accused of glorifying violence and crime. (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-20T23:53:29.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878672-20261121.htm"
+    },
     {
       "id": "78678106ba073a1a",
       "title": "Harry Kane out 'for months' with ankle injury",
@@ -819,17 +830,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878409-20261119.htm"
-    },
-    {
-      "id": "1b412826f2ca9352",
-      "title": "Takaichi, Putin meet on Apec sidelines",
-      "excerpt": "Japanese Prime Minister Sanae Takaichi spoke with Vladimir Putin on the sidelines of the Apec summit in Shenzhen in her…",
-      "fullText": "Japanese Prime Minister Sanae Takaichi spoke with Vladimir Putin on the sidelines of the Apec summit in Shenzhen in her first face-to-face talks with the Russian president since she took office, Tokyo said on Thursday.\n\nRelations between Tokyo and Moscow are at a low point after a Japanese journalist was arrested in Russia and assets of a Japanese tobacco firm were seized.\n\nTakaichi \"exchanged opinions with President Putin for about 30 minutes right after a welcome dinner party\" on Wednesday, top government spokesman Minoru Kihara told reporters.\n\nThe Japanese premier conveyed Tokyo's positions on issues including the ongoing detention in Russia of a Japanese journalist arrested on spying allegations and the \"protection of Japanese companies,\" Kihara said.\n\nThe Kremlin ordered this month the seizure of Japan Tobacco International's Russian assets, sparking an immediate protest from Tokyo.\n\nThe leaders agreed to \"maintain communication at various levels\", Kihara said.\n\nThe talks came a day after Japan lodged a protest with Moscow after suspected Russian aircraft entered its airspace, prompting Tokyo to scramble fighter jets.\n\nRussia and Japan also have a decades-old dispute over the status of a string of islands in the Pacific Ocean.\n\nIn August, Japan protested Putin's visit to the far-eastern Kuril islands – a disputed territory known in Japan as the Northern Territories and seized by the Soviet Union in 1945.\n\nTokyo also protested in August against Russia's announcement that Moscow would conduct missile tests off one of the disputed islands visited by Putin. (AFP)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T03:52:43.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878413-20261119.htm"
     },
     {
       "id": "379cc640c21cceee",
