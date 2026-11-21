@@ -61,6 +61,13 @@
       "url": "https://www.rfa.org/english/rss",
       "category": "international",
       "enabled": true
+    },
+    {
+      "id": "fox-news-tech",
+      "name": "Fox News — Tech",
+      "url": "https://moxie.foxnews.com/google-publisher/tech.xml",
+      "category": "international",
+      "enabled": true
     }
   ]
 }
