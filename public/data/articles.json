@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T05:30:29.132Z",
-  "checkedAt": "2026-11-21T05:30:29.132Z",
+  "generatedAt": "2026-11-21T05:34:46.287Z",
+  "checkedAt": "2026-11-21T05:34:46.287Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 10
+      "articleCount": 11
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 12
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "f0bc43026944ee79",
+      "title": "Ex-Uber driver convicted of starting LA Palisades fire",
+      "excerpt": "A US jury has convicted a man of setting a New Year's Eve fire that grew into one of several…",
+      "fullText": "A US jury has convicted a man of setting a New Year's Eve fire that grew into one of several deadly 2025 blazes in Los Angeles, killing 12 people in the Pacific Palisades.\n\nIt was the second federal trial of Jonathan Rinderknecht, 30, after the initial prosecution attempt left the jury deadlocked and ended in a mistrial.\n\nThe former Uber driver is scheduled for sentencing on March 17. He faces up to 40 years in prison.\n\nEarlier this year, a separate jury leaned 10-2 towards acquitting Rinderknecht, but verdicts must be reached unanimously.\n\nJurors in the second trial were ordered not to take the previous proceedings or any mention of them into account in reaching their decision.\n\nFriday's verdict was on two charges: destruction of property by means of fire and arson affecting property used in interstate commerce.\n\nBut after approximately two days of deliberations, jurors found he used a lighter to ignite a brush fire in the vicinity of the wealthy, Malibu-adjacent Pacific Palisades neighbourhood.\n\nFirefighters had thought they extinguished the blaze, but later found that smouldering embers underground were carried by strong winds and erupted, tearing through the affluent area and ravaging thousands of homes.\n\nIt proved to be among the most destructive wildfires in California history.\n\nRinderknecht's defense attorney, Steven Haney, had argued there was no direct evidence that his client started the fire, and suggested errant New Year's Eve fireworks could be to blame.\n\nHe said phone record evidence that Rinderknecht called 911 were efforts that he was trying to help alleviate the situation.\n\nBut the prosecution said evidence including cell phone data put him at the scene of the crime.\n\nThey also pointed to a combination of video surveillance footage and analysis of fire spread dynamics to insist on his guilt.\n\nThe prosecution also said that Rinderknecht asked ChatGPT whether someone could be held liable for starting a fire with cigarettes.\n\nOne of the jurors, who identified himself as Cameron, said outside the courthouse that while he had originally leaned not guilty, Rinderknecht's interview with federal investigators was incriminating.\n\n\"It was a clear, calm night. You know, no one else was on that hill that day, or that day or night,\" the juror said, but the defendant \"happened to be smoking, and because he happened to be smoking, he had a lighter.\"\n\n\"Everything kind of started to point towards one conclusion.\"\n\nBill Essayli, who leads the US Attorney's Office for the Central District of California, lauded the verdict as \"a measure of justice for the families who lost loved ones and the thousands whose lives were upended.\"\n\nFierce winds fueled the 2025 Los Angeles fires that resulted in a total of 31 deaths. (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-21T05:28:50.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878682-20261121.htm"
+    },
+    {
+      "id": "bb5f12ee02779f46",
+      "title": "Father arrested over son's alleged fake-label goods op",
+      "excerpt": "Customs officers have arrested an online shop worker and seized about HK$500,000 worth of suspected counterfeit perfumes and toys. The…",
+      "fullText": "Customs officers have arrested an online shop worker and seized about HK$500,000 worth of suspected counterfeit perfumes and toys.\n\nThe arrest follows a raid on an industrial building unit in Kwun Tong last week as part of an operation against counterfeit goods.\n\nOfficers suspect a 30-year-old man, who is not in Hong Kong, has been running two online shops selling the alleged counterfeit products since 2023. The arrested worker is his father.\n\nOfficers allege the 61-year-old assisted with daily operations and handled HK$6 million in profits from the sale of the suspected fake goods.\n\n\"Preliminary investigations show that the suspect is responsible for the daily storage and delivery of a distribution centre,\" said Liu Man-chun, an inspector in the intellectual property technology crime investigation unit, adding that he is currently out on bail.\n\n\"Subsequent investigations also revealed that the person in charge of the online store in the case is a 30-year-old local man, the son of the arrested man.\n\n\"The case is still under investigation. We won't rule out the possibility of further arrests.\"\n\nLiu alleged that the counterfeiters copied the designs and registered trademarks of genuine brand products, making it difficult for customers to discern whether they were fake.\n\nHe said consumers could tell the difference because the lettering on a genuine perfume bottle was clear and sharp, while fake ones appeared blurry.\n\nLiu said government laboratories would test the confiscated perfume to ensure it posed no health risks.\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-21T05:25:32.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878688-20261121.htm"
+    },
     {
       "id": "7efe4e56d76db0ae",
       "title": "‘China, US, Russia consensus positive for HK economy’",
@@ -808,17 +830,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878448-20261119.htm"
-    },
-    {
-      "id": "ca6eaeb126417b15",
-      "title": "Arrests over HK$68m phone 'scams'",
-      "excerpt": "One hundred and twenty-three people have been arrested as police busted two scam call operation centres in a crackdown on…",
-      "fullText": "One hundred and twenty-three people have been arrested as police busted two scam call operation centres in a crackdown on phone scams and money laundering, with the cases involving about HK$68 million.\n\nThe two-week operation, led by the Commercial Crime Bureau, began in early November.\n\nOf those arrested, 95 were men and the rest women, with their ages ranging between 14 and 75.\n\nMost were stooge account holders or phone registrants and were arrested on suspicion of conspiracy to defraud and obtaining property by deception and money laundering, police said, adding that officers froze HK$1.8 million.\n\nOfficers said one of the scam call operation centres was hidden in industrial units in Kwun Tong and Hung Hom.\n\nA 47-year-old man was arrested and two SIM card modems, known as \"cat pools\", were seized.\n\nChief Inspector Ho Ming-wai said the use of such device had made the criminal chain highly fragmented and harder to investigate.\n\n\"Take the cat pool device at the scene as an example,\" she said.\n\n\"It can dial more than 200 different phone numbers within one hour. Once a citizen answers, the incoming call will be routed through a network system to a phone scam center at another location, continuing this fraudulent activity.\"\n\nThe bureau said phone scams have been rising, with nearly 10,000 cases recorded in the first three quarters of 2026, making up about 30 percent of all cons.\n\nA single-month record of more than 2,000 cases was logged in August, while total losses reached HK$1.9 billion. Impersonation of customer service staff accounted for 60 percent of cases.\n\nOfficers also noted scammers are increasingly using two- and three-prefix numbers that look like landlines, when they are actually internet calls, to lower the public's guard.\n\n\"These fixed-line phone numbers are, actually, internet calls,\" Superintendent Kwok Ching-yee said.\n\n\"At this stage, they are not yet subject to real-name registration regulation like phone cards and stored-value cards.\"\n\nIn a separate operation, the West Kowloon regional technology and financial crime unit targeted a group impersonating Alipay customer services in an operation that dismantled a call transfer centre.\n\nThirty-three victims have been defrauded of HK$4 million since December, and police said more arrests are possible.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T06:52:42.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878422-20261119.htm"
     },
     {
       "id": "d7914815d670074a",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/10/20261029/20261029_160028_023.html"
-    },
-    {
-      "id": "77f5a33f407aa94f",
-      "title": "Shenzhen Bay to extend hours",
-      "excerpt": "The Hong Kong Special Administrative Region Government today announced that passenger and vehicle clearance services at the Shenzhen Bay Control…",
-      "fullText": "The Hong Kong Special Administrative Region Government today announced that passenger and vehicle clearance services at the Shenzhen Bay Control Point will be extended by two hours until 2am on October 30 and 31. The arrangement follows a consensus reached with Shenzhen authorities to facilitate festival traffic.\n\nA substantial rise in visitor arrivals and late-night cross-boundary trips is anticipated over the Halloween weekend, which coincides with major local events including the Hong Kong Wine & Dine Festival and mega concerts.\n\nThe Hong Kong SAR Government expects the busiest period for northbound traffic at Huanggang Port to be between 11pm and 2am overnight, warning of heavy congestion around the port area and San Tin Highway. The extended hours at Shenzhen Bay aim to divert this late-night flow.\n\nCross-boundary coach operators have co-ordinated with the Hong Kong SAR Government to extend northbound services utilizing the Shenzhen Bay Control Point.\n\nFor local public transport services, franchised bus operators will run two special overnight bus routes – NB2 and NB3 – during the early morning hours. These will connect the Shenzhen Bay Control Point and Yuen Long/Tin Shui Wai and Tuen Mun respectively.\n\nClearance arrangements at Huanggang Port will remain unchanged.\n\nTravellers are advised to check real-time updates – including average passenger and private car waiting times – via the Security Bureau’s “Easy Boundary” platform or the Transport Department’s “HKeMobility” mobile application to plan their journeys and avoid delays.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/10/20261029/20261029_200450_909/images/20261029214117977.jpg",
-      "publishedAt": "2026-10-28T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/10/20261029/20261029_200450_909.html"
     }
   ]
 }
