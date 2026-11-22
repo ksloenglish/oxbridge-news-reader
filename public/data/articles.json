@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T18:15:17.876Z",
-  "checkedAt": "2026-11-22T22:50:12.976Z",
+  "generatedAt": "2026-11-22T23:00:27.863Z",
+  "checkedAt": "2026-11-22T23:00:27.863Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "554438b10724f218",
+      "title": "Election Committee winners lay out hopes for CE",
+      "excerpt": "Some former senior officials and prominent business figures were among the 723 candidates elected to the Election Committee in contested…",
+      "fullText": "Some former senior officials and prominent business figures were among the 723 candidates elected to the Election Committee in contested subsectors on Sunday.\n\nTurnout reached nearly 99 percent, in a vote that Electoral Affairs Commission chairman David Lok said went \"very smoothly\" and which fully demonstrated the principles of openness, honesty and fairness.\n\nThose elected include former Secretary for Justice Rimsky Yuen, former Secretary for Food and Health Sophia Chan, former Secretary for Innovation and Technology Alfred Sit, and former Secretary for Development Eric Ma.\n\nBut former Financial Services and Treasury chief KC Chan was defeated in the finance subsector.\n\nExecutive Council members Jeffrey Lam, Chan Kin-por, Margaret Leung and Ronny Tong also won.\n\nTong, who won a seat in the legal subsector, said the Northern Metropolis should be the next leader's top priority – as it will have the most direct impact on Hong Kong's economy. He also hopes to see more progress on public housing.\n\nHe said he will vote in the chief executive election on behalf of the people of Hong Kong.\n\nProminent business figures elected include Pacific Century Group founder Richard Li, Henderson Land chairman Martin Lee, Wharf chairman and managing director Stephen Ng and New World Development executive director Sonia Cheng.\n\nAnnie Tse, chairwoman of the Hong Kong Retail Management Association, won in the wholesale and retail subsector. She said Hong Kong needs to develop its economy well, and she expects the next Chief Executive to have an international outlook, with love for the country and Hong Kong being the most important quality.\n\nJessie Yu, chairperson of the Hong Kong Association of Senior Citizens, won in the most competitive social welfare subsector.\n\nShe said she will gather public demands and push them to the policy level. With an ageing population, she says Hong Kong needs a long-term plan for older people – and hopes the next Chief Executive can improve coordination between policy bureaux, meet people's needs, and raise their sense of well-being.\n\nTwo subsectors were decided by drawing lots. In tourism, James Wong and Ronald Wu both received 61 votes, with Wong winning the draw. In architectural, surveying, planning and landscape, Bernard Lim and Robin Leung both received 27 votes, and Lim was elected after the draw.\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T22:45:35.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878868-20261123.htm"
+    },
     {
       "id": "777689165b46b8f7",
       "title": "FDA clears tiny surgical robot to remove bladder tumors",
@@ -709,17 +720,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878605-20261120.htm"
-    },
-    {
-      "id": "3c5539521f661b9a",
-      "title": "Public housing wait falls to decade-low of 4.4 years",
-      "excerpt": "The latest composite waiting time for subsidised rental housing has fallen to 4.4 years, a 10-year low and a drop…",
-      "fullText": "The latest composite waiting time for subsidised rental housing has fallen to 4.4 years, a 10-year low and a drop of 0.4 years from 4.8 years at the end of June, the Housing Bureau said on Friday.\n\nThe figure, it said, is 1.7 years below the peak of 6.1 years before the current-term government took office and the first time it has fallen below four-and-a-half years.\n\nThe composite waiting time (CWT) is based on the average waiting time of general applicants housed to public rental housing or light public housing in the 12 months to the end of September 2026.\n\nA bureau spokesman said the long-standing backlogged applications have been gradually cleared with rising overall public housing production and the progressive completion of various projects, producing a downward trend.\n\n\"We are confident that we can achieve the target of reducing the CWT to 4.5 years in 2026-27 as announced by the chief executive in the 2022 Policy Address,\" he said.\n\nThe bureau said public housing production is entering a harvesting phase.\n\nIn the next five years, from 2027-28 to 2031-32, more than 35,000 units per year on average will be provided, about 73 percent more than in the five years since the current-term government took office, the highest in 25 years.\n\nOn light public housing, about 29,800 units had been completed as of the middle of this November, with the remaining two projects, converted from school premises in Kwun Tong and Wong Tai Sin, providing about 210 units upon completion in the first quarter of next year.\n\nAll 13 projects providing about 30,000 units will be completed in slightly over four years, ahead of the five-year target.\n\nIn the third quarter of this year, about 11,200 general applicants were housed in public rental housing or light public housing, including about 3,100 newly completed flats, about 2,700 recovered flats and about 5,450 light public housing units, with the last figure being more than four times that of the previous quarter.\n\nThe spokesman said the average quarterly supply over the past 12 months rose to about 8,200 units, double the average of about 4,100 units in the four years before the current-term government took office.\n\nThe waiting time for general applicants housed in public rental housing over the period was 5.3 years, while for those housed in light public housing it was only 2.8 years on average, showing the policy has played a key role in enabling faster fulfilment of grassroots housing needs.\n\nThe bureau also said the public rental housing waiting queue had hit a 15-year low.\n\nAs of the end of September, there were about 96,100 general applications, down nearly 40 percent from the peak of 156,400 in September 2020 and the first time the figure had fallen below 100,000 since 2012.\n\nNon-elderly one-person applications fell by over 40 percent from their peak, with the decline among those aged below 30 even more pronounced, dropping about 60 percent over the past decade to about 29,300.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T09:22:23.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878604-20261120.htm"
     },
     {
       "id": "f3c3ccf87d7db2fd",
