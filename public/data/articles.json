@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T05:15:18.523Z",
-  "checkedAt": "2026-11-22T05:15:18.523Z",
+  "generatedAt": "2026-11-22T05:30:24.998Z",
+  "checkedAt": "2026-11-22T05:30:24.998Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 15
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 8
+      "articleCount": 7
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "3b04af554bc345a2",
+      "title": "Fossil fuels still missing from latest COP31 draft",
+      "excerpt": "The COP31 presidency proposed an eleventh-hour deal Sunday that again failed to mention fossil fuels by name — an omission…",
+      "fullText": "The COP31 presidency proposed an eleventh-hour deal Sunday that again failed to mention fossil fuels by name — an omission that sparked a tense standoff at the UN climate talks.\n\nThe latest offering by summit co-hosts Türkiye and Australia published deep into overtime leaves unresolved tensions over planet-heating fossil fuels but retains a much-sought goal to electrify the global economy.\n\nThe proposal needs consensus approval from nearly 200 nations at a closing session Sunday but they have struggled to bridge differences during two weeks of grinding negotiations.\n\nFossil fuels are a flashpoint at the climate talks and the summit comes against a difficult backdrop of soaring energy prices and geopolitical tensions stemming from the war in Iran.\n\nA draft deal unveiled earlier this week called for a faster phase out of fossil fuels but a second, pared-down version released Thursday stripped away all mentions of coal, oil and gas.\n\nThreats of a walkout prompted Türkiye and Australia to convene a hurried meeting between the European Union and Saudi Arabia — opposing camps on fossil fuels — in a bid to broker a compromise.\n\nThe latest text introduces a reference to a previous global deal in 2023 to shift the world away from fossil fuels — but stops short of naming them explicitly.\n\nAnd it retains a contentious push to expand carbon capture and storage, a dispute technology championed by the fossil fuel industry but criticised as costly and ineffective in cutting emissions.\n\nThe draft also calls for global efforts to boost the share of electricity in total final energy consumption to 35 percent by 2035 and the expansion of \"clean energy\".\n\nThe summit had been under pressure to show progress in tackling soaring greenhouse gas emissions in a year of climate-linked disasters from Europe to Nepal and Indonesia.\n\nFacing blowback over fossil fuels, Türkiye and Australia pointed to \"electrification\" as a way to cut heat-trapping emissions and bolster energy security.\n\nThis works by replacing technologies that burn fossil fuels directly — like diesel cars and gas heating — with electric alternatives.\n\nBut some nations had demanded an explicitly \"clean\" electrification target so that the additional electricity was produced by renewable energy and not fossil fuels.\n\nAround one-third of global electricity is produced using coal and another fifth using fossil gas.\n\nAttempts by Saudi Arabia, India and Kenya meanwhile to delay the next set of reports by the UN's Intergovernmental Panel on Climate Change (IPCC) have been another major source of friction at the talks.\n\nThe draft text \"highlights the importance\" of these reports for an upcoming stocktake of global carbon-cutting efforts in 2028.\n\nDozens of countries across Europe, Africa and the Pacific want these assessments by the global scientific authority on climate change published in time for that crucial stocktake.\n\nCountries have also disagreed at COP31 over how to respond to the looming breach of the 1.5 Celsius warming target set under the Paris climate accord.\n\nThe latest draft expressed \"deep concern\" that global warming would cross 1.5C above pre-industrial levels in the next few years.\n\nThe talks also jammed over long-running complaints that rich nations are shirking their obligations to help developing nations confront climate change.\n\nThe removal of a US$120 billion target for climate adaptation angered developing nations. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T05:15:02.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878769-20261122.htm"
+    },
     {
       "id": "d6cecd42eebcdd98",
       "title": "HK-Chile working-holiday scheme to start next year",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_133828_723.html"
-    },
-    {
-      "id": "e229c087f76cfd6d",
-      "title": "Student assessment report released",
-      "excerpt": "The Hong Kong Examinations & Assessment Authority (HKEAA) has submitted the 2026 Territory-wide System Assessment (TSA) report to the Education…",
-      "fullText": "The Hong Kong Examinations & Assessment Authority (HKEAA) has submitted the 2026 Territory-wide System Assessment (TSA) report to the Education Bureau, the Government announced today.\n\nThe report said that the performance of Primary 3 and Secondary 3 students in the three major subjects ­– Chinese Language, English Language and Mathematics – remained generally steady this year, aligning closely with results from previous assessments.\n\nThe Education Bureau welcomed the findings, noting that schools broadly agree that the TSA report provides practical data and analysis regarding student performance. Combined with internal assessment results, this information enables schools to tailor their curriculum plans and instructional strategies to enhance learning effectiveness, fully reflecting the \"Assessment for Learning\" ethos.\n\nExpressing its gratitude to the school sector, the bureau commended educators for continuously adopting diversified teaching strategies to cater to the varied needs of students and raise instructional effectiveness.\n\nThe HKEAA will soon distribute school-level data directly to primary and secondary schools for feedback on learning and teaching. Meanwhile, the bureau will host thematic seminars on \"Promoting Assessment for Learning\" next month to support schools in making effective use of assessment data to enhance outcomes.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_120342_663/images/20261105124150748.jpg",
-      "publishedAt": "2026-11-04T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_120342_663.html"
     }
   ]
 }
