@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T11:15:18.279Z",
-  "checkedAt": "2026-11-22T12:00:38.884Z",
+  "generatedAt": "2026-11-22T12:15:21.514Z",
+  "checkedAt": "2026-11-22T12:15:21.514Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "98bf23d9fd31dbe6",
+      "title": "Lok 'encouraged by EC election turnout'",
+      "excerpt": "The government said overall turnout at Sunday's Election Committee Subsector Ordinary Elections reached 98.79 percent. A total of 5,640 registered…",
+      "fullText": "The government said overall turnout at Sunday's Election Committee Subsector Ordinary Elections reached 98.79 percent.\n\nA total of 5,640 registered voters cast their ballots.\n\nSpeaking to the media after the polling ended, Electoral Affairs Commission chairman David Lok said he was encouraged by the turnout.\n\nHe said it demonstrated that the electoral system in Hong Kong has become increasingly mature.\n\nLok also said the ballot boxes have been delivered to the Central Counting Station at the Convention and Exhibition Centre for counting.\n\nResults are expected throughout the evening.\n\nHe also said authorities have received one poll-related complaint involving election advertisements.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T11:50:37.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878804-20261122.htm"
+    },
     {
       "id": "370a46f2922ebc6a",
       "title": "Voters praise atmosphere of EC election",
@@ -698,17 +709,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878578-20261120.htm"
-    },
-    {
-      "id": "49ddae2a6315b682",
-      "title": "HK joins global drug regulatory body ICH",
-      "excerpt": "Hong Kong has formally become a regulatory member of the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for…",
-      "fullText": "Hong Kong has formally become a regulatory member of the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH), a move the Health Bureau says marks a key step towards building the city into an international healthcare innovation hub.\n\nThe ICH admitted Hong Kong, represented by the Pharmacy and Poisons Board, as its 20th regulatory member at its assembly in the Czech Republic on Tuesday.\n\nOther regulatory members include the National Medical Products Administration of China, as well as regulators from Europe, Switzerland, the UK and the US.\n\nThe ICH is a key international platform for coordinating technical standards on drug regulation, setting guidelines covering safety, efficacy and quality.\n\nSecretary for Health Lo Chung-mau said the government sincerely thanked the country for its support for Hong Kong's development as an international healthcare innovation hub, saying the membership fully demonstrates the unique advantages of \"one country, two systems\".\n\nHe noted that Hong Kong became an ICH observer on October 31, 2023, and had met all of the body's requirements in just three years, far faster than the eight to 10 years estimated earlier.\n\nLo said the government will set up a centre for medical products regulation to build independent drug evaluation and approval capacity to support clinical research on biopharmaceuticals.\n\n\"The HKSAR Government will establish the Centre for Medical Products Regulation (CMPR) next month to build up capacity for independent drug evaluation and approval, and actively participate in international co-operation, with a view to developing Hong Kong into an international health and medical innovation hub and better integrating into and serving the overall national development,\" he said.\n\nDirector of Health Ronald Lam said joining the ICH is a big step forward.\n\n\"This is actually an important milestone in the development of drug and medical device regulation in Hong Kong, and it also marks the most critical step forward in establishing an internationally recognised, independent drug evaluation authority,\" Lam said.\n\nLam said the soon-to-be-established centre will build a professional team in accordance with ICH technical requirements, send experts to take part in drafting and revising ICH guidelines, and strive to become an internationally authoritative regulator.\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T04:57:22.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878581-20261120.htm"
     },
     {
       "id": "cc09790020aa93f6",
