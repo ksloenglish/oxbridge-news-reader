@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T05:30:24.998Z",
-  "checkedAt": "2026-11-22T07:15:19.055Z",
+  "generatedAt": "2026-11-22T07:30:27.285Z",
+  "checkedAt": "2026-11-22T07:30:27.285Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 19
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 7
+      "articleCount": 6
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "f968366af7a15703",
+      "title": "EC election ‘open, honest and fair’, says David Lok",
+      "excerpt": "The chairman of the Electoral Affairs Commission David Lok has expressed confidence that the Election Committee Subsector Ordinary Elections being…",
+      "fullText": "The chairman of the Electoral Affairs Commission David Lok has expressed confidence that the Election Committee Subsector Ordinary Elections being held on Sunday would be conducted in an open, honest and fair manner.\n\nVote counting and the announcement of results would be completed within a reasonable timeframe, he said.\n\nA total of 856 candidates were competing for 723 seats across 31 subsectors.\n\n\"The Election Committee plays a pivotal role in the governance structure of the Hong Kong SAR,\" he told reporters a few hours after voting began on Sunday.\n\n\"Its members shoulder significant responsibilities, including nominating candidates for the chief executive and electing the chief executive-designate.\n\n\"We found that candidates for the election this time include outstanding figures from various industries and representatives from all walks of life, ensuring broad representation and balanced participation.\"\n\nLok added that polling stations were operating smoothly, with various improvement measures in place.\n\nSecretary of Home and Youth Affairs Alice Mak said voters took the election seriously, with some arriving at the polling stations early in the morning, lining up to cast their votes.\n\nMak said she hopes voters could seize the opportunity to elect individuals who possess both integrity and ability and contribute to society after inspecting the polling station at Kowloon Park Sports Centre.\n\nAccording to government figures, turnout reached 93.55 percent as of 2pm on Sunday, with more than 5,300 voters having cast their ballots.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T07:18:11.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878772-20261122.htm"
+    },
     {
       "id": "3b04af554bc345a2",
       "title": "Fossil fuels still missing from latest COP31 draft",
@@ -695,8 +706,8 @@
       "fullText": "Hong Kong is well placed to contribute to the national effort to enhance the construction sector's global standing and competitiveness, Chief Executive John Lee said.\n\nLee said the national 15th Five-Year Plan calls for raising the construction sector's global standing, and that Hong Kong connects the country's capabilities with international opportunities while providing professional support to turn them into successful projects.\n\n\"In a world shaped by shifting geopolitics, urgent climate challenges, and rapid technological advance, insights alone are not enough. We must turn ideas into projects with lasting impact,\" he said at the opening ceremony of the inaugural InfraEX Week, which brings together some 800 infrastructure project leaders, government officials and professionals from over 30 countries and economies.\n\nLee said the SAR's first five-year plan, closely aligned with the national version, offers a strategic roadmap for the city's future while enabling Hong Kong to better integrate into and serve the overall national development.\n\nA clear example, he said, is the Northern Metropolis, which takes up a third of Hong Kong's geographical area and will eventually be home to some 2.5 million people, create half a million jobs and account for about 13 percent of the city's GDP.\n\nHe said the Hong Kong Park of the Hetao Shenzhen-Hong Kong Science and Technology Innovation Cooperation Zone and three planned university towns would integrate innovation, industry and education.\n\nLee said the city must deliver projects that are truly future-ready, and that means \"quality, more than quantity.\"\n\n\"To build the Northern Metropolis and all that it promises, we must deliver infrastructure that is truly future-ready, and that means quality more than quantity.\"\n\nHe said artificial intelligence, advanced engineering technologies, construction robots and digital supervision systems are being deployed to improve productivity and cost-effectiveness.\n\nLee also highlighted the city's services expertise, spanning engineering, project management, legal and financial services, and cited a footbridge built with home-produced S960 high-strength steel as an example of Hong Kong's role as a super connector and super value-adder, bridging standards and validating innovation.\n\nHe added that collaboration would take concrete shape with the exchange of memorandums of understanding and a letter of intent with international and local partners.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-20T03:34:47.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878559-20261120.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_124445_933.html"
-    },
-    {
-      "id": "bbc2fa366fb47ee7",
-      "title": "HK global education role grows",
-      "excerpt": "Secretary for Education Choi Yuk-lin spoke today at the World Class University Presidents Forum 2026, highlighting Hong Kong's growing strength…",
-      "fullText": "Secretary for Education Choi Yuk-lin spoke today at the World Class University Presidents Forum 2026, highlighting Hong Kong's growing strength, global voice and strategic vision as a premier international higher education hub. The two-day forum in Hong Kong concludes today.\n\nAddressing the audience, Ms Choi noted that the forum gathered leaders and university presidents representing more than one-third of the world's top 50 universities. \"Assembling such a distinguished constellation of global academic leadership strongly reaffirms Hong Kong's standing as an international education hub and significantly enhances the city's discourse power in the global educational arena,\" she said.\n\nMs Choi emphasised that Hong Kong's institutional strength is firmly rooted in academic excellence, robust national support and open connectivity. Citing the latest QS World University Rankings: Asia 2027, she pointed out that Hong Kong continues to set regional benchmarks with five local universities securing places among Asia's top 10.\n\nServing as a vital bridge between East and West, Hong Kong offers a fertile ecosystem characterised by internationalisation and diversification to bring global talent together, she said. The education chief added that the forum forms part of a strategic series of signature initiatives promoting the “Study in Hong Kong” brand worldwide, alongside major events like February’s Asia-Pacific Association for International Education Conference and Exhibition.\n\nElaborating on the forum's theme, \"Higher Education Reimagined: Innovating for the Future\", Ms Choi stressed that no matter how the global landscape evolves, universities remain fundamentally tied to economic development, societal well-being and human progress. She noted that world-leading institutions must stand at the forefront to guide this transformation as Hong Kong's educational landscape evolves.\n\nThe vision is being physically realised through the development of the Northern Metropolis University Town. The Education Bureau pointed out that under the \"One Town, Five Elements\" framework, the Hong Kong Special Administrative Region Government is building a holistic campus ecosystem integrating higher education, advanced research, market innovation, vibrant living spaces and top-tier talent.\n\nPositioned at the gateway to the Chinese Mainland, the University Town will foster deep industry-academia-research integration, linking academic research directly with industry capabilities to serve national development under the 15th Five-Year Plan.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_133828_723/images/20261105152558884.jpg",
-      "publishedAt": "2026-11-04T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_133828_723.html"
     }
   ]
 }
