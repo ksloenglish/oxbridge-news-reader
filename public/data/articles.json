@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T04:00:26.728Z",
-  "checkedAt": "2026-11-22T04:30:30.771Z",
+  "generatedAt": "2026-11-22T04:45:18.022Z",
+  "checkedAt": "2026-11-22T04:45:18.022Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "23110ec9feb268ec",
+      "title": "HK to contribute to global bay area cooperation: FS",
+      "excerpt": "Financial Secretary Paul Chan on Sunday said Hong Kong would play a greater role in a world association for bay…",
+      "fullText": "Financial Secretary Paul Chan on Sunday said Hong Kong would play a greater role in a world association for bay area economic cooperation with its unique strengths of connecting the mainland and the world.\n\nHis remarks came after President Xi Jinping said during the Apec CEO Summit in Shenzhen last week that the country supports the establishment of such an association to deepen exchanges among bay areas and strengthen Asia-Pacific economic cooperation.\n\nWriting in his weekly blog, Chan said the SAR had long-standing ties with other Apec economies.\n\nThe city is also familiar with the rules and business culture of international markets, with experience in cross-border trade, finance, innovation and technology, and professional services collaboration within the Greater Bay Area, he added.\n\n\"The unique advantages of ‘One Country, Two Systems’ – especially the common law system, a high degree of internationalisation, and world-class professional services – enable Hong Kong to build trust, align rules, efficiently communicate and facilitate deals between different systems, cultures, currencies and markets,\" he said.\n\n\"This is precisely Hong Kong’s unique value in global bay area cooperation and the more active contribution it can make.\"\n\nChan also said Apec economies had different economic structures and resources, stressing the need for broader market connections.\n\nHong Kong’s contribution lies not only in serving individual enterprises or projects, but in building market, institutional and network connections for long-term cooperation among different bay areas, he said.\n\nChan went on to say that he had led a delegation to the UK and the Netherlands to look for new partnerships and opportunities.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T04:39:57.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878758-20261122.htm"
+    },
     {
       "id": "9cf6a8c06815e1be",
       "title": "Three dead, 36 missing in Indo factory fire",
@@ -951,17 +962,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878497-20261119.htm"
-    },
-    {
-      "id": "cf45f95ba892a8f3",
-      "title": "Evening News on TV32 - Nov 19",
-      "excerpt": "Top stories for Thursday, Nov 19, 2026 - Xi Jinping holds a trilateral meeting with his US and Russian counterparts…",
-      "fullText": "Top stories for Thursday, Nov 19, 2026\n\n- Xi Jinping holds a trilateral meeting with his US and Russian counterparts, describing it as having \"groundbreaking significance\".\n\n- President Xi pledges 20 million US dollars to boost Apec cooperation.\n\n- Chief Executive John Lee outlines five positive outcomes for Hong Kong from this year’s Apec meetings.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T12:24:28.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878495-20261119.htm"
     },
     {
       "id": "43f7655e575501fb",
