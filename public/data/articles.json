@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T15:00:30.241Z",
-  "checkedAt": "2026-11-22T15:15:23.041Z",
+  "generatedAt": "2026-11-22T15:30:24.778Z",
+  "checkedAt": "2026-11-22T15:30:24.778Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "4bd9e4764442111d",
+      "title": "CE congratulates winners of 'smooth' EC election",
+      "excerpt": "Officials on Sunday evening announced the results of the Election Committee Subsector Ordinary Elections held earlier in the day. Chief…",
+      "fullText": "Officials on Sunday evening announced the results of the Election Committee Subsector Ordinary Elections held earlier in the day.\n\nChief Executive John Lee congratulated all the winners, saying the polls represented healthy competition among patriots.\n\nAfter the polls closed at 6pm, ballot boxes were delivered to the Central Counting Station at the Convention and Exhibition Centre for counting.\n\nAfter vote counting was completed, officials began announcing the results of each of the 31 subsectors.\n\nAmong the first to be announced were accountancy where 15 of 17 candidates were elected, and textiles and garment where 17 of 19 won through.\n\nAmong the notable winners were former justice secretary Rimsky Yuen in the legal subsector; former Legco president Andrew Leung in industrial (first); and Exco member Jeffrey Lam in commercial (first).\n\nA total of 856 candidates were competing for 723 seats across 31 subsectors.\n\nElectoral Affairs Commission chairman David Lok described the entire election process as smooth, highlighting its openness and fairness.\n\nOverall turnout reached 98.79 percent, with 5,640 registered voters casting their ballots.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T15:19:54.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878849-20261122.htm"
+    },
     {
       "id": "b44bf8451de99f6b",
       "title": "What really happens when you need help restoring your identity",
@@ -709,17 +720,6 @@
       "source": "Fox News — Tech",
       "sourceFeed": "fox-news-tech",
       "link": "https://www.foxnews.com/tech/former-secret-service-investigator-sounds-alarm-ai-scams-americans-grow-increasingly-anxious"
-    },
-    {
-      "id": "e6adcb932433af46",
-      "title": "Stiffer penalties in works in Buildings Ordinance fix",
-      "excerpt": "The government is proposing to tighten the Buildings Ordinance and raise maximum penalties to HK$10 million and five years in…",
-      "fullText": "The government is proposing to tighten the Buildings Ordinance and raise maximum penalties to HK$10 million and five years in prison for all works, including those involving large-scale maintenance, that cause death, injury or property damage.\n\nThe proposals come in the wake of the Wang Fuk Court fire last November.\n\nIn a paper submitted to Legco, the Development Bureau proposed creating a new, separately regulated category for large-scale building maintenance works that no longer treats them as low-risk minor repairs.\n\nA project qualifies as large-scale maintenance if the building involved is four storeys or above and the scaffolding covers one whole side of the building, across at least four floors.\n\nThese works, which currently only need to be notified, would require a Buildings Department permit before they could start – and an authorised person would have to submit prescribed plans and a supervision plan.\n\nInspection and supervisory duties would be split, and the authorised person would have to declare that there is no conflict of interest with the inspection consultant and the contractor.\n\nAll materials used in construction – such as concrete, fire doors, scaffolding materials and temporary window coverings – must meet standards set by the Buildings Department.\n\nUse of substandard materials would carry a fine of up to HK$3 million and three years' imprisonment, against HK$500,000 and 18 months under present minor-works rules.\n\nWork carried out in a way that causes or may cause death, injury or property damage would come under a new criminal offence that carries a fine of up to HK$10 million and five years’ imprisonment, against HK$1 million and three years at present.\n\nA finding of bribery or bid-rigging could result in one being struck off statutory contractor and consultant registers without a disciplinary hearing and being banned for three years.\n\nThe government aims to introduce the amendment bill in January and bring it into force by the middle of 2027.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T07:50:08.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878589-20261120.htm"
     },
     {
       "id": "4d7d0d5c824d913e",
