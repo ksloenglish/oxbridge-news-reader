@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T23:30:26.056Z",
-  "checkedAt": "2026-11-22T23:30:26.056Z",
+  "generatedAt": "2026-11-22T23:45:18.569Z",
+  "checkedAt": "2026-11-22T23:45:18.569Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "d33f93c7813a9f1c",
+      "title": "Talks end without deal on new Israel government",
+      "excerpt": "The parties of caretaker Israeli prime minister Benjamin Netanyahu and his rival Gadi Eisenkot concluded a new round of talks…",
+      "fullText": "The parties of caretaker Israeli prime minister Benjamin Netanyahu and his rival Gadi Eisenkot concluded a new round of talks on Sunday without reaching an agreement on a possible coalition government, which would require concessions from both sides.\n\nDelegations from Eisenkot's Yashar party and Netanyahu's Likud met for four hours at a hotel in Herzliya, near Tel Aviv, following a first round of discussions last Sunday.\n\n\"The latest round of coalition talks... has concluded. The two sides outlined their positions on a range of substantive issues and discussed them in detail,\" the two parties said in a joint statement.\n\n\"A follow-up meeting will be held,\" they added, without specifying a date or revealing any other details.\n\nA former army chief of staff, Eisenkot has until December 6 to form a government, with the possibility of a 14-day extension, after October elections failed to give either camp an absolute majority.\n\nHis 48-member bloc, which needs 61 lawmakers to reach a majority, remains divided over whether to build a coalition through an alliance with ultra-Orthodox parties, a rapprochement with Arab parties, or a national unity government with Likud.\n\nNetanyahu is pushing for a national unity government, which could see a rotation of the premiership between the two men, a mechanism already tried in Israel.\n\nSuch an arrangement could allow Netanyahu to keep his political protection against the corruption charges he faces, as well as continue to oppose the creation of an independent commission of inquiry into the security failures that preceded the Hamas attack of October 7, 2023.\n\nBut that prospect runs up against Eisenkot's refusal to serve in a cabinet led by Netanyahu, against whom he centred his campaign.\n\nHis ally Naftali Bennett, a former prime minister, also reiterated on Saturday his refusal to join a coalition with \"Netanyahu or his bloc, under any circumstances\".\n\nOn Saturday, Yashar presented the resumption of talks as \"a genuine commitment to forming the broadest possible government\", saying that Eisenkot had asked his representatives to explore all options.\n\nBut Likud immediately laid down several conditions for its participation in a unity government, a formula backed by Netanyahu.\n\nAmong other things, it demands an end to \"all personal attacks and incitement to hatred\" targeting Netanyahu and his government.\n\nIt also called for bringing together \"all the parties that support the existence of the State of Israel as the nation-state of the Jewish people\", without the participation of Arab parties.\n\nNetanyahu and his allies regularly target Arab parties, which secured a record 19 seats in the legislature and are opposed to Netanyahu remaining in power.\n\nLikud is also demanding agreement on several major policy positions, notably rejecting the creation of a Palestinian state, maintaining Israeli control over territories in Syria, Lebanon and the Gaza Strip.\n\nIt is also pushing for a compromise on conscription of ultra-Orthodox Jews, a particularly sensitive issue in Israel. (AFP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T23:31:25.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878871-20261123.htm"
+    },
     {
       "id": "01b876d20ce6ab3e",
       "title": "Man arrested after fatal TST traffic accident",
@@ -819,17 +830,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878553-20261120.htm"
-    },
-    {
-      "id": "25efe45daa54e92f",
-      "title": "Myanmar guilty of genocide against Rohingya, ICJ rules",
-      "excerpt": "Myanmar committed genocide against its Rohingya minority, the International Court of Justice (ICJ) said on Thursday in a ruling, ordering…",
-      "fullText": "Myanmar committed genocide against its Rohingya minority, the International Court of Justice (ICJ) said on Thursday in a ruling, ordering refugees be given safe passage home and awarded compensation.\n\nThe ruling by the top UN court was the first time in its 80-year history that ICJ judges have determined that a state committed genocide.\n\n\"The Republic of the Union of Myanmar has committed genocide against the Rohingya group in northern Rakhine state,\" said ICJ President Yuji Iwasawa, pronouncing the verdict in the court's Great Hall of Justice in The Hague.\n\nUN Secretary-General Antonio Guterres urged Myanmar to allow exiled Rohingya to return home. Gambian President Adama Barrow, whose country brought the case in 2019, called it a \"historic day for international justice\".\n\nIn Bangladesh, hundreds followed proceedings on a giant screen in Cox's Bazar – the world's biggest refugee camp housing more than one million people – with many breaking down in tears when Iwasawa pronounced the verdict.\n\nMyanmar's security forces killed thousands of Rohingya civilians, committed \"widespread sexual violence\" against women and \"extreme violence\" against children, Iwasawa said.\n\nThe ICJ said the evidence pointed to around 10,000 killed in Myanmar's so-called \"clearance operations\" to repress the Rohingya community.\n\nRohingya villages were \"systemically destroyed\" and replaced with non-Rohingya inhabitants, said the ICJ, ruling that the \"only reasonable inference\" was that Myanmar intended to destroy the population – a key test for genocide.\n\nThe court ordered Myanmar to \"allow and facilitate the safe, voluntary, and dignified return to their place of residence\" for those who fled the violence.\n\nJudges also told Myanmar it must investigate and punish anyone suspected of committing genocide, providing for compensation to be determined at a later date.\n\nWhile the decisions of the ICJ are binding and cannot be appealed, the court has no way of enforcing its verdicts.\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T02:01:00.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878551-20261120.htm"
     },
     {
       "id": "8e0255a61f68a0c0",
