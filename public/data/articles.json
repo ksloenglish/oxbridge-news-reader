@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T08:30:25.933Z",
-  "checkedAt": "2026-11-22T08:45:21.394Z",
+  "generatedAt": "2026-11-22T08:54:22.576Z",
+  "checkedAt": "2026-11-22T08:54:22.576Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 14
+      "articleCount": 13
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 7
+      "articleCount": 8
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "cbaade92878ff249",
+      "title": "China slams US curbs on phone numbers access",
+      "excerpt": "China on Sunday called on the United States to revoke proposed restrictions on Chinese telecom operators' direct access to US…",
+      "fullText": "China on Sunday called on the United States to revoke proposed restrictions on Chinese telecom operators' direct access to US phone numbers, saying the move violates the principles of non-discrimination and fair competition.\n\nThe US Federal Communications Commission (FCC) abused its regulatory powers and overstretched the concept of national security, while making arbitrary accusations against Chinese telecom companies without factual basis and maliciously undermining their operations in the United States, a Commerce Ministry spokesperson noted in response to a media query.\n\nAffected entities include China's three biggest telecom firms: China Unicom, China Telecom and China Mobile.\n\nThe FCC has recently continued to push to decouple and sever supply chains between China and the United States in telecommunications, communications, testing and certification, the spokesperson added.\n\nSuch moves run counter to the important consensus reached by the two heads of state and undermine the stability of China-US economic and trade relations, the spokesperson said.\n\nChina urges the United States to immediately rescind the measures and return to the right way of resolving issues through consultations, the spokesperson said, noting that China will take necessary measures to firmly safeguard its own interests.\n\nThe criticism by Beijing comes after President Xi Jinping hosted his US counterpart Donald Trump at the Apec summit in Shenzhen, where Xi hailed \"stable and improved\" ties with Washington. (Xinhua, with additional reporting by AFP)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T08:47:22.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878787-20261122.htm"
+    },
     {
       "id": "a6cfd0a987f2670a",
       "title": "1 dead, 3 injured after car mounts pavement in TST",
@@ -799,17 +810,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878515-20261120.htm"
     },
     {
-      "id": "203a83fbbdcc8b7c",
-      "title": "Fossil fuels scrubbed from draft UN climate deal",
-      "excerpt": "UN climate talks co-host Australia unveiled a new draft agreement on Thursday that drops any mention of fossil fuels, the…",
-      "fullText": "UN climate talks co-host Australia unveiled a new draft agreement on Thursday that drops any mention of fossil fuels, the leading driver of global warming, sparking anger from campaign groups.\n\nThe nearly 200 nations involved in the COP31 global climate talks in Türkiye have until Friday to strike a final agreement, though the marathon negotiations often run into overtime.\n\nThe summit is unfolding against a record-breaking El Nino, disasters fuelled by climate change from Europe to Nepal and a global energy shock triggered by the Iran war.\n\nA sweeping draft pact unveiled earlier in the week laid out competing positions on flashpoint topics from energy to finance and trade, drawing criticism for its length and complexity.\n\nAfter days of tense consultations, Australia published a slimmed-down text half the original length containing fresh language and new proposals on some of the thorniest issues.\n\n\"We'll be engaging in intense consultations with every single group starting this afternoon and into the night,\" Australia's Climate Minister Chris Bowen, who is steering the negotiations, told reporters.\n\nGovernment ministers offered little immediate comment as they absorbed the fresh proposal.\n\nPanama earlier threatened to block any deal that does not include a cap on global oil production, among other demands.\n\nBowen said he had not yet seen Panama's letter of objections.\n\nAn earlier proposal \"for accelerated action to phase out fossil fuels\" was nixed in the revised text, and all mentions of coal, oil and gas removed from the nine-page document.\n\nThe omission is striking given last year's summit also failed to mention fossil fuels, while countries have pursued efforts outside the United Nations process to exit coal, oil and gas.\n\n\"Some major fossil energy producers are attempting to undermine everything related to emissions cuts and the energy transition – and with this draft, they are succeeding,\" Inga Fritzen Buan from environmental group WWF said.\n\n\"This is not a mere disagreement over the placement of a comma.\"\n\nNations agreed at COP28 in Dubai in 2023 to transition away from fossil fuels, but language around energy sources is highly contested at the annual UN climate talks, where decisions are taken by consensus.\n\n\"Erasing explicit calls to transition away from fossil fuels... is a glaring regression. You cannot solve a fossil fuel crisis by pretending we don't need to phase out fossil fuels,\" said Harjeet Singh, convenor of the Fill the Fund campaign.\n\nThe draft \"cover decision\" is designed to capture the outcome of COP31 and set the course for future action as global temperatures rise and climate disasters multiply.\n\nMohamed Adow from campaign group Power Shift Africa said COP31 \"has been muzzled on the most important threat causing the climate crisis... This new text has gone backwards.\"\n\nThe latest text said that taking steps to electrify the global economy could have \"significant benefits\" in shoring up energy security and cutting planet-heating greenhouse gas emissions.\n\nIt includes a call to increase the global share of final energy demand met by electricity to 35 percent by 2035 – a key initiative of COP31 host Türkiye.\n\nSome countries are concerned the text as written does not explicitly require that extra electricity be powered by clean energy and not coal or gas.\n\n\"We are going to fight for clean electrification\" met by renewables and nuclear energy, French Ecological Transition Minister Monique Barbut told reporters.\n\nSome countries rejected calls to ramp up carbon capture, utilisation and storage technology, which critics see as an expensive distraction from cutting pollution.\n\nVanuatu's Climate Minister Ralph Regenvanu said it \"had been singled out for special attention that it doesn't deserve\" in the latest text.\n\nThe draft also proposes further discussions towards \"tripling\" finance for climate adaptation measures by 2035, but drops a US$120-billion goal being sought by developing nations.\n\nThe draft expresses \"deep concern\" about the imminent breach of the 1.5C temperature goal set under the 2015 Paris accord, and underscores the \"importance\" of the work of the Intergovernmental Panel on Climate Change (IPCC), the world's leading authority on global warming. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T23:24:44.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878516-20261120.htm"
-    },
-    {
       "id": "aee1090644ec5b1a",
       "title": "Anthropic's debut fails to lift US markets",
       "excerpt": "US stocks slumped on Thursday, after Anthropic's super-sized IPO failed to revitalise faded enthusiasm over artificial intelligence, as an early…",
@@ -1294,17 +1294,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878287-20261118.htm"
     },
     {
-      "id": "0072db55c25ec39b",
-      "title": "CE encouraged by Xi's Apec speech in Shenzhen",
-      "excerpt": "Chief Executive John Lee said he had been inspired and encouraged by President Xi Jinping's speech at the Apec CEO…",
-      "fullText": "Chief Executive John Lee said he had been inspired and encouraged by President Xi Jinping's speech at the Apec CEO Summit in Shenzhen on Wednesday, adding the address had charted a course for the Asia-Pacific community and provided China's response to the challenges of the new era.\n\nIn a Facebook post, Lee cited Xi as saying that the Greater Bay Area economy is marked by distinctive openness and synergy.\n\nHe said Hong Kong can serve as a springboard for global businesses entering the Greater Bay Area and the mainland.\n\nThe government would also continue to use an established task force to help mainland enterprises expand in international markets and better seize bay area opportunities.\n\n\"With the strong backing of the country, let us continue to leverage the strengths of Hong Kong and the bay area, persist in deep integration and common development with all parties through openness, and help the country become a core force leading Asia-Pacific cooperation,\" he wrote.\n_____________________________\nLast updated: 2026-11-18 HKT 17:09\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-18T05:19:43.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878277-20261118.htm"
-    },
-    {
       "id": "5557f762a229b9d7",
       "title": "'HK has key role in keeping global shipping stable'",
       "excerpt": "Hong Kong will play an important part in keeping world shipping stable and fast-tracking the sector's green transition, said John…",
@@ -1743,6 +1732,17 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_133828_723.html"
+    },
+    {
+      "id": "e229c087f76cfd6d",
+      "title": "Student assessment report released",
+      "excerpt": "The Hong Kong Examinations & Assessment Authority (HKEAA) has submitted the 2026 Territory-wide System Assessment (TSA) report to the Education…",
+      "fullText": "The Hong Kong Examinations & Assessment Authority (HKEAA) has submitted the 2026 Territory-wide System Assessment (TSA) report to the Education Bureau, the Government announced today.\n\nThe report said that the performance of Primary 3 and Secondary 3 students in the three major subjects ­– Chinese Language, English Language and Mathematics – remained generally steady this year, aligning closely with results from previous assessments.\n\nThe Education Bureau welcomed the findings, noting that schools broadly agree that the TSA report provides practical data and analysis regarding student performance. Combined with internal assessment results, this information enables schools to tailor their curriculum plans and instructional strategies to enhance learning effectiveness, fully reflecting the \"Assessment for Learning\" ethos.\n\nExpressing its gratitude to the school sector, the bureau commended educators for continuously adopting diversified teaching strategies to cater to the varied needs of students and raise instructional effectiveness.\n\nThe HKEAA will soon distribute school-level data directly to primary and secondary schools for feedback on learning and teaching. Meanwhile, the bureau will host thematic seminars on \"Promoting Assessment for Learning\" next month to support schools in making effective use of assessment data to enhance outcomes.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_120342_663/images/20261105124150748.jpg",
+      "publishedAt": "2026-11-04T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_120342_663.html"
     }
   ]
 }
