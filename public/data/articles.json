@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T13:00:34.907Z",
-  "checkedAt": "2026-11-22T14:00:37.122Z",
+  "generatedAt": "2026-11-22T14:15:26.199Z",
+  "checkedAt": "2026-11-22T14:15:26.199Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 20
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 7
+      "articleCount": 6
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "b38a2f391eaeb0f3",
+      "title": "No deal at COP31, with fossil fuels key sticking point",
+      "excerpt": "Chaotic United Nations climate talks in Türkiye couldn't reach an overarching agreement on Sunday amid disagreements over whether to mention…",
+      "fullText": "Chaotic United Nations climate talks in Türkiye couldn't reach an overarching agreement on Sunday amid disagreements over whether to mention the fossil fuels that cause global warming.\n\nExpectations had already been low heading into the two-week negotiations but discussions about explicitly including fossil fuels – the chief cause of global warming – and other issues including money proved irreconcilable.\n\nThe talks, called COP31, continued without a main agreement known as a cover decision. The meeting had already made progress on smaller issues that nibbled at the process and the warming problem and continued to go on after the failure on the cover decision.\n\nAny pact approved at the talks has to be by a near-unanimous consensus.\n\nSeveral countries and the 27-nation European Union said they couldn't accept the final proposal from the joint Turkish-Australia leadership that didn’t mention fossil fuels.\n\nA considerably larger number of nations said that consensus on something was more important and accepted the decision, often reluctantly.\n\nRussia and Saudi Arabia were forces to keep fossil fuels out of the document.\n\n“It’s unconscionable that we would have a climate act that makes no reference to fossil fuels,” Irish Climate Minister Darragh O’Brien said on behalf of the EU at the climate talks, which ran nearly 48 hours overtime at the Turkish resort town of Antalya.\n\nFor most of the first 25 years of the United Nations climate talks, outcomes didn’t explicitly mention fossil fuels, until three years ago.\n\nThat’s when in the oil-rich United Arab Emirates a groundbreaking agreement called for “transitioning away from fossil fuels”, but since then there’s been no explicit mention of fossil fuels. The Turkish-Australian proposal did say it recalled the Dubai deal entirely, but that wasn’t enough to many nations and environmental groups. (AP)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T14:08:08.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878831-20261122.htm"
+    },
+    {
+      "id": "c1038eb0db77f679",
+      "title": "Solar Ambassadors experience Disney magic",
+      "excerpt": "Youngsters taking part in RTHK's flagship youth initiative had the opportunity to broaden their horizons when they visited Hong Kong…",
+      "fullText": "Youngsters taking part in RTHK's flagship youth initiative had the opportunity to broaden their horizons when they visited Hong Kong Disneyland on Saturday.\n\nAbout 70 participants of the Solar Project 2026 met face-to-face with performing arts professionals.\n\nFiona Yu, production director, entertainment, Hong Kong Disneyland Resort and preforming arts professionals of entertainment, said the Solar Ambassadors learned the day-to-day work of the professionals, such as stage production and project planning.\n\nOne of the programme participants, Koleman Luk from Ying Wa College, said the activity offered a valuable perspective beyond the classroom, illustrating how good performances are the result of meticulous planning, rigorous rehearsal and seamless coordination among departments.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-22T13:54:05.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878827-20261122.htm"
+    },
     {
       "id": "213a396ff2f54369",
       "title": "Evening News on TV32 - Nov 22",
@@ -695,8 +717,8 @@
       "fullText": "China experts on Friday urged Hong Kong to carve out a new economic strategy and lean into regional growth while warning that global energy policies remained at odds with climate goals.\n\nTheir comments came a day after the Apec summit wrapped up in Shenzhen, where talks and discussions centred on Asia-Pacific trade and economic cooperation, technology and innovation, and major-power diplomacy.\n\nSpeaking on RTHK's Backchat programme on Friday, Einar Tangen, a senior fellow at the Centre for International Governance Innovation, said global trade was shifting towards regional blocs and that Hong Kong and the Greater Bay Area had a strategic role to play within Asia.\n\n“The world is dividing, and you can quite clearly see the growth of regionalism and this is what Apec was about, and then you have entities within that sphere like Hong Kong and Greater Bay Area, which are there to serve it,” he said.\n\n“It doesn't mean that they will not have robust interactions with Europe and America and etc, but they form a vital function in an emerging economy where China and Asean are now beyond one trillion dollars.”\n\nTangen also noted that it’s time to start re-evaluating and seeing the Global South more as a primary focus for development opportunities, where Hong Kong and Shenzhen are going to blossom and serve the region.\n\nFor his part, Victor Gao, vice president of the Centre for China and Globalisation, suggested the city come up with a new strategy for ways to deal with upcoming challenges and opportunities.\n\nThe relative advantages that Hong Kong has enjoyed for many years ago now is fast dwindling, he said, and it should learn from the great example of places such as Shenzhen and always be committed to pushing forward to scale real heights.\n\nGao emphasised that complacency, inefficiency or a failure to reach new heights will likely hinder Hong Kong’s prospects for major economic and financial achievements in the coming years.\n\nJosef Gregory Mahoney, professor of politics and international relations at East China Normal University, gave his take on the outcome of the trilateral summit involving China, the United States and Russia at the Apec summit.\n\nHe noted that while China was working to accelerate green transformation and reduce global carbon emissions, both the US and Russia remained heavily reliant on fossil fuels.\n\n“The thing that concerns me most about the declaration is that you have two fossil fuel-dependent economies, Russia and the United States, and you have China, which is trying to accelerate green transformations and make the world less dependent on climate change-causing energy carbon emissions,” Mahoney said.\n\nHe also pointed out that the ongoing global energy shock stemmed from the conflict with Ukraine as well as US actions involving Venezuela and Iran, saying a resolution to increase oil production runs counter to broader climate goals.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-20T07:21:59.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878579-20261120.htm"
     },
     {
@@ -819,17 +841,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878517-20261120.htm"
-    },
-    {
-      "id": "9cf57d609dfc0163",
-      "title": "Denmark ratifies security agreement with US, Greenland",
-      "excerpt": "Denmark's parliament on Thursday voted to ratify the security agreement signed in September with the United States and Greenland, aimed…",
-      "fullText": "Denmark's parliament on Thursday voted to ratify the security agreement signed in September with the United States and Greenland, aimed at easing tensions over US President Donald Trump's desire to annex the vast Arctic island.\n\nDenmark's parliament, the 179-seat Folketing, approved the text after a second reading, with all 109 deputies present in the chamber voting in favour.\n\nThe vote took place without debate or opposition.\n\nParliament in Greenland ratified the text in early November.\n\nSigned in New York on September 22, the agreement supplements a 1951 accord on the United States' military presence in Greenland.\n\nDanish Prime Minister Mette Frederiksen hailed \"a great day\" on social media, stressing that the agreement was \"good for Greenland, the Kingdom of Denmark and the United States. And for Nato and Europe.\"\n\nIt is \"an agreement that respects the Kingdom's sovereignty. Territorial integrity. And the Greenlanders' right to self-determination,\" she added.\n\nUS Secretary of State Marco Rubio said the ratification \"will make us all safer, stronger, and more secure.\"\n\n\"This agreement modernises the United States-Denmark-Greenland defence partnership and bolsters the national security of the United States and our allies in Nato,\" he wrote on X.\n\nThe agreement will enter into force once Denmark officially informs the United States that it has ratified the deal.\n\nThe agreement allows the United States to build two military bases in Greenland and blocks countries outside the European Union and Nato from strategic sectors, in order to stop China or Russia gaining influence over the territory, particularly through investments.\n\nGreenland is an autonomous territory of Denmark but the deal is to remain in force even if Greenland gains full independence.\n\nSince returning to the presidency in January 2025, Trump repeatedly insisted that the United States needed to control Greenland for strategic reasons, alarming Nato ally Denmark and other partners. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T23:31:06.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878515-20261120.htm"
     },
     {
       "id": "aee1090644ec5b1a",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_124445_933.html"
-    },
-    {
-      "id": "bbc2fa366fb47ee7",
-      "title": "HK global education role grows",
-      "excerpt": "Secretary for Education Choi Yuk-lin spoke today at the World Class University Presidents Forum 2026, highlighting Hong Kong's growing strength…",
-      "fullText": "Secretary for Education Choi Yuk-lin spoke today at the World Class University Presidents Forum 2026, highlighting Hong Kong's growing strength, global voice and strategic vision as a premier international higher education hub. The two-day forum in Hong Kong concludes today.\n\nAddressing the audience, Ms Choi noted that the forum gathered leaders and university presidents representing more than one-third of the world's top 50 universities. \"Assembling such a distinguished constellation of global academic leadership strongly reaffirms Hong Kong's standing as an international education hub and significantly enhances the city's discourse power in the global educational arena,\" she said.\n\nMs Choi emphasised that Hong Kong's institutional strength is firmly rooted in academic excellence, robust national support and open connectivity. Citing the latest QS World University Rankings: Asia 2027, she pointed out that Hong Kong continues to set regional benchmarks with five local universities securing places among Asia's top 10.\n\nServing as a vital bridge between East and West, Hong Kong offers a fertile ecosystem characterised by internationalisation and diversification to bring global talent together, she said. The education chief added that the forum forms part of a strategic series of signature initiatives promoting the “Study in Hong Kong” brand worldwide, alongside major events like February’s Asia-Pacific Association for International Education Conference and Exhibition.\n\nElaborating on the forum's theme, \"Higher Education Reimagined: Innovating for the Future\", Ms Choi stressed that no matter how the global landscape evolves, universities remain fundamentally tied to economic development, societal well-being and human progress. She noted that world-leading institutions must stand at the forefront to guide this transformation as Hong Kong's educational landscape evolves.\n\nThe vision is being physically realised through the development of the Northern Metropolis University Town. The Education Bureau pointed out that under the \"One Town, Five Elements\" framework, the Hong Kong Special Administrative Region Government is building a holistic campus ecosystem integrating higher education, advanced research, market innovation, vibrant living spaces and top-tier talent.\n\nPositioned at the gateway to the Chinese Mainland, the University Town will foster deep industry-academia-research integration, linking academic research directly with industry capabilities to serve national development under the 15th Five-Year Plan.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_133828_723/images/20261105152558884.jpg",
-      "publishedAt": "2026-11-04T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_133828_723.html"
     }
   ]
 }
