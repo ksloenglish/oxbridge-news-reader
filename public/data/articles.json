@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T01:15:25.625Z",
-  "checkedAt": "2026-11-23T02:15:29.011Z",
+  "generatedAt": "2026-11-23T02:30:23.317Z",
+  "checkedAt": "2026-11-23T02:30:23.317Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 14
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 8
+      "articleCount": 7
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "9b17250e2b1bd03c",
+      "title": "Hundreds of Delta flights hit by system fault",
+      "excerpt": "More than 1,000 Delta flights were delayed on Sunday after an automated system that calculates an aircraft's weight malfunctioned during…",
+      "fullText": "More than 1,000 Delta flights were delayed on Sunday after an automated system that calculates an aircraft's weight malfunctioned during a busy time for travel ahead of the Thanksgiving holiday.\n\nThe airline said on Sunday morning that its teams were using manual workarounds to get flights off the ground while they sought to restore the automation system that ensures an aircraft isn't too heavy to fly.\n\nHours later, Delta said that system was once again working, though flights were still not back to normal.\n\nThe airline said it was helping passengers who needed hotel rooms or meals but hoped to have all the delayed flights in the air by the end of the day.\n\nOn Sunday morning, the Federal Aviation Administration issued about an hour-long ground stop to some flights into Hartsfield-Jackson Atlanta International Airport, which is Delta's main hub and one of the busiest airports in the world.\n\nComplying with the weight and balance limits of an aircraft is critical to flight safety, according to an FAA document, and going above the limit can compromise the structural integrity of the aircraft.\n\nThe agency said on X that the delays weren't related to FAA air traffic systems.\n\nEarlier this month, a malfunction in the FAA’s network led to the longest nationwide ground stop in 25 years.\n\nThe stop lasted for more than four hours, and carriers cancelled and delayed a large number of flights as they worked to recover.\n\nJust days after that, United Airlines saw its own system outage — forcing it to delay departing flights.\n\nThe Delta delays come as Americans have been encountering a growing number of problems with technology that are increasingly disrupting their lives.\n\nAnd the disruptions came just days before the Thanksgiving holiday, the busiest travel season in the United States.\n\nAs of Sunday evening, the flight-tracking website FlightAware said 58 percent, or about 2,000, of Delta's flights were delayed; it wasn't immediately clear how many of those involved flights into or out of the Atlanta airport.\n\nFlightAware said that about 58 percent of flights out of the Atlanta airport were delayed while about 50 percent of flights destined for the airport were delayed.\n\nThe vast majority of flights at the Atlanta airport are operated by Delta.\n\nDelta said about 70 percent of the delays and cancellations noted by FlightAware were connected to the automation issue and the rest were because of inclement weather. (AP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-23T02:11:57.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878885-20261123.htm"
+    },
     {
       "id": "db5983b94ca52065",
       "title": "Marquez makes history with eighth MotoGP world title",
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_124445_933.html"
-    },
-    {
-      "id": "bbc2fa366fb47ee7",
-      "title": "HK global education role grows",
-      "excerpt": "Secretary for Education Choi Yuk-lin spoke today at the World Class University Presidents Forum 2026, highlighting Hong Kong's growing strength…",
-      "fullText": "Secretary for Education Choi Yuk-lin spoke today at the World Class University Presidents Forum 2026, highlighting Hong Kong's growing strength, global voice and strategic vision as a premier international higher education hub. The two-day forum in Hong Kong concludes today.\n\nAddressing the audience, Ms Choi noted that the forum gathered leaders and university presidents representing more than one-third of the world's top 50 universities. \"Assembling such a distinguished constellation of global academic leadership strongly reaffirms Hong Kong's standing as an international education hub and significantly enhances the city's discourse power in the global educational arena,\" she said.\n\nMs Choi emphasised that Hong Kong's institutional strength is firmly rooted in academic excellence, robust national support and open connectivity. Citing the latest QS World University Rankings: Asia 2027, she pointed out that Hong Kong continues to set regional benchmarks with five local universities securing places among Asia's top 10.\n\nServing as a vital bridge between East and West, Hong Kong offers a fertile ecosystem characterised by internationalisation and diversification to bring global talent together, she said. The education chief added that the forum forms part of a strategic series of signature initiatives promoting the “Study in Hong Kong” brand worldwide, alongside major events like February’s Asia-Pacific Association for International Education Conference and Exhibition.\n\nElaborating on the forum's theme, \"Higher Education Reimagined: Innovating for the Future\", Ms Choi stressed that no matter how the global landscape evolves, universities remain fundamentally tied to economic development, societal well-being and human progress. She noted that world-leading institutions must stand at the forefront to guide this transformation as Hong Kong's educational landscape evolves.\n\nThe vision is being physically realised through the development of the Northern Metropolis University Town. The Education Bureau pointed out that under the \"One Town, Five Elements\" framework, the Hong Kong Special Administrative Region Government is building a holistic campus ecosystem integrating higher education, advanced research, market innovation, vibrant living spaces and top-tier talent.\n\nPositioned at the gateway to the Chinese Mainland, the University Town will foster deep industry-academia-research integration, linking academic research directly with industry capabilities to serve national development under the 15th Five-Year Plan.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_133828_723/images/20261105152558884.jpg",
-      "publishedAt": "2026-11-04T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_133828_723.html"
     }
   ]
 }
