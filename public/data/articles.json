@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T03:30:23.141Z",
-  "checkedAt": "2026-11-23T03:30:23.141Z",
+  "generatedAt": "2026-11-23T03:45:20.137Z",
+  "checkedAt": "2026-11-23T03:45:20.137Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 18
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 7
+      "articleCount": 6
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "001674b48afd0d80",
+      "title": "'Longer approval time worth it for major projects'",
+      "excerpt": "A development official on Monday said the approval process for major building maintenance works is expected to take longer than…",
+      "fullText": "A development official on Monday said the approval process for major building maintenance works is expected to take longer than before.\n\nIt comes as the government proposes a new regulated category for large-scale maintenance, requiring authorities' permission before work can start.\n\nIt's part of a series of reforms to improve safety standards in the sector following the Wang Fuk Court fire last year.\n\nSpeaking on an RTHK programme, Permanent Secretary for Development of Planning and Lands Doris Ho said a longer approval process would also have its benefits.\n\n“When we ask professionals to submit plans, we want them to undergo a clear thought process,” she said.\n\n“For a project of a certain scale, should it be carried out in phases? If so, how can they ensure fire safety? These are key areas of the project and are worth taking time to think through properly.”\n\nBut she said housing authorities would finish the approval process in a reasonable timeframe, with the goal of completing the procedure within 45 days following the submission of all required documents.\n\nHo noted that the tightened regulation might lead to an inevitable rise in building maintenance costs.\n\n“When designing the whole amendment, we hoped to introduce certain elements to the system to improve competition in the maintenance market,” she said.\n\n“If there is competition, we believe prices would be kept at a reasonable level.”\n\nHo added that authorities would offer discounts to encourage homeowners to use the service provided by the new Building Maintenance Support and Services Council.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-23T03:32:46.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878901-20261123.htm"
+    },
     {
       "id": "8d3e5999e549ecba",
       "title": "HK, region slip even as US stock futures show uptick",
@@ -816,8 +827,8 @@
       "fullText": "Hong Kong's consumer inflation remained moderate in October, with overall prices rising by 2.2 percent year on year.\n\nThe figure, published by the Census and Statistics Department on Friday, compared with the 1.9 percent expansion in September, although the government attributed the larger increase last month to the end of the rates concession.\n\nFor the first 10 months of 2026, the composite consumer price index (CPI) rose by 1.8 percent over the same period a year ago.\n\nNetting out the effects of the government's one-off relief measures, the underlying inflation in October stood at two percent, compared to 2.1 percent in September.\n\nBreaking down the various components of the composite CPI, prices jumped by 12.7 percent for electricity, gas and water and 11.4 percent for health services.\n\nTransport costs, which are sensitive to rising fuel prices, increased by 4.5 percent.\n\nThere were milder increases for necessities such as food, which edged up by 0.3 percent, while housing rents ticked up 1.4 percent.\n\nA government spokesman noted that the prices of fuel-related items continued to rise noticeably.\n\n\"But spillover effects remained limited, with prices of most other items increasing modestly or declining,\" he said.\n\nLooking ahead, the spokesman said price pressures on other fronts should remain broadly in check, although geopolitical tensions remain a key source of near-term uncertainty for international fuel prices.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-20T09:53:34.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878616-20261120.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/china/2026/11/05/joshua-wong-hong-kong-sentence/"
-    },
-    {
-      "id": "6cfaccc0821ecc5e",
-      "title": "Overseas university heads eye NM",
-      "excerpt": "The World Class University Presidents Forum was held at the Hong Kong University of Science & Technology on November 4…",
-      "fullText": "The World Class University Presidents Forum was held at the Hong Kong University of Science & Technology on November 4 and 5, drawing presidents and senior management from around 50 world-leading institutions.\n\nThe Hong Kong Special Administrative Region Government is dedicated to transforming the city into an international education hub, a vision that includes developing three university towns within the Northern Metropolis (NM).\n\nThis initiative has garnered significant attention from participating universities, with university presidents from the UK, Spain and South Africa expressing interest in exploring various models of participation.\n\nStuart Croft, University of Warwick Vice Chancellor & President, said the Hong Kong SAR Government is being very strategic, future-oriented and globally oriented.\n\n\"With the whole concept of economic growth being driven with universities, with industry, facilitated by government, the triple helix model, where else in the world is there something of this scale and ambition?\"\n\nProfessor Croft predicted that over the next decade, the world's top universities will transform their partnership model to embedding activities.\n\n\"That is what is going to make the difference, and of course the Northern Metropolis gives a fantastic opportunity for Hong Kong universities to build that embedding process, possibly earlier, possibly more deeply than elsewhere in the world, \" he said.\n\nIn the latest QS Asia University Rankings, Hong Kong has five universities in Asia’s top ten.\n\nMosa Moshabela, Vice Chancellor & Principal of the University of Cape Town in South Africa noted that Hong Kong’s high concentration of top-tier universities, paired with its convenient transport and lifestyle, promotes student and faculty mobility while bolstering the \"Study in Hong Kong\" initiative.\n\n\"I think it can really offer a good place for brain circulation. For my university, for example, it would be of interest for students and faculty to come in, especially for a relatively short stay of six months. A relatively short stay would be really good for exposure, in-depth exposure to what's happening in Hong Kong, especially if it is linked to industry.\"\n\nParticipating presidents also highlighted the flow of talent, which they said tends to gravitate toward places with strong innovation and research ecosystems.\n\nThey expressed hope that the Hong Kong SAR Government would proactively offer incentives to attract and retain talent and support the development of the university town project.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_124445_933/images/20261105182838364.jpg",
-      "publishedAt": "2026-11-05T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_124445_933.html"
     }
   ]
 }
