@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T03:45:20.137Z",
-  "checkedAt": "2026-11-23T04:00:33.504Z",
+  "generatedAt": "2026-11-23T04:15:26.828Z",
+  "checkedAt": "2026-11-23T04:15:26.828Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "6e4b927d2a07f7f0",
+      "title": "Upcoming Interpol event 'a vote of confidence in HK'",
+      "excerpt": "The upcoming Interpol annual event that will be hosted by Hong Kong for the first time is a vote of…",
+      "fullText": "The upcoming Interpol annual event that will be hosted by Hong Kong for the first time is a vote of confidence by international law enforcement, Police Commissioner Joe Chow said on Monday.\n\nThe Interpol general assembly will take place in the city between November 30 and December 3.\n\nSpeaking on RTHK’s Backchat programme, Chow said the event marked the third time that the country is hosting the assembly.\n\n\"This assembly reinforces Hong Kong’s role as a connected, outward-looking city and a responsible member of the global law enforcement family,\" he said.\n\n\"At the same time, it also sends a clear message that Hong Kong is open, Hong Kong is safe, where we enjoy a low crime rate, and Hong Kong is ready to work with partners around the world.\"\n\nChow noted the conference was crucial to global law enforcement cooperation as strategic frameworks that directly determine the direction and efficiency of combating transnational crime would be set out during the event.\n\nHe said preparatory work, including numerous drills and exercises targeting aspects such as traffic coordination and Wi-Fi load tests, started three years ago to ensure the conference – which gathers around 1,000 delegates – would run smoothly and safely while causing minimal disruptions to the public.\n\nThe event, Chow said, would allow the local police force to step up cooperation with Interpol members as more than 100 bilateral meetings between member jurisdictions are scheduled.\n\n\"We will also seize the opportunity to meet our old and new international partners through bilateral meetings to strengthen cross-jurisdictional cooperation and build new contacts,\" he said.\n\n\"We also want to deepen collaboration with the Interpol on training and capacity building.\"\n\nChow expects an agreement or a memorandum of understanding to be signed during the conference.\n\nWhile the event agenda had yet to be finalised, he said key topics would include global fraud, transnational organised crime and artificial intelligence-enabled crime.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-23T03:48:53.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878899-20261123.htm"
+    },
     {
       "id": "001674b48afd0d80",
       "title": "'Longer approval time worth it for major projects'",
@@ -808,17 +819,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878639-20261120.htm"
-    },
-    {
-      "id": "d926b1415ebb1887",
-      "title": "Govt going all out to help Wang Fuk residents: CS",
-      "excerpt": "The government is doing everything it can to help residents of Wang Fuk Court to move on and start a…",
-      "fullText": "The government is doing everything it can to help residents of Wang Fuk Court to move on and start a new life, Chief Secretary Eric Chan said on Friday.\n\nAhead of the one-year anniversary of the fire that killed 168 people at the Tai Po housing estate, Chan stressed that the public can freely attend memorial events so long as they are legal.\n\nResponding to reporters' questions after officiating at the opening ceremony of a Community Living Room in North Point, Chan said he had heard that certain groups were being pressured to cancel certain memorial activities.\n\n\"I would like to clarify here and reiterate that Hong Kong is governed by the rule of law. Any memorial activities, as long as they are legal, are absolutely permitted by the government,\" he said, citing examples such as events held by religious bodies.\n\nBut he urged the public to be careful in choosing which events to attend, saying there are individuals with ulterior motives who wish to use this opportunity to create trouble.\n\n\"I want to remind our citizens that when participating in such memorial events, they must be careful in their choices and make sure not to be taken advantage of by people with hidden agendas,\" he said.\n\nIf in doubt, Chan suggested the public enquire with the government.\n\nThe chief secretary said that the government, led by Chief Executive John Lee, had been going all out to assist residents affected by the fire, including rehousing them as soon as possible.\n\nBut most importantly, he said, is how reforms must be implemented to prevent a repeat of the disaster, citing ongoing legislative amendments to minimise fire risks and stamp out bid-rigging in building maintenance projects.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T10:47:08.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878624-20261120.htm"
     },
     {
       "id": "d6cf3048c70c004a",
