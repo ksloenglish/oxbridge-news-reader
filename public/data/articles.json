@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-11-23T01:15:25.625Z",
-  "checkedAt": "2026-11-23T01:45:23.119Z",
+  "checkedAt": "2026-11-23T02:00:29.384Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -78,8 +78,8 @@
       "url": "https://www.rfa.org/english/rss",
       "category": "international",
       "enabled": true,
-      "ok": false,
-      "error": "response was not RSS or Atom",
+      "ok": true,
+      "error": null,
       "articleCount": 18
     },
     {
