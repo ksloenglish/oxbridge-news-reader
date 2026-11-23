@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T02:30:23.317Z",
-  "checkedAt": "2026-11-23T03:14:03.609Z",
+  "generatedAt": "2026-11-23T03:15:20.732Z",
+  "checkedAt": "2026-11-23T03:15:20.732Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "8d3e5999e549ecba",
+      "title": "HK, region slip even as US stock futures show uptick",
+      "excerpt": "US stock futures attempted a recovery on Monday while Asian markets slid and authorities around the region readied support measures…",
+      "fullText": "US stock futures attempted a recovery on Monday while Asian markets slid and authorities around the region readied support measures after a withering wipeout last week for tech and chip stocks at the centre of the AI boom.\n\nIn Hong Kong, the benchmark Hang Seng Index opened down 242 points, or 1.08 percent, at 22,168 and was 395 points lower at one stage in early trading.\n\nThe China enterprises index was down 81 points, or 1.08 percent, at 7,472 while the tech index fell 67 points, or 1.9 percent, to 3,443.\n\nUp north, the Shanghai Composite Index opened down 30 points, or 0.86 percent, at 3,503.\n\nThe Shenzhen Component Index was 100 points, or 0.98 percent, lower at 10,155 while the ChiNext was down 16 points, or 0.75 percent, at 2,195.\n\nWith the Nikkei in Tokyo closed for a public holiday, the Kospi opened 135 points, or 2.77 percent, lower at 4,734 in Seoul before going on a downward spiral to be 207 points down at one stage before noon.\n\nThe early losses came as investors still harboured questions over whether the vast sums of mostly borrowed money spent building data centres to power AI models would generate returns fast enough to repay lenders and big enough to justify some of the high stock prices.\n\nLast week's 10 percent drop in the Nasdaq was its largest weekly drop since pandemic panic gripped markets in March 2020.\n\nNasdaq 100 futures bounced nearly three percent in early trade on Monday, and S&P 500 futures rose by two percent.\n\nThe \"AI trade\" has for several years lifted a wide range of stocks, from switch and cable makers to electricity generators and the manufacturers of anything in the computing supply chain, but they have been under pressure in recent months from rising interest rates.\n\nAI-related shares took a particularly sharp downturn last week as the exit of Jensen Huang, the Nvidia CEO nicknamed the \"godfather of AI\", and the faltering debut of AI company Anthropic, which closed 8.5 percent lower on its first full day of trading, pointed to a souring mood. (Agencies)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-23T03:03:50.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1878898-20261123.htm"
+    },
     {
       "id": "9b17250e2b1bd03c",
       "title": "Hundreds of Delta flights hit by system fault",
@@ -1479,17 +1490,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878221-20261118.htm"
-    },
-    {
-      "id": "3fecbc6580ac949f",
-      "title": "Jensen Huang won't be back as chief: Nvidia board",
-      "excerpt": "AI chip giant Nvidia does not plan to bring its embattled co-founder back as chief executive despite Jensen Huang saying…",
-      "fullText": "AI chip giant Nvidia does not plan to bring its embattled co-founder back as chief executive despite Jensen Huang saying he was ready to return, the company's board chairman said on an earnings call.\n\n\"The Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO,\" chairman Harvey Jones said, adding that the board would not be addressing the circumstances of Huang's resignation on the call, and would communicate further when appropriate.\n\nJones' start to a call about quarterly results was a forceful response to a movement to bring back Huang, who stepped down last week.\n\nWith Huang gone, investors are eager for clues about Nvidia's future and strategy, from its commitments of billions of dollars to cloud providers, suppliers and AI startups to who will ultimately lead the world's most valuable chipmaker.\n\nShares of the company rose 2 percent in extended trading, after Nvidia forecast sales ahead of Wall Street targets.\n\n\"It's no surprise that they're doing very well, and there'll be people who will breathe a sigh of relief about it,\" said Rick Meckler, partner at Cherry Lane Investments.\n\n\"But the story here is very complicated, and it's hard not to factor that in as an additional risk for people buying stock.\"\n\nJones said the board had hired executive search firm Heidrick & Struggles to help find a new CEO.\n\nInterim CEO Colette Kress, who is also finance chief, kept her focus on financials and products in the statement accompanying results.\n\n\"Our momentum is real,\" she said, without addressing the leadership issue.\n\n\"Vera Rubin is off to an explosive start, our roadmap is on track,\" she added, referring to the company's latest flagship AI chip.\n\nHuang, the AI boom's most prolific salesman, resigned on Thursday after revelations of extramarital affairs, including one with Chinese businesswoman Alice Huang and two with Nvidia employees.\n\nJensen Huang's exit ended three decades of founder-led control over Nvidia's chip roadmap, customer deals and Washington ties, making execution a bigger risk than near-term AI demand, analysts say.\n\nThe company expects fourth-quarter revenue of US$130 billion, plus or minus 3 percent, above analysts' average estimate of US$125.25 billion, according to LSEG data. Nvidia said the outlook assumes no data-centre chip sales to China.\n\nAdjusted gross margin is expected at 71 to 72 percent, compared with analysts' estimate of 71.7 percent.\n\nAnshel Sag, principal analyst at Moor Insights & Strategy, said Nvidia's outlook was \"quite positive, albeit not as ambitious as in previous quarters, which many have already anticipated.\"\n\nHe added, \"I don't think anything near-term will be affected by Jensen's departure. His executive leadership team is capable and has followed his leadership and executed effectively for years, reaching this point.\"\n\nThe board is considering internal and external candidates for CEO, with Kress seen offering steady leadership during the selection process.\n\nBut a growing \"Stand With Jensen\" campaign has complicated the search, and Huang said on Tuesday he would be \"honoured\" to return if the board deemed it best.\n\n\"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me to return as CEO,\" Huang said in his first statement since his resignation.\n\nEarlier on Tuesday, Nvidia's board created a committee on national security and export controls, its first major governance move since Huang's departure, as scrutiny grows over the chipmaker's national security role.\n\nWashington has also tightened licensing rules for chip shipments to Southeast Asia and overseas data centres serving Chinese firms, while lawmakers prepare to question Huang, who had pushed for greater chip exports to China.\n\nInvestors were already uneasy about AI spending after the Democrats' sweep of the US midterm elections fuelled fears of tougher scrutiny and slower data-centre expansion.\n\nThey also want to know whether Nvidia's next CEO will continue financing customers, a practice critics call circular.\n\nNvidia's third-quarter revenue more than doubled to US$115.8 billion, beating analysts' estimate of US$109.1 billion. The company has topped Wall Street's revenue expectations for 17 straight quarters.\n\nAdjusted gross margin rose to 74.9 percent from 73.5 percent a year earlier, also beating analysts' estimate of 74.1 percent, despite soaring memory prices and production ramps. (Agencies)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T22:59:46.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878218-20261118.htm"
     },
     {
       "id": "3fae39c185a6bb29",
