@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T12:00:32.404Z",
-  "checkedAt": "2026-11-23T12:15:20.887Z",
+  "generatedAt": "2026-11-23T12:30:25.348Z",
+  "checkedAt": "2026-11-23T12:30:25.348Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -423,6 +423,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261123/20261123_123756_863.html"
+    },
+    {
+      "id": "f67b63b802bd4b77",
+      "title": "CE meets WorldSkills HK team",
+      "excerpt": "Chief Executive John Lee today officiated at a reception for Team Hong Kong from the 2026 Shanghai WorldSkills Competition, reception…",
+      "fullText": "Chief Executive John Lee today officiated at a reception for Team Hong Kong from the 2026 Shanghai WorldSkills Competition, reception co-organised by the Government and the Vocational Training Council (VTC). He congratulated all contestants on their dedication and tireless efforts in preparing for and competing in the event.\n\nHeld in Shanghai from September 22 to 27, the 48th WorldSkills Competition saw the Hong Kong, China delegation send 41 competitors across 37 trades – setting new records for both team size and trade participation.\n\nThe delegation secured 15 awards in total, comprising a silver medal in Rail Vehicle Technology and 14 medallions for excellence across other trades.\n\nIn his remarks, Mr Lee noted that the event is hailed as the “Skills Olympics”, where Hong Kong’s representatives faced fierce competition from more than 1,400 contestants representing nearly 70 countries and regions.\n\nHe applauded the team for their superb craftsmanship and fighting spirit in achieving Hong Kong’s best-ever results, showcasing the outstanding talent of the city’s younger generation to the world and telling Hong Kong’s story through their actions.\n\nThe Chief Executive also pointed out that Hong Kong’s First Five-Year Plan explicitly calls for promoting the high-quality development of vocational and professional education and training, calling it a vital pillar of the local education system.\n\nHe added that the Government is implementing the strategy of “fostering industry-institution collaboration and diversified development” to offer young people of varying aspirations and abilities flexible, high-quality pathways for learning and career advancement.\n\nThe Government will continue working closely with the VTC and all sectors of society to expand career opportunities for young people, enabling them to apply their skills and realise their potential, Mr Lee said.\n\nDuring the reception, the award-winning competitors shared their competition experiences and insights.\n\nAmong them was Tang Kwong-tai, who won silver in Rail Vehicle Technology and was named Team Hong Kong’s top scorer. He said he felt deeply proud to stand on the podium and bring honour to Hong Kong, adding that the training and competition had been immensely beneficial to his railway engineering career.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261123/20261123_173716_452/images/20261123182327812.jpg",
+      "publishedAt": "2026-11-22T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261123/20261123_173716_452.html"
     },
     {
       "id": "4bd9e4764442111d",
@@ -1105,17 +1116,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_113135_264.html"
-    },
-    {
-      "id": "6990e206ca3c3f53",
-      "title": "Inflation at 2.2% in October",
-      "excerpt": "Overall consumer prices rose 2.2% year on year in October, up from the 1.9% increase recorded in September, the Census…",
-      "fullText": "Overall consumer prices rose 2.2% year on year in October, up from the 1.9% increase recorded in September, the Census & Statistics Department announced today.\n\nNetting out the effects of the Government’s one-off relief measures, the underlying inflation rate was 2% in October, slightly lower than that in the previous month.\n\nCompared to October 2025, price increases were recorded for electricity, gas and water; miscellaneous services; transport; durable goods; miscellaneous goods; housing; meals out and takeaway food; and clothing and footwear.\n\nMeanwhile, year-on-year decreases were recorded for alcoholic drinks and tobacco, and basic food.\n\nThe Government said consumer price inflation stayed moderate in October. While prices of fuel-related items continued to rise noticeably, spillover effects remained limited, with prices of most other items increasing modestly or declining.\n\nLooking ahead, it said earlier increases in international oil prices would continue to feed through to local consumer prices of fuel-related items. However, price pressures on other fronts should remain broadly in check, keeping overall inflation moderate. Nevertheless, geopolitical tensions remain a key source of near-term uncertainty for international fuel prices and warrant close monitoring.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_163627_545/images/20261120173056157.jpg",
-      "publishedAt": "2026-11-19T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261120/20261120_163627_545.html"
     },
     {
       "id": "6d9dbf6c91013d7c",
