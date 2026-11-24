@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T15:00:32.983Z",
-  "checkedAt": "2026-11-24T15:15:19.728Z",
+  "generatedAt": "2026-11-24T15:30:28.164Z",
+  "checkedAt": "2026-11-24T15:30:28.164Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "c271a5d48ede420d",
+      "title": "Shanghai Party chief Chen Jining under investigation",
+      "excerpt": "Shanghai's Communist Party chief Chen Jining, who's also a Politburo member, is under disciplinary and supervisory investigation, an official statement…",
+      "fullText": "Shanghai's Communist Party chief Chen Jining, who's also a Politburo member, is under disciplinary and supervisory investigation, an official statement said on Tuesday.\n\nChen is being investigated by the Communist Party of China Central Commission for Discipline Inspection and the National Commission of Supervision for suspected severe violations of discipline and laws, the statement said.\n\nChen, 62, was previously president of Tsinghua University.\n\nHe became environmental protection minister in 2015 and then served as mayor of Beijing.\n\nHe joined the Politburo in 2022 and was named Party boss of Shanghai. (Xinhua and agencies)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T15:12:09.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879127-20261124.htm"
+    },
     {
       "id": "84474280ba362278",
       "title": "Gleneagles Hospital reports patient data leak",
@@ -1347,17 +1358,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878480-20261119.htm"
-    },
-    {
-      "id": "805190117908836c",
-      "title": "Takaichi wants 'constructive, stable' ties with China",
-      "excerpt": "Japanese Prime Minister Sanae Takaichi, on her first trip to China since taking office, said on Thursday that she intends…",
-      "fullText": "Japanese Prime Minister Sanae Takaichi, on her first trip to China since taking office, said on Thursday that she intends to build a \"constructive and stable relationship\" with Beijing.\n\nHer trip to Shenzhen for the Apec summit was also her first to China since making comments about Taiwan a year ago that caused a sharp deterioration in relations with Beijing.\n\n\"We intend to comprehensively advance our strategic and mutually beneficial relationship... pursuing dialogue to safeguard the national interests of both sides, and build a constructive and stable relationship,\" Takaichi said on the sidelines of the summit.\n\n\"China is an important neighbour,\" she said, adding that \"precisely because there are pending issues and challenges between Japan and China, we believe it is important to engage in dialogue and maintain communication.\" (AFP)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T10:07:32.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878453-20261119.htm"
     },
     {
       "id": "4db7fdc12e9ec4e4",
