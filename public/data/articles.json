@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T15:30:28.164Z",
-  "checkedAt": "2026-11-24T15:30:28.164Z",
+  "generatedAt": "2026-11-24T15:45:21.350Z",
+  "checkedAt": "2026-11-24T15:45:21.350Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 17
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 6
+      "articleCount": 7
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "ed9a4078c1858e2d",
+      "title": "FM calls on UK to uphold principle of free trade",
+      "excerpt": "China hopes that Britain will uphold the principle of free trade and adopt an open approach, providing Chinese enterprises with…",
+      "fullText": "China hopes that Britain will uphold the principle of free trade and adopt an open approach, providing Chinese enterprises with stable policy expectations and a favourable business environment for cooperation in Britain, Foreign Minister Wang Yi said on Tuesday.\n\nWang made the remarks during a phone conversation with British Foreign Secretary Ed Miliband.\n\nChina stands ready to work with Britain to promote the mature, steady and sustainable development of bilateral relations, Wang added.\n\nThe foreign minister also said he hopes that London will earnestly abide by the one-China principle and uphold the political foundation of bilateral relations. (Reporting by Xinhua)\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T15:23:25.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879129-20261124.htm"
+    },
     {
       "id": "c271a5d48ede420d",
       "title": "Shanghai Party chief Chen Jining under investigation",
@@ -876,17 +887,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878787-20261122.htm"
     },
     {
-      "id": "3b04af554bc345a2",
-      "title": "Fossil fuels still missing from latest COP31 draft",
-      "excerpt": "The COP31 presidency proposed an eleventh-hour deal Sunday that again failed to mention fossil fuels by name — an omission…",
-      "fullText": "The COP31 presidency proposed an eleventh-hour deal Sunday that again failed to mention fossil fuels by name — an omission that sparked a tense standoff at the UN climate talks.\n\nThe latest offering by summit co-hosts Türkiye and Australia published deep into overtime leaves unresolved tensions over planet-heating fossil fuels but retains a much-sought goal to electrify the global economy.\n\nThe proposal needs consensus approval from nearly 200 nations at a closing session on Sunday but they have struggled to bridge differences during two weeks of grinding negotiations.\n\nFossil fuels are a flashpoint at the climate talks and the summit comes against a difficult backdrop of soaring energy prices and geopolitical tensions stemming from the war in Iran.\n\nA draft deal unveiled earlier this week called for a faster phase out of fossil fuels but a second, pared-down version released on Thursday stripped away all mentions of coal, oil and gas.\n\nThreats of a walkout prompted Türkiye and Australia to convene a hurried meeting between the European Union and Saudi Arabia — opposing camps on fossil fuels — in a bid to broker a compromise.\n\nThe latest text introduces a reference to a previous global deal in 2023 to shift the world away from fossil fuels — but stops short of naming them explicitly.\n\nAnd it retains a contentious push to expand carbon capture and storage, a dispute technology championed by the fossil fuel industry but criticised as costly and ineffective in cutting emissions.\n\nThe draft also calls for global efforts to boost the share of electricity in total final energy consumption to 35 percent by 2035 and the expansion of \"clean energy\".\n\nThe summit had been under pressure to show progress in tackling soaring greenhouse gas emissions in a year of climate-linked disasters from Europe to Nepal and Indonesia.\n\nFacing blowback over fossil fuels, Türkiye and Australia pointed to \"electrification\" as a way to cut heat-trapping emissions and bolster energy security.\n\nThis works by replacing technologies that burn fossil fuels directly — like diesel cars and gas heating — with electric alternatives.\n\nBut some nations had demanded an explicitly \"clean\" electrification target so that the additional electricity was produced by renewable energy and not fossil fuels.\n\nAround one-third of global electricity is produced using coal and another fifth using fossil gas.\n\nAttempts by Saudi Arabia, India and Kenya meanwhile to delay the next set of reports by the UN's Intergovernmental Panel on Climate Change (IPCC) have been another major source of friction at the talks.\n\nThe draft text \"highlights the importance\" of these reports for an upcoming stocktake of global carbon-cutting efforts in 2028.\n\nDozens of countries across Europe, Africa and the Pacific want these assessments by the global scientific authority on climate change published in time for that crucial stocktake.\n\nCountries have also disagreed at COP31 over how to respond to the looming breach of the 1.5 Celsius warming target set under the Paris climate accord.\n\nThe latest draft expressed \"deep concern\" that global warming would cross 1.5C above pre-industrial levels in the next few years.\n\nThe talks also jammed over long-running complaints that rich nations are shirking their obligations to help developing nations confront climate change.\n\nThe removal of a US$120 billion target for climate adaptation angered developing nations. (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T05:15:02.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878769-20261122.htm"
-    },
-    {
       "id": "b5b50cc065871c1f",
       "title": "Messi furore after Columbus thrash Miami in MLS Cup",
       "excerpt": "Columbus Crew coach Laurent Courtois said Lionel Messi should have been sent off after hurling a throw-in at an opponent…",
@@ -1349,17 +1349,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878493-20261119.htm"
     },
     {
-      "id": "43f7655e575501fb",
-      "title": "HK, Singapore leaders meet on Apec sidelines",
-      "excerpt": "The leaders of Hong Kong and Singapore on Thursday discussed fostering closer ties on the sidelines of the Apec summit…",
-      "fullText": "The leaders of Hong Kong and Singapore on Thursday discussed fostering closer ties on the sidelines of the Apec summit.\n\nChief Executive John Lee said in his meeting with Singapore Prime Minister Lawrence Wong that they discussed Hong Kong’s first five-year plan.\n\n“I’m thankful because it just strengthened our partnership and relationship,” Lee said.\n\nWong, for his part, said exchanges between the two governments have continued at various levels, such as the Singapore-Hong Kong Permanent Secretaries Exchange Programme which was held in Singapore in July.\n\n“The ties are warmer than ever, and I look forward to building even closer cooperation between our two cities,” he said.\n\nLee agreed that the exchange programme was working very well and suggested that next year’s exchange take place in Hong Kong.\n\nIn his social media post, Lee thanked Singapore for its continued support for the SAR’s early accession to Regional Comprehensive Economic Partnership (RCEP), as the Lion City takes up the Asean chairmanship next year.\n\n“I welcome Singapore’s public and private sectors, including GIC and technology enterprises, to explore the business potential of the Hong Kong Park in the Hetao Co-operation Zone and deepen collaboration in areas such as artificial intelligence and biotechnology,” he wrote.\n\nThe CE said the two cities are both outward-oriented economies with strong track records in finance, trade and shipping.\n\nHe said commercial ties between the two cities are close, and that he looked forward to the further consolidation of their partnership.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T10:46:05.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878480-20261119.htm"
-    },
-    {
       "id": "4db7fdc12e9ec4e4",
       "title": "HK, mainland stocks fall amid chip clampdown",
       "excerpt": "Hong Kong's benchmark sank to four-month lows while mainland stocks remained under pressure, as fresh trade tensions flared up between…",
@@ -1743,6 +1732,17 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/china/2026/11/05/joshua-wong-hong-kong-sentence/"
+    },
+    {
+      "id": "6cfaccc0821ecc5e",
+      "title": "Overseas university heads eye NM",
+      "excerpt": "The World Class University Presidents Forum was held at the Hong Kong University of Science & Technology on November 4…",
+      "fullText": "The World Class University Presidents Forum was held at the Hong Kong University of Science & Technology on November 4 and 5, drawing presidents and senior management from around 50 world-leading institutions.\n\nThe Hong Kong Special Administrative Region Government is dedicated to transforming the city into an international education hub, a vision that includes developing three university towns within the Northern Metropolis (NM).\n\nThis initiative has garnered significant attention from participating universities, with university presidents from the UK, Spain and South Africa expressing interest in exploring various models of participation.\n\nStuart Croft, University of Warwick Vice Chancellor & President, said the Hong Kong SAR Government is being very strategic, future-oriented and globally oriented.\n\n\"With the whole concept of economic growth being driven with universities, with industry, facilitated by government, the triple helix model, where else in the world is there something of this scale and ambition?\"\n\nProfessor Croft predicted that over the next decade, the world's top universities will transform their partnership model to embedding activities.\n\n\"That is what is going to make the difference, and of course the Northern Metropolis gives a fantastic opportunity for Hong Kong universities to build that embedding process, possibly earlier, possibly more deeply than elsewhere in the world, \" he said.\n\nIn the latest QS Asia University Rankings, Hong Kong has five universities in Asia’s top ten.\n\nMosa Moshabela, Vice Chancellor & Principal of the University of Cape Town in South Africa noted that Hong Kong’s high concentration of top-tier universities, paired with its convenient transport and lifestyle, promotes student and faculty mobility while bolstering the \"Study in Hong Kong\" initiative.\n\n\"I think it can really offer a good place for brain circulation. For my university, for example, it would be of interest for students and faculty to come in, especially for a relatively short stay of six months. A relatively short stay would be really good for exposure, in-depth exposure to what's happening in Hong Kong, especially if it is linked to industry.\"\n\nParticipating presidents also highlighted the flow of talent, which they said tends to gravitate toward places with strong innovation and research ecosystems.\n\nThey expressed hope that the Hong Kong SAR Government would proactively offer incentives to attract and retain talent and support the development of the university town project.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_124445_933/images/20261105182838364.jpg",
+      "publishedAt": "2026-11-05T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_124445_933.html"
     }
   ]
 }
