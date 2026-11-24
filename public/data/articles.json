@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T04:30:23.447Z",
-  "checkedAt": "2026-11-24T04:30:23.447Z",
+  "generatedAt": "2026-11-24T04:45:19.992Z",
+  "checkedAt": "2026-11-24T04:45:19.992Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 17
     },
     {
       "id": "rthk-world",
@@ -80,7 +80,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 16
+      "articleCount": 17
     },
     {
       "id": "fox-news-tech",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "7fe58ff9a6b43549",
+      "title": "Hong Kong SAR's first astronaut set to return home",
+      "excerpt": "The Hong Kong SAR’s first astronaut, Lai Ka-ying, will return to Earth after completing an in-orbit crew rotation, the China…",
+      "fullText": "The Hong Kong SAR’s first astronaut, Lai Ka-ying, will return to Earth after completing an in-orbit crew rotation, the China Manned Space Agency on Tuesday said, as it announced that the Shenzhou-24 would launch on Wednesday morning to the Tiangong Space Station.\n\nThe mission will carry the station’s first foreign astronaut, Pakistani payload specialist Zeeshan Ali, who will fly alongside Chinese astronauts Tang Hongbo and Wu Yi.\n\nAli will conduct a short mission and return with Lai and Zhang Zhiyuan, another Shenzhou-23 astronaut who will command the return flight.\n\nZhang Jingbo, who is a spokesman for the agency, said Lai had completed a range of tasks as payload specialist.\n\n\"She did a great job with space science research, tech tests, and science outreach,\" he said.\n\n\"Working closely with her crewmates and ground teams, she ran experiments like studying the molecular mechanisms behind multigeneration genetic stability and environmental adaptability of space-grown rice.\"\n\nHe added that Lai also operated a robotic arm inside the cabin during an extravehicular activity, supporting her two teammates and helping them smoothly complete tasks including solar-wing repair and the installation of space debris protection devices.\n\nZhang noted that Lai also made a virtual return to her alma mater in September for a live educational lecture that captivated students in Hong Kong and Macao.\n\n\"She and her crewmates were the space teachers that made microgravity experiments live for young people and explaining how astronauts do research on the station, giving Hong Kong and Macao folks a direct look at the nation's space achievements and deepening their love for the country. It got a great response,\" he said.\n\nZhang said Lai approached every task with vigour and a down-to-earth scientific attitude, and that her experience had given young people — especially Hong Kong and Macao youth — a sense of the strength of the nation’s science and technological capabilities.\n\nHe expressed hope that her experience would encourage young people to boldly pursue the nation’s space dreams.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T04:27:39.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879052-20261124.htm"
+    },
+    {
+      "id": "078f56104dc4aeac",
+      "title": "'HK perfect place for asian maths research body'",
+      "excerpt": "Setting up the Asian Mathematical Union — the first of its kind in Asia — in Hong Kong would give…",
+      "fullText": "Setting up the Asian Mathematical Union — the first of its kind in Asia — in Hong Kong would give a huge boost to the SAR's bid to host an international mathematics congress, an award-winning mathematician said.\n\nTsinghua University professor Yau Shing-tung — who won mathematics' highest honour, the Fields Medal, in 1982 — will lead the union as its founding president.\n\nAn inauguration ceremony for the body was held at the Chinese University of Hong Kong on Tuesday.\n\nSpeaking to RTHK, Yau pointed out that Asia had been the only continent without a union to bring its mathematical community together.\n\nHe noted the field is growing rapidly across the region and requires a unified platform to connect scholars from different countries to work together.\n\nThat is where Hong Kong can step in and serve as a hub to gather mathematicians from across Asia, he stressed.\n\n“Hong Kong is clearly in the middle of Asia. Every country can fly to Hong Kong with no obstruction. Importantly, Hong Kong is basically visa-free. There is not much of a problem applying for a visa to come to Hong Kong,” he said.\n\n“And Hong Kong has established a mathematics community for more than 50 years.\n\n“We also have enough resources, coupled with our motherland ... we can offer a lot of visiting positions and postdoc positions for Asian countries to come here to work together with us.”\n\nIn July, Hong Kong lost its bid to host the 2030 International Congress of Mathematicians to Glasgow in Scotland, but Yau stressed that uniting Asia's mathematical community gives the SAR a major boost for future editions.\n\nOne of the union’s research directions would be on artificial intelligence, Yau said, emphasising that mathematics is vital for driving technological advancement.\n\n\"The parameter that AI encounters is billions and billions of numbers,\" he said.\n\n\"Out of billions and billions of data you need to find the one you want. If you just make an error it will take forever to get the answer. You have to find a mathematical way to help you to get to the answer faster.\"\n\nBesides AI, Yau noted that the union would focus on three other core research areas: pure mathematics, applied mathematics and statistics.\n\nHe said the union plans to invite 100 postdocs and 25 senior faculty members to conduct research in Hong Kong.\n\nMost postdoc positions are reserved for applicants from Asia — with 20 spots dedicated to mathematicians from other parts of the world, Yau added.\n\nThey will also gather in Hong Kong each year for a major annual meeting.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T04:13:22.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879051-20261124.htm"
+    },
     {
       "id": "2e16a17aaad3afed",
       "title": "Building-upkeep sector warned bid-rigging days over",
@@ -733,28 +755,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878806-20261122.htm"
     },
     {
-      "id": "98bf23d9fd31dbe6",
-      "title": "Lok 'encouraged by EC election turnout'",
-      "excerpt": "The government said overall turnout at Sunday's Election Committee Subsector Ordinary Elections reached 98.79 percent. A total of 5,640 registered…",
-      "fullText": "The government said overall turnout at Sunday's Election Committee Subsector Ordinary Elections reached 98.79 percent.\n\nA total of 5,640 registered voters cast their ballots.\n\nSpeaking to the media after the polling ended, Electoral Affairs Commission chairman David Lok said he was encouraged by the turnout.\n\nHe said it demonstrated that the electoral system in Hong Kong has become increasingly mature.\n\nLok also said the ballot boxes have been delivered to the Central Counting Station at the Convention and Exhibition Centre for counting.\n\nResults are expected throughout the evening.\n\nHe also said authorities have received one poll-related complaint involving election advertisements.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T11:50:37.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878804-20261122.htm"
-    },
-    {
-      "id": "370a46f2922ebc6a",
-      "title": "Voters praise atmosphere of EC election",
-      "excerpt": "Voters have praised the atmosphere of the Election Committee Subsector Ordinary Elections held on Sunday. Among those who cast their…",
-      "fullText": "Voters have praised the atmosphere of the Election Committee Subsector Ordinary Elections held on Sunday.\n\nAmong those who cast their ballot at Harbour Road Sports Centre in Wan Chai was Bernard Chan, the chairman of the West Kowloon Cultural District Authority.\n\nHe said the election was of great importance as the elected members would vote in the elections of the chief executive.\n\nChan added that there would be persisting challenges for Hong Kong, and the authorities would require the public’s support.\n\n“The current government faced a lot of challenges, and it managed to address them. However, these challenges will persist – they are not merely short-term issues,” he said.\n\n“Challenges will continue to arise due to factors including geopolitics and the emergence of new technologies that have changed our economic model.\n\n“Given these factors, I believe both the current administration and the next will continue to need the support of all Hong Kong people.”\n\nLawmaker Sunny Tan said the competition in various subsectors demonstrated a positive atmosphere.\n\nTan added that different stakeholders of society were trying to leverage their skills through the Election Committee platform.\n\nAnother lawmaker, Jody Kwok, also praised the smooth voting process and described the election atmosphere as lively.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T09:34:18.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878790-20261122.htm"
-    },
-    {
       "id": "cbaade92878ff249",
       "title": "China slams US curbs on phone numbers access",
       "excerpt": "China on Sunday called on the United States to revoke proposed restrictions on Chinese telecom operators' direct access to US…",
@@ -1360,17 +1360,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878463-20261119.htm"
     },
     {
-      "id": "c0643c3d02fdb7a6",
-      "title": "Xi, Putin, Trump kick off landmark trilateral talks",
-      "excerpt": "The leaders of China, Russia and the United States have opened historic three-way talks aimed at safeguarding world peace. The…",
-      "fullText": "The leaders of China, Russia and the United States have opened historic three-way talks aimed at safeguarding world peace.\n\nThe meeting between Xi Jinping, Vladimir Putin and Donald Trump was held on Thursday afternoon in Shenzhen on the sidelines of the Apec summit.\n\nIn his opening remarks, Xi said the first-ever face-to-face meeting between the Chinese, Russian and US heads of state is of groundbreaking significance.\n\n\"As major countries in the world and permanent members of the United Nations Security Council, our three countries should set a good example, cooperate in responding to global challenges, jointly safeguard world peace and stability, and make greater contributions to human progress,\" he said.\n\nXi also said peace among major countries brings stability to the world, while their contention would only lead to chaos.\n\nHe made four points on how major countries could find the right way to get along and jointly underpin world peace – they should uphold mutual respect, peaceful coexistence, win-win cooperation, and dialogue and consultation.\n\nPutin said their three nations shared an \"interest\" in resolving the Ukraine war and a \"responsibility\" for global peace and security.\n\nTrump said the three leaders were \"making history\" by holding talks in Shenzhen.\n\nThe trilateral meeting came after Trump held separate one-on-one talks with Putin and Xi earlier in the day.\n\nThe wars in Iran and Ukraine as well as nuclear disarmament are expected to be on the agenda. (Xinhua and agencies)\n_____________________________\nLast updated: 2026-11-19 HKT 17:31\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T08:28:40.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878445-20261119.htm"
-    },
-    {
       "id": "f9afe65488cf9975",
       "title": "Five positive outcomes for HK at Apec summit: Lee",
       "excerpt": "Chief Executive John Lee on Thursday outlined five outcomes for the SAR at this year’s Apec meetings in Shenzhen. They…",
@@ -1743,6 +1732,17 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/myanmar/2026/11/10/starlink-burma-civil-war-scam-center/"
+    },
+    {
+      "id": "b927f5d06d318a3a",
+      "title": "A trip to the South Korean seaside for glimpses of my North Korean hometown",
+      "excerpt": "Escapee Park Sol-ji often gets homesick for the port city of Chongjin. A beach day in Busan comes close.",
+      "fullText": "Read a version of this story in Korean .\nPark Sol-ji stared out over the water at Gwangalli Beach with the iconic Gwangan Bridge in the distance, just above the horizon. South Korea’s touristy second largest city of Busan is a drastic change from heavily industrialized Chongjin – her hometown in North Korea. But both cities are large ports on the eastern side of the peninsula, and the sand, the breeze, and the smell of the sea reminds her of home.\n“I love looking at the sea, and coming here whenever I miss my hometown is a big part of it,” she told Radio Free Asia Nov. 3. “Also, coming to the seaside makes me feel like I can finally breathe. I think I like it because it gives me such a sense of liberation.”\nPark Sol-ji is a pseudonym she is using for safety reasons. Sol-ji fled North Korea 19 years ago when she was 20 years old, arriving in South Korea the following year. Adjusting to life in the fast-paced South was jarring. Though she tried her best to blend in among South Korean 20-somethings , it would all come crashing down whenever she spoke with her unmistakable North Korean accent.\nShe often found the degree of change in her life to be overwhelming, and she longed to return home, but that was now impossible. In times like that a trip to the sea would always remind her just enough of home to boost her spirits.\nThese days, she’s shed the accent and looks about the same as everyone else, but she still gets homesick and often travels to the seaside.\nA map showing the locations of Chongjin, North Korea and Busan, South Korea.\n(RFA) Busan is very different from Chongjin. Though both cities are industrialized ports, the South Korean city has – over many decades – invested in travel infrastructure and branded itself as a global tourist destination.\nAccording to tourism statistics compiled by the Busan city government, more than 3.93 million foreign tourists have already visited Busan this year alone. CNN introduced Busan as “Asia’s Next Coastal City,” and Expedia selected Busan as the only Korean destination among its “Top 10 Destinations of the Year for 2027.”\nBut for Sol-ji, it’s not the glitz and glamor she’s coming for. She is here to take in the memories of the seaside of her childhood, where she played in the sand with her friends and spent precious moments with her family.\nMemories roll in with the rising tide\nThough the forecast called for cloudy weather, Gwangalli Beach had quite a few visitors from midday, perhaps due to the unexpectedly clear sky. Couples were taking photos with the sea as a backdrop, groups of noisy students on a field trip made their way across the sand, and foreign tourists walked barefoot. Everyone had smiles on their faces. Gwangalli Beach is well known as a romantic spot where the blue sea harmonizes with the spectacular night view of the Gwangan Bridge.\nSol-ji slowly surveyed the seascape and her face lit up as she spoke of the days she and her family would break out a large cauldron, build a fire, catch fish, and cook eojuk, a type of spicy fish porridge. She also remembered how she and her friends used to play by pulling up seaweed to gather in makeshift nets made of their extra clothes. Although these were ordinary childhood games, looking back now, they were moments she can never have again. To her, the sea is a landscape she longs for, as well as a place where she finds solace for her wounds.\n“I even dreamt of returning to Chongjin because I missed my hometown, but even in the dream, seeing my dyed hair and decorated nails, I thought I would get caught,” she said. North Korea is notorious for fashion police who crack down on “capitalist” looks like dyed hair, colored nails, blue jeans, clothing with English words and phrases, and other no-nos. In South Korea, Sol-ji is free to dress how she wants to, but that does not erase her longing.\n“I really do want to go back just once.”\nThe old village in the hills\nPrior to visiting the beach, Sol-ji had started the day with a train ride to Busan Station, disembarking in the morning. The first spot on her itinerary was Gamcheon Culture Village, a 10-minute taxi ride away. The village started as a ramshackle town built up in the hills for laborers, and it expanded greatly with the swell of refugees fleeing to Busan from the advancing North Korean army in the opening weeks of the 1950-53 Korean War. In recent years the village was painstakingly restored through cultural preservation and beautification projects.\nThese days, tourists flock to its narrow meandering streets, attracted by the colorfully painted houses, many of which have been converted to shops, cafes and mini-museums. Near the high point of the village sits a colorful statue of the Little Prince, presiding over a space dedicated to the mythos presented in Antoine de Saint-Exupéry’s world-renowned novella.\nA statue of the Little Prince and the fox at the Little Prince House in Gamcheon Culture Village in Busan, South Korea.\n(Saha-gu Office via korea.net) Today, the tourists have come in force. More often than not, passersby who came for the village’s unique artsy flair will be speaking in a language other than Korean.\nWhile most tourists are browsing the shops, ordering refreshments, or taking in one of the museums, Sol-ji slowly looks around the alley, finally focusing on a clothesline in the courtyard of one house. She noticed three or four items of clothing hanging on a single line, swaying in the breeze. It was this evidence that people actually live here that conjured up the feelings of her childhood.\n“People here hang their laundry on clotheslines like that. It’s exactly the same in North Korea,” she said. She explained that in North Korea some families have washing machines, but rolling blackouts are common in most places, so people still have to do laundry by hand.\n“So here they also dry their laundry in the sun,” she said. “Knowing this is quite heartwarming.”\nIn another area of town she operated a manual pump that once drew water out of the ground. She said it made her think of her grandmother’s house in Chongjin.\nSol-ji walked along, looking around every corner of the alley. Though sun-dried laundry and the hand pump might be similar details, the nature of this town, built up on a hillside, would never make sense in Chongjin, she said.\nPark Sol-ji, visits Gamcheon Culture Village in Busan, South Korea, Nov. 3, 2026.\n(RFA) “There aren’t many houses on slopes like this in Chongjin. It costs a lot of money to build roads and houses up to these inclines,” she said. “Instead, there are many fields on these mountain slopes. It is land where people make a living through farming.”\nNoon approached, and it was time for lunch.\nFood for reminiscing\nSol-ji’s next destination was the famous open-air Jagalchi seafood market. As she walked from stall to stall, the boisterous calls of merchants mingled together, as they tried to attract customers by shouting out prices in their folksy Busan accents while holding up wriggling fish. Jagalchi is the largest seafood market in the country, and it is another big Busan tourist destination.\nSol-ji looked around the market, carefully observing the fish leaping out of the ice. She seemed to be searching for familiar fish such as flounder, cutlassfish, mackerel, and squid. Although it was an unfamiliar market, the seafood displayed on the stalls was something she often saw back in her hometown, she said.\nShe recalled how North and South Koreans use different words for squid and two types of octopus and this led to confusion.\n문어 (muneo) 낙지 (nakji) 오징어 (ojingeo)\nNorth Korea all octopus varieties squid cuttlefish\nSouth Korea large octopus varieties small octopus varieties squid and cuttlefish\n“We called squid nakji . So when I’m here and I see the small octopus that they’re calling nakji , that’s what we used to call baby muneo ,” said Sol-ji.\nShe recalled that during her childhood she would often snack on dried squid, tearing off tasty parts and chewing it by the mouthful.\nThe marketplace also conjured up memories of eating raw fish, but the way she enjoyed it up North was very different. In Chongjin raw fish is served slathered in a thick sauce, and wrapped with other ingredients in lettuce. But she was surprised when she came to South Korea and saw people eat the plain white flesh dipped in only a little bit of sauce.\nPark Sol-ji visits Jagalchi seafood market in Busan, South Korea, Nov. 3, 2026.\n(RFA) “I think the seafood I ate in Chongjin was tastier,” she said, smiling broadly. She explained that fish caught in colder places is saltier and tastier.\nBut then again, she said, it might have just been that she was hungry all the time back then.\n“It’s like something out of a dream.”\nAs the sun set behind Gwangalli Beach, Gwangan Bridge lit up the night sky in a dazzling flash of color. Sol-ji got in line to ride a yacht under the bridge, out to sea to catch the fireworks show exclusively for the passengers.\nPark Sol-ji views the city of Busan, South Korea at night off Gwangalli Beach, Nov. 3, 2026.\n(RFA) As the yacht moved along, Sol-ji couldn’t help but notice that it was a stark difference from the pitch black nighttime seascape in Chongjin – out at sea, Busan’s night sky is brightly and colorfully illuminated by the bridge, the cityscape – and soon, the fireworks.\nSol-ji sat on the deck, quietly closing her eyes and feeling the sea breeze. Then in one magic moment, lights shot out of the sky with a loud boom. The fireworks brought a bright smile across her face.\nIn all her excitement, her thoughts drifted to her childhood friends. Although they live in different places now, she thought how wonderful it would be if they could gaze at the dazzling night sea of ​​Busan together.\nA yacht tour fireworks display in the waters off Gwangalli Beach in Busan, South Korea, Nov. 3, 2026.\n(RFA) “This really feels like a dream, but I really do want to try it with them at least once,” she said. “I want to take lots of photos with my friends and go sightseeing like this.”\nUnder the glowing bursts, she reflected on her current daily life. Nothing like this would ever be possible in North Korea, she said. But in South Korea she can go wherever she wants, with whomever she wants, wearing whatever she wants. She smiled, realizing that “freedom” isn’t a grandiose ideal or political buzzword, it is contained in an ordinary moment like this, on a boat at sea near Busan, under the brightly lit night sky.\nEdited by Yi Yongin in Korean and Eugene Whong in English.",
+      "imageUrl": "https://www.rfa.org/resizer/v2/KPW53G3QJJD5TLZK7EYWYLG76Y.jpg?auth=fbd9b2570c19120935917da84b111bc1ea66965cca3cd55929eb561d367071c6&smart=true&width=1500",
+      "publishedAt": "2026-11-10T02:29:30.000Z",
+      "source": "Radio Free Asia English",
+      "sourceFeed": "rfa-english",
+      "link": "https://rfa.org/english/korea/2026/11/10/north-korea-busan-chongjin-escapee/"
     }
   ]
 }
