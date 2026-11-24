@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T12:15:21.029Z",
-  "checkedAt": "2026-11-24T12:30:25.452Z",
+  "generatedAt": "2026-11-24T12:45:22.571Z",
+  "checkedAt": "2026-11-24T12:45:22.571Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "53555b6665b34eaa",
+      "title": "Evening News on TV32 - Nov 24",
+      "excerpt": "Top stories for Tuesday, Nov 24, 2026 - Hong Kong's two power companies reveal tariff increases for next year. -…",
+      "fullText": "Top stories for Tuesday, Nov 24, 2026\n\n- Hong Kong's two power companies reveal tariff increases for next year.\n\n- The government announces further grants for those caught up in the Wang Fuk Court tragedy.\n\n- China will launch its Shenzhou-24 crewed spaceship tomorrow.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T12:39:50.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879109-20261124.htm"
+    },
     {
       "id": "98d3025bc8346358",
       "title": "7.9pc increase in HK Electric tariffs, 1.8pc for CLP",
@@ -797,17 +808,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261123/20261123_173716_452.html"
-    },
-    {
-      "id": "4bd9e4764442111d",
-      "title": "CE congratulates winners of 'smooth' EC election",
-      "excerpt": "Officials on Sunday evening announced the results of the Election Committee Subsector Ordinary Elections held earlier in the day. Chief…",
-      "fullText": "Officials on Sunday evening announced the results of the Election Committee Subsector Ordinary Elections held earlier in the day.\n\nChief Executive John Lee congratulated all the winners, saying the polls represented \"healthy competition among patriots\".\n\nAfter the polls closed at 6pm, ballot boxes were delivered to the Central Counting Station at the Convention and Exhibition Centre for counting.\n\nAfter vote counting was completed, officials began announcing the results of each of the 31 subsectors.\n\nAmong the first to be announced were accountancy where 15 of 17 candidates were elected, and textiles and garment where 17 of 19 won through.\n\nAmong the notable winners were former justice secretary Rimsky Yuen in the legal subsector; former Legco president Andrew Leung in industrial (first); and Exco member Jeffrey Lam in commercial (first).\n\nA total of 856 candidates were competing for 723 seats across 31 subsectors.\n\n\"The elections fully demonstrated a healthy competition among patriots who are committed, competent and constructive, highlighting the positivity of democratic development under the principle of 'patriots administering Hong Kong',\" the chief executive said in a statement.\n\n\"It is my expectation that in accordance with the principle of 'patriots administering Hong Kong', all Election Committee members will fulfil their duties diligently and responsibly, and contribute to the steady and sustained implementation of the 'one country, two systems' principle,\" Lee added.\n\nElectoral Affairs Commission chairman David Lok described the entire election process as smooth, highlighting its openness and fairness.\n\nOverall turnout reached 98.79 percent, with 5,640 registered voters casting their ballots.\n\nThe Election Committee is tasked with electing the next chief executive.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T15:19:54.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878849-20261122.htm"
     },
     {
       "id": "b44bf8451de99f6b",
