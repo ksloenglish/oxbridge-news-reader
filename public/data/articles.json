@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T19:45:21.160Z",
-  "checkedAt": "2026-11-24T22:30:24.769Z",
+  "generatedAt": "2026-11-24T22:45:19.500Z",
+  "checkedAt": "2026-11-24T22:45:19.500Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,39 @@
     }
   ],
   "articles": [
+    {
+      "id": "1427c6d3541434fb",
+      "title": "Senegal regain Afcon title after appeal to Cas",
+      "excerpt": "Senegal on Tuesday regained their Africa Cup of Nations title after winning an appeal to the Court of Arbitration for…",
+      "fullText": "Senegal on Tuesday regained their Africa Cup of Nations title after winning an appeal to the Court of Arbitration for Sport (Cas) against the decision by the Confederation of African Football to declare Morocco the winners following a chaotic final in January.\n\n\"The Court of Arbitration for Sport has upheld the appeal by the Senegalese Football Federation (FSF) against the Confederation of African Football (Caf) and the Royal Moroccan Football Federation (FRMF) concerning the final of the Africa Cup of Nations Morocco 2025,\" Cas said in a statement.\n\nThe Swiss-based sports court said Senegal's appeal had been upheld by \"a unanimous decision,\" and their original 1-0 victory after extra time is reinstated.\n\nIn March, the Confederation of African Football (Caf) sensationally overturned the result of the final, awarding Morocco a 3-0 victory, and the title, after many Senegalese players walked off the pitch in protest at a penalty given to the hosts with the game still goalless.\n\nThe Caf Appeals Committee had justified its decision to overturn the result and declare Morocco champions based on Articles 82 and 84 of the Afcon Regulations.\n\nThose state that if a team \"refuses to play or leaves the ground before the regular end of the match without the authorisation of the referee, it shall be considered (loser) and shall be eliminated for good from the current competition.\"\n\nHowever, the Senegal players eventually returned to the pitch and the final carried on.\n\nThe Cas panel therefore considered that the referee's decision to restart the final showed that \"the conditions for resuming the match had been met,\" and that articles 82 and 84 were therefore \"not applicable in this case.\" (AFP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T22:37:57.000Z",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879130-20261125.htm"
+    },
+    {
+      "id": "0c91d86728025a09",
+      "title": "Nvidia, Anthropic head south as AI shares fall",
+      "excerpt": "The Nasdaq and the S&P 500 closed lower on Tuesday as Nvidia and other AI-related shares gave back some of…",
+      "fullText": "The Nasdaq and the S&P 500 closed lower on Tuesday as Nvidia and other AI-related shares gave back some of the previous day's sharp gains and investors braced for possible new tariffs.\n\nNvidia's stock slipped 5.9 percent as investors weighed the implications of Jensen Huang's reinstatement as CEO on Monday following questions about the political and governance risks surrounding his return. Technology fell 2.8 percent, leading sector declines in the S&P 500, while an index of semiconductors dropped 7.9 percent.\n\nNvidia's decision to bring back Huang drove a sharp rally in its stock and the market on Monday, giving the S&P 500 and Nasdaq their biggest daily percentage gains since April 2025.\n\nReuters reported, citing three people with knowledge of the matter, that the Trump administration is poised to imminently release the findings of a probe aimed at countering alleged excess industrial capacity in 16 major US trading partners, and that new import duties on a wide range of goods are expected.\n\n\"After the biggest rally in months, you would expect some profit-taking. At the end of the day, one headline doesn't really resolve investor questions about the AI trade,\" said Gene Goldman, chief investment officer at Cetera Financial Group.\n\n\"The correction that we had last week is a buying opportunity for long-term investors, but we continue to believe it can be a very bumpy path for some time,\" Goldman said.\n\nThe Dow Jones Industrial Average rose 423.39 points, or 0.9 percent, to 50,018.70, the S&P 500 lost 36.08 points, or 0.5 percent, to 7,201.09 and the Nasdaq Composite lost 356.02 points, or 1.5 percent, to 23,733.54.\n\nBefore Monday's rebound, AI-linked stocks had struggled for weeks as investors questioned the sector's debt-fuelled spending and the returns it could generate.\n\nAnthropic's shares ended 6.5 percent lower at US$81.90, below their US$83 IPO price. The AI startup had a blockbuster market debut last week.\n\nAdditional tariffs would add uncertainty to the market, while investors were also cautious ahead of Wednesday's Personal Consumption Expenditures report, Goldman said.\n\nThe administration's tariffs have contributed to higher prices on consumer goods in the United States.\n\nThe PCE price index is one of the key inflation gauges watched by the Federal Reserve. Fed funds futures traders are pricing in 97 percent odds of a Fed hike in December, and a 66 percent chance of an additional increase in January, according to the CME Group's FedWatch Tool.\n\nRetailers were among the day's gainers. Shares of Abercrombie & Fitch, which raised its profit forecast, jumped 19.7 percent, while Dollar Tree gained 11.2 percent, also after raising its profit outlook.\n\nEarlier, a Conference Board survey showed US consumer confidence rose to its highest level in nearly two years in November amid optimism over the labour market and the economy following this month's midterm elections. (Reuters)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T22:36:08.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879146-20261125.htm"
+    },
+    {
+      "id": "ca048affeb3697f8",
+      "title": "US consumer confidence soars as petrol prices decline",
+      "excerpt": "Americans’ confidence in the economy jumped this month as petrol prices continued their steady decline and election-related uncertainty ended. The…",
+      "fullText": "Americans’ confidence in the economy jumped this month as petrol prices continued their steady decline and election-related uncertainty ended.\n\nThe US Conference Board said on Tuesday that its consumer confidence index soared to 103.3 this month, from a reading of 91.9 in October. It’s the second straight increase after the index fell in September to its lowest level since April 2014, even lower than during the pandemic.\n\nConsumer confidence is closely linked to petrol prices, and the Conference Board also said Americans see the job market improving. The increase also reflected sharp political divisions, as confidence rose sharply for Democrats and independents, while it declined modestly for Republicans.\n\nThe improvement could signal a pick-up in consumer spending in the months ahead, though Americans have been spending at a solid pace this year even as consumer surveys have been lacklustre. Economists say the surveys are not as reliable a measure of consumers' behaviour as they have been in the past.\n\nStill, the increase could be a good sign for retailers as winter holiday shopping gets underway. The National Retail Federation has forecast sales will rise at a healthy clip over the holidays despite stubbornly high inflation, which is rising faster than average weekly pay cheques.\n\nSeparately, petrol prices have continued to quickly decline, though they remain higher than they usually are at this time of year, when prices typically fall.\n\nPrices at the pump fell to US$3.61 a gallon on average nationwide on Tuesday, according to the AAA, down 17 cents from a week ago and sharply below the average of US$4.30 a month earlier. Still, prices remain well above the US$3.07 that motorists were paying at this time last year. (AP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T22:29:01.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879132-20261125.htm"
+    },
     {
       "id": "335ea6bf9c16f35f",
       "title": "What United Airlines banning AI agents from booking flights means for your travel plans",
@@ -1382,28 +1415,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878493-20261119.htm"
     },
     {
-      "id": "4db7fdc12e9ec4e4",
-      "title": "HK, mainland stocks fall amid chip clampdown",
-      "excerpt": "Hong Kong's benchmark sank to four-month lows while mainland stocks remained under pressure, as fresh trade tensions flared up between…",
-      "fullText": "Hong Kong's benchmark sank to four-month lows while mainland stocks remained under pressure, as fresh trade tensions flared up between China and the United States despite meetings between Presidents Xi Jinping and Donald Trump in Shenzhen.\n\nThe benchmark Hang Seng Index closed 453 points, or 1.9 percent, down at 22,841 on turnover of HK$229.55 billion.\n\nThe tech index fell 87 points, or 2.3 percent, to 3,649, hitting a 26-month low as it extended its losing streak to seven sessions, while the China enterprises index stumbled 145 points, or 1.9 percent, to 7,690.\n\nHong Kong-listed AI model developers and AI hyperscalers, whose competitiveness depends on advanced computing power, tumbled.\n\nMiniMax slumped as much as 11 percent to record lows while Z.AI lost two percent.\n\nTencent tumbled nearly seven percent to a 31-month low after its third-quarter revenue missed forecasts, and the company said new US chip curbs may slow model training.\n\nAlibaba tanked 5.5 percent to a 22-month low while Shanghai Iluvatar CoreX Semiconductor slumped 17 percent.\n\nOn the mainland, the Shanghai Composite Index fell 10 points, or 0.28 percent, to close at 3,577, its lowest level, in more than 15 months on turnover of 636.9 billion yuan.\n\nThe Shenzhen Component Index dropped 76 points, or 0.71 percent, to close at 10,583 on turnover of 668.23 billion yuan while the ChiNext Index declined 18 points, or 0.79 percent, to close at 2,293 on turnover of 310.12 billion yuan.\n\nTech stocks that rely on advanced chips, including cloud computing, AI and big data, led the declines\n\nThe losses came as Xi said on Thursday he remained committed to working with Trump to steer ties between their countries on the \"correct course\", even as the Commerce Ministry voiced strong opposition to a recent series of economic and trade restrictions the US imposed against China.\n\nThe Nvidia saga has led to tighter scrutiny of US chip exports to China.\n\nThe Trump administration is also considering requiring US companies to publicly disclose their use of Chinese AI models to discourage reliance on the technology.\n\nMeanwhile, a US House panel asked Microsoft on Wednesday to brief lawmakers on a report that said the company could allow the Chinese firm ByteDance to use OpenAI models through Microsoft's Azure cloud platform.\n\nThese developments deepened investor worry that the world's two largest economies are careening towards a fresh tit-for-tat trade war, after the Republicans' defeat in the US midterms appears to have prompted the White House to take a more hawkish policy towards China.\n\nIn Tokyo, the Nikkei ended 419 points, or 0.71 percent, higher at 59,444, with Softbank Group gaining 4.5 percent and Advantest edging down 0.55 percent. The broader Topix edged down 0.04 percent to 3,822 in, like with the Nikkei, similarly choppy trading.\n\nIn Seoul, the Kospi recovered from early losses to end 70 points, or 1.39 percent, higher on a rebound by chipmakers, with Samsung Electronics rising 1.13 percent and SK Hynix gaining 3.41 percent. (Agencies)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T09:24:18.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878452-20261119.htm"
-    },
-    {
-      "id": "f9afe65488cf9975",
-      "title": "Five positive outcomes for HK at Apec summit: Lee",
-      "excerpt": "Chief Executive John Lee on Thursday outlined five outcomes for the SAR at this year’s Apec meetings in Shenzhen. They…",
-      "fullText": "Chief Executive John Lee on Thursday outlined five outcomes for the SAR at this year’s Apec meetings in Shenzhen.\n\nThey are: contributing Hong Kong's strengths by actively participating in and supporting the country's successful hosting of the Apec meetings; deepening exchanges and cooperation with Apec member economies; consolidating relations with Asean member states; further exploring emerging markets; and telling the good stories of the Greater Bay Area.\n\n\"My takeaway is that Hong Kong's development resonates with our country's development. As an international city and international financial centre, we can serve the country's needs with our unique advantages and what Hong Kong does best,\" Lee said.\n\n\"We are pressing ahead with four centres development and one hub development, contributing to our country's high-quality development. Therefore, we shall actively integrate with and serve our national development, and at the same time, we will strengthen our connectivity with the international world.\"\n\nLee noted that he met leaders from a number of Apec member economies through bilateral meetings.\n\nOn Wednesday, he met with the leaders of Malaysia, Vietnam, Brunei, Thailand and Chile, and is set to hold talks with leaders from Peru and Singapore on Thursday afternoon.\n\nThe CE said he has briefed them on opportunities within the Greater Bay Area, with the talks focusing on strengthening bilateral ties and addressing topics of mutual concern.\n\nLee said during his meeting with the president of Chile, they jointly witnessed the signing of a Working Holiday Scheme agreement between the two sides, the first of its kind between the SAR and Latin America.\n\nLee added that the opportunity to meet five Asean leaders would boost Hong Kong's bid to join the Regional Comprehensive Economic Partnership.\n\nThe chief executive also noted that he held a brief conversation with President Xi Jinping, updating him on the panel discussion regarding the Greater Bay Area at the Apec CEO Summit.\n\nLee said he told Xi the session received a very positive response, with participants agreeing on the massive opportunities available across the region.\n\nLee said he assured the president that Hong Kong will continue to serve as a \"super-connector\" and \"super value-adder\" to better serve and integrate into national development.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T07:31:14.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878448-20261119.htm"
-    },
-    {
       "id": "205fc07ddd4fc252",
       "title": "Could caviar served on gourmet food tour of North Korea violate UN sanctions?",
       "excerpt": "Russian tour company offers a tour of high-end Pyongyang restaurants inaccessible to average North Koreans.",
@@ -1545,17 +1556,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878223-20261118.htm"
-    },
-    {
-      "id": "d0dcc93c03b897e9",
-      "title": "Woods to return to PGA Tour after two years out",
-      "excerpt": "Tiger Woods will return to competitive golf for the first time in more than two years next month when he…",
-      "fullText": "Tiger Woods will return to competitive golf for the first time in more than two years next month when he tees off at the Hero World Challenge event in the Bahamas, organisers said on Tuesday.\n\nWoods, 50, was named in the line-up for the limited field PGA Tour event taking place in Albany from December 3-6.\n\nIt will mark the first time Woods has played an official PGA Tour event since July 2024.\n\nThe 15-time major champion has battled injuries and legal problems since his last appearance.\n\nIn March he was involved in a rollover car crash in Florida which led to him having his driver's license suspended for five years.\n\nAuthorities determined the 15-time major champion had not been drinking alcohol but found he appeared to be impaired.\n\nWoods, who has undergone multiple back operations and surgeries on severe leg injuries suffered in a separate 2021 California car crash, had two pills containing the opioid painkiller hydrocodone in his pocket.\n\nHe refused a urine analysis and was charged, jailed and released on bond.\n\nWoods initially pleaded not guilty to charges of DUI (driving under the influence) with property damage and refusing to submit to a lawful test.\n\nDays later, he said he was \"stepping away\" to seek treatment and focus on his health.\n\nSince the crash, Woods has travelled outside the United States to seek treatment at an inpatient facility, reportedly in Switzerland.\n\nHe made his first public appearance since his arrest at the PGA Tour's Travelers Championship in June, and later struck a plea agreement which led to his driver's license being suspended.\n\nWoods has not won a tournament since a victory at the ZoZo Championship in Japan in 2019. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-17T23:19:54.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878219-20261118.htm"
     },
     {
       "id": "3fae39c185a6bb29",
