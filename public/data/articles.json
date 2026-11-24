@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T09:15:19.644Z",
-  "checkedAt": "2026-11-24T09:30:28.132Z",
+  "generatedAt": "2026-11-24T09:45:19.951Z",
+  "checkedAt": "2026-11-24T09:45:19.951Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "326076aa5917fe1b",
+      "title": "HK, mainland slip amid cheer at Huang shot in the arm",
+      "excerpt": "Mainland stocks lagged a powerful global rally on Tuesday, after Nvidia's reinstatement of Jensen Huang as CEO fired up AI-related…",
+      "fullText": "Mainland stocks lagged a powerful global rally on Tuesday, after Nvidia's reinstatement of Jensen Huang as CEO fired up AI-related shares, with investors betting the bridging role he played between China and the United States had diminished.\n\nWhile the move helped reverse part of last week's global equity rout, the boost to mainland and Hong Kong shares was far more muted than the surge seen in South Korea, Japan and the United States.\n\nThe benchmark Hang Seng Index ended 164 points, or 0.7 percent, lower at 22,219 on turnover of HK$212.63 billion.\n\nThe tech index lost 41 points, or 1.2 percent, to end at 3,466 while the China enterprises index fell 75 points, or one percent, to 7,452.\n\nOn the mainland, the benchmark Shanghai Composite Index ended up nine points, or 0.27 percent at 3,548 after falling to its lowest since July 2025 on Monday, with traders saying state investors were buying some key index ETFs to lift the market.\n\nThe Shenzhen Component Index closed 30 points, or 0.29 percent, lower at 10,423 while the ChiNext edged down one points, or 0.05 percent, to 2,278.\n\nEven some of the AI-linked winners struggled to hold their gains.\n\nThe 5G Communication Index rose as much as seven percent in early trade before trimming its advance to 1.2 percent by market close, while Zhongji Innolight, an Nvidia supplier of optical transceivers, surged as much as 12 percent before giving up all of its gains.\n\n\"This is definitely a shot in the arm, as you can see from this morning's trading,\" said Zeng Wenkai, chief investment officer at Hong Kong-based Shengqi Capital.\n\n\"But A-shares and Hong Kong stocks follow their own patterns, independent of global markets, so it still comes down to how forcefully the 'national team' steps in to support the market this time,\" he said, referring to China's state-backed investors that buy stocks to stabilise markets.\n\nMainland stocks have fallen more than 10 percent this year, breaking a two-year rally that began when stimulus pledges sent shares soaring, and stalling Beijing's efforts to break a long-standing boom-bust cycle in favour of a \"slow bull\" market that delivers steady returns.\n\nRegulators have also moved to shore up sentiment, with China's three main exchanges announcing on Sunday a package of market-support measures, including easier margin-financing rules.\n\nZeng Wanping, a fund manager at Beijing Monolith Fund Management, said Huang's return would benefit Chinese firms in Nvidia's supply chain, but the United States would not relax chip controls against China.\n\n\"Huang's return was partly due to the Wall Street slump. It was not designed to rescue China's stock market,\" he said.\n\nThe tech-focused Star50 Index rose just 1.6 percent while memory-chip giant CXMT gained merely one percent.\n\nIn Tokyo, the Nikkei ended nearly 2,208 points, or 3.91 percent, at 58,644, with Nvidia-linked stock surges of 14.89 percent for Murata Manufacturing, 12.45 percent for Advantest and 11.54 percent for Furukawa Electric.\n\nThe broader Topix gained 90 points, or 2.47 percent, to end at 3,764.\n\nIn Seoul, the Kospi ended surged 297 points, or 6.32 percent, at 5,006, with Nvidia connections paying off in gains of 6.7 percent for Samsung Electronics, 6.73 percent for SK Hynix, 11.1 percent for Hyundai Motor, 15.9 percent for LG Electronics and 4.1 percent for e-commerce firm Naver. (Agencies)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T09:23:23.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879086-20261124.htm"
+    },
     {
       "id": "e44c84d247e385a3",
       "title": "Exiled PM targets December 16 for Bangladesh return",
@@ -1380,17 +1391,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/korea/2026/11/19/north-korea-russia-tourism-sanctions/"
-    },
-    {
-      "id": "379cc640c21cceee",
-      "title": "HK slips as Anthropic IPO to hold clue to AI sentiment",
-      "excerpt": "Asian equities were mixed and US stock futures rose on Thursday after Claude chatbot maker Anthropic scored the biggest initial…",
-      "fullText": "Asian equities were mixed and US stock futures rose on Thursday after Claude chatbot maker Anthropic scored the biggest initial public offering ever with an US$81 billion offering ahead of its market debut in a test for the artificial intelligence trade that has been under pressure in recent weeks.\n\nIn Hong Kong, the benchmark Hang Seng Index opened down 245 points, or 1.05 percent, at 23,049.\n\nThe China enterprises index slid 74 points, or 0.95 percent, to 7,762 while the tech index fell 36 points, or 0.97 percent, to 3,699.\n\nHigher north, the benchmark Shanghai Composite Index inched down four points, or 0.13 percent, to open at 3,583.\n\nThe Shenzhen Component Index fell 67 points, or 0.63 percent, to 10,591 while the ChiNext Index was down 0.93 percent at 2,290.\n\nIn Tokyo, the Nikkei opened less than a point up at 59,025 and was 136 points higher at one stage before lunch.\n\nIn Seoul, the Kospi rose 22 points, or 0.45 percent, to open at 5,090 before reversing direction to be 67 points lower at one stage before lunch.\n\nOn a fully diluted basis, Anthropic's IPO values the large language model maker, the first major frontier AI model developer to go public, at about US$1.5 trillion and its first-day trading will be scrutinised to gauge investor sentiment on the technology.\n\nKyle Rodda, senior financial market analyst at Capital.com, said it was going to be a huge test for the markets and it looked poised to be a really bullish listing.\n\n\"I don't think it's necessarily going to assuage all the fears about AI. I think much of that boils down to future investment growth... However, if the stock trades the way it looks like it will, it might calm the market a bit.\"\n\nInvestor confidence in AI has been shaken in the past few weeks on worries about the profitability of the technology and the massive debt needed to fund and build AI infrastructure.\n\nMarkets mostly shrugged off a strong forecast from chipmaker Nvidia this week as uncertainty caused by chief executive Jensen Huang's departure last week rattled investors. The company's board dismissed the idea of rehiring Huang.\n\nIn currencies, the dollar was on the front foot as hawkish comments from US Federal Reserve governor Christopher Waller bolstered expectations of an interest rate hike in December.\n\nWaller said on CNBC that if the central bank wanted to get inflation down it needed to take more \"aggressive action\" either through a half-point increase at the December meeting, or by using the post-meeting statement to set market expectations for further hikes.\n\nThe comments come after hotter-than-expected inflation data last week, leaving markets bracing for a rate hike. Traders are pricing in a 90 percent chance of a 25 basis points hike next month, the CME FedWatch tool showed.\n\n\"More hawkish Fed pricing has so far offset weakness in technology stocks, keeping the USD supported,\" OCBC strategists said in a note. \"Persistent inflation, further Fed tightening and elevated US yields suggest it is still too early to bet against the USD.\" (Agencies)\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T02:57:04.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878400-20261119.htm"
     },
     {
       "id": "dd915bdb9efdc871",
