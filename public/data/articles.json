@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T01:45:21.975Z",
-  "checkedAt": "2026-11-24T02:30:36.279Z",
+  "generatedAt": "2026-11-24T02:45:20.211Z",
+  "checkedAt": "2026-11-24T02:45:20.211Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "7fa3bda31e20acf1",
+      "title": "China to launch Shenzhou-24 crewed spaceship on Weds",
+      "excerpt": "The Shenzhou-24 crewed spaceship will launch at 8.18am on Wednesday morning from the Jiuquan Satellite Launch Centre, the China Manned…",
+      "fullText": "The Shenzhou-24 crewed spaceship will launch at 8.18am on Wednesday morning from the Jiuquan Satellite Launch Centre, the China Manned Space Agency (CMSA) announced on Tuesday.\n\nA Long March-2F carrier rocket, which will be used for the launch, will soon be filled with propellant, said Zhang Jingbo, the CMSA spokesperson, at a press conference.\n\nZhang also said 90 scientific experiments and technology tests were being planned for the Shenzhou-24 mission.\n\nThese will cover space life sciences, space material science, microgravity fluid physics and combustion science, fundamental physics, space medicine, and new space technologies.\n\nIn a first for the country's space programme, the Shenzhou-24 crew will include Pakistani astronaut Zeeshan Ali.\n\nThe Shenzhou-24 is the eighth crewed mission during the development stage of China's space station, and the 41st flight mission overall of China's manned space programme. (Xinhua)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T02:33:42.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879041-20261124.htm"
+    },
     {
       "id": "7c234fda88073ade",
       "title": "HK$630m new support measures for Wang Fuk Court",
@@ -1358,17 +1369,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878448-20261119.htm"
-    },
-    {
-      "id": "7ba1223ebee2b18c",
-      "title": "Xi, Trump hold talks in Shenzhen",
-      "excerpt": "Presidents Xi Jinping and Donald Trump opened talks in Shenzhen on Thursday afternoon, the third meeting between the leaders of…",
-      "fullText": "Presidents Xi Jinping and Donald Trump opened talks in Shenzhen on Thursday afternoon, the third meeting between the leaders of China and the United States this year.\n\nThe meeting on the sidelines of the Apec summit came shortly after Trump held one-on-one talks with his Russian counterpart Vladimir Putin.\n\nAnd the three leaders are set to hold a landmark trilateral meeting later in the afternoon.\n\n\"You are my friend and we have a very special relationship,\" Trump told Xi ahead of their talks.\n\n\"China-US relations have remained generally stable and improved, bringing tangible benefits to the people of both countries and injecting stability and certainty into the world,\" Xi said.\n\nThe meeting lasted roughly an hour, after which the two leaders and their delegations had lunch. (Agencies)\n_____________________________\nLast updated: 2026-11-19 HKT 15:40\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T05:52:20.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878432-20261119.htm"
     },
     {
       "id": "205fc07ddd4fc252",
