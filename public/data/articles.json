@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T04:45:19.992Z",
-  "checkedAt": "2026-11-24T05:00:30.689Z",
+  "generatedAt": "2026-11-24T05:15:19.775Z",
+  "checkedAt": "2026-11-24T05:15:19.775Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "28aa3c5ff7cafe62",
+      "title": "October visitor arrivals spike 12pc to 5.13m",
+      "excerpt": "Provisional visitor arrivals for October hit about 5.13 million, up 12 percent year on year, the Tourism Board said on…",
+      "fullText": "Provisional visitor arrivals for October hit about 5.13 million, up 12 percent year on year, the Tourism Board said on Tuesday, thanks to the National Day Golden Week, a series of mega events and festive celebrations.\n\n\"The National Day Golden Week, alongside mega events and festive celebrations such as the International Lantern Spectacular and the Hong Kong Wine & Dine Festival, as well as Mice (Meetings, Incentives, Conventions and Exhibitions) events, sports events and concerts held across the city, attracted a large number of visitors and helped stimulate tourism-related sectors, such as dining, retail and hospitality,\" it said.\n\nIn a statement, the board added that major exhibitions and events held in other Greater Bay Area cities also facilitated regional tourism and business exchanges.\n\nBy source market, mainland and long-haul markets continued to perform well, with arrivals from across the border reaching about 3.97 million, up 15 percent, and long-haul arrivals rising 19 percent.\n\nNew markets recorded growth of 37 percent, while short-haul markets fell 14 percent, which the board attributed to the Mid-Autumn Festival holiday falling in October last year and affecting the year-on-year comparison.\n\nIndia recorded significant growth, driven by long weekends and Mice events held in Hong Kong and elsewhere in the Greater Bay Area.\n\nFor the first 10 months of the year, cumulative visitor arrivals reached 45.8 million, up 12 percent year on year, reflecting continued steady growth of Hong Kong's tourism industry, the board said.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T05:01:11.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879054-20261124.htm"
+    },
     {
       "id": "7fe58ff9a6b43549",
       "title": "Hong Kong SAR's first astronaut set to return home",
@@ -731,17 +742,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878827-20261122.htm"
-    },
-    {
-      "id": "213a396ff2f54369",
-      "title": "Evening News on TV32 - Nov 22",
-      "excerpt": "Top stories for Sunday, Nov 22, 2026 - A car mounts the pavement in Tsim Sha Tsui, killing one person…",
-      "fullText": "Top stories for Sunday, Nov 22, 2026\n\n- A car mounts the pavement in Tsim Sha Tsui, killing one person and injuring another three.\n\n- Hong Kong holds its Election Committee Subsector Ordinary Elections.\n\n- Dozens of people are missing following a deadly factory fire in Indonesia.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T12:38:31.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878803-20261122.htm"
     },
     {
       "id": "0776aed07c5c2607",
