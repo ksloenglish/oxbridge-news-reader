@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T12:45:22.571Z",
-  "checkedAt": "2026-11-24T14:15:32.638Z",
+  "generatedAt": "2026-11-24T14:30:28.417Z",
+  "checkedAt": "2026-11-24T14:30:28.417Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "84474280ba362278",
+      "title": "Gleneagles Hospital reports patient data leak",
+      "excerpt": "Gleneagles Hospital Hong Kong (GHK) has reported an incident of data breach involving patient information. Health authorities said they were…",
+      "fullText": "Gleneagles Hospital Hong Kong (GHK) has reported an incident of data breach involving patient information.\n\nHealth authorities said they were notified by the private hospital in Wong Chuk Hang on Monday of unauthorised activity in the security infrastructure of its mobile application, My Gleneagles SmartHealth.\n\n\"According to GHK's notification, GHK discovered unauthorised activity involving the security infrastructure supporting its patient mobile application My Gleneagles SmartHealth on November 18, resulting in unauthorised access to the personal data of certain patient and others,\" a statement by the Health Bureau read.\n\n\"GHK indicated that it had engaged independent cybersecurity experts to conduct an investigation, reported the incident to the relevant law\nenforcement and regulatory authorities, and will notify the affected patients.\"\n\nIn a statement, Gleneagles said it had isolated the affected access route right away and taken the app offline as a precaution, adding that the incident was contained.\n\nThe Health Bureau said it has suspended the hospital's registration on the Electronic Health System (eHealth) following the leak.\n\nDuring the suspension, the hospital is unable to access or provide patients’ electronic health records, to ensure the eHealth system’s security and integrity.\n\nThe bureau said the GHK mobile application has no direct connection to eHealth, and that the eHealth system has maintained normal operation, with no evidence showing it has been compromised or any personal information has been leaked.\n\nAuthorities will determine if Gleneagles has contravened the Private Healthcare Facilities Ordinance or the Code of Practice for Private Hospitals, and take necessary actions.\n\nThe Department of Health has asked the hospital to submit a detailed investigation report within four weeks.\n\nThe department said it will continue to follow up on the case.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T14:16:29.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879119-20261124.htm"
+    },
     {
       "id": "53555b6665b34eaa",
       "title": "Evening News on TV32 - Nov 24",
@@ -720,17 +731,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878870-20261123.htm"
-    },
-    {
-      "id": "554438b10724f218",
-      "title": "Election Committee winners lay out hopes for CE",
-      "excerpt": "Some former senior officials and prominent business figures were among the 723 candidates elected to the Election Committee in contested…",
-      "fullText": "Some former senior officials and prominent business figures were among the 723 candidates elected to the Election Committee in contested subsectors on Sunday.\n\nTurnout reached nearly 99 percent, in a vote that Electoral Affairs Commission chairman David Lok said went \"very smoothly\" and which fully demonstrated the principles of openness, honesty and fairness.\n\nThose elected include former secretary for justice Rimsky Yuen, former secretary for food and health Sophia Chan, former secretary for innovation and technology Alfred Sit, and former secretary for development Eric Ma.\n\nBut former financial services and treasury chief KC Chan was defeated in the finance subsector.\n\nExecutive Council members Jeffrey Lam, Chan Kin-por, Margaret Leung and Ronny Tong also won.\n\nTong, who won a seat in the legal subsector, said the Northern Metropolis should be the next leader's top priority – as it will have the most direct impact on Hong Kong's economy. He also hopes to see more progress on public housing.\n\nHe said he will vote in the chief executive election on behalf of the people of Hong Kong.\n\nProminent business figures elected include Pacific Century Group founder Richard Li, Henderson Land chairman Martin Lee, Wharf chairman and managing director Stephen Ng and New World Development executive director Sonia Cheng.\n\nAnnie Yau Tse, chairwoman of the Hong Kong Retail Management Association, won in the wholesale and retail subsector. She said Hong Kong needs to develop its economy well, and she expects the next chief executive to have an international outlook, with love for the country and Hong Kong being the most important quality.\n\nJessie Yu, chairperson of the Hong Kong Association of Senior Citizens, won in the most competitive social welfare subsector.\n\nShe said she will gather public demands and push them to the policy level. With an ageing population, she says Hong Kong needs a long-term plan for older people – and hopes the next chief executive can improve coordination between policy bureaux, meet people's needs, and raise their sense of well-being.\n\nTwo subsectors were decided by drawing lots. In tourism, both James Wong and Ronald Wu received 61 votes, with Wong winning the draw. In architectural, surveying, planning and landscape, Bernard Lim and Robin Leung each received 27 votes, and Lim was elected after the draw.\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T22:45:35.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878868-20261123.htm"
     },
     {
       "id": "777689165b46b8f7",
