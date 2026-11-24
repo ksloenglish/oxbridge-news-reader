@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T14:30:28.417Z",
-  "checkedAt": "2026-11-24T14:30:28.417Z",
+  "generatedAt": "2026-11-24T14:45:30.408Z",
+  "checkedAt": "2026-11-24T14:45:30.408Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -379,6 +379,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261124/20261124_100847_817.html"
+    },
+    {
+      "id": "5c9fc667bc45cdd7",
+      "title": "Hospital suspended from eHealth",
+      "excerpt": "The Health Bureau said today that it had suspended the eHealth registration of Gleneagles Hospital Hong Kong (GHK) upon notification…",
+      "fullText": "The Health Bureau said today that it had suspended the eHealth registration of Gleneagles Hospital Hong Kong (GHK) upon notification by the hospital yesterday of unauthorised activity resulting in leakage of patients’ personal data.\n\nGHK notified the bureau’s Electronic Health Record Office (eHRO) that on November 18 it discovered unauthorised activity involving the security infrastructure supporting its patient mobile application, My Gleneagles SmartHealth, resulting in unauthorised access to personal data, including that of certain patients.\n\nThe bureau said it is highly concerned about the incident and immediately suspended GHK's eHealth registration.\n\nGHK indicated that it has engaged independent cybersecurity experts to conduct an investigation, as well as reporting the incident to the relevant law enforcement and regulatory authorities. It will also notify the affected patients.\n\nThe bureau stated GHK is a registered healthcare provider on eHealth, adding that the GHK mobile application concerned has no direct connection to the eHealth system.\n\nThe overall operation of eHealth has remained normal, and there is no evidence indicating that the eHealth system has been compromised or that any personal data within the system has been leaked.\n\nThe eHRO nevertheless decided to suspend GHK's eHealth registration, in view of its principles of prudence and risk management, and in order to safeguard the eHealth system's security and integrity.\n\nThe Government will examine the situation, looking in particular at potential risks to eHealth and any system security protection measures that can be adopted. It will also disseminate relevant security guidelines to registered healthcare providers on eHealth.\n\nThe Department of Health said it immediately sent staff to GHK to look into the incident after receiving the hospital's notification yesterday. It has asked the hospital to submit a detailed investigation report on the incident within four weeks.\n\nIt also urged GHK to notify all affected patients as soon as possible, and to take appropriate measures to ensure that the incident does not affect the hospital’s operations and clinical services.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261124/20261124_195121_838/images/20261124220730109.jpg",
+      "publishedAt": "2026-11-23T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261124/20261124_195121_838.html"
     },
     {
       "id": "8d227534f24e3cd1",
@@ -1061,17 +1072,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261121/20261121_193502_573.html"
-    },
-    {
-      "id": "f534a33f4b2ad203",
-      "title": "FS to visit UK and Netherlands",
-      "excerpt": "Financial Secretary Paul Chan will depart for a visit to the United Kingdom and the Netherlands late tonight. He will…",
-      "fullText": "Financial Secretary Paul Chan will depart for a visit to the United Kingdom and the Netherlands late tonight.\n\nHe will lead a delegation of over 20 members, comprising representatives of various government departments, public organisations and industry bodies, as well as leaders from the investment and innovation and technology (I&T) sectors, to enhance business and I&T exchanges between Hong Kong and the two places, promote opportunites in Hong Kong, and foster investment and collaboration.\n\nDuring their visit to the UK from November 22 to 25, the delegation will visit the University of Cambridge and attend a dialogue on innovation co-organised by the Hong Kong Trade Development Council (HKTDC) and the university.\n\nThey will also visit the university's innovation commercialisation arm and the research and development centre of a biopharmaceutical company. In London, they will attend the plenary session of the Hong Kong-Europe Business Council, a lunch hosted by the Hong Kong Association, and a Hong Kong Dinner organised by the HKTDC.\n\nMr Chan will also meet with local business, financial and think tank leaders, and attend a financial sector roundtable while in the UK capital.\n\nDuring their visit to the Netherlands from November 25 to 28, the delegation will stop in Amsterdam, The Hague and Eindhoven to visit various I&T companies, parks and hubs. They will also participate in a number of business lunches to brief various sectors of the local community on developments in Hong Kong.\n\nIn addition, Mr Chan will meet local political, business, financial and think tank leaders, and attend a number of roundtable meetings and exchange sessions.\n\nHe will arrive back in Hong Kong on the morning of November 29. During his absence, Deputy Financial Secretary Michael Wong will be Acting Financial Secretary.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261121/20261121_124800_209/images/20261121135736657.jpg",
-      "publishedAt": "2026-11-20T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261121/20261121_124800_209.html"
     },
     {
       "id": "cbd0a1dbe53982ec",
