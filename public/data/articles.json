@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T10:15:23.301Z",
-  "checkedAt": "2026-11-24T11:45:20.664Z",
+  "generatedAt": "2026-11-24T12:00:32.377Z",
+  "checkedAt": "2026-11-24T12:00:32.377Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "98d3025bc8346358",
+      "title": "7.9pc increase in HK Electric tariffs, 1.8pc for CLP",
+      "excerpt": "The people of Hong Kong will have to dig deeper into their pockets for electricity starting January. Presenting the annual…",
+      "fullText": "The people of Hong Kong will have to dig deeper into their pockets for electricity starting January.\n\nPresenting the annual tariff review at a Legco panel meeting on Tuesday, HK Electric, which supplies electricity to Hong Kong Island and Lamma Island, said its net tariff will climb by 7.9 percent.\n\nCLP Power – which serves Kowloon, the New Territories and most outlying islands – will increase its charges by 1.8 percent.\n\nThe tariff hikes mean about 12.9 cents more per unit of electricity for HK Electric customers compared with this year, and an additional 2.6 cents for CLP Power households.\n\nSecretary for Environment and Ecology Tse Chin-wan noted that the gap in tariffs between the two power firms was widening due to rising international fuel prices since the start of the Middle East conflict earlier this year, describing it as a structural issue.\n\nThe government is determined to address it, Tse added.\n\n“For HK Electric, the market is smaller. There is not a scalable effect. In terms of fuel mix, unlike the CLP – they have nuclear power – HK Electric relies completely on fossil fuel, so they are particularly vulnerable to the surge in fuel cost,” he said.\n\n“We will try to stabilise the tariff in the long run and also reduce the gap between the prices between the two companies.”\n\nTse also said the government will no longer allow the utility firms to build new fossil fuel energy generators.\n\nInstead, the firms will construct large-scale electricity facilities at Area 132 in Tseung Kwan O to obtain zero-carbon electricity from the mainland.\n\nAlan Ng, CLP's senior director of planning and development, said the firm has already allocated HK$250 million from its Community Energy Saving Fund to assist the underprivileged, promote energy saving and decarbonisation, and enhance buildings’ energy efficiency and electrical safety.\n\nHK Electric’s general manager Bill Ho said he expects the fuel market to continue to fluctuate, adding that price trends would be hard to predict.\n\nThe firm will try its best to make sure fuel supply would be sufficient and reliable, he added.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T11:49:37.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879110-20261124.htm"
+    },
     {
       "id": "326076aa5917fe1b",
       "title": "HK, mainland slip amid cheer at Huang shot in the arm",
@@ -797,17 +808,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878831-20261122.htm"
-    },
-    {
-      "id": "c1038eb0db77f679",
-      "title": "Solar Ambassadors experience Disney magic",
-      "excerpt": "Youngsters taking part in RTHK's flagship youth initiative had the opportunity to broaden their horizons when they visited Hong Kong…",
-      "fullText": "Youngsters taking part in RTHK's flagship youth initiative had the opportunity to broaden their horizons when they visited Hong Kong Disneyland on Saturday.\n\nAbout 70 participants of the Solar Project 2026 met face-to-face with performing arts professionals.\n\nFiona Yu, production director, entertainment, Hong Kong Disneyland Resort and preforming arts professionals of entertainment, said the Solar Ambassadors learned the day-to-day work of the professionals, such as stage production and project planning.\n\nOne of the programme participants, Koleman Luk from Ying Wa College, said the activity offered a valuable perspective beyond the classroom, illustrating how good performances are the result of meticulous planning, rigorous rehearsal and seamless coordination among departments.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T13:54:05.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878827-20261122.htm"
     },
     {
       "id": "0776aed07c5c2607",
