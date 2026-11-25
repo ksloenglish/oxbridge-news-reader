@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T03:45:22.552Z",
-  "checkedAt": "2026-11-25T03:45:22.552Z",
+  "generatedAt": "2026-11-25T04:00:35.767Z",
+  "checkedAt": "2026-11-25T04:00:35.767Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "ba5bb381a0819bc4",
+      "title": "'Bid-rigging task force proves powerful deterrent'",
+      "excerpt": "Security Secretary Chris Tang on Wednesday said the joint task force on bid-rigging is already proving a powerful deterrent —…",
+      "fullText": "Security Secretary Chris Tang on Wednesday said the joint task force on bid-rigging is already proving a powerful deterrent — as he warned of a new tactic in which syndicates fabricate repair orders to pressure owners into unnecessary works.\n\nSpeaking on an RTHK radio programme, Tang said investigators found some syndicates no longer wait for a statutory repair order to be issued.\n\nInstead, they simply tell owners that one has been served and that they must act immediately or risk breaking the law when in fact no such order exists.\n\nBy controlling owners' corporations and property management companies, they prey on owners who lack the technical know-how to verify the claim, he said.\n\nHe urged owners to take a greater interest in building maintenance matters — and to check the Buildings Department website to see whether a repair order has actually been issued for their building.\n\nTang said officers have been attending owners' corporation meetings, sometimes in plain clothes, which makes those linked to syndicates become \"restrained\".\n\n\"We take proactive outreach, attending owners' corporation meetings. On one hand, we can gather relevant intelligence; on the other, it serves as a deterrent,\" he said.\n\nTang also revealed that investigators had found some professionals colluding with syndicates, signing off without inspection, and one consultant handling as many as 90 projects at once.\n\nOn the anti-bid-rigging hotline, he said reports have come from owners and professionals unwilling to collude, calling its effectiveness \"significant\".\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T03:41:10.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879181-20261125.htm"
+    },
     {
       "id": "edc6cb65f4d3bdc0",
       "title": "'HK backs advancement of digital tech in global trade'",
@@ -808,17 +819,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878899-20261123.htm"
-    },
-    {
-      "id": "001674b48afd0d80",
-      "title": "'Longer approval time worth it for major projects'",
-      "excerpt": "A development official on Monday said the approval process for major building maintenance works is expected to take longer than…",
-      "fullText": "A development official on Monday said the approval process for major building maintenance works is expected to take longer than before.\n\nIt comes as the government proposes a new regulated category for large-scale maintenance, requiring authorities' permission before work can start.\n\nIt's part of a series of reforms to improve safety standards in the sector following the Wang Fuk Court fire last year.\n\nSpeaking on an RTHK programme, Permanent Secretary for Development of Planning and Lands Doris Ho said a longer approval process would also have its benefits.\n\n“When we ask professionals to submit plans, we want them to undergo a clear thought process,” she said.\n\n“For a project of a certain scale, should it be carried out in phases? If so, how can they ensure fire safety? These are key areas of the project and are worth taking time to think through properly.”\n\nBut she said housing authorities would finish the approval process in a reasonable timeframe, with the goal of completing the procedure within 45 days following the submission of all required documents.\n\nHo noted that the tightened regulation might lead to an inevitable rise in building maintenance costs.\n\n“When designing the whole amendment, we hoped to introduce certain elements to the system to improve competition in the maintenance market,” she said.\n\n“If there is competition, we believe prices would be kept at a reasonable level.”\n\nHo added that authorities would offer discounts to encourage homeowners to use the service provided by the new Building Maintenance Support and Services Council.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T03:32:46.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878901-20261123.htm"
     },
     {
       "id": "8d3e5999e549ecba",
