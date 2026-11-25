@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T12:15:21.258Z",
-  "checkedAt": "2026-11-25T12:30:25.664Z",
+  "generatedAt": "2026-11-25T12:42:40.115Z",
+  "checkedAt": "2026-11-25T12:42:40.115Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -445,6 +445,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261125/20261125_184527_288.html"
+    },
+    {
+      "id": "e65ba6ed19e481fe",
+      "title": "LCSD follows up on URBTIX incident",
+      "excerpt": "The Leisure & Cultural Services Department confirmed today that, as reported by the URBTIX system contractor yesterday, the system was…",
+      "fullText": "The Leisure & Cultural Services Department confirmed today that, as reported by the URBTIX system contractor yesterday, the system was illegally accessed in a hacking incident.\n\nUpon discovering the incident, the contractor said it took immediate measures to stop the hack and reviewed the system to ensure its normal operation.\n\nThe URBTIX system was developed and is owned by the contractor at its own cost. It mainly provides ticketing services for the department's performance venues.\n\nPreliminary findings suggest that the incident involves the personal data of around 1,300,000 users, including usernames or names, telephone numbers and email addresses. The system does not collect information on users' identity documents and masks credit card information.\n\nThe department said it is highly concerned about the incident and has asked the contractor to conduct a detailed investigation and submit a report. It has also reported the matter to the Police Force, the Security Bureau, the Digital Policy Office (DPO) and the Office of the Privacy Commissioner for Personal Data (PCPD).\n\nAdditionally, the department and the contractor are making arrangements to inform people affected. The department is also consulting the PCPD and the DPO in conducting a comprehensive review of the incident with the contractor, with a view to strengthening protection measures for the system and preventing the recurrence of similar incidents.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261125/20261125_194241_650/images/20261125200737684.jpg",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261125/20261125_194241_650.html"
     },
     {
       "id": "f34a39b74e047240",
@@ -1050,17 +1061,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261123/20261123_180600_733.html"
-    },
-    {
-      "id": "eed478166350aeb1",
-      "title": "Civil servant exchanges begin",
-      "excerpt": "Secretary for the Civil Service Ingrid Yeung today met 30 Mainland civil servants starting placements across Hong Kong Special Administrative…",
-      "fullText": "Secretary for the Civil Service Ingrid Yeung today met 30 Mainland civil servants starting placements across Hong Kong Special Administrative Region Government departments lasting between four weeks and three months.\n\nThe officers are taking part in the Civil Service Exchange Programme, jointly organised by the Hong Kong SAR Government and Mainland cities in the Guangdong-Hong Kong-Macao Greater Bay Area, alongside Beijing, Shanghai, Chongqing, Wuhan and Hangzhou.\n\nSpeaking at the opening ceremony, Mrs Yeung noted that both Hong Kong’s First Five-Year Plan and September’s Policy Address outline measures to strengthen the civil service system and enhance public governance.\n\nShe said the exchange programme places Mainland and Hong Kong civil servants in each other’s administrations to gain first-hand experience of local governance philosophies and daily operations. By applying these lessons, both sides can foster a people-oriented culture that values performance.\n\nMrs Yeung added that the initiative also encourages Hong Kong civil servants to explore how the city’s unique strengths can deepen cross-sector co-operation with the Mainland and support national development.\n\nThe 30 Mainland participants – mostly at division director level – hail from Beijing, Shanghai, Chongqing, Wuhan, Hangzhou, Shenzhen and Guangzhou. Ten come from Shenzhen and Guangzhou combined, while the remaining five cities each sent four representatives.\n\nFollowing a one-week orientation at the Civil Service College, the officers will be posted to various departments for in-depth exchanges with local counterparts. Host offices include the Department of Justice, the Department of Health, the Digital Policy Office, the Environmental Protection Department, the Innovation & Technology Commission, Invest Hong Kong, the Planning Department, the Trade & Industry Department and the Monetary Authority.\n\nCo-ordinated by the State Council’s Hong Kong & Macao Affairs Office, the Civil Service Bureau has run the programme with Mainland municipalities since 2002, with more than 650 officers from both sides taking part to date.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261123/20261123_123756_863/images/20261123141654821.jpg",
-      "publishedAt": "2026-11-22T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261123/20261123_123756_863.html"
     },
     {
       "id": "f67b63b802bd4b77",
