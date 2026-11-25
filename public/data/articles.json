@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T00:00:29.813Z",
-  "checkedAt": "2026-11-25T00:00:29.813Z",
+  "generatedAt": "2026-11-25T00:15:25.033Z",
+  "checkedAt": "2026-11-25T00:15:25.033Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -115,6 +115,17 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879152-20261125.htm"
+    },
+    {
+      "id": "b6529541dff08d18",
+      "title": "'Mystery substance at concert may be linked to thefts'",
+      "excerpt": "The release of an \"unknown substance\" that led to the evacuation of a concert at the UK's largest indoor arena…",
+      "fullText": "The release of an \"unknown substance\" that led to the evacuation of a concert at the UK's largest indoor arena may be linked to jewellery thefts, police said on Tuesday.\n\nSome 12,000 people were attending the Sunday night show by US rapper Don Toliver at the Co-op Live arena in Manchester, north-west England, when the incident occurred, causing adverse effects in 89 members of the audience.\n\nManchester police said they were \"exploring the possibility that release of the substance could be linked to reports of a small number of robbery offences at the arena on Sunday evening.\"\n\n\"We received nine reports of jewellery being stolen during the same concert,\" it said.\n\n\"We are aware similar robberies have been reported at two European concerts for the same artist and will be linking in with our European counterparts to better understand the wider picture of this suspected offending,\" said Tom Harding, the deputy chief constable of the police force, quoted in the statement.\n\nDon Toliver, who was nominated for five Grammy Awards last week, has around 45 million monthly listeners on Spotify. (AFP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-24T23:36:26.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879142-20261125.htm"
     },
     {
       "id": "95194ed74ed635e9",
@@ -852,17 +863,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878873-20261123.htm"
-    },
-    {
-      "id": "d33f93c7813a9f1c",
-      "title": "Talks end without deal on new Israel government",
-      "excerpt": "The parties of caretaker Israeli prime minister Benjamin Netanyahu and his rival Gadi Eisenkot concluded a new round of talks…",
-      "fullText": "The parties of caretaker Israeli prime minister Benjamin Netanyahu and his rival Gadi Eisenkot concluded a new round of talks on Sunday without reaching an agreement on a possible coalition government, which would require concessions from both sides.\n\nDelegations from Eisenkot's Yashar party and Netanyahu's Likud met for four hours at a hotel in Herzliya, near Tel Aviv, following a first round of discussions last Sunday.\n\n\"The latest round of coalition talks... has concluded. The two sides outlined their positions on a range of substantive issues and discussed them in detail,\" the two parties said in a joint statement.\n\n\"A follow-up meeting will be held,\" they added, without specifying a date or revealing any other details.\n\nA former army chief of staff, Eisenkot has until December 6 to form a government, with the possibility of a 14-day extension, after October elections failed to give either camp an absolute majority.\n\nHis 48-member bloc, which needs 61 lawmakers to reach a majority, remains divided over whether to build a coalition through an alliance with ultra-Orthodox parties, a rapprochement with Arab parties, or a national unity government with Likud.\n\nNetanyahu is pushing for a national unity government, which could see a rotation of the premiership between the two men, a mechanism already tried in Israel.\n\nSuch an arrangement could allow Netanyahu to keep his political protection against the corruption charges he faces, as well as continue to oppose the creation of an independent commission of inquiry into the security failures that preceded the Hamas attack of October 7, 2023.\n\nBut that prospect runs up against Eisenkot's refusal to serve in a cabinet led by Netanyahu, against whom he centred his campaign.\n\nHis ally Naftali Bennett, a former prime minister, also reiterated on Saturday his refusal to join a coalition with \"Netanyahu or his bloc, under any circumstances\".\n\nOn Saturday, Yashar presented the resumption of talks as \"a genuine commitment to forming the broadest possible government\", saying that Eisenkot had asked his representatives to explore all options.\n\nBut Likud immediately laid down several conditions for its participation in a unity government, a formula backed by Netanyahu.\n\nAmong other things, it demands an end to \"all personal attacks and incitement to hatred\" targeting Netanyahu and his government.\n\nIt also called for bringing together \"all the parties that support the existence of the State of Israel as the nation-state of the Jewish people\", without the participation of Arab parties.\n\nNetanyahu and his allies regularly target Arab parties, which secured a record 19 seats in the legislature and are opposed to Netanyahu remaining in power.\n\nLikud is also demanding agreement on several major policy positions, notably rejecting the creation of a Palestinian state, maintaining Israeli control over territories in Syria, Lebanon and the Gaza Strip.\n\nIt is also pushing for a compromise on conscription of ultra-Orthodox Jews, a particularly sensitive issue in Israel. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T23:31:25.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878871-20261123.htm"
     },
     {
       "id": "01b876d20ce6ab3e",
