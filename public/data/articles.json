@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T10:15:20.806Z",
-  "checkedAt": "2026-11-25T11:00:35.721Z",
+  "generatedAt": "2026-11-25T11:15:21.857Z",
+  "checkedAt": "2026-11-25T11:15:21.857Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -403,6 +403,17 @@
       "link": "https://www.news.gov.hk/eng/2026/11/20261125/20261125_104625_709.html"
     },
     {
+      "id": "3fe343cc9225e0f9",
+      "title": "CE visits Wang Fuk Court residents",
+      "excerpt": "Chief Executive John Lee recently visited residents affected by the Wang Fuk Court fire in Tai Po who are temporarily…",
+      "fullText": "Chief Executive John Lee recently visited residents affected by the Wang Fuk Court fire in Tai Po who are temporarily staying in Aberdeen to check on their well-being and the progress of their new housing arrangements. He was joined on last Saturday’s visit by Secretary for Home & Youth Affairs Alice Mak and Secretary for Labour & Welfare Chris Sun.\n\nResidents from two households who expect to move into their new units next month told Mr Lee the properties suited their needs. They added that moving in earlier had greatly eased their minds.\n\nThey thanked the Government for its help, including support from the “one social worker per household” scheme and the District Services & Community Care Teams with financial assistance, document replacement and medical arrangements. They also backed the Government’s push for systemic reforms and its fight against bid-rigging.\n\nMr Lee said the Government is deeply saddened by the suffering caused by the fire and will continue to do everything possible to support Wang Fuk Court residents.\n\n“Through the ‘one social worker per household’ mechanism and the Care Teams, we will continue to follow up comprehensively on residents’ needs in relation to supplies, medical care, emotional support and assistance in choosing new accommodation. We will continue to stand by the residents and provide them with appropriate support to help them start a new life,” he said.\n\nMr Lee reiterated that the Government is speeding up long-term housing plans to help residents rebuild their lives quickly. At the same time, it is amending six laws to close loopholes in building maintenance and renovation works so similar incidents do not happen again.\n\nHe stressed that these legal changes will stop criminals and syndicates from exploiting building maintenance and renovation projects for unlawful gain. This will address public concerns about fraud in building repairs.\n\nThe Chief Executive has instructed officials to put residents first, review every stage of building maintenance and renovation and swiftly finish drafting the legislative amendments for the Legislative Council’s scrutiny to strengthen regulation.\n\nThe Government also thanked the Tung Wah Group of Hospitals for offering free legal services to help with property purchase matters.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261125/20261125_162513_250/images/20261125175422518.jpg",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261125/20261125_162513_250.html"
+    },
+    {
       "id": "a2f86bf9f001108f",
       "title": "Drug formulary to launch on Dec 30",
       "excerpt": "The Health Bureau announced today that the Community Drug Formulary (CDF) will be launched on December 30. From that date…",
@@ -412,6 +423,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261125/20261125_141422_158.html"
+    },
+    {
+      "id": "f34a39b74e047240",
+      "title": "Bill passed for half-rate trading tax",
+      "excerpt": "The Government has welcomed the Legislative Council’s passage today of the Inland Revenue (Amendment) (Tax Concessions for Shipping-related Activities &…",
+      "fullText": "The Government has welcomed the Legislative Council’s passage today of the Inland Revenue (Amendment) (Tax Concessions for Shipping-related Activities & Physical Commodity Trading) Bill 2026, which introduces a new half-rate profits tax concession for physical commodity trading and enhances existing tax concessions for shipping-related activities.\n\nThe amendment ordinance will be published in the Government Gazette on December 4. The relevant tax concessions will apply to qualifying profits from years of assessment beginning on or after April 1, 2025.\n\nThe new half-rate profits tax concession for physical commodity trading is designed to attract commodity traders to establish a presence in Hong Kong. Where a qualifying trader has incurred expenditure on “specified maritime services”, a certain proportion of such expenditure is required to be spent on Hong Kong service providers, thereby promoting the development of the local maritime services ecosystem.\n\nIn response to the evolving international tax landscape under the Base Erosion and Profit Shifting 2.0 framework formulated by the Organisation for Economic Co-operation & Development, the Government’s amendment ordinance introduces an additional 15% concessionary rate under existing preferential tax regimes for shipping-related activities, to ease compliance costs for eligible multinational enterprises.\n\nThe bill also introduces tax deduction arrangements aligned with international tax standards, thereby preserving the competitiveness of Hong Kong’s tax regimes. Commodity traders under the new regime are also offered the abovementioned additional 15% concessionary tax rate option.\n\nThe Government highlighted that it is pressing ahead with the “volume to value” transformation of the Hong Kong Port, as set out in the National 15th Five-Year Plan and Hong Kong's First Five-Year Plan.\n\nIt added that it is developing the city into a global maritime capital in all respects, anchored by the dual-core strategy of “enhancing port competitiveness” and “optimising the high value-added maritime services ecosystem”. It considers a favourable tax regime a core pillar and key source of competitiveness, and essential for sustaining the growth momentum of the city’s high value-added maritime services industry.\n\nThe Government said it will actively promote the new tax concession locally and overseas. To help the industry understand the new requirements, the Inland Revenue Department will issue guidance and maintain close communication with stakeholders to provide technical support and address enquiries.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261125/20261125_165105_536/images/20261125183627335.jpg",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261125/20261125_165105_536.html"
     },
     {
       "id": "ed9a4078c1858e2d",
@@ -1127,28 +1149,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878740-20261122.htm"
-    },
-    {
-      "id": "930ceb8512e09ffc",
-      "title": "CE congratulates poll winners",
-      "excerpt": "Chief Executive said today's 2026 Election Committee Subsector Ordinary Elections demonstrated healthy competition among committed, competent and constructive patriots, as…",
-      "fullText": "Chief Executive said today's 2026 Election Committee Subsector Ordinary Elections demonstrated healthy competition among committed, competent and constructive patriots, as the results of the poll were announced.\n\nIn a statement, Mr Lee said the elections exemplified the positivity of democratic development under the principle of \"patriots administering Hong Kong\". He extended his congratulations to all candidates returned to the Election Committee on behalf of the Government of the Hong Kong Special Administrative Region.\n\nMr Lee iterated that the Election Committee, comprising 1,500 members from 40 subsectors, is broadly representative and embodies the principle of balanced participation. He said the committee shoulders important statutory functions under Hong Kong's improved electoral system, in adherence with the principle of \"patriots administering Hong Kong\".\n\nIn today's elections, 31 of 36 subsectors were contested, with a total of 856 validly nominated candidates competing for 723 seats.\n\nMr Lee said that from the beginning of the nomination period, candidates from different subsectors had actively engaged with organisations and voters in their respective subsectors to present their platforms, share their visions, exchange views, build consensus and rally support.\n\nThe new five-year term of the Election Committee will commence on February 1 next year. The Chief Executive said he expects that, in accordance with the principle of \"patriots administering Hong Kong\", all Election Committee members will fulfil their duties diligently and responsibly, and contribute to the steady and sustained implementation of the \"one country, two systems\" principle.\n\nHe thanked voters for casting their votes and electing \"the best among the best as their preferred patriots\", thereby supporting Hong Kong's development, including the implementation of the city's First Five-Year Plan.\n\nMr Lee also extended his gratitude to the Electoral Affairs Commission and all government and non-government personnel involved in organising the elections for their dedicated efforts in ensuring that polling was conducted smoothly and in a fair, just, honest, safe and orderly manner.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261122/20261122_225749_341/images/20261123005331616.jpg",
-      "publishedAt": "2026-11-21T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261122/20261122_225749_341.html"
-    },
-    {
-      "id": "e8119a8c38d435da",
-      "title": "Vote count completed",
-      "excerpt": "A total of 5,640 voters cast their votes in today’s 2026 Election Committee Subsector Ordinary Elections, representing a turnout rate…",
-      "fullText": "A total of 5,640 voters cast their votes in today’s 2026 Election Committee Subsector Ordinary Elections, representing a turnout rate of 98.79%, the Electoral Affairs Commission (EAC) announced.\n\nPolling closed at 6pm and the counting of votes was completed at 10.15pm.\n\nEAC Chairman David Lok said today's polling and counting processes had gone smoothly, that the election adhered to the principles of openness, honesty and fairness, and that the EAC was satisfied with the electoral arrangements that were implemented.\n\nAs prescribed by the law, the EAC will submit a report on all aspects of the electoral arrangements to the Chief Executive.\n\nThe final register of the Election Committee will be published on February 1 next year, in accordance with the law.\n\nClick here to view the results of the 2026 Election Committee Subsector Ordinary Elections.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261122/20261122_225414_935/images/20261122235523177.jpg",
-      "publishedAt": "2026-11-21T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261122/20261122_225414_935.html"
     },
     {
       "id": "166b1fd60007387a",
