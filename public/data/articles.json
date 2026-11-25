@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T04:00:35.767Z",
-  "checkedAt": "2026-11-25T05:00:29.820Z",
+  "generatedAt": "2026-11-25T05:15:20.059Z",
+  "checkedAt": "2026-11-25T05:15:20.059Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "6f5c02ee09f7daa0",
+      "title": "Consumer Council urged to improve complaints handling",
+      "excerpt": "The city's auditor has called on the Consumer Council to improve its handling and processing of public complaints and enquiries…",
+      "fullText": "The city's auditor has called on the Consumer Council to improve its handling and processing of public complaints and enquiries.\n\nIn its latest report published on Wednesday, the Audit Commission noted that between the 2021-22 and 2025-26 financial years, the watchdog failed to meet several key performance indicators, including targets to provide preliminary written replies within five working days for all complaints, and within 10 working days for written enquiries.\n\nThe auditor added that the council also fell short of its 67 percent complaint resolution rate target in four out of the five years.\n\nOver the five-year period, the council received nearly 175,000 complaints, with around 87,500 closed as of the end of June this year.\n\nMore than 6,900 closed complaints took over four months to process, with the longest case taking nearly 40 months to conclude.\n\nIn a sample of 30 cases that took longer than four months to process, staff missed monthly progress updates in 21 instances, taking an average of 4.4 months between updates.\n\nThe report further found low usage rates at the council's North Point and Tsim Sha Tsui service centres, which handled just three percent of all complaints and six percent of enquiries, leaving 23 to 28 percent of visitor timeslots unoccupied.\n\nIn addition, the audit pointed out that only one percent of the 5,903 traders involved in some 19,000 complaints filed through the council's electronic complaint-handling platform had registered on the system, which launched in November 2025.\n\nThe online platform was designed to speed up dispute resolution through features like online dispute resolution chatrooms and form submission assistance.\n\nAmong other issues raised, the auditor said the watchdog failed to meet its estimated figures for product tests conducted in four of the five years and for in-depth consumer surveys in two of the five years.\n\nThe commission also urged the Consumer Council to take measures to reduce staff turnover, saying 30 to 54 staff members departed each year between 2021 and 2025.\n\nThe report noted that both the Secretary for Commerce and Economic Development and the Consumer Council agreed with the audit recommendations.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T05:05:08.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879191-20261125.htm"
+    },
     {
       "id": "ba5bb381a0819bc4",
       "title": "'Bid-rigging task force proves powerful deterrent'",
@@ -808,17 +819,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878912-20261123.htm"
-    },
-    {
-      "id": "6e4b927d2a07f7f0",
-      "title": "Upcoming Interpol event 'a vote of confidence in HK'",
-      "excerpt": "The upcoming Interpol annual event that will be hosted by Hong Kong for the first time is a vote of…",
-      "fullText": "The upcoming Interpol annual event that will be hosted by Hong Kong for the first time is a vote of confidence by international law enforcement, Police Commissioner Joe Chow said on Monday.\n\nThe Interpol general assembly will take place in the city between November 30 and December 3.\n\nSpeaking on RTHK’s Backchat programme, Chow said the event marked the third time that the country is hosting the assembly.\n\n\"This assembly reinforces Hong Kong’s role as a connected, outward-looking city and a responsible member of the global law enforcement family,\" he said.\n\n\"At the same time, it also sends a clear message that Hong Kong is open, Hong Kong is safe, where we enjoy a low crime rate, and Hong Kong is ready to work with partners around the world.\"\n\nChow noted the conference was crucial to global law enforcement cooperation as strategic frameworks that directly determine the direction and efficiency of combating transnational crime would be set out during the event.\n\nHe said preparatory work, including numerous drills and exercises targeting aspects such as traffic coordination and Wi-Fi load tests, started three years ago to ensure the conference – which gathers around 1,000 delegates – would run smoothly and safely while causing minimal disruptions to the public.\n\nThe event, Chow said, would allow the local police force to step up cooperation with Interpol members as more than 100 bilateral meetings between member jurisdictions are scheduled.\n\n\"We will also seize the opportunity to meet our old and new international partners through bilateral meetings to strengthen cross-jurisdictional cooperation and build new contacts,\" he said.\n\n\"We also want to deepen collaboration with the Interpol on training and capacity building.\"\n\nChow expects an agreement or a memorandum of understanding to be signed during the conference.\n\nWhile the event agenda had yet to be finalised, he said key topics would include global fraud, transnational organised crime and artificial intelligence-enabled crime.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T03:48:53.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878899-20261123.htm"
     },
     {
       "id": "8d3e5999e549ecba",
