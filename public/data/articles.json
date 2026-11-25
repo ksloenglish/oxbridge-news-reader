@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T13:00:48.682Z",
-  "checkedAt": "2026-11-25T13:15:25.502Z",
+  "generatedAt": "2026-11-25T13:30:25.124Z",
+  "checkedAt": "2026-11-25T13:30:25.124Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "57d701cd9059eae9",
+      "title": "Data of 1.3 million URBTIX users compromised in attack",
+      "excerpt": "The government's Urban Ticketing System (URBTIX) has been hacked, with the personal data of some 1.3 million users accessed illegally…",
+      "fullText": "The government's Urban Ticketing System (URBTIX) has been hacked, with the personal data of some 1.3 million users accessed illegally.\n\nAuthorities were notified of the incident on Tuesday by a contractor responsible for running URBTIX.\n\nLaunched in 1984, the system provides ticketing services for performance venues managed by the Leisure and Cultural Services Department (LCSD).\n\nThe contractor, Tianjin Maoyan Weying Technology Co. (Maoyan), won a tender to design and operate the current system, which launched in December 2022.\n\nIn a statement, the LCSD said preliminary findings showed the personal data of around 1.3 million users, including their names, phone numbers and email addresses, were compromised.\n\nBut it said the system did not collect information on users' identity documents and would mask their credit card information.\n\n\"Upon discovery of the incident, the contractor took immediate measures to stop the hacking and seriously reviewed the system to confirm its normal operation,\" the department said.\n\nIt added that it has since notified the police, the Security Bureau, the Digital Policy Office (DPO) and the Office of the Privacy Commissioner for Personal Data (PCPD).\n\n\"The LCSD is also consulting the PCPD and the DPO in conducting a comprehensive review of the incident with the contractor, with a view to further strengthening the protection measures for the URBTIX system to prevent the recurrence of similar incidents,\" the statement read.\n\nMaoyan has been asked to carry out an investigation and submit a report, while arrangements are being made to inform affected users.\n\nEdited by Raymond Yeung",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T13:11:07.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879255-20261125.htm"
+    },
     {
       "id": "d5f15172235116f6",
       "title": "Evening News on TV32 - Nov 25",
@@ -863,17 +874,6 @@
       "source": "Fox News — Tech",
       "sourceFeed": "fox-news-tech",
       "link": "https://www.foxnews.com/tech/google-ai-smartwatch-could-flag-high-blood-pressure"
-    },
-    {
-      "id": "520f764bf134ebf2",
-      "title": "Evening News on TV32 - Nov 23",
-      "excerpt": "Top stories for Monday, Nov 23, 2026 - Police chief Joe Chow says an upcoming Interpol event is a vote…",
-      "fullText": "Top stories for Monday, Nov 23, 2026\n\n- Police chief Joe Chow says an upcoming Interpol event is a vote of confidence in Hong Kong.\n\n- Former legislator Chan Kin-por is set to take over the reins at the Hospital Authority.\n\n- China says it's disappointed no deal was reached at COP31.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T12:34:50.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878976-20261123.htm"
     },
     {
       "id": "e39f8eb6d9853f4c",
