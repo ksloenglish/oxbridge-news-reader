@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T02:00:45.547Z",
-  "checkedAt": "2026-11-25T02:00:45.547Z",
+  "generatedAt": "2026-11-25T02:15:21.311Z",
+  "checkedAt": "2026-11-25T02:15:21.311Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -95,10 +95,21 @@
   ],
   "articles": [
     {
+      "id": "695e6598b4e28022",
+      "title": "Armed men release 10 hostages in Colombia stand-off",
+      "excerpt": "Armed men are still holding hostage at least 20 people after releasing 10 from a supermarket in the Colombian city…",
+      "fullText": "Armed men are still holding hostage at least 20 people after releasing 10 from a supermarket in the Colombian city of Cartagena, President Abelardo De La Espriella and national police said.\n\nThe hostages were seized by a group of armed men holed up in a branch of the Exito chain following a swift police response to their failed bid to hijack an armored car ferrying cash from a mall, De La Espriella said.\n\nImages showed a crowd of heavily armed military and police outside the store in the La Castellana neighbourhood of Cartagena, where the walled colonial historic district is a tourist attraction.\n\n\"All of our human, technological, and specialised resources are deployed, under inter-agency coordination, to protect the citizens who remain inside the store and secure their safe release,\" police said on social media.\n\nOfficials gave no immediate details about the identities of the hostage-takers or the hostages.\n\n\"I guarantee the Colombian people that we will free those people,\" De La Espriella said.\n\nHis comments came during a visit to the city of Villavicencio following an overnight car bombing the government blamed on a group of dissidents from the former FARC rebels who reject a 2016 peace deal.\n\nSocial media showed images of some people kneeling against the windows of the store earlier on Tuesday, their hands seemingly bound. Reuters could not immediately independently verify the images.\n\n\"For Grupo Exito, protecting the people's lives and safety is our priority,\" the chain said in a statement.\n\n\"The situation at our store in Cartagena is being handled by the relevant authorities. As a company, we are following their guidance and their handling of the situation.\"\n\nFor more than 60 years, Colombia's left-wing rebel groups have battled the government and right-wing paramilitaries turned crime gangs in a civil war fuelled by the cocaine trade.\n\nSome respite came from a 2016 peace deal between the government and the leading guerrilla group, the FARC, which marks its 10th anniversary this week, but crime gangs remain hugely powerful and smaller rebel groups persist.\n\nAn overnight car blast near government offices in Villavicencio, the capital of the central department of Meta, injured 22, but there was no immediate claim of responsibility.\n\nDe La Espriella visited the blast site on Tuesday. (Reuters)\n\nEdited by Altis Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T01:46:54.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879166-20261125.htm"
+    },
+    {
       "id": "e70edcbacced2dea",
       "title": "China successfully launches Shenzhou-24 spaceship",
-      "excerpt": "China launched the Shenzhou-24 crewed spaceship on Wednesday, sending three astronauts, including a Pakistani payload specialist, to its orbiting Tiangong…",
-      "fullText": "China launched the Shenzhou-24 crewed spaceship on Wednesday, sending three astronauts, including a Pakistani payload specialist, to its orbiting Tiangong space station.\n\nThe spaceship, atop a Long March-2F carrier rocket, blasted off from the Jiuquan Satellite Launch Center in northwest China.\n\nThe astronauts aboard the spaceship are mission commander and spacecraft pilot Tang Hongbo, flight engineer Wu Yi, and Pakistani astronaut Muhammad Zeeshan Ali, the first-ever foreign astronaut to visit Tiangong.\n\nThe Shenzhou-24 mission marks the first joint flight consisting of Chinese and foreign astronauts in the history of China's manned space program.\n\nZeeshan Ali, a 40-year-old pilot who will become the first Pakistani in orbit, will work as a payload specialist and is set to stay at the station for 5 to 10 days, conducting experiments.\n\nTo prepare for the flight, Ali trained for seven months in Beijing, during which he underwent intensive Chinese-language classes, learning Chinese songs and reading Chinese poetry. He also practised calligraphy and played table tennis.\n\n\"I'm not flying for myself. I carry the name of Pakistan on my shoulder,\" Ali told reporters on Tuesday. (Xinhua/ Reuters)\n\nEdited by Cecil Wong",
+      "excerpt": "The China Manned Space Agency (CMSA) said on Wednesday that the launch of the Shenzhou-24 crewed spaceship was \"a complete…",
+      "fullText": "The China Manned Space Agency (CMSA) said on Wednesday that the launch of the Shenzhou-24 crewed spaceship was \"a complete success.\"\n\nThe spaceship, atop a Long March-2F carrier rocket, blasted off at 8.18 am from the Jiuquan Satellite Launch Center in northwest China, sending Chinese astronauts Tang Hongbo, Wu Yi and Pakistani astronaut Muhammad Zeeshan Ali to China's orbiting Tiangong space station, according to the CMSA.\n\nAbout 10 minutes after the launch, the spaceship separated from the rocket and entered its designated orbit, the CMSA said, adding that the astronauts are in good condition.\n\nThe Shenzhou-24 mission marks the first joint flight consisting of Chinese and foreign astronauts in the history of China's manned space program.\n\nZeeshan Ali, a 40-year-old pilot who will become the first Pakistani in orbit, will work as a payload specialist and is set to stay at the station for 5 to 10 days, conducting experiments.\n\nTo prepare for the flight, Ali trained for seven months in Beijing, during which he underwent intensive Chinese-language classes, learning Chinese songs and reading Chinese poetry. He also practised calligraphy and played table tennis.\n\n\"I'm not flying for myself. I carry the name of Pakistan on my shoulder,\" Ali told reporters on Tuesday. (Xinhua/ Reuters)\n_____________________________\nLast updated: 2026-11-25 HKT 10:06\n\nEdited by Cecil Wong",
       "imageUrl": null,
       "publishedAt": "2026-11-25T00:32:22.000Z",
       "source": "RTHK English — Greater China",
@@ -830,17 +841,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878872-20261123.htm"
-    },
-    {
-      "id": "2169f9d619543881",
-      "title": "DPRK seeks security, not supremacy: Kim Jong Un",
-      "excerpt": "Kim Jong Un said the Democratic People's Republic of Korea (DPRK) would strive to achieve \"power and capability\" to ensure…",
-      "fullText": "Kim Jong Un said the Democratic People's Republic of Korea (DPRK) would strive to achieve \"power and capability\" to ensure its security and peace but would not pursue supremacy, state media reported on Monday.\n\nKim made the remarks at a ceremony to receive credentials from newly appointed ambassadors in a rare departure from protocol, as the task has traditionally been performed by a senior official rather than Kim himself.\n\n\"The world is now witnessing an unstable security crisis and political and economic chaos round the globe,\" Kim said at the event, according to the official Korean Central News Agency, without elaborating.\n\n\"The present international situation is bringing about a significant change in our understanding of national sovereignty and security,\" he said.\n\nPyongyang's diplomatic goal is to \"expand and develop foreign relations under the ideals of independence, peace and friendship on the principle of defending the national sovereignty and security\", he added.\n\n\"The DPRK neither pursues supremacy nor expansion,\" he said.\n\nPhotos released by KCNA showed Kim – dressed in a formal suit and necktie – receiving credentials, with Foreign Minister Choe Son Hui standing beside him. They also showed Kim delivering remarks and posing for photographs with each diplomat. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T00:02:37.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878876-20261123.htm"
     },
     {
       "id": "c74a8ee8a593df51",
