@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T05:45:28.901Z",
-  "checkedAt": "2026-11-25T06:00:28.552Z",
+  "generatedAt": "2026-11-25T06:15:25.174Z",
+  "checkedAt": "2026-11-25T06:15:25.174Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 18
     },
     {
       "id": "rthk-world",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 8
+      "articleCount": 7
     },
     {
       "id": "rfa-english",
@@ -95,10 +95,21 @@
   ],
   "articles": [
     {
+      "id": "3cd5293863540905",
+      "title": "Lands Dept urged to hasten lease modification process",
+      "excerpt": "A single application to modify land lease conditions has been left unresolved with the Lands Department for 29.1 years, the…",
+      "fullText": "A single application to modify land lease conditions has been left unresolved with the Lands Department for 29.1 years, the Audit Commission has found.\n\nIn a review, the commission found the department took too long to handle such applications and called for measures to speed things up.\n\nIn its review of the Lands Department's handling of lease modifications, the commission found that 326 applications were being processed as of March 31, 2026.\n\nAbout 65 percent of them, or 213 applications, had been received more than a year earlier – and in the longest instance 29.1 years earlier.\n\nThe Audit Commission examined the records of the three completed cases that took the longest to process, as well as the three cases that had been under processing the longest as of March 31, 2026.\n\nAcross the six, processing time ranged from 19 to 29.1 years from the dates of receipt of applications.\n\nThe time taken from receipt of application to the date of a valid application ranged from eight days to 12.7 years.\n\nAfter validation, the three completed cases went on to take 9.2 to 18.9 years to reach execution of the land documents, while the three still under processing had by March 31, 2026, been running for 23.9 to 26.8 years.\n\nThe department's own accounting of \"non-counting events\" – periods it says it cannot control, such as waiting for information or action from the applicant – explains most of that time.\n\nFor the three completed cases, non-counting events lasted 8.2 to 18.4 years, or about 89 to 97 percent of the post-validation processing time, leaving \"counting events\" that the department should control at just 200 to 372 days.\n\nIn one completed case, a single non-counting event lasted about 14.5 years, arising from the applicant's request to switch the type of documentation used for the modification.\n\nFor six of those 14.5 years, however, no action was taken by the applicant and the department did not proactively follow up on the application, the Audit Commission said.\n\nIn a bigger picture, of 903 land transactions involving lease modifications executed from 2016-17 to 2025-26 covering premiums totalling HK$241.5 billion, 566 applications, or 63 percent, took more than a year to complete.\n\nThe commission found that while monthly monitoring reports exist, the Lands Department had not compiled consolidated summaries to track all applications under processing and to flag early those where unresolved issues might warrant escalation.\n\nIn response, the Development Bureau and Lands Department told the commission that a land lease is a private contract between the government as landlord and the lot owner, and its nature is very different from public contracts such as those arising from procurement, which are subject to standardised rules with strict deadlines.\n\nOfficials said lease modification involves negotiation over both the lease terms and the premium payable, and \"a longer time to reach agreement did not necessarily suggest lack of efficiency\"; whether talks end in an executed document depends on mutual agreement, and the department has a duty to protect government revenue.\n\nThe Lands Department said it would continue to explore measures to facilitate the early completion of cases without undermining its capacity as the government's agent in land administration, and would strengthen monitoring of long-outstanding enforcement cases, including by formulating a target for the length of the review cycle for each District Lands Office.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T05:45:55.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879198-20261125.htm"
+    },
+    {
       "id": "d6eb9f5431f220d5",
       "title": "Shenzhou-24 docks with Tiangong space station",
       "excerpt": "The Shenzhou-24 crewed spaceship successfully docked with the Tiangong space station at 11.56am on Wednesday, according to the China Manned…",
-      "fullText": "The Shenzhou-24 crewed spaceship successfully docked with the Tiangong space station at 11.56am on Wednesday, according to the China Manned Space Agency (CMSA).\n\nThe spaceship made a fast, automated rendezvous and docking with the front port of Tiangong's core module Tianhe.\n\nThe whole docking process took approximately 3.5 hours, said the CMSA.\n\nThe astronaut trio aboard the spaceship – Chinese astronauts Tang Hongbo, Wu Yi and Pakistani astronaut Muhammad Zeeshan Ali, the first foreigner to visit Tiangong – will then enter the Tianhe module.\n\nThe Shenzhou-23 crew members in the space station are ready to receive the new arrivals.\n\nThe spaceship, atop a Long March-2F carrier rocket, blasted off at 8.18am from the Jiuquan Satellite Launch Center in northwest China on Wednesday, which the CMSA described as \"a complete success\". (Xinhua)\n\nEdited by Edmond Fong",
+      "fullText": "The Shenzhou-24 crewed spaceship successfully docked with the Tiangong space station at 11.56am on Wednesday, according to the China Manned Space Agency (CMSA).\n\nThe spaceship made a fast, automated rendezvous and docking with the front port of Tiangong's core module Tianhe.\n\nThe whole docking process took approximately 3.5 hours, said the CMSA.\n\nThe astronaut trio aboard the spaceship – Chinese astronauts Tang Hongbo, Wu Yi and Pakistani astronaut Muhammad Zeeshan Ali, the first foreigner to visit Tiangong – will then enter the Tianhe module.\n\nThe Shenzhou-23 crew members in the space station are ready to receive the new arrivals.\n\nThe Shenzhou-24 spaceship, atop a Long March-2F carrier rocket, blasted off at 8.18am from the Jiuquan Satellite Launch Center in northwest China on Wednesday. The CMSA described the launch as \"a complete success\". (Xinhua)\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-11-25T05:29:14.000Z",
       "source": "RTHK English — Greater China",
@@ -827,8 +838,8 @@
       "fullText": "Hong Kong would actively leverage its advantages of being connected to the mainland and the world under \"One Country, Two Systems\" to contribute to the national effort to promote bay area economies and build a world-class bay area with other Greater Bay Area cities, Chief Executive John Lee said on Monday.\n\nIn a video address to the 16th Hong Kong International Financial Forum and the seventh Pilot \"9+2\" Navigation GBA Forum, Lee noted that President Xi Jinping proposed establishing a global association for bay areas economic cooperation to deepen exchanges among bay areas around the world and explore new paths for Asia-Pacific cooperation during a keynote speech at the Apec CEO Summit in Shenzhen last week.\n\nHe said this year marks China's year as Apec host, and that the Apec Economic Leaders' Meeting and CEO Summit in Shenzhen last week, together with the Apec Finance Ministers' Meeting held in Hong Kong for the first time in October, showed the Greater Bay Area cities' collective role in serving the country's efforts to build an Asia-Pacific community.\n\nLee said the Guangdong-Hong Kong-Macao Greater Bay Area, bringing together the two special administrative regions and nine Guangdong cities, had a combined economic output of over US$2.1 trillion, showing strong economic resilience and enormous development potential.\n\nHe said the government would deepen coordination with bay area cities on technology and innovation cooperation, \"hard connectivity\" of infrastructure, \"soft connectivity\" of rules and mechanisms, and \"heart connectivity\" among residents, as well as on major cooperation platforms, to promote the efficient flow of people, goods, capital and information.\n\n\"Hong Kong will actively leverage its advantages under 'One Country, Two Systems' of connecting the mainland with the world, contribute to our country's development of the bay area economy, and work together with fellow Greater Bay Area cities to build a world-class bay area,\" he said.\n\nThe chief executive said the Northern Metropolis university town would bring together education, technology, industry, talent and urban development, and that the Northern Metropolis would be developed into a \"highland\" for international talent and an important platform for deeper participation in Greater Bay Area development.\n\nThe government, he added, would encourage more top mainland universities and research institutions to set up there.\n\n\"We will drive more first-class mainland universities and research institutions to settle in the Northern Metropolis, pool top academic and research capabilities with local colleges and universities to complement each other’s strengths, and serve the country’s high-level scientific and technological self-reliance and self-strengthening,\" he said.\n\nHe also said Hong Kong's common law system, free flow of capital and internationalised business environment allow it to provide bay area enterprises with all-round professional services through a task force on mainland enterprises going global, helping them expand into new markets.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-23T04:35:58.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878911-20261123.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "news.gov.hk — At School, At Work",
       "sourceFeed": "news-gov-hk-school-work",
       "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_124445_933.html"
-    },
-    {
-      "id": "bbc2fa366fb47ee7",
-      "title": "HK global education role grows",
-      "excerpt": "Secretary for Education Choi Yuk-lin spoke today at the World Class University Presidents Forum 2026, highlighting Hong Kong's growing strength…",
-      "fullText": "Secretary for Education Choi Yuk-lin spoke today at the World Class University Presidents Forum 2026, highlighting Hong Kong's growing strength, global voice and strategic vision as a premier international higher education hub. The two-day forum in Hong Kong concludes today.\n\nAddressing the audience, Ms Choi noted that the forum gathered leaders and university presidents representing more than one-third of the world's top 50 universities. \"Assembling such a distinguished constellation of global academic leadership strongly reaffirms Hong Kong's standing as an international education hub and significantly enhances the city's discourse power in the global educational arena,\" she said.\n\nMs Choi emphasised that Hong Kong's institutional strength is firmly rooted in academic excellence, robust national support and open connectivity. Citing the latest QS World University Rankings: Asia 2027, she pointed out that Hong Kong continues to set regional benchmarks with five local universities securing places among Asia's top 10.\n\nServing as a vital bridge between East and West, Hong Kong offers a fertile ecosystem characterised by internationalisation and diversification to bring global talent together, she said. The education chief added that the forum forms part of a strategic series of signature initiatives promoting the “Study in Hong Kong” brand worldwide, alongside major events like February’s Asia-Pacific Association for International Education Conference and Exhibition.\n\nElaborating on the forum's theme, \"Higher Education Reimagined: Innovating for the Future\", Ms Choi stressed that no matter how the global landscape evolves, universities remain fundamentally tied to economic development, societal well-being and human progress. She noted that world-leading institutions must stand at the forefront to guide this transformation as Hong Kong's educational landscape evolves.\n\nThe vision is being physically realised through the development of the Northern Metropolis University Town. The Education Bureau pointed out that under the \"One Town, Five Elements\" framework, the Hong Kong Special Administrative Region Government is building a holistic campus ecosystem integrating higher education, advanced research, market innovation, vibrant living spaces and top-tier talent.\n\nPositioned at the gateway to the Chinese Mainland, the University Town will foster deep industry-academia-research integration, linking academic research directly with industry capabilities to serve national development under the 15th Five-Year Plan.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_133828_723/images/20261105152558884.jpg",
-      "publishedAt": "2026-11-04T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_133828_723.html"
     }
   ]
 }
