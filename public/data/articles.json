@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T00:15:25.033Z",
-  "checkedAt": "2026-11-25T00:30:34.901Z",
+  "generatedAt": "2026-11-25T00:45:25.187Z",
+  "checkedAt": "2026-11-25T00:45:25.187Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 17
     },
     {
       "id": "rthk-finance",
@@ -80,7 +80,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 20
     },
     {
       "id": "fox-news-tech",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "e70edcbacced2dea",
+      "title": "China successfully launches Shenzhou-24 spaceship",
+      "excerpt": "China launched the Shenzhou-24 crewed spaceship on Wednesday, sending three astronauts, including a Pakistani payload specialist, to its orbiting Tiangong…",
+      "fullText": "China launched the Shenzhou-24 crewed spaceship on Wednesday, sending three astronauts, including a Pakistani payload specialist, to its orbiting Tiangong space station.\n\nThe spaceship, atop a Long March-2F carrier rocket, blasted off from the Jiuquan Satellite Launch Center in northwest China.\n\nThe astronauts aboard the spaceship are mission commander and spacecraft pilot Tang Hongbo, flight engineer Wu Yi, and Pakistani astronaut Muhammad Zeeshan Ali, the first-ever foreign astronaut to visit Tiangong.\n\nThe Shenzhou-24 mission marks the first joint flight consisting of Chinese and foreign astronauts in the history of China's manned space program.\n\nZeeshan Ali, a 40-year-old pilot who will become the first Pakistani in orbit, will work as a payload specialist and is set to stay at the station for 5 to 10 days, conducting experiments.\n\nTo prepare for the flight, Ali trained for seven months in Beijing, during which he underwent intensive Chinese-language classes, learning Chinese songs and reading Chinese poetry. He also practised calligraphy and played table tennis.\n\n\"I'm not flying for myself. I carry the name of Pakistan on my shoulder,\" Ali told reporters on Tuesday. (Xinhua/ Reuters)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T00:32:22.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879158-20261125.htm"
+    },
     {
       "id": "500902fc1931a4c5",
       "title": "Sinner doubtful for Australian Open after knee surgery",
@@ -832,17 +843,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878876-20261123.htm"
     },
     {
-      "id": "455576a1122ea0bc",
-      "title": "WHO chief pleads for peace in Ebola-hit DR Congo",
-      "excerpt": "The head of the World Health Organization on Sunday pleaded for peace in the epicentre of the Democratic Republic of…",
-      "fullText": "The head of the World Health Organization on Sunday pleaded for peace in the epicentre of the Democratic Republic of the Congo's Ebola outbreak that has killed nearly 5,700 people.\n\nTedros Adhanom Ghebreyesus said the frequency of attacks across the country's east had increased since the end of October, seriously affecting the Ebola response.\n\n\"Heavy fighting has been ongoing since yesterday in the vicinity of a hospital in Ituri – in an area close to where the Ebola outbreak first emerged,\" the UN health agency chief said on X.\n\nHe said medical staff had been sheltering for their lives in a maternity ward in the facility for more than 24 hours.\n\n\"The situation has disrupted the work of the hospital and the wider Ebola response, putting patients, families and health workers at grave risk,\" said Tedros.\n\nHe said the WHO was trying to arrange a safe exit for the team and \"for the hospital facilities, staff and patients to be protected.\"\n\n\"The best medicine is peace,\" said Tedros.\n\nA total of 5,678 deaths out of 11,613 cases have been confirmed in the vast central African country's worst-ever Ebola outbreak, according to the WHO.\n\nThe virus has spread across swathes of the DRC's east and northeast, which have been plagued by violence for more than 30 years.\n\nIn an update Saturday, the WHO said that while some areas had seen a slight decline in cases, \"sustained, high-level transmission continues overall in the country\".\n\nIturi and Nord Kivu remain the most affected provinces.\n\nThe high proportion of deaths occurring in communities, meaning outside of dedicated treatment centres, especially among young children, \"continues to highlight challenges in early case detection and timely access to appropriate care\", the WHO said.\n\nTedros has determined that the outbreak remains a public health emergency of international concern. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T23:58:25.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878875-20261123.htm"
-    },
-    {
       "id": "c74a8ee8a593df51",
       "title": "Alcaraz downs Zverev to win ATP Finals for first time",
       "excerpt": "Carlos Alcaraz won the ATP Finals with a 6-2, 7-6 (9/7) victory over world number one Alexander Zverev in the…",
@@ -1437,17 +1437,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878504-20261119.htm"
     },
     {
-      "id": "42ee8951335162f1",
-      "title": "RTHK, CGTN deliver Apec highlights for the day",
-      "excerpt": "The leaders of China, the United States and Russia held trilateral talks on the sidelines of the final day of…",
-      "fullText": "The leaders of China, the United States and Russia held trilateral talks on the sidelines of the final day of the Apec Economic Leaders' Meeting.\n\nRTHK reporter Hailey Yip and CGTN's Yang Chengxi sum up the highlights for Thursday, November 19.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-19T12:03:49.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878493-20261119.htm"
-    },
-    {
       "id": "205fc07ddd4fc252",
       "title": "Could caviar served on gourmet food tour of North Korea violate UN sanctions?",
       "excerpt": "Russian tour company offers a tour of high-end Pyongyang restaurants inaccessible to average North Koreans.",
@@ -1743,6 +1732,17 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/korea/2026/11/07/north-korea-orphanage-birth-rate/"
+    },
+    {
+      "id": "03968e731bd55771",
+      "title": "International community condemns Joshua Wong’s 10-year ‘foreign collusion’ sentence",
+      "excerpt": "Hong Kong democracy activist has been in prison since age 23 and is expected to be released around 2036 at…",
+      "fullText": "Read a version of this story in Mandarin\nAfter a Hong Kong court sentenced pro-democracy activist Joshua Wong to 10 years in prison Thursday for foreign collusion, international lawmakers, activists, and rights organizations condemned the decision saying it violates human rights.\nHong Kong activist Joshua Wong gets 10 more years under security law\nWong, 30, is one of the most internationally recognizable faces of the now-quashed democracy movement in the city. He was among 45 Hong Kong opposition politicians and pro-democracy activists who were convicted of “conspiracy to commit subversion” under the city’s draconian 2020 National Security Law for taking part in a democratic primary in the summer of 2020. Wong in September pleaded guilty to “conspiracy to endanger national security with foreign or external forces.”\nOn Thursday, Judge Tam Yiu-ho of the Hong Kong High Court ruled that the case constituted a “serious offense” under the security law, which carries a starting sentence of 13 years. It was later reduced to 10 years in light of his guilty plea.\nWong had already been serving a four-year-and-eight-month sentence for the subversion charge and had been due for release in January, but under the current decision, he will not be released until 2036, when he is 40 years old.\nLouis Lee, Joshua Wong's friend, shows a photograph with Joshua Wong in a book published by a pro-democracy student activist group Scholarism in Hong Kong, on Aug. 20, 2026.\n(Chan Long Hei/AP) The sentence was “utterly shameless,” Chinese democracy activist Wang Dan, who was a student leader in the 1989 Tiananmen Square protests and who now lives in exile in the United States, said in a statement.\n“For a regime that claims to be powerful to pursue and persecute a young student in this manner only highlights its insecurity and brutality,” said Wang. “Joshua Wong campaigned and advocated for Hong Kong’s freedom. If that is considered a crime, then the real criminals are the authorities who forced a young person onto the streets in the first place.”\nInternational condemnation\nJoshua Wong’s pro-democracy activities are not criminal, Phil Robertson, Director of the Bangkok-based rights group the Asia Human Rights and Labour Advocates, said in a statement.\n“It’s supremely ironic that China, one of the biggest practitioners of transnational repression in the world, has now sentenced Joshua Wong to 10 years in prison for daring to seek international solidarity to resist that repression,” Robertson said. “Holding meetings with international activists and foreign government officials, talking to the global media, and mounting petition drives are the day to day work of human rights activists, and shouldn’t be criminalized.”\nWong is a hero and the charges against him have no standing, U.S. representative John Moolenaar, Chair of the House Select Committee on China, said in a statement.\n“Joshua only pleaded guilty to the baseless charge of foreign collusion because of the CCP’s systematic erosion of Hong Kong’s judicial independence,” he said, using the abbreviation for the Chinese Communist Party. “In return, the CCP has effectively sentenced him under its repressive National Security Law.”\nMoolenaar said the sentencing showed China’s “complete disregard” for universal rights.\nHong Kong protest leader Joshua Wong, 22, speaks as thousands of protesters surrounding the police headquarters in Hong Kong on June 21, 2019.\n(Paula Bronstein/Getty Images) “Joshua and Hong Kong need the international community’s support now more than ever,” he said. “He should be immediately released and reunited with his family.”\nTaiwan’s Mainland Affairs Council, or MAC, issued a statement after the sentencing, strongly condemning Hong Kong authorities for continuing to infringe upon the basic human rights under the guise of national security.\nThe MAC statement said the Hong Kong government’s renewed heavy sentencing under the National Security Law is a continued political prosecution of pro-democracy figures, including Wong, who has been detained for more than 2,000 days since 2020.\nThe statement called on Beijing and Hong Kong authorities to stop using national security as a pretext to suppress pro-democracy activists and to immediately release those detained for exercising their basic rights.\n“Domestic support” for “overseas operations”\nThe charges allege that between July 1 and November 23, 2020, Wong conspired with Nathan Law, another prominent pro-democracy figure who was in exile overseas, and others to request foreign governments or organizations to impose sanctions, blockades, or other actions deemed hostile by the authorities on China and Hong Kong.\nThe judge held that after the Hong Kong National Security Law came into effect, Nathan Law continued to push for sanctions overseas, while Wong shared related content through foreign media and social media platforms, attracting the attention of foreign governments and providing support from Hong Kong for overseas initiatives. The judge rejected the defense’s claim that Wong’s role was limited, believing that Wong and Law collaborated and that their roles were equally important.\nThe defense previously argued that the severity of this case was far less than other national security cases; Wong was only 23 years old when he committed the crime and has been deprived of his freedom for nearly six years, while the prosecution only brought charges after many years. The defense suggested a sentence of about four and a half years and hoped that the court would allow Wong the opportunity to take care of his parents in the future, but this was not accepted by the court.\nSteve Li Kwai-Wah, chief superintendent at Hong Kong Police Force's national security department, speaks to the media at the High Court in Hong Kong, Thursday, Nov. 5, 2026.\n(Chan Long Hei/AP) The sentence reflected the seriousness of the case, Hong Kong Police National Security Department Chief Superintendent Steve Li Kwai-Wah said to reporters outside the court. He called on Nathan Law to return to Hong Kong and surrender.\nHong Kong and Beijing have consistently stated that their law enforcement actions are based on evidence and law, and are unrelated to the defendant’s political stance, asserting that the Hong Kong National Security Law is necessary to restore stability in Hong Kong.\nUndermining freedom\nWang said that Wong’s harsh sentencing reveals that China cares little about human rights.\nStudent activist Joshua Wong talks on the phone after walking out of the Wanchai police station in Hong Kong on Jan. 16, 2015. A Hong Kong court sentenced Joshua Wong to 10 years in jail on November 5, 2026, for foreign collusion, extending the activist's prison term beyond the six years he has already served.\n(Philippe Lopez/AFP) “This decision once again tears away the CCP’s mask, proving that it is a regime determined to be an enemy of universal values and the ideals of freedom,” he said. “Ten years – a person’s youth – spent entirely behind bars; Joshua Wong has paid such a high price. He is a hero of our times and the pride of Hong Kong. I hope everyone remembers him, follows his situation, speaks out on his behalf, and prays for him.”\nEdited by Eugene Whong.",
+      "imageUrl": "https://www.rfa.org/resizer/v2/3QFWF7Z4ZRHJPAIERVL6UQLOAE.jpg?auth=d5e376662d10e07c6617a9977d11fedd873b598dfb306be1f44f22765b2efd47&smart=true&width=1500",
+      "publishedAt": "2026-11-05T19:47:12.000Z",
+      "source": "Radio Free Asia English",
+      "sourceFeed": "rfa-english",
+      "link": "https://rfa.org/english/china/2026/11/05/joshua-wong-hong-kong-sentence/"
     }
   ]
 }
