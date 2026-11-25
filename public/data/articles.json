@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T09:15:33.835Z",
-  "checkedAt": "2026-11-25T09:15:33.835Z",
+  "generatedAt": "2026-11-25T09:30:24.365Z",
+  "checkedAt": "2026-11-25T09:30:24.365Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 19
     },
     {
       "id": "rthk-world",
@@ -80,7 +80,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 20
+      "articleCount": 19
     },
     {
       "id": "fox-news-tech",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "233f314a66f7d226",
+      "title": "'Student loan flaws in vetting and recovery'",
+      "excerpt": "The Audit Commission has called on the Working Family and Student Financial Assistance Agency to speed up legal recovery action…",
+      "fullText": "The Audit Commission has called on the Working Family and Student Financial Assistance Agency to speed up legal recovery action against student loan defaulters, after a review found that about 45 percent of overdue cases had not been pursued, with more than HK$130 million in loans in default.\n\nIn its report published on Wednesday, the commission said the number of cumulative loans in default cases stood at 9,515, amounting to HK$131.3 million as of September 30 2026, with a default rate of 4.1 percent by number of repayment accounts and 4.2 percent by loan amount.\n\nThe commission found that, of 10,278 default cases as at July 31 2026, legal recovery actions had been initiated in 4,318 cases or 42 percent of the default cases and 1,362 cases or 13 percent were being handled under bankruptcy, individual voluntary arrangements or deferment applications.\n\nIn the remaining 4,598 cases, or 45 percent of default cases, no legal recovery action had been initiated.\n\nIt added that, for 1,456 of these cases, there had been no positive response from borrowers or indemnifiers for more than a year, and for 257 cases there had been no positive response for more than five years.\n\nThe review also identified delays in referring cases to the Department of Justice, in filing proofs of debt for bankruptcy cases and in issuing letters seeking replacement indemnifiers, and said the agency's computer system could not compile certain analyses or issue automated alerts to prompt recovery action\n\nIn the 2025/26 academic year, the Working Family and Student Financial Assistance Agency, which operates under the Education Bureau, approved 80,784 applications and provided about HK$3.5 billion under six financial assistance schemes.\n\nThe commission found that a large number of processed applications were excluded from the calculation of whether the agency met its target processing times, because the applications were incomplete when first submitted.\n\nThe commission also flagged delays: management reports on authentication results were available only about 1.3 years after the end of the academic year and some home visits and investigation reports missed their timeframes.\n\nIt recommended the agency to take appropriate follow-up actions and improvement measures, including enhancing its computer system, reviewing timeframes and guidelines, and continuing to explore the use of artificial intelligence to improve efficiency.\n\nIn response, the head of agency agreed with the audit recommendations.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T09:15:02.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879234-20261125.htm"
+    },
     {
       "id": "64054941f887da6f",
       "title": "'Govt to enlist foreign artists to promote HK culture'",
@@ -849,8 +860,8 @@
       "fullText": "The second China-built large cruise ship, the Adora Flora City, arrived at Kai Tak Cruise Terminal on Monday morning on its maiden commercial voyage carrying more than 3,800 passengers.\n\nThe ship set sail from the Nansha International Cruise Home Port in Guangzhou for a six-day, five-night journey that will also take it to Hue in Vietnam.\n\nThe vessel is 341 metres long and has 2,130 cabins, with capacity for up to 5,232 passengers.\n\nCompared with the first China-built large cruise ship, the Adora Magic City, the new vessel's hull has been lengthened by 17.4 metres, with more than 3,000 square metres of additional public space.\n\nIt also features a larger atrium, an upgraded water park and more passenger-friendly services.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-23T08:41:08.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878941-20261123.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/korea/2026/11/10/north-korea-busan-chongjin-escapee/"
-    },
-    {
-      "id": "05e1d7a3b436ff62",
-      "title": "North Korean orphans fast tracked into state care to stem declining birth rate",
-      "excerpt": "Orphanages are now supplied more regularly after shift toward birth-friendly policies.",
-      "fullText": "Read a version of this story in Korean\nNorth Korea is attempting to address its decreasing birth rate by improving the conditions of state-run orphanages while increasing crackdowns on illegal abortions, residents in the country told Radio Free Asia.\nThe total fertility rate for North Korea is estimated to be 1.59 children per woman of childbearing age according to key statistical indicators from South Korea’s Ministry of Data and Statistics. This is well below the replacement fertility rate of 2.1 required to maintain the population.\nThe rate may be even lower than estimated, a 2025 report by the Washington-based Stimson Center’s 38 North project said.\nOrphanages and nurseries were previously poorly supplied, meaning that taking in more children was difficult, but government policies have improved the situation, with supplies of milk, food, clothing and shoes flowing in more regularly, the residents said.\nSchool children arrive to pay their respects before the statues of late North Korean leaders Kim Il Sung and Kim Jong Il at Mansu Hill in Pyongyang on Sept. 9, 2023.\n(Kim Won Jin/AFP) “Recently, authorities have been more quickly sending orphaned children or children born to unmarried women to nurseries or orphanages,” a resident of the country’s northeastern province of North Hamgyong, who requested anonymity for security reasons, told RFA. “The residents’ reaction to this is generally positive.”\nThe resident talked about a situation where an unmarried woman from Kyongwon county, on the border with China, had to give up her child because of the difficulty raising it alone. The child was quickly accepted into an orphanage in October.\nThough the resident did not specify how long it took to place the child, another resident, from nearby South Hamgyong province, told RFA that in another case, in the coastal city of Tanchon, it took about a month.\n“In September, in Tanchon, a 6-year-old child became an orphan after his mother, who had been raising him alone, died of illness,” the South Hamgyong resident said on condition of anonymity to speak freely. The child “went to an orphanage after about a month.”\nSupplies meeting demand\nThe government’s apparent priority on supplying nurseries and orphanages has come after a series of child-friendly policies were enacted including the Childcare Law of 2022 and the Law on Preferential Treatment for Multi-Child Families of 2025. Authorities actively encourage childbirth and child-rearing, including by pushing propaganda messaging that “having many babies is patriotism.”\nA woman receives the \"Communist Mother's Honor Award\" during the Fifth National Mothers' Convention in Pyongyang, North Korea, Dec. 4, 2023.\n(KCNA via KNS/AFP) The country’s leader Kim Jong Un famously was brought to tears in 2023 when he publicly discussed the declining birth rate at the National Mothers’ Conference in December 2023.\n“Putting our efforts into raising the birth rate together with mothers is a critical revolutionary undertaking that cannot be resolved by the power of our Party and government alone,” he said at the event.\nSources in RFA reports after that incident explained that women were reluctant to marry and have kids because they wanted to focus on their own happiness.\nAbortion crackdown\nAnother way the government has been trying to prevent a declining birth rate is to punish doctors who perform abortions .\nBy law, abortion is illegal in North Korea, but in practice, some doctors accept payment to perform the procedure in secret.\nBut these days, those doctors are harder to find, the North Hamgyong resident said.\n“There are women who come home pregnant after serving in the military, and they try to get rid of the baby quickly before it is seen by others,” the North Hamgyong resident said. “But recently, abortion procedures have not been easy, so many end up giving birth.”\nUnwanted pregnancies happen often in North Korea because sex education is non-existent, the North Hamgyong resident said. But even if the mother gives birth, administrative hurdles and societal pressure make it very difficult to raise the child. This is because it is impossible to register the child without the father, and because of the stigma surrounding unwed mothers.\nMany unwed mothers are finding creative ways to put their children born out of wedlock in orphanages without having any official record of the birth, the South Hamgyong resident said. “In late September in Tanchon, a resident found a baby wrapped in a sling in a neighborhood alley and took it to the community center.”\nStudents attend class in North Korea, April 2, 2018.\n(KCNA via Reuters) However, it was later revealed that the person who took the child to the community center was actually the maternal uncle of the woman who had given birth, the South Hamgyong resident said. Since the fact that the unmarried woman had given birth might become a major obstacle to marriage if known to the outside world, the uncle had resorted to a workaround for his niece.\nThe South Hamgyong resident said that the woman did not intend to become pregnant, and had tried to get an abortion but she could not find any doctor willing to provide one.\nEdited by Yi Yongin in Korean and Eugene Whong in English.",
-      "imageUrl": "https://www.rfa.org/resizer/v2/SGFG7UNN2FCW3HO4Z2HGVBHTDQ.jpg?auth=88103531af138243828842398bbefcdef64d12b7eb017bde49145956a35d2e60&smart=true&width=1500",
-      "publishedAt": "2026-11-07T02:43:34.000Z",
-      "source": "Radio Free Asia English",
-      "sourceFeed": "rfa-english",
-      "link": "https://rfa.org/english/korea/2026/11/07/north-korea-orphanage-birth-rate/"
     }
   ]
 }
