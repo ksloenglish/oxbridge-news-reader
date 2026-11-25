@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T13:30:25.124Z",
-  "checkedAt": "2026-11-25T15:01:51.792Z",
+  "generatedAt": "2026-11-25T15:15:20.537Z",
+  "checkedAt": "2026-11-25T15:15:20.537Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "d79d54d07007284f",
+      "title": "PWH doctor arrested over alleged indecent assault",
+      "excerpt": "A 31-year-old doctor at Prince of Wales Hospital has been arrested on suspicion of indecent assault, after he allegedly performed…",
+      "fullText": "A 31-year-old doctor at Prince of Wales Hospital has been arrested on suspicion of indecent assault, after he allegedly performed physical examinations on two male patients in the paediatric ward without authorisation last month.\n\nThe hospital said on Wednesday that the doctor had since been suspended from clinical duties and barred from entering all clinical areas.\n\nAssessments were also conducted on the two patients, whose clinical condition and treatments were unaffected, the hospital added. It apologised to their families and pledged to render all necessary assistance.\n\nThe doctor was employed by the Chinese University's Faculty of Medicine, and performed teaching and clinical work at Prince of Wales Hospital. CUHK said it was highly concerned about the incident, and has suspended his duties pending an investigation.\n\nPolice said the man had been released on bail, with a probe to continue.\n\nEdited by Raymond Yeung",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T14:55:30.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879268-20261125.htm"
+    },
     {
       "id": "57d701cd9059eae9",
       "title": "Data of 1.3 million URBTIX users compromised in attack",
@@ -852,17 +863,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878984-20261123.htm"
-    },
-    {
-      "id": "575003ca728a5c62",
-      "title": "Govt to speed up building maintenance reforms: CE",
-      "excerpt": "Chief Executive John Lee has ordered all government bureaux and departments to accelerate sweeping reforms to the building maintenance and…",
-      "fullText": "Chief Executive John Lee has ordered all government bureaux and departments to accelerate sweeping reforms to the building maintenance and renovation regime to prevent a repeat of the tragedy at Wang Fuk Court.\n\nThe directives came as Lee chaired a meeting on Monday to receive briefings from officials on the government’s progress in implementing systemic reforms and taking forward the recommendations of the independent committee on the inferno that killed 168 people.\n\nThe government released the committee’s report last month and announced reforms in six areas. A steering committee led by Chief Secretary Eric Chan held its first meeting last week.\n\nOfficials said 29 recommendations have been fully implemented, while the rest are being taken forward with implementation timetables and, in some cases, industry consultation.\n\nLee instructed officials to submit amendments to six pieces of legislation to the Legislative Council as soon as possible.\n\nThe Fire Services Ordinance amendment bill will be introduced for first and second reading next month, while proposed changes to the Building Management Ordinance proposals were sent to Legco earlier this month, with details being finalised and the bill to be submitted as soon as possible.\n\nBuildings Ordinance amendments will go to the Legco Panel on Development on November 24, with a target of submitting the bill early next year.\n\nAmendments to the Competition Ordinance, Organized and Serious Crimes Ordinance and Independent Commission Against Corruption Ordinance will be introduced early next year to combat bid-rigging and other serious anti-competitive conduct in building maintenance.\n\nMeanwhile, the Building Maintenance Support and Services Council – which aims to assist homeowners to manage related works – will be established within this year and begin compiling three \"pre-qualified lists\" next month.\n\nAn expert panel on major building maintenance will also be set up by the Development Bureau this month.\n\nOn enforcement, a joint task force against bid-rigging in building maintenance and renovation projects has arrested 163 people in two operations, involving over HK$230 million.\n\nLee said the reforms must be implemented rigorously and in full.\n\n\"We must all learn from the lesson, and earnestly implement reform measures to prevent such tragedies from recurring, and continue to provide full support to the affected residents to help them begin their new lives as soon as possible,\" he said in a statement.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T13:35:07.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878978-20261123.htm"
     },
     {
       "id": "8536f0ee3f0a2042",
