@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T11:45:21.940Z",
-  "checkedAt": "2026-11-25T11:45:21.940Z",
+  "generatedAt": "2026-11-25T12:00:33.824Z",
+  "checkedAt": "2026-11-25T12:00:33.824Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -434,6 +434,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261125/20261125_141422_158.html"
+    },
+    {
+      "id": "ae94d86fc39a8762",
+      "title": "GBA legal conference held in Macau",
+      "excerpt": "Deputy Secretary for Justice Cheung Kwok-kwan today led a delegation to Macau to attend the eighth Greater Bay Area (GBA)…",
+      "fullText": "Deputy Secretary for Justice Cheung Kwok-kwan today led a delegation to Macau to attend the eighth Greater Bay Area (GBA) Legal Departments Joint Conference.\n\nMr Cheung had an in-depth exchange with Guangdong Department of Justice Director-General Chen Xudong and Macao Special Administrative Region Government Secretary for Administration & Justice Wong Sio Chak.\n\nThe conference aims to advance the development of the rule of law in the GBA through the collaborative efforts of the three sides.\n\nDuring the conference, representatives from the legal departments of Guangdong, Hong Kong and Macau held in-depth discussions on key areas including mediation, arbitration, legislative collaboration, and the nurturing of legal talent.\n\nThey have yielded phased achievements in formulating and promoting GBA standards, further strengthening their work on aligning mechanisms and rules.\n\nThe three jurisdictions have officially launched the \"Platform for Promotion of the GBA Standards on Arbitration & Mediation\".\n\nThe first batch of more than 10 arbitration and mediation institutions has joined the platform. They will work closely with the joint conference to promote the relevant GBA standards and gather feedback from the sectors and users.\n\nThe initiative aims to facilitate the alignment of arbitration and mediation mechanisms among the three regions and continuously improve the relevant standards.\n\nDr Cheung said the mechanisms for the GBA standards on arbitration and mediation will become more comprehensive upon the platform’s establishment, covering the formulation, promotion, and refinement of standards. Hence, he added, these benchmarks are not only created, but also put into practice and continuously optimised at the same time.\n\nIn addition, Guangdong, Hong Kong and Macau have agreed to press ahead with research on legislative collaboration.\n\nDr Cheung said the “Task Force on Expediting the Alignment of Rules & Mechanisms in Guangdong, Hong Kong & Macau”, which he leads, is currently being formed. It will co-ordinate with relevant bureaux and support the joint conference’s work.\n\nThe conference also endorsed the GBA Mediator Panel 2026, and the three parties took the opportunity to exchange views on the usage of the GBA Arbitrator Panel.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261125/20261125_184527_288/images/20261125192518739.jpg",
+      "publishedAt": "2026-11-24T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261125/20261125_184527_288.html"
     },
     {
       "id": "f34a39b74e047240",
@@ -1028,17 +1039,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261123/20261123_180307_265.html"
-    },
-    {
-      "id": "b5275b278ba20889",
-      "title": "Rural poll nominations open soon",
-      "excerpt": "The nomination period for ​the 2027 Rural Ordinary Election begins tomorrow and runs until December 7, ahead of next January’s…",
-      "fullText": "The nomination period for ​the 2027 Rural Ordinary Election begins tomorrow and runs until December 7, ahead of next January’s polls.\n\nThe three types of rural representatives are indigenous inhabitant representatives (IIRs), resident representatives (ReRs) and neighbourhood (“kaifong”) representatives (KFRs).\n\nTo run in the IIR election, a candidate must be an indigenous inhabitant of an indigenous or composite indigenous village, a registered elector for that village and ordinarily resident in Hong Kong.\n\nFor the ReR and KFR elections, candidates must be registered electors who have lived in the relevant existing village or market town for the six years immediately preceding their nomination.\n\nAll candidates must be Hong Kong permanent residents aged 21 or over and secure nominations from at least five registered electors in their village or market town. Candidates may only stand in one type of election, while each elector can endorse only as many nominees as there are vacancies in that area.\n\nNomination forms are available from the Home Affairs Department, all Home Affairs Enquiry Centres and via the Rural Representative Election website . Completed forms must be submitted in person to the returning officers.\n\nA notice in the Government Gazette on valid nominations will be published within 14 days of the nomination period closing, and valid candidates will be informed individually.\n\nFor enquiries, call 2152 1521.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261123/20261123_105832_768/images/20261123122546983.jpg",
-      "publishedAt": "2026-11-22T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261123/20261123_105832_768.html"
     },
     {
       "id": "d83c517097744d3b",
