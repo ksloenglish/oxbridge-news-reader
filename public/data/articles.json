@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T11:15:21.857Z",
-  "checkedAt": "2026-11-25T11:30:29.332Z",
+  "generatedAt": "2026-11-25T11:45:21.940Z",
+  "checkedAt": "2026-11-25T11:45:21.940Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "15b25c8adc92f1cb",
+      "title": "DPRK expels top Swiss diplomat for \"hostile act\"",
+      "excerpt": "The Foreign Ministry of the Democratic People's Republic of Korea (DPRK) has ordered the head of the Swiss diplomatic office…",
+      "fullText": "The Foreign Ministry of the Democratic People's Republic of Korea (DPRK) has ordered the head of the Swiss diplomatic office to leave the country, the official Korean Central News Agency (KCNA) reported on Wednesday.\n\n\"The Foreign Ministry of the Democratic People's Republic of Korea declared the head of the Swiss Diplomatic Office in the DPRK persona non grata and urged him to leave the country within 48 hours,\" KCNA said, using the country's official name.\n\n\"Any act of violating the sovereign rights of the DPRK and the interests of its citizens can never be welcomed by us,\" it said.\n\nThe ministry said the move was in response to Switzerland's decision to impose sanctions on the country's Songdowon International Children's Camp, calling it an overtly hostile act.\n\nOn Tuesday, the DPRK condemned Switzerland for adding the camp to its sanctions list over its alleged role in the transfer of children from Russian-occupied areas of Ukraine and said it would consider shutting down the diplomatic office in Pyongyang.\n\nThe sanctions infringed on the DPRK's sovereignty as they denied the country's obligation to provide children with opportunities for culture and recreation, DPRK leader Kim Jong-un's influential sister, Kim Yo-jong, said.\n\nOn Tuesday, Switzerland's Federal Department of Foreign Affairs said its sanctions policy was independent of the reopening of the diplomatic office, which it had conducted \"in line with our universalist foreign policy.\"\n\n\"Its aim is to maintain channels of dialogue, including with states with which we have differences on certain issues,\" it said in emailed comments. (Xinhua/Reuters)\n\nEdited by Raymond Yeung",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T11:30:05.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879248-20261125.htm"
+    },
     {
       "id": "a48bc422be6b9f7b",
       "title": "China, HK stocks end the day with losses",
@@ -929,17 +940,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878911-20261123.htm"
-    },
-    {
-      "id": "c2e253ba6ec7a3c5",
-      "title": "Death toll rises to 24 in Indonesian factory fire",
-      "excerpt": "Indonesia confirmed on Monday the deaths of 24 people in a fire that tore through a factory at the weekend…",
-      "fullText": "Indonesia confirmed on Monday the deaths of 24 people in a fire that tore through a factory at the weekend, as rescuers braved unstable structures in the burned wreckage in the search for about 30 people still missing.\n\nAuthorities were still investigating the cause of the fire, which broke out on Saturday evening in one building of the PT Fonusa Agung Mulia confectionery factory in Cikande in Banten province, about an hour's drive from the capital Jakarta.\n\nSaid Iqbal, a presidential adviser on labour issues, said 24 people had died, adding implementation of safety protocols was being assessed and that he would summon the factory's chief executive.\n\nPreliminary reports indicated the fire may have been caused by an air-conditioner short circuit, Said added.\n\nThe factory is owned by United Family Food.\n\nThe firm employs about 5,000 people overall and is a major supplier of consumer goods to the domestic market, with four overseas offices.\n\nIts products include Milkita, a popular confectionery brand, and Lemonilo, an instant noodle variety, according to its website.\n\nThe factory's CEO Steven Erwin Wijaya said about 300 people were present at the factory complex for Saturday's shift.\n\nThe search continued on Monday with remaining hotspots and the building's increasingly unstable structure posing safety risks for rescuers, according to Al Amrad, head of the Banten search and rescue agency.\n\nHe said 29 people were confirmed safe, five of whom were hospitalised.\n\nRescuers had so far taken away 24 body bags containing body parts but authorities on the ground could not immediately confirm the death toll, he said.\n\nThe intensity of the fire meant recovered victims were unidentifiable via visual inspection, with efforts ongoing to collect DNA samples from relatives, a process that could take weeks, police official Wahyu Hidayati said. (Reuters)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T04:19:46.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878912-20261123.htm"
     },
     {
       "id": "8d3e5999e549ecba",
