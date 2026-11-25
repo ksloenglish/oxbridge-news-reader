@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T03:15:21.814Z",
-  "checkedAt": "2026-11-25T03:15:21.814Z",
+  "generatedAt": "2026-11-25T03:30:26.745Z",
+  "checkedAt": "2026-11-25T03:30:26.745Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "rthk-finance",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 14
     },
     {
       "id": "rthk-sport",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 6
+      "articleCount": 8
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "edc6cb65f4d3bdc0",
+      "title": "'HK backs advancement of digital tech in global trade'",
+      "excerpt": "Director-General of Trade and Industry Aaron Liu on Wednesday said Hong Kong fully backs the advancement of digital technologies in…",
+      "fullText": "Director-General of Trade and Industry Aaron Liu on Wednesday said Hong Kong fully backs the advancement of digital technologies in international trade.\n\nSpeaking on an RTHK programme, he noted that the Apec Trade Digitalisation Cooperation Framework – a four-year regional initiative – was adopted by the 21 member economies at last week’s Apec meetings in Shenzhen.\n\n“We will fully support the recently endorsed Apec Trade Digitalisation Cooperation Framework. We will continue to make good use of the Apec platform to share Hong Kong’s experience as an international trade centre and in digital trade, telling the good stories of Hong Kong,” Liu said.\n\n“For example, when we attended an Apec event in Dalian in August, our department held two workshops on digital service trade rules and data standards, inviting relevant experts and industry representatives to share our experience and exchange ideas.”\n\nPointing out that Hong Kong plays a unique role by participating in Apec both as a member economy and a special administrative region of China, Liu said the SAR not only keeps abreast of the latest international trends, but also takes part in formulating cooperation directions on emerging topics such as digital trade and the green economy.\n\nHe also noted that Hong Kong, leveraging its unique advantages of the motherland’s support and being closely connected to the world under the One Country, Two Systems principle, achieved positive outcomes during the Apec China year which saw the country host a year-long series of Apec events.\n\nMoving forward, Liu said the SAR will continue to actively participate in Apec affairs, leveraging its strengths as a “super connector” and “super value-adder” to contribute to national development.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-25T03:18:24.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879178-20261125.htm"
+    },
     {
       "id": "aedad42cacee30b4",
       "title": "Local blue chips buck regional sell-off",
@@ -821,17 +832,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878898-20261123.htm"
     },
     {
-      "id": "9b17250e2b1bd03c",
-      "title": "Hundreds of Delta flights hit by system fault",
-      "excerpt": "More than 1,000 Delta flights were delayed on Sunday after an automated system that calculates an aircraft's weight malfunctioned during…",
-      "fullText": "More than 1,000 Delta flights were delayed on Sunday after an automated system that calculates an aircraft's weight malfunctioned during a busy time for travel ahead of the US Thanksgiving holiday.\n\nThe airline said on Sunday morning that its teams were using manual workarounds to get flights off the ground while they sought to restore the automation system that ensures an aircraft isn't too heavy to fly.\n\nHours later, Delta said that system was once again working, though flights were still not back to normal.\n\nThe airline said it was helping passengers who needed hotel rooms or meals but hoped to have all the delayed flights in the air by the end of the day.\n\nOn Sunday morning, the US Federal Aviation Administration (FAA) issued about an hour-long ground stop to some flights into Hartsfield-Jackson Atlanta International Airport, which is Delta's main hub and one of the busiest airports in the world.\n\nComplying with the weight and balance limits of an aircraft is critical to flight safety, according to an FAA document, and going above the limit can compromise the structural integrity of the aircraft.\n\nThe agency said on X that the delays weren't related to FAA air traffic systems.\n\nEarlier this month, a malfunction in the FAA’s network led to the longest nationwide ground stop in 25 years.\n\nThe stop lasted for more than four hours, and carriers cancelled and delayed a large number of flights as they worked to recover.\n\nJust days after that, United Airlines saw its own system outage — forcing it to delay departing flights.\n\nThe Delta delays come as Americans have been encountering a growing number of problems with technology that are increasingly disrupting their lives.\n\nAnd the disruptions came just days before the Thanksgiving holiday, the busiest travel season in the United States.\n\nAs of Sunday evening, the flight-tracking website FlightAware said 58 percent, or about 2,000, of Delta's flights were delayed; it wasn't immediately clear how many of those involved flights into or out of the Atlanta airport.\n\nFlightAware said that about 58 percent of flights out of the Atlanta airport were delayed while about 50 percent of flights destined for the airport were delayed.\n\nThe vast majority of flights at the Atlanta airport are operated by Delta.\n\nDelta said about 70 percent of the delays and cancellations noted by FlightAware were connected to the automation issue and the rest were because of inclement weather. (AP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T02:11:57.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878885-20261123.htm"
-    },
-    {
       "id": "db5983b94ca52065",
       "title": "Marquez makes history with eighth MotoGP world title",
       "excerpt": "Spaniard Marc Marquez was crowned MotoGP world champion for a record-equalling eighth time on Sunday, with an eighth-place finish at…",
@@ -874,17 +874,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878873-20261123.htm"
-    },
-    {
-      "id": "01b876d20ce6ab3e",
-      "title": "Man arrested after fatal TST traffic accident",
-      "excerpt": "Police arrested a 38-year-old man on suspicion of drink-driving and dangerous driving causing death on Sunday, after a private car…",
-      "fullText": "Police arrested a 38-year-old man on suspicion of drink-driving and dangerous driving causing death on Sunday, after a private car mounted a pavement in Tsim Sha Tsui and knocked down four pedestrians, leaving one dead and three injured.\n\nChief inspector Lau Ka-hang told a media briefing that the driver had left the vehicle after the accident on Prat Avenue at around 2.30 pm and attempted to flee the scene. Several members of the public followed him and alerted the authorities.\n\nOfficers eventually apprehended the suspect, and a preliminary breathalyser test indicated that his alcohol level exceeded the legal limit.\n\nLau said the car had already hit a traffic signpost on Minden Row, and struck a light goods vehicle parked on Hart Avenue before proceeding to Prat Avenue without stopping. That’s where the vehicle struck four pedestrians aged between 31 and 70.\n\nA 53-year-old man sustained severe head injuries and was later pronounced dead. The other three victims were taken to hospital for treatment.\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-22T23:15:22.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878870-20261123.htm"
     },
     {
       "id": "777689165b46b8f7",
@@ -1327,17 +1316,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878553-20261120.htm"
     },
     {
-      "id": "8e0255a61f68a0c0",
-      "title": "Japan, Korea stocks plunge despite Anthropic IPO",
-      "excerpt": "Japanese and South Korean stocks plunged in early trade Friday after chip-related stocks fell on Wall Street, despite the stellar…",
-      "fullText": "Japanese and South Korean stocks plunged in early trade Friday after chip-related stocks fell on Wall Street, despite the stellar debut performance of Anthropic.\n\nAt the start of Friday morning trade, the Nikkei 225 was down 4.02 percent at 57,051 points, while South Korea's benchmark Kospi index fell 3.81 percent to 4,942 points.\n\nAnthropic, the maker of the Claude chatbot, raised a record US$81.3 billion in its initial offering, with shares closing 17 percent higher in its Nasdaq debut on Thursday.\n\nBut the gain came on a rough day for markets, with both the tech-heavy Nasdaq and the broader S&P 500 closing down more than two percent.\n\nThe record IPO also failed to settle nerves on trading floors as they deal with the fallout from the crisis engulfing AI titan Nvidia.\n\nOnline brokerage Monex said that given the strength of demand for Anthropic stock, \"some people have suggested that there may even be a shift of funds away from high-tech stocks\" in order to buy the company's newly listed shares.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T01:22:08.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878547-20261120.htm"
-    },
-    {
       "id": "f3a422c88bf989a7",
       "title": "Trump issues pardon to MLB hits king Pete Rose",
       "excerpt": "US President Donald Trump on Thursday said he has issued a posthumous pardon to Pete Rose, the controversial Major League…",
@@ -1743,6 +1721,28 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/china/2026/11/05/joshua-wong-hong-kong-sentence/"
+    },
+    {
+      "id": "6cfaccc0821ecc5e",
+      "title": "Overseas university heads eye NM",
+      "excerpt": "The World Class University Presidents Forum was held at the Hong Kong University of Science & Technology on November 4…",
+      "fullText": "The World Class University Presidents Forum was held at the Hong Kong University of Science & Technology on November 4 and 5, drawing presidents and senior management from around 50 world-leading institutions.\n\nThe Hong Kong Special Administrative Region Government is dedicated to transforming the city into an international education hub, a vision that includes developing three university towns within the Northern Metropolis (NM).\n\nThis initiative has garnered significant attention from participating universities, with university presidents from the UK, Spain and South Africa expressing interest in exploring various models of participation.\n\nStuart Croft, University of Warwick Vice Chancellor & President, said the Hong Kong SAR Government is being very strategic, future-oriented and globally oriented.\n\n\"With the whole concept of economic growth being driven with universities, with industry, facilitated by government, the triple helix model, where else in the world is there something of this scale and ambition?\"\n\nProfessor Croft predicted that over the next decade, the world's top universities will transform their partnership model to embedding activities.\n\n\"That is what is going to make the difference, and of course the Northern Metropolis gives a fantastic opportunity for Hong Kong universities to build that embedding process, possibly earlier, possibly more deeply than elsewhere in the world, \" he said.\n\nIn the latest QS Asia University Rankings, Hong Kong has five universities in Asia’s top ten.\n\nMosa Moshabela, Vice Chancellor & Principal of the University of Cape Town in South Africa noted that Hong Kong’s high concentration of top-tier universities, paired with its convenient transport and lifestyle, promotes student and faculty mobility while bolstering the \"Study in Hong Kong\" initiative.\n\n\"I think it can really offer a good place for brain circulation. For my university, for example, it would be of interest for students and faculty to come in, especially for a relatively short stay of six months. A relatively short stay would be really good for exposure, in-depth exposure to what's happening in Hong Kong, especially if it is linked to industry.\"\n\nParticipating presidents also highlighted the flow of talent, which they said tends to gravitate toward places with strong innovation and research ecosystems.\n\nThey expressed hope that the Hong Kong SAR Government would proactively offer incentives to attract and retain talent and support the development of the university town project.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_124445_933/images/20261105182838364.jpg",
+      "publishedAt": "2026-11-05T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_124445_933.html"
+    },
+    {
+      "id": "bbc2fa366fb47ee7",
+      "title": "HK global education role grows",
+      "excerpt": "Secretary for Education Choi Yuk-lin spoke today at the World Class University Presidents Forum 2026, highlighting Hong Kong's growing strength…",
+      "fullText": "Secretary for Education Choi Yuk-lin spoke today at the World Class University Presidents Forum 2026, highlighting Hong Kong's growing strength, global voice and strategic vision as a premier international higher education hub. The two-day forum in Hong Kong concludes today.\n\nAddressing the audience, Ms Choi noted that the forum gathered leaders and university presidents representing more than one-third of the world's top 50 universities. \"Assembling such a distinguished constellation of global academic leadership strongly reaffirms Hong Kong's standing as an international education hub and significantly enhances the city's discourse power in the global educational arena,\" she said.\n\nMs Choi emphasised that Hong Kong's institutional strength is firmly rooted in academic excellence, robust national support and open connectivity. Citing the latest QS World University Rankings: Asia 2027, she pointed out that Hong Kong continues to set regional benchmarks with five local universities securing places among Asia's top 10.\n\nServing as a vital bridge between East and West, Hong Kong offers a fertile ecosystem characterised by internationalisation and diversification to bring global talent together, she said. The education chief added that the forum forms part of a strategic series of signature initiatives promoting the “Study in Hong Kong” brand worldwide, alongside major events like February’s Asia-Pacific Association for International Education Conference and Exhibition.\n\nElaborating on the forum's theme, \"Higher Education Reimagined: Innovating for the Future\", Ms Choi stressed that no matter how the global landscape evolves, universities remain fundamentally tied to economic development, societal well-being and human progress. She noted that world-leading institutions must stand at the forefront to guide this transformation as Hong Kong's educational landscape evolves.\n\nThe vision is being physically realised through the development of the Northern Metropolis University Town. The Education Bureau pointed out that under the \"One Town, Five Elements\" framework, the Hong Kong Special Administrative Region Government is building a holistic campus ecosystem integrating higher education, advanced research, market innovation, vibrant living spaces and top-tier talent.\n\nPositioned at the gateway to the Chinese Mainland, the University Town will foster deep industry-academia-research integration, linking academic research directly with industry capabilities to serve national development under the 15th Five-Year Plan.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_133828_723/images/20261105152558884.jpg",
+      "publishedAt": "2026-11-04T16:00:00.000Z",
+      "source": "news.gov.hk — At School, At Work",
+      "sourceFeed": "news-gov-hk-school-work",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261105/20261105_133828_723.html"
     }
   ]
 }
