@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T08:00:30.221Z",
-  "checkedAt": "2026-11-26T08:00:30.221Z",
+  "generatedAt": "2026-11-26T08:15:25.443Z",
+  "checkedAt": "2026-11-26T08:15:25.443Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "5303e42e2d279f04",
+      "title": "Tai Po fire victims remembered, one year on",
+      "excerpt": "Former residents and members of the public gathered in Tai Po on Thursday to lay flowers and observe a moment…",
+      "fullText": "Former residents and members of the public gathered in Tai Po on Thursday to lay flowers and observe a moment of silence to mark one year since the deadly Wang Fuk Court fire.\n\nAt an open space next to the community hall in Kwong Fuk Park, mourners placed white flowers on benches, with some leaving paper cranes.\n\nA former resident of Wang Tai House, one of the seven Wang Fuk Court blocks scorched in the blaze, said some of her neighbours and friends died in the fire, and she returned on the anniversary to pay her respects.\n\nAnother resident, who came with her foreign domestic helper, thanked the public for their concern for Wang Fuk Court residents.\n\nShe also said she moved three times in the past year before deciding to settle again in Tai Po.\n\nA mourner who laid flowers said the past year had been hard for both residents and the families of those killed or injured, and expressed hope they would find the strength to carry on with their lives.\n\nAnother mourner said she came to remember those who perished as she recalled what happened that fateful day.\n\nShe hoped those affected would find new homes soon and begin new lives.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T08:07:07.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879360-20261126.htm"
+    },
     {
       "id": "ec0adc6da9f7275b",
       "title": "AI bot to help teachers nip mental health woes in bud",
@@ -819,17 +830,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879119-20261124.htm"
-    },
-    {
-      "id": "53555b6665b34eaa",
-      "title": "Evening News on TV32 - Nov 24",
-      "excerpt": "Top stories for Tuesday, Nov 24, 2026 - Hong Kong's two power companies reveal tariff increases for next year. -…",
-      "fullText": "Top stories for Tuesday, Nov 24, 2026\n\n- Hong Kong's two power companies reveal tariff increases for next year.\n\n- The government announces further grants for those caught up in the Wang Fuk Court tragedy.\n\n- China will launch its Shenzhou-24 crewed spaceship tomorrow.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T12:39:50.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879109-20261124.htm"
     },
     {
       "id": "326076aa5917fe1b",
