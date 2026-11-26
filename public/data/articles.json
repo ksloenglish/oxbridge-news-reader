@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T05:15:18.571Z",
-  "checkedAt": "2026-11-26T06:00:29.588Z",
+  "generatedAt": "2026-11-26T06:15:21.375Z",
+  "checkedAt": "2026-11-26T06:15:21.375Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -20,7 +20,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 20
     },
     {
       "id": "rthk-world",
@@ -80,7 +80,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 19
+      "articleCount": 18
     },
     {
       "id": "fox-news-tech",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "92ba49a405571949",
+      "title": "Light rail, Tuen Ma Line disruptions hit MTR",
+      "excerpt": "The MTR Corporation reported two service disruptions on Thursday – one on the Tuen Ma Line and the other on…",
+      "fullText": "The MTR Corporation reported two service disruptions on Thursday – one on the Tuen Ma Line and the other on the light rail.\n\nLight rail services were disrupted for about 30 minutes at around 10.30am in Tuen Mun following a crash involving a light rail train and a truck at the intersection of Lung Mun and Wu Chui roads.\n\nThe train was not carrying any passengers at the time.\n\nThree light rail services were diverted and did not stop between Tuen Mun Ferry Pier and Light Rail Depot stations.\n\nPolice said no one was injured.\n\nIn a separate incident earlier, a lifting platform of an engineering train malfunctioned around 4am upon completing overhead cable maintenance near Tin Shui Wai station, leading to engineers having to carry out repair work on site.\n\nWhile the repair work was being carried out, two-way operations were carried out on a single track for the section of the railway line between Tuen Mun and Yuen Long stations.\n\nAs services opened for the day, trains ran at 25-minute intervals for that stretch, with those running between Yuen Long and the rest of the Tuen Ma Line in the direction of Wu Kai Sha station remaining normal at eight-minute intervals.\n\nTuen Ma Line services gradually returned to normal at 6.15am.\n\nFree shuttle buses were arranged during both incidents.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T06:04:05.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879340-20261126.htm"
+    },
     {
       "id": "ce5830667d0fe2c9",
       "title": "Home prices edge lower but rents scale new highs",
@@ -882,8 +893,8 @@
       "fullText": "The Hong Kong SAR’s first astronaut, Lai Ka-ying, will return to Earth after completing an in-orbit crew rotation, the China Manned Space Agency on Tuesday said, as it announced that the Shenzhou-24 would launch on Wednesday morning to the Tiangong Space Station.\n\nThe mission will carry the station’s first foreign astronaut, Pakistani payload specialist Muhammad Zeeshan Ali, who will fly alongside Chinese astronauts Tang Hongbo and Wu Yi.\n\nAli will conduct a short mission and return with Lai and Zhang Zhiyuan, another Shenzhou-23 astronaut who will command the return flight.\n\nZhang Jingbo, who is a spokesman for the agency, said Lai had completed a range of tasks as payload specialist.\n\n\"She did a great job with space science research, tech tests, and science outreach,\" he said.\n\n\"Working closely with her crewmates and ground teams, she ran experiments like studying the molecular mechanisms behind multigeneration genetic stability and environmental adaptability of space-grown rice.\"\n\nHe added that Lai also operated a robotic arm inside the cabin during an extravehicular activity, supporting her two teammates and helping them smoothly complete tasks including solar-wing repair and the installation of space debris protection devices.\n\nZhang noted that Lai also made a virtual return to her alma mater in September for a live educational lecture that captivated students in Hong Kong and Macao.\n\n\"She and her crewmates were the space teachers that made microgravity experiments live for young people and explaining how astronauts do research on the station, giving Hong Kong and Macao folks a direct look at the nation's space achievements and deepening their love for the country. It got a great response,\" he said.\n\nZhang said Lai approached every task with vigour and a down-to-earth scientific attitude, and that her experience had given young people — especially Hong Kong and Macao youth — a sense of the strength of the nation’s science and technological capabilities.\n\nHe expressed hope that her experience would encourage young people to boldly pursue the nation’s space dreams.\n\nEdited by Tony Sabine",
       "imageUrl": null,
       "publishedAt": "2026-11-24T04:27:39.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879052-20261124.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/korea/2026/11/10/north-korea-affordability-crisis-inflation/"
-    },
-    {
-      "id": "b301748bac1f94d4",
-      "title": "No internet, no advance warning: 11 killed in Myanmar military bombing in Sagaing",
-      "excerpt": "Civilians in war zones are left vulnerable as Starlink internet becomes scarce after scam center crackdown.",
-      "fullText": "Read a version of this story in Burmese\nIt was just before noon on Saturday. Three gyrocopters flew low as they approached Nyaung Pin Lay village. A school and surrounding residential area was bombed. Eleven were killed, including four children.\nA resident told RFA that although the local People’s Defense Forces (PDF) received a tip that the Myanmar military would bomb the school, the warning could not reach them in time due to the lack of internet in the village.\n“Information that this would be bombed was sent online to everyone. They did inform us,” the Kani Township resident told RFA on the condition of anonymity for security reasons.\n“But because there was no Starlink communication, casualties were high as a result. About a month ago in Nat La Po village, when we got the exact location that would be bombed and cleared the area, there were no casualties. That was fortunate. But now, even though we got the location to be bombed, communication was cut off.”\nA May 25, 2025, photo shows a Starlink sign at an internet cafe in Demoso, Myanmar.\n(AFP) In Myanmar, home to the world’s longest-running civil war, the military-appointed government has cut off phone lines and internet communications in over 40 percent of townships nationwide. Locals, civil society groups, and revolutionary forces tell RFA that they rely on Starlink — acquiring the devices through unofficial and often expensive channels — as a lifeline for information.\nIn October 2025, SpaceX announced the disabling of over 2,500 Starlink kits in Myanmar to crack down on transnational cyber-scam syndicates operating along the Thai-Myanmar border. Subsequent restrictions by SpaceX on unregistered units bought outside of Myanmar have shut down countless others.\nSince June, more than 20 percent of Starlink internet devices used in Myanmar have had their services cut off, according to a report released on Oct. 23 by the group Athan.\nLocal residents and human rights activists told RFA that this has created a crisis for the survival of civilians in areas of intense civil conflict.\nA Myanmar government photo taken on Oct. 20, 2025, shows seized Starlink devices during a raid on the KK Park online scam center in Myawaddy.\n(Myanmar Military Information Team via AFP) “The military cutting off phone lines and internet connections from the start was intentionally aimed at concealing human rights violations they commit and restricting people’s freedom of expression,” said Joy, a research director at Athan, a non-profit organization for the Freedom of Expression Movement in Myanmar.\n“If Starlink also stops providing services to Myanmar and cuts connections, emergency humanitarian aid, air strike alerts, news regarding military columns, and natural disaster warnings for these local residents will stop immediately.”\nAccording to a report titled “Dead Air” released by Athan on October 23, the communication cut-off directly affects the lives and safety of people in conflict-affected regions as they can no longer receive warnings about airstrikes and military movements, medical aid, or updates on family members’ safety and evacuation routes.\nRFA contacted Khaing Khaing Soe, spokesperson for the military-appointed president’s office, regarding when internet and phone lines might be restored. She instead referred RFA to the Ministry of Digital Development and Communications.\nNow, not only Starlink devices used by scam operations are being shut down, but Starlink connections used by civilians have also been suspended starting in June this year, with more than 20 percent of devices cut off by October, according to Athan. Consequently, regions like Sagaing, Mandalay, Magway, Rakhine, Kayah State, and other areas experiencing severe conflict were directly affected, Athan’s report states.\nRFA contacted SpaceX regarding the impact on civilians in regions where the internet has been cut off, but has not received a response at the time of publication.\n“Some of our Starlink devices were disabled. This has caused a lot of trouble for us,” said Aye Myint Aung Aung, Head of the Department of Humanitarian Assistance and Emergency Management under the Mandalay Regional Interim Administrative Council.\n“On the other hand, whether it’s our civilians, revolutionary groups, or those leading and operating the administrative mechanism in revolutionary forces, everyone relies on Starlink. As access to information becomes more restricted, limitations on civilian safety also increase. I would define this as a very major challenge for us.”\nIn Kayah State, Deputy Minister of Defense for the Karenni State Government Khu Daniel told RFA that Starlink connections are being shut down one by one, raising concerns.\n“For the public and for the youth currently fighting in battle, it will become a cause for concern,” he said.\nA Sept. 17, 2025, photo shows people on a balcony of a building with what appears to be Starlink satellite dishes on the roof in the KK Park complex in Myawaddy, Myanmar.\n(Lillian Suwanrumpha/AFP) Khun Chit Htoo, who is assisting refugees in the Karenni Region, said that if all Starlink services are shut down, it could have a severe impact on humanitarian aid operations.\n“Our current work relies on internet connectivity as well as donors. Since we connect online, we are very concerned,” said Khun Chit Htoo.\n“We will face a situation where we can no longer help needy civilians receive the support they really need across all aspects of coordination. If there is no internet line left, I believe we stand to lose a lot because of this single connection.”\nWhile welcoming and supporting the shutdown of Starlink internet lines used by online scam operations to crack down on scam syndicates, 317 civil society organizations issued a statement on July 17 expressing deep concern over potential negative impacts if all Starlink terminals nationwide are shut down.\nAccording to an October 23 report by the Myanmar Internet Project, an organization monitoring internet shutdowns and conflicts, there were 581 military airstrikes that killed at least 353 civilians in the three months from July to September 2026, with 562 of those attacks occurring in areas where internet service was cut off.\nTranslated by Nayrein Kyaw. Edited by Charlie Dharapak.",
-      "imageUrl": "https://www.rfa.org/resizer/v2/J7ETN2ZZZRHT7M3BLCGBITIGSY.jpg?auth=55de291504e091fd6b9e13802de7658b1083d1d2212c59ee26594779e8ba47d9&smart=true&width=1500",
-      "publishedAt": "2026-11-10T05:49:58.000Z",
-      "source": "Radio Free Asia English",
-      "sourceFeed": "rfa-english",
-      "link": "https://rfa.org/english/myanmar/2026/11/10/starlink-burma-civil-war-scam-center/"
     }
   ]
 }
