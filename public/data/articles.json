@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T07:15:30.519Z",
-  "checkedAt": "2026-11-26T07:45:19.577Z",
+  "generatedAt": "2026-11-26T08:00:30.221Z",
+  "checkedAt": "2026-11-26T08:00:30.221Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "ec0adc6da9f7275b",
+      "title": "AI bot to help teachers nip mental health woes in bud",
+      "excerpt": "A cross-sector coalition of three universities and a mental health and wellness association has launched MentAl Bot, a digital platform…",
+      "fullText": "A cross-sector coalition of three universities and a mental health and wellness association has launched MentAl Bot, a digital platform designed to help Hong Kong teachers better recognise and respond to students' mental health needs.\n\nThe researchers described it as the first systematic mental health training programme in Hong Kong built on the World Health Organization's International Classification of Diseases (ICD-11) classification, translating an internationally used diagnostic framework into practical learning material for people without medical training.\n\nThe project brings together researchers from Polytechnic University's department of applied social sciences, Chinese University 's psychology department and Shue Yan University's department of counselling and psychology, as well as the Association of Professional Mental Health and Wellness Education.\n\nIn its first phase starting on Thursday, the platform will be rolled out to 300 university students and 300 teachers across 20 secondary, primary and special schools.\n\nParticipants begin with modules on mental health literacy and depression, with sessions on anxiety and bipolar disorder to be followed later.\n\nContent is delivered through video case studies and gamified interactive learning experiences, with the aim of giving educators with no psychology or medical background a working grasp of core concepts.\n\nAssociation chairwoman Amy Lam said MentAl Bot is not intended to turn teachers into clinicians or to have them diagnosing students.\n\n“Our mission is to empower teachers to understand mental health issues in a very fundamental manner with international recognised standards,” she said.\n\n“After attending the four sections provided by MentAI Bot, it is hoped our teachers will be more confident when they face students with mental health challenges.”\n\nMentAl Bot, Lam said, aims to give educators sufficient knowledge to spot problems, respond sensibly, and judge when a case should be referred on.\n\nThe platform's developers also hope the approach will chip away at the stigma that still surrounds mental health in schools.\n\nThe team will track how participants use the material and gather feedback from frontline staff, to refine the content and decide which modules to develop next.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T07:46:02.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879346-20261126.htm"
+    },
     {
       "id": "fc5b7ae54ff16459",
       "title": "Driver arrested over Sha Tin Road collision",
@@ -819,17 +830,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879109-20261124.htm"
-    },
-    {
-      "id": "98d3025bc8346358",
-      "title": "7.9pc increase in HK Electric tariffs, 1.8pc for CLP",
-      "excerpt": "The people of Hong Kong will have to dig deeper into their pockets for electricity charges from January. Presenting the…",
-      "fullText": "The people of Hong Kong will have to dig deeper into their pockets for electricity charges from January.\n\nPresenting the annual tariff review at a Legco panel meeting on Tuesday, HK Electric, which supplies electricity to Hong Kong Island and Lamma Island, said its net tariff will climb by 7.9 percent.\n\nCLP Power – which serves Kowloon, the New Territories and most outlying islands – will increase its charges by 1.8 percent.\n\nThe tariff hikes mean about 12.9 cents more per unit of electricity for HK Electric customers compared with this year, and an additional 2.6 cents for CLP Power households.\n\nSecretary for Environment and Ecology Tse Chin-wan noted that the gap in tariffs between the two power firms was widening due to rising international fuel prices since the start of the Middle East conflict earlier this year, describing it as a structural issue.\n\nThe government is determined to address it, Tse added.\n\n“For HK Electric, the market is smaller. There is not a scalable effect. In terms of fuel mix, unlike the CLP – they have nuclear power – HK Electric relies completely on fossil fuel, so they are particularly vulnerable to the surge in fuel cost,” he said.\n\n“We will try to stabilise the tariff in the long run and also reduce the gap between the prices between the two companies.”\n\nTse also said the government will no longer allow the utility firms to build new fossil fuel energy generators.\n\nInstead, the firms will construct large-scale electricity facilities at Area 132 in Tseung Kwan O to receive zero-carbon electricity from the mainland.\n\nAlan Ng, CLP's senior director of planning and development, said the firm has already allocated HK$250 million from its Community Energy Saving Fund to assist the underprivileged, promote energy saving and decarbonisation, and enhance buildings’ energy efficiency and electrical safety.\n\nHK Electric’s general manager Bill Ho said he expects the fuel market to continue to fluctuate, adding that price trends would be hard to predict.\n\nThe firm will try its best to make sure fuel supply would be sufficient and reliable, he added.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T11:49:37.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879110-20261124.htm"
     },
     {
       "id": "326076aa5917fe1b",
