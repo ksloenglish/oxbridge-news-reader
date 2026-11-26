@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T02:15:20.739Z",
-  "checkedAt": "2026-11-26T02:45:22.552Z",
+  "generatedAt": "2026-11-26T03:00:37.949Z",
+  "checkedAt": "2026-11-26T03:00:37.949Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "563c484fa5b9291a",
+      "title": "HK, regional equities rally as Wall St fights off lows",
+      "excerpt": "Asian shares eked out a rare rally on Thursday after Wall Street fought back from deep lows, though concerns over…",
+      "fullText": "Asian shares eked out a rare rally on Thursday after Wall Street fought back from deep lows, though concerns over the circular financing of AI and a new round of US tariffs made for a muted mood in a holiday-thinned session.\n\nIn Hong Kong, the benchmark Hang Seng Index started the day up 268 points, or 1.2 percent, at 22,234.\n\nThe tech index surged 77 points, or 2.3 percent, up to 3,455 while the China enterprises index rose 100 points, or 1.4 percent, to 7,485.\n\nUp north, the Shanghai Composite Index opened up 13 points, or 0.39 percent, at 3,490.\n\nThe Shenzhen Component Index was 98 points, or 0.98 percent, higher at 10,184 while the ChiNext Index rose 29 points, or 1.35 percent, to 2,213.\n\nIn Tokyo, the Nikkei opened 417 points, or 0.73 percent, up at 57,429 before doubling its gains to be 818 points higher at one stage before lunch.\n\nIn Seoul, the Kospi opened 47 points, or 1.01 percent, at 4,745 and, unlike the Nikkei, its gains were a little more sedate, nudging the benchmark up to 53 points higher at one stage before noon.\n\nThe gains came after tech giant Nvidia was again at the centre of the unease after S&P put its credit rating on watch for a possible downgrade citing weaknesses in the chipmaker's management and board oversight.\n\nNvidia stock ended down 3.9 percent at US$149.30 on Wednesday, US$2.3 trillion short of its October peak of US$243.37.\n\nWall Street did recoup most of its initial losses overnight as money moved into other, more defensive, sectors. S&P 500 futures added 0.5 percent early on Thursday, while Nasdaq futures firmed 0.4 percent.\n\nBond investors are wondering if the broad losses in stocks coupled with doubts on the durability of AI-driven business investment might temper the hawkishness of central banks.\n\nIt was notable that Treasury yields hit multi-week lows on Wednesday even as US economic growth for the third quarter was revised up sharply to 4.3 percent, while the Federal Reserve's favoured measure of core inflation hit an uncomfortably high 3.3 percent.\n\nWhile futures still imply a 98 percent chance the Fed will raise rates by 25 basis points in December, speculation of a half-point increase has faded.\n\nYields on 10-year paper were off at 4.848 percent, having touched an 11-week trough overnight.\n\nStill, the outlook for inflation was not helped by White House proposals for new tariffs on 14 major trading partners including China, Japan and the European Union, though crucially the new duties will not stack on top of those imposed in July.\n\n\"The latest US tariff announcement is not as alarming as it looks, and the increase in the effective tariff rate looks set to be a touch lower than we've been assuming,\" said Stephen Brown, chief North America economist at Capital Economics.\n\n\"The additional tariff burden is likely to be small, but will still provide a marginal boost to prices and keep core goods inflation firm into next year.\" (Agencies)\n\nEdited by Wendy Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T02:33:34.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879325-20261126.htm"
+    },
     {
       "id": "c117c2033c37e62e",
       "title": "James sets NBA record as oldest to score triple-double",
@@ -1072,17 +1083,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878941-20261123.htm"
-    },
-    {
-      "id": "52ab61c8e149cab9",
-      "title": "'RMB primed to be internationally attractive currency'",
-      "excerpt": "Secretary for Financial Services and the Treasury Christopher Hui said the internationalisation of the renminbi was not confined to payments…",
-      "fullText": "Secretary for Financial Services and the Treasury Christopher Hui said the internationalisation of the renminbi was not confined to payments and settlement – it's about making it a currency with international appeal for investment and asset allocation.\n\nHe made the remarks as the first exchange-traded fund (ETF) tracking offshore renminbi bonds was listed on Monday.\n\nSpeaking at the listing ceremony, Hui said the fund would provide investors with an efficient and convenient tool.\n\nIt would not only meet global investors’ growing demands for diversified allocation, but also support the SAR government’s goal of expanding the offshore renminbi liquidity pool and enriching renminbi investment products, he said.\n\nHui also said Hong Kong handles around 75 percent of offshore renminbi payments, and renminbi deposits in the city stood at 1.3 trillion yuan.\n\nHe added that the SAR would continue to enrich renminbi products to further consolidate the city’s position as a global offshore renminbi business hub.\n\nCarlson Tong, chairman of the Hong Kong Exchanges and Clearing (HKEX), also called the listing a milestone for Hong Kong's fixed income and currency (FIC) markets.\n\n“Week by week now, we are seeing the ecosystem in the FIC roadmap created by the [Securities and Futures Commission] and [Hong Kong Monetary Authority] taking shape,” he said.\n\n“Each new listing, each new product, each new tool that gives investors more efficient access to the offshore renminbi bond market is another brick that is added to the structure.”\n\nThis was the result of all market stakeholders playing their roles and working together, he added.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T05:15:46.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878917-20261123.htm"
     },
     {
       "id": "625bb80326ef4840",
