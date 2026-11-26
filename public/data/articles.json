@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T11:30:26.329Z",
-  "checkedAt": "2026-11-26T12:45:23.981Z",
+  "generatedAt": "2026-11-26T13:00:33.145Z",
+  "checkedAt": "2026-11-26T13:00:33.145Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "b98070ac3709625a",
+      "title": "Evening News on TV32 - Nov 26",
+      "excerpt": "Top stories for Thursday, Nov 26, 2026 - The government pledges continued support for former residents of Wang Fuk Court…",
+      "fullText": "Top stories for Thursday, Nov 26, 2026\n\n- The government pledges continued support for former residents of Wang Fuk Court.\n\n- Hong Kong's home prices edge lower.\n\n- Beijing says it firmly opposes additional US tariffs on China and other countries.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T12:42:42.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879403-20261126.htm"
+    },
     {
       "id": "ae631c90b0dd9d18",
       "title": "Ombudsman probes LCSD management of public study rooms",
@@ -610,17 +621,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879208-20261125.htm"
-    },
-    {
-      "id": "3cd5293863540905",
-      "title": "Lands Dept urged to hasten lease modification process",
-      "excerpt": "A single application to modify land lease conditions has been left unresolved with the Lands Department for 29.1 years, the…",
-      "fullText": "A single application to modify land lease conditions has been left unresolved with the Lands Department for 29.1 years, the Audit Commission has found.\n\nIn a review, the commission found the department took too long to handle such applications and called for measures to speed things up.\n\nIn its review of the Lands Department's handling of lease modifications, the commission found that 326 applications were being processed as of March 31, 2026.\n\nAbout 65 percent of them, or 213 applications, had been received more than a year earlier – and in the longest instance 29.1 years earlier.\n\nThe Audit Commission examined the records of the three completed cases that took the longest to process, as well as the three cases that had been under processing the longest as of March 31, 2026.\n\nAcross the six, processing time ranged from 19 to 29.1 years from the dates of receipt of applications.\n\nThe time taken from receipt of application to the date of a valid application ranged from eight days to 12.7 years.\n\nAfter validation, the three completed cases went on to take 9.2 to 18.9 years to reach execution of the land documents, while the three still under processing had by March 31, 2026, been running for 23.9 to 26.8 years.\n\nThe department's own accounting of \"non-counting events\" – periods it says it cannot control, such as waiting for information or action from the applicant – explains most of that time.\n\nFor the three completed cases, non-counting events lasted 8.2 to 18.4 years, or about 89 to 97 percent of the post-validation processing time, leaving \"counting events\" that the department should control at just 200 to 372 days.\n\nIn one completed case, a single non-counting event lasted about 14.5 years, arising from the applicant's request to switch the type of documentation used for the modification.\n\nFor six of those 14.5 years, however, no action was taken by the applicant and the department did not proactively follow up on the application, the Audit Commission said.\n\nIn a bigger picture, of 903 land transactions involving lease modifications executed from 2016-17 to 2025-26 covering premiums totalling HK$241.5 billion, 566 applications, or 63 percent, took more than a year to complete.\n\nThe commission found that while monthly monitoring reports exist, the Lands Department had not compiled consolidated summaries to track all applications under processing and to flag early those where unresolved issues might warrant escalation.\n\nIn response, the Development Bureau and Lands Department told the commission that a land lease is a private contract between the government as landlord and the lot owner, and its nature is very different from public contracts such as those arising from procurement, which are subject to standardised rules with strict deadlines.\n\nOfficials said lease modification involves negotiation over both the lease terms and the premium payable, and \"a longer time to reach agreement did not necessarily suggest lack of efficiency\"; whether talks end in an executed document depends on mutual agreement, and the department has a duty to protect government revenue.\n\nThe Lands Department said it would continue to explore measures to facilitate the early completion of cases without undermining its capacity as the government's agent in land administration, and would strengthen monitoring of long-outstanding enforcement cases, including by formulating a target for the length of the review cycle for each District Lands Office.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T05:45:55.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879198-20261125.htm"
     },
     {
       "id": "d6eb9f5431f220d5",
