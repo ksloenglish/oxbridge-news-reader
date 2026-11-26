@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T00:15:20.701Z",
-  "checkedAt": "2026-11-26T01:30:26.342Z",
+  "generatedAt": "2026-11-26T01:45:28.790Z",
+  "checkedAt": "2026-11-26T01:45:28.790Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 15
+      "articleCount": 14
     },
     {
       "id": "rthk-sport",
@@ -80,7 +80,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 19
     },
     {
       "id": "fox-news-tech",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "0521cdcb9316e4ff",
+      "title": "Lukoil reaches deal to sell international assets",
+      "excerpt": "An investment consortium that includes US firm Eldridge announced a deal on Wednesday to acquire Lukoil's international assets, a transaction…",
+      "fullText": "An investment consortium that includes US firm Eldridge announced a deal on Wednesday to acquire Lukoil's international assets, a transaction spurred by US sanctions on the Russian oil company.\n\nThe deal involves a swap of shares of Lukoil and other Russian equities for the equity of Lukoil International GmbH (LIG), Eldridge said in a press release.\n\nThe overall value of the deal is US$10 billion, a person close to the matter told AFP.\n\nBesides Eldridge, which is led by US billionaire Todd Boehly, the consortium includes the US International Development Finance Corporation (DFC), an international investment arm of the US government that will receive an ownership interest in the assets.\n\nThe move drew condemnation from Democrats, with congressman Gregory Meeks -- who sits on the House Foreign Affairs Committee -- calling on the Trump administration to halt the deal.\n\n\"Congress banned the DFC from investing in Russia less than a year ago, yet this Administration is circumventing that restriction by buying US$10 billion in energy assets from Russia's largest oil company, a corporation the US sanctioned precisely to pressure Moscow to end its war in Ukraine,\" Meeks said in a statement.\n\nThe other consortium members are investment group Xtellus Partners and Catena Investment Holding, which is based in the United Arab Emirates.\n\nLIG produces about 350,000 barrels a day of oil equivalent, owns three refineries and operates more than 2,000 gasoline stations in 16 countries, including the United States.\n\nIn October 2025, the United States added Lukoil and fellow Russian producer Rosneft to its blacklist of sanctioned entities.\n\nLukoil said in January that it reached an agreement to sell its foreign assets to the US investment firm The Carlyle Group, but the private equity company dropped out of the deal in October.\n\nAnother group of prospective buyers, the brothers Moutaz and Ramez Al-Khayyat, also fell by the wayside.\n\nA potential deal involving the Qatar-based brothers sparked criticism over their business ties to Ivanka Trump and Jared Kushner, the US president's daughter and son-in-law, according to the New York Times.\n\nBoehly and his investment firm have given US$2 million to Donald Trump's political causes, the Times reported. (AFP)\n\nEdited by Altis Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T01:36:10.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879315-20261126.htm"
+    },
+    {
+      "id": "1b4a79ebcd4293d8",
+      "title": "Two-car crash shuts Sha Tin Road lanes",
+      "excerpt": "A traffic accident involving two private cars took place on Sha Tin Road, opposite Pok Hong Shopping Centre, on Thursday…",
+      "fullText": "A traffic accident involving two private cars took place on Sha Tin Road, opposite Pok Hong Shopping Centre, on Thursday morning.\n\nThe Transport Department said all lanes of Sha Tin Road towards Ma On Shan, near Sun Tin Wai, remain closed following the collision.\n\nThe queue of traffic has backed up as far as Waterloo Road in Kowloon Tong.\n\nThe department added that the Lion Rock Tunnel towards Sha Tin is still subject to intermittent closure because of the accident, and that traffic in the area is congested.\n\nDrivers have been urged to consider using alternative routes, such as Tsing Sha Highway or Tate's Cairn Tunnel.\n\nEdited by Nazvi Careem",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T01:27:37.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879313-20261126.htm"
+    },
     {
       "id": "314738d9bb0d8152",
       "title": "Steelers cut Rodgers after fiery coach criticism",
@@ -843,17 +865,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879041-20261124.htm"
     },
     {
-      "id": "7c234fda88073ade",
-      "title": "HK$630m new support measures for Wang Fuk Court",
-      "excerpt": "The government announced on Tuesday that two new beginning support grants would be rolled out for residents of Wang Fuk…",
-      "fullText": "The government announced on Tuesday that two new beginning support grants would be rolled out for residents of Wang Fuk Court in Tai Po, providing further financial support to each flat owner and to families of each deceased resident.\n\nThe Support Fund for Wang Fuk Court in Tai Po will provide owners of each flat in Wang Fuk Court with a new beginning support grant worth HK$300,000 disbursed in two instalments: HK$150,000 at the end of December 2026, alongside the third instalment of the rental grant, and HK$150,000 at the end of June 2027 alongside the fourth instalment.\n\nThe grant will be provided to all flat owners, the government said.\n\nIf an owner has sold or is going to sell the flat title to the government, the grant will be disbursed to the person who was the owner before the transfer of title, it said.\n\nA separate HK$200,000 grant will be provided to families of each deceased resident, in view of the public's desire to offer greater support and the fact that some of the deceased were non-flat owners, the government said.\n\nIt will be disbursed in one instalment at the end of December 2026.\n\nThe grants will be disbursed through the Social Welfare Department's \"one social worker per household\" mechanism, and flat owners and families of the deceased are not required to submit separate applications.\n\nFor families of deceased foreign domestic helpers, contact will be made through the relevant consulates, Secretary for Home and Youth Affairs Alice Mak said.\n\nWarner Cheuk, Deputy Chief Secretary and convenor of the Steering Committee on the Support Fund, said the fund has, since its establishment, rolled out various support measures to assist residents who temporarily lost their home.\n\nHe said that as emergency and medium-term measures have been steadily implemented and the Special Sales Exercise is largely completed, flat owners and families of the deceased are progressing towards a new beginning.\n\n\"The Support Fund has decided to roll out two grants to assist the flat owners and families of the deceased in addressing their needs in this new stage of life, embarking on a new beginning, and moving forward from the tragic event,\" Cheuk said in the statement.\n\nThe two new measures involve a total of about HK$630 million.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T01:37:13.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879026-20261124.htm"
-    },
-    {
       "id": "b3d52f42e7f38b79",
       "title": "UK concert evacuated after unknown substance released",
       "excerpt": "British police said they evacuated 12,000 people from a concert venue in Manchester, northern England, after the release of an…",
@@ -863,17 +874,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879020-20261124.htm"
-    },
-    {
-      "id": "4aebda1b5627565d",
-      "title": "UK Grand Theft Auto VI hacker gets 7-year sentence",
-      "excerpt": "A UK court sentenced a British hacker to seven years in jail on Monday for a series of cyberattacks, including…",
-      "fullText": "A UK court sentenced a British hacker to seven years in jail on Monday for a series of cyberattacks, including leaking footage from Grand Theft Auto VI years before the blockbuster game's release.\n\nHaving already served years in custody, Arion Kurtaj, aged 21, was entitled to walk free immediately, Judge Mark Turner said at London's Woolwich Crown Court.\n\nKurtaj, who is autistic, pleaded guilty last week to hacking major companies between 2021 and 2022, including GTA-maker Rockstar Games, mobile operator BT/EE, digital bank Revolut and ride-hailing giant Uber.\n\nTurner described the offences as \"sophisticated attacks upon big companies.\"\n\n\"Don't let this happen again,\" he added.\n\nThe judge said his sentencing decision required \"balancing the seriousness of what you did with, on the other hand, your young age\" and medical diagnoses.\n\nKurtaj was a teenager when he carried out the attacks as a key member of the so-called Lapsus$ hacking group.\n\nHe was initially charged over hacking BT/EE and placed in a hotel for his own protection from rival hackers in September 2022, according to the Crown Prosecution Service.\n\nBut from his hotel room, he went on to carry out cyberattacks on Revolut, Uber and Rockstar.\n\nUsing just a mobile phone, the hotel's wifi-connected TV and an Amazon Fire TV Stick, he broke into Rockstar systems and obtained 90 videos of the highly-anticipated GTA VI game.\n\nHe leaked the videos online under the username \"TeaPotUberHacker,\" more than a year before the first official footage was released by Rockstar, causing a frenzy across the video game industry.\n\nThe hack disrupted the release strategy for the sixth instalment of the GTA franchise, which was finally released last week after a 13-year wait.\n\nIn 2023, a jury concluded that Kurtaj, whom psychiatrists at the time had deemed unfit to stand trial, was responsible for numerous computer misuse, fraud and blackmail offences.\n\nDue to the severity of his autism, he was placed under a hospital order where he remained for two years before being found fit to stand trial, his lawyers said. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T23:42:58.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879000-20261124.htm"
     },
     {
       "id": "616691692f7a6c41",
@@ -1083,17 +1083,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878911-20261123.htm"
-    },
-    {
-      "id": "8d3e5999e549ecba",
-      "title": "HK, region slip even as US stock futures show uptick",
-      "excerpt": "US stock futures attempted a recovery on Monday while Asian markets slid and authorities around the region readied support measures…",
-      "fullText": "US stock futures attempted a recovery on Monday while Asian markets slid and authorities around the region readied support measures after a withering wipeout last week for tech and chip stocks at the centre of the AI boom.\n\nIn Hong Kong, the benchmark Hang Seng Index opened down 242 points, or 1.08 percent, at 22,168 and was 395 points lower at one stage in early trading.\n\nThe China enterprises index was down 81 points, or 1.08 percent, at 7,472 while the tech index fell 67 points, or 1.9 percent, to 3,443.\n\nUp north, the Shanghai Composite Index opened down 30 points, or 0.86 percent, at 3,503.\n\nThe Shenzhen Component Index was 100 points, or 0.98 percent, lower at 10,155 while the ChiNext was down 16 points, or 0.75 percent, at 2,195.\n\nWith the Nikkei in Tokyo closed for a public holiday, the Kospi opened 135 points, or 2.77 percent, lower at 4,734 in Seoul before going on a downward spiral to be 207 points down at one stage before noon.\n\nThe early losses came as investors still harboured questions over whether the vast sums of mostly borrowed money spent building data centres to power AI models would generate returns fast enough to repay lenders and big enough to justify some of the high stock prices.\n\nLast week's 10 percent drop in the Nasdaq was its largest weekly drop since pandemic panic gripped markets in March 2020.\n\nNasdaq 100 futures bounced nearly three percent in early trade on Monday, and S&P 500 futures rose by two percent.\n\nThe \"AI trade\" has for several years lifted a wide range of stocks, from switch and cable makers to electricity generators and the manufacturers of anything in the computing supply chain, but they have been under pressure in recent months from rising interest rates.\n\nAI-related shares took a particularly sharp downturn last week as the exit of Jensen Huang, the Nvidia CEO nicknamed the \"godfather of AI\", and the faltering debut of AI company Anthropic, which closed 8.5 percent lower on its first full day of trading, pointed to a souring mood. (Agencies)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-23T03:03:50.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878898-20261123.htm"
     },
     {
       "id": "db5983b94ca52065",
@@ -1743,6 +1732,17 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/korea/2026/11/10/north-korea-affordability-crisis-inflation/"
+    },
+    {
+      "id": "b301748bac1f94d4",
+      "title": "No internet, no advance warning: 11 killed in Myanmar military bombing in Sagaing",
+      "excerpt": "Civilians in war zones are left vulnerable as Starlink internet becomes scarce after scam center crackdown.",
+      "fullText": "Read a version of this story in Burmese\nIt was just before noon on Saturday. Three gyrocopters flew low as they approached Nyaung Pin Lay village. A school and surrounding residential area was bombed. Eleven were killed, including four children.\nA resident told RFA that although the local People’s Defense Forces (PDF) received a tip that the Myanmar military would bomb the school, the warning could not reach them in time due to the lack of internet in the village.\n“Information that this would be bombed was sent online to everyone. They did inform us,” the Kani Township resident told RFA on the condition of anonymity for security reasons.\n“But because there was no Starlink communication, casualties were high as a result. About a month ago in Nat La Po village, when we got the exact location that would be bombed and cleared the area, there were no casualties. That was fortunate. But now, even though we got the location to be bombed, communication was cut off.”\nA May 25, 2025, photo shows a Starlink sign at an internet cafe in Demoso, Myanmar.\n(AFP) In Myanmar, home to the world’s longest-running civil war, the military-appointed government has cut off phone lines and internet communications in over 40 percent of townships nationwide. Locals, civil society groups, and revolutionary forces tell RFA that they rely on Starlink — acquiring the devices through unofficial and often expensive channels — as a lifeline for information.\nIn October 2025, SpaceX announced the disabling of over 2,500 Starlink kits in Myanmar to crack down on transnational cyber-scam syndicates operating along the Thai-Myanmar border. Subsequent restrictions by SpaceX on unregistered units bought outside of Myanmar have shut down countless others.\nSince June, more than 20 percent of Starlink internet devices used in Myanmar have had their services cut off, according to a report released on Oct. 23 by the group Athan.\nLocal residents and human rights activists told RFA that this has created a crisis for the survival of civilians in areas of intense civil conflict.\nA Myanmar government photo taken on Oct. 20, 2025, shows seized Starlink devices during a raid on the KK Park online scam center in Myawaddy.\n(Myanmar Military Information Team via AFP) “The military cutting off phone lines and internet connections from the start was intentionally aimed at concealing human rights violations they commit and restricting people’s freedom of expression,” said Joy, a research director at Athan, a non-profit organization for the Freedom of Expression Movement in Myanmar.\n“If Starlink also stops providing services to Myanmar and cuts connections, emergency humanitarian aid, air strike alerts, news regarding military columns, and natural disaster warnings for these local residents will stop immediately.”\nAccording to a report titled “Dead Air” released by Athan on October 23, the communication cut-off directly affects the lives and safety of people in conflict-affected regions as they can no longer receive warnings about airstrikes and military movements, medical aid, or updates on family members’ safety and evacuation routes.\nRFA contacted Khaing Khaing Soe, spokesperson for the military-appointed president’s office, regarding when internet and phone lines might be restored. She instead referred RFA to the Ministry of Digital Development and Communications.\nNow, not only Starlink devices used by scam operations are being shut down, but Starlink connections used by civilians have also been suspended starting in June this year, with more than 20 percent of devices cut off by October, according to Athan. Consequently, regions like Sagaing, Mandalay, Magway, Rakhine, Kayah State, and other areas experiencing severe conflict were directly affected, Athan’s report states.\nRFA contacted SpaceX regarding the impact on civilians in regions where the internet has been cut off, but has not received a response at the time of publication.\n“Some of our Starlink devices were disabled. This has caused a lot of trouble for us,” said Aye Myint Aung Aung, Head of the Department of Humanitarian Assistance and Emergency Management under the Mandalay Regional Interim Administrative Council.\n“On the other hand, whether it’s our civilians, revolutionary groups, or those leading and operating the administrative mechanism in revolutionary forces, everyone relies on Starlink. As access to information becomes more restricted, limitations on civilian safety also increase. I would define this as a very major challenge for us.”\nIn Kayah State, Deputy Minister of Defense for the Karenni State Government Khu Daniel told RFA that Starlink connections are being shut down one by one, raising concerns.\n“For the public and for the youth currently fighting in battle, it will become a cause for concern,” he said.\nA Sept. 17, 2025, photo shows people on a balcony of a building with what appears to be Starlink satellite dishes on the roof in the KK Park complex in Myawaddy, Myanmar.\n(Lillian Suwanrumpha/AFP) Khun Chit Htoo, who is assisting refugees in the Karenni Region, said that if all Starlink services are shut down, it could have a severe impact on humanitarian aid operations.\n“Our current work relies on internet connectivity as well as donors. Since we connect online, we are very concerned,” said Khun Chit Htoo.\n“We will face a situation where we can no longer help needy civilians receive the support they really need across all aspects of coordination. If there is no internet line left, I believe we stand to lose a lot because of this single connection.”\nWhile welcoming and supporting the shutdown of Starlink internet lines used by online scam operations to crack down on scam syndicates, 317 civil society organizations issued a statement on July 17 expressing deep concern over potential negative impacts if all Starlink terminals nationwide are shut down.\nAccording to an October 23 report by the Myanmar Internet Project, an organization monitoring internet shutdowns and conflicts, there were 581 military airstrikes that killed at least 353 civilians in the three months from July to September 2026, with 562 of those attacks occurring in areas where internet service was cut off.\nTranslated by Nayrein Kyaw. Edited by Charlie Dharapak.",
+      "imageUrl": "https://www.rfa.org/resizer/v2/J7ETN2ZZZRHT7M3BLCGBITIGSY.jpg?auth=55de291504e091fd6b9e13802de7658b1083d1d2212c59ee26594779e8ba47d9&smart=true&width=1500",
+      "publishedAt": "2026-11-10T05:49:58.000Z",
+      "source": "Radio Free Asia English",
+      "sourceFeed": "rfa-english",
+      "link": "https://rfa.org/english/myanmar/2026/11/10/starlink-burma-civil-war-scam-center/"
     }
   ]
 }
