@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T14:00:33.455Z",
-  "checkedAt": "2026-11-26T14:45:23.909Z",
+  "generatedAt": "2026-11-26T15:00:34.922Z",
+  "checkedAt": "2026-11-26T15:00:34.922Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "6ad0cd55832629a7",
+      "title": "Flowers moved to make room at remembrance site: govt",
+      "excerpt": "The government said on Thursday that it relocated some of the flowers and tribute items laid in an open space…",
+      "fullText": "The government said on Thursday that it relocated some of the flowers and tribute items laid in an open space across Wang Fuk Court to make room for people who turned up after nightfall to pay their respects.\n\nAt Kwong Fuk Sitting-out Area, officers from the Civil Aid Service could be seen keeping order throughout the day by placing the bouquets on the ground in plastic containers, and moving them to a nearby lawn.\n\nIn a statement, the government said this was to create space for more people to lay bouquets, and ensure everyone's goodwill was respected while maintaining order and cleanliness at the venue.\n\nThe flowers and related items will gradually be transferred to a religious venue for storage, and to continue the public's tribute to the deceased, a spokesman added.\n\nMedia liaison officers from the police force told people at the scene that the flowers would not be disposed of, and instead moved to Fung Ying Seen Koon, a Taoist temple in Fanling.\n\nEdited by Raymond Yeung",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T14:31:03.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879412-20261126.htm"
+    },
     {
       "id": "6cdac1aa023b21b4",
       "title": "Your holiday shopping data needs a cleanup before Black Friday",
@@ -632,17 +643,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/vietnam/2026/11/25/vietnam-china-paracels-south-china-sea/"
-    },
-    {
-      "id": "b58d9e7e052592a8",
-      "title": "Formulary to be rolled out for cheaper and more drugs",
-      "excerpt": "The Health Bureau said the Community Drug Formulary will be launched on December 30, with more drugs at lower prices…",
-      "fullText": "The Health Bureau said the Community Drug Formulary will be launched on December 30, with more drugs at lower prices available for patients under the Primary Healthcare Co-care Network.\n\nCurrently, family doctors under the network prescribe drugs based on a basic-tier drug list that comprises of 113 drugs covering eight chronic diseases and 11 episodic illnesses.\n\nPatients who require drugs not on the list have to shoulder the cost themselves.\n\nUnder the new arrangement, the list will be replaced by the formulary that consists of a total of 151 drugs, including the ones on the list and 38 others that also target other disease categories such as urology and dermatology.\n\nThe formulary is made up of three tiers.\n\nTier 1 consists of 146 non-patented drugs that carry a co-payment fee of HK$2 per item per week; Tier 2 consists of five patented drugs that cost HK$30 per item per week for patients; and Tier 3 is a special drug category that has yet to include any drugs.\n\nThe charges, the bureau said, represent about 70 to 90 percent off market prices.\n\nIn a bid to ease patients' burden, the government will offer an annual subsidy of HK$200 for each patient.\n\nThe subsidy is valid for the current year, and any unused balance will not be accumulated.\n\nThe bureau said this will, for instance, allow patients taking up to two Tier 1 drugs to only dig into their pocket for a small amount of medical expenses, or even none at all.\n\nHealth care vouchers can also be used to settle the drug fee.\n\nStrategic Purchasing Office director Cheung Wai-lun said the bureau aims to include 200 to 400 drug items in the long run.\n\n\"Every year we will also review the formulary to suit the development of the Primary Healthcare Co-care Network clinical requirements. So we anticipate every year there will be further enhancement in terms of the drug list – both in the non-patented drug and also in the patented drug list,\" he said.\n\n\"So I will estimate that in two to three years' time, the formulary will exceed 200 drug items.\"\n\nAbout 70,000 patients under the network who have undergone screening for blood sugar, blood pressure and blood lipids or hepatitis B and begun treatments will be the first batch of beneficiaries.\n\nThose requiring drug refill can get the medication at 20 community pharmacies in Eastern district, Yau Tsim Mong, Sha Tin and Yuen Long, upon successful matching, and seek assistance there if they feel unwell upon taking the medication.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T06:25:56.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879208-20261125.htm"
     },
     {
       "id": "d6eb9f5431f220d5",
