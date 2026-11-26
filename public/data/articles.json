@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T06:15:21.375Z",
-  "checkedAt": "2026-11-26T06:15:21.375Z",
+  "generatedAt": "2026-11-26T06:30:24.010Z",
+  "checkedAt": "2026-11-26T06:30:24.010Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "fc5b7ae54ff16459",
+      "title": "Driver arrested over Sha Tin Road collision",
+      "excerpt": "A man was arrested on Thursday for alleged drink-driving and dangerous driving following a two-car crash on Sha Tin Road…",
+      "fullText": "A man was arrested on Thursday for alleged drink-driving and dangerous driving following a two-car crash on Sha Tin Road.\n\nPolice said the two vehicles were heading towards Tai Po at around 7.45am when one of them was suspected to have gone out of control and swerved into the other near Pok Hong Estate.\n\nBoth then hit water-filled barriers, and one ending upside down and the other on its side.\n\nA 37-year-old driver was arrested after failing a breathalyser test.\n\nThe other driver and a passenger were hospitalised.\n\nThe crash severely disrupted traffic, with Lion Rock Tunnel towards Sha Tin subject to intermittent closure, before returning to normal later in the morning.\n\nEdited by Edmond Fong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T06:17:56.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879348-20261126.htm"
+    },
     {
       "id": "92ba49a405571949",
       "title": "Light rail, Tuen Ma Line disruptions hit MTR",
@@ -874,17 +885,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879068-20261124.htm"
-    },
-    {
-      "id": "28aa3c5ff7cafe62",
-      "title": "October visitor arrivals spike 12pc to 5.13m",
-      "excerpt": "Provisional visitor arrivals for October hit about 5.13 million, up 12 percent year on year, the Tourism Board said on…",
-      "fullText": "Provisional visitor arrivals for October hit about 5.13 million, up 12 percent year on year, the Tourism Board said on Tuesday, thanks to the National Day Golden Week, a series of mega events and festive celebrations.\n\n\"The National Day Golden Week, alongside mega events and festive celebrations such as the International Lantern Spectacular and the Hong Kong Wine & Dine Festival, as well as Mice (Meetings, Incentives, Conventions and Exhibitions) events, sports events and concerts held across the city, attracted a large number of visitors and helped stimulate tourism-related sectors, such as dining, retail and hospitality,\" it said.\n\nIn a statement, the board added that major exhibitions and events held in other Greater Bay Area cities also facilitated regional tourism and business exchanges.\n\nBy source market, mainland and long-haul markets continued to perform well, with arrivals from across the border reaching about 3.97 million, up 15 percent, and long-haul arrivals rising 19 percent.\n\nNew markets recorded growth of 37 percent, while short-haul markets fell 14 percent, which the board attributed to the Mid-Autumn Festival holiday falling in October last year and affecting the year-on-year comparison.\n\nIndia recorded significant growth, driven by long weekends and Mice events held in Hong Kong and elsewhere in the Greater Bay Area.\n\nFor the first 10 months of the year, cumulative visitor arrivals reached 45.8 million, up 12 percent year on year, reflecting continued steady growth of Hong Kong's tourism industry, the board said.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T05:01:11.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879054-20261124.htm"
     },
     {
       "id": "7fe58ff9a6b43549",
