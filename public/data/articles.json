@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T04:57:57.154Z",
-  "checkedAt": "2026-11-26T05:00:28.985Z",
+  "generatedAt": "2026-11-26T05:15:18.571Z",
+  "checkedAt": "2026-11-26T05:15:18.571Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -335,6 +335,17 @@
       "source": "Fox News — Tech",
       "sourceFeed": "fox-news-tech",
       "link": "https://www.foxnews.com/tech/tech-billionaire-plans-1000-year-floating-city-sea"
+    },
+    {
+      "id": "9ac1944e2667e542",
+      "title": "FS begins visit to the Netherlands",
+      "excerpt": "Financial Secretary Paul Chan, leading a Hong Kong business and innovation and technology (I&T) delegation, began his visit to the…",
+      "fullText": "Financial Secretary Paul Chan, leading a Hong Kong business and innovation and technology (I&T) delegation, began his visit to the Netherlands yesterday after concluding a trip to the UK.\n\nUpon arriving in The Hague, Mr Chan met Secretary-General of the Ministry of Foreign Affairs of the Netherlands Christiaan Rebergen to discuss the “one country, two systems” framework, Hong Kong’s business environment, its latest economic and financial situation and ways to deepen bilateral co-operation.\n\nMr Chan noted that the delegation’s visit aims to showcase Hong Kong’s latest developments and promote new opportunities in finance, investment, I&T and the Northern Metropolis to Dutch sectors, fostering closer ties between both sides.\n\nHe also met Treasurer-General of the Ministry of Finance of the Netherlands Jasper Wesseling for an in-depth exchange on economic and capital market developments in the Netherlands and across Europe. During the meeting, Mr Chan briefed him on Hong Kong’s latest financial market progress and policies to advance I&T industries, particularly measures aimed at attracting strategic enterprises to establish operations in the city.\n\nIn addition, Mr Chan met representatives of the Netherlands Institute of International Relations, briefing them on Hong Kong’s latest outlook and exchanging views on China’s economic development and the international landscape.\n\nLater that day, he called on Chinese Ambassador to the Netherlands Shen Bo to discuss China-Netherlands relations and further scope for co-operation between Hong Kong and the Netherlands.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261126/20261126_103423_394/images/20261126120041935.jpg",
+      "publishedAt": "2026-11-25T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261126/20261126_103423_394.html"
     },
     {
       "id": "d79d54d07007284f",
@@ -1149,17 +1160,6 @@
       "source": "Fox News — Tech",
       "sourceFeed": "fox-news-tech",
       "link": "https://www.foxnews.com/tech/fda-clears-tiny-surgical-robot-remove-bladder-tumors"
-    },
-    {
-      "id": "35083aba2a6ab9a8",
-      "title": "Lau Fau Shan green study issued",
-      "excerpt": "​The Government announced today that the Environmental Impact Assessment (EIA) Report for the Lau Fau Shan/Tsim Bei Tsui/Pak Nai areas…",
-      "fullText": "​The Government announced today that the Environmental Impact Assessment (EIA) Report for the Lau Fau Shan/Tsim Bei Tsui/Pak Nai areas (collectively referred to as LFS) developments is available for public inspection.\n\nIn a two-month public engagement exercise conducted in 2024 on the land use proposals for LFS, the public broadly supported the two thematic positionings of the LFS developments - the Digital Technology Hub (DTH) and leisure ecotourism. Taking into consideration the public views collected, the Government then formulated the Recommended Outline Development Plan (RODP) for the LFS developments.\n\nBased on the RODP, the Civil Engineering & Development Department has conducted the EIA in accordance with the EIA Ordinance, the Technical Memorandum on EIA Process and the EIA Study Brief for the works project of LFS developments. Appropriate mitigation measures have been proposed to ensure compliance with the EIA Ordinance requirements.\n\nThe EIA Report is available on the Environmental Protection Department's EIA Ordinance website until December 22.\n\nThe LFS development is one of the nine New Development Areas in the Northern Metropolis. Situated in the westernmost part of the Northern Metropolis, it forms an integral component of the High-end Professional Services & Logistics Hub, working in synergy with the adjacent ongoing Hung Shui Kiu/Ha Tsuen New Development Area.\n\nAbout 30 hectares of land adjacent to the future LFS Station of the Hong Kong-Shenzhen Western Rail Link (Hung Shui Kiu‐Qianhai) (HSWRL) have been earmarked for the development of a DTH, empowering the smart and digital upgrading of industries through technological innovations such as AI and blockchain, driving the development of the digital economy.\n\nIn addition, on the premise of conserving the existing ecological resources of Tsim Bei Tsui (TBT) and Pak Nai (PN) and harmonising with the natural environment, the Government proposes suitably promoting ecotourism at these two nodes.\n\nLeisure, recreational and hospitality facilities, together with the proposed Coastal Protection Park and the Lau Fau Shan Seafood Market, will offer members of the public and visitors a diverse range of recreational and tourism experiences.\n\nA number of residential communities are planned within the LFS developments, including transit-oriented developments near the LFS and Ha Tsuen Stations of the HSWRL, alongside integrated residential communities on the west bank of the Tin Shui Wai River and in the area between TBT and the DTH. In total, about 48,900 residential units will be provided.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261123/20261123_175942_109/images/20261123190142662.jpg",
-      "publishedAt": "2026-11-22T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261123/20261123_175942_109.html"
     },
     {
       "id": "9bdd7dbe5fb86629",
