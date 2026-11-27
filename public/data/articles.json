@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T09:08:39.064Z",
-  "checkedAt": "2026-11-27T09:30:34.190Z",
+  "generatedAt": "2026-11-27T09:45:20.511Z",
+  "checkedAt": "2026-11-27T09:45:20.511Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "0403e31e5a79f0ae",
+      "title": "HK stocks rally as Beijing brings in 'national team'",
+      "excerpt": "Mainland stocks leapt to their largest gains in more than two years on Friday and the yuan rallied after Beijing…",
+      "fullText": "Mainland stocks leapt to their largest gains in more than two years on Friday and the yuan rallied after Beijing vowed to strengthen the role of the state-backed \"national team\" in helping to stabilise a market that has struggled this year.\n\nThe rising tide up north saw the benchmark Hang Seng Index in Hong Kong surge as well, shooting up 467 points, or 2.1 percent, to close trading at 22,694 on turnover of HK$257.14 billion.\n\nThe tech index soared 220 points, or 6.5 percent, to 3,637 while the China enterprises index rose 150 points, or two percent, to 7,644.\n\nThe gains were even more pronounced on the mainland, with the Shanghai Composite Index, lately languishing around 17-month lows, surging 129 points, or 3.73 percent, to close at 3,606 on turnover of 929.77 billion yuan.\n\nThe Shenzhen Component Index skyrocketed 729 points, or 7.24 percent, to 10,814 on turnover of 1.07 trillion yuan while the ChiNext Index soared 254 points, or 11.61 percent, to 2,443 on turnover of 544.05 billion yuan.\n\nThe \"national team\" is markets' nickname for state-backed investors, usually led by Central Huijin, the domestic unit of sovereign wealth fund China Investment Corp, which are often buyers at times of market stress.\n\nThe Star semiconductor index jumped by a near-record 19.5 percent.\n\n\"This morning, the national team was already starting to accelerate its exercise, and the market went all out during afternoon trading,\" MIB Securities HK strategist Benjamin Ho said.\n\n\"What we need to see is policy and supportive measures that trickle down to the broader economy.\"\n\nWinnie Wu, Bank of America Global Research, Hong Kong, said \"with very depressed valuations and the consensus bearishness on China tech, it actually doesn't take too much for a relief rally.\n\n\"The State Council is essentially giving that confidence to say that we care about the market, we'll stabilise the market, and bring in long-term capital.\n\n\"We think giving this message from the very top level, ie the State Council, is an attempt to re-instill some confidence, stabilise liquidity and stabilise the trajectory of the market.\n\n\"So we think there's probably this awareness that AI is strategically, economically and financially very important, and they don't want to see a big fallout in this space.\"\n\nChina Everbright Securities International, Hong Kong, strategist Kenny Ng called it \"a shot in the arm for markets.\"\n\n\"Sentiment has been downbeat for so long. There hasn't been much good news to trade on,\" he said.\n\n\"At least now there's something to count on: the national team will come to the rescue if things really turn south.\n\n\"It's obvious that A-shares have reached a level that's gotten the regulators' attention too – that sends the market a pretty clear signal.\n\n\"But there's a lot of news affecting the market... and so I don't think the development from here depends entirely on this one factor.\"\n\nIn Tokyo, the Nikkei share average rose 1,211 points, or 2.11 percent, to close at 58,711, extending its weekly gain, as investors scooped up recently battered AI-related stocks and domestic-focused shares found buyers amid market volatility.\n\nThe broader Topix ended 64 points, or 1.73 percent, at 3,815.\n\nIn Seoul, the Kospi closed up 204 points, or 4.34 percent, at 4,915 to end a week of heightened volatility with 0.9 percent gains, supported by hopes of policy measures to stabilise the market, with gains of 4.55 percent for chipmaker Samsung Electronics and 5.41 percent for SK Hynix. (With contributions from Reuters)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T09:02:18.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879502-20261127.htm"
+    },
     {
       "id": "3904960375485454",
       "title": "Abby Choi murder was carefully planned, court hears",
@@ -1083,17 +1094,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879086-20261124.htm"
-    },
-    {
-      "id": "130e6e89811a0c77",
-      "title": "Musk companies take key step closer to mega merger",
-      "excerpt": "Elon Musk's two public companies have appointed five directors, three from Tesla and two from SpaceX, to guide two special…",
-      "fullText": "Elon Musk's two public companies have appointed five directors, three from Tesla and two from SpaceX, to guide two special committees handling merger negotiations, the Financial Times reported on Tuesday.\n\nThe directors are Roelof Botha and Randy Glein from SpaceX and Robyn Denholm, Kathleen Wilson-Thompson and Jack Hartung from Tesla, the report said, citing people familiar with the matter.\n\nMusk said on SpaceX's third-quarter earnings call last month that a merger unifying his AI, robotics, EV and aerospace ambitions under a single corporate roof would be \"a good idea\".\n\nHe confirmed the companies had formed special committees of independent directors to discuss a union.\n\nThe special committees have hired advisers who are fine-tuning financial models that will form the basis for their negotiating positions in an all-stock merger, including Morgan Stanley and Goldman Sachs for SpaceX and Evercore for Tesla, the report said.\n\nThe bankers are studying which parts of the proposed conglomerate overlap, even as a potential combination faces steep ⁠regulatory hurdles over SpaceX's US defence contracts and Tesla's reliance on China.\n\nBloomberg reported earlier this month that a deal could be announced as early as December, citing progress in merger negotiations. (Reuters)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T07:28:06.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879074-20261124.htm"
     },
     {
       "id": "58ba2c2c45b23efe",
