@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T04:29:27.117Z",
-  "checkedAt": "2026-11-27T04:30:24.818Z",
+  "generatedAt": "2026-11-27T04:45:19.248Z",
+  "checkedAt": "2026-11-27T04:45:19.248Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "511fafa4ea1114b9",
+      "title": "Central Kowloon Bypass to fully open Dec 6 at 7am",
+      "excerpt": "The Central Kowloon Bypass will be fully commissioned at 7am on December 6, authorities said on Friday. The final section…",
+      "fullText": "The Central Kowloon Bypass will be fully commissioned at 7am on December 6, authorities said on Friday.\n\nThe final section to open will be the Kowloon Bay section, an approximately 3.4-kilometre dual two-lane trunk road that includes a 3.1-kilometre tunnel.\n\nIts completion marks the finishing piece of Route 6.\n\nThe Yau Ma Tei section, which opened last year, is currently toll-free.\n\nOnce the bypass is fully open, however, a flat toll of HK$8 will apply to all vehicles through the HKeToll system.\n\nLeung Sai-ho, Deputy Commissioner for Transport (Planning and Technical Services), said he hoped that once the entire route opens, it would divert traffic from existing major corridors such as the Kwun Tong Bypass.\n\n\"We have already observed a 20 percent diversion effect after the opening of the Yau Ma Tei section,\" he said.\n\n\"Our team will keep closely monitoring the traffic situation through our traffic surveillance system and ad-hoc deployed survey teams to see whether traffic flow is performing according to our expectations.\"\n\nAuthorities added the Yau Ma Tei section would be closed from midnight to 7am on the opening day for final preparations, including updating traffic signs and road markings as well as carrying out preparatory work for the HKeToll system.\n\nOnce fully commissioned, peak-hour journeys between Tseung Kwan O town centre and Yau Ma Tei are expected to be cut from 65 minutes before the project to about 12 minutes.\n\nRoute 6 links major areas including the West Kowloon Cultural District, the Kai Tak Development and Cruise Terminal, and the Kowloon East central business district.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T04:40:14.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879472-20261127.htm"
+    },
+    {
+      "id": "c2ec6aa529d33c22",
+      "title": "Hackers using AI to find loopholes: HKCERT",
+      "excerpt": "Artificial intelligence tools have made it easier for hackers to find and exploit system vulnerabilities, contributing to a recent rise…",
+      "fullText": "Artificial intelligence tools have made it easier for hackers to find and exploit system vulnerabilities, contributing to a recent rise in cyber security incidents and data leaks in Hong Kong, the Hong Kong Computer Emergency Response Team Coordination Centre (HKCERT) said on Friday.\n\nOtto Lee, head of HKCERT at the Productivity Council, told an RTHK programme that 15,877 cyber security incident reports were recorded in 2025, up more than 20 percent and a record high, while 4,404 cases were logged in the third quarter of 2026 alone, a rise of about 15 percent year on year.\n\nLee attributed the trend to three factors: the rapid digital transformation of businesses, which now run websites, mobile apps, cloud services and payment systems; increasingly complex links between systems through application programming interfaces and third-party platforms; and a rise in supply chain attacks, where hackers use one compromised vendor as a springboard to hit several organisations at once.\n\n\"It's like a house that now has many doors. Hackers use AI tools to scan around the clock without interruption, so as long as one of those doors isn't locked properly, they can find a loophole and get in within minutes,\" Lee said.\n\nHe said AI was a major factor, noting that hacking tools previously had to be bought or built but now include AI agents that can be pointed at a domain or a file and automatically hunt for weaknesses.\n\n\"Building a fake website, therefore, is absolutely very simple; in a few minutes you can build a very similar one. Everyone can do it, as long as you use AI,\" he said, adding that the lower cost barrier had created room for profit.\n\nLee also said the growth in reported cases partly reflected greater awareness among organisations of the need to disclose incidents.\n\nHe said the most common weaknesses found in cases reported to HKCERT were unpatched systems, misconfigured databases that left data exposed online, a lack of multi-factor authentication, weak API authorisation, insufficient logging, and organisations holding on to large volumes of sensitive data long after it was needed.\n\nHe urged companies to treat incident response planning as a priority, warning that some firms had no back-ups at all, while others found their back-ups had been stolen or could not be restored.\n\nFor members of the public affected by a data leak, Lee advised them to check the scope of the breach and change their passwords, monitor their accounts and statements for unusual transactions, and be on guard against phishing and fraud, warning that hackers may wait some time before using leaked data.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T04:29:33.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879474-20261127.htm"
+    },
     {
       "id": "6ef419d3a5be5710",
       "title": "Manufacturing profits rise at faster pace in China",
@@ -744,17 +766,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879234-20261125.htm"
     },
     {
-      "id": "64054941f887da6f",
-      "title": "'Govt to enlist foreign artists to promote HK culture'",
-      "excerpt": "Secretary for Culture, Sports and Tourism Rosanna Law said on Wednesday that the government would continue to seek collaboration with…",
-      "fullText": "Secretary for Culture, Sports and Tourism Rosanna Law said on Wednesday that the government would continue to seek collaboration with overseas artists to promote Hong Kong culture.\n\nAt a Legislative Council meeting, lawmaker Kenneth Fok noted that Canadian singer The Weeknd sampled 1993 Cantonese classic \"Monsoon\" in his recent single \"Hong Kong\", which has since become a big hit on the internet.\n\nFok asked whether the government would proactively explore partnerships with foreign artists.\n\nIn response, Law described the act as \"brilliant\", while also pointing to other recent efforts to showcase the city's culture and heritage.\n\n“For example, during the recent visit by the K-pop supergroup BIGBANG, through rapping, they introduced Hong Kong’s food on stage. From my observation, it’s widely circulated on the internet,” she said.\n\n“We also suggested to event organisers that when they give out souvenirs to artists, they could consider gifting them things related to Hong Kong’s intangible cultural heritage with distinctive Hong Kong characteristics and are available in Hong Kong only.\n\n“Can they give out these souvenirs to the singers and ask them to showcase them? I believe these will greatly help promote our culture. Organisers' responses are mostly positive, and we will carry out more work on this aspect.”\n\nDuring the meeting, tourism sector lawmaker Vivian Kong raised concerns that some hotels and travel agencies find it difficult to get timely details and obtain tickets for mega events, hindering their promotion and sales plans.\n\nIn response, Law said the 12-month schedule of mega events is listed on the Tourism Board’s website.\n\nShe also said smaller travel agencies could face hurdles in obtaining tickets for popular events, adding that the Travel Industry Council can assist them in negotiating package deals and offers with organisers.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T09:02:32.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879226-20261125.htm"
-    },
-    {
       "id": "771eee1fed10bbc4",
       "title": "China, Pakistan exchange Shenzhou-24 congratulations",
       "excerpt": "President Xi Jinping and his Pakistani counterpart Asif Ali Zardari have exchanged congratulations on the joint spaceflight mission carried out…",
@@ -764,17 +775,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879230-20261125.htm"
-    },
-    {
-      "id": "5d29780a7801c67e",
-      "title": "Govt pledges 60pc elimination of rodent spots",
-      "excerpt": "Secretary for Environment and Ecology Tse Chin-wan on Wednesday said the government aimed to eliminate 60 percent of rodent blackspots…",
-      "fullText": "Secretary for Environment and Ecology Tse Chin-wan on Wednesday said the government aimed to eliminate 60 percent of rodent blackspots across the city by the end of this year.\n\nIn a written reply to the Legislative Council, Tse said the Food and Environmental Hygiene Department would continue to implement strategic rodent control measures at the blackspots – 26 carried over from last year and 63 newly identified ones.\n\nHe also told lawmakers that the department trapped more than 119,000 live rodents in the first 10 months of this year – up by around 20 percent over the same period in 2025.\n\nTaking both live and dead rodents into account, the total collection in the period reached over 142,000 – an increase of around 10 percent year-on-year, Tse said.\n\nHe added that the government’s estimated expenditure on pest control for 2026-27 was HK$754 million, which would cover the prevention and control of rodents, mosquitoes and other pests of public health importance.\n\nTse said the department was implementing a data-driven and targeted anti-rodent strategy, with a risk-based approach in allocating resources to target locations with higher risks.\n\nThe department had also closely monitored the environmental hygiene conditions at tourist hotspots, he added.\n\nTse went on to say that authorities had conducted regular exchanges of views with mainland pest control experts while learning about latest international and mainland developments in the field to review its own pest control methods.\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T08:33:32.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879225-20261125.htm"
     },
     {
       "id": "bdd0545747e46ce8",
