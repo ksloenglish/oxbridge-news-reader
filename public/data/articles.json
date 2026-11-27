@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T04:15:19.180Z",
-  "checkedAt": "2026-11-27T04:15:19.180Z",
+  "generatedAt": "2026-11-27T04:29:27.117Z",
+  "checkedAt": "2026-11-27T04:29:27.117Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "6ef419d3a5be5710",
+      "title": "Manufacturing profits rise at faster pace in China",
+      "excerpt": "Profit growth at China's industrial firms accelerated in October, supported by improving conditions in parts of the manufacturing sector, although…",
+      "fullText": "Profit growth at China's industrial firms accelerated in October, supported by improving conditions in parts of the manufacturing sector, although broader economic momentum remained subdued.\n\nWith domestic demand yet to gain meaningful traction and continuing to weigh on corporate earnings, many firms have increasingly relied on overseas markets for growth, leaving them vulnerable to trade tensions and geopolitical risks.\n\nProfits at industrial firms rose 20.1 percent from a year earlier last month, versus a 14.4 percent gain in September, data from the National Bureau of Statistics showed on Friday.\n\nProfits were up 16 percent in the first 10 months, accelerating from a 15.5 percent increase in the January-September period,\n\nIndustrial earnings continued to show a sharp split, with profits in computer, telecommunications and other electronic equipment manufacturing doubling in the first 10 months, while furniture manufacturing posted a decline of 52.4 percent.\n\nThe uneven performance comes as Beijing has introduced a series of policy measures in recent months aimed at supporting economic activity, including steps to lower borrowing costs, increase liquidity in the financial system and channel financing to sectors such as technology, manufacturing and infrastructure.\n\nStill, analysts say the impact of the policy support has been mixed, with weak household demand and lingering strains in the property sector continuing to drag on the broader recovery.\n\nThe outlook for exports, a key source of support for manufacturers this year, has meanwhile become less certain.\n\nConcerns over potential tariff increases and other trade restrictions, particularly in the United States and the European Union, have raised questions about the sustainability of export-driven growth and the earnings prospects of firms dependent on overseas demand.\n\nIndustrial profit figures cover firms with annual revenue of at least 20 million yuan from main operations. (Reuters)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T04:15:42.000Z",
+      "source": "RTHK English — Greater China",
+      "sourceFeed": "rthk-greater-china",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879466-20261127.htm"
+    },
     {
       "id": "dc1f7d56cf317dba",
       "title": "NZ leader loses majority with centrists holding key",
@@ -1501,17 +1512,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/pacific/2026/11/20/taiwan-representative-office-png-closure/"
-    },
-    {
-      "id": "6a6d0045f3699404",
-      "title": "'China, Australia should be mutually trusted partners'",
-      "excerpt": "President Xi Jinping said on Friday that China and Australia should be cooperative partners who trust each other and help…",
-      "fullText": "President Xi Jinping said on Friday that China and Australia should be cooperative partners who trust each other and help each other succeed, as the two countries have no historical grievances or fundamental conflicts of interests.\n\nChina-Australia relations are stable at present, he said when meeting Australian Prime Minister Anthony Albanese in Shenzhen.\n\nXi said that in a volatile and turbulent world, the two countries should enhance mutual trust, accommodate each other's core interests and major concerns, and keep to the right direction of friendship and cooperation.\n\nChina and Australia have brought about a comprehensive turnaround in bilateral relations, he said.\n\nXi called for deepening mutually beneficial cooperation in pursuit of the two countries' respective development goals, advancing traditional cooperation in agriculture, energy and minerals, and expanding cooperation in emerging areas such as the green economy, new energy, the digital industry, artificial intelligence and climate change response.\n\nEfforts should be made to promote friendship between the two countries through expanded people-to-people exchanges, Xi said, noting that the two sides had agreed to designate 2027 as the China-Australia Year of Tourism.\n\nFor his part, Albanese said Australia and China share an interest in open and rules-based trade.\n\n\"The relationship that we are building is positive, is calm, is not defined by our differences, but one where we can have clear and frank exchanges for our mutual interest,\" he said.\n\nThe meeting with Albanese came as Xi pursued a packed schedule of bilateral meetings with foreign leaders in the aftermath of the Apec Economic Leaders' Meeting in Shenzhen.\n\nOther leaders whom he met on Friday included prime ministers Lawrence Wong of Singapore, Anwar Ibrahim of Malaysia and Anutin Charnvirakul of Thailand as well as President Prabowo Subianto of Indonesia.\n\nWong congratulated Xi on his historic trilateral summit with Russia and the United States and said he was \"looking to build on government-to-government initiatives to deepen our economic ties further\", referring to projects in Suzhou, Tianjin and Chongqing.\n\nIn the meeting between Xi and Prabowo, the leaders announced the launch of negotiations for a bilateral comprehensive economic partnership.\n\nXi said China and Indonesia should strengthen strategic communication and solidarity, deepen all-round strategic cooperation, consolidate the foundation of political trust, and jointly guard against and respond to external risks.\n\nHe called on both countries to expand mutually beneficial cooperation, advance major projects such as the Jakarta-Bandung High-Speed Railway, and deepen cooperation in energy and mineral resources, artificial intelligence, the digital economy, and clean energy. (Xinhua & Reuters)\n\nEdited by Altis Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-20T07:11:46.000Z",
-      "source": "RTHK English — Greater China",
-      "sourceFeed": "rthk-greater-china",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878569-20261120.htm"
     },
     {
       "id": "788ddc1c5a353dd6",
