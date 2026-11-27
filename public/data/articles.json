@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T11:15:19.815Z",
-  "checkedAt": "2026-11-27T12:30:27.004Z",
+  "generatedAt": "2026-11-27T12:45:20.703Z",
+  "checkedAt": "2026-11-27T12:45:20.703Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "dcc32a195ed9ac3e",
+      "title": "Evening News on TV32 - Nov 27",
+      "excerpt": "Top stories for Friday, Nov 27, 2026 - 22 people are hurt in a ferry accident near Tsing Yi. -…",
+      "fullText": "Top stories for Friday, Nov 27, 2026\n\n- 22 people are hurt in a ferry accident near Tsing Yi.\n\n- The Central Kowloon Bypass will be fully commissioned on December 6.\n\n- Officials say they've stepped up work to combat AI-driven security breaches.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T12:38:38.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879528-20261127.htm"
+    },
     {
       "id": "c7fc1a1a4a513ddf",
       "title": "90,000 users compromised in SmartPLAY data breach",
@@ -577,17 +588,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879336-20261126.htm"
-    },
-    {
-      "id": "d720c5d981a4c6ba",
-      "title": "Ex-lawmaker William Wong sentenced over CUHK crash",
-      "excerpt": "Former lawmaker William Wong was sentenced on Thursday to 120 hours of community service, a 12-month driving ban and a…",
-      "fullText": "Former lawmaker William Wong was sentenced on Thursday to 120 hours of community service, a 12-month driving ban and a HK$6,000 fine after admitting four charges arising from a drink-driving incident.\n\nWong had earlier pleaded guilty to careless driving, drink-driving, failing to stop after an accident and failing to report an accident in connection with the incident on the Chinese University campus on the night of June 29.\n\nThe Shatin Magistrates' Courts heard his car hit two parked vehicles.\n\nWong was an associate dean at the university’s engineering faculty.\n\nHe resigned from all his posts in the Legislative Council after the incident.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T03:50:07.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879335-20261126.htm"
     },
     {
       "id": "563c484fa5b9291a",
