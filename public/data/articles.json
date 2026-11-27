@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T08:16:29.492Z",
-  "checkedAt": "2026-11-27T08:45:19.031Z",
+  "generatedAt": "2026-11-27T09:00:33.402Z",
+  "checkedAt": "2026-11-27T09:00:33.402Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "3904960375485454",
+      "title": "Abby Choi murder was carefully planned, court hears",
+      "excerpt": "The murder of celebrity Abby Choi had been carefully planned and the killing stemmed from a financial dispute over a…",
+      "fullText": "The murder of celebrity Abby Choi had been carefully planned and the killing stemmed from a financial dispute over a luxury apartment, the High Court heard on Friday.\n\nIn her closing submissions, senior counsel Charlotte Draycott said the three defendants – Choi's ex-husband Alex Kwong, his brother Anthony Kwong and their father Kwong Kau – each had a role.\n\nThey had, she said, bought tools and other equipment a few days in advance, ready to act when the opportunity arose.\n\nDraycott said Choi's relationship with Kwong Kau had already broken down badly before the incident and suggested Choi had planned to sell a flat on Kadoorie Hill that is believed to be linked to her death.\n\nThe senior counsel held up Choi's handbag for the jury to see.\n\nShowing clear signs of damage, including holes and bloodstains, the bag, Draycott suggested, had been raised by Choi to protect herself during a hammer attack, during which the bag was struck.\n\nChoi was reported missing in February 2023.\n\nThree days later, parts of her dismembered body were found at a rented village house in Tai Po.\n\nHer ex-husband, his father and brother deny the murder charges, but have admitted preventing the lawful burial of her body.\n\nThe defence will present its closing submissions on Monday.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T08:42:31.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879501-20261127.htm"
+    },
+    {
+      "id": "32ea8db0754da851",
+      "title": "Top court quashes flag desecration convictions",
+      "excerpt": "The Court of Final Appeal on Friday unanimously quashed the convictions of a young man with autism for desecrating the…",
+      "fullText": "The Court of Final Appeal on Friday unanimously quashed the convictions of a young man with autism for desecrating the national flag and the SAR flag, ruling that the prosecution had never proved he intended to insult the flags as symbols.\n\nWong Chun-lok, who was 19 at the time of the offences, was convicted by a magistrate of one count of desecrating the national flag and two counts of desecrating the SAR flag, and was sentenced to detention in a rehabilitation centre.\n\nThe court heard that on National Day in 2022, Wong pulled down one national flag and four regional flags at three locations in Sham Shui Po by bending the metal flagpoles on which they were mounted.\n\nWong was diagnosed with autism at the age of three and also has attention deficit hyperactivity disorder and a hypersensitivity to visual stimuli.\n\nHis mother gave evidence of a similar incident in 2018 when he pulled down banners outside a shop because he was disturbed by them.\n\nDelivering the judgement, Justice Joseph Fok held that both the national flag offence and the SAR flag offence require proof that the defendant intended to undermine the dignity of the flag as a symbol.\n\nRecklessness is not enough, according to the judgement.\n\n\"The less egregious an act of desecration, the more cogent might the evidence need to be in order to establish an intention to desecrate the flag in question,\" the judgement said.\n\nJustice Fok found the magistrate's treatment of the mental element was brief and the deputy judge who heard the appeal had given a \"wholly inadequate\" analysis, simply relying on the magistrate's findings and CCTV footage without explaining how an intention to desecrate could be drawn from it.\n\nHe said the deputy judge had omitted evidence that Wong had done nothing directly to the flags themselves and had said nothing showing antipathy towards them as symbols; his explanation was that the sight of rows of fluttering flags made him uncomfortable.\n\nThe deputy judge was also found to have wrongly refused to admit new evidence, comprising reports from a psychiatrist, two clinical psychologists and an occupational therapist, which set out the link between Wong's condition and his impulsive behaviour towards the flags.\n\nJustice Fok said the reports were credible, admissible and relevant, and that had they been admitted the court could not have been satisfied beyond reasonable doubt that Wong intended to desecrate the flags.\n\nThe failure to properly assess the mental element, together with the wrongful exclusion of the new evidence, amounted to substantial and grave injustice.\n\n\"There is no question of ordering a re-trial,\" according to the judgement.\n\nThe court said there was no reasonable prospect of conviction, the prosecution had not sought a retrial, and Wong had already served his period of detention.\n\nThe case was heard by Chief Justice Andrew Cheung, permanent judges Roberto Ribeiro, Joseph Fok, Johnson Lam, and non-permanent judge William Young.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T08:34:39.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879506-20261127.htm"
+    },
     {
       "id": "ba2174acee419b6e",
       "title": "'Mushroom killer' asks top court to hear appeal",
@@ -775,28 +797,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879268-20261125.htm"
-    },
-    {
-      "id": "57d701cd9059eae9",
-      "title": "Data of 1.3 million URBTIX users compromised in attack",
-      "excerpt": "The government's Urban Ticketing System (URBTIX) has been hacked, with the personal data of some 1.3 million users accessed illegally…",
-      "fullText": "The government's Urban Ticketing System (URBTIX) has been hacked, with the personal data of some 1.3 million users accessed illegally.\n\nAuthorities were notified of the incident on Tuesday by a contractor responsible for running URBTIX.\n\nLaunched in 1984, the system provides ticketing services for performance venues managed by the Leisure and Cultural Services Department (LCSD).\n\nThe contractor, Tianjin Maoyan Weying Technology Co. (Maoyan), won a tender to design and operate the current system, which launched in December 2022.\n\nIn a statement, the LCSD said preliminary findings showed the personal data of around 1.3 million users, including their names, phone numbers and email addresses, were compromised.\n\nBut it said the system did not collect information on users' identity documents and would mask their credit card information.\n\n\"Upon discovery of the incident, the contractor took immediate measures to stop the hacking and seriously reviewed the system to confirm its normal operation,\" the department said.\n\nIt added that it has since notified the police, the Security Bureau, the Digital Policy Office (DPO) and the Office of the Privacy Commissioner for Personal Data (PCPD).\n\n\"The LCSD is also consulting the PCPD and the DPO in conducting a comprehensive review of the incident with the contractor, with a view to further strengthening the protection measures for the URBTIX system to prevent the recurrence of similar incidents,\" the statement read.\n\nMaoyan has been asked to carry out an investigation and submit a report, while arrangements are being made to inform affected users.\n\nEdited by Raymond Yeung",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T13:11:07.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879255-20261125.htm"
-    },
-    {
-      "id": "d5f15172235116f6",
-      "title": "Evening News on TV32 - Nov 25",
-      "excerpt": "Top stories for Wednesday, Nov 25, 2026 -The Shenzhou-24 docks with the Tiangong space station. - John Lee pledges support…",
-      "fullText": "Top stories for Wednesday, Nov 25, 2026\n\n-The Shenzhou-24 docks with the Tiangong space station.\n\n- John Lee pledges support for homeowners in future estate-maintenance work.\n\n- The Consumer Council is taken to task over the way it handles complaints and enquiries.",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T12:47:21.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879257-20261125.htm"
     },
     {
       "id": "15b25c8adc92f1cb",
