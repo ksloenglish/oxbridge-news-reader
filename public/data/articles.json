@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T09:00:33.402Z",
-  "checkedAt": "2026-11-27T09:00:33.402Z",
+  "generatedAt": "2026-11-27T09:08:39.064Z",
+  "checkedAt": "2026-11-27T09:08:39.064Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -335,6 +335,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261127/20261127_105213_864.html"
+    },
+    {
+      "id": "7499d9a98c605429",
+      "title": "Industry park CEO appointed",
+      "excerpt": "The Hung Shui Kiu Industry Park Company announced today the appointment of Yiu Hing-leung as its first Chief Executive Officer…",
+      "fullText": "The Hung Shui Kiu Industry Park Company announced today the appointment of Yiu Hing-leung as its first Chief Executive Officer, following an open recruitment exercise and after obtaining the approval of the Chief Executive. Mr Yiu will assume duty on December 1 for a term of three years.\n\nMr Yiu has more than 30 years of experience in the technology and industrial sectors. He previously served at the Hong Kong Science & Technology Parks Corporation (HKSTPC), where he held several key leadership positions, including Chief Corporate Development Officer and Head of Innofacturing. He spearheaded the transformation of industrial estates to “InnoParks”, and led projects including technology and industry clusters, and incubation programmes, to drive the development of a sustainable and vibrant innovation and technology ecosystem.\n\nPrior to joining the HKSTPC, Mr Yiu held senior executive roles at a technology startup and a multinational corporation.\n\nThe park company is wholly owned by the Government through The Financial Secretary Incorporated. It is responsible for the development and operation of the Hung Shui Kiu Industry Park, which spans approximately 27.5 hectares, and will capitalise on the park's locational advantages, including its proximity to Qianhai in Shenzhen, to drive the development of a diverse range of industries. These include high value-added and smart production such as pharmaceutical manufacturing and food processing.\n\nSince the appointment of its board of directors in middle of this year, the park company has commenced operations and is working to attract enterprises and investment.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261127/20261127_150849_490/images/20261127163404405.jpg",
+      "publishedAt": "2026-11-26T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261127/20261127_150849_490.html"
     },
     {
       "id": "76d6b3c839fb9595",
@@ -1149,17 +1160,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/pacific/2026/11/23/png-bougainville-independence-vote/"
-    },
-    {
-      "id": "2a475b88918215a2",
-      "title": "Fire services laws set for amendment",
-      "excerpt": "The Fire Services (Amendment) Bill 2026 and the Fixed Penalty (Fire Services) Bill will be published in the Government Gazette…",
-      "fullText": "The Fire Services (Amendment) Bill 2026 and the Fixed Penalty (Fire Services) Bill will be published in the Government Gazette on Friday and introduced into the Legislative Council on December 2 for first and second readings, with the Government targeting completion of the legislative exercise within its current term.\n\nThe Security Bureau said today that the two bills will ensure that the existing fire safety legislative framework keeps pace with the times, and are designed to enhance public safety and regulatory coherence, boost enforcement effectiveness, and clarify industry accountability.\n\nThe bureau iterated that the Government attaches great importance to fire safety. Following the No. 5 alarm fire at Wang Fuk Court in Tai Po in November 2025, the Government promptly established a \"Task Force on Strengthening Fire Safety Governance\", chaired by the Secretary for Security, to conduct a comprehensive review of the Fire Services Ordinance (Cap. 95) and its subsidiary legislation, and to map out medium-to-long-term reform measures. The legislative review was highlighted as a priority reform item in the 2026 Policy Address.\n\nThe proposed legislative amendments encompass six pillars, namely strengthening the regulatory regime for fire service installations (FSIs) and equipment; introducing an FSI \"responsible persons\" regime; reforming the Registered Fire Service Installation Contractor registration and disciplinary regime; enhancing penalties and criminal accountability, introducing a fixed penalty regime and streamlining the fire hazard abatement workflow; and expanding the enforcement powers of the Fire Services Department in combatting illicit fuelling.\n\nThe bureau said it consulted the LegCo Panel on Security on the legislative amendment proposals on May 5, and that members were generally supportive. The Government then launched a one-month public consultation exercise on May 26.\n\nOut of 506 valid submissions received, the bureau said 477 expressed support or made positive comments, reflecting that the proposals command wide support from the community.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261124/20261124_175623_927/images/20261124193029541.jpg",
-      "publishedAt": "2026-11-23T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261124/20261124_175623_927.html"
     },
     {
       "id": "5c9fc667bc45cdd7",
