@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T14:00:35.167Z",
-  "checkedAt": "2026-11-27T14:00:35.167Z",
+  "generatedAt": "2026-11-27T14:14:07.344Z",
+  "checkedAt": "2026-11-27T14:14:07.344Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "0329374cf6ca1d87",
+      "title": "Personal data of 7,500 Octopus users leaked",
+      "excerpt": "Some 7,500 Octopus users have had their personal data leaked following a cyberattack, the company has said, though it stressed…",
+      "fullText": "Some 7,500 Octopus users have had their personal data leaked following a cyberattack, the company has said, though it stressed that it has not detected any financial loss by customers.\n\nIn a statement, the operator of the electronic payment system said it detected abnormal activity from a cyberattack on Friday morning.\n\nThe compromised customer data included personal information such as names and photographs.\n\nOctopus said some users of its \"Automatic Add Value Service\" also had their bank codes and top-up amounts accessed, but stressed that no credit card or bank account information was leaked.\n\nIn addition, data belonging to about 22,000 merchants was compromised in the incident, involving the names, titles, email addresses, and the phone numbers of merchants' contact persons.\n\nThe company said core Octopus services continue to operate normally, with only a small number of features temporarily affected as a precautionary measure.\n\nA thorough investigation is under way, Octopus said, adding that affected customers will be contacted directly.\n\nMembers of the public are urged to watch for unusual account activity and stay alert for suspicious calls, SMS messages, emails, or links.\n\nEdited by Raymond Yeung",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T13:53:13.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879534-20261127.htm"
+    },
     {
       "id": "dc03af86f70477a0",
       "title": "Google Gemini may expose private emails to reviewers",
@@ -610,17 +621,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879345-20261126.htm"
-    },
-    {
-      "id": "14ae69fdc9bd4c37",
-      "title": "Govt pledges continued support for Wang Fuk residents",
-      "excerpt": "Government support for displaced Wang Fuk Court residents will continue, Deputy Financial Secretary Michael Wong vowed on Thursday, saying officials…",
-      "fullText": "Government support for displaced Wang Fuk Court residents will continue, Deputy Financial Secretary Michael Wong vowed on Thursday, saying officials will keep talking to some of them about rehousing arrangements.\n\nWong, who leads the government task force handling resettlement for the displaced residents, was speaking on an RTHK programme marking the first anniversary of the blaze that killed 168 people and forced thousands from their homes in the Tai Po estate.\n\nThe government is buying the residents’ flats because the fire-damaged blocks have to be demolished.\n\nWong said a vast majority of the almost 2,000 households have agreed to sell.\n\nOf these, 1,400 have chosen units under a special scheme to buy subsidised flats offered by the government.\n\nOf the 13 households that refused to sell, some have since approached the government for talks again, Wong said.\n\nThe government hopes to acquire all the flats, he added, with compulsory resumption by legislation only to be taken as a last resort.\n\n\"We don't think a deadline is necessary,\" Wong said.\n\n\"If it ultimately comes to the point where we really can't reach an agreement, legislation will be the last resort... but it won't be done this year; it will be a matter for next year.\n\n\"That means there will be ample time to communicate with them and see what everyone's wishes are.\n\n\"We hope to balance reason, compassion and the law – with the priority on compassion – and to handle this in a more humane way.\"\n\nSpeaking on another radio programme, Wong said he hopes residents would soon recover from their grief, but acknowledged that individual circumstances differ and some may need more time to heal and start anew.\n\nHe said he was confident that society as a whole would keep supporting them and that the government would continue its assistance, whether through financial or housing support.\n\n“Hongkongers are all in the same boat, pulling together,\" he said.\n\n\"As for the government, we have learned lessons and made many changes.\n\n\"We are providing support to the affected residents, and that support will keep going, all the way.”\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T04:16:53.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879336-20261126.htm"
     },
     {
       "id": "563c484fa5b9291a",
