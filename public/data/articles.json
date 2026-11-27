@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T00:00:33.596Z",
-  "checkedAt": "2026-11-27T03:00:30.996Z",
+  "generatedAt": "2026-11-27T03:15:29.420Z",
+  "checkedAt": "2026-11-27T03:15:29.420Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "54a3e351f6c3c434",
+      "title": "HK and regional markets steadier amid AI uncertainty",
+      "excerpt": "Asian shares were set to end a bruising month on a steadier note as a holiday lull offered some respite…",
+      "fullText": "Asian shares were set to end a bruising month on a steadier note as a holiday lull offered some respite from AI jitters, while the US dollar reigned supreme, riding a wave of safe-haven demand and rate hike bets towards a third month of gains.\n\nIn Hong Kong, the benchmark Hang Seng Index opened up 36 points, or 0.2 percent, at 22,263.\n\nThe China enterprises index inched seven points, or 0.1 percent, higher to 7,501 while the tech index was 16 points, or 0.5 percent, up at 3,433.\n\nUp north, the Shanghai Composite Index opened up five points, or 0.2 percent, at 3,482.\n\nThe Shenzhen Component Index was 37 points, or 0.37 percent, higher at 10,121 while the ChiNext Index rose 13 points, or 0.59 percent, to 2,202.\n\nIn Tokyo, the Nikkei opened 170 points, or 0.3 percent, up at 57,669 before gaining more ground to put the 225 benchmark 538 points up at one stage before lunch as the latest data on Friday showed core inflation in Tokyo hit a 16-month high in November, bolstering the case for an interest rate hike from the Bank of Japan as soon as next month.\n\nIn Seoul, the Kospi opened 17 points, or 0.37 percent, up at 4,728 and rose after a brief dip to be 94 points higher at one stage before noon, led by a rebound in chipmakers after the country's central bank raised interest rates as expected and sharply upgraded its growth forecasts.\n\nThe gains came as oil prices were headed for the first weekly rise in four on renewed concerns about supply disruptions.\n\nBrent crude futures slipped 0.4 percent on Friday to US$96.14 a barrel, but were still up 3.9 percent for the week.\n\nFor the month, they were down 18 percent.\n\n\"Barring a big shock that severely rattles a thin market, November is practically in the books and the markets limp into December where a seasonal 'Santa Rally' currently appears elusive,\" said Kyle Rodda, a senior analyst at Capital.com.\n\n\"For as long as the markets remain unsure about the growth trajectory for AI and lack clarity about where US rates may peak, uncertainty and therefore volatility is liable to remain elevated.\"\n\nTech giant Nvidia remained a source of unease after S&P put its credit rating on watch for a possible downgrade.\n\nThe chipmaker told manufacturing partners to stop shipping servers containing its chips to Malaysia, Singapore, Thailand and Indonesia, the Financial Times reported.\n\nThe US dollar was headed to its third monthly gain on Friday, up 1.8 percent against its major peers at 103.8.\n\nIt has been supported by expectations that the Federal Reserve is almost certain to lift interest rates in December, as well as safe-haven flows from the selloff in equities.\n\nFutures imply a 99 percent chance the Fed will raise rates by 25 basis points in December, but speculation of a half-point increase has faded. (Agencies)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T03:03:40.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879462-20261127.htm"
+    },
     {
       "id": "8f81b1dfda5d7869",
       "title": "'Ukraine has no intention of spreading war to Libya'",
@@ -1028,17 +1039,6 @@
       "source": "RTHK English — Greater China",
       "sourceFeed": "rthk-greater-china",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879052-20261124.htm"
-    },
-    {
-      "id": "8c50797db7d0d47f",
-      "title": "HK rises as region charges up in tech relief",
-      "excerpt": "Hong Kong and mainland stocks rebounded on Tuesday from more than one-year lows, as Nvidia's decision to reinstate Jensen Huang…",
-      "fullText": "Hong Kong and mainland stocks rebounded on Tuesday from more than one-year lows, as Nvidia's decision to reinstate Jensen Huang at the helm sparked a rally in AI-related shares and helped reverse part of last week's global equity selloff.\n\nThe Hang Seng Index opened higher by 243 points, or 1.09 percent, to put the benchmark at 22,627.\n\nThe China enterprises index was up 59 points, or 0.8 percent, at 7,587 while the tech index surged up 71 points, or 2.05 percent, to 3,579.\n\nThe artificial intelligence index opened up six percent.\n\nUp north, the benchmark Shanghai Composite Index rose 29 points, or 0.82 percent, to open 3,567.\n\nThe Shenzhen Component Index was 254 points, or 2.43 percent, higher at 10,708 while the ChiNext Index climbed 88 points, or 3.88 percent, up to 2,368.\n\nThe tech-focused Star50 Index jumped 3.3 percent while the 5G Communication Index surged seven percent.\n\nMemory-chip giant CXMT rose more than six percent.\n\nIn Tokyo, the Nikkei opened 573 points, or 1.02 percent, up at 57,009 before accelerating to be 2,167 points higher at one stage before noon,\n\nIn Seoul, the Kospi did much better than its Japanese counterpart in opening for the day, leaping 171 points, or 3.64 percent, up to 4,880 before its gains punched up to put the benchmark 306 points up at one stage before lunch.\n\nThe rebound marked a sharp turnaround in market sentiment after leadership turmoil at the world's most valuable chip firm and renewed concerns over AI spending had rattled global markets in recent sessions.\n\n\"The return of the most important man in the AI industry to the helm of its most important company has eased fear and uncertainty about the AI trade, at least at the margins,\" despite lingering concerns about slowing AI investment and moderating earnings growth, said Kyle Rodda, senior financial market analyst at Capital.com. (Agencies)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T03:16:39.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879040-20261124.htm"
     },
     {
       "id": "7fa3bda31e20acf1",
