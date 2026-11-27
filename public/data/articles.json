@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T13:15:19.012Z",
-  "checkedAt": "2026-11-27T13:30:29.750Z",
+  "generatedAt": "2026-11-27T13:45:22.276Z",
+  "checkedAt": "2026-11-27T13:45:22.276Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -40,7 +40,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 13
+      "articleCount": 14
     },
     {
       "id": "rthk-sport",
@@ -80,7 +80,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 17
+      "articleCount": 16
     },
     {
       "id": "fox-news-tech",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "cad8a277c3199344",
+      "title": "Sanchez in last push to beat right before Spain vote",
+      "excerpt": "Spain's Socialist Prime Minister Pedro Sanchez made a final push to overcome the odds on Friday, the last day of…",
+      "fullText": "Spain's Socialist Prime Minister Pedro Sanchez made a final push to overcome the odds on Friday, the last day of campaigning for an election this weekend expected to deliver a victory for conservatives and the far right.\n\nThe outcome of Sunday's vote will be closely watched as Europe opens an electoral cycle over the next 12 months that could reshape the balance of power within the European Union.\n\nSanchez has enhanced his global profile in recent years as one of the world's most prominent leftist leaders, but a polarising status at home puts his eight-year tenure in peril.\n\nPolls have consistently put him behind the main right-wing Popular Party (PP), which is predicted to win the most seats in another hung parliament.\n\nIt could therefore rely on far-right, anti-immigration Vox, Spain's third-largest political force, which could double its seats and already governs several regions with the PP.\n\nSuch a coalition would be a first since Spain's transition to democracy after General Francisco Franco's dictatorship (1939-1975).\n\nSanchez will hold a final rally in Madrid, seeking a late mobilisation of left-wing voters to defeat what he calls the \"regression\" of a possible PP-Vox coalition.\n\nPP leader Alberto Nunez Feijoo's campaign finale will be in Seville, capital of the southern Andalusia region, while Vox leader Santiago Abascal will hold a last rally in the eastern city of Valencia.\n\nSome recent polls have suggested the gap between the Socialists and the PP was closing, raising the prospect of another spectacular comeback by Sanchez, seen as the great survivor of Spanish politics.\n\nSanchez has vaunted his record on the international stage, notably his outspoken defence of immigration, clashes with US President Donald Trump and virulent criticism of Israel.\n\nHe has also tried to leverage anger over a housing crisis, passing measures for tenants earlier this month. (AFP)\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T13:22:25.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879536-20261127.htm"
+    },
     {
       "id": "dcc32a195ed9ac3e",
       "title": "Evening News on TV32 - Nov 27",
@@ -109,7 +120,7 @@
       "id": "c7fc1a1a4a513ddf",
       "title": "90,000 users compromised in SmartPLAY data breach",
       "excerpt": "Around 90,000 users of the government's SmartPLAY booking system for public sports and recreational facilities were involved in a data…",
-      "fullText": "Around 90,000 users of the government's SmartPLAY booking system for public sports and recreational facilities were involved in a data breach, according to the Office of the Privacy Commissioner for Personal Data (PCPD).\n\nThe privacy watchdog said on Friday that it has launched an investigation after being notified of the incident by the Leisure and Cultural Services Department.\n\nThe PCPD said that the compromised personal data may include names, gender, dates of birth, addresses, email addresses, and phone numbers.\n\nIt reminded members of the public to stay vigilant when they receive unknown or suspicious calls, messages, or emails, and refrain from opening attachments, accessing hyperlinks, or disclosing personal data.\n\n\"Even if the caller or message sender is able to state the individual's personal details, they should stop and think before providing further personal data or making payment,\" the office added.\n\nEdited by Azam Khan",
+      "fullText": "Around 90,000 users of the government's SmartPLAY booking system for public sports and recreational facilities were involved in a data breach, according to the Office of the Privacy Commissioner for Personal Data (PCPD).\n\nThe privacy watchdog said on Friday that it has launched an investigation after being notified of the incident by the Leisure and Cultural Services Department (LCSD).\n\nThe PCPD said that the compromised personal data may include names, gender, dates of birth, addresses, email addresses, and phone numbers.\n\nIt reminded members of the public to stay vigilant when they receive unknown or suspicious calls, messages, or emails, and refrain from opening attachments, accessing hyperlinks, or disclosing personal data.\n\n\"Even if the caller or message sender is able to state the individual's personal details, they should stop and think before providing further personal data or making payment,\" the office added.\n\nIn a statement, the LCSD said it was informed by the contractor of the breach on Thursday, and immediate measures have since been taken to stop the attack.\n\n\"The incident does not involve information on users' identity documents, and SmartPLAY does not store any information on credit cards or other forms of making payments,\" the statement added.\n\nSystem managers have also temporarily disabled users from recovering lost passwords, asking them instead to visit a physical venue while checks are being performed.\n\nA separate announcement will be made when the function resumes, the LCSD said.\n_____________________________\nLast updated: 2026-11-27 HKT 21:20\n\nEdited by Azam Khan",
       "imageUrl": null,
       "publishedAt": "2026-11-27T11:05:58.000Z",
       "source": "RTHK English — Local",
@@ -893,8 +904,8 @@
       "fullText": "Director-General of Trade and Industry Aaron Liu on Wednesday said Hong Kong fully backs the advancement of digital technologies in international trade.\n\nSpeaking on an RTHK programme, he noted that the Apec Trade Digitalisation Cooperation Framework – a four-year regional initiative – was adopted by the 21 member economies at last week’s Apec meetings in Shenzhen.\n\n“We will fully support the recently endorsed Apec Trade Digitalisation Cooperation Framework. We will continue to make good use of the Apec platform to share Hong Kong’s experience as an international trade centre and in digital trade, telling the good stories of Hong Kong,” Liu said.\n\n“For example, when we attended an Apec event in Dalian in August, our department held two workshops on digital service trade rules and data standards, inviting relevant experts and industry representatives to share our experience and exchange ideas.”\n\nPointing out that Hong Kong plays a unique role by participating in Apec both as a member economy and a special administrative region of China, Liu said the SAR not only keeps abreast of the latest international trends, but also takes part in formulating cooperation directions on emerging topics such as digital trade and the green economy.\n\nHe also noted that Hong Kong, leveraging its unique advantages of the motherland’s support and being closely connected to the world under the One Country, Two Systems principle, achieved positive outcomes during the Apec China year which saw the country host a year-long series of Apec events.\n\nMoving forward, Liu said the SAR will continue to actively participate in Apec affairs, leveraging its strengths as a “super connector” and “super value-adder” to contribute to national development.\n\nEdited by Edmond Fong",
       "imageUrl": null,
       "publishedAt": "2026-11-25T03:18:24.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879178-20261125.htm"
     },
     {
@@ -1732,17 +1743,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/china/2026/11/13/nvidia-china-entity-list-sanctioned-shandong/"
-    },
-    {
-      "id": "c43cb0051c60d732",
-      "title": "PNG observers call for restraint from China and US over ‘wine bottle’ shell",
-      "excerpt": "The statements by Beijing and Washington undermine the jurisdiction of PNG authorities, observers said.",
-      "fullText": "PORT MORESBY, Papua New Guinea – The U.S. and China should stop trying to push their own narratives and allow the Papua New Guinea Police to handle the case of an allegedly smuggled artillery shell found in a shipping container imported by a Chinese company, a senior communications expert from the Pacific country told Radio Free Asia.\nPolice last week confirmed that the shell seized on Oct. 29 was indeed a 130-millimeter round, contrary to the Chinese embassy’s claim on social media that it was merely a harmless wine bottle that was shaped like an artillery shell.\n\nThe U.S. Embassy disputed the claim on social media, saying that the U.S. military had “engaged” with the PNG Explosive Ordnance Disposal Unit, who determined that it was a Chinese-manufactured artillery projectile.\nPNG police detained four Chinese men in connection with the incident.\nBut letting the U.S. or China influence public opinion through their statements undermines the PNG police and the country’s sovereignty, Joseph Ealedona, a former media executive and former president of Port Moresby Soccer Association, told RFA.\n“It is a police investigation and only the PNG police will release details,” he said. “We Papua New Guineans do not come to your country and announce matters under police investigation.”\n\nHe called for restraint from the embassies of both countries.\n“The Chinese and U.S. Embassies must respect our sovereignty and refrain from making public statements,” he said. “The matter is under active police investigation. It must not be used for geopolitical interests. We are friends to U.S. and China so this must be respected.”\n‘A 21st century arms race’\nThe “wine bottle” shell is part of a “superpower arms race,” former diplomat Dominic Sengi wrote in a commentary published in local newspaper The National.\n“PNG and the Pacific has become an increasingly important arena of strategic competition where superpowers come courting and subscribing nations in their spheres,” he wrote.\n\nThe smaller Pacific Islands, he said, have welcomed both because they feel like they stand to gain something when the larger powers compete.\n“Come one, come all, invest in our country. Build our roads, finance our ports, train our police, support our defense forces. Establish diplomatic missions, bring your development programs – friends to all, enemies to none,” he wrote, describing what he called a “pragmatic, almost laissez-faire” approach to international relations.\n“Laissez-faire diplomacy however becomes problematic when welcoming everyone means allowing everyone to pursue their strategic interests without sufficient national scrutiny.”\nHe said that Beijing and Washington’s competing explanations over the incident are themselves “instruments of political engagement.”\n“Both countries speak the language of friendship and mutual respect,” he wrote. “Yet PNG must ask whether these declarations are always identical to the interests of our peoples.”\nPapua New Guinea’s closing of Taiwan’s trade office in Port Moresby this month was described as puzzling from a diplomatic standpoint, experts told RFA, but it signals a coming expansion of its economic relationship with China.\nEdited by Eugene Whong.",
-      "imageUrl": "https://www.rfa.org/resizer/v2/N6AZQDODSJGKJI5N5DYAA2RCMA.jpg?auth=fd6a45f4d57aaf3ff79792639905303409a62e8de28d03f41c2dcebc34a66d3f&smart=true&width=1500",
-      "publishedAt": "2026-11-12T19:30:15.000Z",
-      "source": "Radio Free Asia English",
-      "sourceFeed": "rfa-english",
-      "link": "https://rfa.org/english/pacific/2026/11/12/wine-bottle-shell-papua-new-guinea-png/"
     }
   ]
 }
