@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T03:15:29.420Z",
-  "checkedAt": "2026-11-27T04:00:28.987Z",
+  "generatedAt": "2026-11-27T04:15:19.180Z",
+  "checkedAt": "2026-11-27T04:15:19.180Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -30,7 +30,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 18
+      "articleCount": 19
     },
     {
       "id": "rthk-finance",
@@ -70,7 +70,7 @@
       "enabled": true,
       "ok": true,
       "error": null,
-      "articleCount": 7
+      "articleCount": 6
     },
     {
       "id": "rfa-english",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "dc1f7d56cf317dba",
+      "title": "NZ leader loses majority with centrists holding key",
+      "excerpt": "New Zealand Prime Minister Christopher Luxon's right-wing coalition lost its parliamentary majority, final results from this month's election showed on…",
+      "fullText": "New Zealand Prime Minister Christopher Luxon's right-wing coalition lost its parliamentary majority, final results from this month's election showed on Friday, plunging the country into political uncertainty with an insurgent centrist party set to play kingmaker.\n\nPreliminary results of the November 7 poll had Luxon's National Party-led coalition clinging onto power.\n\nBut margins were so tight that his party lost two seats in the final results announced — leaving his coalition with the populist NZ First and the libertarian ACT one seat short of a majority.\n\nLuxon declared he had a mandate to form the country's next government in the wake of this month's vote, bitterly fought and dominated by spiralling costs of living in the South Pacific country.\n\nHe has run a caretaker government since the November 7 poll.\n\nBut he will now need the backing of the centrist newcomers Opportunity, led by Qiulae Wong, if he wants to govern.\n\nAnd if a deal isn't struck, the country could be headed for another election.\n\nPledging a kinder, gentler politics as well as action on climate change, her party became the first in decades to make parliament without a former cabinet minister leader.\n\nWong has vowed to work with whichever party has the largest number of seats.\n\nBut she has insisted that her party's \"bottom lines\" on climate change action, cost of living and cleaning up politics are non-negotiable.\n\nBoth Luxon and opposition Labour Party leader Chris Hipkins have held lengthy meetings with Wong in the wake of the election.\n\nShe said following the election this month that her win represented a sea change after a decade of rising populism and extremism worldwide.\n\n\"I think we are seeing a push globally for more pragmatic politics,\" she told journalists.\n\n\"We've seen that populism doesn't deliver results,\" she said.\n\nWith the official count in, it could take weeks or even months for the shape of New Zealand's new government to be decided.\n\nFollowing the 2023 poll, it took more than six weeks for Luxon to form his coalition government with NZ First and ACT. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T04:02:29.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879455-20261127.htm"
+    },
     {
       "id": "54a3e351f6c3c434",
       "title": "HK and regional markets steadier amid AI uncertainty",
@@ -1732,17 +1743,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/pacific/2026/11/12/wine-bottle-shell-papua-new-guinea-png/"
-    },
-    {
-      "id": "813c3334f80b0c85",
-      "title": "Teacher certificate bill proposed",
-      "excerpt": "The Education Bureau has proposed amending the law to enhance the teacher registration mechanism by introducing practising certificate requirements, thereby…",
-      "fullText": "The Education Bureau has proposed amending the law to enhance the teacher registration mechanism by introducing practising certificate requirements, thereby upholding the professionalism of the teaching force. The Government will publish the Education (Amendment) Bill 2026 in the Gazette tomorrow and introduce it to the Legislative Council for first and second readings on November 25.\n\nThe bureau noted that it has referenced teacher registration systems in various jurisdictions alongside the registration and practising certificate requirements of other Hong Kong professions. It stated that making a practising certificate a prerequisite for teaching, in addition to the existing statutory registration, could elevate public recognition of the sector and raise the social status of teachers.\n\nThe bill will establish statutory rules requiring all teachers and principals of publicly funded schools, private schools, international schools and kindergartens to hold both teacher registration and practising certificates. Each practising certificate will remain valid for a maximum of three school years.\n\nTo ensure educators keep abreast of the latest global and local educational policies, teachers must meet a mandatory continuing professional development requirement to obtain a practising certificate. This measure aims to align their knowledge and pedagogy with the evolving needs of students and society.\n\nThe bureau pointed out that as role models and key figures in nurturing young people, teachers have a profound impact on students through their conduct, values, words and deeds. Amid rapid societal changes, parents and the wider public hold increasingly high expectations for teacher professionalism.\n\nThe bureau highlighted that the bill addresses the practical operational needs of schools, encourages educators to keep pace with the times and strengthens staff management to safeguard student well-being. It also establishes safeguards to bar individuals convicted of offences endangering national security from teaching, protecting students while upholding professional integrity and public confidence.\n\nClick here for details.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261112/20261112_120723_089/images/20261112140415574.jpg",
-      "publishedAt": "2026-11-11T16:00:00.000Z",
-      "source": "news.gov.hk — At School, At Work",
-      "sourceFeed": "news-gov-hk-school-work",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261112/20261112_120723_089.html"
     }
   ]
 }
