@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T23:45:20.774Z",
-  "checkedAt": "2026-11-26T23:47:35.605Z",
+  "generatedAt": "2026-11-27T00:00:33.596Z",
+  "checkedAt": "2026-11-27T00:00:33.596Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "8f81b1dfda5d7869",
+      "title": "'Ukraine has no intention of spreading war to Libya'",
+      "excerpt": "Ukraine was not attempting to spread the war with Russia to Libyan shores by attacking two Russian ships off the…",
+      "fullText": "Ukraine was not attempting to spread the war with Russia to Libyan shores by attacking two Russian ships off the coast of Benghazi, Kyiv's Foreign Minister Andriy Sybiga said on Thursday.\n\nIn a post on X, Sybiga said he had called his Libyan counterpart Al-Taher Al-Baour to explain that \"none of Ukraine's actions have ever been directed against Libya or the Libyan people, only against Russian military objects directly serving Russia's war\".\n\n\"We have no intention of extending Russia's war against Ukraine to Libya or any other country,\" he added.\n\nOn Monday, Kyiv claimed responsibility for attacks on two Russian ships – one of which was sunk – at the weekend off the coast of Libya, in what appears to be a spillover of the war between Kyiv and Moscow.\n\nIn his X post, Sybiga \"reaffirmed Ukraine's full support for Libya's sovereignty and territorial integrity, as well as for efforts to reunify the country\".\n\nThe incident has fuelled concerns about its potential political and security repercussions in Libya, a country divided between the UN-recognised government in Tripoli and a parallel administration based in Benghazi in the east.\n\nThe eastern administration is led by Khalifa Haftar, who maintains close military and strategic ties with Russia.\n\nTripoli had demanded explanations from Kyiv after the attack and denied any understanding with Ukraine, as speculation circulated about a possible role of the Tripoli authorities in the operations claimed by Kyiv.\n\nThe rival executive in the east has called for an international investigation into an alleged Ukrainian military presence in Libya.\n\nThe UN mission in Libya also condemned the attacks, calling for an independent investigation and urging respect for Libyan sovereignty. (AFP)\n\nEdited by Cecil Wong",
+      "imageUrl": null,
+      "publishedAt": "2026-11-26T23:48:08.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879442-20261127.htm"
+    },
     {
       "id": "e3bededf5215c85e",
       "title": "Bournemouth, AC Milan rally to wins in Europa League",
@@ -819,17 +830,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879152-20261125.htm"
-    },
-    {
-      "id": "b6529541dff08d18",
-      "title": "'Mystery substance at concert may be linked to thefts'",
-      "excerpt": "The release of an \"unknown substance\" that led to the evacuation of a concert at the UK's largest indoor arena…",
-      "fullText": "The release of an \"unknown substance\" that led to the evacuation of a concert at the UK's largest indoor arena may be linked to jewellery thefts, police said on Tuesday.\n\nSome 12,000 people were attending the Sunday night show by US rapper Don Toliver at the Co-op Live arena in Manchester, north-west England, when the incident occurred, causing adverse effects in 89 members of the audience.\n\nManchester police said they were \"exploring the possibility that release of the substance could be linked to reports of a small number of robbery offences at the arena on Sunday evening.\"\n\n\"We received nine reports of jewellery being stolen during the same concert,\" it said.\n\n\"We are aware similar robberies have been reported at two European concerts for the same artist and will be linking in with our European counterparts to better understand the wider picture of this suspected offending,\" said Tom Harding, the deputy chief constable of the police force, quoted in the statement.\n\nDon Toliver, who was nominated for five Grammy Awards last week, has around 45 million monthly listeners on Spotify. (AFP)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T23:36:26.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879142-20261125.htm"
     },
     {
       "id": "1427c6d3541434fb",
