@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T06:45:21.734Z",
-  "checkedAt": "2026-11-27T06:45:21.734Z",
+  "generatedAt": "2026-11-27T07:00:29.711Z",
+  "checkedAt": "2026-11-27T07:00:29.711Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -269,6 +269,17 @@
       "source": "Fox News — Tech",
       "sourceFeed": "fox-news-tech",
       "link": "https://www.foxnews.com/tech/housefishing-could-fool-you-ai-real-estate-photos"
+    },
+    {
+      "id": "661ef462e4710a7c",
+      "title": "FS promotes ties in the Netherlands",
+      "excerpt": "Leading a delegation to the Netherlands, Financial Secretary Paul Chan attended several events, including an exchange session in Amsterdam aimed…",
+      "fullText": "Leading a delegation to the Netherlands, Financial Secretary Paul Chan attended several events, including an exchange session in Amsterdam aimed at boosting co-operation between Hong Kong and the Netherlands.\n\nYesterday morning, Mr Chan and the delegation joined an exchange session in Amsterdam co-organised by the Hong Kong Trade Development Council (HKTDC), Amsterdam Trade & Invest, StartupAmsterdam and Amsterdam Science Park.\n\nDuring the session, Amsterdam representatives briefed the delegation on how the city develops its innovation and technology (I&T) ecosystem and outlined its priority areas in research and industry. They also explained how the city fosters close collaboration among universities, research institutes, investors and businesses to bring research outcomes from the laboratory to the market.\n\nSpeaking at a keynote luncheon, Mr Chan gave an update on Hong Kong’s latest economic situation. Addressing Dutch businesses and young innovators, he highlighted the city’s quality lifestyle and encouraged everyone to visit Hong Kong to experience its vibrancy and opportunities first-hand.\n\nIn the afternoon, Mr Chan and the delegation travelled to Leiden to visit the Netherlands’ largest bioscience park. Both sides explored partnership opportunities across various areas, including closer collaboration between the science parks of the two places.\n\nThe Financial Secretary then visited the Centre for Human Drug Research in Leiden, which specialises in early-stage clinical research, to learn about its facilities and work.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261127/20261127_105213_864/images/20261127124010747.jpg",
+      "publishedAt": "2026-11-26T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261127/20261127_105213_864.html"
     },
     {
       "id": "76d6b3c839fb9595",
@@ -1160,17 +1171,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261124/20261124_195121_838.html"
-    },
-    {
-      "id": "8d227534f24e3cd1",
-      "title": "New grants rolled out for Tai Po fire",
-      "excerpt": "The Support Fund for Wang Fuk Court in Tai Po today rolled out two grants for affected flat owners and…",
-      "fullText": "The Support Fund for Wang Fuk Court in Tai Po today rolled out two grants for affected flat owners and families of those who died in the fire to assist them in starting a new life.\n\nThe fund will provide owners of each flat with a new beginning support grant of $300,000, to be disbursed in two installments.\n\nThe first installment of $150,000 will be disbursed at the end of December, alongside the third rental grant payout, whereas the second tranche of $150,000 will be issued at the end of June 2027, alongside the fourth rental grant installment.\n\nIf a flat owner has sold or is going to sell their flat title to the Government, the grant will be disbursed to the person who owned the property prior to the transfer.\n\nIn view of the public's desire to offer greater support to bereaved families, and given that some of the deceased were not flat owners, the fund will provide a separate new beginning support grant for them.\n\nThis grant of $200,000 will be provided for each deceased person and disbursed in a single lump sum at the end of December.\n\nConvenor of the Steering Committee on the Support Fund for Wang Fuk Court in Tai Po and Deputy Chief Secretary Cheuk Wing-hing said those affected are progressing towards a new beginning as various emergency and medium-term support measures have been steadily implemented, and the Special Sales Exercise is largely completed.\n\n“Therefore, pursuant to the instruction of the Chief Executive, the support fund has decided to roll out two grants to assist the flat owners and families of the deceased in addressing their needs in this new stage of life, embarking on a new beginning, and moving forward from the tragic event,\" he said.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261124/20261124_100734_159/images/20261124114445498.jpg",
-      "publishedAt": "2026-11-23T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261124/20261124_100734_159.html"
     },
     {
       "id": "e42f61c88844f84e",
