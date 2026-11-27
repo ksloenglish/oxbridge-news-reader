@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T09:45:20.511Z",
-  "checkedAt": "2026-11-27T10:00:41.078Z",
+  "generatedAt": "2026-11-27T10:15:20.331Z",
+  "checkedAt": "2026-11-27T10:15:20.331Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "59212c66e79e50dd",
+      "title": "InnoParks veteran to lead Hung Shui Kiu Park",
+      "excerpt": "The Hung Shui Kiu Industry Park Company has appointed Yiu Hing-leung as its first chief executive for a three-year term…",
+      "fullText": "The Hung Shui Kiu Industry Park Company has appointed Yiu Hing-leung as its first chief executive for a three-year term starting December 1.\n\nHis appointment followed an open recruitment process and received the approval of the SAR chief executive, the company said.\n\nAccording to authorities, Yiu has spent more than three decades in the technology and industrial sectors.\n\nHe previously held senior roles at Hong Kong Science and Technology Parks Corporation, including chief corporate development officer and head of innofacturing.\n\nWhile there, he drove the conversion of industrial estates into \"InnoParks\" and oversaw projects involving technology and industry clusters and incubation programmes.\n\nJeffrey Lam, chairman of the park company’s board of directors, said Yiu’s experience, business contacts and understanding of Hong Kong’s industrial development made him a strong fit for the role.\n\n\"I have every confidence that, leveraging his expertise and years of experience in driving new industrialisation, Dr Yiu will be able to lead the park company in attracting a high-value-added and diverse range of industries to set up operations and building a thriving industry ecosystem in the long term,\" he said in a statement.\n\nLam also said accelerating the Northern Metropolis is a key objective under Hong Kong’s first five-year plan and that the government-owned company is an important tool for advancing industry there through varied approaches.\n\nThe company is responsible for developing and operating the roughly 27.5-hectare Hung Shui Kiu Industry Park.\n\nIts transport links and proximity to Qianhai in Shenzhen are expected to help attract high-value and smart production, including pharmaceutical manufacturing and food processing.\n\nThe company said it began operating after its board was appointed in the middle of the year and was now working actively to attract enterprises and investment.\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T09:57:01.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879510-20261127.htm"
+    },
     {
       "id": "0403e31e5a79f0ae",
       "title": "HK stocks rally as Beijing brings in 'national team'",
@@ -808,17 +819,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261126/20261126_155534_527.html"
-    },
-    {
-      "id": "d79d54d07007284f",
-      "title": "PWH doctor arrested over alleged indecent assault",
-      "excerpt": "A 31-year-old doctor at Prince of Wales Hospital has been arrested on suspicion of indecent assault, after he allegedly performed…",
-      "fullText": "A 31-year-old doctor at Prince of Wales Hospital has been arrested on suspicion of indecent assault, after he allegedly performed physical examinations on two male patients in the paediatric ward without authorisation last month.\n\nThe hospital said on Wednesday that the doctor had since been suspended from clinical duties and barred from entering all clinical areas.\n\nAssessments were also conducted on the two patients, whose clinical condition and treatments were unaffected, the hospital added. It apologised to their families and pledged to render all necessary assistance.\n\nThe doctor was employed by the Chinese University's Faculty of Medicine, and performed teaching and clinical work at Prince of Wales Hospital. CUHK said it was highly concerned about the incident, and has suspended his duties pending an investigation.\n\nPolice said the man had been released on bail, with a probe to continue.\n\nEdited by Raymond Yeung",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T14:55:30.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879268-20261125.htm"
     },
     {
       "id": "15b25c8adc92f1cb",
