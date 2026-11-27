@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T07:45:25.810Z",
-  "checkedAt": "2026-11-27T08:00:35.491Z",
+  "generatedAt": "2026-11-27T08:15:23.335Z",
+  "checkedAt": "2026-11-27T08:15:23.335Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "ba2174acee419b6e",
+      "title": "'Mushroom killer' asks top court to hear appeal",
+      "excerpt": "An Australian woman dubbed the mushroom killer for using deadly fungi to murder relatives has asked Australia's top court to…",
+      "fullText": "An Australian woman dubbed the mushroom killer for using deadly fungi to murder relatives has asked Australia's top court to hear an appeal of her conviction and life sentence, local media reported on Friday.\n\nErin Patterson, 52, was last year found guilty of murdering her husband's parents and aunt in 2023, deliberately lacing their beef Wellington lunch with lethal death cap mushrooms.\n\nThe strange nature of the \"mushroom murders\" fuelled intense global interest, with Patterson's 11-week trial drawing more publicity than almost any other Australian case in recent memory.\n\nPatterson maintained her triple murder convictions were a \"miscarriage of justice\", urging the Court of Appeal in Victoria State to either set her free or have the case heard again.\n\nBut that court last month not only threw out her bid to have the convictions quashed, it found her \"carefully planned and deliberate\" killings deserved a life sentence.\n\nShe has now launched an appeal with Australia's top court in a last-ditch push for freedom, Australia's national broadcaster ABC and daily newspaper The Age reported, citing sources.\n\nShe is appealing both her conviction and her life sentence, they said.\n\nThe High Court must now decide whether to grant her appeal, which could take months.\n\nPatterson's lawyers have argued she suffered a \"substantial\" miscarriage of justice in her trial, as well as \"oppressive\" cross-examination and unfair decisions on the admission of evidence.\n\nBut the court last month found her \"carefully planned and deliberate\" killings deserved an even harsher sentence. (AFP)\n\nEdited by Tony Sabine",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T07:57:41.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879494-20261127.htm"
+    },
     {
       "id": "855951731f1d4aee",
       "title": "Police, retailers warn of data breaches and scams",
@@ -863,17 +874,6 @@
       "source": "RTHK English — Finance",
       "sourceFeed": "rthk-finance",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879180-20261125.htm"
-    },
-    {
-      "id": "695e6598b4e28022",
-      "title": "Armed men release 10 hostages in Colombia stand-off",
-      "excerpt": "Armed men are still holding hostage at least 20 people after releasing 10 from a supermarket in the Colombian city…",
-      "fullText": "Armed men are still holding hostage at least 20 people after releasing 10 from a supermarket in the Colombian city of Cartagena, President Abelardo De La Espriella and national police said.\n\nThe hostages were seized by a group of armed men holed up in a branch of the Exito chain following a swift police response to their failed bid to hijack an armored car ferrying cash from a mall, De La Espriella said.\n\nImages showed a crowd of heavily armed military and police outside the store in the La Castellana neighbourhood of Cartagena, where the walled colonial historic district is a tourist attraction.\n\n\"All of our human, technological, and specialised resources are deployed, under inter-agency coordination, to protect the citizens who remain inside the store and secure their safe release,\" police said on social media.\n\nOfficials gave no immediate details about the identities of the hostage-takers or the hostages.\n\n\"I guarantee the Colombian people that we will free those people,\" De La Espriella said.\n\nHis comments came during a visit to the city of Villavicencio following an overnight car bombing the government blamed on a group of dissidents from the former FARC rebels who reject a 2016 peace deal.\n\nSocial media showed images of some people kneeling against the windows of the store earlier on Tuesday, their hands seemingly bound. Reuters could not immediately independently verify the images.\n\n\"For Grupo Exito, protecting the people's lives and safety is our priority,\" the chain said in a statement.\n\n\"The situation at our store in Cartagena is being handled by the relevant authorities. As a company, we are following their guidance and their handling of the situation.\"\n\nFor more than 60 years, Colombia's left-wing rebel groups have battled the government and right-wing paramilitaries turned crime gangs in a civil war fuelled by the cocaine trade.\n\nSome respite came from a 2016 peace deal between the government and the leading guerrilla group, the FARC, which marks its 10th anniversary this week, but crime gangs remain hugely powerful and smaller rebel groups persist.\n\nAn overnight car blast near government offices in Villavicencio, the capital of the central department of Meta, injured 22, but there was no immediate claim of responsibility.\n\nDe La Espriella visited the blast site on Tuesday. (Reuters)\n\nEdited by Altis Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T01:46:54.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879166-20261125.htm"
     },
     {
       "id": "e70edcbacced2dea",
