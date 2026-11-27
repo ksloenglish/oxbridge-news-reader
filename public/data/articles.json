@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T10:15:20.331Z",
-  "checkedAt": "2026-11-27T11:00:34.976Z",
+  "generatedAt": "2026-11-27T11:15:19.815Z",
+  "checkedAt": "2026-11-27T11:15:19.815Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "c7fc1a1a4a513ddf",
+      "title": "90,000 users compromised in SmartPLAY data breach",
+      "excerpt": "Around 90,000 users of the government's SmartPLAY booking system for public sports and recreational facilities were involved in a data…",
+      "fullText": "Around 90,000 users of the government's SmartPLAY booking system for public sports and recreational facilities were involved in a data breach, according to the Office of the Privacy Commissioner for Personal Data (PCPD).\n\nThe privacy watchdog said on Friday that it has launched an investigation after being notified of the incident by the Leisure and Cultural Services Department.\n\nThe PCPD said that the compromised personal data may include names, gender, dates of birth, addresses, email addresses, and phone numbers.\n\nIt reminded members of the public to stay vigilant when they receive unknown or suspicious calls, messages, or emails, and refrain from opening attachments, accessing hyperlinks, or disclosing personal data.\n\n\"Even if the caller or message sender is able to state the individual's personal details, they should stop and think before providing further personal data or making payment,\" the office added.\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-27T11:05:58.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879523-20261127.htm"
+    },
     {
       "id": "59212c66e79e50dd",
       "title": "InnoParks veteran to lead Hung Shui Kiu Park",
@@ -610,17 +621,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879315-20261126.htm"
-    },
-    {
-      "id": "1b4a79ebcd4293d8",
-      "title": "Two-car crash disrupts Lion Rock Tunnel traffic",
-      "excerpt": "A traffic accident involving two private cars on Sha Tin Road led to traffic disruption at Lion Rock Tunnel on…",
-      "fullText": "A traffic accident involving two private cars on Sha Tin Road led to traffic disruption at Lion Rock Tunnel on Thursday morning.\n\nAll lanes of Sha Tin Road towards Ma On Shan, near Sun Tin Wai, were closed following the collision, and the queue of traffic backed up as far as Waterloo Road in Kowloon Tong.\n\nThe Transport Department said Lion Rock Tunnel traffic towards Sha Tin was subject to intermittent closure.\n\nAuthorities said a breathalyser test of one of the drivers indicated that the alcohol level exceeded the legal limit. The driver was taken to the police station for further investigation.\n\nTraffic in the area gradually returned to normal later in the morning.\n_____________________________\nLast updated: 2026-11-26 HKT 11:20\n\nEdited by Nazvi Careem",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T01:27:37.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879313-20261126.htm"
     },
     {
       "id": "314738d9bb0d8152",
