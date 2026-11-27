@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T12:45:20.703Z",
-  "checkedAt": "2026-11-27T13:00:30.728Z",
+  "generatedAt": "2026-11-27T13:15:19.012Z",
+  "checkedAt": "2026-11-27T13:15:19.012Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -368,6 +368,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261127/20261127_130149_374.html"
+    },
+    {
+      "id": "3235dca747e71f47",
+      "title": "LCSD probing SmartPLAY incident",
+      "excerpt": "The Leisure & Cultural Services Department confirmed today that, as reported by the SmartPLAY system contractor yesterday, the system was…",
+      "fullText": "The Leisure & Cultural Services Department confirmed today that, as reported by the SmartPLAY system contractor yesterday, the system was illegally accessed in a hacking incident involving personal data linked to around 90,000 Leisure Link accounts.\n\nUpon discovering the incident, the contractor said it took immediate measures to stop the hack and reviewed the system to ensure its normal operation.\n\nSmartPLAY provides services for users to book leisure facilities and enrol in activities, and replaced the old Leisure Link system in 2023.\n\nTo allow Leisure Link users to become SmartPLAY users, Leisure Link account data was transferred to the new SmartPLAY platform when the latter launched.\n\nTo speed up the process, SmartPLAY offers a “Reactivate Leisure Link Account” function that enables Leisure Link users, when applying to become SmartPLAY users, to retrieve their personal data from the old system automatically.\n\nPreliminary findings suggest that SmartPLAY's “Reactivate Leisure Link Account” function was hacked. The personal data involved includes dates of birth, telephone numbers, addresses, gender details and email addresses, along with the names of about 1,500 users.\n\nThe incident does not involve information on users' identity documents, and SmartPLAY does not store any payment information such as credit card details.\n\nAs most Leisure Link users have already created SmartPLAY accounts, the “Reactivate Leisure Link Account” function has been cancelled. The relevant Leisure Link data will be permanently removed from the SmartPLAY system.\n\nSmartPLAY's “forget patron number or password” function was also used by hackers, leading to the system sending out emails containing verification codes to affected users. This breach does not involve personal data.\n\nSmartPLAY users who did not use the function but received an emails from the system should ignore it. Users who have forgotten their password and intend to reset it may do so using their Hong Kong identity card at a leisure venue or a District Leisure Services Office with a Smart Self-Service Station.\n\nSmartPLAY has disabled the function for detailed checks, and a separate announcement will be made when it resumes.\n\nThe department said it is highly concerned about the incident and has asked the contractor to conduct a detailed investigation and submit a report. It has also reported the matter to the Police Force, the Security Bureau, the Digital Policy Office (DPO) and the Office of the Privacy Commissioner for Personal Data (PCPD).\n\nAdditionally, the department and the contractor are making arrangements to inform people affected, conduct a comprehensive review and strengthen protective measures on the system, with a view to preventing the recurrence of similar incidents. The department is also consulting the PCPD and the DPO in the process.\n\nWith the URBTIX and SmartPLAY systems having been illegally accessed by hackers in the past few days, the department will invite the force to determine if serious illegal activities are involved.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261127/20261127_193618_305/images/20261127203239777.jpg",
+      "publishedAt": "2026-11-26T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261127/20261127_193618_305.html"
     },
     {
       "id": "661ef462e4710a7c",
@@ -1171,17 +1182,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261124/20261124_195121_838.html"
-    },
-    {
-      "id": "e42f61c88844f84e",
-      "title": "Tiangong exhibit opens",
-      "excerpt": "The Hong Kong Space Museum will launch a free exhibition from tomorrow to July 19 next year to showcase astronauts’…",
-      "fullText": "The Hong Kong Space Museum will launch a free exhibition from tomorrow to July 19 next year to showcase astronauts’ lives aboard the Tiangong Space Station and the journey of the city's first payload specialist, Lai Ka-ying.\n\nTitled \"Reaching for the Cosmos: Astronauts' Log Aboard Tiangong\", the exhibition will take visitors through Ms Lai’s journey from the ignition of the Long March rocket and the liftoff of the Shenzhou spacecraft to boarding the Tiangong Space Station.\n\nIn addition to the work and lives of the country's astronauts on the space station, the exhibition will also introduce the latest technologies that China has applied aboard it, as well as Hong Kong’s participation and contributions.\n\nThrough interactive exhibits and models, visitors can learn about the Long March-2F rocket, the Shenzhou spacecraft, and the Tiangong Space Station. A full-scale model of the Multi-Spectral Imaging Carbon Observatory (MUSICO) – the first local scientific payload aboard the Tiangong Space Station – will also be displayed.\n\nTogether with interactive games and multimedia programmes, the exhibition introduces the functions of MUSICO and Tiangong's robotic arms, allowing visitors to try operating a robotic arm to move an object.\n\nThe exhibition will also showcase the expertise and responsibilities of spacecraft pilots, spaceflight engineers, and payload specialists in Shenzhou manned spaceflight missions, as well as the physical changes astronauts experience in space, how they cope with the unique challenges of living there, and the onboard dining and sleeping area equipment.\n\nHong Kong has long contributed to the country's aerospace programmes, drawing on its strengths in scientific research, innovation and technology to support various space missions.\n\nThe exhibition outlines the city's participation in manned spaceflight projects and educational programmes, encouraging young people to take an active part in space-related initiatives.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261124/20261124_175434_595/images/20261124193743942.jpg",
-      "publishedAt": "2026-11-23T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261124/20261124_175434_595.html"
     },
     {
       "id": "8536f0ee3f0a2042",
