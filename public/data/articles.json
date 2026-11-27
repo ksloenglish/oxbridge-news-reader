@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-11-27T14:45:20.846Z",
-  "checkedAt": "2026-11-27T15:45:20.441Z",
+  "checkedAt": "2026-11-27T16:00:33.804Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -58,8 +58,8 @@
       "url": "https://www.news.gov.hk/en/common/html/topstories.rss.xml",
       "category": "hk",
       "enabled": true,
-      "ok": false,
-      "error": "fetch failed",
+      "ok": true,
+      "error": null,
       "articleCount": 15
     },
     {
@@ -68,8 +68,8 @@
       "url": "https://www.news.gov.hk/en/categories/school_work/html/articlelist.rss.xml",
       "category": "hk",
       "enabled": true,
-      "ok": false,
-      "error": "fetch failed",
+      "ok": true,
+      "error": null,
       "articleCount": 6
     },
     {
