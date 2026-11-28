@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T01:45:19.889Z",
-  "checkedAt": "2026-11-28T02:00:29.017Z",
+  "generatedAt": "2026-11-28T02:13:36.895Z",
+  "checkedAt": "2026-11-28T02:13:36.895Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "384e983f63638c84",
+      "title": "US attacks cargo ship 'trying to run Iran blockade'",
+      "excerpt": "The US military says it disabled a Palau-flagged bulk carrier violating Washington's blockade of Iranian ports. Central Command (Centcom), which…",
+      "fullText": "The US military says it disabled a Palau-flagged bulk carrier violating Washington's blockade of Iranian ports.\n\nCentral Command (Centcom), which oversees US forces in the Middle East, said on Friday its aircraft had fired \"precision munitions\" on Thursday into the Pacific Archer's stern after it attempted to run the blockade.\n\n\"The ship's propulsion was ultimately disabled and the civilian crew was unharmed,\" it said, noting the incident occurred in the Gulf of Oman.\n\nThe Pacific Archer had left Bandar Abbas, an Iranian port on the Strait of Hormuz, it said.\n\nCentcom said it \"continues to strictly enforce the blockade\", which has seen six ships disabled and 158 others redirected.\n\nThe United States launched its blockade in mid-July following the collapse of a short-lived agreement with Iran.\n\nIran has meanwhile sought to impose its own blockade on ships transiting the Strait of Hormuz.\n\nIranian forces have made multiple announcements in recent weeks of ships catching fire attempting to use routes that Tehran considers off-limits.\n\nOn Monday, Iranian foreign ministry spokesman Esmaeil Baqaei vowed to use all means at the country's disposal to counter the US blockade.\n\nDiplomatic efforts to resolve the crisis – which broke out in late February with US and Israeli attacks on Iran – remain stalled, especially since the collapse of a June deal that laid out a pathway to a permanent settlement.\n\nIran has said Hormuz could be open within two days but only if Washington agreed to its list of demands, which include the lifting of the blockade. (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T01:58:57.000Z",
+      "source": "RTHK English — World",
+      "sourceFeed": "rthk-world",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879573-20261128.htm"
+    },
     {
       "id": "9870bda4343b9cd5",
       "title": "Taiwan’s elections offer Hong Kong and Chinese migrants freedoms denied at home",
@@ -830,17 +841,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879279-20261126.htm"
-    },
-    {
-      "id": "a68b9734836fdbeb",
-      "title": "31 dead after fuel truck overturns in Egypt",
-      "excerpt": "Thirty-one people were killed and 21 wounded in a fire after a vehicle carrying petroleum products overturned on a major…",
-      "fullText": "Thirty-one people were killed and 21 wounded in a fire after a vehicle carrying petroleum products overturned on a major ring road in Egypt, authorities said on Wednesday.\n\nThe fire broke out above a tunnel in Giza's Al-Warraq district, the public prosecution said. Preliminary estimates found that 27 vehicles, including cars and motorcycles, had been charred, it said, adding that casualty figures and damage were still being assessed.\n\nThe prosecution ordered DNA samples to be taken from the bodies of victims who had not yet been identified to establish their identities.\n\nThirty-nine ambulances took part in rescue operations, the health ministry said.\n\nVideos circulating on social media showed thick plumes of smoke billowing from the scene.\n\n\"The cars were charred, with people inside them. They did not have time to get out,\" Ali Youssef, who was at the scene, said. \"The fire burned the vehicles and the people inside.\"\n\nFootage from the scene in Giza showed firefighting vehicles, charred cars and minibuses, burnt motorcycles and debris scattered across the major ring road, while people and security personnel inspected the aftermath and a bulldozer moved damaged vehicles.\n\nThe ring road connects key highways across Greater Cairo, linking the governorates of Cairo, Giza and Qalyubia.\n\nThe health ministry said it had raised its emergency alert level and Health Minister Khaled Abdel Ghaffar had travelled to the scene and nearby hospitals.\n\nThe health minister's spokesman told state-linked al-Qahera News that \"the Ring Road has been reopened, and the remnants of the accident have been cleared.\"\n\nFootage carried by Al-Qahera News showed the charred truck's wreckage being removed, while traffic partially resumed around it.\n\nA spokesperson for the Egyptian Cabinet told local media that Prime Minister Mostafa Madbouly had ordered an investigation into the causes of the accident.\n\nHe said the government was awaiting a full clarification before determining \"future measures regarding the transport of petroleum products and ensuring safety and security during such transport operations\".\n\nRoad accidents are common in Egypt due to factors including speeding, weak enforcement of traffic regulations and poor road conditions.\n\nThe number of people killed in road accidents rose 10.8 percent to 5,829 in 2025 from 5,260 a year earlier, according to the state statistics agency CAPMAS.\n\nEgypt has expanded its road network in recent years, building highways and bridges under a broader infrastructure programme aimed at easing congestion and accommodating rapid population growth and urban expansion. The projects have improved traffic flow in some areas, but concerns over road safety persist. (Agencies)\n\nEdited by Cecil Wong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-25T23:13:10.000Z",
-      "source": "RTHK English — World",
-      "sourceFeed": "rthk-world",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879284-20261126.htm"
     },
     {
       "id": "cdd49bf1d3b246bf",
