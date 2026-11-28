@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T05:30:28.398Z",
-  "checkedAt": "2026-11-28T06:15:21.611Z",
+  "generatedAt": "2026-11-28T06:30:26.389Z",
+  "checkedAt": "2026-11-28T06:30:26.389Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -192,6 +192,17 @@
       "source": "Fox News — Tech",
       "sourceFeed": "fox-news-tech",
       "link": "https://www.foxnews.com/tech/ai-bionic-eye-breakthrough-restore-sight"
+    },
+    {
+      "id": "21361396237e810c",
+      "title": "FS visits Dutch health tech firm",
+      "excerpt": "Financial Secretary Paul Chan visited the research and development (R&D) campus of a major Dutch health technology firm and attended…",
+      "fullText": "Financial Secretary Paul Chan visited the research and development (R&D) campus of a major Dutch health technology firm and attended a luncheon hosted by a major Dutch bank during his trip to the Netherlands.\n\nContinuing his visit yesterday, Mr Chan led a Hong Kong business and innovation and technology (I&T) delegation to the Dutch city of Eindhoven.\n\nVisiting the R&D campus of Philips in Best, a major Dutch health technology company, he got a firsthand look at its latest breakthroughs in diagnostic imaging, image-guided therapy and artificial intelligence (AI) applications in healthcare.\n\nIn a follow-up exchange, the financial chief underscored Hong Kong's push to become an international I&T centre - highlighting the new measures to boost artificial intelligence and medical research outlined in Hong Kong’s first Five-Year Plan.\n\nHe also called on the company to expand its research and innovation footprint in Hong Kong to help bring more health-tech breakthroughs to market.\n\nLater in the day, Mr Chan and the delegation attended a luncheon hosted by a major Dutch bank, where they were briefed on Europe’s latest economic outlook and explored new avenues for bilateral co-operation.\n\nAs part of his itinerary, Mr Chan also met with the management of a major global alternative investment and asset management administration firm, where he was briefed on its business in Europe, Asia and Hong Kong.\n\nIn turn, Mr Chan introduced them to the latest developments in Hong Kong's asset and wealth management industry, as well as the policy measures designed to attract various types of funds, family offices and high-net-worth individuals to Hong Kong.\n\nHe encouraged the firm to leverage the Hong Kong platform to help its clients expand their business in Asia.\n\nThe Financial Secretary and the delegation will conclude their visit to the Netherlands today, and he will arrive back in Hong Kong tomorrow morning.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261128/20261128_103630_408/images/20261128135129326.jpg",
+      "publishedAt": "2026-11-27T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261128/20261128_103630_408.html"
     },
     {
       "id": "ef9e1bdc59d3e292",
@@ -1248,17 +1259,6 @@
       "source": "Radio Free Asia English",
       "sourceFeed": "rfa-english",
       "link": "https://rfa.org/english/pacific/2026/11/23/png-bougainville-independence-vote/"
-    },
-    {
-      "id": "5c9fc667bc45cdd7",
-      "title": "Hospital suspended from eHealth",
-      "excerpt": "The Health Bureau said today that it had suspended the eHealth registration of Gleneagles Hospital Hong Kong (GHK) upon notification…",
-      "fullText": "The Health Bureau said today that it had suspended the eHealth registration of Gleneagles Hospital Hong Kong (GHK) upon notification by the hospital yesterday of unauthorised activity resulting in leakage of patients’ personal data.\n\nGHK notified the bureau’s Electronic Health Record Office (eHRO) that on November 18 it discovered unauthorised activity involving the security infrastructure supporting its patient mobile application, My Gleneagles SmartHealth, resulting in unauthorised access to personal data, including that of certain patients.\n\nThe bureau said it is highly concerned about the incident and immediately suspended GHK's eHealth registration.\n\nGHK indicated that it has engaged independent cybersecurity experts to conduct an investigation, as well as reporting the incident to the relevant law enforcement and regulatory authorities. It will also notify the affected patients.\n\nThe bureau stated GHK is a registered healthcare provider on eHealth, adding that the GHK mobile application concerned has no direct connection to the eHealth system.\n\nThe overall operation of eHealth has remained normal, and there is no evidence indicating that the eHealth system has been compromised or that any personal data within the system has been leaked.\n\nThe eHRO nevertheless decided to suspend GHK's eHealth registration, in view of its principles of prudence and risk management, and in order to safeguard the eHealth system's security and integrity.\n\nThe Government will examine the situation, looking in particular at potential risks to eHealth and any system security protection measures that can be adopted. It will also disseminate relevant security guidelines to registered healthcare providers on eHealth.\n\nThe Department of Health said it immediately sent staff to GHK to look into the incident after receiving the hospital's notification yesterday. It has asked the hospital to submit a detailed investigation report on the incident within four weeks.\n\nIt also urged GHK to notify all affected patients as soon as possible, and to take appropriate measures to ensure that the incident does not affect the hospital’s operations and clinical services.",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261124/20261124_195121_838/images/20261124220730109.jpg",
-      "publishedAt": "2026-11-23T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261124/20261124_195121_838.html"
     },
     {
       "id": "8536f0ee3f0a2042",
