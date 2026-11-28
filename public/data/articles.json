@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T11:15:20.816Z",
-  "checkedAt": "2026-11-28T11:15:20.816Z",
+  "generatedAt": "2026-11-28T11:30:23.647Z",
+  "checkedAt": "2026-11-28T11:30:23.647Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "4dae326d16cae852",
+      "title": "App breach may expose 500,000 construction workers",
+      "excerpt": "The personal data of some 500,000 registered construction workers was potentially exposed on Saturday after unauthorized access was discovered on…",
+      "fullText": "The personal data of some 500,000 registered construction workers was potentially exposed on Saturday after unauthorized access was discovered on the Construction Industry Council (CIC) app server.\n\nThe information that may have been accessed includes names, dates of birth and ID numbers, though no financial data was involved.\n\nThe CIC app is used by workers for registration, attendance checks as well as job searches.\n\nThe council has suspended the app's operation and reported the incident to the police.\n\nIt said it has called in a third-party cybersecurity forensics expert and notified the Office of the Privacy Commissioner for Personal Data as well as the Digital Policy Office.\n\nIt apologised for the incident, vowing to continue strengthening its cybersecurity measures and adding that it would notify affected workers as soon as possible.\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T11:13:31.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879607-20261128.htm"
+    },
     {
       "id": "10985f789bef1c63",
       "title": "All systems go: mainland ready for Shenzhou-23 return",
@@ -709,17 +720,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879389-20261126.htm"
-    },
-    {
-      "id": "ca32e9affa8313a7",
-      "title": "Odds 'favour car owners who passed ride-hailing tests'",
-      "excerpt": "Automobile owners who have already passed the combined written test for driving taxis and ride-hailing vehicles stand to have a…",
-      "fullText": "Automobile owners who have already passed the combined written test for driving taxis and ride-hailing vehicles stand to have a higher chance of obtaining a ride-hailing vehicle permit, authorities said, revealing that a lottery draw will be held if applications exceed the 10,000-permit cap.\n\nSpeaking on Thursday, Commissioner for Transport Winnie Tse announced that applications for ride-hailing vehicle driving permits would open from 10am on Monday, with no cap on the number issued.\n\nShe also revealed that applications for the vehicle permits would open early next year.\n\nUnder the “one person, one vehicle” rule, people hoping to provide ride-hailing services must hold both a vehicle permit and a driving permit, and can only operate on the car that they own.\n\nTse said feedback since the combined driving written test was introduced in August and designated driving schools began offering pre-service courses had been encouraging.\n\nOn how the vehicle permit allocation would work in the event that officials receive a flood of applications, she said that \"in case the application number for a vehicle permit exceeds the statutory limits of 10,000, we will adopt a drawing-lots arrangement to allocate the permit, and that's why we will have an additional chance for them.\n\n“For example, in case they have already passed that combined test, in case they have already obtained the driving permit, these persons will be given a higher chance to succeed in obtaining the vehicle permit.”\n\nAn inter-departmental working group, Tse added, is reviewing at full speed the eight applications received for ride-hailing platform licences.\n\nThe authorities, she stressed, will not restrict drivers from joining multiple platforms.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T09:55:33.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879385-20261126.htm"
     },
     {
       "id": "227500b60b862fb0",
