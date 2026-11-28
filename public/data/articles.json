@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T04:30:25.788Z",
-  "checkedAt": "2026-11-28T05:15:18.995Z",
+  "generatedAt": "2026-11-28T05:30:28.398Z",
+  "checkedAt": "2026-11-28T05:30:28.398Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "9d6da17c7cdcb486",
+      "title": "'Decision on Wang Fuk site's future may take years'",
+      "excerpt": "Acting Housing Secretary Michael Wong on Saturday said the long-term future of the Wang Fuk Court site could take years…",
+      "fullText": "Acting Housing Secretary Michael Wong on Saturday said the long-term future of the Wang Fuk Court site could take years to finalise.\n\nWong, who is also the deputy financial secretary, was speaking on Commercial Radio, two days after the first anniversary of the fire at the Tai Po Estate that killed 168 people.\n\nThe government has made it clear that the site will not be used for redevelopment or profit but for community facilities or a park once the land is recovered.\n\n\"Consolidating ownership rights and the eventual demolition of the buildings will also require time,\" he said.\n\n\"These relevant procedures will be carried out over the coming years.\n\n\"As for the specific nature of the park and the associated community facilities, there will be opportunities to discuss and address these matters with the community in the years ahead.\"\n\nWhen asked whether a memorial park would be built, similar to memorials created after the Sichuan earthquake in 2008 and the 9/11 attacks, Wong said he would not speculate on specifics at this stage.\n\n\"This is a serious matter that requires consideration for the feelings of various stakeholders,\" he said.\n\n\"The process will span several years and involve aspects such as land planning and the specific design of the park. Therefore, I do not intend to speculate on the details.\"\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T05:11:17.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879584-20261128.htm"
+    },
     {
       "id": "c2da824da979e979",
       "title": "Race to pave way for smooth run as Route 6 fully opens",
@@ -687,17 +698,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879346-20261126.htm"
-    },
-    {
-      "id": "fc5b7ae54ff16459",
-      "title": "Driver arrested over Sha Tin Road collision",
-      "excerpt": "A man was arrested on Thursday for alleged drink-driving and dangerous driving following a two-car crash on Sha Tin Road…",
-      "fullText": "A man was arrested on Thursday for alleged drink-driving and dangerous driving following a two-car crash on Sha Tin Road.\n\nPolice said the two vehicles were heading towards Tai Po at around 7.45am when one of them was suspected to have gone out of control and swerved into the other near Pok Hong Estate.\n\nBoth then hit water-filled barriers, with one ending upside down and the other on its side.\n\nA 37-year-old driver was arrested after failing a breathalyser test.\n\nThe other driver and a passenger were hospitalised.\n\nThe crash severely disrupted traffic, with Lion Rock Tunnel towards Sha Tin subject to intermittent closure, before returning to normal later in the morning.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T06:17:56.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879348-20261126.htm"
     },
     {
       "id": "ce5830667d0fe2c9",
