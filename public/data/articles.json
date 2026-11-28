@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-27T21:45:18.851Z",
-  "checkedAt": "2026-11-28T00:30:25.453Z",
+  "generatedAt": "2026-11-28T00:45:18.319Z",
+  "checkedAt": "2026-11-28T00:45:18.319Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,28 @@
     }
   ],
   "articles": [
+    {
+      "id": "ce09ec95c04b2945",
+      "title": "Chelsea lose again, going down to Nottingham Forest",
+      "excerpt": "Chelsea suffered an embarrassing 3-2 defeat at Nottingham Forest on Friday as Morgan Gibbs-White's double piled pressure on beleaguered Blues…",
+      "fullText": "Chelsea suffered an embarrassing 3-2 defeat at Nottingham Forest on Friday as Morgan Gibbs-White's double piled pressure on beleaguered Blues boss Xabi Alonso.\n\nAlonso's side crashed to a fourth defeat in their last five Premier League matches after another laboured performance at the City Ground.\n\nIgor Jesus's early opener set the tone for Chelsea's dispiriting evening by the banks of the River Trent.\n\nGibbs-White's second half penalty increased Forest's lead and Emmanuel Emegha's quick reply proved a false dawn for Chelsea.\n\nGibbs-White struck again and Emegha's second goal came too late for ashen-faced Alonso as the reality of Chelsea's plight sank in.\n\nAfter last weekend's dismal 4-1 home loss to Leeds, Chelsea's tame surrender was the last thing Alonso needed as he struggles in his first season in charge.\n\nChelsea are languishing in eighth place after a sixth defeat in their 12 league games under Alonso, a position that is likely to get even worse after the rest of the weekend's fixtures.\n\nChelsea's third successive defeat will inevitably trigger speculation that Alonso is in danger of being sacked after a miserable start to his first spell as a Premier League manager.\n\nThe absence of injured Brazilian striker Joao Pedro has stalled Chelsea's previously powerful attack, while their error-prone defence has already shipped 23 league goals after allowing lowly Forest to run riot.\n\nFailure to beat bottom of the table Crystal Palace on Wednesday would turn the heat up even further on the former Real Madrid and Bayer Leverkusen boss.\n\nAdmitting his team needed \"strong characters and big personalities\", Alonso handed starts to vastly experienced duo Jordan Henderson and Danny Welbeck.\n\nBut Chelsea's grizzled veterans could do nothing to stop Forest taking the lead in eye-catching style in the fifth minute.\n\nDaniel Munoz's cross arrowed towards Jesus 12 yards from goal and the Brazilian unleashed a blistering volley that flashed into the top corner as Chelsea keeper Emiliano Martinez grasped at thin air.\n\nChelsea struggled to respond to that blow and even when they had a rare sight of goal, Morgan Rogers blazed wildly over.\n\nDespite having Levi Colwill available, Alonso opted to start Ecuador midfielder Moises Caicedo at centre-back in a move that backfired badly.\n\nIntriguingly, Wesley Fofana featured for Chelsea after apologising for a controversial YouTube interview in which the defender joked about his penalty miss in a League Cup shoot-out defeat against Liverpool this season.\n\nThe Chelsea fans packed into one end of the City Ground weren't as forgiving as Alonso, subjecting Fofana to jeers whenever he touched the ball.\n\nThe Blues were desperately short of intensity and rhythm, mustering just three touches in the Forest area in the first half, so Alonso sent on Emegha for Welbeck at the interval.\n\nBut the striker's introduction ignored the holes in Chelsea's porous defence and their situation grew more desperate in the 51st minute.\n\nFofana's approval rating with Chelsea supporters plunged even lower as he carelessly bundled over former Blues striker Liam Delap to concede a penalty that Gibbs-White dispatched with ease.\n\nFofana was hauled off to save him from any further opprobrium.\n\nEmegha reduced the deficit three minutes later, firing into the bottom corner after Pedro Neto's effort deflected to him 10 yards from goal.\n\nAlonso's men tried to rally, appealing in vain for a penalty after Jair Cunha's arm made contact with the ball.\n\nBut Forest delivered the knockout blow in the 72nd minute.\n\nXaver Schlager floated a pin-point pass behind the flat-footed Chelsea defence and Gibbs-White made a perfectly-timed run to clip a composed shot past Martinez from close-range.\n\nEmegha's 89th minute strike gave the scoreline a more flattering look than Chelsea deserved for a moribund performance. (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T00:33:09.000Z",
+      "source": "RTHK English — Sport",
+      "sourceFeed": "rthk-sport",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879567-20261128.htm"
+    },
+    {
+      "id": "8f12f45b338b3f0a",
+      "title": "Wall Street ends shortened trading day on a high note",
+      "excerpt": "US stock markets ended higher on Friday, closing out a shortened trading week marked by both a surge in stock…",
+      "fullText": "US stock markets ended higher on Friday, closing out a shortened trading week marked by both a surge in stock indexes and heavy selling of technology shares.\n\nThe Dow Jones Industrial Average rose 1.2 percent to 50,775, the Nasdaq Composite rose 2.3 percent to 24,129, and the S&P 500 rose 1.6 percent to 7,297.\n\nAfter shutting for Thanksgiving on Thursday, US markets closed early on Friday.\n\nAs Black Friday shopping got underway, online retail giant Amazon gained 4 percent.\n\nThe biggest gains came from stocks directly linked to artificial intelligence, including chipmakers Micron and AMD. Memory specialist SanDisk surged nearly 16 percent.\n\nOnly tech giant Nvidia posted more modest gains, edging up just 0.80 percent. (AFP)\n\nEdited by Robert Kemp",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T00:21:18.000Z",
+      "source": "RTHK English — Finance",
+      "sourceFeed": "rthk-finance",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879566-20261128.htm"
+    },
     {
       "id": "610adc002bc1e9e6",
       "title": "Hamas accuses Israel of attack on son of Hamas chief",
@@ -1151,17 +1173,6 @@
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879127-20261124.htm"
     },
     {
-      "id": "326076aa5917fe1b",
-      "title": "HK, mainland slip amid cheer at Huang shot in the arm",
-      "excerpt": "Mainland stocks lagged a powerful global rally on Tuesday, after Nvidia's reinstatement of Jensen Huang as CEO fired up AI-related…",
-      "fullText": "Mainland stocks lagged a powerful global rally on Tuesday, after Nvidia's reinstatement of Jensen Huang as CEO fired up AI-related shares, with investors betting the bridging role he played between China and the United States had diminished.\n\nWhile the move helped reverse part of last week's global equity rout, the boost to mainland and Hong Kong shares was far more muted than the surge seen in South Korea, Japan and the United States.\n\nThe benchmark Hang Seng Index ended 164 points, or 0.7 percent, lower at 22,219 on turnover of HK$212.63 billion.\n\nThe tech index lost 41 points, or 1.2 percent, to end at 3,466 while the China enterprises index fell 75 points, or one percent, to 7,452.\n\nOn the mainland, the benchmark Shanghai Composite Index ended up nine points, or 0.27 percent at 3,548 after falling to its lowest since July 2025 on Monday, with traders saying state investors were buying some key index ETFs to lift the market.\n\nThe Shenzhen Component Index closed 30 points, or 0.29 percent, lower at 10,423 while the ChiNext edged down one points, or 0.05 percent, to 2,278.\n\nEven some of the AI-linked winners struggled to hold their gains.\n\nThe 5G Communication Index rose as much as seven percent in early trade before trimming its advance to 1.2 percent by market close, while Zhongji Innolight, an Nvidia supplier of optical transceivers, surged as much as 12 percent before giving up all of its gains.\n\n\"This is definitely a shot in the arm, as you can see from this morning's trading,\" said Zeng Wenkai, chief investment officer at Hong Kong-based Shengqi Capital.\n\n\"But A-shares and Hong Kong stocks follow their own patterns, independent of global markets, so it still comes down to how forcefully the 'national team' steps in to support the market this time,\" he said, referring to China's state-backed investors that buy stocks to stabilise markets.\n\nMainland stocks have fallen more than 10 percent this year, breaking a two-year rally that began when stimulus pledges sent shares soaring, and stalling Beijing's efforts to break a long-standing boom-bust cycle in favour of a \"slow bull\" market that delivers steady returns.\n\nRegulators have also moved to shore up sentiment, with China's three main exchanges announcing on Sunday a package of market-support measures, including easier margin-financing rules.\n\nZeng Wanping, a fund manager at Beijing Monolith Fund Management, said Huang's return would benefit Chinese firms in Nvidia's supply chain, but the United States would not relax chip controls against China.\n\n\"Huang's return was partly due to the Wall Street slump. It was not designed to rescue China's stock market,\" he said.\n\nThe tech-focused Star50 Index rose just 1.6 percent while memory-chip giant CXMT gained merely one percent.\n\nIn Tokyo, the Nikkei ended nearly 2,208 points, or 3.91 percent, at 58,644, with Nvidia-linked stock surges of 14.89 percent for Murata Manufacturing, 12.45 percent for Advantest and 11.54 percent for Furukawa Electric.\n\nThe broader Topix gained 90 points, or 2.47 percent, to end at 3,764.\n\nIn Seoul, the Kospi ended surged 297 points, or 6.32 percent, at 5,006, with Nvidia connections paying off in gains of 6.7 percent for Samsung Electronics, 6.73 percent for SK Hynix, 11.1 percent for Hyundai Motor, 15.9 percent for LG Electronics and 4.1 percent for e-commerce firm Naver. (Agencies)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-24T09:23:23.000Z",
-      "source": "RTHK English — Finance",
-      "sourceFeed": "rthk-finance",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879086-20261124.htm"
-    },
-    {
       "id": "58ba2c2c45b23efe",
       "title": "Huawei passes 100m mark in HarmonyOS takeup",
       "excerpt": "Huawei on Tuesday announced that the number of smartphones, tablets and computers running its self-developed HarmonyOS operating system has exceeded…",
@@ -1424,17 +1435,6 @@
       "source": "RTHK English — Sport",
       "sourceFeed": "rthk-sport",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1878741-20261122.htm"
-    },
-    {
-      "id": "bf61339a9d08bd83",
-      "title": "Fulham add to City misery and Leeds crush Chelsea",
-      "excerpt": "Manchester City's winless Premier League run extended to four games after failing to beat Fulham for the first time in…",
-      "fullText": "Manchester City's winless Premier League run extended to four games after failing to beat Fulham for the first time in 21 attempts on Saturday, as Leeds thrashed Chelsea 4-1 at Stamford Bridge.\n\nAfter seven consecutive league wins to start Enzo Maresca's reign, the off-field uncertainty appears to have derailed City's quest to topple defending champions Arsenal.\n\nFulham had lost every meeting against City for the past 15 years, but got their reward after striking early through Rodrigo Muniz.\n\nThe home side were furious that Erling Haaland's equaliser before half-time was controversially ruled out as the Norwegian was deemed to have kicked the ball out of the grasp of Bernd Leno.\n\nElliot Anderson's sweet strike saved City from a fourth consecutive defeat, but they were booed off after another disappointing display ended 1-1.\n\n\"Almost 80 percent of the goals we concede are in the first 20 minutes and it's for sure something we need to improve,\" said Maresca.\n\nLeeds climbed into the top six after coming from behind to stun Chelsea.\n\nEmmanuel Emegha's first Chelsea goal opened the scoring, but the Blues have now lost four of their last five matches to put manager Xabi Alonso under scrutiny.\n\nNoah Okafor quickly levelled for Leeds before Dominic Calvert-Lewin put the visitors in front from the penalty spot.\n\nOkafor delivered a thumping finish into the top corner and Brenden Aaronson delivered the final blow in stoppage time as Leeds savoured a famous win at the home of one of their historic rivals.\n\nBournemouth climbed into the Champions League places as their sensational run continued with a 2-0 win over Nottingham Forest.\n\nEvanilson struck for the sixth consecutive league game and Justin Kluivert added a second as the Cherries' winning run in all competitions stretched to nine games.\n\nTottenham are also marching up the table after a difficult start to the campaign.\n\nTeenager Luca Williams-Barnett was the star of a 2-0 win over Ipswich as he netted on his first Premier League start before Dominic Solanke added a second to secure a fourth win in five for Roberto De Zerbi's men.\n\nThomas Frank's arrival at Crystal Palace failed to inspire a turnaround in the Eagles' fortunes as they lost 3-2 at Coventry to remain bottom of the table.\n\nDwight McNeil's late own goal gave the Sky Blues a vital victory in their quest for survival back in the top flight after four goals were shared in a thrilling first half.\n\nSunderland frustrated Aston Villa in a 0-0 draw that lifted the Black Cats above Manchester United in the relegation zone.\n\nIn the late game, Arsenal missed the chance to open up an eight-point lead at the top of the Premier League after a stirring second-half fightback from Newcastle held the defending champions to a 2-2 draw.\n\nThe Gunners led through Eberechi Eze's strike after a dominant first 45 minutes.\n\nBut Mikel Arteta's men were suddenly headed for defeat when goals from Harvey Barnes and Malick Thiaw provided a much-needed boost for under-fire Newcastle boss Matthias Jaissle.\n\nNoni Madueke salvaged a point for Arsenal and stretched their lead at the top over surprise package Brighton to six points.\n\nHowever, the loss of influential goalkeeper David Raya to injury could provide a twist in the title race that many believed Arsenal would cruise.\n\nNewcastle remain in the bottom half of the table with just one win in six games in all competitions. (AFP)\n\nEdited by Tony Sabine",
-      "imageUrl": null,
-      "publishedAt": "2026-11-21T23:48:53.000Z",
-      "source": "RTHK English — Sport",
-      "sourceFeed": "rthk-sport",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1878740-20261122.htm"
     },
     {
       "id": "166b1fd60007387a",
