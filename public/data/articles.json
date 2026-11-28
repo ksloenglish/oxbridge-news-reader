@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T06:30:26.389Z",
-  "checkedAt": "2026-11-28T07:30:24.457Z",
+  "generatedAt": "2026-11-28T07:45:22.382Z",
+  "checkedAt": "2026-11-28T07:45:22.382Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "82925bc354761a35",
+      "title": "Tech networking 'key in Hung Shui Kiu university race'",
+      "excerpt": "Secretary for Education Christine Choi said she hopes the university town in Hung Shui Kiu will foster collaboration across disciplines…",
+      "fullText": "Secretary for Education Christine Choi said she hopes the university town in Hung Shui Kiu will foster collaboration across disciplines, industries and institutions.\n\nSpeaking on a television programme on Saturday, she said institutions bringing courses and research laboratories into the town, which forms part of the Northern Metropolis mega project, should also look to collaborate with other universities.\n\n\"High-end intelligent manufacturing includes many aspects and is closely related to artificial intelligence and the latest innovation and technology,\" she said.\n\n\"So when institutions bring courses or research laboratories into the Northern Metropolis development, we hope they will be interdisciplinary, cross-industry, or able to cooperate across institutions.\"\n\nRegarding the Hung Shui Kiu university town development, Choi said she trusts that institutions are in discussions with the industry.\n\nThe three Hung Shui Kiu campus area sites, totalling about 26 hectares, are open for applications until December 31.\n\nThe project, one of three university towns planned for the Northern Metropolis, is the first to be launched. Choi said each of the three sites has attracted interest from institutions.\n\nThe collaboration push comes as the government expects loan applications for the university town to exceed the HK$10 billion originally earmarked because the sites are larger than first planned.\n\nChoi said the HK$10 billion should be enough to start the project and that the government would seek additional funding if needed.\n\nShe went on to say that proposals would be assessed comprehensively, taking into account the financial strength and development strategies of the educational organisations.\n\nEdited by Azam Khan",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T07:37:52.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879586-20261128.htm"
+    },
     {
       "id": "9d6da17c7cdcb486",
       "title": "'Decision on Wang Fuk site's future may take years'",
@@ -698,17 +709,6 @@
       "source": "RTHK English — Local",
       "sourceFeed": "rthk-local",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879360-20261126.htm"
-    },
-    {
-      "id": "ec0adc6da9f7275b",
-      "title": "AI bot to help teachers nip mental health woes in bud",
-      "excerpt": "A cross-sector coalition of three universities and a mental health and wellness association has launched MentAl Bot, a digital platform…",
-      "fullText": "A cross-sector coalition of three universities and a mental health and wellness association has launched MentAl Bot, a digital platform designed to help Hong Kong teachers better recognise and respond to students' mental health needs.\n\nThe researchers described it as the first systematic mental health training programme in Hong Kong built on the World Health Organization's International Classification of Diseases (ICD-11) classification, translating an internationally used diagnostic framework into practical learning material for people without medical training.\n\nThe project brings together researchers from Polytechnic University's department of applied social sciences, Chinese University 's psychology department and Shue Yan University's department of counselling and psychology, as well as the Association of Professional Mental Health and Wellness Education.\n\nIn its first phase starting on Thursday, the platform will be rolled out to 300 university students and 300 teachers across 20 secondary, primary and special schools.\n\nParticipants begin with modules on mental health literacy and depression, with sessions on anxiety and bipolar disorder to be followed later.\n\nContent is delivered through video case studies and gamified interactive learning experiences, with the aim of giving educators with no psychology or medical background a working grasp of core concepts.\n\nAssociation chairwoman Amy Lam said MentAl Bot is not intended to turn teachers into clinicians or to have them diagnosing students.\n\n“Our mission is to empower teachers to understand mental health issues in a very fundamental manner with international recognised standards,” she said.\n\n“After attending the four sections provided by MentAI Bot, it is hoped our teachers will be more confident when they face students with mental health challenges.”\n\nMentAl Bot, Lam said, aims to give educators sufficient knowledge to spot problems, respond sensibly, and judge when a case should be referred on.\n\nThe platform's developers also hope the approach will chip away at the stigma that still surrounds mental health in schools.\n\nThe team will track how participants use the material and gather feedback from frontline staff, to refine the content and decide which modules to develop next.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T07:46:02.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879346-20261126.htm"
     },
     {
       "id": "ce5830667d0fe2c9",
