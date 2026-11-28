@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T08:45:22.143Z",
-  "checkedAt": "2026-11-28T08:45:22.143Z",
+  "generatedAt": "2026-11-28T09:00:30.398Z",
+  "checkedAt": "2026-11-28T09:00:30.398Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -94,6 +94,17 @@
     }
   ],
   "articles": [
+    {
+      "id": "150cbccaae214fbe",
+      "title": "200 flee building scaffolding fire in Tuen Mun",
+      "excerpt": "A scaffolding net caught fire on the exterior wall of an industrial building in Tuen Mun on Saturday afternoon, forcing…",
+      "fullText": "A scaffolding net caught fire on the exterior wall of an industrial building in Tuen Mun on Saturday afternoon, forcing about 200 people to evacuate.\n\nThe Fire Services Department said the blaze started at around 2pm at the building on Kin Fat Lane and classified it as a No 1 alarm fire.\n\nOne jet and one breathing apparatus team were sent to fight the fire, which has since been largely extinguished.\n\nNo injuries have been reported so far.\n\nThe incident occurred on a day when the Observatory had issued the red fire danger warning, indicating extreme risks.",
+      "imageUrl": null,
+      "publishedAt": "2026-11-28T08:49:06.000Z",
+      "source": "RTHK English — Local",
+      "sourceFeed": "rthk-local",
+      "link": "https://news.rthk.hk/rthk/en/component/k2/1879595-20261128.htm"
+    },
     {
       "id": "a52b647aac101c05",
       "title": "OpenAI countersues Apple as partnership gets uglier",
@@ -731,17 +742,6 @@
       "source": "RTHK English — World",
       "sourceFeed": "rthk-world",
       "link": "https://news.rthk.hk/rthk/en/component/k2/1879349-20261126.htm"
-    },
-    {
-      "id": "af12caab402bda9d",
-      "title": "SmarTone apologises over unstable network services",
-      "excerpt": "Telecommunication services provider SmarTone apologised on Thursday for inconvenience to customers as a result of unstable network services in some…",
-      "fullText": "Telecommunication services provider SmarTone apologised on Thursday for inconvenience to customers as a result of unstable network services in some areas.\n\nIt said at 3.45pm that network services were gradually returning to normal.\n\nIt advised users who were unable to use its services to restart their phones or turn airplane mode on and off, and contact the company if the problem persists.\n\nThe resumption came after the mobile network provider said at around 3pm that “we are actively investigating and following up on the matter, making every effort to minimise the impact on customers”.\n\nSome residents had complained on SmarTone's Facebook page about their inability to make any calls, access the internet or reach customer service personnel on the company's hotline.\n\nEdited by Edmond Fong",
-      "imageUrl": null,
-      "publishedAt": "2026-11-26T08:17:08.000Z",
-      "source": "RTHK English — Local",
-      "sourceFeed": "rthk-local",
-      "link": "https://news.rthk.hk/rthk/en/component/k2/1879367-20261126.htm"
     },
     {
       "id": "ce5830667d0fe2c9",
