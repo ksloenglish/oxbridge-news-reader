@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T11:30:23.647Z",
-  "checkedAt": "2026-11-28T11:45:17.510Z",
+  "generatedAt": "2026-11-28T12:00:31.692Z",
+  "checkedAt": "2026-11-28T12:00:31.692Z",
   "feeds": [
     {
       "id": "rthk-local",
@@ -291,6 +291,17 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261128/20261128_103630_408.html"
+    },
+    {
+      "id": "655720f34da003aa",
+      "title": "CE presents honours awards",
+      "excerpt": "Chief Executive John Lee today recognised 302 recipients on the first day of the 2026 Honours & Awards Presentation Ceremony…",
+      "fullText": "Chief Executive John Lee today recognised 302 recipients on the first day of the 2026 Honours & Awards Presentation Ceremony, held at Government House.\n\nAmong the recipients , three individuals - Chan Kin-por, Prof Lawrence Lau, and Lam Kwong-siu - received the Grand Bauhinia Medal, eight others received the Gold Bauhinia Star, and one was posthumously awarded the Medal for Bravery (Gold), which was accepted on their behalf by family members.\n\nIn addition, 19 people received the Silver Bauhinia Star, 12 were awarded Distinguished Service Medals, which recognise members of the disciplined services and the Independent Commission Against Corruption (ICAC). Meanwhile, 38 received the Bronze Bauhinia Star, and six received the Medal for Bravery (Bronze).\n\nForty-six people received the Meritorious Service Medal, which is also awarded to members of the disciplined services and the ICAC. A further 98 received the Medal of Honour, and 71 received the Chief Executive's Commendation for Community Service.",
+      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261128/20261128_182906_595/images/20261128192311814.jpg",
+      "publishedAt": "2026-11-27T16:00:00.000Z",
+      "source": "news.gov.hk — Top Story",
+      "sourceFeed": "news-gov-hk-top",
+      "link": "https://www.news.gov.hk/eng/2026/11/20261128/20261128_182906_595.html"
     },
     {
       "id": "ec59c0fc78c3fa86",
@@ -1149,17 +1160,6 @@
       "source": "news.gov.hk — Top Story",
       "sourceFeed": "news-gov-hk-top",
       "link": "https://www.news.gov.hk/eng/2026/11/20261125/20261125_162513_250.html"
-    },
-    {
-      "id": "a2f86bf9f001108f",
-      "title": "Drug formulary to launch on Dec 30",
-      "excerpt": "The Health Bureau announced today that the Community Drug Formulary (CDF) will be launched on December 30. From that date…",
-      "fullText": "The Health Bureau announced today that the Community Drug Formulary (CDF) will be launched on December 30. From that date, family doctors under the Primary Healthcare Co-care Network will prescribe drugs from the CDF instead of the current basic-tier drug list.\n\nThe CDF expands drug coverage to include medications in more disease categories, with patient drug co-payments for newly added drugs costing only about one-tenth to one-third of market prices. Coupled with the drug co-payment subsidy introduced by the Government for Co-care Network participants, the formulary will alleviate long-term medication expenses for chronic disease patients.\n\nThe CDF covers a total of 151 drugs, including 38 newly added drug items. Coverage is expanded beyond the current eight chronic diseases, such as diabetes mellitus and hypertension, and 11 episodic illnesses, which include upper respiratory tract infection and gastroenteritis, to encompass disease categories such as urology, ophthalmology and dermatology.\n\nThe Government will review the CDF periodically, with a long-term goal of covering up to 200 to 400 drug items.\n\nThe CDF comprises three tiers. Tier 1 consists of 146 non-patented drugs and Tier 2 of five patented drugs. Tier 3 is a special category with no drugs being introduced at this stage.\n\nThe Government will provide an annual drug co-payment subsidy of $200 for each co-care network participant to directly offset Tier 1 drug expenses. The subsidy is valid for the current year only, and any unused balance will not be carried forward to the following year. Patients will receive SMS notifications confirming details of their co-payments and subsidy deductions. Eligible elderly people under the co-care network can also use their Elderly Health Care Vouchers.\n\nCurrently, around 70,000 patients who have completed screening for the “three highs” – high blood pressure, high blood sugar, and high blood lipids – or chronic hepatitis B, and who have3 entered treatment under the co-care network will be the first to benefit from the CDF.\n\nIn the media briefing today, Commissioner for Primary Healthcare Dr Pang Fei-chau highlighted that the CDF demonstrates the Government’s strong commitment to developing primary healthcare services in the community, and to giving citizens access to affordable drugs for chronic diseases and episodic illnesses.\n\nHe said: “We will try to lower the market prices of the drugs for major chronic diseases that we hope the citizens can get the service for in the community.\n\n“We will try to use different methods to do it, including the tendering process, so that we can have a better drug price for the people. When they have a chronic disease, they can have more affordable conditions to follow up in the private sector.”",
-      "imageUrl": "https://www.news.gov.hk/eng/2026/11/20261125/20261125_141422_158/images/20261125162712805.jpg",
-      "publishedAt": "2026-11-24T16:00:00.000Z",
-      "source": "news.gov.hk — Top Story",
-      "sourceFeed": "news-gov-hk-top",
-      "link": "https://www.news.gov.hk/eng/2026/11/20261125/20261125_141422_158.html"
     },
     {
       "id": "ae94d86fc39a8762",
